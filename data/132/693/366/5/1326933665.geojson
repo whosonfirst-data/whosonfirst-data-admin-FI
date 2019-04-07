@@ -1,0 +1,75 @@
+{
+  "id": 1326933665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6896,60.80916,21.6896,60.80916",
+    "geom:latitude":60.80916,
+    "geom:longitude":21.6896,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"895.0",
+    "gn:asciiname":"Suutarinkatu",
+    "gn:country_code":"FI",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":852726,
+    "gn:latitude":60.80916,
+    "gn:longitude":21.6896,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Suutarinkatu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198615,
+        85633143,
+        404227405,
+        136253047,
+        1159321637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":852726
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"78b4a38689d5f35f6df9a4d9b1f6f3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321637,
+            "empire_id":136253047,
+            "localadmin_id":907198615,
+            "locality_id":1326933665,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1326933665,
+    "wof:lastmodified":1536902775,
+    "wof:name":"Suutarinkatu",
+    "wof:parent_id":907198615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6896,
+    60.80916,
+    21.6896,
+    60.80916
+],
+  "geometry": {"coordinates":[21.6896,60.80916],"type":"Point"}
+}

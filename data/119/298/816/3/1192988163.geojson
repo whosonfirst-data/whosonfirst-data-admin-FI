@@ -1,0 +1,75 @@
+{
+  "id": 1192988163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.76058,63.47451,24.76058,63.47451",
+    "geom:latitude":63.47451,
+    "geom:longitude":24.76058,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"161.0",
+    "gn:admin3_code":"421.0",
+    "gn:asciiname":"Yli-Lesti",
+    "gn:country_code":"FI",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630886,
+    "gn:latitude":63.47451,
+    "gn:longitude":24.76058,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Yli-Lesti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683125,
+        102191581,
+        907199175,
+        85633143,
+        404227417,
+        136253047,
+        1159321595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630886
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"810daf6a4f5a8122d4117ed016597c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321595,
+            "empire_id":136253047,
+            "localadmin_id":907199175,
+            "locality_id":1192988163,
+            "macroregion_id":404227417,
+            "region_id":85683125
+        }
+    ],
+    "wof:id":1192988163,
+    "wof:lastmodified":1536383783,
+    "wof:name":"Yli-Lesti",
+    "wof:parent_id":907199175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.76058,
+    63.47451,
+    24.76058,
+    63.47451
+],
+  "geometry": {"coordinates":[24.76058,63.47451],"type":"Point"}
+}

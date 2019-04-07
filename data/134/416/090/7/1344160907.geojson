@@ -1,0 +1,82 @@
+{
+  "id": 1344160907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.11397,60.29243,25.11397,60.29243",
+    "geom:latitude":60.29243,
+    "geom:longitude":25.11397,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"92.0",
+    "gn:asciiname":"Itae-Hakkila",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":847521,
+    "gn:latitude":60.29243,
+    "gn:longitude":25.11397,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"It\u00e4-Hakkila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0442\u044f-\u0425\u0430\u043a\u043a\u0438\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d6stra Haxb\u00f6le"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907199651,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":847521
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"24ac7df4cb6a4c59669daa54a44f5ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907199651,
+            "locality_id":1344160907,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1344160907,
+    "wof:lastmodified":1537622313,
+    "wof:name":"Itae-Hakkila",
+    "wof:parent_id":907199651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.11397,
+    60.29243,
+    25.11397,
+    60.29243
+],
+  "geometry": {"coordinates":[25.11397,60.29243],"type":"Point"}
+}

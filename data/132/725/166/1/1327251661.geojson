@@ -1,0 +1,84 @@
+{
+  "id": 1327251661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.67023,61.89949,27.67023,61.89949",
+    "geom:latitude":61.89949,
+    "geom:longitude":27.67023,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"178.0",
+    "gn:asciiname":"Naeaerinki",
+    "gn:country_code":"FI",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":645192,
+    "gn:latitude":61.89949,
+    "gn:longitude":27.67023,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"N\u00e4\u00e4rinki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "N\u00e4\u00e4rinki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044f\u0440\u0438\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "N\u00e4\u00e4rinki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683109,
+        102191581,
+        907198761,
+        85633143,
+        404227407,
+        136253047,
+        1159321615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":645192
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"879b79d4b0dac2d09be5f6a75f3e27c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321615,
+            "empire_id":136253047,
+            "localadmin_id":907198761,
+            "locality_id":1327251661,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":1327251661,
+    "wof:lastmodified":1537622207,
+    "wof:name":"Naeaerinki",
+    "wof:parent_id":907198761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.67023,
+    61.89949,
+    27.67023,
+    61.89949
+],
+  "geometry": {"coordinates":[27.67023,61.89949],"type":"Point"}
+}

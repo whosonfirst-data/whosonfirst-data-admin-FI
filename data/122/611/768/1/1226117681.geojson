@@ -1,0 +1,81 @@
+{
+  "id": 1226117681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7206,66.41367,23.7206,66.41367",
+    "geom:latitude":66.41367,
+    "geom:longitude":23.7206,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"193.0",
+    "gn:admin3_code":"976.0",
+    "gn:asciiname":"Aittamaa",
+    "gn:country_code":"FI",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":639151,
+    "gn:latitude":66.41367,
+    "gn:longitude":23.7206,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Aittamaa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Aittamaa"
+    ],
+    "name:und_x_variant":[
+        "Rittamaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199549,
+        85633143,
+        404227409,
+        136253047,
+        1159321537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639151
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"33b99382e5018778230ac7b76aeebd2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321537,
+            "empire_id":136253047,
+            "localadmin_id":907199549,
+            "locality_id":1226117681,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1226117681,
+    "wof:lastmodified":1537622175,
+    "wof:name":"Aittamaa",
+    "wof:parent_id":907199549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7206,
+    66.41367,
+    23.7206,
+    66.41367
+],
+  "geometry": {"coordinates":[23.7206,66.41367],"type":"Point"}
+}

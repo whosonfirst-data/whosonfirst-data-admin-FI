@@ -1,0 +1,75 @@
+{
+  "id": 1193268067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.52986,61.15237,28.52986,61.15237",
+    "geom:latitude":61.15237,
+    "geom:longitude":28.52986,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"405.0",
+    "gn:asciiname":"Karsturanta",
+    "gn:country_code":"FI",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":653851,
+    "gn:latitude":61.15237,
+    "gn:longitude":28.52986,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Karsturanta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198887,
+        85633143,
+        404227411,
+        136253047,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":653851
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a6de7c6b34f8840c09f1a52634bab79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198887,
+            "locality_id":1193268067,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":1193268067,
+    "wof:lastmodified":1536373700,
+    "wof:name":"Karsturanta",
+    "wof:parent_id":907198887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.52986,
+    61.15237,
+    28.52986,
+    61.15237
+],
+  "geometry": {"coordinates":[28.52986,61.15237],"type":"Point"}
+}

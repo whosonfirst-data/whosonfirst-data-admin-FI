@@ -1,0 +1,63 @@
+{
+  "id": 1209128753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43205,60.97548,24.43205,60.97548",
+    "geom:latitude":60.97548,
+    "geom:longitude":24.43205,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"109.0",
+    "gn:asciiname":"Luolaja",
+    "gn:country_code":"FI",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":647429,
+    "gn:latitude":60.97548,
+    "gn:longitude":24.43205,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Luolaja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":647429
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"48a035b4ca7a2c08af705098d5a73628",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209128753
+        }
+    ],
+    "wof:id":1209128753,
+    "wof:lastmodified":1536296873,
+    "wof:name":"Luolaja",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43205,
+    60.97548000000001,
+    24.43205,
+    60.97548000000001
+],
+  "geometry": {"coordinates":[24.43205,60.97548000000001],"type":"Point"}
+}

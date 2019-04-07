@@ -1,0 +1,75 @@
+{
+  "id": 1293365537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35,66.28333,25.35,66.28333",
+    "geom:latitude":66.28333,
+    "geom:longitude":25.35,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"191.0",
+    "gn:admin3_code":"698.0",
+    "gn:asciiname":"Ruikka",
+    "gn:country_code":"FI",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":638892,
+    "gn:latitude":66.28333,
+    "gn:longitude":25.35,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Ruikka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199591,
+        85633143,
+        404227409,
+        136253047,
+        1159321523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":638892
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a5e93433d83f9d437b94eb4865c1867b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321523,
+            "empire_id":136253047,
+            "localadmin_id":907199591,
+            "locality_id":1293365537,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1293365537,
+    "wof:lastmodified":1536962766,
+    "wof:name":"Ruikka",
+    "wof:parent_id":907199591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35,
+    66.28333,
+    25.35,
+    66.28333
+],
+  "geometry": {"coordinates":[25.35,66.28333000000001],"type":"Point"}
+}

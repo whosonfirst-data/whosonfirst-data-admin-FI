@@ -1,0 +1,75 @@
+{
+  "id": 1276972093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.07584,61.75861,23.07584,61.75861",
+    "geom:latitude":61.75861,
+    "geom:longitude":23.07584,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"61.0",
+    "gn:admin3_code":"143.0",
+    "gn:asciiname":"Laeykkaelae",
+    "gn:country_code":"FI",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":648606,
+    "gn:latitude":61.75861,
+    "gn:longitude":23.07584,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"L\u00e4ykk\u00e4l\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907199297,
+        85633143,
+        404227417,
+        136253047,
+        1159321533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":648606
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"53a4e5b31f419803314e46ffb70fae09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321533,
+            "empire_id":136253047,
+            "localadmin_id":907199297,
+            "locality_id":1276972093,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1276972093,
+    "wof:lastmodified":1536918251,
+    "wof:name":"Laeykkaelae",
+    "wof:parent_id":907199297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.07584,
+    61.75861,
+    23.07584,
+    61.75861
+],
+  "geometry": {"coordinates":[23.07584,61.75861],"type":"Point"}
+}

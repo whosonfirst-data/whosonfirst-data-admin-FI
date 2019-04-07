@@ -1,0 +1,88 @@
+{
+  "id": 1326615711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68306,60.51667,27.68306,60.51667",
+    "geom:latitude":60.51667,
+    "geom:longitude":27.68306,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"82.0",
+    "gn:admin3_code":"935.0",
+    "gn:asciiname":"Virolahti",
+    "gn:country_code":"FI",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":631388,
+    "gn:latitude":60.51667,
+    "gn:longitude":27.68306,
+    "gn:modification_date":"2014-12-10",
+    "gn:name":"Virolahti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Virolahden Kirkonkyl\u00e4"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0440\u043e\u043b\u0430\u0445\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vederlax kyrkby"
+    ],
+    "name:und_x_variant":[
+        "Virolahden Kirkonkyl\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683081,
+        102191581,
+        907198719,
+        85633143,
+        404227411,
+        136253047,
+        1159321573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631388,
+        "wk:page":"Virolahti"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ccda7a5af005ceed47826d6658e1ba47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321573,
+            "empire_id":136253047,
+            "localadmin_id":907198719,
+            "locality_id":1326615711,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":1326615711,
+    "wof:lastmodified":1537622131,
+    "wof:name":"Virolahti",
+    "wof:parent_id":907198719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68306,
+    60.51667,
+    27.68306,
+    60.51667
+],
+  "geometry": {"coordinates":[27.68306,60.51667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293392969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.87522,60.84764,22.87522,60.84764",
+    "geom:latitude":60.84764,
+    "geom:longitude":22.87522,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"430.0",
+    "gn:asciiname":"Pahikainen",
+    "gn:country_code":"FI",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643226,
+    "gn:latitude":60.84764,
+    "gn:longitude":22.87522,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Pahikainen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198963,
+        85633143,
+        404227405,
+        136253047,
+        1159321505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643226
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6936ace29e3ca10b9b7d284a10ca998b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321505,
+            "empire_id":136253047,
+            "localadmin_id":907198963,
+            "locality_id":1293392969,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1293392969,
+    "wof:lastmodified":1536923967,
+    "wof:name":"Pahikainen",
+    "wof:parent_id":907198963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.87522,
+    60.84764000000001,
+    22.87522,
+    60.84764000000001
+],
+  "geometry": {"coordinates":[22.87522,60.84764000000001],"type":"Point"}
+}

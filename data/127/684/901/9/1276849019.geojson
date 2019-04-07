@@ -1,0 +1,75 @@
+{
+  "id": 1276849019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.56843,62.68096,28.56843,62.68096",
+    "geom:latitude":62.68096,
+    "geom:longitude":28.56843,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"113.0",
+    "gn:admin3_code":"857.0",
+    "gn:asciiname":"Kojanlahti",
+    "gn:country_code":"FI",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":652005,
+    "gn:latitude":62.68096,
+    "gn:longitude":28.56843,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kojanlahti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199053,
+        85633143,
+        404227407,
+        136253047,
+        1159321579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":652005
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"713a91eba216b30cc52d227cf60e30f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321579,
+            "empire_id":136253047,
+            "localadmin_id":907199053,
+            "locality_id":1276849019,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1276849019,
+    "wof:lastmodified":1537079318,
+    "wof:name":"Kojanlahti",
+    "wof:parent_id":907199053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.56843,
+    62.68096,
+    28.56843,
+    62.68096
+],
+  "geometry": {"coordinates":[28.56843,62.68096],"type":"Point"}
+}

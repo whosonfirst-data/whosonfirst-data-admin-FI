@@ -1,0 +1,63 @@
+{
+  "id": 1209403875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.55,61.95,26.55,61.95",
+    "geom:latitude":61.95,
+    "geom:longitude":26.55,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"213.0",
+    "gn:asciiname":"Suurola",
+    "gn:country_code":"FI",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":635508,
+    "gn:latitude":61.95,
+    "gn:longitude":26.55,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Suurola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":635508
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7bc5dec9338e573318c038b7ae8574be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209403875
+        }
+    ],
+    "wof:id":1209403875,
+    "wof:lastmodified":1536288058,
+    "wof:name":"Suurola",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55,
+    61.95,
+    26.55,
+    61.95
+],
+  "geometry": {"coordinates":[26.55,61.95],"type":"Point"}
+}

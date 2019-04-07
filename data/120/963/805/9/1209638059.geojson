@@ -1,0 +1,63 @@
+{
+  "id": 1209638059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66667,60.95,23.66667,60.95",
+    "geom:latitude":60.95,
+    "geom:longitude":23.66667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"53.0",
+    "gn:admin3_code":"61.0",
+    "gn:asciiname":"Mikkola",
+    "gn:country_code":"FI",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":645981,
+    "gn:latitude":60.95,
+    "gn:longitude":23.66667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Mikkola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":645981
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"abcc347289a451356c8c84ad59b9699b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209638059
+        }
+    ],
+    "wof:id":1209638059,
+    "wof:lastmodified":1536280976,
+    "wof:name":"Mikkola",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66667,
+    60.95,
+    23.66667,
+    60.95
+],
+  "geometry": {"coordinates":[23.66667,60.95],"type":"Point"}
+}

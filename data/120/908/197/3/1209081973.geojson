@@ -1,0 +1,63 @@
+{
+  "id": 1209081973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.78333,64.03333,27.78333,64.03333",
+    "geom:latitude":64.03333,
+    "geom:longitude":27.78333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"182.0",
+    "gn:admin3_code":"205.0",
+    "gn:asciiname":"Lamminmaeki",
+    "gn:country_code":"FI",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649200,
+    "gn:latitude":64.03333,
+    "gn:longitude":27.78333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Lamminm\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649200
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c206ae80a150069fb4d3f1e01ad0b897",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209081973
+        }
+    ],
+    "wof:id":1209081973,
+    "wof:lastmodified":1536298307,
+    "wof:name":"Lamminmaeki",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.78333,
+    64.03333,
+    27.78333,
+    64.03333
+],
+  "geometry": {"coordinates":[27.78333,64.03333000000001],"type":"Point"}
+}

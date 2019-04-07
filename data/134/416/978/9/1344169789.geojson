@@ -1,0 +1,75 @@
+{
+  "id": 1344169789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63749,60.57251,21.63749,60.57251",
+    "geom:latitude":60.57251,
+    "geom:longitude":21.63749,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"833.0",
+    "gn:asciiname":"Muntti",
+    "gn:country_code":"FI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":854490,
+    "gn:latitude":60.57251,
+    "gn:longitude":21.63749,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Muntti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198635,
+        85633143,
+        404227405,
+        136253047,
+        1159321637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":854490
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"57dcdcae46cab4d7090ba54dfed26c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321637,
+            "empire_id":136253047,
+            "localadmin_id":907198635,
+            "locality_id":1344169789,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1344169789,
+    "wof:lastmodified":1536718108,
+    "wof:name":"Muntti",
+    "wof:parent_id":907198635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63749,
+    60.57251,
+    21.63749,
+    60.57251
+],
+  "geometry": {"coordinates":[21.63749,60.57251],"type":"Point"}
+}

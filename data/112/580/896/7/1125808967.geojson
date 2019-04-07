@@ -1,0 +1,98 @@
+{
+  "id": 1125808967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.68333,62.76667,26.68333,62.76667",
+    "geom:latitude":62.76667,
+    "geom:longitude":26.68333,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":62.76667,
+    "lbl:longitude":26.68333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kerkonkoski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u043a\u043e\u043d\u043a\u043e\u0441\u043a\u0438"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":653167,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kerkonkoski",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Pohjois-Savon maakunta",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":273108,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":567255,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Pohjois-Savon maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907198897,
+        85633143,
+        404227407,
+        136253047,
+        1159321623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":653167,
+        "gp:id":567255,
+        "qs_pg:id":273108
+    },
+    "wof:country":"FI",
+    "wof:created":1497291578,
+    "wof:geomhash":"f2c3e252409e6275a4ad613cf8de71f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321623,
+            "empire_id":136253047,
+            "localadmin_id":907198897,
+            "locality_id":1125808967,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1125808967,
+    "wof:lastmodified":1529708967,
+    "wof:name":"Kerkonkoski",
+    "wof:parent_id":907198897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.68333,
+    62.76667,
+    26.68333,
+    62.76667
+],
+  "geometry": {"coordinates":[26.68333,62.76667],"type":"Point"}
+}

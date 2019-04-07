@@ -1,0 +1,63 @@
+{
+  "id": 1209423707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25733,60.32282,22.25733,60.32282",
+    "geom:latitude":60.32282,
+    "geom:longitude":22.25733,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"445.0",
+    "gn:asciiname":"Hoggais",
+    "gn:country_code":"FI",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":841644,
+    "gn:latitude":60.32282,
+    "gn:longitude":22.25733,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Hoggais",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":841644
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2d5013fb9e90d9caaacc40e4a3a9e340",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209423707
+        }
+    ],
+    "wof:id":1209423707,
+    "wof:lastmodified":1536287447,
+    "wof:name":"Hoggais",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25733,
+    60.32281999999999,
+    22.25733,
+    60.32281999999999
+],
+  "geometry": {"coordinates":[22.25733,60.32281999999999],"type":"Point"}
+}

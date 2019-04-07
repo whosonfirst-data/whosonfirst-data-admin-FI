@@ -1,0 +1,81 @@
+{
+  "id": 1276947341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16673,63.32381,24.16673,63.32381",
+    "geom:latitude":63.32381,
+    "geom:longitude":24.16673,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"161.0",
+    "gn:admin3_code":"584.0",
+    "gn:asciiname":"Kivikangas",
+    "gn:country_code":"FI",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":652413,
+    "gn:latitude":63.32381,
+    "gn:longitude":24.16673,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kivikangas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kivikangas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0432\u0438\u043a\u0430\u043d\u0433\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683125,
+        102191581,
+        907199111,
+        85633143,
+        404227417,
+        136253047,
+        1159321595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":652413
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"175b2c96a49b53bd51215a47108ae588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321595,
+            "empire_id":136253047,
+            "localadmin_id":907199111,
+            "locality_id":1276947341,
+            "macroregion_id":404227417,
+            "region_id":85683125
+        }
+    ],
+    "wof:id":1276947341,
+    "wof:lastmodified":1537622249,
+    "wof:name":"Kivikangas",
+    "wof:parent_id":907199111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16673,
+    63.32381,
+    24.16673,
+    63.32381
+],
+  "geometry": {"coordinates":[24.16673,63.32381],"type":"Point"}
+}

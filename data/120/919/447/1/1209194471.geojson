@@ -1,0 +1,63 @@
+{
+  "id": 1209194471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.86667,61.83333,29.86667,61.83333",
+    "geom:latitude":61.83333,
+    "geom:longitude":29.86667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"124.0",
+    "gn:admin3_code":"260.0",
+    "gn:asciiname":"Pajamaeki",
+    "gn:country_code":"FI",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643110,
+    "gn:latitude":61.83333,
+    "gn:longitude":29.86667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Pajam\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643110
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d2edf73e6d0c9d49ed238342c75e71ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209194471
+        }
+    ],
+    "wof:id":1209194471,
+    "wof:lastmodified":1536294820,
+    "wof:name":"Pajamaeki",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.866670000000006,
+    61.83333,
+    29.866670000000006,
+    61.83333
+],
+  "geometry": {"coordinates":[29.86667000000001,61.83333],"type":"Point"}
+}

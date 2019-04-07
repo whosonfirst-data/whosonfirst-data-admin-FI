@@ -1,0 +1,78 @@
+{
+  "id": 1276961831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29133,63.42042,22.29133,63.42042",
+    "geom:latitude":63.42042,
+    "geom:longitude":22.29133,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"154.0",
+    "gn:admin3_code":"893.0",
+    "gn:asciiname":"Dalabacken",
+    "gn:country_code":"FI",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10102459,
+    "gn:latitude":63.42042,
+    "gn:longitude":22.29133,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Dalabacken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Dalabacken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199045,
+        85633143,
+        404227417,
+        136253047,
+        1159321639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10102459
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"002a9455c675de5a770d49c89fdcfa81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321639,
+            "empire_id":136253047,
+            "localadmin_id":907199045,
+            "locality_id":1276961831,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1276961831,
+    "wof:lastmodified":1537622352,
+    "wof:name":"Dalabacken",
+    "wof:parent_id":907199045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29133,
+    63.42041999999999,
+    22.29133,
+    63.42041999999999
+],
+  "geometry": {"coordinates":[22.29133,63.42041999999999],"type":"Point"}
+}

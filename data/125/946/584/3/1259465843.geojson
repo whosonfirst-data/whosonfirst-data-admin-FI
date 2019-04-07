@@ -1,0 +1,79 @@
+{
+  "id": 1259465843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53466,62.65664,21.53466,62.65664",
+    "geom:latitude":62.65664,
+    "geom:longitude":21.53466,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"153.0",
+    "gn:admin3_code":"545.0",
+    "gn:asciiname":"Kaellmossen",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":654611,
+    "gn:latitude":62.65664,
+    "gn:longitude":21.53466,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"K\u00e4llmossen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e4llmossa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199661,
+        85633143,
+        404227417,
+        136253047,
+        1159321495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":654611
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9a63256ebf9800456a2ba9b0043b2648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321495,
+            "empire_id":136253047,
+            "localadmin_id":907199661,
+            "locality_id":1259465843,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1259465843,
+    "wof:lastmodified":1537622264,
+    "wof:name":"Kaellmossen",
+    "wof:parent_id":907199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53466,
+    62.65664,
+    21.53466,
+    62.65664
+],
+  "geometry": {"coordinates":[21.53466,62.65664],"type":"Point"}
+}

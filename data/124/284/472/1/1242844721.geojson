@@ -1,0 +1,87 @@
+{
+  "id": 1242844721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.88339,63.40104,22.88339,63.40104",
+    "geom:latitude":63.40104,
+    "geom:longitude":22.88339,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"154.0",
+    "gn:admin3_code":"599.0",
+    "gn:asciiname":"Avist",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660811,
+    "gn:latitude":63.40104,
+    "gn:longitude":22.88339,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"\u00c5vist",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Jokihauta"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c5vist"
+    ],
+    "name:und_x_variant":[
+        "Jokihauta",
+        "\u00c5vistby",
+        "\u00c5vist"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199161,
+        85633143,
+        404227417,
+        136253047,
+        1159321639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660811
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b8cab86e2aa3a736442fa802c1d1cb2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321639,
+            "empire_id":136253047,
+            "localadmin_id":907199161,
+            "locality_id":1242844721,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1242844721,
+    "wof:lastmodified":1537622300,
+    "wof:name":"Avist",
+    "wof:parent_id":907199161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.88339,
+    63.40104,
+    22.88339,
+    63.40104
+],
+  "geometry": {"coordinates":[22.88339,63.40104],"type":"Point"}
+}

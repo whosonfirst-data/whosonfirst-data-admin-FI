@@ -1,0 +1,75 @@
+{
+  "id": 1309731907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.45503,60.52795,27.45503,60.52795",
+    "geom:latitude":60.52795,
+    "geom:longitude":27.45503,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"82.0",
+    "gn:admin3_code":"935.0",
+    "gn:asciiname":"Laensikylae",
+    "gn:country_code":"FI",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649013,
+    "gn:latitude":60.52795,
+    "gn:longitude":27.45503,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"L\u00e4nsikyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683081,
+        102191581,
+        907198719,
+        85633143,
+        404227411,
+        136253047,
+        1159321573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649013
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8ddd6c4da124514258786f5f6a2d4cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321573,
+            "empire_id":136253047,
+            "localadmin_id":907198719,
+            "locality_id":1309731907,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":1309731907,
+    "wof:lastmodified":1537036108,
+    "wof:name":"Laensikylae",
+    "wof:parent_id":907198719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.45503,
+    60.52795,
+    27.45503,
+    60.52795
+],
+  "geometry": {"coordinates":[27.45503,60.52795],"type":"Point"}
+}

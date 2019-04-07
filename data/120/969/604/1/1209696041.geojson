@@ -1,0 +1,63 @@
+{
+  "id": 1209696041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7163,62.27188,29.7163,62.27188",
+    "geom:latitude":62.27188,
+    "geom:longitude":29.7163,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"124.0",
+    "gn:admin3_code":"707.0",
+    "gn:asciiname":"Oravilahti",
+    "gn:country_code":"FI",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643663,
+    "gn:latitude":62.27188,
+    "gn:longitude":29.7163,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Oravilahti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643663
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7f00ec348d122464b1e3de3490fdf495",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209696041
+        }
+    ],
+    "wof:id":1209696041,
+    "wof:lastmodified":1536279071,
+    "wof:name":"Oravilahti",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7163,
+    62.27188,
+    29.7163,
+    62.27188
+],
+  "geometry": {"coordinates":[29.7163,62.27188],"type":"Point"}
+}

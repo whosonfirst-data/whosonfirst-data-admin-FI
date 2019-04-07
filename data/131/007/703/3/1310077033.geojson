@@ -1,0 +1,75 @@
+{
+  "id": 1310077033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6,65.76667,28.6,65.76667",
+    "geom:latitude":65.76667,
+    "geom:longitude":28.6,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"178.0",
+    "gn:admin3_code":"832.0",
+    "gn:asciiname":"Hietala",
+    "gn:country_code":"FI",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":658004,
+    "gn:latitude":65.76667,
+    "gn:longitude":28.6,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Hietala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199503,
+        85633143,
+        404227415,
+        136253047,
+        1159321489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":658004
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f35b549f8c9d99649609696cd8e09ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321489,
+            "empire_id":136253047,
+            "localadmin_id":907199503,
+            "locality_id":1310077033,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1310077033,
+    "wof:lastmodified":1537036110,
+    "wof:name":"Hietala",
+    "wof:parent_id":907199503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6,
+    65.76666999999999,
+    28.6,
+    65.76666999999999
+],
+  "geometry": {"coordinates":[28.6,65.76666999999999],"type":"Point"}
+}

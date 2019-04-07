@@ -1,0 +1,78 @@
+{
+  "id": 1193110399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.20037,63.18319,22.20037,63.18319",
+    "geom:latitude":63.18319,
+    "geom:longitude":22.20037,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"946.0",
+    "gn:asciiname":"Ytterbyn",
+    "gn:country_code":"FI",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10102366,
+    "gn:latitude":63.18319,
+    "gn:longitude":22.20037,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Ytterbyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Ytterbyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199763,
+        85633143,
+        404227417,
+        136253047,
+        1159321501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10102366
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"59de89d6b0c6a15900f5b98d3506bb6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321501,
+            "empire_id":136253047,
+            "localadmin_id":907199763,
+            "locality_id":1193110399,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1193110399,
+    "wof:lastmodified":1537622348,
+    "wof:name":"Ytterbyn",
+    "wof:parent_id":907199763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.20037,
+    63.18319,
+    22.20037,
+    63.18319
+],
+  "geometry": {"coordinates":[22.20037,63.18319],"type":"Point"}
+}

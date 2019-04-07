@@ -1,0 +1,78 @@
+{
+  "id": 1343241649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86218,61.96533,24.86218,61.96533",
+    "geom:latitude":61.96533,
+    "geom:longitude":24.86218,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"134.0",
+    "gn:admin3_code":"182.0",
+    "gn:asciiname":"Matokulma",
+    "gn:country_code":"FI",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101407,
+    "gn:latitude":61.96533,
+    "gn:longitude":24.86218,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Matokulma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Matokulma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199101,
+        85633143,
+        404227417,
+        136253047,
+        1159321587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101407
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b8e555043fb2ea0808f23e7adb61af35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321587,
+            "empire_id":136253047,
+            "localadmin_id":907199101,
+            "locality_id":1343241649,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1343241649,
+    "wof:lastmodified":1537622329,
+    "wof:name":"Matokulma",
+    "wof:parent_id":907199101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86218,
+    61.96533,
+    24.86218,
+    61.96533
+],
+  "geometry": {"coordinates":[24.86218,61.96533],"type":"Point"}
+}

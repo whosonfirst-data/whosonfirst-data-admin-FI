@@ -1,0 +1,78 @@
+{
+  "id": 1343775065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07265,60.80234,22.07265,60.80234",
+    "geom:latitude":60.80234,
+    "geom:longitude":22.07265,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"503.0",
+    "gn:asciiname":"Ruohanttee",
+    "gn:country_code":"FI",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101248,
+    "gn:latitude":60.80234,
+    "gn:longitude":22.07265,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Ruohanttee",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Ruohanttee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198907,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101248
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"60193ccceb3dc1c616fadd7e5d94763a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198907,
+            "locality_id":1343775065,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1343775065,
+    "wof:lastmodified":1537622323,
+    "wof:name":"Ruohanttee",
+    "wof:parent_id":907198907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07265,
+    60.80234,
+    22.07265,
+    60.80234
+],
+  "geometry": {"coordinates":[22.07265,60.80234],"type":"Point"}
+}

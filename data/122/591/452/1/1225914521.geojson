@@ -1,0 +1,81 @@
+{
+  "id": 1225914521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.61265,63.13011,21.61265,63.13011",
+    "geom:latitude":63.13011,
+    "geom:longitude":21.61265,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"905.0",
+    "gn:asciiname":"Infjaerden",
+    "gn:country_code":"FI",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101743,
+    "gn:latitude":63.13011,
+    "gn:longitude":21.61265,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Infj\u00e4rden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Pukinj\u00e4rvi"
+    ],
+    "name:swe_x_preferred":[
+        "Infj\u00e4rden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199149,
+        85633143,
+        404227417,
+        136253047,
+        1159321501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101743
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"72c02449f06f40fe11d8a6d8ca03ca3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321501,
+            "empire_id":136253047,
+            "localadmin_id":907199149,
+            "locality_id":1225914521,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1225914521,
+    "wof:lastmodified":1537622341,
+    "wof:name":"Infjaerden",
+    "wof:parent_id":907199149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.61265,
+    63.13011,
+    21.61265,
+    63.13011
+],
+  "geometry": {"coordinates":[21.61265,63.13011],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 101872891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.523327,68.028801,23.523327,68.028801",
+    "geom:latitude":68.028801,
+    "geom:longitude":23.523327,
+    "iso:country":"FI",
+    "lbl:latitude":68.028801,
+    "lbl:longitude":23.523327,
+    "mps:latitude":68.028801,
+    "mps:longitude":23.523327,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ylimuonio"
+    ],
+    "name:eng_x_preferred":[
+        "Ylimuonio"
+    ],
+    "name:fin_x_preferred":[
+        "Ylimuonio"
+    ],
+    "name:fit_x_preferred":[
+        "Ylimuonio"
+    ],
+    "name:swe_x_preferred":[
+        "Ylimuonio"
+    ],
+    "qs:a0":"Suomi#Finland",
+    "qs:a1":"*Lappi#Lappland",
+    "qs:a1r":"0Lapin AVI#Lapplands RFV",
+    "qs:adm0":"Suomi#Finland",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Yli-Muonio",
+    "qs:loc_alt":"Yli-Muonio",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199587,
+        85633143,
+        404227409,
+        136253047,
+        1159321583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630855,
+        "gp:id":569951,
+        "qs:id":1114365,
+        "wd:id":"Q11902858"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7972e10ea01b5167c945a7daf0f80e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321583,
+            "empire_id":136253047,
+            "localadmin_id":907199587,
+            "locality_id":101872891,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":101872891,
+    "wof:lastmodified":1544751376,
+    "wof:name":"Yli-Muonio",
+    "wof:parent_id":907199587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.523327,
+    68.028801,
+    23.523327,
+    68.028801
+],
+  "geometry": {"coordinates":[23.523327,68.028801],"type":"Point"}
+}

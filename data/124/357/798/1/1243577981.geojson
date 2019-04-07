@@ -1,0 +1,78 @@
+{
+  "id": 1243577981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99789,61.37695,21.99789,61.37695",
+    "geom:latitude":61.37695,
+    "geom:longitude":21.99789,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"531.0",
+    "gn:asciiname":"Myllaerinkylae",
+    "gn:country_code":"FI",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11549064,
+    "gn:latitude":61.37695,
+    "gn:longitude":21.99789,
+    "gn:modification_date":"2017-05-15",
+    "gn:name":"Myll\u00e4rinkyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Mj\u00f6lnarby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907198705,
+        85633143,
+        404227405,
+        136253047,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11549064
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9f8d5d654e49cf35d14aad7a9298dc39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907198705,
+            "locality_id":1243577981,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1243577981,
+    "wof:lastmodified":1537622355,
+    "wof:name":"Myllaerinkylae",
+    "wof:parent_id":907198705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99789,
+    61.37695,
+    21.99789,
+    61.37695
+],
+  "geometry": {"coordinates":[21.99789,61.37695],"type":"Point"}
+}

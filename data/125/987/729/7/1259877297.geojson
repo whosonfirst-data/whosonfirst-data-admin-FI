@@ -1,0 +1,75 @@
+{
+  "id": 1259877297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.08009,61.56215,23.08009,61.56215",
+    "geom:latitude":61.56215,
+    "geom:longitude":23.08009,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"64.0",
+    "gn:admin3_code":"108.0",
+    "gn:asciiname":"Parila",
+    "gn:country_code":"FI",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":642665,
+    "gn:latitude":61.56215,
+    "gn:longitude":23.08009,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Parila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907199131,
+        85633143,
+        404227417,
+        136253047,
+        1159321521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":642665
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"519709c821d3dea8dced45b3fe8bc890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321521,
+            "empire_id":136253047,
+            "localadmin_id":907199131,
+            "locality_id":1259877297,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1259877297,
+    "wof:lastmodified":1536788586,
+    "wof:name":"Parila",
+    "wof:parent_id":907199131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08009,
+    61.56215,
+    23.08009,
+    61.56215
+],
+  "geometry": {"coordinates":[23.08009,61.56215],"type":"Point"}
+}

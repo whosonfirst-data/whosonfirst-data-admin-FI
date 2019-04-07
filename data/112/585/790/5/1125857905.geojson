@@ -1,0 +1,93 @@
+{
+  "id": 1125857905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75966,60.27558,24.75966,60.27558",
+    "geom:latitude":60.27558,
+    "geom:longitude":24.75966,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.27558,
+    "lbl:longitude":24.75966,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:swe_x_preferred":[
+        "Juvamalmen"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":847354,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Jurvanm\u00e4ki",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Kanta-H\u00e4meen maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":207162,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":29305223,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Kanta-H\u00e4meen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198517,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":847354,
+        "gp:id":29305223,
+        "qs_pg:id":207162
+    },
+    "wof:country":"FI",
+    "wof:created":1497293696,
+    "wof:geomhash":"3a53b83e8afa2d13b82d654dc5cf189f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198517,
+            "locality_id":1125857905,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1125857905,
+    "wof:lastmodified":1529714705,
+    "wof:name":"Jurvanm\u00e4ki",
+    "wof:parent_id":907198517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75966,
+    60.27558,
+    24.75966,
+    60.27558
+],
+  "geometry": {"coordinates":[24.75966,60.27558],"type":"Point"}
+}

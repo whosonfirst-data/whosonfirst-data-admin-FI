@@ -1,0 +1,81 @@
+{
+  "id": 1276725649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.37085,63.95739,25.37085,63.95739",
+    "geom:latitude":63.95739,
+    "geom:longitude":25.37085,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"175.0",
+    "gn:admin3_code":"71.0",
+    "gn:asciiname":"Karsikas",
+    "gn:country_code":"FI",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":653874,
+    "gn:latitude":63.95739,
+    "gn:longitude":25.37085,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Karsikas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karsikas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0441\u0438\u043a\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199471,
+        85633143,
+        404227415,
+        136253047,
+        1159321571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":653874
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"88624f8598fa5840e03aa2cbe2ee9a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321571,
+            "empire_id":136253047,
+            "localadmin_id":907199471,
+            "locality_id":1276725649,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1276725649,
+    "wof:lastmodified":1537622258,
+    "wof:name":"Karsikas",
+    "wof:parent_id":907199471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.37085,
+    63.95739,
+    25.37085,
+    63.95739
+],
+  "geometry": {"coordinates":[25.37085,63.95739],"type":"Point"}
+}

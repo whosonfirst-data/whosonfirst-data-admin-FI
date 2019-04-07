@@ -1,0 +1,75 @@
+{
+  "id": 1259761271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8,63.48333,26.8,63.48333",
+    "geom:latitude":63.48333,
+    "geom:longitude":26.8,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"595.0",
+    "gn:asciiname":"Piensulkavajaervi",
+    "gn:country_code":"FI",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":641773,
+    "gn:latitude":63.48333,
+    "gn:longitude":26.8,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Piensulkavaj\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199287,
+        85633143,
+        404227407,
+        136253047,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":641773
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e763a20c1ca5ebd18df2ac3498f5d48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199287,
+            "locality_id":1259761271,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1259761271,
+    "wof:lastmodified":1536955242,
+    "wof:name":"Piensulkavajaervi",
+    "wof:parent_id":907199287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8,
+    63.48333,
+    26.8,
+    63.48333
+],
+  "geometry": {"coordinates":[26.8,63.48333],"type":"Point"}
+}

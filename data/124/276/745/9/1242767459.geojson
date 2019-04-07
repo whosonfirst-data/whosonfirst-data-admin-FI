@@ -1,0 +1,75 @@
+{
+  "id": 1242767459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.42585,60.87641,27.42585,60.87641",
+    "geom:latitude":60.87641,
+    "geom:longitude":27.42585,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"441.0",
+    "gn:asciiname":"Uusi-Heimala",
+    "gn:country_code":"FI",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":633228,
+    "gn:latitude":60.87641,
+    "gn:longitude":27.42585,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Uusi-Heimala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198953,
+        85633143,
+        404227411,
+        136253047,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":633228
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d7e897802da8b3a97eba18f7405f60ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198953,
+            "locality_id":1242767459,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":1242767459,
+    "wof:lastmodified":1536790621,
+    "wof:name":"Uusi-Heimala",
+    "wof:parent_id":907198953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.42585,
+    60.87641,
+    27.42585,
+    60.87641
+],
+  "geometry": {"coordinates":[27.42585,60.87641],"type":"Point"}
+}

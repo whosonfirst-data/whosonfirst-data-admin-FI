@@ -1,0 +1,82 @@
+{
+  "id": 1276209401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7,63.11667,21.7,63.11667",
+    "geom:latitude":63.11667,
+    "geom:longitude":21.7,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"499.0",
+    "gn:asciiname":"Smedsby",
+    "gn:country_code":"FI",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":636493,
+    "gn:latitude":63.11667,
+    "gn:longitude":21.7,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Smedsby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Sep\u00e4nkyl\u00e4"
+    ],
+    "name:swe_x_preferred":[
+        "Smedsby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907198985,
+        85633143,
+        404227417,
+        136253047,
+        1159321501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":636493,
+        "wk:page":"Smedsby"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"54fedca8d99a5e3b76b47a83b64e663f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321501,
+            "empire_id":136253047,
+            "localadmin_id":907198985,
+            "locality_id":1276209401,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1276209401,
+    "wof:lastmodified":1537622160,
+    "wof:name":"Smedsby",
+    "wof:parent_id":907198985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7,
+    63.11666999999999,
+    21.7,
+    63.11666999999999
+],
+  "geometry": {"coordinates":[21.7,63.11666999999999],"type":"Point"}
+}

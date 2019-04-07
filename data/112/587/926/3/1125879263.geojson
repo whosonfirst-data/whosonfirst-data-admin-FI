@@ -1,0 +1,123 @@
+{
+  "id": 1125879263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91667,60.93333,22.91667,60.93333",
+    "geom:latitude":60.93333,
+    "geom:longitude":22.91667,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":2975,
+    "iso:country":"FI",
+    "lbl:latitude":60.93333,
+    "lbl:longitude":22.91667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Alastaro"
+    ],
+    "name:eng_x_preferred":[
+        "Alastaro"
+    ],
+    "name:est_x_preferred":[
+        "Alastaro vald"
+    ],
+    "name:fin_x_preferred":[
+        "Alastaro"
+    ],
+    "name:fre_x_preferred":[
+        "Alastaro"
+    ],
+    "name:ger_x_preferred":[
+        "Alastaro"
+    ],
+    "name:ita_x_preferred":[
+        "Alastaro"
+    ],
+    "name:nob_x_preferred":[
+        "Alastaro"
+    ],
+    "name:rum_x_preferred":[
+        "Alastaro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u0441\u0442\u0430\u0440\u043e"
+    ],
+    "name:sme_x_preferred":[
+        "Alastaro"
+    ],
+    "name:swe_x_preferred":[
+        "Alastaro"
+    ],
+    "name:vie_x_preferred":[
+        "Alastaro"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":661411,
+    "qs_pg:gn_pop":2975,
+    "qs_pg:name":"Alastaro",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":369937,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198963,
+        85633143,
+        404227405,
+        136253047,
+        1159321505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":661411,
+        "qs_pg:id":369937,
+        "wd:id":"Q206601"
+    },
+    "wof:country":"FI",
+    "wof:created":1497294710,
+    "wof:geomhash":"846ffbb2dfcfecc6ff397101dd3cd7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321505,
+            "empire_id":136253047,
+            "localadmin_id":907198963,
+            "locality_id":1125879263,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1125879263,
+    "wof:lastmodified":1529706492,
+    "wof:name":"Alastaro",
+    "wof:parent_id":907198963,
+    "wof:placetype":"locality",
+    "wof:population":2975,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91667,
+    60.93333,
+    22.91667,
+    60.93333
+],
+  "geometry": {"coordinates":[22.91667,60.93333],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1226745159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.9,61.33333,22.9,61.33333",
+    "geom:latitude":61.33333,
+    "geom:longitude":22.9,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"68.0",
+    "gn:admin3_code":"790.0",
+    "gn:asciiname":"Vammala",
+    "gn:country_code":"FI",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":632542,
+    "gn:latitude":61.33333,
+    "gn:longitude":22.9,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Vammala",
+    "gn:population":14982,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0645\u0644\u0627"
+    ],
+    "name:est_x_preferred":[
+        "Vammala linn"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0412\u0430\u043c\u043c\u0430\u043b\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043c\u043c\u0430\u043b\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u043c\u0430\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0645\u0627\u0644\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u9a6c\u62c9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907199751,
+        85633143,
+        404227417,
+        136253047,
+        1159321613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":632542,
+        "wk:page":"Vammala"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"0e3b4fe8a2186454f36ead5b51e2bf5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321613,
+            "empire_id":136253047,
+            "localadmin_id":907199751,
+            "locality_id":1226745159,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1226745159,
+    "wof:lastmodified":1537622141,
+    "wof:name":"Vammala",
+    "wof:parent_id":907199751,
+    "wof:placetype":"locality",
+    "wof:population":14982,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.9,
+    61.33333,
+    22.9,
+    61.33333
+],
+  "geometry": {"coordinates":[22.9,61.33333],"type":"Point"}
+}

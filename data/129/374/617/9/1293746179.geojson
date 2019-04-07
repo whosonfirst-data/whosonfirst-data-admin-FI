@@ -1,0 +1,84 @@
+{
+  "id": 1293746179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.23274,68.75831,26.23274,68.75831",
+    "geom:latitude":68.75831,
+    "geom:longitude":26.23274,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"197.0",
+    "gn:admin3_code":"148.0",
+    "gn:asciiname":"Leammi",
+    "gn:country_code":"FI",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10231022,
+    "gn:latitude":68.75831,
+    "gn:longitude":26.23274,
+    "gn:modification_date":"2015-04-21",
+    "gn:name":"Leammi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Lemmenjoki"
+    ],
+    "name:sme_x_preferred":[
+        "Leammi"
+    ],
+    "name:smn_x_preferred":[
+        "Lemmee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199567,
+        85633143,
+        404227409,
+        136253047,
+        1159321531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10231022
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5428e3e8c97af45adf62cfe9f02515f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321531,
+            "empire_id":136253047,
+            "localadmin_id":907199567,
+            "locality_id":1293746179,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1293746179,
+    "wof:lastmodified":1537622352,
+    "wof:name":"Leammi",
+    "wof:parent_id":907199567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.23274,
+    68.75831,
+    26.23274,
+    68.75831
+],
+  "geometry": {"coordinates":[26.23274,68.75830999999999],"type":"Point"}
+}

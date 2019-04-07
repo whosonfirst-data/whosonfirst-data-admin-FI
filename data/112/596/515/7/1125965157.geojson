@@ -1,0 +1,100 @@
+{
+  "id": 1125965157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45,62.78333,25.45,62.78333",
+    "geom:latitude":62.78333,
+    "geom:longitude":25.45,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":62.78333,
+    "lbl:longitude":25.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "H\u00e4kkil\u00e4"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u044f\u043a\u043a\u0438\u043b\u044f"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":659383,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"H\u00e4kkil\u00e4",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Keski-Suomen maakunta",
+    "qs_pg:photos":146,
+    "qs_pg:photos_1k":30,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":146,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":232501,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":564918,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Keski-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199213,
+        85633143,
+        404227417,
+        136253047,
+        1159321515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":659383,
+        "gp:id":564918,
+        "qs_pg:id":232501
+    },
+    "wof:country":"FI",
+    "wof:created":1497297946,
+    "wof:geomhash":"bfbff4e9f952deb48e70afdfa8ee5df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321515,
+            "empire_id":136253047,
+            "localadmin_id":907199213,
+            "locality_id":1125965157,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1125965157,
+    "wof:lastmodified":1529706354,
+    "wof:name":"H\u00e4kkil\u00e4",
+    "wof:parent_id":907199213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45,
+    62.78333,
+    25.45,
+    62.78333
+],
+  "geometry": {"coordinates":[25.45,62.78333],"type":"Point"}
+}

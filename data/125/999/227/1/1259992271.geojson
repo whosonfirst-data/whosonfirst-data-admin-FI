@@ -1,0 +1,75 @@
+{
+  "id": 1259992271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.29928,60.66246,21.29928,60.66246",
+    "geom:latitude":60.66246,
+    "geom:longitude":21.29928,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"304.0",
+    "gn:asciiname":"Kiparluoto",
+    "gn:country_code":"FI",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":854578,
+    "gn:latitude":60.66246,
+    "gn:longitude":21.29928,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kiparluoto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198611,
+        85633143,
+        404227405,
+        136253047,
+        1159321637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":854578
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4de5596c4843aaa41d19e26899d0654c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321637,
+            "empire_id":136253047,
+            "localadmin_id":907198611,
+            "locality_id":1259992271,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1259992271,
+    "wof:lastmodified":1536620319,
+    "wof:name":"Kiparluoto",
+    "wof:parent_id":907198611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29928,
+    60.66246,
+    21.29928,
+    60.66246
+],
+  "geometry": {"coordinates":[21.29928,60.66246],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243033585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.93328,65.80566,26.93328,65.80566",
+    "geom:latitude":65.80566,
+    "geom:longitude":26.93328,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"191.0",
+    "gn:admin3_code":"683.0",
+    "gn:asciiname":"Kuukasjaervi",
+    "gn:country_code":"FI",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649952,
+    "gn:latitude":65.80566,
+    "gn:longitude":26.93328,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kuukasj\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199493,
+        85633143,
+        404227409,
+        136253047,
+        1159321523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649952
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"165cd7fc690d4bdd450e473f80fb5d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321523,
+            "empire_id":136253047,
+            "localadmin_id":907199493,
+            "locality_id":1243033585,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1243033585,
+    "wof:lastmodified":1536903942,
+    "wof:name":"Kuukasjaervi",
+    "wof:parent_id":907199493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93328,
+    65.80566,
+    26.93328,
+    65.80566
+],
+  "geometry": {"coordinates":[26.93328,65.80566],"type":"Point"}
+}

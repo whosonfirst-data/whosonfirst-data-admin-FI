@@ -1,0 +1,78 @@
+{
+  "id": 1276517591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.04971,62.9058,22.04971,62.9058",
+    "geom:latitude":62.9058,
+    "geom:longitude":22.04971,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"151.0",
+    "gn:admin3_code":"399.0",
+    "gn:asciiname":"Torppainmaeki",
+    "gn:country_code":"FI",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101336,
+    "gn:latitude":62.9058,
+    "gn:longitude":22.04971,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Torppainm\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Torppainm\u00e4ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907198989,
+        85633143,
+        404227417,
+        136253047,
+        1159321589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101336
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3899b4796d7af01ec575f48c56af5efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321589,
+            "empire_id":136253047,
+            "localadmin_id":907198989,
+            "locality_id":1276517591,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1276517591,
+    "wof:lastmodified":1537622326,
+    "wof:name":"Torppainmaeki",
+    "wof:parent_id":907198989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.04971,
+    62.9058,
+    22.04971,
+    62.9058
+],
+  "geometry": {"coordinates":[22.04971,62.9058],"type":"Point"}
+}

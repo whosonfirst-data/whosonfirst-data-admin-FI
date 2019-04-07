@@ -1,0 +1,63 @@
+{
+  "id": 1209679321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28047,65.12512,25.28047,65.12512",
+    "geom:latitude":65.12512,
+    "geom:longitude":25.28047,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"564.0",
+    "gn:asciiname":"Vehkaperae",
+    "gn:country_code":"FI",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":632084,
+    "gn:latitude":65.12512,
+    "gn:longitude":25.28047,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Vehkaper\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":632084
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c1ea46c9a744d86c4c9028784b8717a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209679321
+        }
+    ],
+    "wof:id":1209679321,
+    "wof:lastmodified":1536279634,
+    "wof:name":"Vehkaperae",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28047,
+    65.12512,
+    25.28047,
+    65.12512
+],
+  "geometry": {"coordinates":[25.28047,65.12512],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242844671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.28337,63.14631,22.28337,63.14631",
+    "geom:latitude":63.14631,
+    "geom:longitude":22.28337,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"946.0",
+    "gn:asciiname":"Knutsbacken",
+    "gn:country_code":"FI",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10102378,
+    "gn:latitude":63.14631,
+    "gn:longitude":22.28337,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Knutsbacken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Knutsbacken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199763,
+        85633143,
+        404227417,
+        136253047,
+        1159321501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10102378
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c01013539ced9ab9db6fdfb167f7e5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321501,
+            "empire_id":136253047,
+            "localadmin_id":907199763,
+            "locality_id":1242844671,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1242844671,
+    "wof:lastmodified":1537622349,
+    "wof:name":"Knutsbacken",
+    "wof:parent_id":907199763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.28337,
+    63.14631,
+    22.28337,
+    63.14631
+],
+  "geometry": {"coordinates":[22.28337,63.14631],"type":"Point"}
+}

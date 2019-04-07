@@ -1,0 +1,72 @@
+{
+  "id": 1209477571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98063,69.61307,25.98063,69.61307",
+    "geom:latitude":69.61307,
+    "geom:longitude":25.98063,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"197.0",
+    "gn:admin3_code":"890.0",
+    "gn:asciiname":"Parsi",
+    "gn:country_code":"FI",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":642608,
+    "gn:latitude":69.61307,
+    "gn:longitude":25.98063,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Parsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Parsi"
+    ],
+    "name:sme_x_preferred":[
+        "B\u00e1r\u0161i"
+    ],
+    "name:und_x_variant":[
+        "Parski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":642608
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"875c5d9fecf2a28c2c9d4a2a78464036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209477571
+        }
+    ],
+    "wof:id":1209477571,
+    "wof:lastmodified":1537622193,
+    "wof:name":"Parsi",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98063,
+    69.61307,
+    25.98063,
+    69.61307
+],
+  "geometry": {"coordinates":[25.98063,69.61306999999999],"type":"Point"}
+}

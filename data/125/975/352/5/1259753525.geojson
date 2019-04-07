@@ -1,0 +1,75 @@
+{
+  "id": 1259753525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.52414,63.52953,22.52414,63.52953",
+    "geom:latitude":63.52953,
+    "geom:longitude":22.52414,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"154.0",
+    "gn:admin3_code":"893.0",
+    "gn:asciiname":"Smedsbacka",
+    "gn:country_code":"FI",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":636498,
+    "gn:latitude":63.52953,
+    "gn:longitude":22.52414,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Smedsbacka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199045,
+        85633143,
+        404227417,
+        136253047,
+        1159321639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":636498
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"876ebb1ce4a58087def00ed60ae0c9fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321639,
+            "empire_id":136253047,
+            "localadmin_id":907199045,
+            "locality_id":1259753525,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1259753525,
+    "wof:lastmodified":1536966146,
+    "wof:name":"Smedsbacka",
+    "wof:parent_id":907199045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.52414,
+    63.52953,
+    22.52414,
+    63.52953
+],
+  "geometry": {"coordinates":[22.52414,63.52953],"type":"Point"}
+}

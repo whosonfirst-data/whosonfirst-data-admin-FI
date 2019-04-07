@@ -1,0 +1,84 @@
+{
+  "id": 1226125275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.72977,63.64759,22.72977,63.64759",
+    "geom:latitude":63.64759,
+    "geom:longitude":22.72977,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"154.0",
+    "gn:admin3_code":"599.0",
+    "gn:asciiname":"Sandsund",
+    "gn:country_code":"FI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":637782,
+    "gn:latitude":63.64759,
+    "gn:longitude":22.72977,
+    "gn:modification_date":"2016-05-29",
+    "gn:name":"Sandsund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sandsund"
+    ],
+    "name:fin_x_preferred":[
+        "Hietasalmi"
+    ],
+    "name:swe_x_preferred":[
+        "Sandsund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199161,
+        85633143,
+        404227417,
+        136253047,
+        1159321639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637782
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1c3985eeae44ce7f44eae6192c50808e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321639,
+            "empire_id":136253047,
+            "localadmin_id":907199161,
+            "locality_id":1226125275,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1226125275,
+    "wof:lastmodified":1537622167,
+    "wof:name":"Sandsund",
+    "wof:parent_id":907199161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.72977,
+    63.64759,
+    22.72977,
+    63.64759
+],
+  "geometry": {"coordinates":[22.72977,63.64759],"type":"Point"}
+}

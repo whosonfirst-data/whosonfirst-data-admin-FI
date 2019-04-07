@@ -1,0 +1,67 @@
+{
+  "id": 1209436323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.25605,61.05543,25.25605,61.05543",
+    "geom:latitude":61.05543,
+    "geom:longitude":25.25605,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"98.0",
+    "gn:asciiname":"Palomaa",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643252,
+    "gn:latitude":61.05543,
+    "gn:longitude":25.25605,
+    "gn:modification_date":"2016-02-03",
+    "gn:name":"Palomaa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Padonmaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643252
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"10737bcbffdb6714f982e1807411e960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209436323
+        }
+    ],
+    "wof:id":1209436323,
+    "wof:lastmodified":1537622196,
+    "wof:name":"Palomaa",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25605,
+    61.05543,
+    25.25605,
+    61.05543
+],
+  "geometry": {"coordinates":[25.25605,61.05543],"type":"Point"}
+}

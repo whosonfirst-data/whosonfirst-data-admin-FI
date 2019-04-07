@@ -1,0 +1,81 @@
+{
+  "id": 1276745495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.14838,63.81726,23.14838,63.81726",
+    "geom:latitude":63.81726,
+    "geom:longitude":23.14838,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"162.0",
+    "gn:admin3_code":"272.0",
+    "gn:asciiname":"Kallis",
+    "gn:country_code":"FI",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":654615,
+    "gn:latitude":63.81726,
+    "gn:longitude":23.14838,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kallis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kallinen"
+    ],
+    "name:swe_x_preferred":[
+        "Kallis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683125,
+        102191581,
+        907199049,
+        85633143,
+        404227417,
+        136253047,
+        1159321609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":654615
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e080697ad7a99f38477bcf594aa73430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321609,
+            "empire_id":136253047,
+            "localadmin_id":907199049,
+            "locality_id":1276745495,
+            "macroregion_id":404227417,
+            "region_id":85683125
+        }
+    ],
+    "wof:id":1276745495,
+    "wof:lastmodified":1537622264,
+    "wof:name":"Kallis",
+    "wof:parent_id":907199049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.14838,
+    63.81726,
+    23.14838,
+    63.81726
+],
+  "geometry": {"coordinates":[23.14838,63.81726],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293500411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8641,60.59406,21.8641,60.59406",
+    "geom:latitude":60.59406,
+    "geom:longitude":21.8641,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"503.0",
+    "gn:asciiname":"Kaulakko",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":653569,
+    "gn:latitude":60.59406,
+    "gn:longitude":21.8641,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kaulakko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaulakka",
+        "Kaulakko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198907,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":653569
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6d085eb26e80f42500e2a84480d69fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198907,
+            "locality_id":1293500411,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1293500411,
+    "wof:lastmodified":1537622256,
+    "wof:name":"Kaulakko",
+    "wof:parent_id":907198907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8641,
+    60.59406,
+    21.8641,
+    60.59406
+],
+  "geometry": {"coordinates":[21.8641,60.59406],"type":"Point"}
+}

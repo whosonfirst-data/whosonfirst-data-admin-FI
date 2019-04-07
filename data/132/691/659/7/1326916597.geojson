@@ -1,0 +1,84 @@
+{
+  "id": 1326916597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.17048,62.3275,25.17048,62.3275",
+    "geom:latitude":62.3275,
+    "geom:longitude":25.17048,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"131.0",
+    "gn:admin3_code":"592.0",
+    "gn:asciiname":"Kuivasmaeki",
+    "gn:country_code":"FI",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":650608,
+    "gn:latitude":62.3275,
+    "gn:longitude":25.17048,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kuivasm\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuivasm\u00e4ki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0439\u0432\u0430\u0441\u043c\u044f\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kuivasm\u00e4ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199215,
+        85633143,
+        404227417,
+        136253047,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":650608
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f4ac7ac187c59ab1d4c413b75bf8bfb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":907199215,
+            "locality_id":1326916597,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1326916597,
+    "wof:lastmodified":1537622237,
+    "wof:name":"Kuivasmaeki",
+    "wof:parent_id":907199215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.17048,
+    62.3275,
+    25.17048,
+    62.3275
+],
+  "geometry": {"coordinates":[25.17048,62.3275],"type":"Point"}
+}

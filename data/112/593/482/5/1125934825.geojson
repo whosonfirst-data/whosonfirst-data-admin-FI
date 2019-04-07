@@ -1,0 +1,109 @@
+{
+  "id": 1125934825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.48333,59.98333,23.48333,59.98333",
+    "geom:latitude":59.98333,
+    "geom:longitude":23.48333,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":59.98333,
+    "lbl:longitude":23.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5fb7\u62c9\u65af\u7dad\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Dragsvik"
+    ],
+    "name:eng_x_preferred":[
+        "Dragsvik"
+    ],
+    "name:fin_x_preferred":[
+        "Dragsvik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30e9\u30b0\u30b9\u30f4\u30a3\u30fc\u30af"
+    ],
+    "name:swe_x_preferred":[
+        "Dragsvik"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":660373,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dragsvik",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Uudenmaan maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":182857,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":564527,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Uudenmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907199747,
+        85633143,
+        404227411,
+        136253047,
+        1159321627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660373,
+        "gp:id":564527,
+        "qs_pg:id":182857,
+        "wd:id":"Q5305513"
+    },
+    "wof:country":"FI",
+    "wof:created":1497296931,
+    "wof:geomhash":"ec39e36b6d5e4ea2f390f80bcabe3dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321627,
+            "empire_id":136253047,
+            "localadmin_id":907199747,
+            "locality_id":1125934825,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1125934825,
+    "wof:lastmodified":1553816642,
+    "wof:name":"Dragsvik",
+    "wof:parent_id":907199747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.48333,
+    59.98333,
+    23.48333,
+    59.98333
+],
+  "geometry": {"coordinates":[23.48333,59.98333],"type":"Point"}
+}

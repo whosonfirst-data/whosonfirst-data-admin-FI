@@ -1,0 +1,75 @@
+{
+  "id": 1293675355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.01198,61.51973,25.01198,61.51973",
+    "geom:latitude":61.51973,
+    "geom:longitude":25.01198,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"134.0",
+    "gn:admin3_code":"291.0",
+    "gn:asciiname":"Myllykylae",
+    "gn:country_code":"FI",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":645300,
+    "gn:latitude":61.51973,
+    "gn:longitude":25.01198,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Myllykyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907198799,
+        85633143,
+        404227417,
+        136253047,
+        1159321587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":645300
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f833b27618e4e5e1804ba923da8327b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321587,
+            "empire_id":136253047,
+            "localadmin_id":907198799,
+            "locality_id":1293675355,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1293675355,
+    "wof:lastmodified":1537012787,
+    "wof:name":"Myllykylae",
+    "wof:parent_id":907198799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.01198,
+    61.51973,
+    25.01198,
+    61.51973
+],
+  "geometry": {"coordinates":[25.01198,61.51973],"type":"Point"}
+}

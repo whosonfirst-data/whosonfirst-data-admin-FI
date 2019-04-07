@@ -1,0 +1,66 @@
+{
+  "id": 102553333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.0513888889,63.1241666667,23.0513888889,63.1241666667",
+    "geom:latitude":63.124167,
+    "geom:longitude":23.051389,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"151",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424812,
+        "county_id":56120885,
+        "localadmin_id":12591044,
+        "planet_id":1,
+        "state_id":29389256
+    },
+    "wof:belongsto":[
+        85633143,
+        85683113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512775,
+        "iata:code":"KAU",
+        "icao:code":"EFKA",
+        "oa:id":"2317",
+        "wd:id":"Q2628568"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"12ed5bc8cc1091d83d2f80527b5101ca",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553333,
+            "country_id":85633143,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":102553333,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Kauhava lentokentt\u00e4",
+    "wof:parent_id":85683113,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    23.051388888889,
+    63.124166666667,
+    23.051388888889,
+    63.124166666667
+],
+  "geometry": {"coordinates":[23.051388888889,63.124166666667],"type":"Point"}
+}

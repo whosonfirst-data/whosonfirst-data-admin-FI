@@ -1,0 +1,63 @@
+{
+  "id": 1209381013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21526,64.56132,28.21526,64.56132",
+    "geom:latitude":64.56132,
+    "geom:longitude":28.21526,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"182.0",
+    "gn:admin3_code":"697.0",
+    "gn:asciiname":"Pihlajavaara",
+    "gn:country_code":"FI",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":641681,
+    "gn:latitude":64.56132,
+    "gn:longitude":28.21526,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Pihlajavaara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":641681
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"762787f9da189de3dc35f90497afefdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209381013
+        }
+    ],
+    "wof:id":1209381013,
+    "wof:lastmodified":1536288783,
+    "wof:name":"Pihlajavaara",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21526,
+    64.56132,
+    28.21526,
+    64.56132
+],
+  "geometry": {"coordinates":[28.21526,64.56131999999999],"type":"Point"}
+}

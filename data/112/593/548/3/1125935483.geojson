@@ -1,0 +1,97 @@
+{
+  "id": 1125935483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.58333,65.33333,26.58333,65.33333",
+    "geom:latitude":65.33333,
+    "geom:longitude":26.58333,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":65.33333,
+    "lbl:longitude":26.58333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kollaja"
+    ],
+    "name:fin_x_preferred":[
+        "Kollaja"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":651824,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kollaja",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Pohjois-pohjanmaan maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":182908,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":567732,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Pohjois-pohjanmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199499,
+        85633143,
+        404227415,
+        136253047,
+        1159321497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":651824,
+        "gp:id":567732,
+        "qs_pg:id":182908,
+        "wd:id":"Q11872213"
+    },
+    "wof:country":"FI",
+    "wof:created":1497296953,
+    "wof:geomhash":"876dacc5c41539503de2fc982a5a905d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321497,
+            "empire_id":136253047,
+            "localadmin_id":907199499,
+            "locality_id":1125935483,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1125935483,
+    "wof:lastmodified":1529709437,
+    "wof:name":"Kollaja",
+    "wof:parent_id":907199499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.58333,
+    65.33333,
+    26.58333,
+    65.33333
+],
+  "geometry": {"coordinates":[26.58333,65.33333],"type":"Point"}
+}

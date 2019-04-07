@@ -1,0 +1,96 @@
+{
+  "id": 1125983545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.16667,62.88333,29.16667,62.88333",
+    "geom:latitude":62.88333,
+    "geom:longitude":29.16667,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":62.88333,
+    "lbl:longitude":29.16667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Hukkala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u043a\u043a\u0430\u043b\u0430"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":657161,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hukkala",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Pohjois-karjala maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1156705,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":565759,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Pohjois-karjala maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199399,
+        85633143,
+        404227407,
+        136253047,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":657161,
+        "gp:id":565759,
+        "qs_pg:id":1156705
+    },
+    "wof:country":"FI",
+    "wof:created":1497298679,
+    "wof:geomhash":"eb403f67a93bcb99732e03e4378a9d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199399,
+            "locality_id":1125983545,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1125983545,
+    "wof:lastmodified":1529706710,
+    "wof:name":"Hukkala",
+    "wof:parent_id":907199399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.16667,
+    62.88333,
+    29.16667,
+    62.88333
+],
+  "geometry": {"coordinates":[29.16667,62.88333],"type":"Point"}
+}

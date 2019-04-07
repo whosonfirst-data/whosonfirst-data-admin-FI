@@ -1,0 +1,63 @@
+{
+  "id": 1209604861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.17159,60.80852,28.17159,60.80852",
+    "geom:latitude":60.80852,
+    "geom:longitude":28.17159,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"405.0",
+    "gn:asciiname":"Villala",
+    "gn:country_code":"FI",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":631489,
+    "gn:latitude":60.80852,
+    "gn:longitude":28.17159,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Villala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631489
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e571b4ed45315d42fb6d76e3b82c85cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209604861
+        }
+    ],
+    "wof:id":1209604861,
+    "wof:lastmodified":1536282046,
+    "wof:name":"Villala",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.17159,
+    60.80852,
+    28.17159,
+    60.80852
+],
+  "geometry": {"coordinates":[28.17159,60.80852],"type":"Point"}
+}

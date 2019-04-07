@@ -1,0 +1,81 @@
+{
+  "id": 1209908885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88889,61.37802,24.88889,61.37802",
+    "geom:latitude":61.37802,
+    "geom:longitude":24.88889,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"64.0",
+    "gn:admin3_code":"635.0",
+    "gn:asciiname":"Vahtermetsae",
+    "gn:country_code":"FI",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":632865,
+    "gn:latitude":61.37802,
+    "gn:longitude":24.88889,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Vahtermets\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kelkankyl\u00e4"
+    ],
+    "name:fin_x_variant":[
+        "Vahtermets\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907199187,
+        85633143,
+        404227417,
+        136253047,
+        1159321521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":632865
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e31479facb5ff34c35616bef1392fa7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321521,
+            "empire_id":136253047,
+            "localadmin_id":907199187,
+            "locality_id":1209908885,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1209908885,
+    "wof:lastmodified":1537622142,
+    "wof:name":"Vahtermetsae",
+    "wof:parent_id":907199187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88889,
+    61.37801999999999,
+    24.88889,
+    61.37801999999999
+],
+  "geometry": {"coordinates":[24.88889,61.37801999999999],"type":"Point"}
+}

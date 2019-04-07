@@ -1,0 +1,75 @@
+{
+  "id": 1343665025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7339,60.17669,21.7339,60.17669",
+    "geom:latitude":60.17669,
+    "geom:longitude":21.7339,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"445.0",
+    "gn:asciiname":"Sydaenperae",
+    "gn:country_code":"FI",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":635401,
+    "gn:latitude":60.17669,
+    "gn:longitude":21.7339,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Syd\u00e4nper\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907199741,
+        85633143,
+        404227405,
+        136253047,
+        1159321605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":635401
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"65b53d32892f294f34528630e37329ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321605,
+            "empire_id":136253047,
+            "localadmin_id":907199741,
+            "locality_id":1343665025,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1343665025,
+    "wof:lastmodified":1536948765,
+    "wof:name":"Sydaenperae",
+    "wof:parent_id":907199741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7339,
+    60.17669,
+    21.7339,
+    60.17669
+],
+  "geometry": {"coordinates":[21.7339,60.17669],"type":"Point"}
+}

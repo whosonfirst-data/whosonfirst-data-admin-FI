@@ -1,0 +1,75 @@
+{
+  "id": 1326544171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91842,59.96594,22.91842,59.96594",
+    "geom:latitude":59.96594,
+    "geom:longitude":22.91842,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"710.0",
+    "gn:asciiname":"Orvlax",
+    "gn:country_code":"FI",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643592,
+    "gn:latitude":59.96594,
+    "gn:longitude":22.91842,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Orvlax",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907199747,
+        85633143,
+        404227411,
+        136253047,
+        1159321627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643592
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"df43509960b4b060e745f6b1414e9a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321627,
+            "empire_id":136253047,
+            "localadmin_id":907199747,
+            "locality_id":1326544171,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1326544171,
+    "wof:lastmodified":1536966460,
+    "wof:name":"Orvlax",
+    "wof:parent_id":907199747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91842,
+    59.96594,
+    22.91842,
+    59.96594
+],
+  "geometry": {"coordinates":[22.91842,59.96594],"type":"Point"}
+}

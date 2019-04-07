@@ -1,0 +1,78 @@
+{
+  "id": 1310423259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.93387,60.4344,24.93387,60.4344",
+    "geom:latitude":60.4344,
+    "geom:longitude":24.93387,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"858.0",
+    "gn:asciiname":"Maekikylae",
+    "gn:country_code":"FI",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101533,
+    "gn:latitude":60.4344,
+    "gn:longitude":24.93387,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"M\u00e4kikyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "M\u00e4kikyl\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198631,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101533
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d04426ce7d860390cf6a65259a5e0e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198631,
+            "locality_id":1310423259,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1310423259,
+    "wof:lastmodified":1537622334,
+    "wof:name":"Maekikylae",
+    "wof:parent_id":907198631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.93387,
+    60.4344,
+    24.93387,
+    60.4344
+],
+  "geometry": {"coordinates":[24.93387,60.4344],"type":"Point"}
+}

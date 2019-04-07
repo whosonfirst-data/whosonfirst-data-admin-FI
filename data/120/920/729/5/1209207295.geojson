@@ -1,0 +1,63 @@
+{
+  "id": 1209207295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.15529,61.59573,23.15529,61.59573",
+    "geom:latitude":61.59573,
+    "geom:longitude":23.15529,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"64.0",
+    "gn:admin3_code":"108.0",
+    "gn:asciiname":"Herttuala",
+    "gn:country_code":"FI",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":658129,
+    "gn:latitude":61.59573,
+    "gn:longitude":23.15529,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Herttuala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":658129
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"204f3089f540c94496005df71bbe5008",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209207295
+        }
+    ],
+    "wof:id":1209207295,
+    "wof:lastmodified":1536294412,
+    "wof:name":"Herttuala",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.15529,
+    61.59573,
+    23.15529,
+    61.59573
+],
+  "geometry": {"coordinates":[23.15529,61.59573],"type":"Point"}
+}

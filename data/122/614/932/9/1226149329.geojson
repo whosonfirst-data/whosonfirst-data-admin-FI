@@ -1,0 +1,81 @@
+{
+  "id": 1226149329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53876,61.40466,21.53876,61.40466",
+    "geom:latitude":61.40466,
+    "geom:longitude":21.53876,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"51.0",
+    "gn:asciiname":"Sunti",
+    "gn:country_code":"FI",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101169,
+    "gn:latitude":61.40466,
+    "gn:longitude":21.53876,
+    "gn:modification_date":"2018-03-11",
+    "gn:name":"Sunti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Sunti"
+    ],
+    "name:swe_x_preferred":[
+        "Sundet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907199643,
+        85633143,
+        404227405,
+        136253047,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101169
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b316e65d6c6af4fd30348096537ef3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907199643,
+            "locality_id":1226149329,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1226149329,
+    "wof:lastmodified":1537622319,
+    "wof:name":"Sunti",
+    "wof:parent_id":907199643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53876,
+    61.40466,
+    21.53876,
+    61.40466
+],
+  "geometry": {"coordinates":[21.53876,61.40466],"type":"Point"}
+}

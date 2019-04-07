@@ -1,0 +1,75 @@
+{
+  "id": 1260056347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73333,65.4,26.73333,65.4",
+    "geom:latitude":65.4,
+    "geom:longitude":26.73333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"173.0",
+    "gn:admin3_code":"615.0",
+    "gn:asciiname":"Matinsaari",
+    "gn:country_code":"FI",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":646414,
+    "gn:latitude":65.4,
+    "gn:longitude":26.73333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Matinsaari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199499,
+        85633143,
+        404227415,
+        136253047,
+        1159321497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":646414
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e5ba426d2d01c7ff655e71f4e78520db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321497,
+            "empire_id":136253047,
+            "localadmin_id":907199499,
+            "locality_id":1260056347,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1260056347,
+    "wof:lastmodified":1537026024,
+    "wof:name":"Matinsaari",
+    "wof:parent_id":907199499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73333,
+    65.4,
+    26.73333,
+    65.4
+],
+  "geometry": {"coordinates":[26.73333,65.40000000000001],"type":"Point"}
+}

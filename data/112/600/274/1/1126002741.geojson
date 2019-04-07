@@ -1,0 +1,119 @@
+{
+  "id": 1126002741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39906,60.44575,22.39906,60.44575",
+    "geom:latitude":60.44575,
+    "geom:longitude":22.39906,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.44575,
+    "lbl:longitude":22.39906,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u062a\u0648\u0646\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Littoinen"
+    ],
+    "name:eng_x_preferred":[
+        "Littoinen"
+    ],
+    "name:est_x_preferred":[
+        "Littoinen"
+    ],
+    "name:fin_x_preferred":[
+        "Littoinen"
+    ],
+    "name:ger_x_preferred":[
+        "Littoinen"
+    ],
+    "name:hun_x_preferred":[
+        "Littoinen"
+    ],
+    "name:swe_x_preferred":[
+        "Littois"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":841974,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Littoinen",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Varsinais-Suomen maakunta",
+    "qs_pg:photos":1874,
+    "qs_pg:photos_1k":380,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1874,
+    "qs_pg:photos_sr":15,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":243422,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":569155,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Varsinais-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198993,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":841974,
+        "gp:id":569155,
+        "qs_pg:id":243422,
+        "wd:id":"Q1865930"
+    },
+    "wof:country":"FI",
+    "wof:created":1497299748,
+    "wof:geomhash":"99161b5482c6809914b473d68f7d50a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198993,
+            "locality_id":1126002741,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1126002741,
+    "wof:lastmodified":1529706482,
+    "wof:name":"Littoinen",
+    "wof:parent_id":907198993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39906,
+    60.44575,
+    22.39906,
+    60.44575
+],
+  "geometry": {"coordinates":[22.39906,60.44575],"type":"Point"}
+}

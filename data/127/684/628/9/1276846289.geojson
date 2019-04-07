@@ -1,0 +1,79 @@
+{
+  "id": 1276846289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.11667,64.21667,28.11667,64.21667",
+    "geom:latitude":64.21667,
+    "geom:longitude":28.11667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"182.0",
+    "gn:admin3_code":"765.0",
+    "gn:asciiname":"Nuasjaervi",
+    "gn:country_code":"FI",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":644311,
+    "gn:latitude":64.21667,
+    "gn:longitude":28.11667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Nuasj\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nuvaskyl\u00e4",
+        "Nuasj\u00e4rvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683137,
+        102191581,
+        907199319,
+        85633143,
+        404227415,
+        136253047,
+        1159321487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":644311
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a9c5c0cacc1d29c06c1c5afa8644dd5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199319,
+            "locality_id":1276846289,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":1276846289,
+    "wof:lastmodified":1537622202,
+    "wof:name":"Nuasjaervi",
+    "wof:parent_id":907199319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.11667000000001,
+    64.21667,
+    28.11667000000001,
+    64.21667
+],
+  "geometry": {"coordinates":[28.11667000000001,64.21666999999999],"type":"Point"}
+}

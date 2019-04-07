@@ -1,0 +1,75 @@
+{
+  "id": 1343558857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.91312,61.31661,23.91312,61.31661",
+    "geom:latitude":61.31661,
+    "geom:longitude":23.91312,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"64.0",
+    "gn:admin3_code":"418.0",
+    "gn:asciiname":"Ruokolammi",
+    "gn:country_code":"FI",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870165,
+    "gn:latitude":61.31661,
+    "gn:longitude":23.91312,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Ruokolammi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907199279,
+        85633143,
+        404227417,
+        136253047,
+        1159321521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870165
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c998a10f1e0ff64ab46b4a3d0f21a6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321521,
+            "empire_id":136253047,
+            "localadmin_id":907199279,
+            "locality_id":1343558857,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1343558857,
+    "wof:lastmodified":1536601092,
+    "wof:name":"Ruokolammi",
+    "wof:parent_id":907199279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91312000000001,
+    61.31661,
+    23.91312000000001,
+    61.31661
+],
+  "geometry": {"coordinates":[23.91312000000001,61.31661],"type":"Point"}
+}

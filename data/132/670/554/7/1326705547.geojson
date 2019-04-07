@@ -1,0 +1,75 @@
+{
+  "id": 1326705547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83478,67.21081,24.83478,67.21081",
+    "geom:latitude":67.21081,
+    "geom:longitude":24.83478,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"196.0",
+    "gn:admin3_code":"261.0",
+    "gn:asciiname":"Helppi",
+    "gn:country_code":"FI",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":658232,
+    "gn:latitude":67.21081,
+    "gn:longitude":24.83478,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Helppi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199565,
+        85633143,
+        404227409,
+        136253047,
+        1159321583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":658232
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e20d6c467332a1553e1acd6b858a46fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321583,
+            "empire_id":136253047,
+            "localadmin_id":907199565,
+            "locality_id":1326705547,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1326705547,
+    "wof:lastmodified":1536734446,
+    "wof:name":"Helppi",
+    "wof:parent_id":907199565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83478,
+    67.21081,
+    24.83478,
+    67.21081
+],
+  "geometry": {"coordinates":[24.83478,67.21081],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209119187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65,60.56667,21.65,60.56667",
+    "geom:latitude":60.56667,
+    "geom:longitude":21.65,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"833.0",
+    "gn:asciiname":"Ketarsalmi",
+    "gn:country_code":"FI",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":653034,
+    "gn:latitude":60.56667,
+    "gn:longitude":21.65,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Ketarsalmi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":653034
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7b5de50b138eba30fbde292d12d84714",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209119187
+        }
+    ],
+    "wof:id":1209119187,
+    "wof:lastmodified":1536297158,
+    "wof:name":"Ketarsalmi",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65,
+    60.56667,
+    21.65,
+    60.56667
+],
+  "geometry": {"coordinates":[21.65,60.56667],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1193244613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.91563,64.4839,27.91563,64.4839",
+    "geom:latitude":64.4839,
+    "geom:longitude":27.91563,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"182.0",
+    "gn:admin3_code":"578.0",
+    "gn:asciiname":"Uura",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":633247,
+    "gn:latitude":64.4839,
+    "gn:longitude":27.91563,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Uura",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uurankyl\u00e4",
+        "Uura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683137,
+        102191581,
+        907199475,
+        85633143,
+        404227415,
+        136253047,
+        1159321487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":633247
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"0237997b8b98f81c16ca29c0f08b1303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199475,
+            "locality_id":1193244613,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":1193244613,
+    "wof:lastmodified":1537622144,
+    "wof:name":"Uura",
+    "wof:parent_id":907199475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.91563,
+    64.4839,
+    27.91563,
+    64.4839
+],
+  "geometry": {"coordinates":[27.91563,64.48390000000001],"type":"Point"}
+}

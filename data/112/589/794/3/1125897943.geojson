@@ -1,0 +1,109 @@
+{
+  "id": 1125897943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2229,60.4352,22.2229,60.4352",
+    "geom:latitude":60.4352,
+    "geom:longitude":22.2229,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.4352,
+    "lbl:longitude":22.2229,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Hafen Turku"
+    ],
+    "name:eng_x_preferred":[
+        "Port of Turku"
+    ],
+    "name:eng_x_variant":[
+        "Turku Harbour"
+    ],
+    "name:fra_x_preferred":[
+        "Port de Turku"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c5bo hamn"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7647233,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Turun satama",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Varsinais-Suomen maakunta",
+    "qs_pg:photos":191,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":191,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":354923,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":25946981,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Varsinais-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198909,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7647233,
+        "gp:id":25946981,
+        "qs_pg:id":354923
+    },
+    "wof:country":"FI",
+    "wof:created":1497295667,
+    "wof:geomhash":"60c49a0a8b36bc9e73887d3d0c1e5ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198909,
+            "locality_id":1125897943,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1125897943,
+    "wof:lastmodified":1529706490,
+    "wof:name":"Turun satama",
+    "wof:parent_id":907198909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2229,
+    60.4352,
+    22.2229,
+    60.4352
+],
+  "geometry": {"coordinates":[22.2229,60.4352],"type":"Point"}
+}

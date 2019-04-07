@@ -1,0 +1,75 @@
+{
+  "id": 1276358303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.78162,61.54549,22.78162,61.54549",
+    "geom:latitude":61.54549,
+    "geom:longitude":22.78162,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"68.0",
+    "gn:admin3_code":"790.0",
+    "gn:asciiname":"Jalkavala",
+    "gn:country_code":"FI",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":656104,
+    "gn:latitude":61.54549,
+    "gn:longitude":22.78162,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Jalkavala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907199751,
+        85633143,
+        404227417,
+        136253047,
+        1159321613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":656104
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b14d6f0129035a409070eee199c77a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321613,
+            "empire_id":136253047,
+            "localadmin_id":907199751,
+            "locality_id":1276358303,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1276358303,
+    "wof:lastmodified":1536744806,
+    "wof:name":"Jalkavala",
+    "wof:parent_id":907199751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.78162,
+    61.54549,
+    22.78162,
+    61.54549
+],
+  "geometry": {"coordinates":[22.78162,61.54549],"type":"Point"}
+}

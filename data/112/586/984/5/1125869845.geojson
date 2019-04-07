@@ -1,0 +1,106 @@
+{
+  "id": 1125869845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.78333,60.25,22.78333,60.25",
+    "geom:latitude":60.25,
+    "geom:longitude":22.78333,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.25,
+    "lbl:longitude":22.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Amb\u00f6le"
+    ],
+    "name:isl_x_preferred":[
+        "Amb\u00f6le"
+    ],
+    "name:nor_x_preferred":[
+        "Amb\u00f6le"
+    ],
+    "name:swe_x_preferred":[
+        "Amb\u00f6le"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":661231,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ampola",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Varsinais-Suomen maakunta",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":38327,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":564195,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Varsinais-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198941,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":661231,
+        "gp:id":564195,
+        "qs_pg:id":38327
+    },
+    "wof:country":"FI",
+    "wof:created":1497294233,
+    "wof:geomhash":"49cb8b5f5d6f83ee1b5f996b2a3d87d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198941,
+            "locality_id":1125869845,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1125869845,
+    "wof:lastmodified":1529706494,
+    "wof:name":"Ampola",
+    "wof:parent_id":907198941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.78333,
+    60.25,
+    22.78333,
+    60.25
+],
+  "geometry": {"coordinates":[22.78333,60.25],"type":"Point"}
+}

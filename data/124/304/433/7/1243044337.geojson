@@ -1,0 +1,78 @@
+{
+  "id": 1243044337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88485,61.93987,24.88485,61.93987",
+    "geom:latitude":61.93987,
+    "geom:longitude":24.88485,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"134.0",
+    "gn:admin3_code":"182.0",
+    "gn:asciiname":"Kyttaelae",
+    "gn:country_code":"FI",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101406,
+    "gn:latitude":61.93987,
+    "gn:longitude":24.88485,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Kytt\u00e4l\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kytt\u00e4l\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199101,
+        85633143,
+        404227417,
+        136253047,
+        1159321587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101406
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"353ebb474de49794fa757ace4aa055f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321587,
+            "empire_id":136253047,
+            "localadmin_id":907199101,
+            "locality_id":1243044337,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1243044337,
+    "wof:lastmodified":1537622329,
+    "wof:name":"Kyttaelae",
+    "wof:parent_id":907199101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88485,
+    61.93986999999999,
+    24.88485,
+    61.93986999999999
+],
+  "geometry": {"coordinates":[24.88485,61.93986999999999],"type":"Point"}
+}

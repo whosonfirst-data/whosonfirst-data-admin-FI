@@ -1,0 +1,87 @@
+{
+  "id": 1125898205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75,60.7,22.75,60.7",
+    "geom:latitude":60.7,
+    "geom:longitude":22.75,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.7,
+    "lbl:longitude":22.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Kyr\u00f6"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":649625,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kyr\u00f6",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1026805,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198921,
+        85633143,
+        404227405,
+        136253047,
+        1159321505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649625,
+        "qs_pg:id":1026805
+    },
+    "wof:country":"FI",
+    "wof:created":1497295680,
+    "wof:geomhash":"01c418029fa8d62c60a605f04e105353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321505,
+            "empire_id":136253047,
+            "localadmin_id":907198921,
+            "locality_id":1125898205,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1125898205,
+    "wof:lastmodified":1534379298,
+    "wof:name":"Kyr\u00f6",
+    "wof:parent_id":907198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[
+        1125957641
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75,
+    60.7,
+    22.75,
+    60.7
+],
+  "geometry": {"coordinates":[22.75,60.7],"type":"Point"}
+}

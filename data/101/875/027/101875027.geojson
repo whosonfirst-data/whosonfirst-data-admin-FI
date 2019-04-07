@@ -1,0 +1,106 @@
+{
+  "id": 101875027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.523534,60.964291,24.523534,60.964291",
+    "geom:latitude":60.964291,
+    "geom:longitude":24.523534,
+    "iso:country":"FI",
+    "lbl:latitude":60.964291,
+    "lbl:longitude":24.523534,
+    "mps:latitude":60.964291,
+    "mps:longitude":24.523534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Vanaja"
+    ],
+    "name:fin_x_preferred":[
+        "Vanaja"
+    ],
+    "name:fre_x_preferred":[
+        "Vanaja"
+    ],
+    "name:ger_x_preferred":[
+        "Vanaja"
+    ],
+    "name:nob_x_preferred":[
+        "V\u00e5n\u00e5"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00e5n\u00e5"
+    ],
+    "qs:a0":"Suomi#Finland",
+    "qs:a1":"*Kanta-H\u00e4me#Egentliga Tavastland",
+    "qs:a1r":"0Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
+    "qs:adm0":"Suomi#Finland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vanaja",
+    "qs:loc_alt":"Vanaja",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        85683077,
+        102191581,
+        907199245,
+        85633143,
+        404227411,
+        136253047,
+        1159321513
+    ],
+    "wof:breaches":[
+        101815409
+    ],
+    "wof:concordances":{
+        "gn:id":632536,
+        "gp:id":574600,
+        "qs:id":1156465,
+        "qs_pg:id":1156465,
+        "wd:id":"Q3366125"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3f7aae2b411936b33e114393006b3dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321513,
+            "empire_id":136253047,
+            "localadmin_id":907199245,
+            "locality_id":101875027,
+            "macroregion_id":404227411,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":101875027,
+    "wof:lastmodified":1544751903,
+    "wof:name":"Vanaja",
+    "wof:parent_id":907199245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.523534,
+    60.964291,
+    24.523534,
+    60.964291
+],
+  "geometry": {"coordinates":[24.523534,60.964291],"type":"Point"}
+}

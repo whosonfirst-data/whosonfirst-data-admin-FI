@@ -1,0 +1,75 @@
+{
+  "id": 1327137431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11711,60.55538,22.11711,60.55538",
+    "geom:latitude":60.55538,
+    "geom:longitude":22.11711,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"481.0",
+    "gn:asciiname":"Paloas",
+    "gn:country_code":"FI",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7647346,
+    "gn:latitude":60.55538,
+    "gn:longitude":22.11711,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Paloas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198919,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7647346
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b6e4888f1726172423de5aabb97349d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198919,
+            "locality_id":1327137431,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1327137431,
+    "wof:lastmodified":1536605872,
+    "wof:name":"Paloas",
+    "wof:parent_id":907198919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11711,
+    60.55538000000001,
+    22.11711,
+    60.55538000000001
+],
+  "geometry": {"coordinates":[22.11711,60.55538000000001],"type":"Point"}
+}

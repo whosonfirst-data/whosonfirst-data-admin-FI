@@ -1,0 +1,86 @@
+{
+  "id": 1125272679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-12-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5,62.5,25.5,62.5",
+    "geom:latitude":62.5,
+    "geom:longitude":25.5,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":268963,
+    "gn:population":268963,
+    "iso:country":"FI",
+    "lbl:latitude":62.5,
+    "lbl:longitude":25.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Mellersta Finlands L\u00e4n"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":653071,
+    "qs_pg:gn_pop":268963,
+    "qs_pg:name":"Keski-Suomen L\u00e4\u00e4ni",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":550563,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        85633143,
+        404227417,
+        136253047,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":653071,
+        "qs_pg:id":550563
+    },
+    "wof:country":"FI",
+    "wof:created":1497042189,
+    "wof:geomhash":"961e1d1cdc7a4dbd590b5ae07831cee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":1125272679,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1125272679,
+    "wof:lastmodified":1544223142,
+    "wof:name":"Keski-Suomen L\u00e4\u00e4ni",
+    "wof:parent_id":1159321625,
+    "wof:placetype":"localadmin",
+    "wof:population":268963,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5,
+    62.5,
+    25.5,
+    62.5
+],
+  "geometry": {"coordinates":[25.5,62.5],"type":"Point"}
+}

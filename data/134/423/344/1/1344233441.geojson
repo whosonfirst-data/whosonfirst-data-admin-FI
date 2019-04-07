@@ -1,0 +1,75 @@
+{
+  "id": 1344233441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.93895,63.17225,25.93895,63.17225",
+    "geom:latitude":63.17225,
+    "geom:longitude":25.93895,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"138.0",
+    "gn:admin3_code":"931.0",
+    "gn:asciiname":"Kaernae",
+    "gn:country_code":"FI",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":653929,
+    "gn:latitude":63.17225,
+    "gn:longitude":25.93895,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"K\u00e4rn\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199223,
+        85633143,
+        404227417,
+        136253047,
+        1159321515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":653929
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"11e696f10eb53c15f3f3866136b4b81f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321515,
+            "empire_id":136253047,
+            "localadmin_id":907199223,
+            "locality_id":1344233441,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1344233441,
+    "wof:lastmodified":1536624081,
+    "wof:name":"Kaernae",
+    "wof:parent_id":907199223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.93895,
+    63.17225,
+    25.93895,
+    63.17225
+],
+  "geometry": {"coordinates":[25.93895,63.17225],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 101872901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.150232,65.922104,24.150232,65.922104",
+    "geom:latitude":65.922104,
+    "geom:longitude":24.150232,
+    "geonames:id":"661360,631267",
+    "iso:country":"FI",
+    "lbl:latitude":65.922104,
+    "lbl:longitude":24.150232,
+    "mps:latitude":65.922104,
+    "mps:longitude":24.150233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Vojakkala"
+    ],
+    "qs:a0":"Suomi#Finland",
+    "qs:a1":"*Lappi#Lappland",
+    "qs:a1r":"0Lapin AVI#Lapplands RFV",
+    "qs:adm0":"Suomi#Finland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vojakkala",
+    "qs:loc_alt":"Vojakkala",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":299,
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199557,
+        85633143,
+        404227409,
+        136253047,
+        1159321559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":564152,
+        "qs:id":8,
+        "wd:id":"Q7939819"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c13490736999afe10cd85e705bd166fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321559,
+            "empire_id":136253047,
+            "localadmin_id":907199557,
+            "locality_id":101872901,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":101872901,
+    "wof:lastmodified":1544751380,
+    "wof:name":"Vojakkala",
+    "wof:parent_id":907199557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.150232,
+    65.922104,
+    24.150232,
+    65.922104
+],
+  "geometry": {"coordinates":[24.150232,65.922104],"type":"Point"}
+}

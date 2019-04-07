@@ -1,0 +1,84 @@
+{
+  "id": 1360060583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.21673,69.77548,26.21673,69.77548",
+    "geom:latitude":69.77548,
+    "geom:longitude":26.21673,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"197.0",
+    "gn:admin3_code":"890.0",
+    "gn:asciiname":"Dalvadas",
+    "gn:country_code":"FI",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6698162,
+    "gn:latitude":69.77548,
+    "gn:longitude":26.21673,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"D\u00e1lvadas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Talvadas"
+    ],
+    "name:sme_x_preferred":[
+        "D\u00e1lvadas"
+    ],
+    "name:sme_x_variant":[
+        "Talva\u0111as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199575,
+        85633143,
+        404227409,
+        136253047,
+        1159321531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6698162
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"51c88e7af8d9e5b522e0a947b2da1084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321531,
+            "empire_id":136253047,
+            "localadmin_id":907199575,
+            "locality_id":1360060583,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1360060583,
+    "wof:lastmodified":1537622313,
+    "wof:name":"Dalvadas",
+    "wof:parent_id":907199575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.21673,
+    69.77548,
+    26.21673,
+    69.77548
+],
+  "geometry": {"coordinates":[26.21673,69.77548],"type":"Point"}
+}

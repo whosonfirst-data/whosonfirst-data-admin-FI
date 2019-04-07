@@ -1,0 +1,63 @@
+{
+  "id": 1209618385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97715,60.70104,21.97715,60.70104",
+    "geom:latitude":60.70104,
+    "geom:longitude":21.97715,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"503.0",
+    "gn:asciiname":"Taka-Nihattula",
+    "gn:country_code":"FI",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":854837,
+    "gn:latitude":60.70104,
+    "gn:longitude":21.97715,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Taka-Nihattula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":854837
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"23c400e1f95cb8d68cc719ee81da64fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209618385
+        }
+    ],
+    "wof:id":1209618385,
+    "wof:lastmodified":1536281607,
+    "wof:name":"Taka-Nihattula",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97715,
+    60.70104,
+    21.97715,
+    60.70104
+],
+  "geometry": {"coordinates":[21.97715,60.70104],"type":"Point"}
+}

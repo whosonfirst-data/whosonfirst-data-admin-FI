@@ -1,0 +1,78 @@
+{
+  "id": 1226125387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.87907,63.10769,21.87907,63.10769",
+    "geom:latitude":63.10769,
+    "geom:longitude":21.87907,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"499.0",
+    "gn:asciiname":"Larkibacken",
+    "gn:country_code":"FI",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101798,
+    "gn:latitude":63.10769,
+    "gn:longitude":21.87907,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Larkibacken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Larkibacken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907198985,
+        85633143,
+        404227417,
+        136253047,
+        1159321501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101798
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"be4cb186aadd85c95a5e66c0a1edc945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321501,
+            "empire_id":136253047,
+            "localadmin_id":907198985,
+            "locality_id":1226125387,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1226125387,
+    "wof:lastmodified":1537622343,
+    "wof:name":"Larkibacken",
+    "wof:parent_id":907198985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.87907,
+    63.10769000000001,
+    21.87907,
+    63.10769000000001
+],
+  "geometry": {"coordinates":[21.87907,63.10769000000001],"type":"Point"}
+}

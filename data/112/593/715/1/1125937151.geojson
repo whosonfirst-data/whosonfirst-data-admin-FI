@@ -1,0 +1,96 @@
+{
+  "id": 1125937151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.75,62.33333,26.75,62.33333",
+    "geom:latitude":62.33333,
+    "geom:longitude":26.75,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":62.33333,
+    "lbl:longitude":26.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Venetm\u00e4ki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043d\u0435\u0442\u043c\u044f\u043a\u0438"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":631948,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Venetm\u00e4ki",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Etel\u00e4-Savon maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":183037,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":574839,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Etel\u00e4-Savon maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683109,
+        102191581,
+        907199013,
+        85633143,
+        404227407,
+        136253047,
+        1159321615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631948,
+        "gp:id":574839,
+        "qs_pg:id":183037
+    },
+    "wof:country":"FI",
+    "wof:created":1497297003,
+    "wof:geomhash":"e9f6ebcfc260e4ba3d6106178881d83e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321615,
+            "empire_id":136253047,
+            "localadmin_id":907199013,
+            "locality_id":1125937151,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":1125937151,
+    "wof:lastmodified":1529714464,
+    "wof:name":"Venetm\u00e4ki",
+    "wof:parent_id":907199013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.75,
+    62.33333,
+    26.75,
+    62.33333
+],
+  "geometry": {"coordinates":[26.75,62.33333],"type":"Point"}
+}

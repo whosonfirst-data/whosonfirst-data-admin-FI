@@ -1,0 +1,121 @@
+{
+  "id": 1125377791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-12-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.96255,66.77364,23.96255,66.77364",
+    "geom:latitude":66.77364,
+    "geom:longitude":23.96255,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":4542,
+    "gn:population":4542,
+    "iso:country":"FI",
+    "lbl:latitude":66.77364,
+    "lbl:longitude":23.96255,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Pello"
+    ],
+    "name:eng_x_preferred":[
+        "Pello"
+    ],
+    "name:fin_x_preferred":[
+        "Pello"
+    ],
+    "name:fra_x_preferred":[
+        "Pello"
+    ],
+    "name:nld_x_preferred":[
+        "Pello"
+    ],
+    "name:ron_x_preferred":[
+        "Pello"
+    ],
+    "name:sme_x_preferred":[
+        "Pello"
+    ],
+    "name:swe_x_preferred":[
+        "Pello"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":642367,
+    "qs_pg:gn_pop":4542,
+    "qs_pg:name":"Pello",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Lapin maakunta",
+    "qs_pg:photos":453,
+    "qs_pg:photos_1k":92,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1107,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":985628,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":12590789,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Lapin maakunta",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        85633143,
+        404227409,
+        136253047,
+        1159321537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":642367,
+        "gp:id":12590789,
+        "qs_pg:id":985628
+    },
+    "wof:country":"FI",
+    "wof:created":1497047860,
+    "wof:geomhash":"f3da1b4ae3f0fadf84da7377b2f666bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321537,
+            "empire_id":136253047,
+            "localadmin_id":1125377791,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1125377791,
+    "wof:lastmodified":1544223147,
+    "wof:name":"Pello",
+    "wof:parent_id":1159321537,
+    "wof:placetype":"localadmin",
+    "wof:population":4542,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96255,
+    66.77364,
+    23.96255,
+    66.77364
+],
+  "geometry": {"coordinates":[23.96255,66.77364],"type":"Point"}
+}

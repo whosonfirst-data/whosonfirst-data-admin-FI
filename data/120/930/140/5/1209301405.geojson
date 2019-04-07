@@ -1,0 +1,68 @@
+{
+  "id": 1209301405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.01412,62.7016,29.01412,62.7016",
+    "geom:latitude":62.7016,
+    "geom:longitude":29.01412,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"122.0",
+    "gn:admin3_code":"309.0",
+    "gn:asciiname":"Alavi",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":661365,
+    "gn:latitude":62.7016,
+    "gn:longitude":29.01412,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Alavi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alavinkyl\u00e4",
+        "Alavi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":661365
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b6b3a3c60af1fadeaf0f36c7db4fd3b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209301405
+        }
+    ],
+    "wof:id":1209301405,
+    "wof:lastmodified":1537622304,
+    "wof:name":"Alavi",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.01412,
+    62.7016,
+    29.01412,
+    62.7016
+],
+  "geometry": {"coordinates":[29.01412,62.7016],"type":"Point"}
+}

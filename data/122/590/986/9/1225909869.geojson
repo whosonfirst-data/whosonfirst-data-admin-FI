@@ -1,0 +1,75 @@
+{
+  "id": 1225909869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.01667,65.8,25.01667,65.8",
+    "geom:latitude":65.8,
+    "geom:longitude":25.01667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"192.0",
+    "gn:admin3_code":"751.0",
+    "gn:asciiname":"Filpus",
+    "gn:country_code":"FI",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660022,
+    "gn:latitude":65.8,
+    "gn:longitude":25.01667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Filpus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199485,
+        85633143,
+        404227409,
+        136253047,
+        1159321559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660022
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a2232e6f23141a17b9282f59c3b68ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321559,
+            "empire_id":136253047,
+            "localadmin_id":907199485,
+            "locality_id":1225909869,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1225909869,
+    "wof:lastmodified":1536922053,
+    "wof:name":"Filpus",
+    "wof:parent_id":907199485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.01667,
+    65.8,
+    25.01667,
+    65.8
+],
+  "geometry": {"coordinates":[25.01667,65.8],"type":"Point"}
+}

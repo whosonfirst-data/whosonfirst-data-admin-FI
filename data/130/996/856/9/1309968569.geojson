@@ -1,0 +1,86 @@
+{
+  "id": 1309968569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.43411,67.49041,27.43411,67.49041",
+    "geom:latitude":67.49041,
+    "geom:longitude":27.43411,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"194.0",
+    "gn:admin3_code":"742.0",
+    "gn:asciiname":"Kiurujaervi",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":652568,
+    "gn:latitude":67.49041,
+    "gn:longitude":27.43411,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kiuruj\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kiuru"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0443\u0440\u0443\u044f\u0440\u0432\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kiuruj\u00e4rvi",
+        "Kiuru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199579,
+        85633143,
+        404227409,
+        136253047,
+        1159321535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":652568
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"0c6763416d57a50b7a24829241de4150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321535,
+            "empire_id":136253047,
+            "localadmin_id":907199579,
+            "locality_id":1309968569,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1309968569,
+    "wof:lastmodified":1537622250,
+    "wof:name":"Kiurujaervi",
+    "wof:parent_id":907199579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.43411,
+    67.49041,
+    27.43411,
+    67.49041
+],
+  "geometry": {"coordinates":[27.43411,67.49041],"type":"Point"}
+}

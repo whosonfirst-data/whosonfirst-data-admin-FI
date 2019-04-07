@@ -1,0 +1,93 @@
+{
+  "id": 1125983685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86667,60.8,24.86667,60.8",
+    "geom:latitude":60.8,
+    "geom:longitude":24.86667,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.8,
+    "lbl:longitude":24.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Lavinlo"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":648610,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lavinto",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Kanta-H\u00e4meen maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1156727,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":568882,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Kanta-H\u00e4meen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683077,
+        102191581,
+        907198561,
+        85633143,
+        404227411,
+        136253047,
+        1159321541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":648610,
+        "gp:id":568882,
+        "qs_pg:id":1156727
+    },
+    "wof:country":"FI",
+    "wof:created":1497298687,
+    "wof:geomhash":"1b68085b67b7a3ca8d8edde72c8f9c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321541,
+            "empire_id":136253047,
+            "localadmin_id":907198561,
+            "locality_id":1125983685,
+            "macroregion_id":404227411,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":1125983685,
+    "wof:lastmodified":1529711993,
+    "wof:name":"Lavinto",
+    "wof:parent_id":907198561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86667,
+    60.8,
+    24.86667,
+    60.8
+],
+  "geometry": {"coordinates":[24.86667,60.8],"type":"Point"}
+}

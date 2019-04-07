@@ -1,0 +1,75 @@
+{
+  "id": 1243057627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2123,61.13625,27.2123,61.13625",
+    "geom:latitude":61.13625,
+    "geom:longitude":27.2123,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"739.0",
+    "gn:asciiname":"Viisari",
+    "gn:country_code":"FI",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":631634,
+    "gn:latitude":61.13625,
+    "gn:longitude":27.2123,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Viisari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198759,
+        85633143,
+        404227411,
+        136253047,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631634
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e37e338d62693c62592ab95b4273fe37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198759,
+            "locality_id":1243057627,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":1243057627,
+    "wof:lastmodified":1536867863,
+    "wof:name":"Viisari",
+    "wof:parent_id":907198759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2123,
+    61.13625,
+    27.2123,
+    61.13625
+],
+  "geometry": {"coordinates":[27.2123,61.13625],"type":"Point"}
+}

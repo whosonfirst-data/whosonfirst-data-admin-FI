@@ -1,0 +1,75 @@
+{
+  "id": 1226115647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24802,62.72027,21.24802,62.72027",
+    "geom:latitude":62.72027,
+    "geom:longitude":21.24802,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"280.0",
+    "gn:asciiname":"Smedbacken",
+    "gn:country_code":"FI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":842350,
+    "gn:latitude":62.72027,
+    "gn:longitude":21.24802,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Smedbacken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199033,
+        85633143,
+        404227417,
+        136253047,
+        1159321501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":842350
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2a936d0af6ca91e6af4deacc3d28ecc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321501,
+            "empire_id":136253047,
+            "localadmin_id":907199033,
+            "locality_id":1226115647,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1226115647,
+    "wof:lastmodified":1536622269,
+    "wof:name":"Smedbacken",
+    "wof:parent_id":907199033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24802,
+    62.72026999999999,
+    21.24802,
+    62.72026999999999
+],
+  "geometry": {"coordinates":[21.24802,62.72026999999999],"type":"Point"}
+}

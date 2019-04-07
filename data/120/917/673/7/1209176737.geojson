@@ -1,0 +1,63 @@
+{
+  "id": 1209176737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.83333,67.45,26.83333,67.45",
+    "geom:latitude":67.45,
+    "geom:longitude":26.83333,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"197.0",
+    "gn:admin3_code":"758.0",
+    "gn:asciiname":"Pekkala",
+    "gn:country_code":"FI",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":642399,
+    "gn:latitude":67.45,
+    "gn:longitude":26.83333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Pekkala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":642399
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a61264ff4f05a05b6d1d1d787e45a344",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209176737
+        }
+    ],
+    "wof:id":1209176737,
+    "wof:lastmodified":1536295397,
+    "wof:name":"Pekkala",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.83333,
+    67.45,
+    26.83333,
+    67.45
+],
+  "geometry": {"coordinates":[26.83333,67.45],"type":"Point"}
+}

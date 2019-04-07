@@ -1,0 +1,75 @@
+{
+  "id": 1293063679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6,65.98333,25.6,65.98333",
+    "geom:latitude":65.98333,
+    "geom:longitude":25.6,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"192.0",
+    "gn:admin3_code":"751.0",
+    "gn:asciiname":"Pikkuoja",
+    "gn:country_code":"FI",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":641556,
+    "gn:latitude":65.98333,
+    "gn:longitude":25.6,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Pikkuoja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199485,
+        85633143,
+        404227409,
+        136253047,
+        1159321559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":641556
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"173552688375d91631f55788489404dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321559,
+            "empire_id":136253047,
+            "localadmin_id":907199485,
+            "locality_id":1293063679,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1293063679,
+    "wof:lastmodified":1536901343,
+    "wof:name":"Pikkuoja",
+    "wof:parent_id":907199485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6,
+    65.98333000000001,
+    25.6,
+    65.98333000000001
+],
+  "geometry": {"coordinates":[25.6,65.98333000000001],"type":"Point"}
+}

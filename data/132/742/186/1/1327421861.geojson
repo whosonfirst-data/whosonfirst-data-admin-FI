@@ -1,0 +1,75 @@
+{
+  "id": 1327421861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.37181,63.38279,27.37181,63.38279",
+    "geom:latitude":63.38279,
+    "geom:longitude":27.37181,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"402.0",
+    "gn:asciiname":"Lamminkaeyrae",
+    "gn:country_code":"FI",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649213,
+    "gn:latitude":63.38279,
+    "gn:longitude":27.37181,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Lammink\u00e4yr\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199373,
+        85633143,
+        404227407,
+        136253047,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649213
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a360e39fb265dab07408be71ba9ada19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199373,
+            "locality_id":1327421861,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1327421861,
+    "wof:lastmodified":1536696240,
+    "wof:name":"Lamminkaeyrae",
+    "wof:parent_id":907199373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.37181,
+    63.38279,
+    27.37181,
+    63.38279
+],
+  "geometry": {"coordinates":[27.37181,63.38279],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1125771515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56667,60.08333,22.56667,60.08333",
+    "geom:latitude":60.08333,
+    "geom:longitude":22.56667,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.08333,
+    "lbl:longitude":22.56667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Bj\u00f6rkboda"
+    ],
+    "name:fin_x_preferred":[
+        "Bj\u00f6rkboda"
+    ],
+    "name:swe_x_preferred":[
+        "Bj\u00f6rkboda"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":660674,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bj\u00f6rkboda",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Varsinais-Suomen maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1159003,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":564406,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Varsinais-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907199735,
+        85633143,
+        404227405,
+        136253047,
+        1159321605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660674,
+        "gp:id":564406,
+        "qs_pg:id":1159003,
+        "wd:id":"Q10430531"
+    },
+    "wof:country":"FI",
+    "wof:created":1497290081,
+    "wof:geomhash":"54366a1e41769a18b635fde9e0aa6b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321605,
+            "empire_id":136253047,
+            "localadmin_id":907199735,
+            "locality_id":1125771515,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1125771515,
+    "wof:lastmodified":1529706471,
+    "wof:name":"Bj\u00f6rkboda",
+    "wof:parent_id":907199735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56667,
+    60.08333,
+    22.56667,
+    60.08333
+],
+  "geometry": {"coordinates":[22.56667,60.08333],"type":"Point"}
+}

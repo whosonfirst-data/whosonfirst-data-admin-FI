@@ -1,0 +1,87 @@
+{
+  "id": 1260188875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50599,61.49764,21.50599,61.49764",
+    "geom:latitude":61.49764,
+    "geom:longitude":21.50599,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"609.0",
+    "gn:asciiname":"Haraholma",
+    "gn:country_code":"FI",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11280390,
+    "gn:latitude":61.49764,
+    "gn:longitude":21.50599,
+    "gn:modification_date":"2016-10-15",
+    "gn:name":"Haraholma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Haraholm"
+    ],
+    "name:nno_x_preferred":[
+        "Haraholm"
+    ],
+    "name:nob_x_preferred":[
+        "Haraholm"
+    ],
+    "name:swe_x_preferred":[
+        "Haraholm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907199653,
+        85633143,
+        404227405,
+        136253047,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11280390
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b7721cf107eacddf0516bed15374cf05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907199653,
+            "locality_id":1260188875,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1260188875,
+    "wof:lastmodified":1537622354,
+    "wof:name":"Haraholma",
+    "wof:parent_id":907199653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50599,
+    61.49764,
+    21.50599,
+    61.49764
+],
+  "geometry": {"coordinates":[21.50599,61.49764],"type":"Point"}
+}

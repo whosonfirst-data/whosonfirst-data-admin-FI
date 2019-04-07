@@ -1,0 +1,90 @@
+{
+  "id": 1243478487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.66112,61.81473,21.66112,61.81473",
+    "geom:latitude":61.81473,
+    "geom:longitude":21.66112,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"484.0",
+    "gn:asciiname":"Lankoski",
+    "gn:country_code":"FI",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649022,
+    "gn:latitude":61.81473,
+    "gn:longitude":21.66112,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Lankoski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "L\u00e5ngfors"
+    ],
+    "name:eng_x_preferred":[
+        "Lankoski"
+    ],
+    "name:isl_x_preferred":[
+        "L\u00e5ngfors"
+    ],
+    "name:nor_x_preferred":[
+        "L\u00e5ngfors"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00e5ngfors"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907198797,
+        85633143,
+        404227405,
+        136253047,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649022
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1c5ee239afd4ad696752b6b70b9f13b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907198797,
+            "locality_id":1243478487,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1243478487,
+    "wof:lastmodified":1537550086,
+    "wof:name":"Lankoski",
+    "wof:parent_id":907198797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.66112,
+    61.81473,
+    21.66112,
+    61.81473
+],
+  "geometry": {"coordinates":[21.66112,61.81473],"type":"Point"}
+}

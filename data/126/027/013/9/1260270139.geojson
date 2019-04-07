@@ -1,0 +1,81 @@
+{
+  "id": 1260270139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8566,62.25461,29.8566,62.25461",
+    "geom:latitude":62.25461,
+    "geom:longitude":29.8566,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"124.0",
+    "gn:admin3_code":"707.0",
+    "gn:asciiname":"Rasisalo",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":639817,
+    "gn:latitude":62.25461,
+    "gn:longitude":29.8566,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Rasisalo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rasivaaransalo",
+        "Rasinsalo",
+        "Rasisalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907198891,
+        85633143,
+        404227407,
+        136253047,
+        1159321517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639817
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a351c1c8474f6d3dfc782ca0a4788cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321517,
+            "empire_id":136253047,
+            "localadmin_id":907198891,
+            "locality_id":1260270139,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1260270139,
+    "wof:lastmodified":1537622178,
+    "wof:name":"Rasisalo",
+    "wof:parent_id":907198891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8566,
+    62.25461,
+    29.8566,
+    62.25461
+],
+  "geometry": {"coordinates":[29.8566,62.25461],"type":"Point"}
+}

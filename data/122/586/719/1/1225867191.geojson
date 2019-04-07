@@ -1,0 +1,80 @@
+{
+  "id": 1225867191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.92453,60.95263,26.92453,60.95263",
+    "geom:latitude":60.95263,
+    "geom:longitude":26.92453,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"286.0",
+    "gn:asciiname":"Hyyry",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":656892,
+    "gn:latitude":60.95263,
+    "gn:longitude":26.92453,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Hyyry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hyyrykyl\u00e4",
+        "Hyyry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683081,
+        102191581,
+        907198969,
+        85633143,
+        404227411,
+        136253047,
+        1159321557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":656892
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4116a7b7638abb1eeb39cf0b705efb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321557,
+            "empire_id":136253047,
+            "localadmin_id":907198969,
+            "locality_id":1225867191,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":1225867191,
+    "wof:lastmodified":1537622277,
+    "wof:name":"Hyyry",
+    "wof:parent_id":907198969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.92453,
+    60.95263000000001,
+    26.92453,
+    60.95263000000001
+],
+  "geometry": {"coordinates":[26.92453,60.95263000000001],"type":"Point"}
+}

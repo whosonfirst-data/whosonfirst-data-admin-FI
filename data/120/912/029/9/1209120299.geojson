@@ -1,0 +1,66 @@
+{
+  "id": 1209120299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.06422,60.39662,25.06422,60.39662",
+    "geom:latitude":60.39662,
+    "geom:longitude":25.06422,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"858.0",
+    "gn:asciiname":"Maeyraekorpi",
+    "gn:country_code":"FI",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101524,
+    "gn:latitude":60.39662,
+    "gn:longitude":25.06422,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"M\u00e4yr\u00e4korpi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "M\u00e4yr\u00e4korpi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101524
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8aa8774c4005cf64179a11e1cd91d70c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209120299
+        }
+    ],
+    "wof:id":1209120299,
+    "wof:lastmodified":1537622334,
+    "wof:name":"Maeyraekorpi",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.06422,
+    60.39662,
+    25.06422,
+    60.39662
+],
+  "geometry": {"coordinates":[25.06422,60.39662],"type":"Point"}
+}

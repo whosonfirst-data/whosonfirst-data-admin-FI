@@ -1,0 +1,75 @@
+{
+  "id": 1259380537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.02378,62.11258,23.02378,62.11258",
+    "geom:latitude":62.11258,
+    "geom:longitude":23.02378,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"61.0",
+    "gn:admin3_code":"581.0",
+    "gn:asciiname":"Lamminkoski",
+    "gn:country_code":"FI",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649210,
+    "gn:latitude":62.11258,
+    "gn:longitude":23.02378,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Lamminkoski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907199125,
+        85633143,
+        404227417,
+        136253047,
+        1159321533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649210
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"fa8e9b038979a00e7c32a3a5e0fc7fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321533,
+            "empire_id":136253047,
+            "localadmin_id":907199125,
+            "locality_id":1259380537,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1259380537,
+    "wof:lastmodified":1537005831,
+    "wof:name":"Lamminkoski",
+    "wof:parent_id":907199125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02378,
+    62.11258,
+    23.02378,
+    62.11258
+],
+  "geometry": {"coordinates":[23.02378,62.11258],"type":"Point"}
+}

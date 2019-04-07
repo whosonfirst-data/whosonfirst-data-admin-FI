@@ -1,0 +1,79 @@
+{
+  "id": 1243038829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02238,62.47557,22.02238,62.47557",
+    "geom:latitude":62.47557,
+    "geom:longitude":22.02238,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"141.0",
+    "gn:admin3_code":"232.0",
+    "gn:asciiname":"Viitakylae",
+    "gn:country_code":"FI",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":631613,
+    "gn:latitude":62.47557,
+    "gn:longitude":22.02238,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Viitakyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Viita",
+        "Viitakyl\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199121,
+        85633143,
+        404227417,
+        136253047,
+        1159321543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631613
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"66d22a870de60a0cfc4243d331d80813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321543,
+            "empire_id":136253047,
+            "localadmin_id":907199121,
+            "locality_id":1243038829,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1243038829,
+    "wof:lastmodified":1537622133,
+    "wof:name":"Viitakylae",
+    "wof:parent_id":907199121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02238,
+    62.47557,
+    22.02238,
+    62.47557
+],
+  "geometry": {"coordinates":[22.02238,62.47557],"type":"Point"}
+}

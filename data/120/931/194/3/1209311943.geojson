@@ -1,0 +1,73 @@
+{
+  "id": 1209311943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.01425,61.96215,24.01425,61.96215",
+    "geom:latitude":61.96215,
+    "geom:longitude":24.01425,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"69.0",
+    "gn:admin3_code":"702.0",
+    "gn:asciiname":"Tyrninkylae",
+    "gn:country_code":"FI",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":633539,
+    "gn:latitude":61.96215,
+    "gn:longitude":24.01425,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Tyrninkyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "R\u00e4minki"
+    ],
+    "name:fin_x_variant":[
+        "Tyrninkyl\u00e4"
+    ],
+    "name:und_x_variant":[
+        "R\u00e4minki",
+        "Tyrninkyl\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":633539
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b9fe76d859e31c392cfdd9a8bc479258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209311943
+        }
+    ],
+    "wof:id":1209311943,
+    "wof:lastmodified":1537622145,
+    "wof:name":"Tyrninkylae",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.01425,
+    61.96215,
+    24.01425,
+    61.96215
+],
+  "geometry": {"coordinates":[24.01425,61.96215],"type":"Point"}
+}

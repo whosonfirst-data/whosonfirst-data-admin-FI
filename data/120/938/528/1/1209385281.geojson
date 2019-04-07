@@ -1,0 +1,68 @@
+{
+  "id": 1209385281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3,63.2,21.3,63.2",
+    "geom:latitude":63.2,
+    "geom:longitude":21.3,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"499.0",
+    "gn:asciiname":"Vallgrund",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":632581,
+    "gn:latitude":63.2,
+    "gn:longitude":21.3,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Vallgrund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Walgrund",
+        "Vallgrund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":632581
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"52affe4bcd79358473d841487f4e46ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209385281
+        }
+    ],
+    "wof:id":1209385281,
+    "wof:lastmodified":1537622141,
+    "wof:name":"Vallgrund",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3,
+    63.2,
+    21.3,
+    63.2
+],
+  "geometry": {"coordinates":[21.3,63.2],"type":"Point"}
+}

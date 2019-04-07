@@ -1,0 +1,66 @@
+{
+  "id": 1209115063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06896,60.78362,22.06896,60.78362",
+    "geom:latitude":60.78362,
+    "geom:longitude":22.06896,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"503.0",
+    "gn:asciiname":"Karjalan kirkonkylae",
+    "gn:country_code":"FI",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101247,
+    "gn:latitude":60.78362,
+    "gn:longitude":22.06896,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Karjalan kirkonkyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Karjalan kirkonkyl\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101247
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"338cac40569e85f083aee6a45d4da1b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209115063
+        }
+    ],
+    "wof:id":1209115063,
+    "wof:lastmodified":1537622323,
+    "wof:name":"Karjalan kirkonkylae",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06896,
+    60.78361999999999,
+    22.06896,
+    60.78361999999999
+],
+  "geometry": {"coordinates":[22.06896,60.78361999999999],"type":"Point"}
+}

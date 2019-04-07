@@ -1,0 +1,63 @@
+{
+  "id": 1209392067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.93214,63.49923,28.93214,63.49923",
+    "geom:latitude":63.49923,
+    "geom:longitude":28.93214,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"125.0",
+    "gn:admin3_code":"541.0",
+    "gn:asciiname":"Pennasenvaara",
+    "gn:country_code":"FI",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":642246,
+    "gn:latitude":63.49923,
+    "gn:longitude":28.93214,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Pennasenvaara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":642246
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a9e4a6e6d0b945266bf4610de84f50e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209392067
+        }
+    ],
+    "wof:id":1209392067,
+    "wof:lastmodified":1536288427,
+    "wof:name":"Pennasenvaara",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.932140000000004,
+    63.49923,
+    28.932140000000004,
+    63.49923
+],
+  "geometry": {"coordinates":[28.93214,63.49923],"type":"Point"}
+}

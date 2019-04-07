@@ -1,0 +1,122 @@
+{
+  "id": 101872849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.159888,62.854423,27.159888,62.854423",
+    "geom:latitude":62.854423,
+    "geom:longitude":27.159888,
+    "iso:country":"FI",
+    "lbl:latitude":62.854423,
+    "lbl:longitude":27.159888,
+    "mps:latitude":62.854423,
+    "mps:longitude":27.159888,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0442\u0443\u043b\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Karttula"
+    ],
+    "name:eng_x_preferred":[
+        "Karttula"
+    ],
+    "name:fin_x_preferred":[
+        "Karttula"
+    ],
+    "name:fre_x_preferred":[
+        "Karttula"
+    ],
+    "name:ger_x_preferred":[
+        "Karttula"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d8\u05d5\u05dc\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Karttula"
+    ],
+    "name:nob_x_preferred":[
+        "Karttula"
+    ],
+    "name:rum_x_preferred":[
+        "Karttula"
+    ],
+    "name:sme_x_preferred":[
+        "Karttula"
+    ],
+    "name:swe_x_preferred":[
+        "Karttula"
+    ],
+    "name:unk_x_variant":[
+        "Karttula"
+    ],
+    "qs:a0":"Suomi#Finland",
+    "qs:a1":"*Pohjois-Savo#Norra Savolax",
+    "qs:a1r":"0It\u00e4-Suomen AVI#\u00d6stra Finlands RFV",
+    "qs:adm0":"Suomi#Finland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Syv\u00e4nniemi",
+    "qs:loc_alt":"Syvanniemi",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199673,
+        85633143,
+        404227407,
+        136253047,
+        1159321597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":635291,
+        "gp:id":25952598,
+        "qs:id":5,
+        "wd:id":"Q1734675"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ddc9017e0b008bfdf13bd3820463fdb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321597,
+            "empire_id":136253047,
+            "localadmin_id":907199673,
+            "locality_id":101872849,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":101872849,
+    "wof:lastmodified":1544751355,
+    "wof:name":"Syv\u00e4nniemi",
+    "wof:parent_id":907199673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.159888,
+    62.854423,
+    27.159888,
+    62.854423
+],
+  "geometry": {"coordinates":[27.159888,62.854423],"type":"Point"}
+}

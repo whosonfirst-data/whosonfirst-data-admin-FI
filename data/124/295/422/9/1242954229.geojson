@@ -1,0 +1,79 @@
+{
+  "id": 1242954229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.42381,63.18165,28.42381,63.18165",
+    "geom:latitude":63.18165,
+    "geom:longitude":28.42381,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"112.0",
+    "gn:admin3_code":"297.0",
+    "gn:asciiname":"Pisankoski",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":651130,
+    "gn:latitude":63.18165,
+    "gn:longitude":28.42381,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Pisankoski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koskenala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199339,
+        85633143,
+        404227407,
+        136253047,
+        1159321597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":651130
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c7484f81a0c6e3c93675dd471a75d3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321597,
+            "empire_id":136253047,
+            "localadmin_id":907199339,
+            "locality_id":1242954229,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1242954229,
+    "wof:lastmodified":1537622240,
+    "wof:name":"Pisankoski",
+    "wof:parent_id":907199339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.42381,
+    63.18165,
+    28.42381,
+    63.18165
+],
+  "geometry": {"coordinates":[28.42381,63.18165],"type":"Point"}
+}

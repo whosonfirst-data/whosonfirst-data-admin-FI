@@ -1,0 +1,70 @@
+{
+  "id": 1209518635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86667,60.56667,21.86667,60.56667",
+    "geom:latitude":60.56667,
+    "geom:longitude":21.86667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"481.0",
+    "gn:asciiname":"Askainen",
+    "gn:country_code":"FI",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":660940,
+    "gn:latitude":60.56667,
+    "gn:longitude":21.86667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Askainen",
+    "gn:population":1004,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Askas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660940,
+        "wk:page":"Askainen"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3b46ee5fbee21a3b37164185158740ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209518635
+        }
+    ],
+    "wof:id":1209518635,
+    "wof:lastmodified":1537622301,
+    "wof:name":"Askainen",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:population":1004,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86667000000001,
+    60.56667,
+    21.86667000000001,
+    60.56667
+],
+  "geometry": {"coordinates":[21.86667000000001,60.56667],"type":"Point"}
+}

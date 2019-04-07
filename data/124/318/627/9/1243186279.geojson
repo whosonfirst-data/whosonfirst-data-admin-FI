@@ -1,0 +1,75 @@
+{
+  "id": 1243186279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.05,60.5,25.05,60.5",
+    "geom:latitude":60.5,
+    "geom:longitude":25.05,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"186.0",
+    "gn:asciiname":"Purola",
+    "gn:country_code":"FI",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":640588,
+    "gn:latitude":60.5,
+    "gn:longitude":25.05,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Purola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198639,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":640588
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"77fc39c4f174b759773d728c1e844f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198639,
+            "locality_id":1243186279,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1243186279,
+    "wof:lastmodified":1536683494,
+    "wof:name":"Purola",
+    "wof:parent_id":907198639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.05,
+    60.5,
+    25.05,
+    60.5
+],
+  "geometry": {"coordinates":[25.05,60.5],"type":"Point"}
+}

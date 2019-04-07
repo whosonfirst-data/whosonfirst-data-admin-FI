@@ -1,0 +1,75 @@
+{
+  "id": 1243455083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.08333,61.86667,22.08333,61.86667",
+    "geom:latitude":61.86667,
+    "geom:longitude":22.08333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"747.0",
+    "gn:asciiname":"Samminmaja",
+    "gn:country_code":"FI",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":637830,
+    "gn:latitude":61.86667,
+    "gn:longitude":22.08333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Samminmaja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907198809,
+        85633143,
+        404227405,
+        136253047,
+        1159321519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637830
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b04f09822b8abf7c4a7b0362465990e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321519,
+            "empire_id":136253047,
+            "localadmin_id":907198809,
+            "locality_id":1243455083,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1243455083,
+    "wof:lastmodified":1536793350,
+    "wof:name":"Samminmaja",
+    "wof:parent_id":907198809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.08333,
+    61.86666999999999,
+    22.08333,
+    61.86666999999999
+],
+  "geometry": {"coordinates":[22.08333,61.86666999999999],"type":"Point"}
+}

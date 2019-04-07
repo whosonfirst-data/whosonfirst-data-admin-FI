@@ -1,0 +1,81 @@
+{
+  "id": 1277139493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.63354,67.1581,28.63354,67.1581",
+    "geom:latitude":67.1581,
+    "geom:longitude":28.63354,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"194.0",
+    "gn:admin3_code":"742.0",
+    "gn:asciiname":"Nousu",
+    "gn:country_code":"FI",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":644319,
+    "gn:latitude":67.1581,
+    "gn:longitude":28.63354,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Nousu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nousu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0443\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199579,
+        85633143,
+        404227409,
+        136253047,
+        1159321535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":644319
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"dfd63ed28255faa4fd6595933df89c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321535,
+            "empire_id":136253047,
+            "localadmin_id":907199579,
+            "locality_id":1277139493,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1277139493,
+    "wof:lastmodified":1537622202,
+    "wof:name":"Nousu",
+    "wof:parent_id":907199579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.63354,
+    67.1581,
+    28.63354,
+    67.1581
+],
+  "geometry": {"coordinates":[28.63354,67.1581],"type":"Point"}
+}

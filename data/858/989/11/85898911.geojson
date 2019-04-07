@@ -1,0 +1,114 @@
+{
+  "id": 85898911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":8024786.721011,
+    "geom:bbox":"27.734861,64.23686,27.734861,64.23686",
+    "geom:latitude":64.23686,
+    "geom:longitude":27.734861,
+    "iso:country":"FI",
+    "lbl:latitude":64.23686,
+    "lbl:longitude":27.734861,
+    "mps:latitude":64.23686,
+    "mps:longitude":27.734861,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:fin_x_preferred":[
+        "Teppana"
+    ],
+    "name:unk_x_variant":[
+        "Teppana"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"08",
+    "qs:gn_name":"Teppana",
+    "qs:local_max":414,
+    "qs:local_sum":624,
+    "qs:localhoods":3,
+    "qs:name":"Teppana",
+    "qs:name_adm0":"Suomi",
+    "qs:name_adm1":"Kainuun maakunta",
+    "qs:name_adm2":"Kajaanin",
+    "qs:name_lau":"Kajana",
+    "qs:name_local":"Kajaani",
+    "qs:photo_max":33,
+    "qs:photo_sum":414,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":40,
+    "qs:woe_adm0":23424812,
+    "qs:woe_adm1":29389264,
+    "qs:woe_adm2":56120859,
+    "qs:woe_lau":12590838,
+    "qs:woe_local":566574,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        907199455,
+        85633143,
+        404227415,
+        136253047,
+        1159321487,
+        85683137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":634718,
+        "gp:id":573863,
+        "qs:id":1115922
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"159753d8ca9ffec8a9b87c15d06eb077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199455,
+            "locality_id":-1,
+            "macroregion_id":404227415,
+            "neighbourhood_id":85898911,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":85898911,
+    "wof:lang":[
+        "fin"
+    ],
+    "wof:lastmodified":1534379299,
+    "wof:name":"Teppana",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[
+        1126104821
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.734861,
+    64.23686,
+    27.734861,
+    64.23686
+],
+  "geometry": {"coordinates":[27.734861,64.23685999999999],"type":"Point"}
+}

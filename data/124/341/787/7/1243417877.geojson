@@ -1,0 +1,75 @@
+{
+  "id": 1243417877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.14796,64.85335,25.14796,64.85335",
+    "geom:latitude":64.85335,
+    "geom:longitude":25.14796,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"436.0",
+    "gn:asciiname":"Maekikylae",
+    "gn:country_code":"FI",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":646925,
+    "gn:latitude":64.85335,
+    "gn:longitude":25.14796,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"M\u00e4kikyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199537,
+        85633143,
+        404227415,
+        136253047,
+        1159321529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":646925
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"154b2f4787acc8880334dd544abd938e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321529,
+            "empire_id":136253047,
+            "localadmin_id":907199537,
+            "locality_id":1243417877,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1243417877,
+    "wof:lastmodified":1536845694,
+    "wof:name":"Maekikylae",
+    "wof:parent_id":907199537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.14796,
+    64.85335,
+    25.14796,
+    64.85335
+],
+  "geometry": {"coordinates":[25.14796,64.85335000000001],"type":"Point"}
+}

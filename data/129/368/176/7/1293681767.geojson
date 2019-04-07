@@ -1,0 +1,75 @@
+{
+  "id": 1293681767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.64387,61.53841,23.64387,61.53841",
+    "geom:latitude":61.53841,
+    "geom:longitude":23.64387,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"64.0",
+    "gn:admin3_code":"980.0",
+    "gn:asciiname":"Teivaala",
+    "gn:country_code":"FI",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7732570,
+    "gn:latitude":61.53841,
+    "gn:longitude":23.64387,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Teivaala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907199275,
+        85633143,
+        404227417,
+        136253047,
+        1159321533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732570
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"fdd58d8b4fd1a64f8cca1f982d732049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321533,
+            "empire_id":136253047,
+            "localadmin_id":907199275,
+            "locality_id":1293681767,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1293681767,
+    "wof:lastmodified":1537003534,
+    "wof:name":"Teivaala",
+    "wof:parent_id":907199275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64387,
+    61.53841,
+    23.64387,
+    61.53841
+],
+  "geometry": {"coordinates":[23.64387,61.53841],"type":"Point"}
+}

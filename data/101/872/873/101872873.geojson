@@ -1,0 +1,109 @@
+{
+  "id": 101872873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.224592,64.084862,24.224592,64.084862",
+    "geom:latitude":64.084862,
+    "geom:longitude":24.224592,
+    "iso:country":"FI",
+    "lbl:latitude":64.084862,
+    "lbl:longitude":24.224592,
+    "mps:latitude":64.084862,
+    "mps:longitude":24.224592,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rautio"
+    ],
+    "name:fin_x_preferred":[
+        "Rautio"
+    ],
+    "name:fre_x_preferred":[
+        "Rautio"
+    ],
+    "name:ger_x_preferred":[
+        "Rautio"
+    ],
+    "name:nob_x_preferred":[
+        "Rautio"
+    ],
+    "name:nor_x_preferred":[
+        "Rautio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0443\u0442\u0438\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Rautio"
+    ],
+    "qs:a0":"Suomi#Finland",
+    "qs:a1":"*Pohjois-Pohjanmaa#Norra \u00d6sterbotten",
+    "qs:a1r":"0Pohjois-Suomen AVI#Norra Finlands RFV",
+    "qs:adm0":"Suomi#Finland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rautio",
+    "qs:loc_alt":"Rautio",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199617,
+        85633143,
+        404227415,
+        136253047,
+        1159321569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639679,
+        "gp:id":572106,
+        "qs:id":904580,
+        "wd:id":"Q3432403",
+        "wk:page":"Rautio"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"83b4045b6b5230e07ee3bb3b02814dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321569,
+            "empire_id":136253047,
+            "localadmin_id":907199617,
+            "locality_id":101872873,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":101872873,
+    "wof:lastmodified":1544751368,
+    "wof:name":"Rautio",
+    "wof:parent_id":907199617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.224592,
+    64.084862,
+    24.224592,
+    64.084862
+],
+  "geometry": {"coordinates":[24.224592,64.084862],"type":"Point"}
+}

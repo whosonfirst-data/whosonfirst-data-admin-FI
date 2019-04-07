@@ -1,0 +1,81 @@
+{
+  "id": 1360074955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1401,60.90396,28.1401,60.90396",
+    "geom:latitude":60.90396,
+    "geom:longitude":28.1401,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"405.0",
+    "gn:asciiname":"Monola",
+    "gn:country_code":"FI",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":645858,
+    "gn:latitude":60.90396,
+    "gn:longitude":28.1401,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Monola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Monola"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043c\u043e\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198887,
+        85633143,
+        404227411,
+        136253047,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":645858
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3b1974b68c035045e3610aa60847d8fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198887,
+            "locality_id":1360074955,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":1360074955,
+    "wof:lastmodified":1537622210,
+    "wof:name":"Monola",
+    "wof:parent_id":907198887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1401,
+    60.90396,
+    28.1401,
+    60.90396
+],
+  "geometry": {"coordinates":[28.1401,60.90396],"type":"Point"}
+}

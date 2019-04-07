@@ -1,0 +1,68 @@
+{
+  "id": 1209288323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96667,62.63333,22.96667,62.63333",
+    "geom:latitude":62.63333,
+    "geom:longitude":22.96667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"743.0",
+    "gn:asciiname":"Koskenkorva",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":651115,
+    "gn:latitude":62.63333,
+    "gn:longitude":22.96667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Koskenkorva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koskenneva",
+        "Koskenkorva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":651115
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c764e9a500381b096a94429ce47ee78a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209288323
+        }
+    ],
+    "wof:id":1209288323,
+    "wof:lastmodified":1537622240,
+    "wof:name":"Koskenkorva",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96667,
+    62.63333000000001,
+    22.96667,
+    62.63333000000001
+],
+  "geometry": {"coordinates":[22.96667,62.63333000000001],"type":"Point"}
+}

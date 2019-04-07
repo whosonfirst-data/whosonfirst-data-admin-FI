@@ -1,0 +1,78 @@
+{
+  "id": 1226425979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45738,62.70267,22.45738,62.70267",
+    "geom:latitude":62.70267,
+    "geom:longitude":22.45738,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"145.0",
+    "gn:asciiname":"Seppilaenmaeki",
+    "gn:country_code":"FI",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101379,
+    "gn:latitude":62.70267,
+    "gn:longitude":22.45738,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Seppil\u00e4nm\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Seppil\u00e4nm\u00e4ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199003,
+        85633143,
+        404227417,
+        136253047,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101379
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"88e288f7b02e9c5b79dcfc55cff7091b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199003,
+            "locality_id":1226425979,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1226425979,
+    "wof:lastmodified":1537622328,
+    "wof:name":"Seppilaenmaeki",
+    "wof:parent_id":907199003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45738,
+    62.70267,
+    22.45738,
+    62.70267
+],
+  "geometry": {"coordinates":[22.45738,62.70267],"type":"Point"}
+}

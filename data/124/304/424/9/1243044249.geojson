@@ -1,0 +1,81 @@
+{
+  "id": 1243044249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.33827,65.73152,27.33827,65.73152",
+    "geom:latitude":65.73152,
+    "geom:longitude":27.33827,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"173.0",
+    "gn:admin3_code":"615.0",
+    "gn:asciiname":"Nuorunka",
+    "gn:country_code":"FI",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":644237,
+    "gn:latitude":65.73152,
+    "gn:longitude":27.33827,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Nuorunka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nuorunka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u043e\u0440\u0443\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199499,
+        85633143,
+        404227415,
+        136253047,
+        1159321497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":644237
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a8e69ab5d210114622a16c3c0d5d9ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321497,
+            "empire_id":136253047,
+            "localadmin_id":907199499,
+            "locality_id":1243044249,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1243044249,
+    "wof:lastmodified":1537622202,
+    "wof:name":"Nuorunka",
+    "wof:parent_id":907199499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.33827,
+    65.73151999999999,
+    27.33827,
+    65.73151999999999
+],
+  "geometry": {"coordinates":[27.33827,65.73151999999999],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1125821327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4,65.21667,28.4,65.21667",
+    "geom:latitude":65.21667,
+    "geom:longitude":28.4,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":65.21667,
+    "lbl:longitude":28.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "N\u00e4lj\u00e4nk\u00e4"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":630853,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ylin\u00e4lj\u00e4nk\u00e4",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Kainuun maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":183044,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":575246,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Kainuun maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683137,
+        102191581,
+        907199501,
+        85633143,
+        404227415,
+        136253047,
+        1159321549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630853,
+        "gp:id":575246,
+        "qs_pg:id":183044
+    },
+    "wof:country":"FI",
+    "wof:created":1497292082,
+    "wof:geomhash":"8230ca5b3c9b2a8e383c101cd20b70c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321549,
+            "empire_id":136253047,
+            "localadmin_id":907199501,
+            "locality_id":1125821327,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":1125821327,
+    "wof:lastmodified":1529706647,
+    "wof:name":"Ylin\u00e4lj\u00e4nk\u00e4",
+    "wof:parent_id":907199501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4,
+    65.21667,
+    28.4,
+    65.21667
+],
+  "geometry": {"coordinates":[28.4,65.21666999999999],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209285409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00874,62.6858,22.00874,62.6858",
+    "geom:latitude":62.6858,
+    "geom:longitude":22.00874,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"301.0",
+    "gn:asciiname":"Larvaloukko",
+    "gn:country_code":"FI",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101328,
+    "gn:latitude":62.6858,
+    "gn:longitude":22.00874,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Larvaloukko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Larvaloukko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101328
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"30836661dc79c28f988c7c8132ca10f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209285409
+        }
+    ],
+    "wof:id":1209285409,
+    "wof:lastmodified":1537622326,
+    "wof:name":"Larvaloukko",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00874,
+    62.6858,
+    22.00874,
+    62.6858
+],
+  "geometry": {"coordinates":[22.00874,62.6858],"type":"Point"}
+}

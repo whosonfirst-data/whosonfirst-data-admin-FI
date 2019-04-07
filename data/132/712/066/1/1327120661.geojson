@@ -1,0 +1,75 @@
+{
+  "id": 1327120661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.65,62.1,25.65,62.1",
+    "geom:latitude":62.1,
+    "geom:longitude":25.65,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"131.0",
+    "gn:admin3_code":"500.0",
+    "gn:asciiname":"Palaspohja",
+    "gn:country_code":"FI",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643007,
+    "gn:latitude":62.1,
+    "gn:longitude":25.65,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Palaspohja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199257,
+        85633143,
+        404227417,
+        136253047,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643007
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2a1dd39b73658632523f7c593be33b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":907199257,
+            "locality_id":1327120661,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1327120661,
+    "wof:lastmodified":1536631586,
+    "wof:name":"Palaspohja",
+    "wof:parent_id":907199257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65,
+    62.1,
+    25.65,
+    62.1
+],
+  "geometry": {"coordinates":[25.65,62.1],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343462703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98333,59.96667,22.98333,59.96667",
+    "geom:latitude":59.96667,
+    "geom:longitude":22.98333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"710.0",
+    "gn:asciiname":"Rekuby",
+    "gn:country_code":"FI",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":639544,
+    "gn:latitude":59.96667,
+    "gn:longitude":22.98333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Rekuby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907199747,
+        85633143,
+        404227411,
+        136253047,
+        1159321627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639544
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6c2fd11f10652d1062ad21b73d88826d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321627,
+            "empire_id":136253047,
+            "localadmin_id":907199747,
+            "locality_id":1343462703,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1343462703,
+    "wof:lastmodified":1536742626,
+    "wof:name":"Rekuby",
+    "wof:parent_id":907199747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98333,
+    59.96666999999999,
+    22.98333,
+    59.96666999999999
+],
+  "geometry": {"coordinates":[22.98333,59.96666999999999],"type":"Point"}
+}

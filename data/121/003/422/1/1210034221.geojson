@@ -1,0 +1,81 @@
+{
+  "id": 1210034221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1986,60.43928,24.1986,60.43928",
+    "geom:latitude":60.43928,
+    "geom:longitude":24.1986,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"927.0",
+    "gn:asciiname":"Jokikunta",
+    "gn:country_code":"FI",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":655727,
+    "gn:latitude":60.43928,
+    "gn:longitude":24.1986,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Jokikunta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jokikunta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u043e\u043a\u0438\u043a\u0443\u043d\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198595,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":655727
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c78a798decfefd3d38d3377610602c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198595,
+            "locality_id":1210034221,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1210034221,
+    "wof:lastmodified":1537622270,
+    "wof:name":"Jokikunta",
+    "wof:parent_id":907198595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1986,
+    60.43928,
+    24.1986,
+    60.43928
+],
+  "geometry": {"coordinates":[24.1986,60.43928],"type":"Point"}
+}

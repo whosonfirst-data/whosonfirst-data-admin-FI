@@ -1,0 +1,75 @@
+{
+  "id": 1242566797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.06667,62.25,27.06667,62.25",
+    "geom:latitude":62.25,
+    "geom:longitude":27.06667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"593.0",
+    "gn:asciiname":"Peltoniemi",
+    "gn:country_code":"FI",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":642286,
+    "gn:latitude":62.25,
+    "gn:longitude":27.06667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Peltoniemi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683109,
+        102191581,
+        907199013,
+        85633143,
+        404227407,
+        136253047,
+        1159321615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":642286
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"bceba73db83f97fa27b8d3ee1080191e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321615,
+            "empire_id":136253047,
+            "localadmin_id":907199013,
+            "locality_id":1242566797,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":1242566797,
+    "wof:lastmodified":1537076119,
+    "wof:name":"Peltoniemi",
+    "wof:parent_id":907199013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.06667,
+    62.25,
+    27.06667,
+    62.25
+],
+  "geometry": {"coordinates":[27.06667,62.25],"type":"Point"}
+}

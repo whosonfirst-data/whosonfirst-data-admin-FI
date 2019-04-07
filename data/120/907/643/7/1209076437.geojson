@@ -1,0 +1,66 @@
+{
+  "id": 1209076437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17369,62.97583,21.17369,62.97583",
+    "geom:latitude":62.97583,
+    "geom:longitude":21.17369,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"475.0",
+    "gn:asciiname":"Vaesterbyn",
+    "gn:country_code":"FI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101720,
+    "gn:latitude":62.97583,
+    "gn:longitude":21.17369,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"V\u00e4sterbyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "V\u00e4sterbyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101720
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d459a4e938cc1b241e3ff6ea72a25a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209076437
+        }
+    ],
+    "wof:id":1209076437,
+    "wof:lastmodified":1537622340,
+    "wof:name":"Vaesterbyn",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17369,
+    62.97583,
+    21.17369,
+    62.97583
+],
+  "geometry": {"coordinates":[21.17369,62.97583],"type":"Point"}
+}

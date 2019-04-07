@@ -1,0 +1,95 @@
+{
+  "id": 1125995505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.663762,60.988387,25.663762,60.988387",
+    "geom:latitude":60.988387,
+    "geom:longitude":25.663762,
+    "gn:gn_country":null,
+    "iso:country":"FI",
+    "lbl:latitude":60.988387,
+    "lbl:longitude":25.663762,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kartano"
+    ],
+    "name:fin_x_preferred":[
+        "Kartano"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kartano",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"P\u00e4ijat-H\u00e4meen maakunta",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1000612,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":25945614,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"P\u00e4ijat-H\u00e4meen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683091,
+        102191581,
+        907198647,
+        85633143,
+        404227411,
+        136253047,
+        1159321483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":25945614,
+        "qs_pg:id":1000612,
+        "wd:id":"Q11870201"
+    },
+    "wof:country":"FI",
+    "wof:created":1497299304,
+    "wof:geomhash":"16a0b82806943cd059ed9be0c23912c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321483,
+            "empire_id":136253047,
+            "localadmin_id":907198647,
+            "locality_id":1125995505,
+            "macroregion_id":404227411,
+            "region_id":85683091
+        }
+    ],
+    "wof:id":1125995505,
+    "wof:lastmodified":1529710027,
+    "wof:name":"Kartano",
+    "wof:parent_id":907198647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.663762,
+    60.988387,
+    25.663762,
+    60.988387
+],
+  "geometry": {"coordinates":[25.663762,60.988387],"type":"Point"}
+}

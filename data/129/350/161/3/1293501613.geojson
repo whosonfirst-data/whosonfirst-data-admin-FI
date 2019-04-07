@@ -1,0 +1,75 @@
+{
+  "id": 1293501613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66667,60.21667,23.66667,60.21667",
+    "geom:latitude":60.21667,
+    "geom:longitude":23.66667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"444.0",
+    "gn:asciiname":"Risteys",
+    "gn:country_code":"FI",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":639252,
+    "gn:latitude":60.21667,
+    "gn:longitude":23.66667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Risteys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198655,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639252
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9cf131f91651c9c783696c3b281b29d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198655,
+            "locality_id":1293501613,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1293501613,
+    "wof:lastmodified":1536767033,
+    "wof:name":"Risteys",
+    "wof:parent_id":907198655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66667,
+    60.21666999999999,
+    23.66667,
+    60.21666999999999
+],
+  "geometry": {"coordinates":[23.66667,60.21666999999999],"type":"Point"}
+}

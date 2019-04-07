@@ -1,0 +1,75 @@
+{
+  "id": 1310564811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.01667,63.75,26.01667,63.75",
+    "geom:latitude":63.75,
+    "geom:longitude":26.01667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"176.0",
+    "gn:admin3_code":"626.0",
+    "gn:asciiname":"Kujala",
+    "gn:country_code":"FI",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":650586,
+    "gn:latitude":63.75,
+    "gn:longitude":26.01667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kujala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199151,
+        85633143,
+        404227415,
+        136253047,
+        1159321591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":650586
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"69d10bc4c3db2c8bdead49ad8c454684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321591,
+            "empire_id":136253047,
+            "localadmin_id":907199151,
+            "locality_id":1310564811,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1310564811,
+    "wof:lastmodified":1536830526,
+    "wof:name":"Kujala",
+    "wof:parent_id":907199151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.01667,
+    63.75,
+    26.01667,
+    63.75
+],
+  "geometry": {"coordinates":[26.01667,63.75],"type":"Point"}
+}

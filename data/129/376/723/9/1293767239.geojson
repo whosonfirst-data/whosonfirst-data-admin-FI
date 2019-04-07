@@ -1,0 +1,75 @@
+{
+  "id": 1293767239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63742,62.63792,23.63742,62.63792",
+    "geom:latitude":62.63792,
+    "geom:longitude":23.63742,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"144.0",
+    "gn:admin3_code":"10.0",
+    "gn:asciiname":"Ranta-Toeysae",
+    "gn:country_code":"FI",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":639902,
+    "gn:latitude":62.63792,
+    "gn:longitude":23.63742,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Ranta-T\u00f6ys\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199157,
+        85633143,
+        404227417,
+        136253047,
+        1159321555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639902
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2c68804cc755d3a2486288c14ecef3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321555,
+            "empire_id":136253047,
+            "localadmin_id":907199157,
+            "locality_id":1293767239,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1293767239,
+    "wof:lastmodified":1536880123,
+    "wof:name":"Ranta-Toeysae",
+    "wof:parent_id":907199157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63742,
+    62.63792,
+    23.63742,
+    62.63792
+],
+  "geometry": {"coordinates":[23.63742,62.63792],"type":"Point"}
+}

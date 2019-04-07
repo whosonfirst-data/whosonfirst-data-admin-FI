@@ -1,0 +1,84 @@
+{
+  "id": 1293365535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.09336,69.72318,26.09336,69.72318",
+    "geom:latitude":69.72318,
+    "geom:longitude":26.09336,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"197.0",
+    "gn:admin3_code":"890.0",
+    "gn:asciiname":"Aittijoki",
+    "gn:country_code":"FI",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":647485,
+    "gn:latitude":69.72318,
+    "gn:longitude":26.09336,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aittijoki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Aittijoki"
+    ],
+    "name:sme_x_preferred":[
+        "\u00c1itejohka"
+    ],
+    "name:und_x_variant":[
+        "Lukkarp\u00e4iki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199575,
+        85633143,
+        404227409,
+        136253047,
+        1159321531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":647485
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"af4c675f09312310ccb8ed87cc074df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321531,
+            "empire_id":136253047,
+            "localadmin_id":907199575,
+            "locality_id":1293365535,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1293365535,
+    "wof:lastmodified":1537622219,
+    "wof:name":"Aittijoki",
+    "wof:parent_id":907199575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.09336,
+    69.72318,
+    26.09336,
+    69.72318
+],
+  "geometry": {"coordinates":[26.09336,69.72318],"type":"Point"}
+}

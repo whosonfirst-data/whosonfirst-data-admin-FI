@@ -1,0 +1,116 @@
+{
+  "id": 1125979105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98512,60.87283,22.98512,60.87283",
+    "geom:latitude":60.87283,
+    "geom:longitude":22.98512,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5816,
+    "gn:population":5816,
+    "iso:country":"FI",
+    "lbl:latitude":60.87283,
+    "lbl:longitude":22.98512,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Loimaan kunta"
+    ],
+    "name:eng_x_preferred":[
+        "Loimaan kunta"
+    ],
+    "name:fin_x_preferred":[
+        "Loimaan kunta"
+    ],
+    "name:ger_x_preferred":[
+        "Gemeinde Loimaa"
+    ],
+    "name:nob_x_preferred":[
+        "Loimaa kommune"
+    ],
+    "name:rum_x_preferred":[
+        "Loimaan kunta"
+    ],
+    "name:swe_x_preferred":[
+        "Loimaa kommun"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":846663,
+    "qs_pg:gn_pop":5816,
+    "qs_pg:name":"Loimaan kunta",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Varsinais-Suomen maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1248273,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":10644996,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Varsinais-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198963,
+        85633143,
+        404227405,
+        136253047,
+        1159321505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":846663,
+        "gp:id":10644996,
+        "qs_pg:id":1248273,
+        "wd:id":"Q1500371"
+    },
+    "wof:country":"FI",
+    "wof:created":1497298476,
+    "wof:geomhash":"b0a53a95f87812805e3e6a97f1554607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321505,
+            "empire_id":136253047,
+            "localadmin_id":907198963,
+            "locality_id":1125979105,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1125979105,
+    "wof:lastmodified":1529706493,
+    "wof:name":"Loimaan kunta",
+    "wof:parent_id":907198963,
+    "wof:placetype":"locality",
+    "wof:population":5816,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98512,
+    60.87283,
+    22.98512,
+    60.87283
+],
+  "geometry": {"coordinates":[22.98512,60.87283],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 101872847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.025764,62.902088,28.025764,62.902088",
+    "geom:latitude":62.902088,
+    "geom:longitude":28.025764,
+    "iso:country":"FI",
+    "lbl:latitude":62.902088,
+    "lbl:longitude":28.025764,
+    "mps:latitude":62.902088,
+    "mps:longitude":28.025765,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Suomi#Finland",
+    "qs:a1":"*Pohjois-Savo#Norra Savolax",
+    "qs:a1r":"0It\u00e4-Suomen AVI#\u00d6stra Finlands RFV",
+    "qs:adm0":"Suomi#Finland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Savulahti",
+    "qs:loc_alt":"Savulahti",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199673,
+        85633143,
+        404227407,
+        136253047,
+        1159321597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":25951001,
+        "qs:id":5
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ffe16ee5dffc37cfaeefeb743f8166e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321597,
+            "empire_id":136253047,
+            "localadmin_id":907199673,
+            "locality_id":101872847,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":101872847,
+    "wof:lastmodified":1544751354,
+    "wof:name":"Savulahti",
+    "wof:parent_id":907199673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.025764,
+    62.902088,
+    28.025764,
+    62.902088
+],
+  "geometry": {"coordinates":[28.025764,62.902088],"type":"Point"}
+}

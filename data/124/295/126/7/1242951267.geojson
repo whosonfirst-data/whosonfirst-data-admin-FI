@@ -1,0 +1,75 @@
+{
+  "id": 1242951267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.51898,63.21543,26.51898,63.21543",
+    "geom:latitude":63.21543,
+    "geom:longitude":26.51898,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"595.0",
+    "gn:asciiname":"Laensi-Saeviae",
+    "gn:country_code":"FI",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649006,
+    "gn:latitude":63.21543,
+    "gn:longitude":26.51898,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"L\u00e4nsi-S\u00e4vi\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199287,
+        85633143,
+        404227407,
+        136253047,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649006
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5cbc1b1957339edd7110bdfd55c20c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199287,
+            "locality_id":1242951267,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1242951267,
+    "wof:lastmodified":1537021581,
+    "wof:name":"Laensi-Saeviae",
+    "wof:parent_id":907199287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.51898,
+    63.21543000000001,
+    26.51898,
+    63.21543000000001
+],
+  "geometry": {"coordinates":[26.51898,63.21543000000001],"type":"Point"}
+}

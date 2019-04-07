@@ -1,0 +1,75 @@
+{
+  "id": 1344236277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88046,62.00023,25.88046,62.00023",
+    "geom:latitude":62.00023,
+    "geom:longitude":25.88046,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"131.0",
+    "gn:admin3_code":"179.0",
+    "gn:asciiname":"Paeivaekunta",
+    "gn:country_code":"FI",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643137,
+    "gn:latitude":62.00023,
+    "gn:longitude":25.88046,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"P\u00e4iv\u00e4kunta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199265,
+        85633143,
+        404227417,
+        136253047,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643137
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8b07bb460f597b0cbdeedb04b83995f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":907199265,
+            "locality_id":1344236277,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1344236277,
+    "wof:lastmodified":1536619824,
+    "wof:name":"Paeivaekunta",
+    "wof:parent_id":907199265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88046,
+    62.00023,
+    25.88046,
+    62.00023
+],
+  "geometry": {"coordinates":[25.88046,62.00023],"type":"Point"}
+}

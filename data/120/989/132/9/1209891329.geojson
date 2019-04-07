@@ -1,0 +1,78 @@
+{
+  "id": 1209891329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.09059,66.90408,24.09059,66.90408",
+    "geom:latitude":66.90408,
+    "geom:longitude":24.09059,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"193.0",
+    "gn:admin3_code":"854.0",
+    "gn:asciiname":"Orajaervi",
+    "gn:country_code":"FI",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643699,
+    "gn:latitude":66.90408,
+    "gn:longitude":24.09059,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Oraj\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Oraj\u00e4rvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199553,
+        85633143,
+        404227409,
+        136253047,
+        1159321537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643699
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"17b3b4d4acf73aad8de8f527bc0d39c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321537,
+            "empire_id":136253047,
+            "localadmin_id":907199553,
+            "locality_id":1209891329,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1209891329,
+    "wof:lastmodified":1537622199,
+    "wof:name":"Orajaervi",
+    "wof:parent_id":907199553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.09059,
+    66.90408000000001,
+    24.09059,
+    66.90408000000001
+],
+  "geometry": {"coordinates":[24.09059,66.90408000000001],"type":"Point"}
+}

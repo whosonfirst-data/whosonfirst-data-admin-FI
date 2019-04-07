@@ -1,0 +1,81 @@
+{
+  "id": 1209010415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.66071,61.54925,21.66071,61.54925",
+    "geom:latitude":61.54925,
+    "geom:longitude":21.66071,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"609.0",
+    "gn:asciiname":"Fleiviiki",
+    "gn:country_code":"FI",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101217,
+    "gn:latitude":61.54925,
+    "gn:longitude":21.66071,
+    "gn:modification_date":"2017-08-23",
+    "gn:name":"Fleiviiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Flevik"
+    ],
+    "name:fin_x_preferred":[
+        "Fleiviiki"
+    ],
+    "name:isl_x_preferred":[
+        "Flevik"
+    ],
+    "name:nno_x_preferred":[
+        "Flevik"
+    ],
+    "name:nob_x_preferred":[
+        "Flevik"
+    ],
+    "name:swe_x_preferred":[
+        "Flevik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101217
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"310ed133c8c8c69324c92a79cedbd50b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209010415
+        }
+    ],
+    "wof:id":1209010415,
+    "wof:lastmodified":1537622322,
+    "wof:name":"Fleiviiki",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.66071,
+    61.54925,
+    21.66071,
+    61.54925
+],
+  "geometry": {"coordinates":[21.66071,61.54925],"type":"Point"}
+}

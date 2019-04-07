@@ -1,0 +1,100 @@
+{
+  "id": 1125975083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.65,65.46667,28.65,65.46667",
+    "geom:latitude":65.46667,
+    "geom:longitude":28.65,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":65.46667,
+    "lbl:longitude":28.65,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Jokij\u00e4rvi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u043e\u043a\u0438\u044f\u0440\u0432\u0438"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":655732,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Jokij\u00e4rvi",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Pohjois-pohjanmaan maakunta",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":992393,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":566262,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Pohjois-pohjanmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199503,
+        85633143,
+        404227415,
+        136253047,
+        1159321489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":655732,
+        "gp:id":566262,
+        "qs_pg:id":992393
+    },
+    "wof:country":"FI",
+    "wof:created":1497298313,
+    "wof:geomhash":"89daf928f840a66e67698aaebdacebe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321489,
+            "empire_id":136253047,
+            "localadmin_id":907199503,
+            "locality_id":1125975083,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1125975083,
+    "wof:lastmodified":1529709437,
+    "wof:name":"Jokij\u00e4rvi",
+    "wof:parent_id":907199503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.65,
+    65.46667,
+    28.65,
+    65.46667
+],
+  "geometry": {"coordinates":[28.65,65.46666999999999],"type":"Point"}
+}

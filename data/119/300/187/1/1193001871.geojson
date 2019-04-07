@@ -1,0 +1,75 @@
+{
+  "id": 1193001871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.05512,62.77253,23.05512,62.77253",
+    "geom:latitude":62.77253,
+    "geom:longitude":23.05512,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"743.0",
+    "gn:asciiname":"Veneskoski",
+    "gn:country_code":"FI",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":631957,
+    "gn:latitude":62.77253,
+    "gn:longitude":23.05512,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Veneskoski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199285,
+        85633143,
+        404227417,
+        136253047,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631957
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c509b651c5b7b2e1d5a2927ffca38628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199285,
+            "locality_id":1193001871,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1193001871,
+    "wof:lastmodified":1536369662,
+    "wof:name":"Veneskoski",
+    "wof:parent_id":907199285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.05512,
+    62.77253,
+    23.05512,
+    62.77253
+],
+  "geometry": {"coordinates":[23.05512,62.77253],"type":"Point"}
+}

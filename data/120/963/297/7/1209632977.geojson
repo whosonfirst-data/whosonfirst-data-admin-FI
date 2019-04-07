@@ -1,0 +1,72 @@
+{
+  "id": 1209632977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.39014,60.46308,26.39014,60.46308",
+    "geom:latitude":60.46308,
+    "geom:longitude":26.39014,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"16.0",
+    "gn:admin3_code":"434.0",
+    "gn:asciiname":"Smissbacken",
+    "gn:country_code":"FI",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":844659,
+    "gn:latitude":60.46308,
+    "gn:longitude":26.39014,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Smissbacken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Misinm\u00e4ki"
+    ],
+    "name:fin_x_variant":[
+        "Missinm\u00e4ki"
+    ],
+    "name:swe_x_preferred":[
+        "Smissbacken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":844659
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"fbdea26615f2bb0674f1043df638dfe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209632977
+        }
+    ],
+    "wof:id":1209632977,
+    "wof:lastmodified":1537622311,
+    "wof:name":"Smissbacken",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.39014,
+    60.46308000000001,
+    26.39014,
+    60.46308000000001
+],
+  "geometry": {"coordinates":[26.39014,60.46308000000001],"type":"Point"}
+}

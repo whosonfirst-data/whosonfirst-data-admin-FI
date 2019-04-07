@@ -1,0 +1,75 @@
+{
+  "id": 1226423759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.36195,63.0128,28.36195,63.0128",
+    "geom:latitude":63.0128,
+    "geom:longitude":28.36195,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"112.0",
+    "gn:admin3_code":"297.0",
+    "gn:asciiname":"Akonpohja",
+    "gn:country_code":"FI",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":661623,
+    "gn:latitude":63.0128,
+    "gn:longitude":28.36195,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Akonpohja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199339,
+        85633143,
+        404227407,
+        136253047,
+        1159321597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":661623
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"87f4a8c94ef93148b34bfc204be40cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321597,
+            "empire_id":136253047,
+            "localadmin_id":907199339,
+            "locality_id":1226423759,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1226423759,
+    "wof:lastmodified":1536677177,
+    "wof:name":"Akonpohja",
+    "wof:parent_id":907199339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.36195,
+    63.0128,
+    28.36195,
+    63.0128
+],
+  "geometry": {"coordinates":[28.36195,63.0128],"type":"Point"}
+}

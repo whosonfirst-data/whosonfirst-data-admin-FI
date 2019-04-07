@@ -1,0 +1,102 @@
+{
+  "id": 1125865157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.06667,62.28333,27.06667,62.28333",
+    "geom:latitude":62.28333,
+    "geom:longitude":27.06667,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5834,
+    "iso:country":"FI",
+    "lbl:latitude":62.28333,
+    "lbl:longitude":27.06667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Pieks\u00e4m\u00e4en maalaiskunta"
+    ],
+    "name:eng_x_preferred":[
+        "Pieks\u00e4m\u00e4en maalaiskunta"
+    ],
+    "name:fin_x_preferred":[
+        "Pieks\u00e4m\u00e4en maalaiskunta"
+    ],
+    "name:ger_x_preferred":[
+        "Pieks\u00e4m\u00e4en maalaiskunta"
+    ],
+    "name:nob_x_preferred":[
+        "Pieks\u00e4m\u00e4ki landkommune"
+    ],
+    "name:swe_x_preferred":[
+        "Pieks\u00e4m\u00e4ki landskommun"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":846668,
+    "qs_pg:gn_pop":5834,
+    "qs_pg:name":"Pieks\u00e4m\u00e4en Maalaiskunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":129744,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "wof:belongsto":[
+        85683109,
+        102191581,
+        907199013,
+        85633143,
+        404227407,
+        136253047,
+        1159321615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":846668,
+        "qs_pg:id":129744,
+        "wd:id":"Q2311711"
+    },
+    "wof:country":"FI",
+    "wof:created":1497294001,
+    "wof:geomhash":"f24b5cf39534f1b50fb274fbaf79e23a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321615,
+            "empire_id":136253047,
+            "localadmin_id":907199013,
+            "locality_id":1125865157,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":1125865157,
+    "wof:lastmodified":1529714462,
+    "wof:name":"Pieks\u00e4m\u00e4en Maalaiskunta",
+    "wof:parent_id":907199013,
+    "wof:placetype":"locality",
+    "wof:population":5834,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.06667,
+    62.28333,
+    27.06667,
+    62.28333
+],
+  "geometry": {"coordinates":[27.06667,62.28333],"type":"Point"}
+}

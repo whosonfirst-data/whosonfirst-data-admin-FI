@@ -1,0 +1,81 @@
+{
+  "id": 1276993939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2619,60.29459,22.2619,60.29459",
+    "geom:latitude":60.29459,
+    "geom:longitude":22.2619,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"445.0",
+    "gn:asciiname":"Sysilax",
+    "gn:country_code":"FI",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":635338,
+    "gn:latitude":60.29459,
+    "gn:longitude":22.2619,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Sysilax",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Sysilahti"
+    ],
+    "name:swe_x_preferred":[
+        "Sysilax"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907199741,
+        85633143,
+        404227405,
+        136253047,
+        1159321605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":635338
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7de2e036dab931d0dd74738ef61817f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321605,
+            "empire_id":136253047,
+            "localadmin_id":907199741,
+            "locality_id":1276993939,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1276993939,
+    "wof:lastmodified":1537622154,
+    "wof:name":"Sysilax",
+    "wof:parent_id":907199741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2619,
+    60.29459,
+    22.2619,
+    60.29459
+],
+  "geometry": {"coordinates":[22.2619,60.29459],"type":"Point"}
+}

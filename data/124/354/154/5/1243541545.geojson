@@ -1,0 +1,75 @@
+{
+  "id": 1243541545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.76849,62.60323,29.76849,62.60323",
+    "geom:latitude":62.60323,
+    "geom:longitude":29.76849,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"122.0",
+    "gn:admin3_code":"167.0",
+    "gn:asciiname":"Ylaesatama",
+    "gn:country_code":"FI",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7731830,
+    "gn:latitude":62.60323,
+    "gn:longitude":29.76849,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Yl\u00e4satama",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199609,
+        85633143,
+        404227407,
+        136253047,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7731830
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"879a91e2f4dc31aa85833f3ccb9a6cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199609,
+            "locality_id":1243541545,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1243541545,
+    "wof:lastmodified":1536668524,
+    "wof:name":"Ylaesatama",
+    "wof:parent_id":907199609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.76849,
+    62.60323,
+    29.76849,
+    62.60323
+],
+  "geometry": {"coordinates":[29.76849,62.60323],"type":"Point"}
+}

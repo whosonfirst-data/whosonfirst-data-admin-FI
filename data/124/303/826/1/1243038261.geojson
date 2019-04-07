@@ -1,0 +1,75 @@
+{
+  "id": 1243038261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65577,62.69486,21.65577,62.69486",
+    "geom:latitude":62.69486,
+    "geom:longitude":21.65577,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"153.0",
+    "gn:admin3_code":"545.0",
+    "gn:asciiname":"Syrriossback",
+    "gn:country_code":"FI",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":842340,
+    "gn:latitude":62.69486,
+    "gn:longitude":21.65577,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Syrriossback",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199661,
+        85633143,
+        404227417,
+        136253047,
+        1159321495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":842340
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"55a3c5c72fd52ae2efb239d3bb06c585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321495,
+            "empire_id":136253047,
+            "localadmin_id":907199661,
+            "locality_id":1243038261,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1243038261,
+    "wof:lastmodified":1536896936,
+    "wof:name":"Syrriossback",
+    "wof:parent_id":907199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65577,
+    62.69486,
+    21.65577,
+    62.69486
+],
+  "geometry": {"coordinates":[21.65577,62.69486],"type":"Point"}
+}

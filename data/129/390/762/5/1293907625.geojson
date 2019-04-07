@@ -1,0 +1,79 @@
+{
+  "id": 1293907625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.88704,61.19876,22.88704,61.19876",
+    "geom:latitude":61.19876,
+    "geom:longitude":22.88704,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"102.0",
+    "gn:asciiname":"Rekikoski",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":639560,
+    "gn:latitude":61.19876,
+    "gn:longitude":22.88704,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Rekikoski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rekijoki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907198933,
+        85633143,
+        404227405,
+        136253047,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639560
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"0857f60401d0bbe8a4bc3e841e1508ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907198933,
+            "locality_id":1293907625,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1293907625,
+    "wof:lastmodified":1537622176,
+    "wof:name":"Rekikoski",
+    "wof:parent_id":907198933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.88704,
+    61.19876,
+    22.88704,
+    61.19876
+],
+  "geometry": {"coordinates":[22.88704,61.19876],"type":"Point"}
+}

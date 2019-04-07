@@ -1,0 +1,75 @@
+{
+  "id": 1293064763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.13333,66.11667,29.13333,66.11667",
+    "geom:latitude":66.11667,
+    "geom:longitude":29.13333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"178.0",
+    "gn:admin3_code":"305.0",
+    "gn:asciiname":"Niskala",
+    "gn:country_code":"FI",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":644568,
+    "gn:latitude":66.11667,
+    "gn:longitude":29.13333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Niskala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199519,
+        85633143,
+        404227415,
+        136253047,
+        1159321489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":644568
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5b19eee87d8a99d4e3bac8480cd1f8bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321489,
+            "empire_id":136253047,
+            "localadmin_id":907199519,
+            "locality_id":1293064763,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1293064763,
+    "wof:lastmodified":1536899696,
+    "wof:name":"Niskala",
+    "wof:parent_id":907199519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.13333,
+    66.11667,
+    29.13333,
+    66.11667
+],
+  "geometry": {"coordinates":[29.13333,66.11667],"type":"Point"}
+}

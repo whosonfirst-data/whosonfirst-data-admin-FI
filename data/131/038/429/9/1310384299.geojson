@@ -1,0 +1,78 @@
+{
+  "id": 1310384299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25795,62.71582,22.25795,62.71582",
+    "geom:latitude":62.71582,
+    "geom:longitude":22.25795,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"145.0",
+    "gn:asciiname":"Hiivaloukko",
+    "gn:country_code":"FI",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101345,
+    "gn:latitude":62.71582,
+    "gn:longitude":22.25795,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Hiivaloukko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Hiivaloukko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199003,
+        85633143,
+        404227417,
+        136253047,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101345
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3a4502527e405aa6afe6eb5acde97f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199003,
+            "locality_id":1310384299,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1310384299,
+    "wof:lastmodified":1537622327,
+    "wof:name":"Hiivaloukko",
+    "wof:parent_id":907199003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25795,
+    62.71582,
+    22.25795,
+    62.71582
+],
+  "geometry": {"coordinates":[22.25795,62.71582],"type":"Point"}
+}

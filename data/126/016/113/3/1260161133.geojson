@@ -1,0 +1,84 @@
+{
+  "id": 1260161133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08943,63.42168,30.08943,63.42168",
+    "geom:latitude":63.42168,
+    "geom:longitude":30.08943,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"125.0",
+    "gn:admin3_code":"422.0",
+    "gn:asciiname":"Pankajaervi",
+    "gn:country_code":"FI",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":642715,
+    "gn:latitude":63.42168,
+    "gn:longitude":30.08943,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Pankaj\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pankaj\u00e4rvi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u043a\u0430\u044f\u0440\u0432\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pankaj\u00e4rvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199605,
+        85633143,
+        404227407,
+        136253047,
+        1159321575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":642715
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a62534a199df5f52fcfe95030819bdd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321575,
+            "empire_id":136253047,
+            "localadmin_id":907199605,
+            "locality_id":1260161133,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1260161133,
+    "wof:lastmodified":1537622194,
+    "wof:name":"Pankajaervi",
+    "wof:parent_id":907199605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08943,
+    63.42168,
+    30.08943,
+    63.42168
+],
+  "geometry": {"coordinates":[30.08943,63.42168],"type":"Point"}
+}

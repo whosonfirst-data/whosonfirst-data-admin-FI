@@ -1,0 +1,81 @@
+{
+  "id": 1327434769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23496,60.89452,22.23496,60.89452",
+    "geom:latitude":60.89452,
+    "geom:longitude":22.23496,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"636.0",
+    "gn:asciiname":"Heinijoki",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":658298,
+    "gn:latitude":60.89452,
+    "gn:longitude":22.23496,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Heinijoki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heinikyl\u00e4",
+        "Heinijoki",
+        "Heinjoki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198921,
+        85633143,
+        404227405,
+        136253047,
+        1159321505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":658298
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"20eda4489f9015fbaa124ec1ce23d1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321505,
+            "empire_id":136253047,
+            "localadmin_id":907198921,
+            "locality_id":1327434769,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1327434769,
+    "wof:lastmodified":1537622285,
+    "wof:name":"Heinijoki",
+    "wof:parent_id":907198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23496,
+    60.89451999999999,
+    22.23496,
+    60.89451999999999
+],
+  "geometry": {"coordinates":[22.23496,60.89451999999999],"type":"Point"}
+}

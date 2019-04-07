@@ -1,0 +1,92 @@
+{
+  "id": 1125380117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-12-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85586,62.43123,22.85586,62.43123",
+    "geom:latitude":62.43123,
+    "geom:longitude":22.85586,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":8214,
+    "gn:population":8214,
+    "iso:country":"FI",
+    "lbl:latitude":62.43123,
+    "lbl:longitude":22.85586,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Jalasj\u00e4rvi"
+    ],
+    "name:fin_x_variant":[
+        "Jalasj\u00e4rven Kunta"
+    ],
+    "name:swe_x_preferred":[
+        "Jalasj\u00e4rvi"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":656118,
+    "qs_pg:gn_pop":8214,
+    "qs_pg:name":"Jalasj\u00e4rvi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1151731,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        85633143,
+        404227417,
+        136253047,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":656118,
+        "qs_pg:id":1151731
+    },
+    "wof:country":"FI",
+    "wof:created":1497047993,
+    "wof:geomhash":"134f5a34298e7e174959dbca3a06456e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":1125380117,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1125380117,
+    "wof:lastmodified":1544223147,
+    "wof:name":"Jalasj\u00e4rvi",
+    "wof:parent_id":1159321561,
+    "wof:placetype":"localadmin",
+    "wof:population":8214,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85586,
+    62.43123,
+    22.85586,
+    62.43123
+],
+  "geometry": {"coordinates":[22.85586,62.43123],"type":"Point"}
+}

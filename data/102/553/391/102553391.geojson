@@ -1,0 +1,66 @@
+{
+  "id": 102553391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3911111111,62.4636111111,22.3911111111,62.4636111111",
+    "geom:latitude":62.463611,
+    "geom:longitude":22.391111,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"407",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424812,
+        "county_id":56120886,
+        "localadmin_id":12591043,
+        "planet_id":1,
+        "state_id":29389256
+    },
+    "wof:belongsto":[
+        85633143,
+        85683113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523798,
+        "iata:code":"KHJ",
+        "icao:code":"EFKJ",
+        "oa:id":"2320",
+        "wd:id":"Q431551"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"53282a89a4d422d407d14e3ee695ae24",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553391,
+            "country_id":85633143,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":102553391,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Kauhajoki lentokentt\u00e4",
+    "wof:parent_id":85683113,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    22.391111111111,
+    62.463611111111,
+    22.391111111111,
+    62.463611111111
+],
+  "geometry": {"coordinates":[22.391111111111,62.463611111111],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226251345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.38536,60.70168,21.38536,60.70168",
+    "geom:latitude":60.70168,
+    "geom:longitude":21.38536,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"895.0",
+    "gn:asciiname":"Varanpaeae",
+    "gn:country_code":"FI",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":632426,
+    "gn:latitude":60.70168,
+    "gn:longitude":21.38536,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Varanp\u00e4\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Varanp\u00e4\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198615,
+        85633143,
+        404227405,
+        136253047,
+        1159321637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":632426
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8fac1eb854f96afa08707daf754feeac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321637,
+            "empire_id":136253047,
+            "localadmin_id":907198615,
+            "locality_id":1226251345,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1226251345,
+    "wof:lastmodified":1537622139,
+    "wof:name":"Varanpaeae",
+    "wof:parent_id":907198615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.38536,
+    60.70168,
+    21.38536,
+    60.70168
+],
+  "geometry": {"coordinates":[21.38536,60.70168],"type":"Point"}
+}

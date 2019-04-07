@@ -1,0 +1,80 @@
+{
+  "id": 1226146233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.69114,60.97135,21.69114,60.97135",
+    "geom:latitude":60.97135,
+    "geom:longitude":21.69114,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"400.0",
+    "gn:asciiname":"Vaimaro",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":632845,
+    "gn:latitude":60.97135,
+    "gn:longitude":21.69114,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Vaimaro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaimaroinen",
+        "Vaimaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198671,
+        85633143,
+        404227405,
+        136253047,
+        1159321637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":632845
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"da81a8d448ab408942ce5e06efbda205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321637,
+            "empire_id":136253047,
+            "localadmin_id":907198671,
+            "locality_id":1226146233,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1226146233,
+    "wof:lastmodified":1537622142,
+    "wof:name":"Vaimaro",
+    "wof:parent_id":907198671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.69114,
+    60.97135,
+    21.69114,
+    60.97135
+],
+  "geometry": {"coordinates":[21.69114,60.97135],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209724385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97982,60.16843,21.97982,60.16843",
+    "geom:latitude":60.16843,
+    "geom:longitude":21.97982,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"445.0",
+    "gn:asciiname":"Piparby",
+    "gn:country_code":"FI",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":849003,
+    "gn:latitude":60.16843,
+    "gn:longitude":21.97982,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Piparby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907199741,
+        85633143,
+        404227405,
+        136253047,
+        1159321605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":849003
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"787770cf824271cc4afbadf9e68c1370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321605,
+            "empire_id":136253047,
+            "localadmin_id":907199741,
+            "locality_id":1209724385,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1209724385,
+    "wof:lastmodified":1536384912,
+    "wof:name":"Piparby",
+    "wof:parent_id":907199741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97982,
+    60.16843000000001,
+    21.97982,
+    60.16843000000001
+],
+  "geometry": {"coordinates":[21.97982,60.16843000000001],"type":"Point"}
+}

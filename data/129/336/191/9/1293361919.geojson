@@ -1,0 +1,75 @@
+{
+  "id": 1293361919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.04348,64.67694,26.04348,64.67694",
+    "geom:latitude":64.67694,
+    "geom:longitude":26.04348,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"494.0",
+    "gn:asciiname":"Huikola",
+    "gn:country_code":"FI",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":657190,
+    "gn:latitude":64.67694,
+    "gn:longitude":26.04348,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Huikola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199477,
+        85633143,
+        404227415,
+        136253047,
+        1159321529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":657190
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f682007445630b90de6e300764b40934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321529,
+            "empire_id":136253047,
+            "localadmin_id":907199477,
+            "locality_id":1293361919,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1293361919,
+    "wof:lastmodified":1536967878,
+    "wof:name":"Huikola",
+    "wof:parent_id":907199477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.04348,
+    64.67694,
+    26.04348,
+    64.67694
+],
+  "geometry": {"coordinates":[26.04348,64.67694],"type":"Point"}
+}

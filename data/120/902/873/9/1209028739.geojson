@@ -1,0 +1,67 @@
+{
+  "id": 1209028739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4,61.36667,24.4,61.36667",
+    "geom:latitude":61.36667,
+    "geom:longitude":24.4,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"64.0",
+    "gn:admin3_code":"635.0",
+    "gn:asciiname":"Toeyraeniemi",
+    "gn:country_code":"FI",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":634011,
+    "gn:latitude":61.36667,
+    "gn:longitude":24.4,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"T\u00f6yr\u00e4niemi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toyr\u00e4nniemi",
+        "T\u00f6yr\u00e4niemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":634011
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e22f707f06ae52643a758677648e8bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209028739
+        }
+    ],
+    "wof:id":1209028739,
+    "wof:lastmodified":1537622147,
+    "wof:name":"Toeyraeniemi",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4,
+    61.36666999999999,
+    24.4,
+    61.36666999999999
+],
+  "geometry": {"coordinates":[24.4,61.36666999999999],"type":"Point"}
+}

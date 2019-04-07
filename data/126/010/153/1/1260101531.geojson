@@ -1,0 +1,80 @@
+{
+  "id": 1260101531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.68444,61.17055,25.68444,61.17055",
+    "geom:latitude":61.17055,
+    "geom:longitude":25.68444,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"16.0",
+    "gn:asciiname":"Kopsuo",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":651546,
+    "gn:latitude":61.17055,
+    "gn:longitude":25.68444,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kopsuo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kopsoo",
+        "Kopsuo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683091,
+        102191581,
+        907198691,
+        85633143,
+        404227411,
+        136253047,
+        1159321483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":651546
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"32f858bb805647eff5fb9febb05248fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321483,
+            "empire_id":136253047,
+            "localadmin_id":907198691,
+            "locality_id":1260101531,
+            "macroregion_id":404227411,
+            "region_id":85683091
+        }
+    ],
+    "wof:id":1260101531,
+    "wof:lastmodified":1537622243,
+    "wof:name":"Kopsuo",
+    "wof:parent_id":907198691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.68444,
+    61.17055,
+    25.68444,
+    61.17055
+],
+  "geometry": {"coordinates":[25.68444,61.17055],"type":"Point"}
+}

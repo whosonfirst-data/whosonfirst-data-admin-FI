@@ -1,0 +1,90 @@
+{
+  "id": 1276253117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.79993,61.51463,21.79993,61.51463",
+    "geom:latitude":61.51463,
+    "geom:longitude":21.79993,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"609.0",
+    "gn:asciiname":"Hyvelaenviiki",
+    "gn:country_code":"FI",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7647306,
+    "gn:latitude":61.51463,
+    "gn:longitude":21.79993,
+    "gn:modification_date":"2017-08-23",
+    "gn:name":"Hyvel\u00e4nviiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Hjulb\u00f6leviken"
+    ],
+    "name:isl_x_preferred":[
+        "Hjulb\u00f6leviken"
+    ],
+    "name:nno_x_preferred":[
+        "Hjulb\u00f6leviken"
+    ],
+    "name:nob_x_preferred":[
+        "Hjulb\u00f6leviken"
+    ],
+    "name:swe_x_preferred":[
+        "Hjulb\u00f6leviken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907199653,
+        85633143,
+        404227405,
+        136253047,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7647306
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"521b42dbcbb372f5863e91f65f8ffec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907199653,
+            "locality_id":1276253117,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1276253117,
+    "wof:lastmodified":1537622318,
+    "wof:name":"Hyvelaenviiki",
+    "wof:parent_id":907199653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.79993,
+    61.51463,
+    21.79993,
+    61.51463
+],
+  "geometry": {"coordinates":[21.79993,61.51463],"type":"Point"}
+}

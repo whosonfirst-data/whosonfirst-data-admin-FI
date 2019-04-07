@@ -1,0 +1,66 @@
+{
+  "id": 1209318715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85288,60.30735,24.85288,60.30735",
+    "geom:latitude":60.30735,
+    "geom:longitude":24.85288,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"92.0",
+    "gn:asciiname":"Piispankylae",
+    "gn:country_code":"FI",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":847410,
+    "gn:latitude":60.30735,
+    "gn:longitude":24.85288,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Piispankyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Biskopsb\u00f6le"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":847410
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d641769cde95235a5d6fee4bb10fa549",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209318715
+        }
+    ],
+    "wof:id":1209318715,
+    "wof:lastmodified":1537550110,
+    "wof:name":"Piispankylae",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.85288,
+    60.30735,
+    24.85288,
+    60.30735
+],
+  "geometry": {"coordinates":[24.85288,60.30735],"type":"Point"}
+}

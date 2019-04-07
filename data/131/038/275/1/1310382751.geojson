@@ -1,0 +1,81 @@
+{
+  "id": 1310382751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.52161,62.34109,29.52161,62.34109",
+    "geom:latitude":62.34109,
+    "geom:longitude":29.52161,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"124.0",
+    "gn:admin3_code":"707.0",
+    "gn:asciiname":"Oravisalo",
+    "gn:country_code":"FI",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643657,
+    "gn:latitude":62.34109,
+    "gn:longitude":29.52161,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Oravisalo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oravisalo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0430\u0432\u0438\u0441\u0430\u043b\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907198891,
+        85633143,
+        404227407,
+        136253047,
+        1159321517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643657
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"53276deac0ceb33930bb6b75248ff477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321517,
+            "empire_id":136253047,
+            "localadmin_id":907198891,
+            "locality_id":1310382751,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1310382751,
+    "wof:lastmodified":1537622199,
+    "wof:name":"Oravisalo",
+    "wof:parent_id":907198891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.52161,
+    62.34109,
+    29.52161,
+    62.34109
+],
+  "geometry": {"coordinates":[29.52161,62.34109],"type":"Point"}
+}

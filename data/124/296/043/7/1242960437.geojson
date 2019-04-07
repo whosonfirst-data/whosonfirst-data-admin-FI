@@ -1,0 +1,75 @@
+{
+  "id": 1242960437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08333,63.63333,30.08333,63.63333",
+    "geom:latitude":63.63333,
+    "geom:longitude":30.08333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"125.0",
+    "gn:admin3_code":"422.0",
+    "gn:asciiname":"Suurpaeae",
+    "gn:country_code":"FI",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":635507,
+    "gn:latitude":63.63333,
+    "gn:longitude":30.08333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Suurp\u00e4\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199605,
+        85633143,
+        404227407,
+        136253047,
+        1159321575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":635507
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e5ca488288f4e4f5c42a7ba7e580be21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321575,
+            "empire_id":136253047,
+            "localadmin_id":907199605,
+            "locality_id":1242960437,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1242960437,
+    "wof:lastmodified":1537008580,
+    "wof:name":"Suurpaeae",
+    "wof:parent_id":907199605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08333,
+    63.63333000000001,
+    30.08333,
+    63.63333000000001
+],
+  "geometry": {"coordinates":[30.08333,63.63333000000001],"type":"Point"}
+}

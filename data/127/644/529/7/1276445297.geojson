@@ -1,0 +1,75 @@
+{
+  "id": 1276445297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.63333,60.28333,22.63333,60.28333",
+    "geom:latitude":60.28333,
+    "geom:longitude":22.63333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"738.0",
+    "gn:asciiname":"Sitolahti",
+    "gn:country_code":"FI",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":636664,
+    "gn:latitude":60.28333,
+    "gn:longitude":22.63333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Sitolahti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198941,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":636664
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"238630fe2027912e6620ae11f50cd5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198941,
+            "locality_id":1276445297,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1276445297,
+    "wof:lastmodified":1536626741,
+    "wof:name":"Sitolahti",
+    "wof:parent_id":907198941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.63333,
+    60.28333000000001,
+    22.63333,
+    60.28333000000001
+],
+  "geometry": {"coordinates":[22.63333,60.28333000000001],"type":"Point"}
+}

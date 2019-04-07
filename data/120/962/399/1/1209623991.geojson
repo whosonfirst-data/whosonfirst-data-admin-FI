@@ -1,0 +1,63 @@
+{
+  "id": 1209623991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.74455,60.50412,21.74455,60.50412",
+    "geom:latitude":60.50412,
+    "geom:longitude":21.74455,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"529.0",
+    "gn:asciiname":"Riihilae",
+    "gn:country_code":"FI",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":854764,
+    "gn:latitude":60.50412,
+    "gn:longitude":21.74455,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Riihil\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":854764
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f77b48717b38f4c2c6dcdb8ca62c2536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209623991
+        }
+    ],
+    "wof:id":1209623991,
+    "wof:lastmodified":1536281419,
+    "wof:name":"Riihilae",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74455,
+    60.50411999999999,
+    21.74455,
+    60.50411999999999
+],
+  "geometry": {"coordinates":[21.74455,60.50411999999999],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226543199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45,60.21667,21.45,60.21667",
+    "geom:latitude":60.21667,
+    "geom:longitude":21.45,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"445.0",
+    "gn:asciiname":"Saverkeit",
+    "gn:country_code":"FI",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":637378,
+    "gn:latitude":60.21667,
+    "gn:longitude":21.45,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Saverkeit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907199741,
+        85633143,
+        404227405,
+        136253047,
+        1159321605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637378
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8bfe297453a7d242a6c28c11cd71d459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321605,
+            "empire_id":136253047,
+            "localadmin_id":907199741,
+            "locality_id":1226543199,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1226543199,
+    "wof:lastmodified":1537000927,
+    "wof:name":"Saverkeit",
+    "wof:parent_id":907199741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45,
+    60.21666999999999,
+    21.45,
+    60.21666999999999
+],
+  "geometry": {"coordinates":[21.45,60.21666999999999],"type":"Point"}
+}

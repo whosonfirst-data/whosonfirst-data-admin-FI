@@ -1,0 +1,84 @@
+{
+  "id": 1226128789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.58332,62.38923,24.58332,62.38923",
+    "geom:latitude":62.38923,
+    "geom:longitude":24.58332,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"133.0",
+    "gn:admin3_code":"249.0",
+    "gn:asciiname":"Suojaervi",
+    "gn:country_code":"FI",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":635766,
+    "gn:latitude":62.38923,
+    "gn:longitude":24.58332,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Suoj\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Suoj\u00e4rvi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043e\u044f\u0440\u0432\u0438"
+    ],
+    "name:und_x_variant":[
+        "Suoj\u00e4rvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199179,
+        85633143,
+        404227417,
+        136253047,
+        1159321499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":635766
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e9c6caabc7212f18c00a732b871c21c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321499,
+            "empire_id":136253047,
+            "localadmin_id":907199179,
+            "locality_id":1226128789,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1226128789,
+    "wof:lastmodified":1537622156,
+    "wof:name":"Suojaervi",
+    "wof:parent_id":907199179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.58332,
+    62.38923000000001,
+    24.58332,
+    62.38923000000001
+],
+  "geometry": {"coordinates":[24.58332,62.38923000000001],"type":"Point"}
+}

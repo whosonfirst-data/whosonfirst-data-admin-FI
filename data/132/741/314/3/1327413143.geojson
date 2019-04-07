@@ -1,0 +1,75 @@
+{
+  "id": 1327413143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5669,62.38711,25.5669,62.38711",
+    "geom:latitude":62.38711,
+    "geom:longitude":25.5669,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"131.0",
+    "gn:admin3_code":"179.0",
+    "gn:asciiname":"Maekelae",
+    "gn:country_code":"FI",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7646552,
+    "gn:latitude":62.38711,
+    "gn:longitude":25.5669,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"M\u00e4kel\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199265,
+        85633143,
+        404227417,
+        136253047,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7646552
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"36f8f3959712927eb7237ce289ab2b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":907199265,
+            "locality_id":1327413143,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1327413143,
+    "wof:lastmodified":1536708929,
+    "wof:name":"Maekelae",
+    "wof:parent_id":907199265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5669,
+    62.38711,
+    25.5669,
+    62.38711
+],
+  "geometry": {"coordinates":[25.5669,62.38711],"type":"Point"}
+}

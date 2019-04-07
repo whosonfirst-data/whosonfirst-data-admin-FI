@@ -1,0 +1,85 @@
+{
+  "id": 1326916655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.70457,61.79682,25.70457,61.79682",
+    "geom:latitude":61.79682,
+    "geom:longitude":25.70457,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"132.0",
+    "gn:admin3_code":"435.0",
+    "gn:asciiname":"Luhanka",
+    "gn:country_code":"FI",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":647522,
+    "gn:latitude":61.79682,
+    "gn:longitude":25.70457,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Luhanka",
+    "gn:population":905,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Luhanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0445\u0430\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907198699,
+        85633143,
+        404227417,
+        136253047,
+        1159321619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":647522,
+        "wk:page":"Luhanka"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7b4286260cab24edc9d1caf1d4132857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321619,
+            "empire_id":136253047,
+            "localadmin_id":907198699,
+            "locality_id":1326916655,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1326916655,
+    "wof:lastmodified":1537622219,
+    "wof:name":"Luhanka",
+    "wof:parent_id":907198699,
+    "wof:placetype":"locality",
+    "wof:population":905,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.70457,
+    61.79682,
+    25.70457,
+    61.79682
+],
+  "geometry": {"coordinates":[25.70457,61.79682],"type":"Point"}
+}

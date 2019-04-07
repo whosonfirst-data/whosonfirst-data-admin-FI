@@ -1,0 +1,75 @@
+{
+  "id": 1326610201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.36407,62.75179,29.36407,62.75179",
+    "geom:latitude":62.75179,
+    "geom:longitude":29.36407,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"122.0",
+    "gn:admin3_code":"607.0",
+    "gn:asciiname":"Rukkoniva",
+    "gn:country_code":"FI",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":638876,
+    "gn:latitude":62.75179,
+    "gn:longitude":29.36407,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Rukkoniva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199399,
+        85633143,
+        404227407,
+        136253047,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":638876
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"97641146d83c1c76bc4c57a0695b4d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199399,
+            "locality_id":1326610201,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1326610201,
+    "wof:lastmodified":1536870585,
+    "wof:name":"Rukkoniva",
+    "wof:parent_id":907199399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.36407,
+    62.75179,
+    29.36407,
+    62.75179
+],
+  "geometry": {"coordinates":[29.36407,62.75179],"type":"Point"}
+}

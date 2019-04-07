@@ -1,0 +1,83 @@
+{
+  "id": 1226721545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.45,64.2,24.45,64.2",
+    "geom:latitude":64.2,
+    "geom:longitude":24.45,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"177.0",
+    "gn:admin3_code":"9.0",
+    "gn:asciiname":"Somero",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":636344,
+    "gn:latitude":64.2,
+    "gn:longitude":24.45,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Somero",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043c\u0435\u0440\u043e"
+    ],
+    "name:und_x_variant":[
+        "Somer Kyl\u00e4",
+        "Somero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199429,
+        85633143,
+        404227415,
+        136253047,
+        1159321569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":636344
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f4cfe6c0ccfd22c71a8637186e6ecb57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321569,
+            "empire_id":136253047,
+            "localadmin_id":907199429,
+            "locality_id":1226721545,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1226721545,
+    "wof:lastmodified":1537622159,
+    "wof:name":"Somero",
+    "wof:parent_id":907199429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45,
+    64.2,
+    24.45,
+    64.2
+],
+  "geometry": {"coordinates":[24.45,64.2],"type":"Point"}
+}

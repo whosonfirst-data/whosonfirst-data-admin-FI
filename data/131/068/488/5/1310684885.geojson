@@ -1,0 +1,80 @@
+{
+  "id": 1310684885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.521,61.85309,28.521,61.85309",
+    "geom:latitude":61.85309,
+    "geom:longitude":28.521,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"740.0",
+    "gn:asciiname":"Otavanniemi",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643517,
+    "gn:latitude":61.85309,
+    "gn:longitude":28.521,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Otavanniemi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otavaniemi",
+        "Otavanniemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683109,
+        102191581,
+        907198867,
+        85633143,
+        404227407,
+        136253047,
+        1159321493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643517
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c3dbc51ec45befc51066c8030a27b46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321493,
+            "empire_id":136253047,
+            "localadmin_id":907198867,
+            "locality_id":1310684885,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":1310684885,
+    "wof:lastmodified":1537622198,
+    "wof:name":"Otavanniemi",
+    "wof:parent_id":907198867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.521,
+    61.85309,
+    28.521,
+    61.85309
+],
+  "geometry": {"coordinates":[28.521,61.85309],"type":"Point"}
+}

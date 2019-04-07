@@ -1,0 +1,80 @@
+{
+  "id": 1276859337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.11636,62.98572,27.11636,62.98572",
+    "geom:latitude":62.98572,
+    "geom:longitude":27.11636,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"112.0",
+    "gn:admin3_code":"297.0",
+    "gn:asciiname":"Riuttala",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":639137,
+    "gn:latitude":62.98572,
+    "gn:longitude":27.11636,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Riuttala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Riuttasenp\u00e4\u00e4",
+        "Riuttala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199673,
+        85633143,
+        404227407,
+        136253047,
+        1159321597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639137
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6ce1e3ef6e5b0f5290d996f826114b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321597,
+            "empire_id":136253047,
+            "localadmin_id":907199673,
+            "locality_id":1276859337,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1276859337,
+    "wof:lastmodified":1537622174,
+    "wof:name":"Riuttala",
+    "wof:parent_id":907199673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.11636,
+    62.98571999999999,
+    27.11636,
+    62.98571999999999
+],
+  "geometry": {"coordinates":[27.11636,62.98571999999999],"type":"Point"}
+}

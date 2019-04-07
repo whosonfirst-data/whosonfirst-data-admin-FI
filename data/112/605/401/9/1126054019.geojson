@@ -1,0 +1,106 @@
+{
+  "id": 1126054019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7,63.7,22.7,63.7",
+    "geom:latitude":63.7,
+    "geom:longitude":22.7,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":63.7,
+    "lbl:longitude":22.7,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Lepp\u00e4luoto"
+    ],
+    "name:fin_x_variant":[
+        "Alholma"
+    ],
+    "name:swe_x_preferred":[
+        "Alholmen"
+    ],
+    "name:unk_x_variant":[
+        "Alholm"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":661331,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Alholmen",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Pohjanmaan maakunta",
+    "qs_pg:photos":52,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":52,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":978116,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":564164,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Pohjanmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199069,
+        85633143,
+        404227417,
+        136253047,
+        1159321639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":661331,
+        "gp:id":564164,
+        "qs_pg:id":978116
+    },
+    "wof:country":"FI",
+    "wof:created":1497302970,
+    "wof:geomhash":"0c923fae96ec5225a6f48ced2292fad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321639,
+            "empire_id":136253047,
+            "localadmin_id":907199069,
+            "locality_id":1126054019,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1126054019,
+    "wof:lastmodified":1529709684,
+    "wof:name":"Alholmen",
+    "wof:parent_id":907199069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7,
+    63.7,
+    22.7,
+    63.7
+],
+  "geometry": {"coordinates":[22.7,63.7],"type":"Point"}
+}

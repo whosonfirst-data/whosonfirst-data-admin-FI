@@ -1,0 +1,82 @@
+{
+  "id": 101872851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.688143,63.191826,26.688143,63.191826",
+    "geom:latitude":63.191826,
+    "geom:longitude":26.688143,
+    "iso:country":"FI",
+    "lbl:latitude":63.191826,
+    "lbl:longitude":26.688143,
+    "mps:latitude":63.191827,
+    "mps:longitude":26.688143,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Suomi#Finland",
+    "qs:a1":"*Pohjois-Savo#Norra Savolax",
+    "qs:a1r":"0It\u00e4-Suomen AVI#\u00d6stra Finlands RFV",
+    "qs:adm0":"Suomi#Finland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e4vi\u00e4",
+    "qs:loc_alt":"Savia",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199287,
+        85633143,
+        404227407,
+        136253047,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637375,
+        "gp:id":572891,
+        "qs:id":1
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"22c77480f7776fae0b16470b0a117b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199287,
+            "locality_id":101872851,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":101872851,
+    "wof:lastmodified":1544751357,
+    "wof:name":"S\u00e4vi\u00e4",
+    "wof:parent_id":907199287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.688143,
+    63.191826,
+    26.688143,
+    63.191826
+],
+  "geometry": {"coordinates":[26.688143,63.191826],"type":"Point"}
+}

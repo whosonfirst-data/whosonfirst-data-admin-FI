@@ -1,0 +1,115 @@
+{
+  "id": 1126058169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11667,60.96667,22.11667,60.96667",
+    "geom:latitude":60.96667,
+    "geom:longitude":22.11667,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.96667,
+    "lbl:longitude":22.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Honkilahti"
+    ],
+    "name:eng_x_preferred":[
+        "Honkilahti"
+    ],
+    "name:fin_x_preferred":[
+        "Honkilahti"
+    ],
+    "name:fre_x_preferred":[
+        "Honkilahti"
+    ],
+    "name:geo_x_preferred":[
+        "\u10f0\u10dd\u10dc\u10d9\u10d8\u10da\u10d0\u10f0\u10e2\u10d8"
+    ],
+    "name:nob_x_preferred":[
+        "Honkilahti"
+    ],
+    "name:swe_x_preferred":[
+        "Honkilax"
+    ],
+    "name:unk_x_variant":[
+        "Honkilaht"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":657410,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Honkilahti",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Satakunnan maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1070287,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":565649,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Satakunnan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907198915,
+        85633143,
+        404227405,
+        136253047,
+        1159321607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":657410,
+        "gp:id":565649,
+        "qs_pg:id":1070287,
+        "wd:id":"Q3366345"
+    },
+    "wof:country":"FI",
+    "wof:created":1497303559,
+    "wof:geomhash":"1e33638ddccdfcd1b9368c632068fe4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321607,
+            "empire_id":136253047,
+            "localadmin_id":907198915,
+            "locality_id":1126058169,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1126058169,
+    "wof:lastmodified":1529712501,
+    "wof:name":"Honkilahti",
+    "wof:parent_id":907198915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11667,
+    60.96667,
+    22.11667,
+    60.96667
+],
+  "geometry": {"coordinates":[22.11667,60.96667],"type":"Point"}
+}

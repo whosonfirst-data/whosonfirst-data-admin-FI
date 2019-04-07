@@ -1,0 +1,78 @@
+{
+  "id": 1343235275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02618,63.07523,22.02618,63.07523",
+    "geom:latitude":63.07523,
+    "geom:longitude":22.02618,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"905.0",
+    "gn:asciiname":"Jaervenkylae",
+    "gn:country_code":"FI",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10102272,
+    "gn:latitude":63.07523,
+    "gn:longitude":22.02618,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"J\u00e4rvenkyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "J\u00e4rvenkyl\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199149,
+        85633143,
+        404227417,
+        136253047,
+        1159321501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10102272
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b07bb0ab209561089fd0cbc7b2c4e237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321501,
+            "empire_id":136253047,
+            "localadmin_id":907199149,
+            "locality_id":1343235275,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1343235275,
+    "wof:lastmodified":1537622345,
+    "wof:name":"Jaervenkylae",
+    "wof:parent_id":907199149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02618,
+    63.07523000000001,
+    22.02618,
+    63.07523000000001
+],
+  "geometry": {"coordinates":[22.02618,63.07523000000001],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102553307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.89611111,60.57138889,26.89611111,60.57138889",
+    "geom:latitude":60.571389,
+    "geom:longitude":26.896111,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"223",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424812,
+        "county_id":29389294,
+        "localadmin_id":12590760,
+        "planet_id":1,
+        "state_id":29389254
+    },
+    "wof:belongsto":[
+        85633143,
+        85683081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512781,
+        "icao:code":"EFKY",
+        "oa:id":"27260",
+        "wd:id":"Q3609556"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"92acac097daa75816bfe646795e0161f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553307,
+            "country_id":85633143,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":102553307,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Kymi lentokentt\u00e4",
+    "wof:parent_id":85683081,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    26.89611111,
+    60.57138889,
+    26.89611111,
+    60.57138889
+],
+  "geometry": {"coordinates":[26.89611111,60.57138889],"type":"Point"}
+}

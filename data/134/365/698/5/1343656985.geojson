@@ -1,0 +1,75 @@
+{
+  "id": 1343656985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6075,61.43438,23.6075,61.43438",
+    "geom:latitude":61.43438,
+    "geom:longitude":23.6075,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"64.0",
+    "gn:admin3_code":"604.0",
+    "gn:asciiname":"Hyrsinki",
+    "gn:country_code":"FI",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7871106,
+    "gn:latitude":61.43438,
+    "gn:longitude":23.6075,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Hyrsinki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907199281,
+        85633143,
+        404227417,
+        136253047,
+        1159321521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871106
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b8290c95bc35ee9523d66cf430fe7e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321521,
+            "empire_id":136253047,
+            "localadmin_id":907199281,
+            "locality_id":1343656985,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1343656985,
+    "wof:lastmodified":1536960024,
+    "wof:name":"Hyrsinki",
+    "wof:parent_id":907199281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6075,
+    61.43438,
+    23.6075,
+    61.43438
+],
+  "geometry": {"coordinates":[23.6075,61.43438],"type":"Point"}
+}

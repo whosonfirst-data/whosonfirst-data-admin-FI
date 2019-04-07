@@ -1,0 +1,78 @@
+{
+  "id": 1243516931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.76194,66.39623,23.76194,66.39623",
+    "geom:latitude":66.39623,
+    "geom:longitude":23.76194,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"193.0",
+    "gn:admin3_code":"976.0",
+    "gn:asciiname":"Tolppi",
+    "gn:country_code":"FI",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":634215,
+    "gn:latitude":66.39623,
+    "gn:longitude":23.76194,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tolppi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Tolppi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199549,
+        85633143,
+        404227409,
+        136253047,
+        1159321537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":634215
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c4ad26749865c85eb77018c740bf7fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321537,
+            "empire_id":136253047,
+            "localadmin_id":907199549,
+            "locality_id":1243516931,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1243516931,
+    "wof:lastmodified":1537622148,
+    "wof:name":"Tolppi",
+    "wof:parent_id":907199549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.76194,
+    66.39623,
+    23.76194,
+    66.39623
+],
+  "geometry": {"coordinates":[23.76194,66.39623],"type":"Point"}
+}

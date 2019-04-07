@@ -1,0 +1,80 @@
+{
+  "id": 1276858459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.73136,62.93139,29.73136,62.93139",
+    "geom:latitude":62.93139,
+    "geom:longitude":29.73136,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"122.0",
+    "gn:admin3_code":"276.0",
+    "gn:asciiname":"Hovila",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":657283,
+    "gn:latitude":62.93139,
+    "gn:longitude":29.73136,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Hovila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hovi",
+        "Hovila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199445,
+        85633143,
+        404227407,
+        136253047,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":657283
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6a603f88cca4c57951ee0d1c338785db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199445,
+            "locality_id":1276858459,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1276858459,
+    "wof:lastmodified":1537622279,
+    "wof:name":"Hovila",
+    "wof:parent_id":907199445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73136,
+    62.93139,
+    29.73136,
+    62.93139
+],
+  "geometry": {"coordinates":[29.73136,62.93139],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1125364269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-12-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.10241,60.47803,25.10241,60.47803",
+    "geom:latitude":60.47803,
+    "geom:longitude":25.10241,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":38680,
+    "gn:population":38680,
+    "iso:country":"FI",
+    "lbl:latitude":60.47803,
+    "lbl:longitude":25.10241,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "J\u00e4rvenp\u00e4\u00e4"
+    ],
+    "name:fin_x_variant":[
+        "J\u00e4rvenp\u00e4\u00e4n Kaupunki"
+    ],
+    "name:swe_x_preferred":[
+        "Tr\u00e4sk\u00e4nda"
+    ],
+    "name:swe_x_variant":[
+        "Tr\u00e4sk\u00e4nda Stad"
+    ],
+    "name:unk_x_variant":[
+        "Tr\u00e4sk\u00e4nda"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":655977,
+    "qs_pg:gn_pop":38680,
+    "qs_pg:name":"J\u00e4rvenp\u00e4\u00e4",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":81491,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":655977,
+        "qs_pg:id":81491
+    },
+    "wof:country":"FI",
+    "wof:created":1497046987,
+    "wof:geomhash":"5130842fa6ebf8a9acbb23c5499e5fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":1125364269,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1125364269,
+    "wof:lastmodified":1544223146,
+    "wof:name":"J\u00e4rvenp\u00e4\u00e4",
+    "wof:parent_id":1159321633,
+    "wof:placetype":"localadmin",
+    "wof:population":38680,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.10241,
+    60.47803,
+    25.10241,
+    60.47803
+],
+  "geometry": {"coordinates":[25.10241,60.47803],"type":"Point"}
+}

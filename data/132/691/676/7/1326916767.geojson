@@ -1,0 +1,75 @@
+{
+  "id": 1326916767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1951,61.87342,25.1951,61.87342",
+    "geom:latitude":61.87342,
+    "geom:longitude":25.1951,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"134.0",
+    "gn:admin3_code":"182.0",
+    "gn:asciiname":"Vitikkala",
+    "gn:country_code":"FI",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7871148,
+    "gn:latitude":61.87342,
+    "gn:longitude":25.1951,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Vitikkala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199101,
+        85633143,
+        404227417,
+        136253047,
+        1159321587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871148
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a066d85c3117abef8c7b6cdad201b4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321587,
+            "empire_id":136253047,
+            "localadmin_id":907199101,
+            "locality_id":1326916767,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1326916767,
+    "wof:lastmodified":1536927829,
+    "wof:name":"Vitikkala",
+    "wof:parent_id":907199101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1951,
+    61.87342,
+    25.1951,
+    61.87342
+],
+  "geometry": {"coordinates":[25.1951,61.87342],"type":"Point"}
+}

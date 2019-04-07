@@ -1,0 +1,99 @@
+{
+  "id": 1125871539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30097,60.30672,22.30097,60.30672",
+    "geom:latitude":60.30672,
+    "geom:longitude":22.30097,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":11962,
+    "gn:population":11962,
+    "iso:country":"FI",
+    "lbl:latitude":60.30672,
+    "lbl:longitude":22.30097,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Pargas"
+    ],
+    "name:fin_x_preferred":[
+        "Parainen"
+    ],
+    "name:nor_x_preferred":[
+        "Pargas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0433\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Pargas"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":642673,
+    "qs_pg:gn_pop":11962,
+    "qs_pg:name":"Pargas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":349798,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907199741,
+        85633143,
+        404227405,
+        136253047,
+        1159321605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":642673,
+        "qs_pg:id":349798
+    },
+    "wof:country":"FI",
+    "wof:created":1497294327,
+    "wof:geomhash":"a31ddd6b19dcbbfe5bdd4e0c0d5f3830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321605,
+            "empire_id":136253047,
+            "localadmin_id":907199741,
+            "locality_id":1125871539,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1125871539,
+    "wof:lastmodified":1529706478,
+    "wof:name":"Pargas",
+    "wof:parent_id":907199741,
+    "wof:placetype":"locality",
+    "wof:population":11962,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30097,
+    60.30672,
+    22.30097,
+    60.30672
+],
+  "geometry": {"coordinates":[22.30097,60.30672],"type":"Point"}
+}

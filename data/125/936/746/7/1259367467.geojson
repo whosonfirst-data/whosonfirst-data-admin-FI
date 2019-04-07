@@ -1,0 +1,84 @@
+{
+  "id": 1259367467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.98333,61.21667,27.98333,61.21667",
+    "geom:latitude":61.21667,
+    "geom:longitude":27.98333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"831.0",
+    "gn:asciiname":"Peltoi",
+    "gn:country_code":"FI",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":642335,
+    "gn:latitude":61.21667,
+    "gn:longitude":27.98333,
+    "gn:modification_date":"2017-08-21",
+    "gn:name":"Peltoi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_historical":[
+        "Peltoinen"
+    ],
+    "name:fin_x_preferred":[
+        "Peltoi"
+    ],
+    "name:fin_x_variant":[
+        "Peltoinen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198779,
+        85633143,
+        404227411,
+        136253047,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":642335
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"915676bc3f664fc7dd79fe17766dafee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198779,
+            "locality_id":1259367467,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":1259367467,
+    "wof:lastmodified":1537622192,
+    "wof:name":"Peltoi",
+    "wof:parent_id":907198779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98333,
+    61.21666999999999,
+    27.98333,
+    61.21666999999999
+],
+  "geometry": {"coordinates":[27.98333,61.21666999999999],"type":"Point"}
+}

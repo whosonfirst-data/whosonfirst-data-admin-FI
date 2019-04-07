@@ -1,0 +1,85 @@
+{
+  "id": 1259506133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.56303,61.17255,24.56303,61.17255",
+    "geom:latitude":61.17255,
+    "geom:longitude":24.56303,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"109.0",
+    "gn:asciiname":"Hauho",
+    "gn:country_code":"FI",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":658670,
+    "gn:latitude":61.17255,
+    "gn:longitude":24.56303,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Hauho",
+    "gn:population":3755,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hauho"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0443\u0445\u043e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683077,
+        102191581,
+        907199245,
+        85633143,
+        404227411,
+        136253047,
+        1159321513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":658670,
+        "wk:page":"Hauho"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4b9fba0e17cee588ddca8955362261ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321513,
+            "empire_id":136253047,
+            "localadmin_id":907199245,
+            "locality_id":1259506133,
+            "macroregion_id":404227411,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":1259506133,
+    "wof:lastmodified":1537622287,
+    "wof:name":"Hauho",
+    "wof:parent_id":907199245,
+    "wof:placetype":"locality",
+    "wof:population":3755,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.56303,
+    61.17255,
+    24.56303,
+    61.17255
+],
+  "geometry": {"coordinates":[24.56303,61.17255],"type":"Point"}
+}

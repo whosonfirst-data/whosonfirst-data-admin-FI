@@ -1,0 +1,81 @@
+{
+  "id": 1226712543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4,66.1,26.4,66.1",
+    "geom:latitude":66.1,
+    "geom:longitude":26.4,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"191.0",
+    "gn:admin3_code":"683.0",
+    "gn:asciiname":"Portimo",
+    "gn:country_code":"FI",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":640919,
+    "gn:latitude":66.1,
+    "gn:longitude":26.4,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Portimo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Portimo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0438\u043c\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199493,
+        85633143,
+        404227409,
+        136253047,
+        1159321523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":640919
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f9b7331fe5c219e2184e91b6aea25acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321523,
+            "empire_id":136253047,
+            "localadmin_id":907199493,
+            "locality_id":1226712543,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1226712543,
+    "wof:lastmodified":1537622184,
+    "wof:name":"Portimo",
+    "wof:parent_id":907199493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4,
+    66.1,
+    26.4,
+    66.1
+],
+  "geometry": {"coordinates":[26.4,66.09999999999999],"type":"Point"}
+}

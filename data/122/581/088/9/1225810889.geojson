@@ -1,0 +1,75 @@
+{
+  "id": 1225810889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.98552,66.45518,28.98552,66.45518",
+    "geom:latitude":66.45518,
+    "geom:longitude":28.98552,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"194.0",
+    "gn:admin3_code":"732.0",
+    "gn:asciiname":"Oulanka",
+    "gn:country_code":"FI",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643494,
+    "gn:latitude":66.45518,
+    "gn:longitude":28.98552,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Oulanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199555,
+        85633143,
+        404227409,
+        136253047,
+        1159321535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643494
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a8fd52479211a706ee9c2b829c97d22a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321535,
+            "empire_id":136253047,
+            "localadmin_id":907199555,
+            "locality_id":1225810889,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1225810889,
+    "wof:lastmodified":1537061364,
+    "wof:name":"Oulanka",
+    "wof:parent_id":907199555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.98552,
+    66.45518,
+    28.98552,
+    66.45518
+],
+  "geometry": {"coordinates":[28.98552,66.45518],"type":"Point"}
+}

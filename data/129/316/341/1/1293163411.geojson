@@ -1,0 +1,75 @@
+{
+  "id": 1293163411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5,67.1,27.5,67.1",
+    "geom:latitude":67.1,
+    "geom:longitude":27.5,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"194.0",
+    "gn:admin3_code":"583.0",
+    "gn:asciiname":"Tasala",
+    "gn:country_code":"FI",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":634841,
+    "gn:latitude":67.1,
+    "gn:longitude":27.5,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Tasala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199571,
+        85633143,
+        404227409,
+        136253047,
+        1159321535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":634841
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7e840293e8a20a4ee77133be85c21020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321535,
+            "empire_id":136253047,
+            "localadmin_id":907199571,
+            "locality_id":1293163411,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1293163411,
+    "wof:lastmodified":1536757584,
+    "wof:name":"Tasala",
+    "wof:parent_id":907199571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5,
+    67.1,
+    27.5,
+    67.1
+],
+  "geometry": {"coordinates":[27.5,67.09999999999999],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209008407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.11833,60.47526,25.11833,60.47526",
+    "geom:latitude":60.47526,
+    "geom:longitude":25.11833,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"186.0",
+    "gn:asciiname":"Terhola",
+    "gn:country_code":"FI",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":847547,
+    "gn:latitude":60.47526,
+    "gn:longitude":25.11833,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Terhola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":847547
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8267d1e460d03ca13a363c17b86217b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209008407
+        }
+    ],
+    "wof:id":1209008407,
+    "wof:lastmodified":1536300527,
+    "wof:name":"Terhola",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.11833,
+    60.47526,
+    25.11833,
+    60.47526
+],
+  "geometry": {"coordinates":[25.11833,60.47526],"type":"Point"}
+}

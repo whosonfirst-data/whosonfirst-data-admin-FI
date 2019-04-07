@@ -1,0 +1,88 @@
+{
+  "id": 1260056245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8524,65.27743,27.8524,65.27743",
+    "geom:latitude":65.27743,
+    "geom:longitude":27.8524,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"173.0",
+    "gn:admin3_code":"615.0",
+    "gn:asciiname":"Puhos",
+    "gn:country_code":"FI",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":640789,
+    "gn:latitude":65.27743,
+    "gn:longitude":27.8524,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Puhos",
+    "gn:population":224,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Puhos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0445\u043e\u0441"
+    ],
+    "name:und_x_variant":[
+        "Puhoskyl\u00e4",
+        "Puhos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199499,
+        85633143,
+        404227415,
+        136253047,
+        1159321497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":640789
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8bf24ad28d7a457fb02b3ff17ee44162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321497,
+            "empire_id":136253047,
+            "localadmin_id":907199499,
+            "locality_id":1260056245,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1260056245,
+    "wof:lastmodified":1537622183,
+    "wof:name":"Puhos",
+    "wof:parent_id":907199499,
+    "wof:placetype":"locality",
+    "wof:population":224,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8524,
+    65.27743000000001,
+    27.8524,
+    65.27743000000001
+],
+  "geometry": {"coordinates":[27.8524,65.27743000000001],"type":"Point"}
+}

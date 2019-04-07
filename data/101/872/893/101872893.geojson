@@ -1,0 +1,99 @@
+{
+  "id": 101872893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.232041,67.413673,26.232041,67.413673",
+    "geom:latitude":67.413673,
+    "geom:longitude":26.232041,
+    "iso:country":"FI",
+    "lbl:latitude":67.413673,
+    "lbl:longitude":26.232041,
+    "mps:latitude":67.413673,
+    "mps:longitude":26.232041,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Vaalaj\u00e4rvi"
+    ],
+    "name:eng_x_preferred":[
+        "Vaalaj\u00e4rvi"
+    ],
+    "name:fin_x_preferred":[
+        "Vaalaj\u00e4rvi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0430\u044f\u0440\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vaalaj\u00e4rvi"
+    ],
+    "qs:a0":"Suomi#Finland",
+    "qs:a1":"*Lappi#Lappland",
+    "qs:a1r":"0Lapin AVI#Lapplands RFV",
+    "qs:adm0":"Suomi#Finland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vaalaj\u00e4rvi",
+    "qs:loc_alt":"Vaalajarvi",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199561,
+        85633143,
+        404227409,
+        136253047,
+        1159321531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":633093,
+        "gp:id":574424,
+        "qs:id":6,
+        "wd:id":"Q11899935"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"14e4a5890d643e4589eaab82796ea730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321531,
+            "empire_id":136253047,
+            "localadmin_id":907199561,
+            "locality_id":101872893,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":101872893,
+    "wof:lastmodified":1544751377,
+    "wof:name":"Vaalaj\u00e4rvi",
+    "wof:parent_id":907199561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.232041,
+    67.413673,
+    26.232041,
+    67.413673
+],
+  "geometry": {"coordinates":[26.232041,67.413673],"type":"Point"}
+}

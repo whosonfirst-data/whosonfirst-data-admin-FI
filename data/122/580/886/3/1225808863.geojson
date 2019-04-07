@@ -1,0 +1,85 @@
+{
+  "id": 1225808863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96667,64.16667,25.96667,64.16667",
+    "geom:latitude":64.16667,
+    "geom:longitude":25.96667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"175.0",
+    "gn:admin3_code":"791.0",
+    "gn:asciiname":"Piippola",
+    "gn:country_code":"FI",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":641612,
+    "gn:latitude":64.16667,
+    "gn:longitude":25.96667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Piippola",
+    "gn:population":1450,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Piippola"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043f\u043f\u043e\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199755,
+        85633143,
+        404227415,
+        136253047,
+        1159321571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":641612,
+        "wk:page":"Piippola"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"0b7675e138f1e63ca6e1ad154d21492c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321571,
+            "empire_id":136253047,
+            "localadmin_id":907199755,
+            "locality_id":1225808863,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1225808863,
+    "wof:lastmodified":1537622188,
+    "wof:name":"Piippola",
+    "wof:parent_id":907199755,
+    "wof:placetype":"locality",
+    "wof:population":1450,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96667,
+    64.16667,
+    25.96667,
+    64.16667
+],
+  "geometry": {"coordinates":[25.96667,64.16667],"type":"Point"}
+}

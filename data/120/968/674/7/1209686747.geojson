@@ -1,0 +1,66 @@
+{
+  "id": 1209686747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.41459,62.91401,22.41459,62.91401",
+    "geom:latitude":62.91401,
+    "geom:longitude":22.41459,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"743.0",
+    "gn:asciiname":"Isonkylaenlarva",
+    "gn:country_code":"FI",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101392,
+    "gn:latitude":62.91401,
+    "gn:longitude":22.41459,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Isonkyl\u00e4nlarva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Isonkyl\u00e4nlarva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101392
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9d4077a10f51b59eed8480a48d22921c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209686747
+        }
+    ],
+    "wof:id":1209686747,
+    "wof:lastmodified":1537622328,
+    "wof:name":"Isonkylaenlarva",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.41459,
+    62.91401,
+    22.41459,
+    62.91401
+],
+  "geometry": {"coordinates":[22.41459,62.91401],"type":"Point"}
+}

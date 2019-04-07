@@ -1,0 +1,75 @@
+{
+  "id": 1243033597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.11667,67.36667,26.11667,67.36667",
+    "geom:latitude":67.36667,
+    "geom:longitude":26.11667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"197.0",
+    "gn:admin3_code":"758.0",
+    "gn:asciiname":"Metsola",
+    "gn:country_code":"FI",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":646095,
+    "gn:latitude":67.36667,
+    "gn:longitude":26.11667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Metsola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199561,
+        85633143,
+        404227409,
+        136253047,
+        1159321531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":646095
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4d4205dedcaf7cec5afd73b009135d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321531,
+            "empire_id":136253047,
+            "localadmin_id":907199561,
+            "locality_id":1243033597,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1243033597,
+    "wof:lastmodified":1536903926,
+    "wof:name":"Metsola",
+    "wof:parent_id":907199561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.11667000000001,
+    67.36667,
+    26.11667000000001,
+    67.36667
+],
+  "geometry": {"coordinates":[26.11667000000001,67.36667],"type":"Point"}
+}

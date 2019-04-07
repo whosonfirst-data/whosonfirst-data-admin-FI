@@ -1,0 +1,81 @@
+{
+  "id": 1259454497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.00952,64.70668,26.00952,64.70668",
+    "geom:latitude":64.70668,
+    "geom:longitude":26.00952,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"494.0",
+    "gn:asciiname":"Tuppu",
+    "gn:country_code":"FI",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":633711,
+    "gn:latitude":64.70668,
+    "gn:longitude":26.00952,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Tuppu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tuppu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043f\u043f\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199477,
+        85633143,
+        404227415,
+        136253047,
+        1159321529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":633711
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2a4dcea48e6c907c06cea011b1e1532d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321529,
+            "empire_id":136253047,
+            "localadmin_id":907199477,
+            "locality_id":1259454497,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1259454497,
+    "wof:lastmodified":1537622146,
+    "wof:name":"Tuppu",
+    "wof:parent_id":907199477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.00952,
+    64.70668,
+    26.00952,
+    64.70668
+],
+  "geometry": {"coordinates":[26.00952,64.70668000000001],"type":"Point"}
+}

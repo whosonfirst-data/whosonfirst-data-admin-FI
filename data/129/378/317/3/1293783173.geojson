@@ -1,0 +1,79 @@
+{
+  "id": 1293783173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.88788,60.75748,23.88788,60.75748",
+    "geom:latitude":60.75748,
+    "geom:longitude":23.88788,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"53.0",
+    "gn:admin3_code":"834.0",
+    "gn:asciiname":"Ojanen",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643909,
+    "gn:latitude":60.75748,
+    "gn:longitude":23.88788,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Ojanen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ojainen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683077,
+        102191581,
+        907198581,
+        85633143,
+        404227411,
+        136253047,
+        1159321511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643909
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2a1ca8c774d0db23e2b0645757cd13aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321511,
+            "empire_id":136253047,
+            "localadmin_id":907198581,
+            "locality_id":1293783173,
+            "macroregion_id":404227411,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":1293783173,
+    "wof:lastmodified":1537622200,
+    "wof:name":"Ojanen",
+    "wof:parent_id":907198581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.88788,
+    60.75748000000001,
+    23.88788,
+    60.75748000000001
+],
+  "geometry": {"coordinates":[23.88788,60.75748000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209488603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.09216,63.06452,22.09216,63.06452",
+    "geom:latitude":63.06452,
+    "geom:longitude":22.09216,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"905.0",
+    "gn:asciiname":"Hyyriae",
+    "gn:country_code":"FI",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10102290,
+    "gn:latitude":63.06452,
+    "gn:longitude":22.09216,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Hyyri\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Hyyri\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10102290
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"81f0bc53378f2e3b51b6e45aaeee6069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209488603
+        }
+    ],
+    "wof:id":1209488603,
+    "wof:lastmodified":1537622345,
+    "wof:name":"Hyyriae",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.09216,
+    63.06452,
+    22.09216,
+    63.06452
+],
+  "geometry": {"coordinates":[22.09216,63.06452],"type":"Point"}
+}

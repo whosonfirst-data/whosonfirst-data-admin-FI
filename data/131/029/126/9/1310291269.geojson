@@ -1,0 +1,75 @@
+{
+  "id": 1310291269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5733,62.88837,24.5733,62.88837",
+    "geom:latitude":62.88837,
+    "geom:longitude":24.5733,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"138.0",
+    "gn:admin3_code":"226.0",
+    "gn:asciiname":"Sahanperae",
+    "gn:country_code":"FI",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":638208,
+    "gn:latitude":62.88837,
+    "gn:longitude":24.5733,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Sahanper\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199083,
+        85633143,
+        404227417,
+        136253047,
+        1159321515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":638208
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"833034c2a738511af096375354197679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321515,
+            "empire_id":136253047,
+            "localadmin_id":907199083,
+            "locality_id":1310291269,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1310291269,
+    "wof:lastmodified":1536728867,
+    "wof:name":"Sahanperae",
+    "wof:parent_id":907199083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5733,
+    62.88837,
+    24.5733,
+    62.88837
+],
+  "geometry": {"coordinates":[24.5733,62.88837],"type":"Point"}
+}

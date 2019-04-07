@@ -1,0 +1,63 @@
+{
+  "id": 1209380437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.06667,66.31667,27.06667,66.31667",
+    "geom:latitude":66.31667,
+    "geom:longitude":27.06667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"191.0",
+    "gn:admin3_code":"698.0",
+    "gn:asciiname":"Ruuhimaeki",
+    "gn:country_code":"FI",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":638631,
+    "gn:latitude":66.31667,
+    "gn:longitude":27.06667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Ruuhim\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":638631
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"55de286005c45268d8b0b33295cee02b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209380437
+        }
+    ],
+    "wof:id":1209380437,
+    "wof:lastmodified":1536288802,
+    "wof:name":"Ruuhimaeki",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.06667,
+    66.31667,
+    27.06667,
+    66.31667
+],
+  "geometry": {"coordinates":[27.06667,66.31667],"type":"Point"}
+}

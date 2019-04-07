@@ -1,0 +1,75 @@
+{
+  "id": 1276725589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.95,65.25,27.95,65.25",
+    "geom:latitude":65.25,
+    "geom:longitude":27.95,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"173.0",
+    "gn:admin3_code":"615.0",
+    "gn:asciiname":"Laurila",
+    "gn:country_code":"FI",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":648678,
+    "gn:latitude":65.25,
+    "gn:longitude":27.95,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Laurila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199499,
+        85633143,
+        404227415,
+        136253047,
+        1159321497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":648678
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"16fe4f4aface37fbfda9fb8cc815736a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321497,
+            "empire_id":136253047,
+            "localadmin_id":907199499,
+            "locality_id":1276725589,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1276725589,
+    "wof:lastmodified":1536750271,
+    "wof:name":"Laurila",
+    "wof:parent_id":907199499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.95,
+    65.25,
+    27.95,
+    65.25
+],
+  "geometry": {"coordinates":[27.95,65.25],"type":"Point"}
+}

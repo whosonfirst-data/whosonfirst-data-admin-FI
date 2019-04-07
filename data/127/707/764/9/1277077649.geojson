@@ -1,0 +1,75 @@
+{
+  "id": 1277077649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.31249,60.61099,22.31249,60.61099",
+    "geom:latitude":60.61099,
+    "geom:longitude":22.31249,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"704.0",
+    "gn:asciiname":"Laukola",
+    "gn:country_code":"FI",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":648713,
+    "gn:latitude":60.61099,
+    "gn:longitude":22.31249,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Laukola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198981,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":648713
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"77cc159c154b3cee9d9f9408ff7b4cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198981,
+            "locality_id":1277077649,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1277077649,
+    "wof:lastmodified":1536775550,
+    "wof:name":"Laukola",
+    "wof:parent_id":907198981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.31249,
+    60.61099,
+    22.31249,
+    60.61099
+],
+  "geometry": {"coordinates":[22.31249,60.61099],"type":"Point"}
+}

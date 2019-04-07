@@ -1,0 +1,66 @@
+{
+  "id": 1209089233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93202,63.08412,21.93202,63.08412",
+    "geom:latitude":63.08412,
+    "geom:longitude":21.93202,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"499.0",
+    "gn:asciiname":"Byn",
+    "gn:country_code":"FI",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101789,
+    "gn:latitude":63.08412,
+    "gn:longitude":21.93202,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Byn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Byn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101789
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9159dab235c9299f42142fc2c47ab11f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209089233
+        }
+    ],
+    "wof:id":1209089233,
+    "wof:lastmodified":1537622343,
+    "wof:name":"Byn",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93202,
+    63.08412,
+    21.93202,
+    63.08412
+],
+  "geometry": {"coordinates":[21.93202,63.08412],"type":"Point"}
+}

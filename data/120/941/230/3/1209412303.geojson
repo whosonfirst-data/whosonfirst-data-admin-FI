@@ -1,0 +1,63 @@
+{
+  "id": 1209412303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.38333,60.91667,26.38333,60.91667",
+    "geom:latitude":60.91667,
+    "geom:longitude":26.38333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"142.0",
+    "gn:asciiname":"Lomakoti",
+    "gn:country_code":"FI",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":647694,
+    "gn:latitude":60.91667,
+    "gn:longitude":26.38333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Lomakoti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":647694
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"34d5bdb9432c80241832c6bb88a9c5ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209412303
+        }
+    ],
+    "wof:id":1209412303,
+    "wof:lastmodified":1536287799,
+    "wof:name":"Lomakoti",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.38333,
+    60.91667,
+    26.38333,
+    60.91667
+],
+  "geometry": {"coordinates":[26.38333,60.91667],"type":"Point"}
+}

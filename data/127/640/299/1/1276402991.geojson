@@ -1,0 +1,75 @@
+{
+  "id": 1276402991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.15,65.13333,26.15,65.13333",
+    "geom:latitude":65.13333,
+    "geom:longitude":26.15,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"564.0",
+    "gn:asciiname":"Jolosjaervi",
+    "gn:country_code":"FI",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":655656,
+    "gn:latitude":65.13333,
+    "gn:longitude":26.15,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Jolosj\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199459,
+        85633143,
+        404227415,
+        136253047,
+        1159321529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":655656
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d41fc6967a67825f3ea8c861f481eb6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321529,
+            "empire_id":136253047,
+            "localadmin_id":907199459,
+            "locality_id":1276402991,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1276402991,
+    "wof:lastmodified":1536685381,
+    "wof:name":"Jolosjaervi",
+    "wof:parent_id":907199459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.15,
+    65.13333,
+    26.15,
+    65.13333
+],
+  "geometry": {"coordinates":[26.15,65.13333],"type":"Point"}
+}

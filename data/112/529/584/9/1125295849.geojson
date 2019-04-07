@@ -1,0 +1,110 @@
+{
+  "id": 1125295849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-12-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73333,60.58333,22.73333,60.58333",
+    "geom:latitude":60.58333,
+    "geom:longitude":22.73333,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":1961,
+    "gn:population":1961,
+    "iso:country":"FI",
+    "lbl:latitude":60.58333,
+    "lbl:longitude":22.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Tarvasjoki"
+    ],
+    "name:fin_x_variant":[
+        "Tarvasjoen Kunta"
+    ],
+    "name:swe_x_preferred":[
+        "Tarvasjoki"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":634851,
+    "qs_pg:gn_pop":1961,
+    "qs_pg:name":"Tarvasjoki",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Varsinais-Suomen maakunta",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":341986,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":12590978,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Varsinais-Suomen maakunta",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":634851,
+        "gp:id":12590978,
+        "qs_pg:id":341986
+    },
+    "wof:concordances_alt":{
+        "gn:id":634852,
+        "qs_pg:id":81310
+    },
+    "wof:country":"FI",
+    "wof:created":1497043139,
+    "wof:geomhash":"fdb3d1a4656b6d13cc077b6e95af8d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":1125295849,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1125295849,
+    "wof:lastmodified":1544223145,
+    "wof:name":"Tarvasjoki",
+    "wof:parent_id":1159321603,
+    "wof:placetype":"localadmin",
+    "wof:population":1961,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125364135
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73333,
+    60.58333,
+    22.73333,
+    60.58333
+],
+  "geometry": {"coordinates":[22.73333,60.58333],"type":"Point"}
+}

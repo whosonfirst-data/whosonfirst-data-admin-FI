@@ -1,0 +1,80 @@
+{
+  "id": 1226126147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.63529,61.96773,28.63529,61.96773",
+    "geom:latitude":61.96773,
+    "geom:longitude":28.63529,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"681.0",
+    "gn:asciiname":"Tammenlahti",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":634989,
+    "gn:latitude":61.96773,
+    "gn:longitude":28.63529,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Tammenlahti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tammilahti",
+        "Tammenlahti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683109,
+        102191581,
+        907198885,
+        85633143,
+        404227407,
+        136253047,
+        1159321493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":634989
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"bbccbb0735faf5d5fe222336f3b9841f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321493,
+            "empire_id":136253047,
+            "localadmin_id":907198885,
+            "locality_id":1226126147,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":1226126147,
+    "wof:lastmodified":1537622152,
+    "wof:name":"Tammenlahti",
+    "wof:parent_id":907198885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.63529,
+    61.96773,
+    28.63529,
+    61.96773
+],
+  "geometry": {"coordinates":[28.63529,61.96773],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1125947517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2,67.21667,24.2,67.21667",
+    "geom:latitude":67.21667,
+    "geom:longitude":24.2,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":67.21667,
+    "lbl:longitude":24.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Vaattoj\u00e4rvi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0442\u0442\u043e\u044f\u0440\u0432\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Vaatojarve"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":632963,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vaattoj\u00e4rvi",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Lapin maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":863827,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":574455,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Lapin maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199583,
+        85633143,
+        404227409,
+        136253047,
+        1159321583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":632963,
+        "gp:id":574455,
+        "qs_pg:id":863827
+    },
+    "wof:country":"FI",
+    "wof:created":1497297340,
+    "wof:geomhash":"98ee7467c88da5216b6f4981d7d3a394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321583,
+            "empire_id":136253047,
+            "localadmin_id":907199583,
+            "locality_id":1125947517,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1125947517,
+    "wof:lastmodified":1529708139,
+    "wof:name":"Vaattoj\u00e4rvi",
+    "wof:parent_id":907199583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2,
+    67.21667,
+    24.2,
+    67.21667
+],
+  "geometry": {"coordinates":[24.2,67.21666999999999],"type":"Point"}
+}

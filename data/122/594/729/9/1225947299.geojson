@@ -1,0 +1,93 @@
+{
+  "id": 1225947299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.31667,60.38333,22.31667,60.38333",
+    "geom:latitude":60.38333,
+    "geom:longitude":22.31667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"202.0",
+    "gn:asciiname":"Lemu",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":648351,
+    "gn:latitude":60.38333,
+    "gn:longitude":22.31667,
+    "gn:modification_date":"2015-05-14",
+    "gn:name":"Lemu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Lemo"
+    ],
+    "name:isl_x_preferred":[
+        "Lemo"
+    ],
+    "name:nor_x_preferred":[
+        "Lemo"
+    ],
+    "name:swe_x_preferred":[
+        "Lemo"
+    ],
+    "name:und_x_variant":[
+        "Lemo Vik",
+        "Lemo",
+        "Lemu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198993,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":648351
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"0f90215211ad0e9c09d56f4d7146fb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198993,
+            "locality_id":1225947299,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1225947299,
+    "wof:lastmodified":1537622224,
+    "wof:name":"Lemu",
+    "wof:parent_id":907198993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.31667,
+    60.38333000000001,
+    22.31667,
+    60.38333000000001
+],
+  "geometry": {"coordinates":[22.31667,60.38333000000001],"type":"Point"}
+}

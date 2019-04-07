@@ -1,0 +1,75 @@
+{
+  "id": 1259945489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.95,67.23333,24.95,67.23333",
+    "geom:latitude":67.23333,
+    "geom:longitude":24.95,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"196.0",
+    "gn:admin3_code":"261.0",
+    "gn:asciiname":"Viettivuoman Asutusalue",
+    "gn:country_code":"FI",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":631764,
+    "gn:latitude":67.23333,
+    "gn:longitude":24.95,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Viettivuoman Asutusalue",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199565,
+        85633143,
+        404227409,
+        136253047,
+        1159321583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631764
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6ea00fde81aceac577e5d6eb40573d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321583,
+            "empire_id":136253047,
+            "localadmin_id":907199565,
+            "locality_id":1259945489,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1259945489,
+    "wof:lastmodified":1536690095,
+    "wof:name":"Viettivuoman Asutusalue",
+    "wof:parent_id":907199565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.95,
+    67.23333000000001,
+    24.95,
+    67.23333000000001
+],
+  "geometry": {"coordinates":[24.95,67.23333000000001],"type":"Point"}
+}

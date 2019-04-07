@@ -1,0 +1,98 @@
+{
+  "id": 1126005487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.16667,62.2,26.16667,62.2",
+    "geom:latitude":62.2,
+    "geom:longitude":26.16667,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":62.2,
+    "lbl:longitude":26.16667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Ruuhim\u00e4ki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0445\u0438\u043c\u044f\u043a\u0438"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":638632,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ruuhim\u00e4ki",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Keski-Suomen maakunta",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":244220,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":572495,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Keski-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907198813,
+        85633143,
+        404227417,
+        136253047,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":638632,
+        "gp:id":572495,
+        "qs_pg:id":244220
+    },
+    "wof:country":"FI",
+    "wof:created":1497299919,
+    "wof:geomhash":"32de1644727c89923c65bb952cfc5b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":907198813,
+            "locality_id":1126005487,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1126005487,
+    "wof:lastmodified":1529706354,
+    "wof:name":"Ruuhim\u00e4ki",
+    "wof:parent_id":907198813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.16667,
+    62.2,
+    26.16667,
+    62.2
+],
+  "geometry": {"coordinates":[26.16667,62.2],"type":"Point"}
+}

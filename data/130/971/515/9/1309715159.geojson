@@ -1,0 +1,75 @@
+{
+  "id": 1309715159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7237,60.91968,21.7237,60.91968",
+    "geom:latitude":60.91968,
+    "geom:longitude":21.7237,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"400.0",
+    "gn:asciiname":"Nutintaka",
+    "gn:country_code":"FI",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":852785,
+    "gn:latitude":60.91968,
+    "gn:longitude":21.7237,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Nutintaka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198671,
+        85633143,
+        404227405,
+        136253047,
+        1159321637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":852785
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"cbdbc82beda8a70aac4f5ff4663feeb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321637,
+            "empire_id":136253047,
+            "localadmin_id":907198671,
+            "locality_id":1309715159,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1309715159,
+    "wof:lastmodified":1537059200,
+    "wof:name":"Nutintaka",
+    "wof:parent_id":907198671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7237,
+    60.91968000000001,
+    21.7237,
+    60.91968000000001
+],
+  "geometry": {"coordinates":[21.7237,60.91968000000001],"type":"Point"}
+}

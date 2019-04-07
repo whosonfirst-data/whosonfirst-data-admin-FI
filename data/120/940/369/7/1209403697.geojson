@@ -1,0 +1,68 @@
+{
+  "id": 1209403697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.41318,61.77679,29.41318,61.77679",
+    "geom:latitude":61.77679,
+    "geom:longitude":29.41318,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"740.0",
+    "gn:asciiname":"Enanniemi",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660253,
+    "gn:latitude":61.77679,
+    "gn:longitude":29.41318,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Enanniemi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enonniemi",
+        "Enanniemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660253
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4df12ebdc531c71ee4ccc6aa59fd2ff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209403697
+        }
+    ],
+    "wof:id":1209403697,
+    "wof:lastmodified":1537622297,
+    "wof:name":"Enanniemi",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.41318,
+    61.77679000000001,
+    29.41318,
+    61.77679000000001
+],
+  "geometry": {"coordinates":[29.41318,61.77679000000001],"type":"Point"}
+}

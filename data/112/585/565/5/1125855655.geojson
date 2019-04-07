@@ -1,0 +1,96 @@
+{
+  "id": 1125855655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.00944,60.28889,25.00944,60.28889",
+    "geom:latitude":60.28889,
+    "geom:longitude":25.00944,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.28889,
+    "lbl:longitude":25.00944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Viertola"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00e4ckby"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":847505,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Viertola",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Uudenmaan maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":206408,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":25944985,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Uudenmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907199651,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":847505,
+        "gp:id":25944985,
+        "qs_pg:id":206408
+    },
+    "wof:country":"FI",
+    "wof:created":1497293607,
+    "wof:geomhash":"047a27b03db982ffb41312d4f8a467b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907199651,
+            "locality_id":1125855655,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1125855655,
+    "wof:lastmodified":1529714696,
+    "wof:name":"Viertola",
+    "wof:parent_id":907199651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.00944,
+    60.28889,
+    25.00944,
+    60.28889
+],
+  "geometry": {"coordinates":[25.00944,60.28889],"type":"Point"}
+}

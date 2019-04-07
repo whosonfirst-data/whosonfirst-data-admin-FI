@@ -1,0 +1,75 @@
+{
+  "id": 1326706593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35069,65.14907,25.35069,65.14907",
+    "geom:latitude":65.14907,
+    "geom:longitude":25.35069,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"564.0",
+    "gn:asciiname":"Hookananpaeae",
+    "gn:country_code":"FI",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":450013,
+    "gn:latitude":65.14907,
+    "gn:longitude":25.35069,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Hookananp\u00e4\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199459,
+        85633143,
+        404227415,
+        136253047,
+        1159321529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":450013
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1999c63aa0edcfb19bf00c530683ad50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321529,
+            "empire_id":136253047,
+            "localadmin_id":907199459,
+            "locality_id":1326706593,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1326706593,
+    "wof:lastmodified":1536733001,
+    "wof:name":"Hookananpaeae",
+    "wof:parent_id":907199459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35069,
+    65.14907,
+    25.35069,
+    65.14907
+],
+  "geometry": {"coordinates":[25.35069,65.14906999999999],"type":"Point"}
+}

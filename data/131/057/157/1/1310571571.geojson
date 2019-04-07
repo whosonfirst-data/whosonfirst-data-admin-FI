@@ -1,0 +1,75 @@
+{
+  "id": 1310571571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36926,62.44667,21.36926,62.44667",
+    "geom:latitude":62.44667,
+    "geom:longitude":21.36926,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"153.0",
+    "gn:admin3_code":"545.0",
+    "gn:asciiname":"Gottboele",
+    "gn:country_code":"FI",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":659821,
+    "gn:latitude":62.44667,
+    "gn:longitude":21.36926,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Gottb\u00f6le",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199661,
+        85633143,
+        404227417,
+        136253047,
+        1159321495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":659821
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"dae57cbf6ee2c62487cca7ccd7477bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321495,
+            "empire_id":136253047,
+            "localadmin_id":907199661,
+            "locality_id":1310571571,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1310571571,
+    "wof:lastmodified":1536820863,
+    "wof:name":"Gottboele",
+    "wof:parent_id":907199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36926,
+    62.44667,
+    21.36926,
+    62.44667
+],
+  "geometry": {"coordinates":[21.36926,62.44667],"type":"Point"}
+}

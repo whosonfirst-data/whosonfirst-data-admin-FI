@@ -1,0 +1,75 @@
+{
+  "id": 1293066725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.05978,65.61858,25.05978,65.61858",
+    "geom:latitude":65.61858,
+    "geom:longitude":25.05978,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"192.0",
+    "gn:admin3_code":"751.0",
+    "gn:asciiname":"Onkalo",
+    "gn:country_code":"FI",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643760,
+    "gn:latitude":65.61858,
+    "gn:longitude":25.05978,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Onkalo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199485,
+        85633143,
+        404227409,
+        136253047,
+        1159321559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643760
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b50edb9cae4a7ac957709c3ba9283365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321559,
+            "empire_id":136253047,
+            "localadmin_id":907199485,
+            "locality_id":1293066725,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1293066725,
+    "wof:lastmodified":1536896699,
+    "wof:name":"Onkalo",
+    "wof:parent_id":907199485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.05978,
+    65.61858000000001,
+    25.05978,
+    65.61858000000001
+],
+  "geometry": {"coordinates":[25.05978,65.61858000000001],"type":"Point"}
+}

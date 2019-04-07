@@ -1,0 +1,75 @@
+{
+  "id": 1343931623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75,63.26667,22.75,63.26667",
+    "geom:latitude":63.26667,
+    "geom:longitude":22.75,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"233.0",
+    "gn:asciiname":"Ekoluoma",
+    "gn:country_code":"FI",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660316,
+    "gn:latitude":63.26667,
+    "gn:longitude":22.75,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Ekoluoma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199237,
+        85633143,
+        404227417,
+        136253047,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660316
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a8e9e5df3bcca3b8e9588064cb4f84ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199237,
+            "locality_id":1343931623,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1343931623,
+    "wof:lastmodified":1537059109,
+    "wof:name":"Ekoluoma",
+    "wof:parent_id":907199237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75,
+    63.26667,
+    22.75,
+    63.26667
+],
+  "geometry": {"coordinates":[22.75,63.26667],"type":"Point"}
+}

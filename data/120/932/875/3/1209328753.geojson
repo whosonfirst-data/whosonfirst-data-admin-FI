@@ -1,0 +1,66 @@
+{
+  "id": 1209328753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.11083,60.37751,25.11083,60.37751",
+    "geom:latitude":60.37751,
+    "geom:longitude":25.11083,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"245.0",
+    "gn:asciiname":"Myllynummi",
+    "gn:country_code":"FI",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101549,
+    "gn:latitude":60.37751,
+    "gn:longitude":25.11083,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Myllynummi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Myllynummi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101549
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"072efb51493a8c394205ce2a8cb9bc04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209328753
+        }
+    ],
+    "wof:id":1209328753,
+    "wof:lastmodified":1537622334,
+    "wof:name":"Myllynummi",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.11083,
+    60.37751,
+    25.11083,
+    60.37751
+],
+  "geometry": {"coordinates":[25.11083,60.37751],"type":"Point"}
+}

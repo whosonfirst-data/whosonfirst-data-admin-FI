@@ -1,0 +1,63 @@
+{
+  "id": 1209089989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.28004,61.696,29.28004,61.696",
+    "geom:latitude":61.696,
+    "geom:longitude":29.28004,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"740.0",
+    "gn:asciiname":"Utrasniemi",
+    "gn:country_code":"FI",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":633282,
+    "gn:latitude":61.696,
+    "gn:longitude":29.28004,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Utrasniemi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":633282
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7f1305edf7da766d02441c1c08221a83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209089989
+        }
+    ],
+    "wof:id":1209089989,
+    "wof:lastmodified":1536298065,
+    "wof:name":"Utrasniemi",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.280040000000003,
+    61.69600000000001,
+    29.280040000000003,
+    61.69600000000001
+],
+  "geometry": {"coordinates":[29.28004,61.69600000000001],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1276333469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91286,61.16843,24.91286,61.16843",
+    "geom:latitude":61.16843,
+    "geom:longitude":24.91286,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"109.0",
+    "gn:asciiname":"Lieso",
+    "gn:country_code":"FI",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":648065,
+    "gn:latitude":61.16843,
+    "gn:longitude":24.91286,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Lieso",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lieso"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0435\u0441\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683077,
+        102191581,
+        907199245,
+        85633143,
+        404227411,
+        136253047,
+        1159321513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":648065
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b3eeb79f8249b28f836974c338865f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321513,
+            "empire_id":136253047,
+            "localadmin_id":907199245,
+            "locality_id":1276333469,
+            "macroregion_id":404227411,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":1276333469,
+    "wof:lastmodified":1537622222,
+    "wof:name":"Lieso",
+    "wof:parent_id":907199245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91286,
+    61.16843000000001,
+    24.91286,
+    61.16843000000001
+],
+  "geometry": {"coordinates":[24.91286,61.16843000000001],"type":"Point"}
+}

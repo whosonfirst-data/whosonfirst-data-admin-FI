@@ -1,0 +1,75 @@
+{
+  "id": 1293067371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.65,65.1,27.65,65.1",
+    "geom:latitude":65.1,
+    "geom:longitude":27.65,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"181.0",
+    "gn:admin3_code":"620.0",
+    "gn:asciiname":"Seppaelae",
+    "gn:country_code":"FI",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":637105,
+    "gn:latitude":65.1,
+    "gn:longitude":27.65,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Sepp\u00e4l\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683137,
+        102191581,
+        907199513,
+        85633143,
+        404227415,
+        136253047,
+        1159321549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637105
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"741eed32f373b61fceb230ea915a8999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321549,
+            "empire_id":136253047,
+            "localadmin_id":907199513,
+            "locality_id":1293067371,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":1293067371,
+    "wof:lastmodified":1536895727,
+    "wof:name":"Seppaelae",
+    "wof:parent_id":907199513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.65,
+    65.1,
+    27.65,
+    65.1
+],
+  "geometry": {"coordinates":[27.65,65.09999999999999],"type":"Point"}
+}

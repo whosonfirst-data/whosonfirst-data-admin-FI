@@ -1,0 +1,75 @@
+{
+  "id": 1343430637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.57508,63.89686,23.57508,63.89686",
+    "geom:latitude":63.89686,
+    "geom:longitude":23.57508,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"162.0",
+    "gn:admin3_code":"272.0",
+    "gn:asciiname":"Vuolle",
+    "gn:country_code":"FI",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":631187,
+    "gn:latitude":63.89686,
+    "gn:longitude":23.57508,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Vuolle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683125,
+        102191581,
+        907199049,
+        85633143,
+        404227417,
+        136253047,
+        1159321609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631187
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d494ab3ac5380d3f1c2455542824bb2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321609,
+            "empire_id":136253047,
+            "localadmin_id":907199049,
+            "locality_id":1343430637,
+            "macroregion_id":404227417,
+            "region_id":85683125
+        }
+    ],
+    "wof:id":1343430637,
+    "wof:lastmodified":1536789818,
+    "wof:name":"Vuolle",
+    "wof:parent_id":907199049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.57508,
+    63.89686,
+    23.57508,
+    63.89686
+],
+  "geometry": {"coordinates":[23.57508,63.89686],"type":"Point"}
+}

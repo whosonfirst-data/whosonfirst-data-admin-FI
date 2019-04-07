@@ -1,0 +1,131 @@
+{
+  "id": 1126047845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.37124,60.220292,21.37124,60.220292",
+    "geom:latitude":60.220292,
+    "geom:longitude":21.37124,
+    "gn:gn_country":"FI",
+    "iso:country":"FI",
+    "lbl:latitude":60.220292,
+    "lbl:longitude":21.37124,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Houtsk\u00e4r"
+    ],
+    "name:eng_x_preferred":[
+        "Houtsk\u00e4r"
+    ],
+    "name:fin_x_preferred":[
+        "Houtskari"
+    ],
+    "name:fre_x_preferred":[
+        "Houtsk\u00e4r"
+    ],
+    "name:ger_x_preferred":[
+        "Houtsk\u00e4r"
+    ],
+    "name:ita_x_preferred":[
+        "Houtsk\u00e4r"
+    ],
+    "name:nno_x_preferred":[
+        "Houtsk\u00e4r"
+    ],
+    "name:nob_x_preferred":[
+        "Houtsk\u00e4r"
+    ],
+    "name:rum_x_preferred":[
+        "Houtsk\u00e4r"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0443\u0442\u0441\u043a\u0430\u0440\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Houtskari"
+    ],
+    "name:spa_x_preferred":[
+        "Houtsk\u00e4r"
+    ],
+    "name:swe_x_preferred":[
+        "Houtsk\u00e4r"
+    ],
+    "name:vie_x_preferred":[
+        "Houtsk\u00e4r"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:name":"Houtskari",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Varsinais-Suomen maakunta",
+    "qs_pg:photos":61,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":61,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":265235,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":565697,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Varsinais-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907199741,
+        85633143,
+        404227405,
+        136253047,
+        1159321605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":565697,
+        "qs_pg:id":265235,
+        "wd:id":"Q1025722"
+    },
+    "wof:country":"FI",
+    "wof:created":1497302543,
+    "wof:geomhash":"71bc387521d36c1109c87895089c1844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321605,
+            "empire_id":136253047,
+            "localadmin_id":907199741,
+            "locality_id":1126047845,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1126047845,
+    "wof:lastmodified":1529706490,
+    "wof:name":"Houtskari",
+    "wof:parent_id":907199741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37124,
+    60.220292,
+    21.37124,
+    60.220292
+],
+  "geometry": {"coordinates":[21.37124,60.220292],"type":"Point"}
+}

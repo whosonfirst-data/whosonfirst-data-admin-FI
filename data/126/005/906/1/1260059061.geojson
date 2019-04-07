@@ -1,0 +1,78 @@
+{
+  "id": 1260059061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.08487,62.71085,22.08487,62.71085",
+    "geom:latitude":62.71085,
+    "geom:longitude":22.08487,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"301.0",
+    "gn:asciiname":"Tainuunmaeki",
+    "gn:country_code":"FI",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101330,
+    "gn:latitude":62.71085,
+    "gn:longitude":22.08487,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Tainuunm\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Tainuunm\u00e4ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199007,
+        85633143,
+        404227417,
+        136253047,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101330
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"12ae8b46dd21ed2fe95853688ea2d640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199007,
+            "locality_id":1260059061,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1260059061,
+    "wof:lastmodified":1537622326,
+    "wof:name":"Tainuunmaeki",
+    "wof:parent_id":907199007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.08487,
+    62.71085,
+    22.08487,
+    62.71085
+],
+  "geometry": {"coordinates":[22.08487,62.71085],"type":"Point"}
+}

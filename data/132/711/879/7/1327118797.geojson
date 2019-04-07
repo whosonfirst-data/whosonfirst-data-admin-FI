@@ -1,0 +1,75 @@
+{
+  "id": 1327118797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.43553,61.00808,28.43553,61.00808",
+    "geom:latitude":61.00808,
+    "geom:longitude":28.43553,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"405.0",
+    "gn:asciiname":"Kaehaerilae",
+    "gn:country_code":"FI",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":655057,
+    "gn:latitude":61.00808,
+    "gn:longitude":28.43553,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"K\u00e4h\u00e4ril\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198887,
+        85633143,
+        404227411,
+        136253047,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":655057
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"594bf5ab2da548eb4f85889a1d99c7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198887,
+            "locality_id":1327118797,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":1327118797,
+    "wof:lastmodified":1536634492,
+    "wof:name":"Kaehaerilae",
+    "wof:parent_id":907198887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.43553,
+    61.00808000000001,
+    28.43553,
+    61.00808000000001
+],
+  "geometry": {"coordinates":[28.43553,61.00808000000001],"type":"Point"}
+}

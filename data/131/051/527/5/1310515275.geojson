@@ -1,0 +1,76 @@
+{
+  "id": 1310515275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.60766,60.15202,24.60766,60.15202",
+    "geom:latitude":60.15202,
+    "geom:longitude":24.60766,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"257.0",
+    "gn:asciiname":"Sarfvik",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":637514,
+    "gn:latitude":60.15202,
+    "gn:longitude":24.60766,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Sarfvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198511,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637514
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f03164e340ed4cfaa84379a7e43a1aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198511,
+            "locality_id":1310515275,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1310515275,
+    "wof:lastmodified":1536902837,
+    "wof:name":"Sarfvik",
+    "wof:parent_id":907198511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.60766,
+    60.15201999999999,
+    24.60766,
+    60.15201999999999
+],
+  "geometry": {"coordinates":[24.60766,60.15201999999999],"type":"Point"}
+}

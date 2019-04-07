@@ -1,0 +1,75 @@
+{
+  "id": 1310075243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.77003,63.61085,23.77003,63.61085",
+    "geom:latitude":63.61085,
+    "geom:longitude":23.77003,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"161.0",
+    "gn:admin3_code":"236.0",
+    "gn:asciiname":"Vintturi",
+    "gn:country_code":"FI",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":631426,
+    "gn:latitude":63.61085,
+    "gn:longitude":23.77003,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Vintturi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683125,
+        102191581,
+        907199305,
+        85633143,
+        404227417,
+        136253047,
+        1159321595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631426
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"de73660fd3b74ea2614db0e0fd04a7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321595,
+            "empire_id":136253047,
+            "localadmin_id":907199305,
+            "locality_id":1310075243,
+            "macroregion_id":404227417,
+            "region_id":85683125
+        }
+    ],
+    "wof:id":1310075243,
+    "wof:lastmodified":1537038593,
+    "wof:name":"Vintturi",
+    "wof:parent_id":907199305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.77003,
+    63.61085,
+    23.77003,
+    63.61085
+],
+  "geometry": {"coordinates":[23.77003,63.61085],"type":"Point"}
+}

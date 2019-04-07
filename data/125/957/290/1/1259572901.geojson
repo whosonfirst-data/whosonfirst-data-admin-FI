@@ -1,0 +1,75 @@
+{
+  "id": 1259572901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.83853,61.23663,27.83853,61.23663",
+    "geom:latitude":61.23663,
+    "geom:longitude":27.83853,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"831.0",
+    "gn:asciiname":"Kurhila",
+    "gn:country_code":"FI",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":650100,
+    "gn:latitude":61.23663,
+    "gn:longitude":27.83853,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kurhila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198779,
+        85633143,
+        404227411,
+        136253047,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":650100
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7458e1b9ba80f0695cb39e799e231d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198779,
+            "locality_id":1259572901,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":1259572901,
+    "wof:lastmodified":1536730478,
+    "wof:name":"Kurhila",
+    "wof:parent_id":907198779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.83853,
+    61.23663000000001,
+    27.83853,
+    61.23663000000001
+],
+  "geometry": {"coordinates":[27.83853,61.23663000000001],"type":"Point"}
+}

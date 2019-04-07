@@ -1,0 +1,63 @@
+{
+  "id": 1209486831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.33333,64.8,25.33333,64.8",
+    "geom:latitude":64.8,
+    "geom:longitude":25.33333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"425.0",
+    "gn:asciiname":"Kurranperae",
+    "gn:country_code":"FI",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":650039,
+    "gn:latitude":64.8,
+    "gn:longitude":25.33333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kurranper\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":650039
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"128d847fdc7279ce4ba78dbf619106fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209486831
+        }
+    ],
+    "wof:id":1209486831,
+    "wof:lastmodified":1536285610,
+    "wof:name":"Kurranperae",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33333,
+    64.8,
+    25.33333,
+    64.8
+],
+  "geometry": {"coordinates":[25.33333,64.8],"type":"Point"}
+}

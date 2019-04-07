@@ -1,0 +1,79 @@
+{
+  "id": 1226429607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.54439,62.77683,29.54439,62.77683",
+    "geom:latitude":62.77683,
+    "geom:longitude":29.54439,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"122.0",
+    "gn:admin3_code":"607.0",
+    "gn:asciiname":"Huhmarinen",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":657024,
+    "gn:latitude":62.77683,
+    "gn:longitude":29.54439,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Huhmarinen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huuhmarisvaara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199399,
+        85633143,
+        404227407,
+        136253047,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":657024
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"826d00bc2c1a7211c898160dd0639d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199399,
+            "locality_id":1226429607,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1226429607,
+    "wof:lastmodified":1537622277,
+    "wof:name":"Huhmarinen",
+    "wof:parent_id":907199399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.54439,
+    62.77683,
+    29.54439,
+    62.77683
+],
+  "geometry": {"coordinates":[29.54439,62.77683],"type":"Point"}
+}

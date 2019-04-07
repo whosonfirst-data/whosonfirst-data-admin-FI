@@ -1,0 +1,75 @@
+{
+  "id": 1242994349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98638,60.84377,25.98638,60.84377",
+    "geom:latitude":60.84377,
+    "geom:longitude":25.98638,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"560.0",
+    "gn:asciiname":"Koskunen",
+    "gn:country_code":"FI",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":651046,
+    "gn:latitude":60.84377,
+    "gn:longitude":25.98638,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Koskunen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683091,
+        102191581,
+        907198577,
+        85633143,
+        404227411,
+        136253047,
+        1159321483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":651046
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5ea58a512c1836f7307141c367108203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321483,
+            "empire_id":136253047,
+            "localadmin_id":907198577,
+            "locality_id":1242994349,
+            "macroregion_id":404227411,
+            "region_id":85683091
+        }
+    ],
+    "wof:id":1242994349,
+    "wof:lastmodified":1536960336,
+    "wof:name":"Koskunen",
+    "wof:parent_id":907198577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98638,
+    60.84376999999999,
+    25.98638,
+    60.84376999999999
+],
+  "geometry": {"coordinates":[25.98638,60.84376999999999],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343543353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91667,63.80278,22.91667,63.80278",
+    "geom:latitude":63.80278,
+    "geom:longitude":22.91667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"162.0",
+    "gn:admin3_code":"272.0",
+    "gn:asciiname":"Akoe",
+    "gn:country_code":"FI",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":796233,
+    "gn:latitude":63.80278,
+    "gn:longitude":22.91667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"\u00c5k\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683125,
+        102191581,
+        907199049,
+        85633143,
+        404227417,
+        136253047,
+        1159321609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":796233
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"575bd7a9dfdef706c13fa83ba7e434e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321609,
+            "empire_id":136253047,
+            "localadmin_id":907199049,
+            "locality_id":1343543353,
+            "macroregion_id":404227417,
+            "region_id":85683125
+        }
+    ],
+    "wof:id":1343543353,
+    "wof:lastmodified":1536624697,
+    "wof:name":"Akoe",
+    "wof:parent_id":907199049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91667,
+    63.80278000000001,
+    22.91667,
+    63.80278000000001
+],
+  "geometry": {"coordinates":[22.91667,63.80278000000001],"type":"Point"}
+}

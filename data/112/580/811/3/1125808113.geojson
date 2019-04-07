@@ -1,0 +1,100 @@
+{
+  "id": 1125808113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.16667,66.11667,29.16667,66.11667",
+    "geom:latitude":66.11667,
+    "geom:longitude":29.16667,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":66.11667,
+    "lbl:longitude":29.16667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Rukaj\u00e4rvi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u043a\u0430\u044f\u0440\u0432\u0438"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":638882,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rukaj\u00e4rvi",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Pohjois-pohjanmaan maakunta",
+    "qs_pg:photos":473,
+    "qs_pg:photos_1k":96,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":473,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165993,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":572394,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Pohjois-pohjanmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199519,
+        85633143,
+        404227415,
+        136253047,
+        1159321489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":638882,
+        "gp:id":572394,
+        "qs_pg:id":1165993
+    },
+    "wof:country":"FI",
+    "wof:created":1497291546,
+    "wof:geomhash":"8217c578d828108522c24bb7bd87c578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321489,
+            "empire_id":136253047,
+            "localadmin_id":907199519,
+            "locality_id":1125808113,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1125808113,
+    "wof:lastmodified":1529709441,
+    "wof:name":"Rukaj\u00e4rvi",
+    "wof:parent_id":907199519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.16667,
+    66.11667,
+    29.16667,
+    66.11667
+],
+  "geometry": {"coordinates":[29.16667,66.11667],"type":"Point"}
+}

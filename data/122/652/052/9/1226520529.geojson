@@ -1,0 +1,75 @@
+{
+  "id": 1226520529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.43842,63.46901,28.43842,63.46901",
+    "geom:latitude":63.46901,
+    "geom:longitude":28.43842,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"113.0",
+    "gn:admin3_code":"687.0",
+    "gn:asciiname":"Rasimaeki",
+    "gn:country_code":"FI",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":639827,
+    "gn:latitude":63.46901,
+    "gn:longitude":28.43842,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Rasim\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199323,
+        85633143,
+        404227407,
+        136253047,
+        1159321579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639827
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1db89ac6f2e110304e9773c340d2c307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321579,
+            "empire_id":136253047,
+            "localadmin_id":907199323,
+            "locality_id":1226520529,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1226520529,
+    "wof:lastmodified":1537033032,
+    "wof:name":"Rasimaeki",
+    "wof:parent_id":907199323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.43842,
+    63.46901,
+    28.43842,
+    63.46901
+],
+  "geometry": {"coordinates":[28.43842,63.46901],"type":"Point"}
+}

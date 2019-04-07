@@ -1,0 +1,75 @@
+{
+  "id": 1293687145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.53333,61.56667,22.53333,61.56667",
+    "geom:latitude":61.56667,
+    "geom:longitude":22.53333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"609.0",
+    "gn:asciiname":"Riuttala",
+    "gn:country_code":"FI",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":639138,
+    "gn:latitude":61.56667,
+    "gn:longitude":22.53333,
+    "gn:modification_date":"2015-01-02",
+    "gn:name":"Riuttala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907199653,
+        85633143,
+        404227405,
+        136253047,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639138
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6a59bb62a3adb53ca39c1a4d4c507e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907199653,
+            "locality_id":1293687145,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1293687145,
+    "wof:lastmodified":1536995717,
+    "wof:name":"Riuttala",
+    "wof:parent_id":907199653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.53333,
+    61.56667,
+    22.53333,
+    61.56667
+],
+  "geometry": {"coordinates":[22.53333,61.56667],"type":"Point"}
+}

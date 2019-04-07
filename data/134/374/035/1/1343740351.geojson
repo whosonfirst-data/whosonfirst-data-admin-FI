@@ -1,0 +1,75 @@
+{
+  "id": 1343740351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.55,63.65,27.55,63.65",
+    "geom:latitude":63.65,
+    "geom:longitude":27.55,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"762.0",
+    "gn:asciiname":"Rutakko",
+    "gn:country_code":"FI",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":638658,
+    "gn:latitude":63.65,
+    "gn:longitude":27.55,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Rutakko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199331,
+        85633143,
+        404227407,
+        136253047,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":638658
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a99552d461beb4d8e77c0b620fe680f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199331,
+            "locality_id":1343740351,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1343740351,
+    "wof:lastmodified":1536838894,
+    "wof:name":"Rutakko",
+    "wof:parent_id":907199331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.55,
+    63.65,
+    27.55,
+    63.65
+],
+  "geometry": {"coordinates":[27.55,63.65],"type":"Point"}
+}

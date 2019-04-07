@@ -1,0 +1,63 @@
+{
+  "id": 1209423973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43611,60.485,21.43611,60.485",
+    "geom:latitude":60.485,
+    "geom:longitude":21.43611,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"304.0",
+    "gn:asciiname":"Luotsi",
+    "gn:country_code":"FI",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":854247,
+    "gn:latitude":60.485,
+    "gn:longitude":21.43611,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Luotsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":854247
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f24582d41ea9c287e0a62d0f2107d6bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209423973
+        }
+    ],
+    "wof:id":1209423973,
+    "wof:lastmodified":1536287439,
+    "wof:name":"Luotsi",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43611,
+    60.485,
+    21.43611,
+    60.485
+],
+  "geometry": {"coordinates":[21.43611,60.485],"type":"Point"}
+}

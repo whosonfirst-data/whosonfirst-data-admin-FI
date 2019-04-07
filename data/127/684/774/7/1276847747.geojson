@@ -1,0 +1,75 @@
+{
+  "id": 1276847747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.21861,63.01864,29.21861,63.01864",
+    "geom:latitude":63.01864,
+    "geom:longitude":29.21861,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"122.0",
+    "gn:admin3_code":"607.0",
+    "gn:asciiname":"Lipasvaara",
+    "gn:country_code":"FI",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":647854,
+    "gn:latitude":63.01864,
+    "gn:longitude":29.21861,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Lipasvaara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199399,
+        85633143,
+        404227407,
+        136253047,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":647854
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"23d0dedcb186e6a86b8f082014833d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199399,
+            "locality_id":1276847747,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1276847747,
+    "wof:lastmodified":1537081041,
+    "wof:name":"Lipasvaara",
+    "wof:parent_id":907199399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.21861,
+    63.01864000000001,
+    29.21861,
+    63.01864000000001
+],
+  "geometry": {"coordinates":[29.21861,63.01864000000001],"type":"Point"}
+}

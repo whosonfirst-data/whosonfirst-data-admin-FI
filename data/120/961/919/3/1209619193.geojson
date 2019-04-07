@@ -1,0 +1,63 @@
+{
+  "id": 1209619193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73546,60.43724,24.73546,60.43724",
+    "geom:latitude":60.43724,
+    "geom:longitude":24.73546,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"543.0",
+    "gn:asciiname":"Numlahti",
+    "gn:country_code":"FI",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":644301,
+    "gn:latitude":60.43724,
+    "gn:longitude":24.73546,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Numlahti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":644301
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8be6cc8041b4c7c08faa550e1c242a70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209619193
+        }
+    ],
+    "wof:id":1209619193,
+    "wof:lastmodified":1536281579,
+    "wof:name":"Numlahti",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73546,
+    60.43724,
+    24.73546,
+    60.43724
+],
+  "geometry": {"coordinates":[24.73546,60.43724],"type":"Point"}
+}

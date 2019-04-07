@@ -1,0 +1,63 @@
+{
+  "id": 1209315099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26667,61.9,22.26667,61.9",
+    "geom:latitude":61.9,
+    "geom:longitude":22.26667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"214.0",
+    "gn:asciiname":"Koukku",
+    "gn:country_code":"FI",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":650909,
+    "gn:latitude":61.9,
+    "gn:longitude":22.26667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Koukku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":650909
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"482cd42cadd1e6a9b51c4f7e05675788",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209315099
+        }
+    ],
+    "wof:id":1209315099,
+    "wof:lastmodified":1536290893,
+    "wof:name":"Koukku",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26667,
+    61.9,
+    22.26667,
+    61.9
+],
+  "geometry": {"coordinates":[22.26667,61.9],"type":"Point"}
+}

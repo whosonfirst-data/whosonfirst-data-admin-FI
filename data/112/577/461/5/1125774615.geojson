@@ -1,0 +1,112 @@
+{
+  "id": 1125774615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.01667,61.78333,30.01667,61.78333",
+    "geom:latitude":61.78333,
+    "geom:longitude":30.01667,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":543,
+    "gn:population":543,
+    "iso:country":"FI",
+    "lbl:latitude":61.78333,
+    "lbl:longitude":30.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0423\u043a\u0443\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Uukuniemi"
+    ],
+    "name:eng_x_preferred":[
+        "Uukuniemi"
+    ],
+    "name:epo_x_preferred":[
+        "Uukuniemi"
+    ],
+    "name:fin_x_preferred":[
+        "Uukuniemi"
+    ],
+    "name:ger_x_preferred":[
+        "Uukuniemi"
+    ],
+    "name:nob_x_preferred":[
+        "Uukuniemi"
+    ],
+    "name:rum_x_preferred":[
+        "Uukuniemi"
+    ],
+    "name:swe_x_preferred":[
+        "Uguniemi"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":633250,
+    "qs_pg:gn_pop":543,
+    "qs_pg:name":"Uukuniemi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":369825,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198853,
+        85633143,
+        404227411,
+        136253047,
+        1159321507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":633250,
+        "qs_pg:id":369825,
+        "wd:id":"Q2680634"
+    },
+    "wof:country":"FI",
+    "wof:created":1497290206,
+    "wof:geomhash":"296e0b18de75568b255ca38164196275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321507,
+            "empire_id":136253047,
+            "localadmin_id":907198853,
+            "locality_id":1125774615,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":1125774615,
+    "wof:lastmodified":1529707146,
+    "wof:name":"Uukuniemi",
+    "wof:parent_id":907198853,
+    "wof:placetype":"locality",
+    "wof:population":543,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.01667,
+    61.78333,
+    30.01667,
+    61.78333
+],
+  "geometry": {"coordinates":[30.01667,61.78333],"type":"Point"}
+}

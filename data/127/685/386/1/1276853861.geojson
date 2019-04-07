@@ -1,0 +1,79 @@
+{
+  "id": 1276853861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6,62.08333,21.6,62.08333",
+    "geom:latitude":62.08333,
+    "geom:longitude":21.6,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"153.0",
+    "gn:admin3_code":"287.0",
+    "gn:asciiname":"Sandjaerv",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":637740,
+    "gn:latitude":62.08333,
+    "gn:longitude":21.6,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Sandj\u00e4rv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandj\u00e4rv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907198827,
+        85633143,
+        404227417,
+        136253047,
+        1159321495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637740
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"494d4a24ec772cb1d6924079eca9c540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321495,
+            "empire_id":136253047,
+            "localadmin_id":907198827,
+            "locality_id":1276853861,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1276853861,
+    "wof:lastmodified":1537622167,
+    "wof:name":"Sandjaerv",
+    "wof:parent_id":907198827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6,
+    62.08333,
+    21.6,
+    62.08333
+],
+  "geometry": {"coordinates":[21.6,62.08333],"type":"Point"}
+}

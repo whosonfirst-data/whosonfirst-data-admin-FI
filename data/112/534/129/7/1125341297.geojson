@@ -1,0 +1,79 @@
+{
+  "id": 1125341297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-12-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75,62.5,30.75,62.5",
+    "geom:latitude":62.5,
+    "geom:longitude":30.75,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":62.5,
+    "lbl:longitude":30.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":633612,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tuupovaara",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":244399,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        85633143,
+        404227407,
+        136253047,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":633612,
+        "qs_pg:id":244399
+    },
+    "wof:country":"FI",
+    "wof:created":1497045670,
+    "wof:geomhash":"43dbd48a2f7a4dd03442d2851fe70985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":1125341297,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1125341297,
+    "wof:lastmodified":1544223146,
+    "wof:name":"Tuupovaara",
+    "wof:parent_id":1159321551,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75,
+    62.5,
+    30.75,
+    62.5
+],
+  "geometry": {"coordinates":[30.75,62.5],"type":"Point"}
+}

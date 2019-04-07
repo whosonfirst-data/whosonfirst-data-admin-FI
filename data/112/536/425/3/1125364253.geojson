@@ -1,0 +1,92 @@
+{
+  "id": 1125364253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-12-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51167,61.60435,22.51167,61.60435",
+    "geom:latitude":61.60435,
+    "geom:longitude":22.51167,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1994,
+    "gn:population":1994,
+    "iso:country":"FI",
+    "lbl:latitude":61.60435,
+    "lbl:longitude":22.51167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Lavia"
+    ],
+    "name:fin_x_variant":[
+        "Lavian Kunta"
+    ],
+    "name:swe_x_preferred":[
+        "Lavia"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":648615,
+    "qs_pg:gn_pop":1994,
+    "qs_pg:name":"Lavia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":81419,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        85633143,
+        404227405,
+        136253047,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":648615,
+        "qs_pg:id":81419
+    },
+    "wof:country":"FI",
+    "wof:created":1497046985,
+    "wof:geomhash":"73eb7aed586220c5d229d1568cd90014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":1125364253,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1125364253,
+    "wof:lastmodified":1544223146,
+    "wof:name":"Lavia",
+    "wof:parent_id":1159321565,
+    "wof:placetype":"localadmin",
+    "wof:population":1994,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51167,
+    61.60435,
+    22.51167,
+    61.60435
+],
+  "geometry": {"coordinates":[22.51167,61.60435],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327133391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43559,61.00753,24.43559,61.00753",
+    "geom:latitude":61.00753,
+    "geom:longitude":24.43559,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"109.0",
+    "gn:asciiname":"Ojoinen",
+    "gn:country_code":"FI",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7645246,
+    "gn:latitude":61.00753,
+    "gn:longitude":24.43559,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Ojoinen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683077,
+        102191581,
+        907199245,
+        85633143,
+        404227411,
+        136253047,
+        1159321513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645246
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e7d24c71415fd798212ba5e477334830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321513,
+            "empire_id":136253047,
+            "localadmin_id":907199245,
+            "locality_id":1327133391,
+            "macroregion_id":404227411,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":1327133391,
+    "wof:lastmodified":1536612200,
+    "wof:name":"Ojoinen",
+    "wof:parent_id":907199245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43559,
+    61.00753,
+    24.43559,
+    61.00753
+],
+  "geometry": {"coordinates":[24.43559,61.00753],"type":"Point"}
+}

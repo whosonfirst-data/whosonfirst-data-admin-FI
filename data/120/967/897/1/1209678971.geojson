@@ -1,0 +1,63 @@
+{
+  "id": 1209678971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.48333,64.2,28.48333,64.2",
+    "geom:latitude":64.2,
+    "geom:longitude":28.48333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"182.0",
+    "gn:admin3_code":"765.0",
+    "gn:asciiname":"Anttila",
+    "gn:country_code":"FI",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":661065,
+    "gn:latitude":64.2,
+    "gn:longitude":28.48333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Anttila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":661065
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f8c90be2f35880f7f915847fa7150d49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209678971
+        }
+    ],
+    "wof:id":1209678971,
+    "wof:lastmodified":1536279646,
+    "wof:name":"Anttila",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.48333,
+    64.2,
+    28.48333,
+    64.2
+],
+  "geometry": {"coordinates":[28.48333,64.2],"type":"Point"}
+}

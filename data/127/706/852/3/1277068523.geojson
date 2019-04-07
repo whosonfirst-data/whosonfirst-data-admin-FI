@@ -1,0 +1,75 @@
+{
+  "id": 1277068523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26022,60.85758,25.26022,60.85758",
+    "geom:latitude":60.85758,
+    "geom:longitude":25.26022,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"316.0",
+    "gn:asciiname":"Haehkaeniemi",
+    "gn:country_code":"FI",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":659468,
+    "gn:latitude":60.85758,
+    "gn:longitude":25.26022,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"H\u00e4hk\u00e4niemi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683091,
+        102191581,
+        907198567,
+        85633143,
+        404227411,
+        136253047,
+        1159321483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":659468
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5117f245a19e4641bc51486f3487db60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321483,
+            "empire_id":136253047,
+            "localadmin_id":907198567,
+            "locality_id":1277068523,
+            "macroregion_id":404227411,
+            "region_id":85683091
+        }
+    ],
+    "wof:id":1277068523,
+    "wof:lastmodified":1536788593,
+    "wof:name":"Haehkaeniemi",
+    "wof:parent_id":907198567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26022,
+    60.85758000000001,
+    25.26022,
+    60.85758000000001
+],
+  "geometry": {"coordinates":[25.26022,60.85758000000001],"type":"Point"}
+}

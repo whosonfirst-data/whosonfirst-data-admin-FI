@@ -1,0 +1,63 @@
+{
+  "id": 1209105339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.12269,60.94788,24.12269,60.94788",
+    "geom:latitude":60.94788,
+    "geom:longitude":24.12269,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"82.0",
+    "gn:asciiname":"Vuohiniemi",
+    "gn:country_code":"FI",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":631223,
+    "gn:latitude":60.94788,
+    "gn:longitude":24.12269,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Vuohiniemi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631223
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3a09f272fc4fdc2b06c45943e88ee8b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209105339
+        }
+    ],
+    "wof:id":1209105339,
+    "wof:lastmodified":1536297592,
+    "wof:name":"Vuohiniemi",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.12269,
+    60.94788000000001,
+    24.12269,
+    60.94788000000001
+],
+  "geometry": {"coordinates":[24.12269,60.94788000000001],"type":"Point"}
+}

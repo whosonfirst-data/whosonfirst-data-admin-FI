@@ -1,0 +1,80 @@
+{
+  "id": 1293453047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.45,64.16667,28.45,64.16667",
+    "geom:latitude":64.16667,
+    "geom:longitude":28.45,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"182.0",
+    "gn:admin3_code":"765.0",
+    "gn:asciiname":"Juohtela",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":655424,
+    "gn:latitude":64.16667,
+    "gn:longitude":28.45,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Juohtela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaitainvirta",
+        "Juohtela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683137,
+        102191581,
+        907199319,
+        85633143,
+        404227415,
+        136253047,
+        1159321487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":655424
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"14fc42fffd15c17d93c5929d782f61b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199319,
+            "locality_id":1293453047,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":1293453047,
+    "wof:lastmodified":1537622268,
+    "wof:name":"Juohtela",
+    "wof:parent_id":907199319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.45,
+    64.16667,
+    28.45,
+    64.16667
+],
+  "geometry": {"coordinates":[28.45,64.16667],"type":"Point"}
+}

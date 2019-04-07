@@ -1,0 +1,68 @@
+{
+  "id": 1209614181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31255,61.06165,24.31255,61.06165",
+    "geom:latitude":61.06165,
+    "geom:longitude":24.31255,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"82.0",
+    "gn:asciiname":"Ihalempi",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":656867,
+    "gn:latitude":61.06165,
+    "gn:longitude":24.31255,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Ihalempi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ihaniemi",
+        "Ihalempi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":656867
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"79d8548665422cb7b000211e78f6e1c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209614181
+        }
+    ],
+    "wof:id":1209614181,
+    "wof:lastmodified":1537622277,
+    "wof:name":"Ihalempi",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31255,
+    61.06165,
+    24.31255,
+    61.06165
+],
+  "geometry": {"coordinates":[24.31255,61.06165],"type":"Point"}
+}

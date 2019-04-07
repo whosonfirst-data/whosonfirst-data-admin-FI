@@ -1,0 +1,67 @@
+{
+  "id": 1209302651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.43869,63.35526,27.43869,63.35526",
+    "geom:latitude":63.35526,
+    "geom:longitude":27.43869,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"402.0",
+    "gn:asciiname":"Savonjaervi",
+    "gn:country_code":"FI",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":637297,
+    "gn:latitude":63.35526,
+    "gn:longitude":27.43869,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Savonj\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pohjois-Savo",
+        "Savonj\u00e4rvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637297
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8eb812b3f8181215d7425947b564e7f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209302651
+        }
+    ],
+    "wof:id":1209302651,
+    "wof:lastmodified":1537622165,
+    "wof:name":"Savonjaervi",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.43869,
+    63.35526,
+    27.43869,
+    63.35526
+],
+  "geometry": {"coordinates":[27.43869,63.35526],"type":"Point"}
+}

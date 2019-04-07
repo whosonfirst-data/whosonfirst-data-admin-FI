@@ -1,0 +1,78 @@
+{
+  "id": 1242876997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12443,60.88112,22.12443,60.88112",
+    "geom:latitude":60.88112,
+    "geom:longitude":22.12443,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"503.0",
+    "gn:asciiname":"Lausti",
+    "gn:country_code":"FI",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101271,
+    "gn:latitude":60.88112,
+    "gn:longitude":22.12443,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Lausti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Lausti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198907,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101271
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9ae7d6f8c6e80daacbb787bf2101af4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198907,
+            "locality_id":1242876997,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1242876997,
+    "wof:lastmodified":1537622324,
+    "wof:name":"Lausti",
+    "wof:parent_id":907198907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12443,
+    60.88112,
+    22.12443,
+    60.88112
+],
+  "geometry": {"coordinates":[22.12443,60.88112],"type":"Point"}
+}

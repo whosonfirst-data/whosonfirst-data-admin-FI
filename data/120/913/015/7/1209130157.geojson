@@ -1,0 +1,66 @@
+{
+  "id": 1209130157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7131,61.56433,21.7131,61.56433",
+    "geom:latitude":61.56433,
+    "geom:longitude":21.7131,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"609.0",
+    "gn:asciiname":"Kahaluoto",
+    "gn:country_code":"FI",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":655058,
+    "gn:latitude":61.56433,
+    "gn:longitude":21.7131,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kahaluoto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Kaluoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":655058
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1f092147e73e08fee285c0df96635c89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209130157
+        }
+    ],
+    "wof:id":1209130157,
+    "wof:lastmodified":1537550096,
+    "wof:name":"Kahaluoto",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7131,
+    61.56433000000001,
+    21.7131,
+    61.56433000000001
+],
+  "geometry": {"coordinates":[21.7131,61.56433000000001],"type":"Point"}
+}

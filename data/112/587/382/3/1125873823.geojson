@@ -1,0 +1,117 @@
+{
+  "id": 1125873823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46667,62.36667,25.46667,62.36667",
+    "geom:latitude":62.36667,
+    "geom:longitude":25.46667,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":62.36667,
+    "lbl:longitude":25.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Nyr\u00f6l\u00e4"
+    ],
+    "name:eng_x_preferred":[
+        "Nyr\u00f6l\u00e4"
+    ],
+    "name:fin_x_preferred":[
+        "Nyr\u00f6l\u00e4"
+    ],
+    "name:fre_x_preferred":[
+        "Nyr\u00f6l\u00e4"
+    ],
+    "name:ger_x_preferred":[
+        "Nyr\u00f6l\u00e4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30ed\u30e9"
+    ],
+    "name:por_x_preferred":[
+        "Nyr\u00f6l\u00e4"
+    ],
+    "name:spa_x_preferred":[
+        "Nyr\u00f6l\u00e4"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":644091,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nyr\u00f6l\u00e4",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Keski-Suomen maakunta",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":388902,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":570522,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Keski-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199265,
+        85633143,
+        404227417,
+        136253047,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":644091,
+        "gp:id":570522,
+        "qs_pg:id":388902,
+        "wd:id":"Q7071265"
+    },
+    "wof:country":"FI",
+    "wof:created":1497294439,
+    "wof:geomhash":"3c106f89e756d707331a946ad7d2db05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":907199265,
+            "locality_id":1125873823,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1125873823,
+    "wof:lastmodified":1529706353,
+    "wof:name":"Nyr\u00f6l\u00e4",
+    "wof:parent_id":907199265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46667,
+    62.36667,
+    25.46667,
+    62.36667
+],
+  "geometry": {"coordinates":[25.46667,62.36667],"type":"Point"}
+}

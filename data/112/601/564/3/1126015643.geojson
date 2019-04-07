@@ -1,0 +1,100 @@
+{
+  "id": 1126015643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86807,60.42182,24.86807,60.42182",
+    "geom:latitude":60.42182,
+    "geom:longitude":24.86807,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.42182,
+    "lbl:longitude":24.86807,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Palojoki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u043e\u0439\u043e\u043a\u0438"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":642894,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Palojoki",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Uudenmaan maakunta",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1014124,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":570972,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Uudenmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198599,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":642894,
+        "gp:id":570972,
+        "qs_pg:id":1014124
+    },
+    "wof:country":"FI",
+    "wof:created":1497300530,
+    "wof:geomhash":"f9379e3ea7699f54726a5faa823e4e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198599,
+            "locality_id":1126015643,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1126015643,
+    "wof:lastmodified":1529714695,
+    "wof:name":"Palojoki",
+    "wof:parent_id":907198599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86807,
+    60.42182,
+    24.86807,
+    60.42182
+],
+  "geometry": {"coordinates":[24.86807,60.42182],"type":"Point"}
+}

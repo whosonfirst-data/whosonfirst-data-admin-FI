@@ -1,0 +1,75 @@
+{
+  "id": 1225821635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.98333,64.35,24.98333,64.35",
+    "geom:latitude":64.35,
+    "geom:longitude":24.98333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"174.0",
+    "gn:admin3_code":"678.0",
+    "gn:asciiname":"Kilpua",
+    "gn:country_code":"FI",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":652789,
+    "gn:latitude":64.35,
+    "gn:longitude":24.98333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kilpua",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199449,
+        85633143,
+        404227415,
+        136253047,
+        1159321631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":652789
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d1c96004c7dbbebb48303bb6056abddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321631,
+            "empire_id":136253047,
+            "localadmin_id":907199449,
+            "locality_id":1225821635,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1225821635,
+    "wof:lastmodified":1537046569,
+    "wof:name":"Kilpua",
+    "wof:parent_id":907199449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.98333,
+    64.35,
+    24.98333,
+    64.35
+],
+  "geometry": {"coordinates":[24.98333,64.34999999999999],"type":"Point"}
+}

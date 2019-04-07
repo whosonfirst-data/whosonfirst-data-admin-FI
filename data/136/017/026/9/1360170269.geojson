@@ -1,0 +1,84 @@
+{
+  "id": 1360170269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73306,60.45,26.73306,60.45",
+    "geom:latitude":60.45,
+    "geom:longitude":26.73306,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"82.0",
+    "gn:admin3_code":"624.0",
+    "gn:asciiname":"Kiviniemi",
+    "gn:country_code":"FI",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":652360,
+    "gn:latitude":60.45,
+    "gn:longitude":26.73306,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kiviniemi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kiviniemi"
+    ],
+    "name:swe_x_preferred":[
+        "Stensn\u00e4s"
+    ],
+    "name:und_x_variant":[
+        "Lill Kuppis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683081,
+        102191581,
+        907198651,
+        85633143,
+        404227411,
+        136253047,
+        1159321573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":652360
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9b00b5106aaa8c653b3b2cabbe204faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321573,
+            "empire_id":136253047,
+            "localadmin_id":907198651,
+            "locality_id":1360170269,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":1360170269,
+    "wof:lastmodified":1537622249,
+    "wof:name":"Kiviniemi",
+    "wof:parent_id":907198651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73306,
+    60.45,
+    26.73306,
+    60.45
+],
+  "geometry": {"coordinates":[26.73306,60.45],"type":"Point"}
+}

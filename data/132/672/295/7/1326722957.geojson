@@ -1,0 +1,75 @@
+{
+  "id": 1326722957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.05722,61.11556,23.05722,61.11556",
+    "geom:latitude":61.11556,
+    "geom:longitude":23.05722,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"68.0",
+    "gn:admin3_code":"619.0",
+    "gn:asciiname":"Kostila",
+    "gn:country_code":"FI",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":651032,
+    "gn:latitude":61.11556,
+    "gn:longitude":23.05722,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kostila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907198835,
+        85633143,
+        404227417,
+        136253047,
+        1159321613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":651032
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7b7bd5933b351b66cb2fe77f8853d15b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321613,
+            "empire_id":136253047,
+            "localadmin_id":907198835,
+            "locality_id":1326722957,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1326722957,
+    "wof:lastmodified":1536709497,
+    "wof:name":"Kostila",
+    "wof:parent_id":907198835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.05722,
+    61.11556,
+    23.05722,
+    61.11556
+],
+  "geometry": {"coordinates":[23.05722,61.11556],"type":"Point"}
+}

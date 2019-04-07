@@ -1,0 +1,96 @@
+{
+  "id": 1125855787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.35,62.46667,26.35,62.46667",
+    "geom:latitude":62.46667,
+    "geom:longitude":26.35,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":62.46667,
+    "lbl:longitude":26.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Ristim\u00e4ki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0441\u0442\u0438\u043c\u044f\u043a\u0438"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":639215,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ristim\u00e4ki",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Keski-Suomen maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":206428,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":25947814,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Keski-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907198817,
+        85633143,
+        404227417,
+        136253047,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639215,
+        "gp:id":25947814,
+        "qs_pg:id":206428
+    },
+    "wof:country":"FI",
+    "wof:created":1497293612,
+    "wof:geomhash":"617570fa0e8f2fc8c5deaee9f183f009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":907198817,
+            "locality_id":1125855787,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1125855787,
+    "wof:lastmodified":1529706355,
+    "wof:name":"Ristim\u00e4ki",
+    "wof:parent_id":907198817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.35,
+    62.46667,
+    26.35,
+    62.46667
+],
+  "geometry": {"coordinates":[26.35,62.46667],"type":"Point"}
+}

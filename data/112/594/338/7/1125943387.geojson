@@ -1,0 +1,111 @@
+{
+  "id": 1125943387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.30193,67.52459,24.30193,67.52459",
+    "geom:latitude":67.52459,
+    "geom:longitude":24.30193,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":200,
+    "gn:population":200,
+    "iso:country":"FI",
+    "lbl:latitude":67.52459,
+    "lbl:longitude":24.30193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Yll\u00e4sj\u00e4rvi"
+    ],
+    "name:fin_x_preferred":[
+        "Yll\u00e4sj\u00e4rvi"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u043b\u043b\u044f\u0441\u044a\u044f\u0440\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Yll\u00e4sj\u00e4rvi"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7281796,
+    "qs_pg:gn_pop":200,
+    "qs_pg:name":"Yll\u00e4sj\u00e4rvi",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Lapin maakunta",
+    "qs_pg:photos":873,
+    "qs_pg:photos_1k":177,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":873,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1284703,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":25952223,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Lapin maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199583,
+        85633143,
+        404227409,
+        136253047,
+        1159321583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7281796,
+        "gp:id":25952223,
+        "qs_pg:id":1284703,
+        "wd:id":"Q11902896"
+    },
+    "wof:country":"FI",
+    "wof:created":1497297194,
+    "wof:geomhash":"bfe6953a14e04937a120af757624ec33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321583,
+            "empire_id":136253047,
+            "localadmin_id":907199583,
+            "locality_id":1125943387,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1125943387,
+    "wof:lastmodified":1553816648,
+    "wof:name":"Yll\u00e4sj\u00e4rvi",
+    "wof:parent_id":907199583,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.30193,
+    67.52459,
+    24.30193,
+    67.52459
+],
+  "geometry": {"coordinates":[24.30193,67.52459],"type":"Point"}
+}

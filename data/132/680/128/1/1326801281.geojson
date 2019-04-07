@@ -1,0 +1,78 @@
+{
+  "id": 1326801281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92682,62.11551,21.92682,62.11551",
+    "geom:latitude":62.11551,
+    "geom:longitude":21.92682,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"141.0",
+    "gn:admin3_code":"151.0",
+    "gn:asciiname":"Pihlaja",
+    "gn:country_code":"FI",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101642,
+    "gn:latitude":62.11551,
+    "gn:longitude":21.92682,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Pihlaja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Pihlaja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907198871,
+        85633143,
+        404227417,
+        136253047,
+        1159321543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101642
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8e9736dc032e593502b4d164c1a652f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321543,
+            "empire_id":136253047,
+            "localadmin_id":907198871,
+            "locality_id":1326801281,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1326801281,
+    "wof:lastmodified":1537622337,
+    "wof:name":"Pihlaja",
+    "wof:parent_id":907198871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92682000000001,
+    62.11551,
+    21.92682000000001,
+    62.11551
+],
+  "geometry": {"coordinates":[21.92682000000001,62.11551],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1243143575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.76667,63.96667,25.76667,63.96667",
+    "geom:latitude":63.96667,
+    "geom:longitude":25.76667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"176.0",
+    "gn:admin3_code":"317.0",
+    "gn:asciiname":"Kaersaemaeki",
+    "gn:country_code":"FI",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":653880,
+    "gn:latitude":63.96667,
+    "gn:longitude":25.76667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"K\u00e4rs\u00e4m\u00e4ki",
+    "gn:population":2966,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K\u00e4rs\u00e4m\u00e4ki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044f\u0440\u0441\u044f\u043c\u044f\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199465,
+        85633143,
+        404227415,
+        136253047,
+        1159321591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":653880,
+        "wk:page":"K%C3%A4rs%C3%A4m%C3%A4ki"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1e74b03ff22ba9810fa13b196ba9e768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321591,
+            "empire_id":136253047,
+            "localadmin_id":907199465,
+            "locality_id":1243143575,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1243143575,
+    "wof:lastmodified":1537622259,
+    "wof:name":"Kaersaemaeki",
+    "wof:parent_id":907199465,
+    "wof:placetype":"locality",
+    "wof:population":2966,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.76667,
+    63.96666999999999,
+    25.76667,
+    63.96666999999999
+],
+  "geometry": {"coordinates":[25.76667,63.96666999999999],"type":"Point"}
+}

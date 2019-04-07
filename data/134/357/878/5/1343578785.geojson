@@ -1,0 +1,88 @@
+{
+  "id": 1343578785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86103,60.22287,24.86103,60.22287",
+    "geom:latitude":60.22287,
+    "geom:longitude":24.86103,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"91.0",
+    "gn:asciiname":"Pitaejaenmaeki",
+    "gn:country_code":"FI",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":641374,
+    "gn:latitude":60.22287,
+    "gn:longitude":24.86103,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Pit\u00e4j\u00e4nm\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_colloquial":[
+        "Pitsku"
+    ],
+    "name:fin_x_preferred":[
+        "Pit\u00e4j\u00e4nm\u00e4ki"
+    ],
+    "name:fin_x_variant":[
+        "Pitsku"
+    ],
+    "name:swe_x_preferred":[
+        "Sockenbacka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907199715,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":641374,
+        "wk:page":"Pit%C3%A4j%C3%A4nm%C3%A4ki"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6cbe90663b7de2c4588c6bd1d80d0109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907199715,
+            "locality_id":1343578785,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1343578785,
+    "wof:lastmodified":1537622187,
+    "wof:name":"Pitaejaenmaeki",
+    "wof:parent_id":907199715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86103,
+    60.22286999999999,
+    24.86103,
+    60.22286999999999
+],
+  "geometry": {"coordinates":[24.86103,60.22286999999999],"type":"Point"}
+}

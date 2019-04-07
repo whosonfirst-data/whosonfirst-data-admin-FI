@@ -1,0 +1,78 @@
+{
+  "id": 1226108585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.20571,64.36136,29.20571,64.36136",
+    "geom:latitude":64.36136,
+    "geom:longitude":29.20571,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"181.0",
+    "gn:admin3_code":"290.0",
+    "gn:asciiname":"Vuosanka",
+    "gn:country_code":"FI",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101607,
+    "gn:latitude":64.36136,
+    "gn:longitude":29.20571,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Vuosanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Vuosanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683137,
+        102191581,
+        907199507,
+        85633143,
+        404227415,
+        136253047,
+        1159321549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101607
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a20b233b7a6710b8534d2e4ecae79852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321549,
+            "empire_id":136253047,
+            "localadmin_id":907199507,
+            "locality_id":1226108585,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":1226108585,
+    "wof:lastmodified":1537622336,
+    "wof:name":"Vuosanka",
+    "wof:parent_id":907199507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.20571,
+    64.36135999999999,
+    29.20571,
+    64.36135999999999
+],
+  "geometry": {"coordinates":[29.20571,64.36135999999999],"type":"Point"}
+}

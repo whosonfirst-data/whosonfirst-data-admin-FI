@@ -1,0 +1,63 @@
+{
+  "id": 1209300655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.98333,62.86667,24.98333,62.86667",
+    "geom:latitude":62.86667,
+    "geom:longitude":24.98333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"138.0",
+    "gn:admin3_code":"226.0",
+    "gn:asciiname":"Vastinki",
+    "gn:country_code":"FI",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":632186,
+    "gn:latitude":62.86667,
+    "gn:longitude":24.98333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Vastinki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":632186
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"443202f4d3232a161191809aab11575c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209300655
+        }
+    ],
+    "wof:id":1209300655,
+    "wof:lastmodified":1536291370,
+    "wof:name":"Vastinki",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.98333,
+    62.86666999999999,
+    24.98333,
+    62.86666999999999
+],
+  "geometry": {"coordinates":[24.98333,62.86666999999999],"type":"Point"}
+}

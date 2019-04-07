@@ -1,0 +1,79 @@
+{
+  "id": 1125385441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-12-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.75,60.58333,23.75,60.58333",
+    "geom:latitude":60.58333,
+    "geom:longitude":23.75,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.58333,
+    "lbl:longitude":23.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":636349,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Somerniemi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1029979,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        85633143,
+        404227405,
+        136253047,
+        1159321585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":636349,
+        "qs_pg:id":1029979
+    },
+    "wof:country":"FI",
+    "wof:created":1497048337,
+    "wof:geomhash":"400dbbf077286fc2ba3885e948ffdd9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321585,
+            "empire_id":136253047,
+            "localadmin_id":1125385441,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1125385441,
+    "wof:lastmodified":1544223147,
+    "wof:name":"Somerniemi",
+    "wof:parent_id":1159321585,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.75,
+    60.58333,
+    23.75,
+    60.58333
+],
+  "geometry": {"coordinates":[23.75,60.58333],"type":"Point"}
+}

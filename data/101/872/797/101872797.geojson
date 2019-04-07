@@ -1,0 +1,89 @@
+{
+  "id": 101872797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.739897,61.048775,26.739897,61.048775",
+    "geom:latitude":61.048775,
+    "geom:longitude":26.739897,
+    "iso:country":"FI",
+    "lbl:latitude":61.048775,
+    "lbl:longitude":26.739897,
+    "mps:latitude":61.048775,
+    "mps:longitude":26.739897,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sel\u00e4np\u00e4\u00e4"
+    ],
+    "name:fin_x_preferred":[
+        "Sel\u00e4np\u00e4\u00e4"
+    ],
+    "qs:a0":"Suomi#Finland",
+    "qs:a1":"*Kymenlaakso#Kymmenedalen",
+    "qs:a1r":"0Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
+    "qs:adm0":"Suomi#Finland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sel\u00e4np\u00e4\u00e4",
+    "qs:loc_alt":"Selanpaa",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85683081,
+        102191581,
+        907198969,
+        85633143,
+        404227411,
+        136253047,
+        1159321557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637197,
+        "gp:id":572955,
+        "qs:id":7,
+        "wd:id":"Q26385525"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"cb281a82e2701efd016f4e4babae090a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321557,
+            "empire_id":136253047,
+            "localadmin_id":907198969,
+            "locality_id":101872797,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":101872797,
+    "wof:lastmodified":1544751330,
+    "wof:name":"Sel\u00e4np\u00e4\u00e4",
+    "wof:parent_id":907198969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.739897,
+    61.048775,
+    26.739897,
+    61.048775
+],
+  "geometry": {"coordinates":[26.739897,61.048775],"type":"Point"}
+}

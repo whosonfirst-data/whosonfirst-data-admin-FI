@@ -1,0 +1,75 @@
+{
+  "id": 1210000393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.70498,62.19016,27.70498,62.19016",
+    "geom:latitude":62.19016,
+    "geom:longitude":27.70498,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"171.0",
+    "gn:asciiname":"Ruokoniemi",
+    "gn:country_code":"FI",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":638790,
+    "gn:latitude":62.19016,
+    "gn:longitude":27.70498,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Ruokoniemi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683109,
+        102191581,
+        907198879,
+        85633143,
+        404227407,
+        136253047,
+        1159321615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":638790
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c39ef958c6f84bb7fc1ac2e8085dad29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321615,
+            "empire_id":136253047,
+            "localadmin_id":907198879,
+            "locality_id":1210000393,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":1210000393,
+    "wof:lastmodified":1536379335,
+    "wof:name":"Ruokoniemi",
+    "wof:parent_id":907198879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.70498,
+    62.19016,
+    27.70498,
+    62.19016
+],
+  "geometry": {"coordinates":[27.70498,62.19016],"type":"Point"}
+}

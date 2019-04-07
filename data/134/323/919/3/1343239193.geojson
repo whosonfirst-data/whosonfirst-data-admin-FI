@@ -1,0 +1,81 @@
+{
+  "id": 1343239193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.36898,62.33037,30.36898,62.33037",
+    "geom:latitude":62.33037,
+    "geom:longitude":30.36898,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"124.0",
+    "gn:admin3_code":"848.0",
+    "gn:asciiname":"Vatala",
+    "gn:country_code":"FI",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":632174,
+    "gn:latitude":62.33037,
+    "gn:longitude":30.36898,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Vatala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vatala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0442\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199417,
+        85633143,
+        404227407,
+        136253047,
+        1159321517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":632174
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1a8ade676e98ffad461b299e7244b8eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321517,
+            "empire_id":136253047,
+            "localadmin_id":907199417,
+            "locality_id":1343239193,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1343239193,
+    "wof:lastmodified":1537622137,
+    "wof:name":"Vatala",
+    "wof:parent_id":907199417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.36898,
+    62.33037,
+    30.36898,
+    62.33037
+],
+  "geometry": {"coordinates":[30.36898,62.33037],"type":"Point"}
+}

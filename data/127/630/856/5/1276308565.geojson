@@ -1,0 +1,75 @@
+{
+  "id": 1276308565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78333,64.35,26.78333,64.35",
+    "geom:latitude":64.35,
+    "geom:longitude":26.78333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"182.0",
+    "gn:admin3_code":"785.0",
+    "gn:asciiname":"Turula",
+    "gn:country_code":"FI",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":633657,
+    "gn:latitude":64.35,
+    "gn:longitude":26.78333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Turula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683137,
+        102191581,
+        907199621,
+        85633143,
+        404227415,
+        136253047,
+        1159321487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":633657
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"fe2dc8a7807b872e41d5a65525be8c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199621,
+            "locality_id":1276308565,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":1276308565,
+    "wof:lastmodified":1536811391,
+    "wof:name":"Turula",
+    "wof:parent_id":907199621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78333,
+    64.35,
+    26.78333,
+    64.35
+],
+  "geometry": {"coordinates":[26.78333,64.34999999999999],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1125961433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.61667,62.11667,28.61667,62.11667",
+    "geom:latitude":62.11667,
+    "geom:longitude":28.61667,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":62.11667,
+    "lbl:longitude":28.61667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Oravi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0430\u0432\u0438"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":643668,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Oravi",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Etel\u00e4-Savon maakunta",
+    "qs_pg:photos":379,
+    "qs_pg:photos_1k":77,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":379,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1337489,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":570680,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Etel\u00e4-Savon maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683109,
+        102191581,
+        907198867,
+        85633143,
+        404227407,
+        136253047,
+        1159321493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643668,
+        "gp:id":570680,
+        "qs_pg:id":1337489
+    },
+    "wof:country":"FI",
+    "wof:created":1497297812,
+    "wof:geomhash":"0f66acea2e96ccf9db67d572c6fef30b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321493,
+            "empire_id":136253047,
+            "localadmin_id":907198867,
+            "locality_id":1125961433,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":1125961433,
+    "wof:lastmodified":1529714456,
+    "wof:name":"Oravi",
+    "wof:parent_id":907198867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.61667,
+    62.11667,
+    28.61667,
+    62.11667
+],
+  "geometry": {"coordinates":[28.61667,62.11667],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 1126047885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.266155,61.074297,28.266155,61.074297",
+    "geom:latitude":61.074297,
+    "geom:longitude":28.266155,
+    "gn:gn_country":null,
+    "iso:country":"FI",
+    "lbl:latitude":61.074297,
+    "lbl:longitude":28.266155,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Lauritsala"
+    ],
+    "name:est_x_preferred":[
+        "Lauritsala vald"
+    ],
+    "name:fin_x_preferred":[
+        "Lauritsala"
+    ],
+    "name:fre_x_preferred":[
+        "Lauritsala"
+    ],
+    "name:ger_x_preferred":[
+        "Lauritsala"
+    ],
+    "name:nob_x_preferred":[
+        "Lauritsala"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0443\u0440\u0438\u0442\u0441\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lauritsala"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lauritsala",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Etel\u00e4-Karjalan maakunta",
+    "qs_pg:photos":107,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":107,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":265242,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":568860,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Etel\u00e4-Karjalan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198887,
+        85633143,
+        404227411,
+        136253047,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":568860,
+        "qs_pg:id":265242,
+        "wd:id":"Q3440679"
+    },
+    "wof:country":"FI",
+    "wof:created":1497302545,
+    "wof:geomhash":"af49dcf184d753f1064beb4903800921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198887,
+            "locality_id":1126047885,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":1126047885,
+    "wof:lastmodified":1529707147,
+    "wof:name":"Lauritsala",
+    "wof:parent_id":907198887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.266155,
+    61.074297,
+    28.266155,
+    61.074297
+],
+  "geometry": {"coordinates":[28.266155,61.074297],"type":"Point"}
+}

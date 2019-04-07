@@ -1,0 +1,75 @@
+{
+  "id": 1310427777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69852,61.47283,23.69852,61.47283",
+    "geom:latitude":61.47283,
+    "geom:longitude":23.69852,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"64.0",
+    "gn:admin3_code":"604.0",
+    "gn:asciiname":"Nuoliala",
+    "gn:country_code":"FI",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7838787,
+    "gn:latitude":61.47283,
+    "gn:longitude":23.69852,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Nuoliala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907199281,
+        85633143,
+        404227417,
+        136253047,
+        1159321521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7838787
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9d9edaa18aa29a763cfdf1b3d12e49d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321521,
+            "empire_id":136253047,
+            "localadmin_id":907199281,
+            "locality_id":1310427777,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1310427777,
+    "wof:lastmodified":1537027948,
+    "wof:name":"Nuoliala",
+    "wof:parent_id":907199281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69852,
+    61.47283,
+    23.69852,
+    61.47283
+],
+  "geometry": {"coordinates":[23.69852,61.47283],"type":"Point"}
+}

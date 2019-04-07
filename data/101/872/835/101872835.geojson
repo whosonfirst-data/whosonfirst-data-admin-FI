@@ -1,0 +1,85 @@
+{
+  "id": 101872835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.08299,62.897815,22.08299,62.897815",
+    "geom:latitude":62.897815,
+    "geom:longitude":22.08299,
+    "iso:country":"FI",
+    "lbl:latitude":62.897815,
+    "lbl:longitude":22.08299,
+    "mps:latitude":62.897815,
+    "mps:longitude":22.08299,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Haapala"
+    ],
+    "qs:a0":"Suomi#Finland",
+    "qs:a1":"*Pohjanmaa#\u00d6sterbotten",
+    "qs:a1r":"0L\u00e4nsi- ja Sis\u00e4-Suomen AVI#V\u00e4stra och Inre Finlands RFV",
+    "qs:adm0":"Suomi#Finland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kyl\u00e4inp\u00e4\u00e4",
+    "qs:loc_alt":"Kylainpaa",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907198989,
+        85633143,
+        404227417,
+        136253047,
+        1159321589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649758,
+        "gp:id":25950034,
+        "qs:id":7
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9c29a3677afade06849f64b88ed56b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321589,
+            "empire_id":136253047,
+            "localadmin_id":907198989,
+            "locality_id":101872835,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":101872835,
+    "wof:lastmodified":1544751348,
+    "wof:name":"Kyl\u00e4inp\u00e4\u00e4",
+    "wof:parent_id":907198989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.08299,
+    62.897815,
+    22.08299,
+    62.897815
+],
+  "geometry": {"coordinates":[22.08299,62.897815],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1126017683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71667,61.88333,25.71667,61.88333",
+    "geom:latitude":61.88333,
+    "geom:longitude":25.71667,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":61.88333,
+    "lbl:longitude":25.71667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Putkilahti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0442\u043a\u0438\u043b\u0430\u0445\u0442\u0438"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":640539,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Putkilahti",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Keski-Suomen maakunta",
+    "qs_pg:photos":86,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":86,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1014515,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":571778,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Keski-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199265,
+        85633143,
+        404227417,
+        136253047,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":640539,
+        "gp:id":571778,
+        "qs_pg:id":1014515
+    },
+    "wof:country":"FI",
+    "wof:created":1497300649,
+    "wof:geomhash":"867ddb50e6d5d7833da7ab4b25c48afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":907199265,
+            "locality_id":1126017683,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1126017683,
+    "wof:lastmodified":1529706357,
+    "wof:name":"Putkilahti",
+    "wof:parent_id":907199265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71667,
+    61.88333,
+    25.71667,
+    61.88333
+],
+  "geometry": {"coordinates":[25.71667,61.88333],"type":"Point"}
+}

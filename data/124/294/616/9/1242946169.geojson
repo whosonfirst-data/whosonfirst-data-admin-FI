@@ -1,0 +1,80 @@
+{
+  "id": 1242946169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.58333,63.56667,22.58333,63.56667",
+    "geom:latitude":63.56667,
+    "geom:longitude":22.58333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"154.0",
+    "gn:admin3_code":"893.0",
+    "gn:asciiname":"Frost",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":659910,
+    "gn:latitude":63.56667,
+    "gn:longitude":22.58333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Frost",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Frostdal",
+        "Frost"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199045,
+        85633143,
+        404227417,
+        136253047,
+        1159321639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":659910
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"872f0316fa46a8b4735a7b6429652f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321639,
+            "empire_id":136253047,
+            "localadmin_id":907199045,
+            "locality_id":1242946169,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1242946169,
+    "wof:lastmodified":1537622295,
+    "wof:name":"Frost",
+    "wof:parent_id":907199045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.58333,
+    63.56667,
+    22.58333,
+    63.56667
+],
+  "geometry": {"coordinates":[22.58333,63.56667],"type":"Point"}
+}

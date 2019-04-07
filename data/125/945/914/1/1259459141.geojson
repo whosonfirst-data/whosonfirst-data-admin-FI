@@ -1,0 +1,84 @@
+{
+  "id": 1259459141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.97913,65.63479,25.97913,65.63479",
+    "geom:latitude":65.63479,
+    "geom:longitude":25.97913,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"173.0",
+    "gn:admin3_code":"139.0",
+    "gn:asciiname":"Oijaervi",
+    "gn:country_code":"FI",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":644043,
+    "gn:latitude":65.63479,
+    "gn:longitude":25.97913,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Oij\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oij\u00e4rvi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0439\u044f\u0440\u0432\u0438"
+    ],
+    "name:und_x_variant":[
+        "Oij\u00e4rvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199699,
+        85633143,
+        404227415,
+        136253047,
+        1159321497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":644043
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8e6801716803976978b45a2d904ea424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321497,
+            "empire_id":136253047,
+            "localadmin_id":907199699,
+            "locality_id":1259459141,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1259459141,
+    "wof:lastmodified":1537622200,
+    "wof:name":"Oijaervi",
+    "wof:parent_id":907199699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97913,
+    65.63479,
+    25.97913,
+    65.63479
+],
+  "geometry": {"coordinates":[25.97913,65.63479],"type":"Point"}
+}

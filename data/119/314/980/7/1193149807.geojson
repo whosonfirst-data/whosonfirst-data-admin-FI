@@ -1,0 +1,93 @@
+{
+  "id": 1193149807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.26802,60.16146,23.26802,60.16146",
+    "geom:latitude":60.16146,
+    "geom:longitude":23.26802,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"734.0",
+    "gn:asciiname":"Vihiniemi",
+    "gn:country_code":"FI",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":631743,
+    "gn:latitude":60.16146,
+    "gn:longitude":23.26802,
+    "gn:modification_date":"2016-07-29",
+    "gn:name":"Vihiniemi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Vineme"
+    ],
+    "name:isl_x_preferred":[
+        "Vineme"
+    ],
+    "name:nno_x_preferred":[
+        "Vineme"
+    ],
+    "name:nob_x_preferred":[
+        "Vineme"
+    ],
+    "name:nor_x_preferred":[
+        "Vineme"
+    ],
+    "name:swe_x_preferred":[
+        "Vineme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198943,
+        85633143,
+        404227405,
+        136253047,
+        1159321585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631743
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e5ef7b4afdd6079385380b808087dbf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321585,
+            "empire_id":136253047,
+            "localadmin_id":907198943,
+            "locality_id":1193149807,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1193149807,
+    "wof:lastmodified":1537622134,
+    "wof:name":"Vihiniemi",
+    "wof:parent_id":907198943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.26802,
+    60.16146,
+    23.26802,
+    60.16146
+],
+  "geometry": {"coordinates":[23.26802,60.16146],"type":"Point"}
+}

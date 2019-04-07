@@ -1,0 +1,81 @@
+{
+  "id": 1293404155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.17806,60.40663,25.17806,60.40663",
+    "geom:latitude":60.40663,
+    "geom:longitude":25.17806,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"753.0",
+    "gn:asciiname":"Tallmo",
+    "gn:country_code":"FI",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101561,
+    "gn:latitude":60.40663,
+    "gn:longitude":25.17806,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Tallmo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Talma"
+    ],
+    "name:swe_x_preferred":[
+        "Tallmo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198521,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101561
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"06898da75a4761b1d14a9c81bf0875d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198521,
+            "locality_id":1293404155,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1293404155,
+    "wof:lastmodified":1537622335,
+    "wof:name":"Tallmo",
+    "wof:parent_id":907198521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.17806,
+    60.40663000000001,
+    25.17806,
+    60.40663000000001
+],
+  "geometry": {"coordinates":[25.17806,60.40663000000001],"type":"Point"}
+}

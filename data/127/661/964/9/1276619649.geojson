@@ -1,0 +1,78 @@
+{
+  "id": 1276619649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.40135,66.87594,27.40135,66.87594",
+    "geom:latitude":66.87594,
+    "geom:longitude":27.40135,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"194.0",
+    "gn:admin3_code":"320.0",
+    "gn:asciiname":"Luokka-aapa",
+    "gn:country_code":"FI",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101599,
+    "gn:latitude":66.87594,
+    "gn:longitude":27.40135,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Luokka-aapa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Luokka-aapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199539,
+        85633143,
+        404227409,
+        136253047,
+        1159321535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101599
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"af7df12938b4a61e98b73b432b71c426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321535,
+            "empire_id":136253047,
+            "localadmin_id":907199539,
+            "locality_id":1276619649,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1276619649,
+    "wof:lastmodified":1537622336,
+    "wof:name":"Luokka-aapa",
+    "wof:parent_id":907199539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.40135,
+    66.87594,
+    27.40135,
+    66.87594
+],
+  "geometry": {"coordinates":[27.40135,66.87594],"type":"Point"}
+}

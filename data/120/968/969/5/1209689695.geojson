@@ -1,0 +1,68 @@
+{
+  "id": 1209689695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1,62.78333,24.1,62.78333",
+    "geom:latitude":62.78333,
+    "geom:longitude":24.1,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"146.0",
+    "gn:admin3_code":"759.0",
+    "gn:asciiname":"Patama",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":642526,
+    "gn:latitude":62.78333,
+    "gn:longitude":24.1,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Patama",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Patamaa",
+        "Patama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":642526
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"510245f43d12353337ee756e62e145c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209689695
+        }
+    ],
+    "wof:id":1209689695,
+    "wof:lastmodified":1537622193,
+    "wof:name":"Patama",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1,
+    62.78333000000001,
+    24.1,
+    62.78333000000001
+],
+  "geometry": {"coordinates":[24.1,62.78333000000001],"type":"Point"}
+}

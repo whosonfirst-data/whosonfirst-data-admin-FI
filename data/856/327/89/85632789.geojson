@@ -1,0 +1,497 @@
+{
+  "id": 85632789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.152243,
+    "geom:area_square_m":13241687966.419407,
+    "geom:bbox":"19.0840035,59.454159,21.3454,60.8766825",
+    "geom:latitude":60.160431,
+    "geom:longitude":20.270133,
+    "gn:population":26711,
+    "iso:country":"AX",
+    "iso:parent":"FI",
+    "itu:country_code":[
+        "358"
+    ],
+    "lbl:latitude":60.15205,
+    "lbl:longitude":20.291594,
+    "mps:latitude":60.15205,
+    "mps:longitude":20.291594,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":5.0,
+    "name:ace_x_preferred":[
+        "Pulo-pulo Aland"
+    ],
+    "name:afr_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:afr_x_variant":[
+        "\u00c5land-eilande"
+    ],
+    "name:amh_x_preferred":[
+        "\u12e8\u12a0\u120b\u1295\u12f5 \u12f0\u1234\u1276\u127d"
+    ],
+    "name:ang_x_preferred":[
+        "\u0112alendisca \u012aega"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u0623\u0648\u0644\u0627\u0646\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0644\u0627\u0646",
+        "\u062c\u0632\u0631 \u0623\u0648\u0644\u0627\u0646"
+    ],
+    "name:arg_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:ast_x_preferred":[
+        "Islles \u00c5land"
+    ],
+    "name:aze_x_preferred":[
+        "Aland adalar\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Aland Adalar\u0131"
+    ],
+    "name:bak_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434 \u0443\u0442\u0440\u0430\u0443\u0499\u0430\u0440\u044b"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0456\u044f \u0430\u0441\u0442\u0440\u0430\u0432\u044b"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043b\u044f\u043d\u0434\u0437\u043a\u0456\u044f \u0430\u0441\u0442\u0440\u0430\u0432\u044b"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u09b2\u09be\u09a8\u09cd\u09a6_\u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
+    ],
+    "name:ben_x_variant":[
+        "\u0986\u09b2\u09be\u09a8\u09cd\u09a1 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
+    ],
+    "name:bos_x_preferred":[
+        "Alandska ostrva"
+    ],
+    "name:bre_x_preferred":[
+        "Inizi \u00c5land"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438 \u043e-\u0432\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Illes \u00c5land"
+    ],
+    "name:ces_x_preferred":[
+        "Alandy"
+    ],
+    "name:cym_x_preferred":[
+        "Ynysoedd Aland"
+    ],
+    "name:dan_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:deu_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:deu_x_variant":[
+        "Alandinseln"
+    ],
+    "name:ell_x_preferred":[
+        "\u038f\u03bb\u03b1\u03bd\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03ae\u03c3\u03bf\u03b9 \u0386\u03bb\u03b1\u03bd\u03c4"
+    ],
+    "name:eng_x_colloquial":[
+        "Aland Islands"
+    ],
+    "name:eng_x_preferred":[
+        "Aland"
+    ],
+    "name:eng_x_variant":[
+        "\u00c5land Islands",
+        "Province of \u00c5land",
+        "\u00c5land",
+        "Aland Islands"
+    ],
+    "name:est_x_preferred":[
+        "Ahvenamaa"
+    ],
+    "name:eus_x_preferred":[
+        "Aland Uharteak"
+    ],
+    "name:ewe_x_preferred":[
+        "\u00c5land \u0192udomekpo nutome"
+    ],
+    "name:fao_x_preferred":[
+        "\u00c1land"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u0622\u0644\u0627\u0646\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Ahvenanmaa"
+    ],
+    "name:fin_x_variant":[
+        "Ahvenanmaan L\u00e4\u00e4ni"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:fra_x_variant":[
+        "\u00celes \u00c5land"
+    ],
+    "name:gle_x_preferred":[
+        "Oile\u00e1in Alaind"
+    ],
+    "name:glg_x_preferred":[
+        "Illas Aland"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0ab2\u0ac7\u0a82\u0aa1 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dc\u05e0\u05d3"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d9\u05d9 \u05d0\u05dc\u05e0\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0911\u0932\u0948\u0923\u094d\u0921_\u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+    ],
+    "name:hin_x_variant":[
+        "\u090f\u0932\u0948\u0902\u0921 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+    ],
+    "name:hrv_x_preferred":[
+        "Alandski otoci"
+    ],
+    "name:hun_x_preferred":[
+        "Aland-szigetek"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0561\u0576\u0564\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "Kepulauan Aland"
+    ],
+    "name:isl_x_preferred":[
+        "\u00c1landseyjar"
+    ],
+    "name:ita_x_preferred":[
+        "Isole \u00c5land"
+    ],
+    "name:ita_x_variant":[
+        "Isole Aland"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6"
+    ],
+    "name:kal_x_preferred":[
+        "\u00c5landi"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd \u0ca6\u0ccd\u0cb5\u0cc0\u0caa\u0c97\u0cb3\u0cc1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d0\u10dc\u10d3\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc62c\ub780\ub4dc \uc81c\ub3c4"
+    ],
+    "name:lav_x_preferred":[
+        "Olandes salas"
+    ],
+    "name:lit_x_preferred":[
+        "Aland\u0173 salos"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d32\u0d28\u0d4d\u200d\u0d21\u0d4d \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d41\u0d15\u0d33\u0d4d\u200d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u200d\u0945\u0932\u0901\u0921 \u092c\u0947\u091f\u0947"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:mlt_x_preferred":[
+        "G\u017cejjer Aland"
+    ],
+    "name:msa_x_preferred":[
+        "Kepulauan \u00c5land"
+    ],
+    "name:nep_x_preferred":[
+        "\u0905\u0932\u093e\u0928\u094d\u0921 \u091f\u093e\u092a\u0941"
+    ],
+    "name:nld_x_preferred":[
+        "\u00c5landeilanden"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:nob_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:nor_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b06\u0b32\u0b3e\u0b23\u0b4d\u0b21 \u0b06\u0b07\u0b38\u0b32\u0b4d\u0b5f\u0b3e\u0b23\u0b4d\u0b21"
+    ],
+    "name:pol_x_preferred":[
+        "Wyspy Alandzkie"
+    ],
+    "name:por_x_preferred":[
+        "Ilhas Aland"
+    ],
+    "name:por_x_variant":[
+        "Alanda"
+    ],
+    "name:roh_x_preferred":[
+        "Inslas Aland"
+    ],
+    "name:ron_x_preferred":[
+        "Insulele Aland"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043b\u0430\u043d\u0434\u044b",
+        "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e-\u0432\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d95\u0dbd\u0db1\u0dca\u0da9\u0dca \u0daf\u0dd6\u0db4\u0dad\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Alandsk\u00e9 ostrovy"
+    ],
+    "name:slv_x_preferred":[
+        "Alandsko oto\u010dje"
+    ],
+    "name:sme_x_preferred":[
+        "\u00c5l\u00e1nda"
+    ],
+    "name:spa_x_preferred":[
+        "Islas de \u00c5land"
+    ],
+    "name:spa_x_variant":[
+        "Islas \u00c5land"
+    ],
+    "name:sqi_x_preferred":[
+        "Ishujt Aland"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043b\u0430\u043d\u0434\u0441\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0430 \u043e\u0441\u0442\u0440\u0432\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Visiwa vya Aland"
+    ],
+    "name:swa_x_variant":[
+        "Visiwa vya Alandi"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:swe_x_variant":[
+        "\u00c5lands l\u00e4n",
+        "\u00c5lands L\u00e4n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1"
+    ],
+    "name:tam_x_variant":[
+        "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c32\u0c47\u0c02\u0c21\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e42\u0e2d\u0e25\u0e31\u0e19\u0e14\u0e4c"
+    ],
+    "name:tir_x_preferred":[
+        "\u12e8\u12a0\u120b\u1295\u12f5 \u12f0\u1234\u1276\u127d"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bbOtumotu \u02bbAlani"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:tur_x_variant":[
+        "Aland Adalar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Ahvenanmaa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0644\u06cc\u0646\u0688 \u0622\u0626\u0644\u06cc\u0646\u0688\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea7n \u0111\u1ea3o Aland"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u5170\u7fa4\u5c9b"
+    ],
+    "name:zul_x_preferred":[
+        "i-\u00c5land Islands"
+    ],
+    "ne:abbrev":"Fin.",
+    "ne:abbrev_len":4,
+    "ne:adm0_a3":"FIN",
+    "ne:adm0_a3_is":"FIN",
+    "ne:adm0_a3_un":-99,
+    "ne:adm0_a3_us":"FIN",
+    "ne:adm0_a3_wb":-99,
+    "ne:adm0_dif":1,
+    "ne:admin":"Finland",
+    "ne:brk_a3":"FIN",
+    "ne:brk_diff":0,
+    "ne:brk_group":null,
+    "ne:brk_name":"Finland",
+    "ne:continent":"Europe",
+    "ne:economy":"2. Developed region: nonG7",
+    "ne:featurecla":"Admin-0 country",
+    "ne:fips_10_":"FI",
+    "ne:formal_en":"Republic of Finland",
+    "ne:formal_fr":null,
+    "ne:gdp_md_est":193500,
+    "ne:gdp_year":-99,
+    "ne:geou_dif":0,
+    "ne:geounit":"Finland",
+    "ne:gu_a3":"FIN",
+    "ne:homepart":1,
+    "ne:income_grp":"1. High income: OECD",
+    "ne:iso_a2":"FI",
+    "ne:iso_a3":"FIN",
+    "ne:iso_n3":246,
+    "ne:labelrank":3,
+    "ne:lastcensus":2010,
+    "ne:level":2,
+    "ne:long_len":7,
+    "ne:mapcolor13":6,
+    "ne:mapcolor7":4,
+    "ne:mapcolor8":1,
+    "ne:mapcolor9":4,
+    "ne:name":"Finland",
+    "ne:name_alt":null,
+    "ne:name_len":7,
+    "ne:name_long":"Finland",
+    "ne:name_sort":"Finland",
+    "ne:note_adm0":null,
+    "ne:note_brk":null,
+    "ne:pop_est":5250275,
+    "ne:pop_year":-99,
+    "ne:postal":"FIN",
+    "ne:region_un":"Europe",
+    "ne:region_wb":"Europe & Central Asia",
+    "ne:scalerank":0,
+    "ne:sov_a3":"FI1",
+    "ne:sovereignt":"Finland",
+    "ne:su_a3":"FIN",
+    "ne:su_dif":0,
+    "ne:subregion":"Northern Europe",
+    "ne:subunit":"Finland",
+    "ne:tiny":-99,
+    "ne:type":"Country",
+    "ne:un_a3":"246",
+    "ne:wb_a2":"FI",
+    "ne:wb_a3":"FIN",
+    "ne:wikipedia":"-99",
+    "ne:woe_id":23424812,
+    "ne:woe_id_eh":23424812,
+    "ne:woe_note":"Exact WOE match as country",
+    "qs:a0":"Aland",
+    "qs:a0_lc":"FI721000",
+    "qs:adm0":"Aland",
+    "qs:adm0_a3":"ALD",
+    "qs:id":0,
+    "qs:level":"adm0",
+    "qs:source":"EuroGlobalMap",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:dial":"358",
+    "statoids:ds":"FIN",
+    "statoids:fifa":"ALD",
+    "statoids:gaul":"1242",
+    "statoids:gec":"",
+    "statoids:independent":"Part of FI",
+    "statoids:ioc":"",
+    "statoids:iso_a2":"AX",
+    "statoids:iso_a3":"ALA",
+    "statoids:iso_num":"248",
+    "statoids:itu":"",
+    "statoids:marc":"",
+    "statoids:name":"Aland",
+    "statoids:wmo":"",
+    "wd:wordcount":2936,
+    "wof:belongs":[
+        85633143,
+        136253047
+    ],
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191581,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fifa:id":"ALD",
+        "gaul:id":"1242",
+        "gn:id":661882,
+        "gp:id":12577865,
+        "m49:code":"248",
+        "qs:id":550574,
+        "uncrt:id":"FIN",
+        "wd:id":"Q5689"
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"FI",
+    "wof:geomhash":"3eb5545dcc60d2d08024d034ded5cc65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "dependency_id":85632789,
+            "empire_id":136253047
+        }
+    ],
+    "wof:id":85632789,
+    "wof:lang":[
+        "swe"
+    ],
+    "wof:lastmodified":1536617536,
+    "wof:name":"Aland",
+    "wof:parent_id":136253047,
+    "wof:placetype":"dependency",
+    "wof:placetype_alt":[
+        "region"
+    ],
+    "wof:population":26711,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"AX",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08400349999977,
+    59.45415899999983,
+    21.34539999999978,
+    60.87668249999985
+],
+  "geometry": {"coordinates":[[[21.18016599999979,59.49916899999982],[20.76075349999977,59.53248599999983],[20.38385949999977,59.45761149999984],[20.37744349999977,59.45645499999984],[20.37110349999978,59.45555099999984],[20.36465249999978,59.45486899999982],[20.35812199999978,59.45441099999982],[20.35154549999979,59.45417049999983],[20.34495749999979,59.45415899999983],[20.33837899999978,59.45437299999983],[20.33184449999979,59.45481099999984],[20.32538599999978,59.45547149999985],[20.31902899999977,59.45635199999984],[20.31279549999977,59.45744749999983],[20.30653549999977,59.45879349999984],[20.30046449999978,59.46036599999982],[20.29480949999979,59.46208199999984],[20.28939049999977,59.46398999999982],[20.28423099999978,59.46608399999982],[19.99439249999978,59.59110999999984],[19.94440649999979,59.59474599999984],[19.94189449999979,59.59649649999983],[19.79102299999977,59.70174],[19.79024099999978,59.70228599999984],[19.72401599999978,59.74848299999982],[19.65998099999979,59.79338499999983],[19.65157499999978,59.79927849999984],[19.57810599999979,59.85029999999983],[19.57172799999978,59.85472949999982],[19.56831949999977,59.85709749999984],[19.56175399999978,59.86165649999983],[19.42454149999978,59.95694349999982],[19.42412399999978,59.95723299999983],[19.37400599999978,59.99203849999984],[19.32624249999978,60.02520799999982],[19.24547399999977,60.08131099999983],[19.08400349999977,60.19346249999985],[19.09563449999979,60.21917349999984],[19.09899299999978,60.22673449999981],[19.10123249999978,60.23177749999982],[19.10350599999978,60.23692349999981],[19.12816049999978,60.29273199999982],[19.12988649999977,60.29844349999981],[19.14886649999977,60.36120599999984],[19.15215299999977,60.37207399999983],[19.15488049999979,60.37294749999983],[19.16105449999977,60.37492049999983],[19.22010399999979,60.61151549999983],[19.23355499999977,60.61455599999982],[19.47323249999977,60.66579099999984],[19.54546949999977,60.68114849999984],[19.55644799999979,60.68338049999983],[19.56737849999979,60.68542149999983],[19.57842049999979,60.68730999999983],[19.58957499999977,60.68903749999983],[19.60100949999978,60.69063249999981],[19.61235449999978,60.69203999999982],[19.62377949999978,60.69328349999983],[19.63545749999977,60.69438549999983],[19.79783999999978,60.70834799999983],[20.02506649999978,60.72755499999982],[20.1061,60.76200149999982],[20.20178799999977,60.80257099999983],[20.37762249999977,60.87668249999985],[20.72999749999977,60.72310649999983],[20.96991549999979,60.71290199999984],[21.06165099999978,60.63886249999985],[21.14314849999977,60.54843149999983],[21.14693249999979,60.53778449999984],[21.14966949999978,60.49872599999983],[21.14912799999979,60.49504499999983],[21.12816399999977,60.45907599999983],[21.11148999999978,60.38427749999983],[21.11726999999979,60.36728649999984],[21.11346449999976,60.32938749999983],[21.09098049999977,60.26521699999983],[21.09559999999979,60.25251399999981],[21.08450699999977,60.20188499999983],[21.05145049999979,60.19554499999983],[21.02435649999978,60.12393199999982],[21.11485499999978,60.07748049999984],[21.13038649999979,60.05269249999984],[21.14339999999979,59.98707949999982],[21.17078399999977,59.95002349999985],[21.23016549999977,59.93804549999984],[21.34539999999978,59.88544449999983],[21.30634699999979,59.82936499999982],[21.26275649999977,59.76187899999982],[21.18016599999979,59.49916899999982]]],"type":"Polygon"}
+}

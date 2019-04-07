@@ -1,0 +1,63 @@
+{
+  "id": 1209391103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.13333,64.33333,25.13333,64.33333",
+    "geom:latitude":64.33333,
+    "geom:longitude":25.13333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"174.0",
+    "gn:admin3_code":"678.0",
+    "gn:asciiname":"Kaepylae",
+    "gn:country_code":"FI",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":654209,
+    "gn:latitude":64.33333,
+    "gn:longitude":25.13333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"K\u00e4pyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":654209
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"23d605f67686c37b0b3544e8c8115903",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209391103
+        }
+    ],
+    "wof:id":1209391103,
+    "wof:lastmodified":1536288458,
+    "wof:name":"Kaepylae",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.13333,
+    64.33333,
+    25.13333,
+    64.33333
+],
+  "geometry": {"coordinates":[25.13333,64.33333],"type":"Point"}
+}

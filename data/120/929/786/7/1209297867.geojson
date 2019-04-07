@@ -1,0 +1,67 @@
+{
+  "id": 1209297867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96415,62.19224,21.96415,62.19224",
+    "geom:latitude":62.19224,
+    "geom:longitude":21.96415,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"141.0",
+    "gn:admin3_code":"151.0",
+    "gn:asciiname":"Heikkilae",
+    "gn:country_code":"FI",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":658431,
+    "gn:latitude":62.19224,
+    "gn:longitude":21.96415,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Heikkil\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heikkil\u00e4njoki",
+        "Heikkil\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":658431
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b42241ec90fd77dc8d0da11ed32e402f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209297867
+        }
+    ],
+    "wof:id":1209297867,
+    "wof:lastmodified":1537622286,
+    "wof:name":"Heikkilae",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96415,
+    62.19224000000001,
+    21.96415,
+    62.19224000000001
+],
+  "geometry": {"coordinates":[21.96415,62.19224000000001],"type":"Point"}
+}

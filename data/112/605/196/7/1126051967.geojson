@@ -1,0 +1,132 @@
+{
+  "id": 1126051967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.912918,60.464333,21.912918,60.464333",
+    "geom:latitude":60.464333,
+    "geom:longitude":21.912918,
+    "gn:gn_country":"FI",
+    "iso:country":"FI",
+    "lbl:latitude":60.464333,
+    "lbl:longitude":21.912918,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0440\u0438\u043c\u0430\u0441\u043a\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Merimasku"
+    ],
+    "name:eng_x_preferred":[
+        "Merimasku"
+    ],
+    "name:fin_x_preferred":[
+        "Merimasku"
+    ],
+    "name:fre_x_preferred":[
+        "Merimasku"
+    ],
+    "name:ger_x_preferred":[
+        "Merimasku"
+    ],
+    "name:ita_x_preferred":[
+        "Merimasku"
+    ],
+    "name:nob_x_preferred":[
+        "Merimasku"
+    ],
+    "name:rum_x_preferred":[
+        "Merimasku"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0440\u0438\u043c\u0430\u0441\u043a\u0443"
+    ],
+    "name:sme_x_preferred":[
+        "Merimasku"
+    ],
+    "name:swe_x_preferred":[
+        "Merimasku"
+    ],
+    "name:vie_x_preferred":[
+        "Merimasku"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:name":"Merimasku",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Varsinais-Suomen maakunta",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":977326,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":569720,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Varsinais-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198913,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":569720,
+        "qs_pg:id":977326,
+        "wd:id":"Q1025703"
+    },
+    "wof:country":"FI",
+    "wof:created":1497302820,
+    "wof:geomhash":"d03a8429fd27392285aae8ab0afdf628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198913,
+            "locality_id":1126051967,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1126051967,
+    "wof:lastmodified":1534379298,
+    "wof:name":"Merimasku",
+    "wof:parent_id":907198913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[
+        1125776271
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.912918,
+    60.464333,
+    21.912918,
+    60.464333
+],
+  "geometry": {"coordinates":[21.912918,60.464333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193132625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.14642,62.0716,29.14642,62.0716",
+    "geom:latitude":62.0716,
+    "geom:longitude":29.14642,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"740.0",
+    "gn:asciiname":"Riikola",
+    "gn:country_code":"FI",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":639381,
+    "gn:latitude":62.0716,
+    "gn:longitude":29.14642,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Riikola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683109,
+        102191581,
+        907198867,
+        85633143,
+        404227407,
+        136253047,
+        1159321493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639381
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"99487c54fba63236b212dc937e25e10c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321493,
+            "empire_id":136253047,
+            "localadmin_id":907198867,
+            "locality_id":1193132625,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":1193132625,
+    "wof:lastmodified":1536374154,
+    "wof:name":"Riikola",
+    "wof:parent_id":907198867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.14642000000001,
+    62.0716,
+    29.14642000000001,
+    62.0716
+],
+  "geometry": {"coordinates":[29.14642000000001,62.0716],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209200999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.06396,62.72924,26.06396,62.72924",
+    "geom:latitude":62.72924,
+    "geom:longitude":26.06396,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"135.0",
+    "gn:admin3_code":"992.0",
+    "gn:asciiname":"Haapakylae",
+    "gn:country_code":"FI",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":659659,
+    "gn:latitude":62.72924,
+    "gn:longitude":26.06396,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Haapakyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":659659
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e5f8e61126ee059611fde61681ab3398",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209200999
+        }
+    ],
+    "wof:id":1209200999,
+    "wof:lastmodified":1536294612,
+    "wof:name":"Haapakylae",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.06396,
+    62.72924,
+    26.06396,
+    62.72924
+],
+  "geometry": {"coordinates":[26.06396,62.72924],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1243376385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.86667,60.03333,22.86667,60.03333",
+    "geom:latitude":60.03333,
+    "geom:longitude":22.86667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"734.0",
+    "gn:asciiname":"Siksalo",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":636882,
+    "gn:latitude":60.03333,
+    "gn:longitude":22.86667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Siksalo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siksala",
+        "Siksalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198943,
+        85633143,
+        404227405,
+        136253047,
+        1159321585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":636882
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f3536999e4d251fa6b86498ab8205ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321585,
+            "empire_id":136253047,
+            "localadmin_id":907198943,
+            "locality_id":1243376385,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1243376385,
+    "wof:lastmodified":1537622162,
+    "wof:name":"Siksalo",
+    "wof:parent_id":907198943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.86667000000001,
+    60.03333000000001,
+    22.86667000000001,
+    60.03333000000001
+],
+  "geometry": {"coordinates":[22.86667000000001,60.03333000000001],"type":"Point"}
+}

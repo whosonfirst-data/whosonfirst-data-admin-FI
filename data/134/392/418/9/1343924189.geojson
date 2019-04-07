@@ -1,0 +1,75 @@
+{
+  "id": 1343924189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.15,64.73333,28.15,64.73333",
+    "geom:latitude":64.73333,
+    "geom:longitude":28.15,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"181.0",
+    "gn:admin3_code":"105.0",
+    "gn:asciiname":"Moerkoelae",
+    "gn:country_code":"FI",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":645834,
+    "gn:latitude":64.73333,
+    "gn:longitude":28.15,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"M\u00f6rk\u00f6l\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683137,
+        102191581,
+        907199531,
+        85633143,
+        404227415,
+        136253047,
+        1159321549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":645834
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"65e349a46a2f1b4a18a56ebe9143313b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321549,
+            "empire_id":136253047,
+            "localadmin_id":907199531,
+            "locality_id":1343924189,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":1343924189,
+    "wof:lastmodified":1537069411,
+    "wof:name":"Moerkoelae",
+    "wof:parent_id":907199531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.15,
+    64.73333000000001,
+    28.15,
+    64.73333000000001
+],
+  "geometry": {"coordinates":[28.15,64.73333000000001],"type":"Point"}
+}

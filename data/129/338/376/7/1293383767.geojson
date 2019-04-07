@@ -1,0 +1,79 @@
+{
+  "id": 1293383767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.23333,62.4,29.23333,62.4",
+    "geom:latitude":62.4,
+    "geom:longitude":29.23333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"740.0",
+    "gn:asciiname":"Kirvesmaeki",
+    "gn:country_code":"FI",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":652637,
+    "gn:latitude":62.4,
+    "gn:longitude":29.23333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kirvesm\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Knvesm\u00e4ki",
+        "Kirvesm\u00e4ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683109,
+        102191581,
+        907198867,
+        85633143,
+        404227407,
+        136253047,
+        1159321493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":652637
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"41df9d592156aab23d846faeb3e0e671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321493,
+            "empire_id":136253047,
+            "localadmin_id":907198867,
+            "locality_id":1293383767,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":1293383767,
+    "wof:lastmodified":1537622250,
+    "wof:name":"Kirvesmaeki",
+    "wof:parent_id":907198867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.23333,
+    62.4,
+    29.23333,
+    62.4
+],
+  "geometry": {"coordinates":[29.23333,62.4],"type":"Point"}
+}

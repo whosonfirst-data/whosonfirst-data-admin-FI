@@ -1,0 +1,75 @@
+{
+  "id": 1327445533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.59101,59.93785,23.59101,59.93785",
+    "geom:latitude":59.93785,
+    "geom:longitude":23.59101,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"710.0",
+    "gn:asciiname":"Svartbaeck",
+    "gn:country_code":"FI",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":635469,
+    "gn:latitude":59.93785,
+    "gn:longitude":23.59101,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Svartb\u00e4ck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907199747,
+        85633143,
+        404227411,
+        136253047,
+        1159321627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":635469
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"479bc66ca51d2c4681cee0e24cf794b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321627,
+            "empire_id":136253047,
+            "localadmin_id":907199747,
+            "locality_id":1327445533,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1327445533,
+    "wof:lastmodified":1536661756,
+    "wof:name":"Svartbaeck",
+    "wof:parent_id":907199747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.59101,
+    59.93785,
+    23.59101,
+    59.93785
+],
+  "geometry": {"coordinates":[23.59101,59.93785],"type":"Point"}
+}

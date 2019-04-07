@@ -1,0 +1,75 @@
+{
+  "id": 1226034025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.93333,62.1,27.93333,62.1",
+    "geom:latitude":62.1,
+    "geom:longitude":27.93333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"171.0",
+    "gn:asciiname":"Enonjoenmylly",
+    "gn:country_code":"FI",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660237,
+    "gn:latitude":62.1,
+    "gn:longitude":27.93333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Enonjoenmylly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683109,
+        102191581,
+        907198879,
+        85633143,
+        404227407,
+        136253047,
+        1159321615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660237
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"fee467fad830548b959239d314b3e5d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321615,
+            "empire_id":136253047,
+            "localadmin_id":907198879,
+            "locality_id":1226034025,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":1226034025,
+    "wof:lastmodified":1536741866,
+    "wof:name":"Enonjoenmylly",
+    "wof:parent_id":907198879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.93333,
+    62.1,
+    27.93333,
+    62.1
+],
+  "geometry": {"coordinates":[27.93333,62.1],"type":"Point"}
+}

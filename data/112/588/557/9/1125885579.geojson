@@ -1,0 +1,102 @@
+{
+  "id": 1125885579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3004,60.29972,22.3004,60.29972",
+    "geom:latitude":60.29972,
+    "geom:longitude":22.3004,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":15498,
+    "gn:population":15498,
+    "iso:country":"FI",
+    "lbl:latitude":60.29972,
+    "lbl:longitude":22.3004,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Pargas"
+    ],
+    "name:sun_x_historical":[
+        "L\u00e4nsi-Turunmaa"
+    ],
+    "name:sun_x_preferred":[
+        "L\u00e4nsi-Turunmaa"
+    ],
+    "name:sun_x_variant":[
+        "Parainen"
+    ],
+    "name:swe_x_historical":[
+        "V\u00e4st\u00e5boland"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00e4st\u00e5boland"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7911309,
+    "qs_pg:gn_pop":15498,
+    "qs_pg:name":"L\u00e4nsi-Turunmaa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":904352,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907199741,
+        85633143,
+        404227405,
+        136253047,
+        1159321605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7911309,
+        "qs_pg:id":904352
+    },
+    "wof:country":"FI",
+    "wof:created":1497295061,
+    "wof:geomhash":"82d2f8211645e11cbf559c5fb8655785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321605,
+            "empire_id":136253047,
+            "localadmin_id":907199741,
+            "locality_id":1125885579,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1125885579,
+    "wof:lastmodified":1529706486,
+    "wof:name":"L\u00e4nsi-Turunmaa",
+    "wof:parent_id":907199741,
+    "wof:placetype":"locality",
+    "wof:population":15498,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3004,
+    60.29972,
+    22.3004,
+    60.29972
+],
+  "geometry": {"coordinates":[22.3004,60.29972],"type":"Point"}
+}

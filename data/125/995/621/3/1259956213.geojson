@@ -1,0 +1,81 @@
+{
+  "id": 1259956213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83674,64.39435,25.83674,64.39435",
+    "geom:latitude":64.39435,
+    "geom:longitude":25.83674,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"175.0",
+    "gn:admin3_code":"791.0",
+    "gn:asciiname":"Sipola",
+    "gn:country_code":"FI",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":636714,
+    "gn:latitude":64.39435,
+    "gn:longitude":25.83674,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Sipola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sipola"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043f\u043e\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199755,
+        85633143,
+        404227415,
+        136253047,
+        1159321571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":636714
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"066c5938f4ceff43aa6f0c80b284a317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321571,
+            "empire_id":136253047,
+            "localadmin_id":907199755,
+            "locality_id":1259956213,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1259956213,
+    "wof:lastmodified":1537622161,
+    "wof:name":"Sipola",
+    "wof:parent_id":907199755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83674,
+    64.39435,
+    25.83674,
+    64.39435
+],
+  "geometry": {"coordinates":[25.83674,64.39435],"type":"Point"}
+}

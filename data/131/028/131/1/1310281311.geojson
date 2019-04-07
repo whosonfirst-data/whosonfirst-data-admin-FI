@@ -1,0 +1,80 @@
+{
+  "id": 1310281311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.36769,64.38832,24.36769,64.38832",
+    "geom:latitude":64.38832,
+    "geom:longitude":24.36769,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"174.0",
+    "gn:admin3_code":"625.0",
+    "gn:asciiname":"Ylinenoja",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630845,
+    "gn:latitude":64.38832,
+    "gn:longitude":24.36769,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Ylinenoja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ylisenoja",
+        "Ylinenoja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199655,
+        85633143,
+        404227415,
+        136253047,
+        1159321631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630845
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"bddc94b1808b09bad6209c887f10585d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321631,
+            "empire_id":136253047,
+            "localadmin_id":907199655,
+            "locality_id":1310281311,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1310281311,
+    "wof:lastmodified":1537622129,
+    "wof:name":"Ylinenoja",
+    "wof:parent_id":907199655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.36769,
+    64.38832,
+    24.36769,
+    64.38832
+],
+  "geometry": {"coordinates":[24.36769,64.38831999999999],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259997279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.80704,60.42042,24.80704,60.42042",
+    "geom:latitude":60.42042,
+    "geom:longitude":24.80704,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"543.0",
+    "gn:asciiname":"Viitastenkulma",
+    "gn:country_code":"FI",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":847381,
+    "gn:latitude":60.42042,
+    "gn:longitude":24.80704,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Viitastenkulma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198599,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":847381
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ebf70df22cf04016b076ed776c5271e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198599,
+            "locality_id":1259997279,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1259997279,
+    "wof:lastmodified":1536612793,
+    "wof:name":"Viitastenkulma",
+    "wof:parent_id":907198599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.80704,
+    60.42041999999999,
+    24.80704,
+    60.42041999999999
+],
+  "geometry": {"coordinates":[24.80704,60.42041999999999],"type":"Point"}
+}

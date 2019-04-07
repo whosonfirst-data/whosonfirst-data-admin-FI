@@ -1,0 +1,75 @@
+{
+  "id": 1310596117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.65715,61.55261,29.65715,61.55261",
+    "geom:latitude":61.55261,
+    "geom:longitude":29.65715,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"93.0",
+    "gn:admin3_code":"580.0",
+    "gn:asciiname":"Tyrjae",
+    "gn:country_code":"FI",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":633547,
+    "gn:latitude":61.55261,
+    "gn:longitude":29.65715,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Tyrj\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198853,
+        85633143,
+        404227411,
+        136253047,
+        1159321507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":633547
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3ef2e7bb9cbe2d0d4959de2d6ddb2130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321507,
+            "empire_id":136253047,
+            "localadmin_id":907198853,
+            "locality_id":1310596117,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":1310596117,
+    "wof:lastmodified":1536786732,
+    "wof:name":"Tyrjae",
+    "wof:parent_id":907198853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.65715,
+    61.55261,
+    29.65715,
+    61.55261
+],
+  "geometry": {"coordinates":[29.65715,61.55261],"type":"Point"}
+}

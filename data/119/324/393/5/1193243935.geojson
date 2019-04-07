@@ -1,0 +1,76 @@
+{
+  "id": 1193243935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.41667,66.83333,25.41667,66.83333",
+    "geom:latitude":66.83333,
+    "geom:longitude":25.41667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"191.0",
+    "gn:admin3_code":"698.0",
+    "gn:asciiname":"Ounasjoki",
+    "gn:country_code":"FI",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643476,
+    "gn:latitude":66.83333,
+    "gn:longitude":25.41667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Ounasjoki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199591,
+        85633143,
+        404227409,
+        136253047,
+        1159321523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643476,
+        "wk:page":"Ounasjoki"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2a14fcfee88989b1c068340052de5bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321523,
+            "empire_id":136253047,
+            "localadmin_id":907199591,
+            "locality_id":1193243935,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1193243935,
+    "wof:lastmodified":1537562786,
+    "wof:name":"Ounasjoki",
+    "wof:parent_id":907199591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41667,
+    66.83333,
+    25.41667,
+    66.83333
+],
+  "geometry": {"coordinates":[25.41667,66.83333],"type":"Point"}
+}

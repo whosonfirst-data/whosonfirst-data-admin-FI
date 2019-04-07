@@ -1,0 +1,75 @@
+{
+  "id": 1327107773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2,63.65,23.2,63.65",
+    "geom:latitude":63.65,
+    "geom:longitude":23.2,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"154.0",
+    "gn:admin3_code":"288.0",
+    "gn:asciiname":"Asplund",
+    "gn:country_code":"FI",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660918,
+    "gn:latitude":63.65,
+    "gn:longitude":23.2,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Asplund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199669,
+        85633143,
+        404227417,
+        136253047,
+        1159321639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660918
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"189b8b4ff7404d1001b57d5a79acb491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321639,
+            "empire_id":136253047,
+            "localadmin_id":907199669,
+            "locality_id":1327107773,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1327107773,
+    "wof:lastmodified":1536651641,
+    "wof:name":"Asplund",
+    "wof:parent_id":907199669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2,
+    63.65,
+    23.2,
+    63.65
+],
+  "geometry": {"coordinates":[23.2,63.65],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1326634039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.19705,60.62411,26.19705,60.62411",
+    "geom:latitude":60.62411,
+    "geom:longitude":26.19705,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"16.0",
+    "gn:admin3_code":"407.0",
+    "gn:asciiname":"Kapellby",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":654235,
+    "gn:latitude":60.62411,
+    "gn:longitude":26.19705,
+    "gn:modification_date":"2016-08-28",
+    "gn:name":"Kapellby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kirkonkyl\u00e4"
+    ],
+    "name:swe_x_preferred":[
+        "Kapellby"
+    ],
+    "name:und_x_variant":[
+        "Kapelby",
+        "Kapellby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198607,
+        85633143,
+        404227411,
+        136253047,
+        1159321525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":654235
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"cb364f78c39d6df4a69e94e7fd3efbf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321525,
+            "empire_id":136253047,
+            "localadmin_id":907198607,
+            "locality_id":1326634039,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1326634039,
+    "wof:lastmodified":1537622261,
+    "wof:name":"Kapellby",
+    "wof:parent_id":907198607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.19705,
+    60.62411,
+    26.19705,
+    60.62411
+],
+  "geometry": {"coordinates":[26.19705,60.62411],"type":"Point"}
+}

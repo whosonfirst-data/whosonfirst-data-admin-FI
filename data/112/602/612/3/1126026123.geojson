@@ -1,0 +1,104 @@
+{
+  "id": 1126026123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25,68.13333,24.25,68.13333",
+    "geom:latitude":68.13333,
+    "geom:longitude":24.25,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":68.13333,
+    "lbl:longitude":24.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Raattama"
+    ],
+    "name:fin_x_preferred":[
+        "Raattama"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0442\u0442\u0430\u043c\u0430"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":640208,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Raattama",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Lapin maakunta",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":681830,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":571883,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Lapin maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199565,
+        85633143,
+        404227409,
+        136253047,
+        1159321583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":640208,
+        "gp:id":571883,
+        "qs_pg:id":681830,
+        "wd:id":"Q11889617"
+    },
+    "wof:country":"FI",
+    "wof:created":1497301151,
+    "wof:geomhash":"42a85a5afae0ce44825ea2f03f29b8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321583,
+            "empire_id":136253047,
+            "localadmin_id":907199565,
+            "locality_id":1126026123,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1126026123,
+    "wof:lastmodified":1529708138,
+    "wof:name":"Raattama",
+    "wof:parent_id":907199565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25,
+    68.13333,
+    24.25,
+    68.13333
+],
+  "geometry": {"coordinates":[24.25,68.13333],"type":"Point"}
+}

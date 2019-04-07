@@ -1,0 +1,75 @@
+{
+  "id": 1293255831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25779,63.90585,24.25779,63.90585",
+    "geom:latitude":63.90585,
+    "geom:longitude":24.25779,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"177.0",
+    "gn:admin3_code":"746.0",
+    "gn:asciiname":"Huhtala",
+    "gn:country_code":"FI",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":657219,
+    "gn:latitude":63.90585,
+    "gn:longitude":24.25779,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Huhtala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199347,
+        85633143,
+        404227415,
+        136253047,
+        1159321569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":657219
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5b8c2ba43846ca031b0033ae53d9f407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321569,
+            "empire_id":136253047,
+            "localadmin_id":907199347,
+            "locality_id":1293255831,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1293255831,
+    "wof:lastmodified":1536622009,
+    "wof:name":"Huhtala",
+    "wof:parent_id":907199347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25779,
+    63.90585,
+    24.25779,
+    63.90585
+],
+  "geometry": {"coordinates":[24.25779,63.90585],"type":"Point"}
+}

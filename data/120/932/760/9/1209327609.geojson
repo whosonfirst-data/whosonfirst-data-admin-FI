@@ -1,0 +1,78 @@
+{
+  "id": 1209327609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.9543,60.24624,22.9543,60.24624",
+    "geom:latitude":60.24624,
+    "geom:longitude":22.9543,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"734.0",
+    "gn:asciiname":"Talonpojan Teijo",
+    "gn:country_code":"FI",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11287728,
+    "gn:latitude":60.24624,
+    "gn:longitude":22.9543,
+    "gn:modification_date":"2016-11-13",
+    "gn:name":"Talonpojan Teijo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Bondtyk\u00f6"
+    ],
+    "name:isl_x_preferred":[
+        "Bondtyk\u00f6"
+    ],
+    "name:nno_x_preferred":[
+        "Bondtyk\u00f6"
+    ],
+    "name:nob_x_preferred":[
+        "Bondtyk\u00f6"
+    ],
+    "name:swe_x_preferred":[
+        "Bondtyk\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11287728
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"01e92058597f82f32c2676b875b7ea08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209327609
+        }
+    ],
+    "wof:id":1209327609,
+    "wof:lastmodified":1537622354,
+    "wof:name":"Talonpojan Teijo",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.9543,
+    60.24624,
+    22.9543,
+    60.24624
+],
+  "geometry": {"coordinates":[22.9543,60.24624],"type":"Point"}
+}

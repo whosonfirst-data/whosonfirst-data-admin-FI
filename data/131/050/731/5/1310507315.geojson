@@ -1,0 +1,75 @@
+{
+  "id": 1310507315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57227,61.15653,21.57227,61.15653",
+    "geom:latitude":61.15653,
+    "geom:longitude":21.57227,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"684.0",
+    "gn:asciiname":"Impivaara",
+    "gn:country_code":"FI",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7647329,
+    "gn:latitude":61.15653,
+    "gn:longitude":21.57227,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Impivaara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907198665,
+        85633143,
+        404227405,
+        136253047,
+        1159321607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7647329
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7d7122ceecfcc7abba76264df5d8bdbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321607,
+            "empire_id":136253047,
+            "localadmin_id":907198665,
+            "locality_id":1310507315,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1310507315,
+    "wof:lastmodified":1536914714,
+    "wof:name":"Impivaara",
+    "wof:parent_id":907198665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57227,
+    61.15653,
+    21.57227,
+    61.15653
+],
+  "geometry": {"coordinates":[21.57227,61.15653],"type":"Point"}
+}

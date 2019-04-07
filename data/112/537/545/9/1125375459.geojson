@@ -1,0 +1,136 @@
+{
+  "id": 1125375459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-12-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36904,60.40724,22.36904,60.40724",
+    "geom:latitude":60.40724,
+    "geom:longitude":22.36904,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":21684,
+    "gn:population":21684,
+    "iso:country":"FI",
+    "lbl:latitude":60.40724,
+    "lbl:longitude":22.36904,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "S:t Karins"
+    ],
+    "name:deu_x_preferred":[
+        "Kaarina"
+    ],
+    "name:eng_x_preferred":[
+        "Kaarina"
+    ],
+    "name:fin_x_preferred":[
+        "Kaarina"
+    ],
+    "name:fra_x_preferred":[
+        "Kaarina"
+    ],
+    "name:isl_x_preferred":[
+        "S:t Karins"
+    ],
+    "name:nld_x_preferred":[
+        "Kaarina"
+    ],
+    "name:nor_x_preferred":[
+        "St Karins"
+    ],
+    "name:pol_x_preferred":[
+        "Kaarina"
+    ],
+    "name:ron_x_preferred":[
+        "Kaarina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "S:t Karins"
+    ],
+    "name:unk_x_variant":[
+        "Saint Karin"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":655130,
+    "qs_pg:gn_pop":21684,
+    "qs_pg:name":"Kaarina",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Varsinais-Suomen maakunta",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":14,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3091,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":953668,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":12590916,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Varsinais-Suomen maakunta",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":655130,
+        "gp:id":12590916,
+        "qs_pg:id":953668
+    },
+    "wof:country":"FI",
+    "wof:created":1497047704,
+    "wof:geomhash":"4f19e90621fbb2f6bd434efca15353b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":1125375459,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1125375459,
+    "wof:lastmodified":1544223146,
+    "wof:name":"Kaarina",
+    "wof:parent_id":1159321603,
+    "wof:placetype":"localadmin",
+    "wof:population":21684,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36904,
+    60.40724,
+    22.36904,
+    60.40724
+],
+  "geometry": {"coordinates":[22.36904,60.40724],"type":"Point"}
+}

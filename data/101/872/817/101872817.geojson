@@ -1,0 +1,113 @@
+{
+  "id": 101872817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.864097,63.101985,23.864097,63.101985",
+    "geom:latitude":63.101985,
+    "geom:longitude":23.864097,
+    "iso:country":"FI",
+    "lbl:latitude":63.101985,
+    "lbl:longitude":23.864097,
+    "mps:latitude":63.101985,
+    "mps:longitude":23.864097,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Luoma-aho"
+    ],
+    "name:dut_x_preferred":[
+        "Luoma-aho"
+    ],
+    "name:eng_x_preferred":[
+        "Luoma-aho"
+    ],
+    "name:fin_x_preferred":[
+        "Luoma-aho"
+    ],
+    "name:fre_x_preferred":[
+        "Luoma-aho"
+    ],
+    "name:ger_x_preferred":[
+        "Luoma-aho"
+    ],
+    "name:ita_x_preferred":[
+        "Luoma-aho"
+    ],
+    "name:oci_x_preferred":[
+        "Luoma-aho"
+    ],
+    "name:spa_x_preferred":[
+        "Luoma-aho"
+    ],
+    "name:swe_x_preferred":[
+        "Luoma-aho"
+    ],
+    "qs:a0":"Suomi#Finland",
+    "qs:a1":"*Etel\u00e4-Pohjanmaa#S\u00f6dra \u00d6sterbotten",
+    "qs:a1r":"0L\u00e4nsi- ja Sis\u00e4-Suomen AVI#V\u00e4stra och Inre Finlands RFV",
+    "qs:adm0":"Suomi#Finland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Luoma-aho",
+    "qs:loc_alt":"Luoma-aho",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199105,
+        85633143,
+        404227417,
+        136253047,
+        1159321567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":647416,
+        "gp:id":569280,
+        "qs:id":4,
+        "wd:id":"Q8304"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"157249bd6eceaa73a8c18d5c1c304002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321567,
+            "empire_id":136253047,
+            "localadmin_id":907199105,
+            "locality_id":101872817,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":101872817,
+    "wof:lastmodified":1544751340,
+    "wof:name":"Luoma-aho",
+    "wof:parent_id":907199105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.864097,
+    63.101985,
+    23.864097,
+    63.101985
+],
+  "geometry": {"coordinates":[23.864097,63.101985],"type":"Point"}
+}

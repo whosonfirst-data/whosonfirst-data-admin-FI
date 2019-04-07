@@ -1,0 +1,117 @@
+{
+  "id": 1125830909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.28333,62.35,24.28333,62.35",
+    "geom:latitude":62.35,
+    "geom:longitude":24.28333,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":62.35,
+    "lbl:longitude":24.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Pihlajavesi"
+    ],
+    "name:est_x_preferred":[
+        "Pihlajavesi vald"
+    ],
+    "name:fin_x_preferred":[
+        "Pihlajavesi"
+    ],
+    "name:fre_x_preferred":[
+        "Pihlajavesi"
+    ],
+    "name:ger_x_preferred":[
+        "Pihlajavesi"
+    ],
+    "name:nob_x_preferred":[
+        "Pihlajavesi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0445\u043b\u0430\u044f\u0432\u0435\u0441\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Pihlajavesi"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":641676,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pihlajavesi",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Keski-Suomen maakunta",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":343144,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":571391,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Keski-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199179,
+        85633143,
+        404227417,
+        136253047,
+        1159321499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":641676,
+        "gp:id":571391,
+        "qs_pg:id":343144,
+        "wd:id":"Q3045373"
+    },
+    "wof:country":"FI",
+    "wof:created":1497292494,
+    "wof:geomhash":"1a6cb27ed462b5c06f8c7f1eafdb9af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321499,
+            "empire_id":136253047,
+            "localadmin_id":907199179,
+            "locality_id":1125830909,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1125830909,
+    "wof:lastmodified":1529706351,
+    "wof:name":"Pihlajavesi",
+    "wof:parent_id":907199179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.28333,
+    62.35,
+    24.28333,
+    62.35
+],
+  "geometry": {"coordinates":[24.28333,62.35],"type":"Point"}
+}

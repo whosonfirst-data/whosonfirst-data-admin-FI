@@ -1,0 +1,78 @@
+{
+  "id": 1327317151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00712,62.67928,22.00712,62.67928",
+    "geom:latitude":62.67928,
+    "geom:longitude":22.00712,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"301.0",
+    "gn:asciiname":"Vainionpaeaenloukko",
+    "gn:country_code":"FI",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101327,
+    "gn:latitude":62.67928,
+    "gn:longitude":22.00712,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Vainionp\u00e4\u00e4nloukko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Vainionp\u00e4\u00e4nloukko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199007,
+        85633143,
+        404227417,
+        136253047,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101327
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"68968bdb536b041eeeb1f76c8dc8828d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199007,
+            "locality_id":1327317151,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1327317151,
+    "wof:lastmodified":1537622326,
+    "wof:name":"Vainionpaeaenloukko",
+    "wof:parent_id":907199007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00712,
+    62.67928000000001,
+    22.00712,
+    62.67928000000001
+],
+  "geometry": {"coordinates":[22.00712,62.67928000000001],"type":"Point"}
+}

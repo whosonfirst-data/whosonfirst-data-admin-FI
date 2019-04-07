@@ -1,0 +1,81 @@
+{
+  "id": 1293897395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.101,60.26188,25.101,60.26188",
+    "geom:latitude":60.26188,
+    "geom:longitude":25.101,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"92.0",
+    "gn:asciiname":"Kuussilta",
+    "gn:country_code":"FI",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101540,
+    "gn:latitude":60.26188,
+    "gn:longitude":25.101,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Kuussilta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kuussilta"
+    ],
+    "name:swe_x_preferred":[
+        "Sexbro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907199651,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101540
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"14996df81053bc5fc49c769de929f4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907199651,
+            "locality_id":1293897395,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1293897395,
+    "wof:lastmodified":1537622334,
+    "wof:name":"Kuussilta",
+    "wof:parent_id":907199651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.101,
+    60.26188000000001,
+    25.101,
+    60.26188000000001
+],
+  "geometry": {"coordinates":[25.101,60.26188000000001],"type":"Point"}
+}

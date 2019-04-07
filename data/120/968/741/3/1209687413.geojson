@@ -1,0 +1,68 @@
+{
+  "id": 1209687413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.11945,64.04709,24.11945,64.04709",
+    "geom:latitude":64.04709,
+    "geom:longitude":24.11945,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"177.0",
+    "gn:admin3_code":"208.0",
+    "gn:asciiname":"Pahkamaa",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643209,
+    "gn:latitude":64.04709,
+    "gn:longitude":24.11945,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Pahkamaa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pahkama",
+        "Pahkamaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643209
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4964c8a7a5caaa1ffd5cdd13a2bbcd3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209687413
+        }
+    ],
+    "wof:id":1209687413,
+    "wof:lastmodified":1537622196,
+    "wof:name":"Pahkamaa",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.11945,
+    64.04709,
+    24.11945,
+    64.04709
+],
+  "geometry": {"coordinates":[24.11945,64.04709],"type":"Point"}
+}

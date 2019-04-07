@@ -1,0 +1,90 @@
+{
+  "id": 1310414739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94546,60.13937,22.94546,60.13937",
+    "geom:latitude":60.13937,
+    "geom:longitude":22.94546,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"734.0",
+    "gn:asciiname":"Finnari",
+    "gn:country_code":"FI",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11169170,
+    "gn:latitude":60.13937,
+    "gn:longitude":22.94546,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Finnari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Finnarv"
+    ],
+    "name:isl_x_preferred":[
+        "Finnarv"
+    ],
+    "name:nno_x_preferred":[
+        "Finnarv"
+    ],
+    "name:nob_x_preferred":[
+        "Finnarv"
+    ],
+    "name:swe_x_preferred":[
+        "Finnarv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198943,
+        85633143,
+        404227405,
+        136253047,
+        1159321585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11169170
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"fcf2abfb7fef842f5eca9e68892c2421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321585,
+            "empire_id":136253047,
+            "localadmin_id":907198943,
+            "locality_id":1310414739,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1310414739,
+    "wof:lastmodified":1537622352,
+    "wof:name":"Finnari",
+    "wof:parent_id":907198943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94546,
+    60.13936999999999,
+    22.94546,
+    60.13936999999999
+],
+  "geometry": {"coordinates":[22.94546,60.13936999999999],"type":"Point"}
+}

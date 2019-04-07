@@ -1,0 +1,75 @@
+{
+  "id": 1226723741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9,63.05,23.9,63.05",
+    "geom:latitude":63.05,
+    "geom:longitude":23.9,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"146.0",
+    "gn:admin3_code":"5.0",
+    "gn:asciiname":"Aukeopaeae",
+    "gn:country_code":"FI",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660885,
+    "gn:latitude":63.05,
+    "gn:longitude":23.9,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Aukeop\u00e4\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199105,
+        85633143,
+        404227417,
+        136253047,
+        1159321567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660885
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"deb20667dc838b7704a11d4dcc322a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321567,
+            "empire_id":136253047,
+            "localadmin_id":907199105,
+            "locality_id":1226723741,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1226723741,
+    "wof:lastmodified":1536747087,
+    "wof:name":"Aukeopaeae",
+    "wof:parent_id":907199105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9,
+    63.05,
+    23.9,
+    63.05
+],
+  "geometry": {"coordinates":[23.9,63.05],"type":"Point"}
+}

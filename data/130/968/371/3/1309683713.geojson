@@ -1,0 +1,75 @@
+{
+  "id": 1309683713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.64396,64.07314,23.64396,64.07314",
+    "geom:latitude":64.07314,
+    "geom:longitude":23.64396,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"177.0",
+    "gn:admin3_code":"208.0",
+    "gn:asciiname":"Lahdensuu",
+    "gn:country_code":"FI",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649452,
+    "gn:latitude":64.07314,
+    "gn:longitude":23.64396,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Lahdensuu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199617,
+        85633143,
+        404227415,
+        136253047,
+        1159321569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649452
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"73bafa3f4037e616393f63c3b1204c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321569,
+            "empire_id":136253047,
+            "localadmin_id":907199617,
+            "locality_id":1309683713,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1309683713,
+    "wof:lastmodified":1536607430,
+    "wof:name":"Lahdensuu",
+    "wof:parent_id":907199617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64396,
+    64.07314000000001,
+    23.64396,
+    64.07314000000001
+],
+  "geometry": {"coordinates":[23.64396,64.07314000000001],"type":"Point"}
+}

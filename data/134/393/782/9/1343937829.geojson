@@ -1,0 +1,75 @@
+{
+  "id": 1343937829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.16667,63.73333,29.16667,63.73333",
+    "geom:latitude":63.73333,
+    "geom:longitude":29.16667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"125.0",
+    "gn:admin3_code":"541.0",
+    "gn:asciiname":"Loutulehto",
+    "gn:country_code":"FI",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":647579,
+    "gn:latitude":63.73333,
+    "gn:longitude":29.16667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Loutulehto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199409,
+        85633143,
+        404227407,
+        136253047,
+        1159321575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":647579
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6416c329de5fc7e28e5c7903bc56b45f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321575,
+            "empire_id":136253047,
+            "localadmin_id":907199409,
+            "locality_id":1343937829,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1343937829,
+    "wof:lastmodified":1537050609,
+    "wof:name":"Loutulehto",
+    "wof:parent_id":907199409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.16667,
+    63.73333,
+    29.16667,
+    63.73333
+],
+  "geometry": {"coordinates":[29.16667,63.73333],"type":"Point"}
+}

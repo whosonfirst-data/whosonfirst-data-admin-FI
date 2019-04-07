@@ -1,0 +1,104 @@
+{
+  "id": 1126058223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.590836,65.910226,24.590836,65.910226",
+    "geom:latitude":65.910226,
+    "geom:longitude":24.590836,
+    "gn:gn_country":null,
+    "iso:country":"FI",
+    "lbl:latitude":65.910226,
+    "lbl:longitude":24.590836,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "T\u00f6rm\u00e4"
+    ],
+    "name:dut_x_preferred":[
+        "T\u00f6rm\u00e4"
+    ],
+    "name:eng_x_preferred":[
+        "T\u00f6rm\u00e4"
+    ],
+    "name:fin_x_preferred":[
+        "T\u00f6rm\u00e4"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0631\u0645\u0627"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"T\u00f6rm\u00e4",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Lapin maakunta",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1070395,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":29305498,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Lapin maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199569,
+        85633143,
+        404227409,
+        136253047,
+        1159321559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29305498,
+        "qs_pg:id":1070395,
+        "wd:id":"Q4413407"
+    },
+    "wof:country":"FI",
+    "wof:created":1497303574,
+    "wof:geomhash":"166ecaed53f0f36bc670184e99ca0a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321559,
+            "empire_id":136253047,
+            "localadmin_id":907199569,
+            "locality_id":1126058223,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1126058223,
+    "wof:lastmodified":1529708141,
+    "wof:name":"T\u00f6rm\u00e4",
+    "wof:parent_id":907199569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.590836,
+    65.910226,
+    24.590836,
+    65.910226
+],
+  "geometry": {"coordinates":[24.590836,65.91022599999999],"type":"Point"}
+}

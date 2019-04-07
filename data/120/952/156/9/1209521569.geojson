@@ -1,0 +1,81 @@
+{
+  "id": 1209521569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.76203,61.50272,21.76203,61.50272",
+    "geom:latitude":61.50272,
+    "geom:longitude":21.76203,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"609.0",
+    "gn:asciiname":"Hanhiluoto",
+    "gn:country_code":"FI",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7647297,
+    "gn:latitude":61.50272,
+    "gn:longitude":21.76203,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Hanhiluoto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "G\u00e5sholmen"
+    ],
+    "name:isl_x_preferred":[
+        "G\u00e5sholmen"
+    ],
+    "name:nno_x_preferred":[
+        "G\u00e5sholmen"
+    ],
+    "name:nob_x_preferred":[
+        "G\u00e5sholmen"
+    ],
+    "name:nor_x_preferred":[
+        "G\u00e5sholmen"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00e5sholmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7647297
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"af80e831892e360a895965f2ec365f2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209521569
+        }
+    ],
+    "wof:id":1209521569,
+    "wof:lastmodified":1537622317,
+    "wof:name":"Hanhiluoto",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.76203,
+    61.50272,
+    21.76203,
+    61.50272
+],
+  "geometry": {"coordinates":[21.76203,61.50272],"type":"Point"}
+}

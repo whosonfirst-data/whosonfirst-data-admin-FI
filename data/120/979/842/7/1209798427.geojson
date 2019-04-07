@@ -1,0 +1,78 @@
+{
+  "id": 1209798427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25854,63.12219,22.25854,63.12219",
+    "geom:latitude":63.12219,
+    "geom:longitude":22.25854,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"946.0",
+    "gn:asciiname":"Lomby",
+    "gn:country_code":"FI",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10102348,
+    "gn:latitude":63.12219,
+    "gn:longitude":22.25854,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Lomby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Lomby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199763,
+        85633143,
+        404227417,
+        136253047,
+        1159321501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10102348
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b32ff2d3f25c1fe74d83c59e1f5aaa23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321501,
+            "empire_id":136253047,
+            "localadmin_id":907199763,
+            "locality_id":1209798427,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1209798427,
+    "wof:lastmodified":1537622348,
+    "wof:name":"Lomby",
+    "wof:parent_id":907199763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25854,
+    63.12219,
+    22.25854,
+    63.12219
+],
+  "geometry": {"coordinates":[22.25854,63.12219],"type":"Point"}
+}

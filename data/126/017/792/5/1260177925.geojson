@@ -1,0 +1,75 @@
+{
+  "id": 1260177925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.95335,60.71317,27.95335,60.71317",
+    "geom:latitude":60.71317,
+    "geom:longitude":27.95335,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"405.0",
+    "gn:asciiname":"Hujakkala",
+    "gn:country_code":"FI",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":657178,
+    "gn:latitude":60.71317,
+    "gn:longitude":27.95335,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Hujakkala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198887,
+        85633143,
+        404227411,
+        136253047,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":657178
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4a67fa5f44c7b8649e43d47b599e8fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198887,
+            "locality_id":1260177925,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":1260177925,
+    "wof:lastmodified":1536854537,
+    "wof:name":"Hujakkala",
+    "wof:parent_id":907198887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.95335,
+    60.71317,
+    27.95335,
+    60.71317
+],
+  "geometry": {"coordinates":[27.95335,60.71317],"type":"Point"}
+}

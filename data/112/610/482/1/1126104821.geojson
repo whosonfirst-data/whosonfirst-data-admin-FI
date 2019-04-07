@@ -1,0 +1,105 @@
+{
+  "id": 1126104821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.73713,64.23206,27.73713,64.23206",
+    "geom:latitude":64.23206,
+    "geom:longitude":27.73713,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":64.23206,
+    "lbl:longitude":27.73713,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Teppana"
+    ],
+    "name:unk_x_variant":[
+        "Teppana"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":634718,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Teppana",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Kainuun maakunta",
+    "qs_pg:photos":359,
+    "qs_pg:photos_1k":73,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":359,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1115922,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":573863,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Kainuun maakunta",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        907199455,
+        85633143,
+        404227415,
+        101814401,
+        136253047,
+        1159321487,
+        85683137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":634718,
+        "gp:id":573863,
+        "qs:id":1115922,
+        "qs_pg:id":1115922
+    },
+    "wof:country":"FI",
+    "wof:created":1497316723,
+    "wof:geomhash":"0f648f6aefc2839fc0cccba3da142d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199455,
+            "locality_id":101814401,
+            "macroregion_id":404227415,
+            "neighbourhood_id":1126104821,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":1126104821,
+    "wof:lastmodified":1534379299,
+    "wof:name":"Teppana",
+    "wof:parent_id":101814401,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85898911
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73713,
+    64.23206,
+    27.73713,
+    64.23206
+],
+  "geometry": {"coordinates":[27.73713,64.23206],"type":"Point"}
+}

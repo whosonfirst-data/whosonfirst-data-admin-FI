@@ -1,0 +1,75 @@
+{
+  "id": 1343847089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.00867,61.55837,28.00867,61.55837",
+    "geom:latitude":61.55837,
+    "geom:longitude":28.00867,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"623.0",
+    "gn:asciiname":"Pistohiekka",
+    "gn:country_code":"FI",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7647695,
+    "gn:latitude":61.55837,
+    "gn:longitude":28.00867,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Pistohiekka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683109,
+        102191581,
+        907198757,
+        85633143,
+        404227407,
+        136253047,
+        1159321539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7647695
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6f69eab1a95838d4702c4d1730447115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321539,
+            "empire_id":136253047,
+            "localadmin_id":907198757,
+            "locality_id":1343847089,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":1343847089,
+    "wof:lastmodified":1536685903,
+    "wof:name":"Pistohiekka",
+    "wof:parent_id":907198757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.00867,
+    61.55837,
+    28.00867,
+    61.55837
+],
+  "geometry": {"coordinates":[28.00867,61.55837],"type":"Point"}
+}

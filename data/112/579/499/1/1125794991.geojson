@@ -1,0 +1,113 @@
+{
+  "id": 1125794991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.25,60.41667,26.25,60.41667",
+    "geom:latitude":60.41667,
+    "geom:longitude":26.25,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.41667,
+    "lbl:longitude":26.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Valkom"
+    ],
+    "name:fin_x_preferred":[
+        "Valkom"
+    ],
+    "name:fin_x_variant":[
+        "Valko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Valko"
+    ],
+    "name:swe_x_variant":[
+        "Valkom"
+    ],
+    "name:unk_x_variant":[
+        "Valkkoo"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":632595,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Valko",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"It\u00e4-Uudenmaan maakunta",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1163164,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":574572,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"It\u00e4-Uudenmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198469,
+        85633143,
+        404227411,
+        136253047,
+        1159321525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":632595,
+        "gp:id":574572,
+        "qs_pg:id":1163164
+    },
+    "wof:country":"FI",
+    "wof:created":1497291014,
+    "wof:geomhash":"1889c1085c9cc7e102e77ab171b5022a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321525,
+            "empire_id":136253047,
+            "localadmin_id":907198469,
+            "locality_id":1125794991,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1125794991,
+    "wof:lastmodified":1529714694,
+    "wof:name":"Valko",
+    "wof:parent_id":907198469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.25,
+    60.41667,
+    26.25,
+    60.41667
+],
+  "geometry": {"coordinates":[26.25,60.41667],"type":"Point"}
+}

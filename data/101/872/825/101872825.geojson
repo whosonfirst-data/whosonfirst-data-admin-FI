@@ -1,0 +1,105 @@
+{
+  "id": 101872825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8449,62.362,22.8449,62.362",
+    "geom:latitude":62.362,
+    "geom:longitude":22.8449,
+    "iso:country":"FI",
+    "lbl:latitude":62.362,
+    "lbl:longitude":22.8449,
+    "mps:latitude":62.362,
+    "mps:longitude":22.8449,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0633\u0643\u0627\u0648"
+    ],
+    "name:dut_x_preferred":[
+        "Koskue"
+    ],
+    "name:eng_x_preferred":[
+        "Koskue"
+    ],
+    "name:fin_x_preferred":[
+        "Koskue"
+    ],
+    "qs:a0":"Suomi#Finland",
+    "qs:a1":"*Etel\u00e4-Pohjanmaa#S\u00f6dra \u00d6sterbotten",
+    "qs:a1r":"0L\u00e4nsi- ja Sis\u00e4-Suomen AVI#V\u00e4stra och Inre Finlands RFV",
+    "qs:adm0":"Suomi#Finland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Koskue",
+    "qs:loc_alt":"Koskue",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":62.35,
+    "wd:longitude":22.85,
+    "wd:population":850,
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199007,
+        85633143,
+        404227417,
+        136253047,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":651047,
+        "gp:id":568024,
+        "qs:id":342946,
+        "qs_pg:id":342946,
+        "wd:id":"Q6433234",
+        "wk:page":"Koskue"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"bed5456fc7c3728c6f49bf07b6c5acc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199007,
+            "locality_id":101872825,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":101872825,
+    "wof:lastmodified":1544751344,
+    "wof:name":"Koskue",
+    "wof:parent_id":907199007,
+    "wof:placetype":"locality",
+    "wof:population":850,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8449,
+    62.362,
+    22.8449,
+    62.362
+],
+  "geometry": {"coordinates":[22.8449,62.362],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1243354277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.54457,60.48336,26.54457,60.48336",
+    "geom:latitude":60.48336,
+    "geom:longitude":26.54457,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"82.0",
+    "gn:admin3_code":"624.0",
+    "gn:asciiname":"Utbyn",
+    "gn:country_code":"FI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":844664,
+    "gn:latitude":60.48336,
+    "gn:longitude":26.54457,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Utbyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Ulkokyl\u00e4"
+    ],
+    "name:swe_x_preferred":[
+        "Utbyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683081,
+        102191581,
+        907198651,
+        85633143,
+        404227411,
+        136253047,
+        1159321573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":844664
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9a88a066ea5f2bf3467ca5f87af33982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321573,
+            "empire_id":136253047,
+            "localadmin_id":907198651,
+            "locality_id":1243354277,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":1243354277,
+    "wof:lastmodified":1537622311,
+    "wof:name":"Utbyn",
+    "wof:parent_id":907198651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.54457,
+    60.48336,
+    26.54457,
+    60.48336
+],
+  "geometry": {"coordinates":[26.54457,60.48336],"type":"Point"}
+}

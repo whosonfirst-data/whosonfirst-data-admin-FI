@@ -1,0 +1,81 @@
+{
+  "id": 1276763311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65613,61.50698,21.65613,61.50698",
+    "geom:latitude":61.50698,
+    "geom:longitude":21.65613,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"609.0",
+    "gn:asciiname":"Paarnoori",
+    "gn:country_code":"FI",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101206,
+    "gn:latitude":61.50698,
+    "gn:longitude":21.65613,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Paarnoori",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Paarnoori"
+    ],
+    "name:swe_x_preferred":[
+        "Barn\u00f6re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907199653,
+        85633143,
+        404227405,
+        136253047,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101206
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2009976f12a1563079a2bde96784e0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907199653,
+            "locality_id":1276763311,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1276763311,
+    "wof:lastmodified":1537622321,
+    "wof:name":"Paarnoori",
+    "wof:parent_id":907199653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65613,
+    61.50698000000001,
+    21.65613,
+    61.50698000000001
+],
+  "geometry": {"coordinates":[21.65613,61.50698000000001],"type":"Point"}
+}

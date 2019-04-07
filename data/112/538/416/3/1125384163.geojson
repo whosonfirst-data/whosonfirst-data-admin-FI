@@ -1,0 +1,92 @@
+{
+  "id": 1125384163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-12-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.46283,64.02497,28.46283,64.02497",
+    "geom:latitude":64.02497,
+    "geom:longitude":28.46283,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":10702,
+    "gn:population":10702,
+    "iso:country":"FI",
+    "lbl:latitude":64.02497,
+    "lbl:longitude":28.46283,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Sotkamo"
+    ],
+    "name:fin_x_variant":[
+        "Sotkamon Kunta"
+    ],
+    "name:swe_x_preferred":[
+        "Sotkamo"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":636174,
+    "qs_pg:gn_pop":10702,
+    "qs_pg:name":"Sotkamo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1026789,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683137,
+        102191581,
+        85633143,
+        404227415,
+        136253047,
+        1159321487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":636174,
+        "qs_pg:id":1026789
+    },
+    "wof:country":"FI",
+    "wof:created":1497048255,
+    "wof:geomhash":"dd630e298f426bf1a84ad921b921cc8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":1125384163,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":1125384163,
+    "wof:lastmodified":1544223147,
+    "wof:name":"Sotkamo",
+    "wof:parent_id":1159321487,
+    "wof:placetype":"localadmin",
+    "wof:population":10702,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.46283,
+    64.02497,
+    28.46283,
+    64.02497
+],
+  "geometry": {"coordinates":[28.46283,64.02497],"type":"Point"}
+}

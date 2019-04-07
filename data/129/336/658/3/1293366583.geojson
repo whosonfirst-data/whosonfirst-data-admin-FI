@@ -1,0 +1,75 @@
+{
+  "id": 1293366583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.76667,63.96667,24.76667,63.96667",
+    "geom:latitude":63.96667,
+    "geom:longitude":24.76667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"176.0",
+    "gn:admin3_code":"535.0",
+    "gn:asciiname":"Vaelikylae",
+    "gn:country_code":"FI",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":632755,
+    "gn:latitude":63.96667,
+    "gn:longitude":24.76667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"V\u00e4likyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199629,
+        85633143,
+        404227415,
+        136253047,
+        1159321591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":632755
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"599ef32b7f955b7a8aae7d8cafcca73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321591,
+            "empire_id":136253047,
+            "localadmin_id":907199629,
+            "locality_id":1293366583,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1293366583,
+    "wof:lastmodified":1536961310,
+    "wof:name":"Vaelikylae",
+    "wof:parent_id":907199629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.76667,
+    63.96666999999999,
+    24.76667,
+    63.96666999999999
+],
+  "geometry": {"coordinates":[24.76667,63.96666999999999],"type":"Point"}
+}

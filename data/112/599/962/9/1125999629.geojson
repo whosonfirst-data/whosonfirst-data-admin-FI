@@ -1,0 +1,114 @@
+{
+  "id": 1125999629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.55,60.5,25.55,60.5",
+    "geom:latitude":60.5,
+    "geom:longitude":25.55,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.5,
+    "lbl:longitude":25.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
+    "name:eng_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
+    "name:fin_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
+    "name:pol_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
+    "name:por_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u043d\u0438\u043a\u044e\u043b\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Monby"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":645861,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Monninkyl\u00e4",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"It\u00e4-Uudenmaan maakunta",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":908223,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":569869,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"It\u00e4-Uudenmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198543,
+        85633143,
+        404227411,
+        136253047,
+        1159321593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":645861,
+        "gp:id":569869,
+        "qs_pg:id":908223,
+        "wd:id":"Q6304102"
+    },
+    "wof:country":"FI",
+    "wof:created":1497299567,
+    "wof:geomhash":"4c46db8c0ff8e2deab15bd25f389261a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321593,
+            "empire_id":136253047,
+            "localadmin_id":907198543,
+            "locality_id":1125999629,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1125999629,
+    "wof:lastmodified":1529714709,
+    "wof:name":"Monninkyl\u00e4",
+    "wof:parent_id":907198543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.55,
+    60.5,
+    25.55,
+    60.5
+],
+  "geometry": {"coordinates":[25.55,60.5],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1260172277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.69162,60.71188,26.69162,60.71188",
+    "geom:latitude":60.71188,
+    "geom:longitude":26.69162,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"286.0",
+    "gn:asciiname":"Korvenkylae",
+    "gn:country_code":"FI",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":651195,
+    "gn:latitude":60.71188,
+    "gn:longitude":26.69162,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Korvenkyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korpi",
+        "Korvenkyl\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683081,
+        102191581,
+        907198969,
+        85633143,
+        404227411,
+        136253047,
+        1159321557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":651195
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"015277aadfb032e4c931e6d4902719ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321557,
+            "empire_id":136253047,
+            "localadmin_id":907198969,
+            "locality_id":1260172277,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":1260172277,
+    "wof:lastmodified":1537622241,
+    "wof:name":"Korvenkylae",
+    "wof:parent_id":907198969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.69162,
+    60.71188000000001,
+    26.69162,
+    60.71188000000001
+],
+  "geometry": {"coordinates":[26.69162,60.71188000000001],"type":"Point"}
+}

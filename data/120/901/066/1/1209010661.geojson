@@ -1,0 +1,63 @@
+{
+  "id": 1209010661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93028,61.0831,21.93028,61.0831",
+    "geom:latitude":61.0831,
+    "geom:longitude":21.93028,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"684.0",
+    "gn:asciiname":"Kulju",
+    "gn:country_code":"FI",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":650493,
+    "gn:latitude":61.0831,
+    "gn:longitude":21.93028,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kulju",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":650493
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6ce0c7ff5826d63712ff635f74230f5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209010661
+        }
+    ],
+    "wof:id":1209010661,
+    "wof:lastmodified":1536300458,
+    "wof:name":"Kulju",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93028,
+    61.0831,
+    21.93028,
+    61.0831
+],
+  "geometry": {"coordinates":[21.93028,61.0831],"type":"Point"}
+}

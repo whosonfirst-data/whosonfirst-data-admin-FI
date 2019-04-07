@@ -1,0 +1,100 @@
+{
+  "id": 1125923581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.16667,60.5,25.16667,60.5",
+    "geom:latitude":60.5,
+    "geom:longitude":25.16667,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.5,
+    "lbl:longitude":25.16667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Haarajoki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0430\u0439\u043e\u043a\u0438"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":659529,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Haarajoki",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Uudenmaan maakunta",
+    "qs_pg:photos":61,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":61,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1136212,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":564851,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Uudenmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198521,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":659529,
+        "gp:id":564851,
+        "qs_pg:id":1136212
+    },
+    "wof:country":"FI",
+    "wof:created":1497296565,
+    "wof:geomhash":"4c36eafc0286b24ef7ececae2ee94ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198521,
+            "locality_id":1125923581,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1125923581,
+    "wof:lastmodified":1529714690,
+    "wof:name":"Haarajoki",
+    "wof:parent_id":907198521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.16667,
+    60.5,
+    25.16667,
+    60.5
+],
+  "geometry": {"coordinates":[25.16667,60.5],"type":"Point"}
+}

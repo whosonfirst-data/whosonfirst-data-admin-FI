@@ -1,0 +1,81 @@
+{
+  "id": 1310380573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69407,66.34542,23.69407,66.34542",
+    "geom:latitude":66.34542,
+    "geom:longitude":23.69407,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"193.0",
+    "gn:admin3_code":"976.0",
+    "gn:asciiname":"Taroniemi",
+    "gn:country_code":"FI",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":661362,
+    "gn:latitude":66.34542,
+    "gn:longitude":23.69407,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Taroniemi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Taroniemi"
+    ],
+    "name:und_x_variant":[
+        "Alaviinpola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199549,
+        85633143,
+        404227409,
+        136253047,
+        1159321537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":661362
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"41fc8702d80c7f2a64dfd738b89f7288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321537,
+            "empire_id":136253047,
+            "localadmin_id":907199549,
+            "locality_id":1310380573,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1310380573,
+    "wof:lastmodified":1537622304,
+    "wof:name":"Taroniemi",
+    "wof:parent_id":907199549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69407,
+    66.34541999999999,
+    23.69407,
+    66.34541999999999
+],
+  "geometry": {"coordinates":[23.69407,66.34541999999999],"type":"Point"}
+}

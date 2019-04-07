@@ -1,0 +1,75 @@
+{
+  "id": 1293182043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5039,62.65071,28.5039,62.65071",
+    "geom:latitude":62.65071,
+    "geom:longitude":28.5039,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"113.0",
+    "gn:admin3_code":"857.0",
+    "gn:asciiname":"Kosula",
+    "gn:country_code":"FI",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":651024,
+    "gn:latitude":62.65071,
+    "gn:longitude":28.5039,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kosula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199053,
+        85633143,
+        404227407,
+        136253047,
+        1159321579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":651024
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"23e96ecd6be3cec5c75a74faf09f391a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321579,
+            "empire_id":136253047,
+            "localadmin_id":907199053,
+            "locality_id":1293182043,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1293182043,
+    "wof:lastmodified":1536730856,
+    "wof:name":"Kosula",
+    "wof:parent_id":907199053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5039,
+    62.65071,
+    28.5039,
+    62.65071
+],
+  "geometry": {"coordinates":[28.5039,62.65071],"type":"Point"}
+}

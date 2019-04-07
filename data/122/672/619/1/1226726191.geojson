@@ -1,0 +1,80 @@
+{
+  "id": 1226726191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.82026,63.73747,25.82026,63.73747",
+    "geom:latitude":63.73747,
+    "geom:longitude":25.82026,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"176.0",
+    "gn:admin3_code":"626.0",
+    "gn:asciiname":"Parkkima",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":642649,
+    "gn:latitude":63.73747,
+    "gn:longitude":25.82026,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Parkkima",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parkkimaa",
+        "Parkkima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199151,
+        85633143,
+        404227415,
+        136253047,
+        1159321591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":642649
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"69acbfa9a5a2ec4e8e7412beca6cf230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321591,
+            "empire_id":136253047,
+            "localadmin_id":907199151,
+            "locality_id":1226726191,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1226726191,
+    "wof:lastmodified":1537622193,
+    "wof:name":"Parkkima",
+    "wof:parent_id":907199151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.82026,
+    63.73747,
+    25.82026,
+    63.73747
+],
+  "geometry": {"coordinates":[25.82026,63.73747],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327245469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.32263,60.29626,25.32263,60.29626",
+    "geom:latitude":60.29626,
+    "geom:longitude":25.32263,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"753.0",
+    "gn:asciiname":"Kallbaeck",
+    "gn:country_code":"FI",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":654741,
+    "gn:latitude":60.29626,
+    "gn:longitude":25.32263,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kallb\u00e4ck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198521,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":654741
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5d9f81adb7483fca7d3084bf0e4deba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198521,
+            "locality_id":1327245469,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1327245469,
+    "wof:lastmodified":1536950803,
+    "wof:name":"Kallbaeck",
+    "wof:parent_id":907198521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.32263,
+    60.29626,
+    25.32263,
+    60.29626
+],
+  "geometry": {"coordinates":[25.32263,60.29626],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 102553327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1077777778,60.7447222222,24.1077777778,60.7447222222",
+    "geom:latitude":60.744722,
+    "geom:longitude":24.107778,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0631\u0627\u06cc\u0633\u06a9\u0627\u0644\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "R\u00e4ysk\u00e4l\u00e4n lentokentt\u00e4"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Rayskala"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0420\u0430\u0438\u0441\u043a\u0430\u043b\u0430"
+    ],
+    "oa:elevation_ft":"407",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424812,
+        "county_id":56120880,
+        "localadmin_id":12590671,
+        "planet_id":1,
+        "state_id":29389249
+    },
+    "wof:belongsto":[
+        85633143,
+        85683077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512796,
+        "icao:code":"EFRY",
+        "oa:id":"2342",
+        "wd:id":"Q4350292"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8e8d7b02ce41e7d3ae70a2259b7c1e5c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553327,
+            "country_id":85633143,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":102553327,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Rayskala lentokentt\u00e4",
+    "wof:parent_id":85683077,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    24.107777777778,
+    60.744722222222,
+    24.107777777778,
+    60.744722222222
+],
+  "geometry": {"coordinates":[24.107777777778,60.744722222222],"type":"Point"}
+}

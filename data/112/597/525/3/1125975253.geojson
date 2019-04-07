@@ -1,0 +1,100 @@
+{
+  "id": 1125975253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86667,61.83333,25.86667,61.83333",
+    "geom:latitude":61.83333,
+    "geom:longitude":25.86667,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":61.83333,
+    "lbl:longitude":25.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Tammij\u00e4rvi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u043c\u0438\u044f\u0440\u0432\u0438"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":634981,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tammij\u00e4rvi",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Keski-Suomen maakunta",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":992415,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":573750,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Keski-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907198699,
+        85633143,
+        404227417,
+        136253047,
+        1159321619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":634981,
+        "gp:id":573750,
+        "qs_pg:id":992415
+    },
+    "wof:country":"FI",
+    "wof:created":1497298319,
+    "wof:geomhash":"12b7e973defa7a12d08ce41b9151bcf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321619,
+            "empire_id":136253047,
+            "localadmin_id":907198699,
+            "locality_id":1125975253,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1125975253,
+    "wof:lastmodified":1529706354,
+    "wof:name":"Tammij\u00e4rvi",
+    "wof:parent_id":907198699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86667,
+    61.83333,
+    25.86667,
+    61.83333
+],
+  "geometry": {"coordinates":[25.86667,61.83333],"type":"Point"}
+}

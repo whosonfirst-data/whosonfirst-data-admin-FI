@@ -1,0 +1,113 @@
+{
+  "id": 1125901643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.19278,60.25778,25.19278,60.25778",
+    "geom:latitude":60.25778,
+    "geom:longitude":25.19278,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":542,
+    "gn:population":542,
+    "iso:country":"FI",
+    "lbl:latitude":60.25778,
+    "lbl:longitude":25.19278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "\u00d6stersundom"
+    ],
+    "name:fin_x_preferred":[
+        "\u00d6stersundom"
+    ],
+    "name:fre_x_preferred":[
+        "\u00d6stersundom"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u0442\u0435\u0440\u0441\u0443\u043d\u0434\u043e\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "\u00d6stersundom"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d6stersundom"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":643541,
+    "qs_pg:gn_pop":542,
+    "qs_pg:name":"It\u00e4salmi",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Uudenmaan maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":60915,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":25945296,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Uudenmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907199715,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643541,
+        "gp:id":25945296,
+        "qs_pg:id":60915,
+        "wd:id":"Q678399"
+    },
+    "wof:country":"FI",
+    "wof:created":1497295834,
+    "wof:geomhash":"624b753edd8e56a7fd5b47434c27e12f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907199715,
+            "locality_id":1125901643,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1125901643,
+    "wof:lastmodified":1529714684,
+    "wof:name":"It\u00e4salmi",
+    "wof:parent_id":907199715,
+    "wof:placetype":"locality",
+    "wof:population":542,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.19278,
+    60.25778,
+    25.19278,
+    60.25778
+],
+  "geometry": {"coordinates":[25.19278,60.25778],"type":"Point"}
+}

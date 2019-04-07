@@ -1,0 +1,80 @@
+{
+  "id": 1326701873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.65899,64.47125,25.65899,64.47125",
+    "geom:latitude":64.47125,
+    "geom:longitude":25.65899,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"175.0",
+    "gn:admin3_code":"791.0",
+    "gn:asciiname":"Porkanranta",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":640995,
+    "gn:latitude":64.47125,
+    "gn:longitude":25.65899,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Porkanranta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Porkka",
+        "Porkanranta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199755,
+        85633143,
+        404227415,
+        136253047,
+        1159321571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":640995
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"cd3dc906a465d3c17312e28777516cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321571,
+            "empire_id":136253047,
+            "localadmin_id":907199755,
+            "locality_id":1326701873,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1326701873,
+    "wof:lastmodified":1537622185,
+    "wof:name":"Porkanranta",
+    "wof:parent_id":907199755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65899,
+    64.47125,
+    25.65899,
+    64.47125
+],
+  "geometry": {"coordinates":[25.65899,64.47125],"type":"Point"}
+}

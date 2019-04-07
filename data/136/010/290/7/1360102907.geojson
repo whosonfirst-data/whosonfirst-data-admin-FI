@@ -1,0 +1,89 @@
+{
+  "id": 1360102907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.58963,60.27686,24.58963,60.27686",
+    "geom:latitude":60.27686,
+    "geom:longitude":24.58963,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"49.0",
+    "gn:asciiname":"Nuuksio",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":644148,
+    "gn:latitude":60.27686,
+    "gn:longitude":24.58963,
+    "gn:modification_date":"2015-05-14",
+    "gn:name":"Nuuksio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Noux"
+    ],
+    "name:isl_x_preferred":[
+        "Noux"
+    ],
+    "name:nor_x_preferred":[
+        "Noux"
+    ],
+    "name:swe_x_preferred":[
+        "Noux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198517,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":644148,
+        "wk:page":"Nuuksio"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5f4b5dc7438028154921f1b2ca8a7d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198517,
+            "locality_id":1360102907,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1360102907,
+    "wof:lastmodified":1537622201,
+    "wof:name":"Nuuksio",
+    "wof:parent_id":907198517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.58963,
+    60.27686,
+    24.58963,
+    60.27686
+],
+  "geometry": {"coordinates":[24.58963,60.27686],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276216601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7,61.03333,27.7,61.03333",
+    "geom:latitude":61.03333,
+    "geom:longitude":27.7,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"416.0",
+    "gn:asciiname":"Hietamies",
+    "gn:country_code":"FI",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":657988,
+    "gn:latitude":61.03333,
+    "gn:longitude":27.7,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Hietamies",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198959,
+        85633143,
+        404227411,
+        136253047,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":657988
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a69683c56f1acb397f7a4c9871d92d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198959,
+            "locality_id":1276216601,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":1276216601,
+    "wof:lastmodified":1536936214,
+    "wof:name":"Hietamies",
+    "wof:parent_id":907198959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7,
+    61.03333000000001,
+    27.7,
+    61.03333000000001
+],
+  "geometry": {"coordinates":[27.7,61.03333000000001],"type":"Point"}
+}

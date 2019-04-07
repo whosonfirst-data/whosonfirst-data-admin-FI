@@ -1,0 +1,80 @@
+{
+  "id": 1242946151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.4674,62.04708,21.4674,62.04708",
+    "geom:latitude":62.04708,
+    "geom:longitude":21.4674,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"153.0",
+    "gn:admin3_code":"287.0",
+    "gn:asciiname":"Heden",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":658486,
+    "gn:latitude":62.04708,
+    "gn:longitude":21.4674,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Heden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hedkrok",
+        "Heden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907198827,
+        85633143,
+        404227417,
+        136253047,
+        1159321495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":658486
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"26c7c81a95e51afb79cc50178e323b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321495,
+            "empire_id":136253047,
+            "localadmin_id":907198827,
+            "locality_id":1242946151,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1242946151,
+    "wof:lastmodified":1537622286,
+    "wof:name":"Heden",
+    "wof:parent_id":907198827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.4674,
+    62.04708,
+    21.4674,
+    62.04708
+],
+  "geometry": {"coordinates":[21.4674,62.04708],"type":"Point"}
+}

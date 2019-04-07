@@ -1,0 +1,75 @@
+{
+  "id": 1327429085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.64753,61.61354,23.64753,61.61354",
+    "geom:latitude":61.61354,
+    "geom:longitude":23.64753,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"64.0",
+    "gn:admin3_code":"980.0",
+    "gn:asciiname":"Lempiaeniemi",
+    "gn:country_code":"FI",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":648359,
+    "gn:latitude":61.61354,
+    "gn:longitude":23.64753,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Lempi\u00e4niemi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907199275,
+        85633143,
+        404227417,
+        136253047,
+        1159321533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":648359
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5edc15fae181beef50bd623ff19004c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321533,
+            "empire_id":136253047,
+            "localadmin_id":907199275,
+            "locality_id":1327429085,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1327429085,
+    "wof:lastmodified":1536685603,
+    "wof:name":"Lempiaeniemi",
+    "wof:parent_id":907199275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64753,
+    61.61354,
+    23.64753,
+    61.61354
+],
+  "geometry": {"coordinates":[23.64753,61.61354],"type":"Point"}
+}

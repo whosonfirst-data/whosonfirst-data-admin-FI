@@ -1,0 +1,75 @@
+{
+  "id": 1209521627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80838,61.51819,21.80838,61.51819",
+    "geom:latitude":61.51819,
+    "geom:longitude":21.80838,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"609.0",
+    "gn:asciiname":"Lotskerinmaeki",
+    "gn:country_code":"FI",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7647305,
+    "gn:latitude":61.51819,
+    "gn:longitude":21.80838,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Lotskerinm\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Slottsk\u00e4r"
+    ],
+    "name:isl_x_preferred":[
+        "Slottsk\u00e4r"
+    ],
+    "name:nor_x_preferred":[
+        "Slottsk\u00e4r"
+    ],
+    "name:swe_x_preferred":[
+        "Slottsk\u00e4r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7647305
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"33b7e10c89f48c9c83d5ac556f72937f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209521627
+        }
+    ],
+    "wof:id":1209521627,
+    "wof:lastmodified":1537622318,
+    "wof:name":"Lotskerinmaeki",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80838,
+    61.51819,
+    21.80838,
+    61.51819
+],
+  "geometry": {"coordinates":[21.80838,61.51819],"type":"Point"}
+}

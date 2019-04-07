@@ -1,0 +1,92 @@
+{
+  "id": 1125374171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-12-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83248,60.6081,24.83248,60.6081",
+    "geom:latitude":60.6081,
+    "geom:longitude":24.83248,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":45489,
+    "gn:population":45489,
+    "iso:country":"FI",
+    "lbl:latitude":60.6081,
+    "lbl:longitude":24.83248,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:fin_x_variant":[
+        "Hyvink\u00e4\u00e4n kaupunki"
+    ],
+    "name:swe_x_preferred":[
+        "Hyvinge"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":656914,
+    "qs_pg:gn_pop":45489,
+    "qs_pg:name":"Khyuvinkya",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":349855,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":656914,
+        "qs_pg:id":349855
+    },
+    "wof:country":"FI",
+    "wof:created":1497047613,
+    "wof:geomhash":"d41a22fde4b2c2376e855234a7d41f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":1125374171,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1125374171,
+    "wof:lastmodified":1544223146,
+    "wof:name":"Khyuvinkya",
+    "wof:parent_id":1159321633,
+    "wof:placetype":"localadmin",
+    "wof:population":45489,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83248,
+    60.6081,
+    24.83248,
+    60.6081
+],
+  "geometry": {"coordinates":[24.83248,60.6081],"type":"Point"}
+}

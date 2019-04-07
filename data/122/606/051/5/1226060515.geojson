@@ -1,0 +1,80 @@
+{
+  "id": 1226060515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.06745,60.23325,25.06745,60.23325",
+    "geom:latitude":60.23325,
+    "geom:longitude":25.06745,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"91.0",
+    "gn:asciiname":"Kurkimaeki",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":847515,
+    "gn:latitude":60.23325,
+    "gn:longitude":25.06745,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kurkim\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Tranbacka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907199715,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":847515,
+        "wk:page":"Kurkim%C3%A4ki"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f5812ae178770d5560ce38e6d4b8c84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907199715,
+            "locality_id":1226060515,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1226060515,
+    "wof:lastmodified":1537622313,
+    "wof:name":"Kurkimaeki",
+    "wof:parent_id":907199715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.06745,
+    60.23325,
+    25.06745,
+    60.23325
+],
+  "geometry": {"coordinates":[25.06745,60.23325],"type":"Point"}
+}

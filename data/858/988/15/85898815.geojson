@@ -1,0 +1,95 @@
+{
+  "id": 85898815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":25119196.742206,
+    "geom:bbox":"23.733442,61.492581,23.733442,61.492581",
+    "geom:latitude":61.492581,
+    "geom:longitude":23.733442,
+    "iso:country":"FI",
+    "lbl:latitude":61.492581,
+    "lbl:longitude":23.733442,
+    "mps:latitude":61.492581,
+    "mps:longitude":23.733442,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Amuri"
+    ],
+    "name:fin_x_preferred":[
+        "Amuri"
+    ],
+    "name:fre_x_preferred":[
+        "Amuri"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907199231,
+        85633143,
+        404227417,
+        101748431,
+        136253047,
+        1159321521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":661226,
+        "gp:id":564197,
+        "qs:id":1136200,
+        "qs_pg:id":1136200,
+        "wd:id":"Q4749000",
+        "wk:page":"Amuri, Tampere"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"347da9720ce6d46f8bc4d767488992aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321521,
+            "empire_id":136253047,
+            "localadmin_id":907199231,
+            "locality_id":101748431,
+            "macroregion_id":404227417,
+            "neighbourhood_id":85898815,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":85898815,
+    "wof:lang":[
+        "fin"
+    ],
+    "wof:lastmodified":1531932113,
+    "wof:name":"Amuri",
+    "wof:parent_id":101748431,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.733442,
+    61.492581,
+    23.733442,
+    61.492581
+],
+  "geometry": {"coordinates":[23.733442,61.492581],"type":"Point"}
+}

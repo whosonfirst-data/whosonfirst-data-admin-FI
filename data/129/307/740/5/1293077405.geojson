@@ -1,0 +1,106 @@
+{
+  "id": 1293077405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78333,62.86667,24.78333,62.86667",
+    "geom:latitude":62.86667,
+    "geom:longitude":24.78333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"138.0",
+    "gn:admin3_code":"226.0",
+    "gn:asciiname":"Karstula",
+    "gn:country_code":"FI",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":653852,
+    "gn:latitude":62.86667,
+    "gn:longitude":24.78333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Karstula",
+    "gn:population":4718,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Karstula"
+    ],
+    "name:eng_x_preferred":[
+        "Karstula"
+    ],
+    "name:epo_x_preferred":[
+        "Karstula"
+    ],
+    "name:fin_x_preferred":[
+        "Karstula"
+    ],
+    "name:fra_x_preferred":[
+        "Karstula"
+    ],
+    "name:nld_x_preferred":[
+        "Karstula"
+    ],
+    "name:ron_x_preferred":[
+        "Karstula"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0441\u0442\u0443\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Karstula"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199083,
+        85633143,
+        404227417,
+        136253047,
+        1159321515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":653852,
+        "wk:page":"Karstula"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ee2a65a1baab3a39c02fb02b60a14a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321515,
+            "empire_id":136253047,
+            "localadmin_id":907199083,
+            "locality_id":1293077405,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1293077405,
+    "wof:lastmodified":1537622258,
+    "wof:name":"Karstula",
+    "wof:parent_id":907199083,
+    "wof:placetype":"locality",
+    "wof:population":4718,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78333,
+    62.86666999999999,
+    24.78333,
+    62.86666999999999
+],
+  "geometry": {"coordinates":[24.78333,62.86666999999999],"type":"Point"}
+}

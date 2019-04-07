@@ -1,0 +1,75 @@
+{
+  "id": 1276427491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03333,62.93333,25.03333,62.93333",
+    "geom:latitude":62.93333,
+    "geom:longitude":25.03333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"138.0",
+    "gn:admin3_code":"226.0",
+    "gn:asciiname":"Mattinmaeki",
+    "gn:country_code":"FI",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":646323,
+    "gn:latitude":62.93333,
+    "gn:longitude":25.03333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Mattinm\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199083,
+        85633143,
+        404227417,
+        136253047,
+        1159321515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":646323
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d1d319e17192e20dcdb00fc5c5171fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321515,
+            "empire_id":136253047,
+            "localadmin_id":907199083,
+            "locality_id":1276427491,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1276427491,
+    "wof:lastmodified":1536652374,
+    "wof:name":"Mattinmaeki",
+    "wof:parent_id":907199083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03333,
+    62.93333000000001,
+    25.03333,
+    62.93333000000001
+],
+  "geometry": {"coordinates":[25.03333,62.93333000000001],"type":"Point"}
+}

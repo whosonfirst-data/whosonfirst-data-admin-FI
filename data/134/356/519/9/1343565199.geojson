@@ -1,0 +1,80 @@
+{
+  "id": 1343565199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.59449,60.09281,23.59449,60.09281",
+    "geom:latitude":60.09281,
+    "geom:longitude":23.59449,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"710.0",
+    "gn:asciiname":"Aminnefors",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":661253,
+    "gn:latitude":60.09281,
+    "gn:longitude":23.59449,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"\u00c5minnefors",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c5minne",
+        "\u00c5minnefors"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907199747,
+        85633143,
+        404227411,
+        136253047,
+        1159321627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":661253
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"46479e6c6fce88f2fe9373b6cc5afc3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321627,
+            "empire_id":136253047,
+            "localadmin_id":907199747,
+            "locality_id":1343565199,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1343565199,
+    "wof:lastmodified":1537622303,
+    "wof:name":"Aminnefors",
+    "wof:parent_id":907199747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.59449,
+    60.09281,
+    23.59449,
+    60.09281
+],
+  "geometry": {"coordinates":[23.59449,60.09281],"type":"Point"}
+}

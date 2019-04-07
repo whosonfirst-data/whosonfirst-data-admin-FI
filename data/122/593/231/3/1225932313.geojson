@@ -1,0 +1,75 @@
+{
+  "id": 1225932313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.21332,63.47592,27.21332,63.47592",
+    "geom:latitude":63.47592,
+    "geom:longitude":27.21332,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"140.0",
+    "gn:asciiname":"Nerohvirta",
+    "gn:country_code":"FI",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":644965,
+    "gn:latitude":63.47592,
+    "gn:longitude":27.21332,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Nerohvirta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199351,
+        85633143,
+        404227407,
+        136253047,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":644965
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5dbe267ff9af2c9045f30a4105bca303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199351,
+            "locality_id":1225932313,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1225932313,
+    "wof:lastmodified":1536888410,
+    "wof:name":"Nerohvirta",
+    "wof:parent_id":907199351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.21332,
+    63.47592,
+    27.21332,
+    63.47592
+],
+  "geometry": {"coordinates":[27.21332,63.47592],"type":"Point"}
+}

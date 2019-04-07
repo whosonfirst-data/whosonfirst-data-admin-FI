@@ -1,0 +1,75 @@
+{
+  "id": 1259368453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.59769,60.44534,26.59769,60.44534",
+    "geom:latitude":60.44534,
+    "geom:longitude":26.59769,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"82.0",
+    "gn:admin3_code":"624.0",
+    "gn:asciiname":"Sandnaes",
+    "gn:country_code":"FI",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11238675,
+    "gn:latitude":60.44534,
+    "gn:longitude":26.59769,
+    "gn:modification_date":"2016-08-28",
+    "gn:name":"Sandn\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683081,
+        102191581,
+        907198651,
+        85633143,
+        404227411,
+        136253047,
+        1159321573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11238675
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a061874fb8e2eeec6655859b357d5ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321573,
+            "empire_id":136253047,
+            "localadmin_id":907198651,
+            "locality_id":1259368453,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":1259368453,
+    "wof:lastmodified":1537022915,
+    "wof:name":"Sandnaes",
+    "wof:parent_id":907198651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.59769,
+    60.44534,
+    26.59769,
+    60.44534
+],
+  "geometry": {"coordinates":[26.59769,60.44534],"type":"Point"}
+}

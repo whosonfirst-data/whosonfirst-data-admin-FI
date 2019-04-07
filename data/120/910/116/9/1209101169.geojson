@@ -1,0 +1,63 @@
+{
+  "id": 1209101169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.86667,62.45,28.86667,62.45",
+    "geom:latitude":62.45,
+    "geom:longitude":28.86667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"90.0",
+    "gn:asciiname":"Koivuaho",
+    "gn:country_code":"FI",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":652113,
+    "gn:latitude":62.45,
+    "gn:longitude":28.86667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Koivuaho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":652113
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6b84370a99912060d0bc899b6cfb1bb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209101169
+        }
+    ],
+    "wof:id":1209101169,
+    "wof:lastmodified":1536297728,
+    "wof:name":"Koivuaho",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.866670000000006,
+    62.45,
+    28.866670000000006,
+    62.45
+],
+  "geometry": {"coordinates":[28.86667000000001,62.45],"type":"Point"}
+}

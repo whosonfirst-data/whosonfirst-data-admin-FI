@@ -1,0 +1,78 @@
+{
+  "id": 1327016251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.80121,61.86922,24.80121,61.86922",
+    "geom:latitude":61.86922,
+    "geom:longitude":24.80121,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"134.0",
+    "gn:admin3_code":"182.0",
+    "gn:asciiname":"Taipale",
+    "gn:country_code":"FI",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101396,
+    "gn:latitude":61.86922,
+    "gn:longitude":24.80121,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Taipale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Taipale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199101,
+        85633143,
+        404227417,
+        136253047,
+        1159321587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101396
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a246a6e417aa9b4c86ccbdf3c90e7502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321587,
+            "empire_id":136253047,
+            "localadmin_id":907199101,
+            "locality_id":1327016251,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1327016251,
+    "wof:lastmodified":1537622329,
+    "wof:name":"Taipale",
+    "wof:parent_id":907199101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.80121,
+    61.86922,
+    24.80121,
+    61.86922
+],
+  "geometry": {"coordinates":[24.80121,61.86922],"type":"Point"}
+}

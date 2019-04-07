@@ -1,0 +1,75 @@
+{
+  "id": 1343241541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26237,61.73917,25.26237,61.73917",
+    "geom:latitude":61.73917,
+    "geom:longitude":25.26237,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"134.0",
+    "gn:admin3_code":"182.0",
+    "gn:asciiname":"Arvaja",
+    "gn:country_code":"FI",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660970,
+    "gn:latitude":61.73917,
+    "gn:longitude":25.26237,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Arvaja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199101,
+        85633143,
+        404227417,
+        136253047,
+        1159321587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660970
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a12de51331961c0aabffb9e9274b5f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321587,
+            "empire_id":136253047,
+            "localadmin_id":907199101,
+            "locality_id":1343241541,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1343241541,
+    "wof:lastmodified":1537059709,
+    "wof:name":"Arvaja",
+    "wof:parent_id":907199101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26237,
+    61.73917,
+    25.26237,
+    61.73917
+],
+  "geometry": {"coordinates":[25.26237,61.73917],"type":"Point"}
+}

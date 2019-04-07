@@ -1,0 +1,93 @@
+{
+  "id": 1259589377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.69583,61.51822,21.69583,61.51822",
+    "geom:latitude":61.51822,
+    "geom:longitude":21.69583,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"609.0",
+    "gn:asciiname":"Olympiakylae",
+    "gn:country_code":"FI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101214,
+    "gn:latitude":61.51822,
+    "gn:longitude":21.69583,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Olympiakyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Olympiabyn"
+    ],
+    "name:fin_x_preferred":[
+        "Olympiakyl\u00e4"
+    ],
+    "name:isl_x_preferred":[
+        "Olympiabyn"
+    ],
+    "name:nno_x_preferred":[
+        "Olympiabyn"
+    ],
+    "name:nob_x_preferred":[
+        "Olympiabyn"
+    ],
+    "name:swe_x_preferred":[
+        "Olympiabyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907199653,
+        85633143,
+        404227405,
+        136253047,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101214
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b428e2f5093b525e32743578252636bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907199653,
+            "locality_id":1259589377,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1259589377,
+    "wof:lastmodified":1537622322,
+    "wof:name":"Olympiakylae",
+    "wof:parent_id":907199653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.69583,
+    61.51821999999999,
+    21.69583,
+    61.51821999999999
+],
+  "geometry": {"coordinates":[21.69583,61.51821999999999],"type":"Point"}
+}

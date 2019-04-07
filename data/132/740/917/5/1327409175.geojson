@@ -1,0 +1,81 @@
+{
+  "id": 1327409175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.47091,66.18265,25.47091,66.18265",
+    "geom:latitude":66.18265,
+    "geom:longitude":25.47091,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"192.0",
+    "gn:admin3_code":"845.0",
+    "gn:asciiname":"Suolijoki",
+    "gn:country_code":"FI",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":635734,
+    "gn:latitude":66.18265,
+    "gn:longitude":25.47091,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Suolijoki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Suolijoki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043e\u043b\u0438\u0439\u043e\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199545,
+        85633143,
+        404227409,
+        136253047,
+        1159321559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":635734
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5695a13e37ccc64e525fdc52d6395d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321559,
+            "empire_id":136253047,
+            "localadmin_id":907199545,
+            "locality_id":1327409175,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1327409175,
+    "wof:lastmodified":1537622156,
+    "wof:name":"Suolijoki",
+    "wof:parent_id":907199545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.47091,
+    66.18265,
+    25.47091,
+    66.18265
+],
+  "geometry": {"coordinates":[25.47091,66.18265],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360063393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.92221,62.60254,27.92221,62.60254",
+    "geom:latitude":62.60254,
+    "geom:longitude":27.92221,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"114.0",
+    "gn:admin3_code":"420.0",
+    "gn:asciiname":"Keinaelaenmaeki",
+    "gn:country_code":"FI",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":653407,
+    "gn:latitude":62.60254,
+    "gn:longitude":27.92221,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kein\u00e4l\u00e4nm\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907198899,
+        85633143,
+        404227407,
+        136253047,
+        1159321629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":653407
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5cad1bd6e5b23a7a8524113512a3945f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321629,
+            "empire_id":136253047,
+            "localadmin_id":907198899,
+            "locality_id":1360063393,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1360063393,
+    "wof:lastmodified":1536976485,
+    "wof:name":"Keinaelaenmaeki",
+    "wof:parent_id":907198899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.92221,
+    62.60254000000001,
+    27.92221,
+    62.60254000000001
+],
+  "geometry": {"coordinates":[27.92221,62.60254000000001],"type":"Point"}
+}

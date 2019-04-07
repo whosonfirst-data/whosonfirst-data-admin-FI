@@ -1,0 +1,75 @@
+{
+  "id": 1360062393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8,63.61667,28.8,63.61667",
+    "geom:latitude":63.61667,
+    "geom:longitude":28.8,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"125.0",
+    "gn:admin3_code":"911.0",
+    "gn:asciiname":"Kortila",
+    "gn:country_code":"FI",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":651231,
+    "gn:latitude":63.61667,
+    "gn:longitude":28.8,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kortila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199405,
+        85633143,
+        404227407,
+        136253047,
+        1159321575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":651231
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5a2a55c34ba4aa6d04289a6c001c4e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321575,
+            "empire_id":136253047,
+            "localadmin_id":907199405,
+            "locality_id":1360062393,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1360062393,
+    "wof:lastmodified":1536977909,
+    "wof:name":"Kortila",
+    "wof:parent_id":907199405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8,
+    63.61666999999999,
+    28.8,
+    63.61666999999999
+],
+  "geometry": {"coordinates":[28.8,63.61666999999999],"type":"Point"}
+}

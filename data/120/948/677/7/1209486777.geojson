@@ -1,0 +1,63 @@
+{
+  "id": 1209486777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.65178,62.44818,25.65178,62.44818",
+    "geom:latitude":62.44818,
+    "geom:longitude":25.65178,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"131.0",
+    "gn:admin3_code":"410.0",
+    "gn:asciiname":"Haeaekoski",
+    "gn:country_code":"FI",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7646556,
+    "gn:latitude":62.44818,
+    "gn:longitude":25.65178,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"H\u00e4\u00e4koski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7646556
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"43c1b2cfe577126a379a165c41a9835a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209486777
+        }
+    ],
+    "wof:id":1209486777,
+    "wof:lastmodified":1536285611,
+    "wof:name":"Haeaekoski",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65178,
+    62.44818000000001,
+    25.65178,
+    62.44818000000001
+],
+  "geometry": {"coordinates":[25.65178,62.44818000000001],"type":"Point"}
+}

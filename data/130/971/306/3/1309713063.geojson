@@ -1,0 +1,78 @@
+{
+  "id": 1309713063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75302,61.46789,21.75302,61.46789",
+    "geom:latitude":61.46789,
+    "geom:longitude":21.75302,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"609.0",
+    "gn:asciiname":"Tiiliruukki",
+    "gn:country_code":"FI",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7647290,
+    "gn:latitude":61.46789,
+    "gn:longitude":21.75302,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Tiiliruukki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Tegelbruket"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907199653,
+        85633143,
+        404227405,
+        136253047,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7647290
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b081cfca7eb55a54af5685626ab7eeba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907199653,
+            "locality_id":1309713063,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1309713063,
+    "wof:lastmodified":1537550114,
+    "wof:name":"Tiiliruukki",
+    "wof:parent_id":907199653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75302000000001,
+    61.46789,
+    21.75302000000001,
+    61.46789
+],
+  "geometry": {"coordinates":[21.75302000000001,61.46789],"type":"Point"}
+}

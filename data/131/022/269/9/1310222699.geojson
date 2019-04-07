@@ -1,0 +1,78 @@
+{
+  "id": 1310222699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.08878,60.44801,25.08878,60.44801",
+    "geom:latitude":60.44801,
+    "geom:longitude":25.08878,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"186.0",
+    "gn:asciiname":"Lippumaeki",
+    "gn:country_code":"FI",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101556,
+    "gn:latitude":60.44801,
+    "gn:longitude":25.08878,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Lippum\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Lippum\u00e4ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198639,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101556
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"939a967700f4a9dcb35485f30e0998a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198639,
+            "locality_id":1310222699,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1310222699,
+    "wof:lastmodified":1537622335,
+    "wof:name":"Lippumaeki",
+    "wof:parent_id":907198639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.08878,
+    60.44801,
+    25.08878,
+    60.44801
+],
+  "geometry": {"coordinates":[25.08878,60.44801],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277150201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56561,63.45327,22.56561,63.45327",
+    "geom:latitude":63.45327,
+    "geom:longitude":22.56561,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"154.0",
+    "gn:admin3_code":"893.0",
+    "gn:asciiname":"Draka",
+    "gn:country_code":"FI",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660371,
+    "gn:latitude":63.45327,
+    "gn:longitude":22.56561,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Draka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199045,
+        85633143,
+        404227417,
+        136253047,
+        1159321639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660371
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"acf1bbb6510bc068d590977258f37417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321639,
+            "empire_id":136253047,
+            "localadmin_id":907199045,
+            "locality_id":1277150201,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1277150201,
+    "wof:lastmodified":1536670485,
+    "wof:name":"Draka",
+    "wof:parent_id":907199045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56561,
+    63.45327,
+    22.56561,
+    63.45327
+],
+  "geometry": {"coordinates":[22.56561,63.45327],"type":"Point"}
+}

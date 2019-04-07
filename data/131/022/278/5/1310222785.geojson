@@ -1,0 +1,75 @@
+{
+  "id": 1310222785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51451,60.35508,25.51451,60.35508",
+    "geom:latitude":60.35508,
+    "geom:longitude":25.51451,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"638.0",
+    "gn:asciiname":"Blinkan",
+    "gn:country_code":"FI",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":844277,
+    "gn:latitude":60.35508,
+    "gn:longitude":25.51451,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Blinkan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198525,
+        85633143,
+        404227411,
+        136253047,
+        1159321593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":844277
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"cf166636927e0ba8ddb494031cc27e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321593,
+            "empire_id":136253047,
+            "localadmin_id":907198525,
+            "locality_id":1310222785,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1310222785,
+    "wof:lastmodified":1536826365,
+    "wof:name":"Blinkan",
+    "wof:parent_id":907198525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51451,
+    60.35508000000001,
+    25.51451,
+    60.35508000000001
+],
+  "geometry": {"coordinates":[25.51451,60.35508000000001],"type":"Point"}
+}

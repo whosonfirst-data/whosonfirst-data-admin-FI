@@ -1,0 +1,75 @@
+{
+  "id": 1242891811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63333,60.1,24.63333,60.1",
+    "geom:latitude":60.1,
+    "geom:longitude":24.63333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"257.0",
+    "gn:asciiname":"Medvastoe",
+    "gn:country_code":"FI",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":646265,
+    "gn:latitude":60.1,
+    "gn:longitude":24.63333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Medvast\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198511,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":646265
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7196fb1064d1d733f9ef622b7d12dffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198511,
+            "locality_id":1242891811,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1242891811,
+    "wof:lastmodified":1536608310,
+    "wof:name":"Medvastoe",
+    "wof:parent_id":907198511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63333,
+    60.1,
+    24.63333,
+    60.1
+],
+  "geometry": {"coordinates":[24.63333,60.1],"type":"Point"}
+}

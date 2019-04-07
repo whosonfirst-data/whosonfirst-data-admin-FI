@@ -1,0 +1,81 @@
+{
+  "id": 1226422679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5907,62.3003,30.5907,62.3003",
+    "geom:latitude":62.3003,
+    "geom:longitude":30.5907,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"124.0",
+    "gn:admin3_code":"848.0",
+    "gn:asciiname":"Kutsu",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649982,
+    "gn:latitude":62.3003,
+    "gn:longitude":30.5907,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kutsu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kutsunkyulya",
+        "Kutsunvaara",
+        "Kutsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199417,
+        85633143,
+        404227407,
+        136253047,
+        1159321517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649982
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"28df5e2861c9575dcd1a415b0ca260c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321517,
+            "empire_id":136253047,
+            "localadmin_id":907199417,
+            "locality_id":1226422679,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1226422679,
+    "wof:lastmodified":1537622233,
+    "wof:name":"Kutsu",
+    "wof:parent_id":907199417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5907,
+    62.3003,
+    30.5907,
+    62.3003
+],
+  "geometry": {"coordinates":[30.5907,62.3003],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209598199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.09168,63.05865,22.09168,63.05865",
+    "geom:latitude":63.05865,
+    "geom:longitude":22.09168,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"905.0",
+    "gn:asciiname":"Harmaala",
+    "gn:country_code":"FI",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10102294,
+    "gn:latitude":63.05865,
+    "gn:longitude":22.09168,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Harmaala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Harmaala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10102294
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9c71e6b532e61018727b3bdf6b48fa27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209598199
+        }
+    ],
+    "wof:id":1209598199,
+    "wof:lastmodified":1537622346,
+    "wof:name":"Harmaala",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.09168,
+    63.05865,
+    22.09168,
+    63.05865
+],
+  "geometry": {"coordinates":[22.09168,63.05865],"type":"Point"}
+}

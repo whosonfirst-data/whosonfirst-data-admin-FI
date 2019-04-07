@@ -1,0 +1,66 @@
+{
+  "id": 1209393807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78762,62.19716,21.78762,62.19716",
+    "geom:latitude":62.19716,
+    "geom:longitude":21.78762,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"141.0",
+    "gn:admin3_code":"151.0",
+    "gn:asciiname":"Kankaanmaeki",
+    "gn:country_code":"FI",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101639,
+    "gn:latitude":62.19716,
+    "gn:longitude":21.78762,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Kankaanm\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kankaanm\u00e4ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101639
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"05b37f4e8e8c5156d5af26cd92f13bf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209393807
+        }
+    ],
+    "wof:id":1209393807,
+    "wof:lastmodified":1537622337,
+    "wof:name":"Kankaanmaeki",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78762,
+    62.19716,
+    21.78762,
+    62.19716
+],
+  "geometry": {"coordinates":[21.78762,62.19716],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243047381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1,62.1,25.1,62.1",
+    "geom:latitude":62.1,
+    "geom:longitude":25.1,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"134.0",
+    "gn:admin3_code":"182.0",
+    "gn:asciiname":"Siniaevirta",
+    "gn:country_code":"FI",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":636747,
+    "gn:latitude":62.1,
+    "gn:longitude":25.1,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Sini\u00e4virta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sini\u00e4nvirta",
+        "Sini\u00e4virta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199101,
+        85633143,
+        404227417,
+        136253047,
+        1159321587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":636747
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"41def62ca380aea12a39c09241e0fc30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321587,
+            "empire_id":136253047,
+            "localadmin_id":907199101,
+            "locality_id":1243047381,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1243047381,
+    "wof:lastmodified":1537622161,
+    "wof:name":"Siniaevirta",
+    "wof:parent_id":907199101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1,
+    62.1,
+    25.1,
+    62.1
+],
+  "geometry": {"coordinates":[25.1,62.1],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209686179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.58163,63.67472,23.58163,63.67472",
+    "geom:latitude":63.67472,
+    "geom:longitude":23.58163,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"154.0",
+    "gn:admin3_code":"288.0",
+    "gn:asciiname":"Emmes",
+    "gn:country_code":"FI",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660267,
+    "gn:latitude":63.67472,
+    "gn:longitude":23.58163,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Emmes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660267
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"0d20ac3d25720e43b79db553ef31200d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209686179
+        }
+    ],
+    "wof:id":1209686179,
+    "wof:lastmodified":1536279402,
+    "wof:name":"Emmes",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.58163,
+    63.67471999999999,
+    23.58163,
+    63.67471999999999
+],
+  "geometry": {"coordinates":[23.58163,63.67471999999999],"type":"Point"}
+}

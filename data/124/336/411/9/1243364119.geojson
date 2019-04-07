@@ -1,0 +1,81 @@
+{
+  "id": 1243364119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.09231,61.33533,22.09231,61.33533",
+    "geom:latitude":61.33533,
+    "geom:longitude":22.09231,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"531.0",
+    "gn:asciiname":"Lammainen",
+    "gn:country_code":"FI",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649254,
+    "gn:latitude":61.33533,
+    "gn:longitude":22.09231,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Lammainen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_historical":[
+        "Lammais"
+    ],
+    "name:swe_x_preferred":[
+        "Lammais"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907198705,
+        85633143,
+        404227405,
+        136253047,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649254
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"bfdae8ebef284d1ab17546b903a6a69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907198705,
+            "locality_id":1243364119,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1243364119,
+    "wof:lastmodified":1537550086,
+    "wof:name":"Lammainen",
+    "wof:parent_id":907198705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.09231,
+    61.33533000000001,
+    22.09231,
+    61.33533000000001
+],
+  "geometry": {"coordinates":[22.09231,61.33533000000001],"type":"Point"}
+}

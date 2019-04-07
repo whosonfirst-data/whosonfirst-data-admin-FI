@@ -1,0 +1,81 @@
+{
+  "id": 1260355539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.85994,64.27021,27.85994,64.27021",
+    "geom:latitude":64.27021,
+    "geom:longitude":27.85994,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"182.0",
+    "gn:admin3_code":"205.0",
+    "gn:asciiname":"Kuluntalahti",
+    "gn:country_code":"FI",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":650425,
+    "gn:latitude":64.27021,
+    "gn:longitude":27.85994,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kuluntalahti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuluntalahti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0443\u043d\u0442\u0430\u043b\u0430\u0445\u0442\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683137,
+        102191581,
+        907199455,
+        85633143,
+        404227415,
+        136253047,
+        1159321487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":650425
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1c10d713c754de904a9080e7caa0cabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199455,
+            "locality_id":1260355539,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":1260355539,
+    "wof:lastmodified":1537622236,
+    "wof:name":"Kuluntalahti",
+    "wof:parent_id":907199455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.85994,
+    64.27020999999999,
+    27.85994,
+    64.27020999999999
+],
+  "geometry": {"coordinates":[27.85994,64.27020999999999],"type":"Point"}
+}

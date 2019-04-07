@@ -1,0 +1,76 @@
+{
+  "id": 1243557859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25521,60.46287,22.25521,60.46287",
+    "geom:latitude":60.46287,
+    "geom:longitude":22.25521,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"853.0",
+    "gn:asciiname":"Kaehaeri",
+    "gn:country_code":"FI",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":841959,
+    "gn:latitude":60.46287,
+    "gn:longitude":22.25521,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"K\u00e4h\u00e4ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198909,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":841959,
+        "wk:page":"K%C3%A4h%C3%A4ri"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"56562545d2c56e02cac425cdf56cc554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198909,
+            "locality_id":1243557859,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1243557859,
+    "wof:lastmodified":1537562799,
+    "wof:name":"Kaehaeri",
+    "wof:parent_id":907198909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25521,
+    60.46287,
+    22.25521,
+    60.46287
+],
+  "geometry": {"coordinates":[22.25521,60.46287],"type":"Point"}
+}

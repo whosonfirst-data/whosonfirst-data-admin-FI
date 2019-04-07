@@ -1,0 +1,75 @@
+{
+  "id": 1327152133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.27638,60.50116,26.27638,60.50116",
+    "geom:latitude":60.50116,
+    "geom:longitude":26.27638,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"16.0",
+    "gn:admin3_code":"434.0",
+    "gn:asciiname":"Skogby",
+    "gn:country_code":"FI",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":636544,
+    "gn:latitude":60.50116,
+    "gn:longitude":26.27638,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Skogby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198469,
+        85633143,
+        404227411,
+        136253047,
+        1159321525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":636544
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a2cd9df1b1bf98ef1785368e044c3a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321525,
+            "empire_id":136253047,
+            "localadmin_id":907198469,
+            "locality_id":1327152133,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1327152133,
+    "wof:lastmodified":1537082302,
+    "wof:name":"Skogby",
+    "wof:parent_id":907198469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27638,
+    60.50116,
+    26.27638,
+    60.50116
+],
+  "geometry": {"coordinates":[26.27638,60.50116],"type":"Point"}
+}

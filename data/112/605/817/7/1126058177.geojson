@@ -1,0 +1,106 @@
+{
+  "id": 1126058177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35,60.53333,22.35,60.53333",
+    "geom:latitude":60.53333,
+    "geom:longitude":22.35,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.53333,
+    "lbl:longitude":22.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "J\u00e4k\u00e4rl\u00e4"
+    ],
+    "name:fin_x_preferred":[
+        "J\u00e4k\u00e4rl\u00e4"
+    ],
+    "name:koi_x_preferred":[
+        "\u042f\u043a\u044f\u0440\u043b\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0430\u043a\u044f\u0440\u043b\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "J\u00e4k\u00e4rl\u00e4"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":656137,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"J\u00e4k\u00e4rl\u00e4",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Varsinais-Suomen maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1070293,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":566121,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Varsinais-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198909,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":656137,
+        "gp:id":566121,
+        "qs_pg:id":1070293,
+        "wd:id":"Q3926452"
+    },
+    "wof:country":"FI",
+    "wof:created":1497303561,
+    "wof:geomhash":"9dd400afe9c9f2fe66a71056689625ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198909,
+            "locality_id":1126058177,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1126058177,
+    "wof:lastmodified":1529706491,
+    "wof:name":"J\u00e4k\u00e4rl\u00e4",
+    "wof:parent_id":907198909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35,
+    60.53333,
+    22.35,
+    60.53333
+],
+  "geometry": {"coordinates":[22.35,60.53333],"type":"Point"}
+}

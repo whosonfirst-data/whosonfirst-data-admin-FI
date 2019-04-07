@@ -1,0 +1,79 @@
+{
+  "id": 1343436923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.24771,64.80527,28.24771,64.80527",
+    "geom:latitude":64.80527,
+    "geom:longitude":28.24771,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"181.0",
+    "gn:admin3_code":"105.0",
+    "gn:asciiname":"Kytoemaeki",
+    "gn:country_code":"FI",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649594,
+    "gn:latitude":64.80527,
+    "gn:longitude":28.24771,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kyt\u00f6m\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyt\u00e4m\u00e4ki",
+        "Kyt\u00f6m\u00e4ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683137,
+        102191581,
+        907199531,
+        85633143,
+        404227415,
+        136253047,
+        1159321549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649594
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"306b691267ae9fd047765fb2945ebd77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321549,
+            "empire_id":136253047,
+            "localadmin_id":907199531,
+            "locality_id":1343436923,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":1343436923,
+    "wof:lastmodified":1537622230,
+    "wof:name":"Kytoemaeki",
+    "wof:parent_id":907199531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.24771,
+    64.80527,
+    28.24771,
+    64.80527
+],
+  "geometry": {"coordinates":[28.24771,64.80526999999999],"type":"Point"}
+}

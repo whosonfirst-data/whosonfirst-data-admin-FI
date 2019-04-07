@@ -1,0 +1,81 @@
+{
+  "id": 1360305395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.93781,60.51465,26.93781,60.51465",
+    "geom:latitude":60.51465,
+    "geom:longitude":26.93781,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"82.0",
+    "gn:admin3_code":"285.0",
+    "gn:asciiname":"Helilae",
+    "gn:country_code":"FI",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":658243,
+    "gn:latitude":60.51465,
+    "gn:longitude":26.93781,
+    "gn:modification_date":"2016-08-20",
+    "gn:name":"Helil\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Helil\u00e4"
+    ],
+    "name:swe_x_preferred":[
+        "Heligby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683081,
+        102191581,
+        907198683,
+        85633143,
+        404227411,
+        136253047,
+        1159321573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":658243
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"880d62ff9da827454f6f15874bdc70b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321573,
+            "empire_id":136253047,
+            "localadmin_id":907198683,
+            "locality_id":1360305395,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":1360305395,
+    "wof:lastmodified":1537550101,
+    "wof:name":"Helilae",
+    "wof:parent_id":907198683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93781,
+    60.51465,
+    26.93781,
+    60.51465
+],
+  "geometry": {"coordinates":[26.93781,60.51465],"type":"Point"}
+}

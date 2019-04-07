@@ -1,0 +1,65 @@
+{
+  "id": 102553385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.195,61.2452777778,22.195,61.2452777778",
+    "geom:latitude":61.245278,
+    "geom:longitude":22.195,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"148",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424812,
+        "county_id":56120875,
+        "localadmin_id":12590926,
+        "planet_id":1,
+        "state_id":29389252
+    },
+    "wof:belongsto":[
+        85633143,
+        85683095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512794,
+        "icao:code":"EFPI",
+        "oa:id":"2335",
+        "wd:id":"Q11888045"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d3d440026b5e78084aa355dfc89401fd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553385,
+            "country_id":85633143,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":102553385,
+    "wof:lastmodified":1543846096,
+    "wof:name":"Piikajarvi lentokentt\u00e4",
+    "wof:parent_id":85683095,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    22.195,
+    61.245277777778,
+    22.195,
+    61.245277777778
+],
+  "geometry": {"coordinates":[22.195,61.245277777778],"type":"Point"}
+}

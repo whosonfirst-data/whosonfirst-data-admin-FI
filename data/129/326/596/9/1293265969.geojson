@@ -1,0 +1,87 @@
+{
+  "id": 1293265969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70359,62.36471,21.70359,62.36471",
+    "geom:latitude":62.36471,
+    "geom:longitude":21.70359,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"141.0",
+    "gn:admin3_code":"218.0",
+    "gn:asciiname":"Metsaelehdonkylae",
+    "gn:country_code":"FI",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":842285,
+    "gn:latitude":62.36471,
+    "gn:longitude":21.70359,
+    "gn:modification_date":"2016-11-13",
+    "gn:name":"Mets\u00e4lehdonkyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Skogslundsby"
+    ],
+    "name:nno_x_preferred":[
+        "Skogslundsby"
+    ],
+    "name:nob_x_preferred":[
+        "Skogslundsby"
+    ],
+    "name:swe_x_preferred":[
+        "Skogslundsby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199065,
+        85633143,
+        404227417,
+        136253047,
+        1159321543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":842285
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"693ae3d2de83e1e55fffcecd951300da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321543,
+            "empire_id":136253047,
+            "localadmin_id":907199065,
+            "locality_id":1293265969,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1293265969,
+    "wof:lastmodified":1537622309,
+    "wof:name":"Metsaelehdonkylae",
+    "wof:parent_id":907199065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70359,
+    62.36471,
+    21.70359,
+    62.36471
+],
+  "geometry": {"coordinates":[21.70359,62.36471],"type":"Point"}
+}

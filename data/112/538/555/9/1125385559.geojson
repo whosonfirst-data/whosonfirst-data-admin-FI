@@ -1,0 +1,95 @@
+{
+  "id": 1125385559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.57331,64.89673,25.57331,64.89673",
+    "geom:latitude":64.89673,
+    "geom:longitude":25.57331,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":15864,
+    "gn:population":15864,
+    "iso:country":"FI",
+    "lbl:latitude":64.89673,
+    "lbl:longitude":25.57331,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Kempele"
+    ],
+    "name:fin_x_variant":[
+        "Kempeleen Kunta"
+    ],
+    "name:swe_x_preferred":[
+        "Kempele"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":653253,
+    "qs_pg:gn_pop":15864,
+    "qs_pg:name":"Kempele",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1030105,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        85633143,
+        404227415,
+        136253047,
+        1159321529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":653253,
+        "qs_pg:id":1030105
+    },
+    "wof:country":"FI",
+    "wof:created":1497048350,
+    "wof:geomhash":"1a98fe3a832de374989b63d21c092ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321529,
+            "empire_id":136253047,
+            "localadmin_id":1125385559,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1125385559,
+    "wof:lastmodified":1534379301,
+    "wof:name":"Kempele",
+    "wof:parent_id":1159321529,
+    "wof:placetype":"localadmin",
+    "wof:population":15864,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[
+        907199479
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.57331,
+    64.89673,
+    25.57331,
+    64.89673
+],
+  "geometry": {"coordinates":[25.57331,64.89673000000001],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209217667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94942,60.4753,21.94942,60.4753",
+    "geom:latitude":60.4753,
+    "geom:longitude":21.94942,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"529.0",
+    "gn:asciiname":"Keitilae",
+    "gn:country_code":"FI",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":842014,
+    "gn:latitude":60.4753,
+    "gn:longitude":21.94942,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Keitil\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":842014
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d1bd31422f3ab9721e69e58cb9b78b2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209217667
+        }
+    ],
+    "wof:id":1209217667,
+    "wof:lastmodified":1536294075,
+    "wof:name":"Keitilae",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94942,
+    60.4753,
+    21.94942,
+    60.4753
+],
+  "geometry": {"coordinates":[21.94942,60.4753],"type":"Point"}
+}

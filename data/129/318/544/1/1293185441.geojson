@@ -1,0 +1,75 @@
+{
+  "id": 1293185441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.66686,61.26637,28.66686,61.26637",
+    "geom:latitude":61.26637,
+    "geom:longitude":28.66686,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"93.0",
+    "gn:admin3_code":"700.0",
+    "gn:asciiname":"Savilahti",
+    "gn:country_code":"FI",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":637337,
+    "gn:latitude":61.26637,
+    "gn:longitude":28.66686,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Savilahti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198791,
+        85633143,
+        404227411,
+        136253047,
+        1159321507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637337
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d747bee1cf706ecea87ec1f02815a3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321507,
+            "empire_id":136253047,
+            "localadmin_id":907198791,
+            "locality_id":1293185441,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":1293185441,
+    "wof:lastmodified":1536725975,
+    "wof:name":"Savilahti",
+    "wof:parent_id":907198791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.66686,
+    61.26637,
+    28.66686,
+    61.26637
+],
+  "geometry": {"coordinates":[28.66686,61.26637],"type":"Point"}
+}

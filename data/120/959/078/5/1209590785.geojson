@@ -1,0 +1,66 @@
+{
+  "id": 1209590785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.21473,66.69677,27.21473,66.69677",
+    "geom:latitude":66.69677,
+    "geom:longitude":27.21473,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"194.0",
+    "gn:admin3_code":"320.0",
+    "gn:asciiname":"Hanhikoski",
+    "gn:country_code":"FI",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101590,
+    "gn:latitude":66.69677,
+    "gn:longitude":27.21473,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Hanhikoski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Hanhikoski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101590
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f6316ef9882b43a764faf8dbe54b5fbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209590785
+        }
+    ],
+    "wof:id":1209590785,
+    "wof:lastmodified":1537622336,
+    "wof:name":"Hanhikoski",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.21473,
+    66.69677,
+    27.21473,
+    66.69677
+],
+  "geometry": {"coordinates":[27.21473,66.69677],"type":"Point"}
+}

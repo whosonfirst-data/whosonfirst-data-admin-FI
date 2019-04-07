@@ -1,0 +1,79 @@
+{
+  "id": 1276241465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.21111,60.25427,22.21111,60.25427",
+    "geom:latitude":60.25427,
+    "geom:longitude":22.21111,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"445.0",
+    "gn:asciiname":"Fallboele",
+    "gn:country_code":"FI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660044,
+    "gn:latitude":60.25427,
+    "gn:longitude":22.21111,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Fallb\u00f6le",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ralb\u00f6le",
+        "Fallb\u00f6le"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907199741,
+        85633143,
+        404227405,
+        136253047,
+        1159321605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660044
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"62a1599a719df39a1bd340199c44f452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321605,
+            "empire_id":136253047,
+            "localadmin_id":907199741,
+            "locality_id":1276241465,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1276241465,
+    "wof:lastmodified":1537622296,
+    "wof:name":"Fallboele",
+    "wof:parent_id":907199741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.21111,
+    60.25427,
+    22.21111,
+    60.25427
+],
+  "geometry": {"coordinates":[22.21111,60.25427],"type":"Point"}
+}

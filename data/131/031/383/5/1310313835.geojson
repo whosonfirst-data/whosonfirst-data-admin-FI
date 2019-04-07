@@ -1,0 +1,75 @@
+{
+  "id": 1310313835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48753,60.56001,22.48753,60.56001",
+    "geom:latitude":60.56001,
+    "geom:longitude":22.48753,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"423.0",
+    "gn:asciiname":"Kaurinkoski",
+    "gn:country_code":"FI",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":854915,
+    "gn:latitude":60.56001,
+    "gn:longitude":22.48753,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kaurinkoski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907199011,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":854915
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"65ae7dfde4aff0a2b2dd9e78ddbb2a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907199011,
+            "locality_id":1310313835,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1310313835,
+    "wof:lastmodified":1536696013,
+    "wof:name":"Kaurinkoski",
+    "wof:parent_id":907199011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48753,
+    60.56001,
+    22.48753,
+    60.56001
+],
+  "geometry": {"coordinates":[22.48753,60.56001],"type":"Point"}
+}

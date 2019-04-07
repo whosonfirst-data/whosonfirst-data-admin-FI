@@ -1,0 +1,78 @@
+{
+  "id": 1310423253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.94014,60.43303,24.94014,60.43303",
+    "geom:latitude":60.43303,
+    "geom:longitude":24.94014,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"858.0",
+    "gn:asciiname":"Siippoo",
+    "gn:country_code":"FI",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101532,
+    "gn:latitude":60.43303,
+    "gn:longitude":24.94014,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Siippoo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Siippoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198631,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101532
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1328d1c1c731289ba82c152bc13cce21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198631,
+            "locality_id":1310423253,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1310423253,
+    "wof:lastmodified":1537622334,
+    "wof:name":"Siippoo",
+    "wof:parent_id":907198631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.94014,
+    60.43303,
+    24.94014,
+    60.43303
+],
+  "geometry": {"coordinates":[24.94014,60.43303],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 1125376159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-12-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03986,61.21545,24.03986,61.21545",
+    "geom:latitude":61.21545,
+    "geom:longitude":24.03986,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":20844,
+    "gn:population":20844,
+    "iso:country":"FI",
+    "lbl:latitude":61.21545,
+    "lbl:longitude":24.03986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Valkeakoski"
+    ],
+    "name:fin_x_variant":[
+        "Valkeakosken Kaupunki"
+    ],
+    "name:swe_x_preferred":[
+        "Valkeakoski"
+    ],
+    "name:unk_x_variant":[
+        "Valkeakosken"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":632674,
+    "qs_pg:gn_pop":20844,
+    "qs_pg:name":"Valkeakoski",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":369821,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        85633143,
+        404227417,
+        136253047,
+        1159321621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":632674,
+        "qs_pg:id":369821
+    },
+    "wof:country":"FI",
+    "wof:created":1497047755,
+    "wof:geomhash":"2a9c7a3e72cfc0032e74ac2593dce7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321621,
+            "empire_id":136253047,
+            "localadmin_id":1125376159,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1125376159,
+    "wof:lastmodified":1544223146,
+    "wof:name":"Valkeakoski",
+    "wof:parent_id":1159321621,
+    "wof:placetype":"localadmin",
+    "wof:population":20844,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03986,
+    61.21545,
+    24.03986,
+    61.21545
+],
+  "geometry": {"coordinates":[24.03986,61.21545],"type":"Point"}
+}

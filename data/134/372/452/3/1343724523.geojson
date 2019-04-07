@@ -1,0 +1,85 @@
+{
+  "id": 1343724523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.32707,65.89707,28.32707,65.89707",
+    "geom:latitude":65.89707,
+    "geom:longitude":28.32707,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"194.0",
+    "gn:admin3_code":"614.0",
+    "gn:asciiname":"Kynsivaara",
+    "gn:country_code":"FI",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649672,
+    "gn:latitude":65.89707,
+    "gn:longitude":28.32707,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kynsivaara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kynsij\u00e4rvi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044e\u043d\u0441\u0438\u0432\u0430\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kynsil\u00e4",
+        "Kynsij\u00e4rvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199533,
+        85633143,
+        404227409,
+        136253047,
+        1159321535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649672
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b64b64cefd123d6efca40981f8d2c30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321535,
+            "empire_id":136253047,
+            "localadmin_id":907199533,
+            "locality_id":1343724523,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1343724523,
+    "wof:lastmodified":1537622230,
+    "wof:name":"Kynsivaara",
+    "wof:parent_id":907199533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.32707000000001,
+    65.89707,
+    28.32707000000001,
+    65.89707
+],
+  "geometry": {"coordinates":[28.32707000000001,65.89707],"type":"Point"}
+}

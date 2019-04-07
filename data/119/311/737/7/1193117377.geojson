@@ -1,0 +1,103 @@
+{
+  "id": 1193117377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.84711,62.76023,29.84711,62.76023",
+    "geom:latitude":62.76023,
+    "geom:longitude":29.84711,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"122.0",
+    "gn:admin3_code":"276.0",
+    "gn:asciiname":"Kontiolahti",
+    "gn:country_code":"FI",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":651659,
+    "gn:latitude":62.76023,
+    "gn:longitude":29.84711,
+    "gn:modification_date":"2015-03-12",
+    "gn:name":"Kontiolahti",
+    "gn:population":12411,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kontiolahti"
+    ],
+    "name:est_x_preferred":[
+        "Kontiolahti vald"
+    ],
+    "name:fin_x_preferred":[
+        "Kontiolahti"
+    ],
+    "name:nno_x_preferred":[
+        "Kontiolax"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0442\u0438\u043e\u043b\u0430\u0445\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kontiolax"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0442\u0456\u043e\u043b\u0430\u0433\u0442\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u8482\u5967\u62c9\u8d6b\u8482"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199445,
+        85633143,
+        404227407,
+        136253047,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":651659,
+        "wk:page":"Kontiolahti"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"201a219930dd9929632beba0a2564eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199445,
+            "locality_id":1193117377,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1193117377,
+    "wof:lastmodified":1537622244,
+    "wof:name":"Kontiolahti",
+    "wof:parent_id":907199445,
+    "wof:placetype":"locality",
+    "wof:population":12411,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.84711,
+    62.76023000000001,
+    29.84711,
+    62.76023000000001
+],
+  "geometry": {"coordinates":[29.84711,62.76023000000001],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209332307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.61954,60.3472,25.61954,60.3472",
+    "geom:latitude":60.3472,
+    "geom:longitude":25.61954,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"638.0",
+    "gn:asciiname":"Haikkoo",
+    "gn:country_code":"FI",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":844285,
+    "gn:latitude":60.3472,
+    "gn:longitude":25.61954,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Haikkoo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Haikkoo"
+    ],
+    "name:swe_x_preferred":[
+        "Haiko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":844285
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"0437bc7dcee3b1e7b2995e6b6d6284c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209332307
+        }
+    ],
+    "wof:id":1209332307,
+    "wof:lastmodified":1537622310,
+    "wof:name":"Haikkoo",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.61954,
+    60.3472,
+    25.61954,
+    60.3472
+],
+  "geometry": {"coordinates":[25.61954,60.3472],"type":"Point"}
+}

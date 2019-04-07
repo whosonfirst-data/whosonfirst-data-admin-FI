@@ -1,0 +1,63 @@
+{
+  "id": 1209689671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.22889,62.36859,23.22889,62.36859",
+    "geom:latitude":62.36859,
+    "geom:longitude":23.22889,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"743.0",
+    "gn:asciiname":"Sammatti",
+    "gn:country_code":"FI",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":637834,
+    "gn:latitude":62.36859,
+    "gn:longitude":23.22889,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Sammatti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637834
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9f9c4dcbc1f1e5a2092efd13814741bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209689671
+        }
+    ],
+    "wof:id":1209689671,
+    "wof:lastmodified":1536279288,
+    "wof:name":"Sammatti",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.22889,
+    62.36859000000001,
+    23.22889,
+    62.36859000000001
+],
+  "geometry": {"coordinates":[23.22889,62.36859000000001],"type":"Point"}
+}

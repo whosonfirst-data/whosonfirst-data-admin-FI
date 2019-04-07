@@ -1,0 +1,81 @@
+{
+  "id": 1343372837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.62222,60.42417,25.62222,60.42417",
+    "geom:latitude":60.42417,
+    "geom:longitude":25.62222,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"638.0",
+    "gn:asciiname":"Teissala",
+    "gn:country_code":"FI",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":844387,
+    "gn:latitude":60.42417,
+    "gn:longitude":25.62222,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Teissala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Teissala"
+    ],
+    "name:swe_x_preferred":[
+        "Teisala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198525,
+        85633143,
+        404227411,
+        136253047,
+        1159321593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":844387
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"17fffdf508c0aa37cfcb6ab8b91a8804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321593,
+            "empire_id":136253047,
+            "localadmin_id":907198525,
+            "locality_id":1343372837,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1343372837,
+    "wof:lastmodified":1537622310,
+    "wof:name":"Teissala",
+    "wof:parent_id":907198525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.62222,
+    60.42417,
+    25.62222,
+    60.42417
+],
+  "geometry": {"coordinates":[25.62222,60.42417],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1125847049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8,61.26667,26.8,61.26667",
+    "geom:latitude":61.26667,
+    "geom:longitude":26.8,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":61.26667,
+    "lbl:longitude":26.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Voikoski"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0439\u043a\u043e\u0441\u043a\u0438"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":631281,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Voikoski",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Kymeenlaakson maakunta",
+    "qs_pg:photos":151,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":151,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":247460,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":575090,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Kymeenlaakson maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683081,
+        102191581,
+        907198969,
+        85633143,
+        404227411,
+        136253047,
+        1159321557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631281,
+        "gp:id":575090,
+        "qs_pg:id":247460
+    },
+    "wof:country":"FI",
+    "wof:created":1497293214,
+    "wof:geomhash":"542f4d5321ea62b7b9b2403d627cec2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321557,
+            "empire_id":136253047,
+            "localadmin_id":907198969,
+            "locality_id":1125847049,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":1125847049,
+    "wof:lastmodified":1529707619,
+    "wof:name":"Voikoski",
+    "wof:parent_id":907198969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8,
+    61.26667,
+    26.8,
+    61.26667
+],
+  "geometry": {"coordinates":[26.8,61.26667],"type":"Point"}
+}

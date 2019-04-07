@@ -1,0 +1,88 @@
+{
+  "id": 1209406595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.72964,60.80487,25.72964,60.80487",
+    "geom:latitude":60.80487,
+    "geom:longitude":25.72964,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"560.0",
+    "gn:asciiname":"Orimattila",
+    "gn:country_code":"FI",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":643644,
+    "gn:latitude":60.80487,
+    "gn:longitude":25.72964,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Orimattila",
+    "gn:population":14603,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Orimattila"
+    ],
+    "name:est_x_preferred":[
+        "Orimattila linn"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041e\u0440\u0438\u043c\u0430\u0442\u0442\u0438\u043b\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0438\u043c\u0430\u0442\u0442\u0438\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0456\u043c\u0430\u0442\u0442\u0456\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0631\u06cc \u0645\u062a\u06cc\u0644\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u91cc\u99ac\u8482\u62c9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643644,
+        "wk:page":"Orimattila"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"cc91a4a4a24c3c702dd346515c89d893",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209406595
+        }
+    ],
+    "wof:id":1209406595,
+    "wof:lastmodified":1537622198,
+    "wof:name":"Orimattila",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:population":14603,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.72964,
+    60.80487,
+    25.72964,
+    60.80487
+],
+  "geometry": {"coordinates":[25.72964,60.80487],"type":"Point"}
+}

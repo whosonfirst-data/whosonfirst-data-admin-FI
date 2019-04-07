@@ -1,0 +1,79 @@
+{
+  "id": 1327207155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48333,63.36667,22.48333,63.36667",
+    "geom:latitude":63.36667,
+    "geom:longitude":22.48333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"154.0",
+    "gn:admin3_code":"893.0",
+    "gn:asciiname":"Stenbaeck",
+    "gn:country_code":"FI",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":636107,
+    "gn:latitude":63.36667,
+    "gn:longitude":22.48333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Stenb\u00e4ck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stenbacka",
+        "Stenb\u00e4ck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199045,
+        85633143,
+        404227417,
+        136253047,
+        1159321639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":636107
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"97a287263f8e77ae93a64d8a9b2f18c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321639,
+            "empire_id":136253047,
+            "localadmin_id":907199045,
+            "locality_id":1327207155,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1327207155,
+    "wof:lastmodified":1537622158,
+    "wof:name":"Stenbaeck",
+    "wof:parent_id":907199045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48333,
+    63.36666999999999,
+    22.48333,
+    63.36666999999999
+],
+  "geometry": {"coordinates":[22.48333,63.36666999999999],"type":"Point"}
+}

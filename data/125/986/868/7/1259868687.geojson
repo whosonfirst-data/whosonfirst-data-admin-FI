@@ -1,0 +1,95 @@
+{
+  "id": 1259868687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3,62.06667,28.3,62.06667",
+    "geom:latitude":62.06667,
+    "geom:longitude":28.3,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"681.0",
+    "gn:asciiname":"Rantasalmi",
+    "gn:country_code":"FI",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":639906,
+    "gn:latitude":62.06667,
+    "gn:longitude":28.3,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Rantasalmi",
+    "gn:population":4443,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043d\u0442\u0430\u0441\u0430\u043b\u043c\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043d\u0442\u0430\u0441\u0430\u043b\u043c\u0438"
+    ],
+    "name:und_x_variant":[
+        "Rantasalimi",
+        "Rantasalmi"
+    ],
+    "name:zho_x_preferred":[
+        "\u862d\u5854\u85a9\u723e\u7c73"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683109,
+        102191581,
+        907198885,
+        85633143,
+        404227407,
+        136253047,
+        1159321493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639906,
+        "wk:page":"Rantasalmi"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c14ceee5d80dc30d9810bc89bec52995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321493,
+            "empire_id":136253047,
+            "localadmin_id":907198885,
+            "locality_id":1259868687,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":1259868687,
+    "wof:lastmodified":1537622179,
+    "wof:name":"Rantasalmi",
+    "wof:parent_id":907198885,
+    "wof:placetype":"locality",
+    "wof:population":4443,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3,
+    62.06667,
+    28.3,
+    62.06667
+],
+  "geometry": {"coordinates":[28.3,62.06667],"type":"Point"}
+}

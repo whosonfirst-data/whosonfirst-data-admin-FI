@@ -1,0 +1,75 @@
+{
+  "id": 1293602223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84071,60.38602,21.84071,60.38602",
+    "geom:latitude":60.38602,
+    "geom:longitude":21.84071,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"529.0",
+    "gn:asciiname":"Kaastla",
+    "gn:country_code":"FI",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":841758,
+    "gn:latitude":60.38602,
+    "gn:longitude":21.84071,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kaastla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198913,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":841758
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3ceb0300423d12228b692a292d8d71b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198913,
+            "locality_id":1293602223,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1293602223,
+    "wof:lastmodified":1536619524,
+    "wof:name":"Kaastla",
+    "wof:parent_id":907198913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84071,
+    60.38602,
+    21.84071,
+    60.38602
+],
+  "geometry": {"coordinates":[21.84071,60.38602],"type":"Point"}
+}

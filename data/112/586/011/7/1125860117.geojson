@@ -1,0 +1,119 @@
+{
+  "id": 1125860117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.22778,60.38833,22.22778,60.38833",
+    "geom:latitude":60.38833,
+    "geom:longitude":22.22778,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.38833,
+    "lbl:longitude":22.22778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Harlax"
+    ],
+    "name:eng_x_preferred":[
+        "Haarla"
+    ],
+    "name:fin_x_preferred":[
+        "Haarla"
+    ],
+    "name:isl_x_preferred":[
+        "Harlax"
+    ],
+    "name:koi_x_preferred":[
+        "\u0425\u0430\u0440\u043b\u0430"
+    ],
+    "name:nor_x_preferred":[
+        "Harlax"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0430\u0440\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Harlax"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":841797,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Haarla",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Varsinais-Suomen maakunta",
+    "qs_pg:photos":119,
+    "qs_pg:photos_1k":24,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":119,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":353688,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":23408338,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Varsinais-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198909,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":841797,
+        "gp:id":23408338,
+        "qs_pg:id":353688,
+        "wd:id":"Q3926480"
+    },
+    "wof:country":"FI",
+    "wof:created":1497293793,
+    "wof:geomhash":"074e5f7d8b1f66db1b5f78052398f4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198909,
+            "locality_id":1125860117,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1125860117,
+    "wof:lastmodified":1529706476,
+    "wof:name":"Haarla",
+    "wof:parent_id":907198909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.22778,
+    60.38833,
+    22.22778,
+    60.38833
+],
+  "geometry": {"coordinates":[22.22778,60.38833],"type":"Point"}
+}

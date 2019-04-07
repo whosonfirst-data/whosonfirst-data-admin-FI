@@ -1,0 +1,75 @@
+{
+  "id": 1343332109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98333,63.2,21.98333,63.2",
+    "geom:latitude":63.2,
+    "geom:longitude":21.98333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"499.0",
+    "gn:asciiname":"Backoja",
+    "gn:country_code":"FI",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660786,
+    "gn:latitude":63.2,
+    "gn:longitude":21.98333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Backoja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907198985,
+        85633143,
+        404227417,
+        136253047,
+        1159321501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660786
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"872d50a320b8f1815548ccb4c5828074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321501,
+            "empire_id":136253047,
+            "localadmin_id":907198985,
+            "locality_id":1343332109,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1343332109,
+    "wof:lastmodified":1536932384,
+    "wof:name":"Backoja",
+    "wof:parent_id":907198985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98333,
+    63.2,
+    21.98333,
+    63.2
+],
+  "geometry": {"coordinates":[21.98333,63.2],"type":"Point"}
+}

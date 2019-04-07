@@ -1,0 +1,75 @@
+{
+  "id": 1293313911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83519,60.81732,25.83519,60.81732",
+    "geom:latitude":60.81732,
+    "geom:longitude":25.83519,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"560.0",
+    "gn:asciiname":"Kaitala",
+    "gn:country_code":"FI",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":654941,
+    "gn:latitude":60.81732,
+    "gn:longitude":25.83519,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kaitala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683091,
+        102191581,
+        907198577,
+        85633143,
+        404227411,
+        136253047,
+        1159321483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":654941
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f65112c03cd67532a7d83df0401abb7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321483,
+            "empire_id":136253047,
+            "localadmin_id":907198577,
+            "locality_id":1293313911,
+            "macroregion_id":404227411,
+            "region_id":85683091
+        }
+    ],
+    "wof:id":1293313911,
+    "wof:lastmodified":1537035796,
+    "wof:name":"Kaitala",
+    "wof:parent_id":907198577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83519,
+    60.81732,
+    25.83519,
+    60.81732
+],
+  "geometry": {"coordinates":[25.83519,60.81732],"type":"Point"}
+}

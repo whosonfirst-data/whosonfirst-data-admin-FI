@@ -1,0 +1,80 @@
+{
+  "id": 1260053825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.77293,62.45007,22.77293,62.45007",
+    "geom:latitude":62.45007,
+    "geom:longitude":22.77293,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"301.0",
+    "gn:asciiname":"Mantila",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":646719,
+    "gn:latitude":62.45007,
+    "gn:longitude":22.77293,
+    "gn:modification_date":"2016-02-03",
+    "gn:name":"Mantila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manttila",
+        "Mantila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199007,
+        85633143,
+        404227417,
+        136253047,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":646719
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1676d89e59ecc6ce08395fea7c782f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199007,
+            "locality_id":1260053825,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1260053825,
+    "wof:lastmodified":1537622215,
+    "wof:name":"Mantila",
+    "wof:parent_id":907199007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.77293,
+    62.45007,
+    22.77293,
+    62.45007
+],
+  "geometry": {"coordinates":[22.77293,62.45007],"type":"Point"}
+}

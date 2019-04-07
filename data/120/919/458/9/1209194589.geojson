@@ -1,0 +1,63 @@
+{
+  "id": 1209194589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.36801,62.1311,30.36801,62.1311",
+    "geom:latitude":62.1311,
+    "geom:longitude":30.36801,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"124.0",
+    "gn:admin3_code":"848.0",
+    "gn:asciiname":"Hakosuo",
+    "gn:country_code":"FI",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7731821,
+    "gn:latitude":62.1311,
+    "gn:longitude":30.36801,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Hakosuo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7731821
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"bf1bd6d8a17bed8f46817aa59f5b5823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209194589
+        }
+    ],
+    "wof:id":1209194589,
+    "wof:lastmodified":1536294816,
+    "wof:name":"Hakosuo",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.36801,
+    62.1311,
+    30.36801,
+    62.1311
+],
+  "geometry": {"coordinates":[30.36801,62.1311],"type":"Point"}
+}

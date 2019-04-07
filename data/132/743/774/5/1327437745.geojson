@@ -1,0 +1,75 @@
+{
+  "id": 1327437745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48401,61.14349,21.48401,61.14349",
+    "geom:latitude":61.14349,
+    "geom:longitude":21.48401,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"684.0",
+    "gn:asciiname":"Syvaerauma",
+    "gn:country_code":"FI",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":635281,
+    "gn:latitude":61.14349,
+    "gn:longitude":21.48401,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Syv\u00e4rauma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907198665,
+        85633143,
+        404227405,
+        136253047,
+        1159321607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":635281
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"03ebb88f94875ecc24a7b083de6ab6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321607,
+            "empire_id":136253047,
+            "localadmin_id":907198665,
+            "locality_id":1327437745,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1327437745,
+    "wof:lastmodified":1536673000,
+    "wof:name":"Syvaerauma",
+    "wof:parent_id":907198665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48401,
+    61.14349,
+    21.48401,
+    61.14349
+],
+  "geometry": {"coordinates":[21.48401,61.14349],"type":"Point"}
+}

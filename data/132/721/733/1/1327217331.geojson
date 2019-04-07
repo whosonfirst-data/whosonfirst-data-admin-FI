@@ -1,0 +1,75 @@
+{
+  "id": 1327217331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.97897,63.09745,22.97897,63.09745",
+    "geom:latitude":63.09745,
+    "geom:longitude":22.97897,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"233.0",
+    "gn:asciiname":"Hemminki",
+    "gn:country_code":"FI",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":658217,
+    "gn:latitude":63.09745,
+    "gn:longitude":22.97897,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Hemminki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199237,
+        85633143,
+        404227417,
+        136253047,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":658217
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"18f5a5beb17a3b0eee77cac2a1ef89eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199237,
+            "locality_id":1327217331,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1327217331,
+    "wof:lastmodified":1536990585,
+    "wof:name":"Hemminki",
+    "wof:parent_id":907199237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97897,
+    63.09745,
+    22.97897,
+    63.09745
+],
+  "geometry": {"coordinates":[22.97897,63.09745],"type":"Point"}
+}

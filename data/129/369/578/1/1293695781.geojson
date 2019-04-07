@@ -1,0 +1,75 @@
+{
+  "id": 1293695781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35897,60.54867,21.35897,60.54867",
+    "geom:latitude":60.54867,
+    "geom:longitude":21.35897,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"304.0",
+    "gn:asciiname":"Kivimaa",
+    "gn:country_code":"FI",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":652390,
+    "gn:latitude":60.54867,
+    "gn:longitude":21.35897,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kivimaa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198611,
+        85633143,
+        404227405,
+        136253047,
+        1159321637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":652390
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d0545c63a93c6fe612c219ad5806fba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321637,
+            "empire_id":136253047,
+            "localadmin_id":907198611,
+            "locality_id":1293695781,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1293695781,
+    "wof:lastmodified":1536983235,
+    "wof:name":"Kivimaa",
+    "wof:parent_id":907198611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35897000000001,
+    60.54867,
+    21.35897000000001,
+    60.54867
+],
+  "geometry": {"coordinates":[21.35897000000001,60.54867],"type":"Point"}
+}

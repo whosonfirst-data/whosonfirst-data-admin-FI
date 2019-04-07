@@ -1,0 +1,81 @@
+{
+  "id": 1293893189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8122,60.63327,25.8122,60.63327",
+    "geom:latitude":60.63327,
+    "geom:longitude":25.8122,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"504.0",
+    "gn:asciiname":"Humalakoski",
+    "gn:country_code":"FI",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":657135,
+    "gn:latitude":60.63327,
+    "gn:longitude":25.8122,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Humalakoski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Humalakoski"
+    ],
+    "name:swe_x_preferred":[
+        "Humlefors"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198681,
+        85633143,
+        404227411,
+        136253047,
+        1159321593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":657135
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"17523854e5eab36bbd1dc4781f5a2370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321593,
+            "empire_id":136253047,
+            "localadmin_id":907198681,
+            "locality_id":1293893189,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1293893189,
+    "wof:lastmodified":1537622279,
+    "wof:name":"Humalakoski",
+    "wof:parent_id":907198681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8122,
+    60.63327,
+    25.8122,
+    60.63327
+],
+  "geometry": {"coordinates":[25.8122,60.63327],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310380507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.16667,66.26667,28.16667,66.26667",
+    "geom:latitude":66.26667,
+    "geom:longitude":28.16667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"194.0",
+    "gn:admin3_code":"614.0",
+    "gn:asciiname":"Haeme",
+    "gn:country_code":"FI",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":659195,
+    "gn:latitude":66.26667,
+    "gn:longitude":28.16667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"H\u00e4me",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199533,
+        85633143,
+        404227409,
+        136253047,
+        1159321535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":659195
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1b13064660e761f667954c0f15c4173d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321535,
+            "empire_id":136253047,
+            "localadmin_id":907199533,
+            "locality_id":1310380507,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1310380507,
+    "wof:lastmodified":1537094122,
+    "wof:name":"Haeme",
+    "wof:parent_id":907199533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.16667,
+    66.26666999999999,
+    28.16667,
+    66.26666999999999
+],
+  "geometry": {"coordinates":[28.16667,66.26666999999999],"type":"Point"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 1126005711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.36424,60.03202,24.36424,60.03202",
+    "geom:latitude":60.03202,
+    "geom:longitude":24.36424,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":60.03202,
+    "lbl:longitude":24.36424,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0423\u043f\u0438\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:chi_x_preferred":[
+        "\u70cf\u54c1\u6d85\u7c73"
+    ],
+    "name:dut_x_preferred":[
+        "Upinniemi"
+    ],
+    "name:eng_x_preferred":[
+        "Upinniemi"
+    ],
+    "name:fin_x_preferred":[
+        "Upinniemen varuskunta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30d4\u30f3\u30cb\u30a8\u30df"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u043f\u043f\u0438\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Obbn\u00e4s"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":633349,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Upinniemi",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Uudenmaan maakunta",
+    "qs_pg:photos":73,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":73,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1010867,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":574346,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Uudenmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198511,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":633349,
+        "gp:id":574346,
+        "qs_pg:id":1010867,
+        "wd:id":"Q6305111"
+    },
+    "wof:country":"FI",
+    "wof:created":1497299933,
+    "wof:geomhash":"ab73aabf8f803887f989c1e7372d67aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198511,
+            "locality_id":1126005711,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1126005711,
+    "wof:lastmodified":1529714696,
+    "wof:name":"Upinniemi",
+    "wof:parent_id":907198511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.36424,
+    60.03202,
+    24.36424,
+    60.03202
+],
+  "geometry": {"coordinates":[24.36424,60.03202],"type":"Point"}
+}

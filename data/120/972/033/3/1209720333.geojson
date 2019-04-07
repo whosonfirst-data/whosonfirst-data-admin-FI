@@ -1,0 +1,75 @@
+{
+  "id": 1209720333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2,60.7,24.2,60.7",
+    "geom:latitude":60.7,
+    "geom:longitude":24.2,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"52.0",
+    "gn:admin3_code":"433.0",
+    "gn:asciiname":"Salmio",
+    "gn:country_code":"FI",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":637971,
+    "gn:latitude":60.7,
+    "gn:longitude":24.2,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Salmio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683077,
+        102191581,
+        907198573,
+        85633143,
+        404227411,
+        136253047,
+        1159321541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637971
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7ca699e1b4673c1e8e79dca5538a6750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321541,
+            "empire_id":136253047,
+            "localadmin_id":907198573,
+            "locality_id":1209720333,
+            "macroregion_id":404227411,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":1209720333,
+    "wof:lastmodified":1536386669,
+    "wof:name":"Salmio",
+    "wof:parent_id":907198573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2,
+    60.7,
+    24.2,
+    60.7
+],
+  "geometry": {"coordinates":[24.2,60.7],"type":"Point"}
+}

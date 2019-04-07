@@ -1,0 +1,67 @@
+{
+  "id": 1209378497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.15,64.63333,26.15,64.63333",
+    "geom:latitude":64.63333,
+    "geom:longitude":26.15,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"494.0",
+    "gn:asciiname":"Petaejaeniemi",
+    "gn:country_code":"FI",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":641984,
+    "gn:latitude":64.63333,
+    "gn:longitude":26.15,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Pet\u00e4j\u00e4niemi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pett\u00e4ikk\u00f6",
+        "Pet\u00e4j\u00e4niemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":641984
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f332c382a36e3f0d850522be7b1bdef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209378497
+        }
+    ],
+    "wof:id":1209378497,
+    "wof:lastmodified":1537622190,
+    "wof:name":"Petaejaeniemi",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.15,
+    64.63333,
+    26.15,
+    64.63333
+],
+  "geometry": {"coordinates":[26.15,64.63333],"type":"Point"}
+}

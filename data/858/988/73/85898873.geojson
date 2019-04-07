@@ -1,0 +1,115 @@
+{
+  "id": 85898873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":30655048.945511,
+    "geom:bbox":"29.77119,62.59385,29.77119,62.59385",
+    "geom:latitude":62.59385,
+    "geom:longitude":29.77119,
+    "iso:country":"FI",
+    "lbl:latitude":62.59385,
+    "lbl:longitude":29.77119,
+    "mps:latitude":62.59385,
+    "mps:longitude":29.77119,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:fin_x_preferred":[
+        "Niinivaara"
+    ],
+    "name:unk_x_variant":[
+        "Niinivaara"
+    ],
+    "qs:gn_adm0_cc":"FI",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":655808,
+    "qs:gn_nam_loc":"Joensuu",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Niinivaara",
+    "qs:local_max":2508,
+    "qs:local_sum":2508,
+    "qs:localhoods":1,
+    "qs:name":"Niinivaara",
+    "qs:name_adm0":"Suomi",
+    "qs:name_adm1":"Pohjois-karjala maakunta",
+    "qs:name_adm2":"Joensuun",
+    "qs:name_lau":"Joensuu",
+    "qs:name_local":"Joensuu",
+    "qs:photo_max":304,
+    "qs:photo_sum":2508,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":122,
+    "qs:woe_adm0":23424812,
+    "qs:woe_adm1":29389261,
+    "qs:woe_adm2":56120855,
+    "qs:woe_lau":12590885,
+    "qs:woe_local":566238,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199609,
+        85633143,
+        404227407,
+        101748441,
+        136253047,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7731804,
+        "gp:id":570297,
+        "qs:id":1200740,
+        "qs_pg:id":1200740
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f3f944e4e9f72e76d943128bd47af43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199609,
+            "locality_id":101748441,
+            "macroregion_id":404227407,
+            "neighbourhood_id":85898873,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":85898873,
+    "wof:lang":[
+        "fin"
+    ],
+    "wof:lastmodified":1531932117,
+    "wof:name":"Niinivaara",
+    "wof:parent_id":101748441,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.77119,
+    62.59385,
+    29.77119,
+    62.59385
+],
+  "geometry": {"coordinates":[29.77119,62.59385],"type":"Point"}
+}

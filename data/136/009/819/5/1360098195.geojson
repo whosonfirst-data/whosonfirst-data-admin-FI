@@ -1,0 +1,75 @@
+{
+  "id": 1360098195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.49495,60.03002,22.49495,60.03002",
+    "geom:latitude":60.03002,
+    "geom:longitude":22.49495,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"322.0",
+    "gn:asciiname":"Laemmobro",
+    "gn:country_code":"FI",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":848597,
+    "gn:latitude":60.03002,
+    "gn:longitude":22.49495,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"L\u00e4mmobro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907199735,
+        85633143,
+        404227405,
+        136253047,
+        1159321605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":848597
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d50d0fc6b545f1c2d703bc22fb51d36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321605,
+            "empire_id":136253047,
+            "localadmin_id":907199735,
+            "locality_id":1360098195,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1360098195,
+    "wof:lastmodified":1536927363,
+    "wof:name":"Laemmobro",
+    "wof:parent_id":907199735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.49495,
+    60.03001999999999,
+    22.49495,
+    60.03001999999999
+],
+  "geometry": {"coordinates":[22.49495,60.03001999999999],"type":"Point"}
+}

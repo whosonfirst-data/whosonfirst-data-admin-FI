@@ -1,0 +1,78 @@
+{
+  "id": 1243333945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05665,62.91847,22.05665,62.91847",
+    "geom:latitude":62.91847,
+    "geom:longitude":22.05665,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"151.0",
+    "gn:admin3_code":"399.0",
+    "gn:asciiname":"Pukkala",
+    "gn:country_code":"FI",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101339,
+    "gn:latitude":62.91847,
+    "gn:longitude":22.05665,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Pukkala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Pukkala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907198989,
+        85633143,
+        404227417,
+        136253047,
+        1159321589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101339
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"fafab1b6378ed853ead5c7b6b880d4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321589,
+            "empire_id":136253047,
+            "localadmin_id":907198989,
+            "locality_id":1243333945,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1243333945,
+    "wof:lastmodified":1537622327,
+    "wof:name":"Pukkala",
+    "wof:parent_id":907198989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05665,
+    62.91846999999999,
+    22.05665,
+    62.91846999999999
+],
+  "geometry": {"coordinates":[22.05665,62.91846999999999],"type":"Point"}
+}

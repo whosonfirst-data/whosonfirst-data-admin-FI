@@ -1,0 +1,87 @@
+{
+  "id": 1226133321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.52427,60.45576,26.52427,60.45576",
+    "geom:latitude":60.45576,
+    "geom:longitude":26.52427,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"82.0",
+    "gn:admin3_code":"624.0",
+    "gn:asciiname":"Poertnor",
+    "gn:country_code":"FI",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":844643,
+    "gn:latitude":60.45576,
+    "gn:longitude":26.52427,
+    "gn:modification_date":"2016-08-28",
+    "gn:name":"P\u00f6rtnor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Pirtnuora"
+    ],
+    "name:swe_x_historical":[
+        "P\u00f6rtnora"
+    ],
+    "name:swe_x_preferred":[
+        "P\u00f6rtnor"
+    ],
+    "name:swe_x_variant":[
+        "P\u00f6rtnora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683081,
+        102191581,
+        907198651,
+        85633143,
+        404227411,
+        136253047,
+        1159321573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":844643
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f9f77acff7b878532dc90cda300bc14e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321573,
+            "empire_id":136253047,
+            "localadmin_id":907198651,
+            "locality_id":1226133321,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":1226133321,
+    "wof:lastmodified":1537622311,
+    "wof:name":"Poertnor",
+    "wof:parent_id":907198651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.52427,
+    60.45576,
+    26.52427,
+    60.45576
+],
+  "geometry": {"coordinates":[26.52427,60.45576],"type":"Point"}
+}

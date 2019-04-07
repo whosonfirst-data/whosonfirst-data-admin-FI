@@ -1,0 +1,75 @@
+{
+  "id": 1327318091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.21515,61.36985,29.21515,61.36985",
+    "geom:latitude":61.36985,
+    "geom:longitude":29.21515,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"93.0",
+    "gn:admin3_code":"689.0",
+    "gn:asciiname":"Lahdenkylae",
+    "gn:country_code":"FI",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649469,
+    "gn:latitude":61.36985,
+    "gn:longitude":29.21515,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Lahdenkyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198805,
+        85633143,
+        404227411,
+        136253047,
+        1159321507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649469
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b074df80a8eca0b76ac6ee45b62a3399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321507,
+            "empire_id":136253047,
+            "localadmin_id":907198805,
+            "locality_id":1327318091,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":1327318091,
+    "wof:lastmodified":1536844870,
+    "wof:name":"Lahdenkylae",
+    "wof:parent_id":907198805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.21515,
+    61.36985,
+    29.21515,
+    61.36985
+],
+  "geometry": {"coordinates":[29.21515,61.36985],"type":"Point"}
+}

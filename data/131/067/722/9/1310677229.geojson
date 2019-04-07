@@ -1,0 +1,75 @@
+{
+  "id": 1310677229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71667,62.35,25.71667,62.35",
+    "geom:latitude":62.35,
+    "geom:longitude":25.71667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"131.0",
+    "gn:admin3_code":"179.0",
+    "gn:asciiname":"Raessaelae",
+    "gn:country_code":"FI",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":639809,
+    "gn:latitude":62.35,
+    "gn:longitude":25.71667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"R\u00e4ss\u00e4l\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907199265,
+        85633143,
+        404227417,
+        136253047,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639809
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5a5a49e5250cff7db21fce6040ca4358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":907199265,
+            "locality_id":1310677229,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1310677229,
+    "wof:lastmodified":1536669224,
+    "wof:name":"Raessaelae",
+    "wof:parent_id":907199265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71667,
+    62.35,
+    25.71667,
+    62.35
+],
+  "geometry": {"coordinates":[25.71667,62.35],"type":"Point"}
+}

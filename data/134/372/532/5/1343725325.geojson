@@ -1,0 +1,78 @@
+{
+  "id": 1343725325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.41896,64.50709,29.41896,64.50709",
+    "geom:latitude":64.50709,
+    "geom:longitude":29.41896,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"181.0",
+    "gn:admin3_code":"290.0",
+    "gn:asciiname":"Palolammin asutusalue",
+    "gn:country_code":"FI",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101621,
+    "gn:latitude":64.50709,
+    "gn:longitude":29.41896,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Palolammin asutusalue",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Palolammin asutusalue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683137,
+        102191581,
+        907199507,
+        85633143,
+        404227415,
+        136253047,
+        1159321549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101621
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2de9c611e7f3619b29bc1ff1a79d3e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321549,
+            "empire_id":136253047,
+            "localadmin_id":907199507,
+            "locality_id":1343725325,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":1343725325,
+    "wof:lastmodified":1537622337,
+    "wof:name":"Palolammin asutusalue",
+    "wof:parent_id":907199507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.41896,
+    64.50709,
+    29.41896,
+    64.50709
+],
+  "geometry": {"coordinates":[29.41896,64.50709000000001],"type":"Point"}
+}

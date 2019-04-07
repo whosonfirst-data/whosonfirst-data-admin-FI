@@ -1,0 +1,79 @@
+{
+  "id": 1327012709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01667,63.73333,23.01667,63.73333",
+    "geom:latitude":63.73333,
+    "geom:longitude":23.01667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"154.0",
+    "gn:admin3_code":"288.0",
+    "gn:asciiname":"Baeck",
+    "gn:country_code":"FI",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660799,
+    "gn:latitude":63.73333,
+    "gn:longitude":23.01667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"B\u00e4ck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e4ckas",
+        "B\u00e4ck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683119,
+        102191581,
+        907199669,
+        85633143,
+        404227417,
+        136253047,
+        1159321639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660799
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5d11bff17d9c50098879e44a04e34971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321639,
+            "empire_id":136253047,
+            "localadmin_id":907199669,
+            "locality_id":1327012709,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":1327012709,
+    "wof:lastmodified":1537622300,
+    "wof:name":"Baeck",
+    "wof:parent_id":907199669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01667,
+    63.73333,
+    23.01667,
+    63.73333
+],
+  "geometry": {"coordinates":[23.01667,63.73333],"type":"Point"}
+}

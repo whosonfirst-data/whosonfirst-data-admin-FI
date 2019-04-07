@@ -1,0 +1,78 @@
+{
+  "id": 1310319011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81751,60.2272,24.81751,60.2272",
+    "geom:latitude":60.2272,
+    "geom:longitude":24.81751,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"49.0",
+    "gn:asciiname":"Vallikallio",
+    "gn:country_code":"FI",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":658953,
+    "gn:latitude":60.2272,
+    "gn:longitude":24.81751,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Vallikallio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Vallberget"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198517,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":658953
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3d871321168f9ce7cf6d976b79268141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198517,
+            "locality_id":1310319011,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1310319011,
+    "wof:lastmodified":1537550102,
+    "wof:name":"Vallikallio",
+    "wof:parent_id":907198517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81751,
+    60.2272,
+    24.81751,
+    60.2272
+],
+  "geometry": {"coordinates":[24.81751,60.2272],"type":"Point"}
+}

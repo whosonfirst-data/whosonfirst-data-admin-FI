@@ -1,0 +1,81 @@
+{
+  "id": 1344232223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43291,65.80967,24.43291,65.80967",
+    "geom:latitude":65.80967,
+    "geom:longitude":24.43291,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"192.0",
+    "gn:admin3_code":"851.0",
+    "gn:asciiname":"Kaakamo",
+    "gn:country_code":"FI",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":655188,
+    "gn:latitude":65.80967,
+    "gn:longitude":24.43291,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kaakamo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kaakamo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043a\u0430\u043c\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199557,
+        85633143,
+        404227409,
+        136253047,
+        1159321559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":655188
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f8f7be6f17412759cf6708e5b9b2a1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321559,
+            "empire_id":136253047,
+            "localadmin_id":907199557,
+            "locality_id":1344232223,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1344232223,
+    "wof:lastmodified":1537622267,
+    "wof:name":"Kaakamo",
+    "wof:parent_id":907199557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43291,
+    65.80967,
+    24.43291,
+    65.80967
+],
+  "geometry": {"coordinates":[24.43291,65.80967],"type":"Point"}
+}

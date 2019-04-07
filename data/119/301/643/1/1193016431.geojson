@@ -1,0 +1,75 @@
+{
+  "id": 1193016431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34444,61.05128,22.34444,61.05128",
+    "geom:latitude":61.05128,
+    "geom:longitude":22.34444,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"783.0",
+    "gn:asciiname":"Iso-Saekylae",
+    "gn:country_code":"FI",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":656331,
+    "gn:latitude":61.05128,
+    "gn:longitude":22.34444,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Iso-S\u00e4kyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907198925,
+        85633143,
+        404227405,
+        136253047,
+        1159321607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":656331
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3e29003a8ab8c8f2b416cbb79892f186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321607,
+            "empire_id":136253047,
+            "localadmin_id":907198925,
+            "locality_id":1193016431,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1193016431,
+    "wof:lastmodified":1536377974,
+    "wof:name":"Iso-Saekylae",
+    "wof:parent_id":907198925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34444,
+    61.05128000000001,
+    22.34444,
+    61.05128000000001
+],
+  "geometry": {"coordinates":[22.34444,61.05128000000001],"type":"Point"}
+}

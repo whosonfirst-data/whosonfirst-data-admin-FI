@@ -1,0 +1,104 @@
+{
+  "id": 1125376223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.25,66.0,29.25,66.0",
+    "geom:latitude":66.0,
+    "geom:longitude":29.25,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":16492,
+    "gn:population":16492,
+    "iso:country":"FI",
+    "lbl:latitude":66.0,
+    "lbl:longitude":29.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Kuusamo"
+    ],
+    "name:eng_x_preferred":[
+        "Kuusamo"
+    ],
+    "name:fin_x_preferred":[
+        "Kuusamo"
+    ],
+    "name:fin_x_variant":[
+        "Kuusamon Kaupunki"
+    ],
+    "name:fra_x_preferred":[
+        "Kuusamo"
+    ],
+    "name:swe_x_preferred":[
+        "Kuusamo"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":649925,
+    "qs_pg:gn_pop":16492,
+    "qs_pg:name":"Kuusamo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":369913,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        85633143,
+        404227415,
+        136253047,
+        1159321489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649925,
+        "qs_pg:id":369913
+    },
+    "wof:country":"FI",
+    "wof:created":1497047761,
+    "wof:geomhash":"8d2598f454787c2293a8a0cf014bca28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321489,
+            "empire_id":136253047,
+            "localadmin_id":1125376223,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1125376223,
+    "wof:lastmodified":1534379300,
+    "wof:name":"Kuusamo",
+    "wof:parent_id":1159321489,
+    "wof:placetype":"localadmin",
+    "wof:population":16492,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[
+        907199519
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.25,
+    66.0,
+    29.25,
+    66.0
+],
+  "geometry": {"coordinates":[29.25,66.0],"type":"Point"}
+}

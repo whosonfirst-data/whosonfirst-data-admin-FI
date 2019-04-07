@@ -1,0 +1,90 @@
+{
+  "id": 1327244475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19587,60.46447,22.19587,60.46447",
+    "geom:latitude":60.46447,
+    "geom:longitude":22.19587,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"853.0",
+    "gn:asciiname":"Haerkaemaeki",
+    "gn:country_code":"FI",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":842046,
+    "gn:latitude":60.46447,
+    "gn:longitude":22.19587,
+    "gn:modification_date":"2015-05-14",
+    "gn:name":"H\u00e4rk\u00e4m\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Oxbacka"
+    ],
+    "name:isl_x_preferred":[
+        "Oxbacka"
+    ],
+    "name:nor_x_preferred":[
+        "Oxbacka"
+    ],
+    "name:swe_x_preferred":[
+        "Oxbacka"
+    ],
+    "name:und_x_variant":[
+        "H\u00e4rk\u00e4m\u00e4ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907198909,
+        85633143,
+        404227405,
+        136253047,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":842046
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b215f8ea52e37f129c6fdfa39575fd0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198909,
+            "locality_id":1327244475,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1327244475,
+    "wof:lastmodified":1537622309,
+    "wof:name":"Haerkaemaeki",
+    "wof:parent_id":907198909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19587000000001,
+    60.46447,
+    22.19587000000001,
+    60.46447
+],
+  "geometry": {"coordinates":[22.19587000000001,60.46447],"type":"Point"}
+}

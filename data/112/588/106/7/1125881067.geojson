@@ -1,0 +1,107 @@
+{
+  "id": 1125881067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18333,65.58333,25.18333,65.58333",
+    "geom:latitude":65.58333,
+    "geom:longitude":25.18333,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1979,
+    "gn:population":1979,
+    "iso:country":"FI",
+    "lbl:latitude":65.58333,
+    "lbl:longitude":25.18333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kuivaniemi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0439\u0432\u0430\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Kuivaniemi"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":650628,
+    "qs_pg:gn_pop":1979,
+    "qs_pg:name":"Kiviniemi",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Pohjois-pohjanmaan maakunta",
+    "qs_pg:photos":129,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":129,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":905135,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":25951446,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Pohjois-pohjanmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199699,
+        85633143,
+        404227415,
+        136253047,
+        1159321497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":650628,
+        "gp:id":25951446,
+        "qs_pg:id":905135
+    },
+    "wof:country":"FI",
+    "wof:created":1497294807,
+    "wof:geomhash":"edff84d7ea91cce56cf64e5e25cbb936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321497,
+            "empire_id":136253047,
+            "localadmin_id":907199699,
+            "locality_id":1125881067,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1125881067,
+    "wof:lastmodified":1529709432,
+    "wof:name":"Kiviniemi",
+    "wof:parent_id":907199699,
+    "wof:placetype":"locality",
+    "wof:population":1979,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18333,
+    65.58333,
+    25.18333,
+    65.58333
+],
+  "geometry": {"coordinates":[25.18333,65.58333],"type":"Point"}
+}

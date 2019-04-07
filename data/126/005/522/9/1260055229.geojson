@@ -1,0 +1,75 @@
+{
+  "id": 1260055229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71667,66.46667,23.71667,66.46667",
+    "geom:latitude":66.46667,
+    "geom:longitude":23.71667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"193.0",
+    "gn:admin3_code":"976.0",
+    "gn:asciiname":"Reisu",
+    "gn:country_code":"FI",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":639574,
+    "gn:latitude":66.46667,
+    "gn:longitude":23.71667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Reisu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199549,
+        85633143,
+        404227409,
+        136253047,
+        1159321537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639574
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9b7d8950ad2b038f12f894b4233d31c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321537,
+            "empire_id":136253047,
+            "localadmin_id":907199549,
+            "locality_id":1260055229,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1260055229,
+    "wof:lastmodified":1537027617,
+    "wof:name":"Reisu",
+    "wof:parent_id":907199549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71667,
+    66.46667,
+    23.71667,
+    66.46667
+],
+  "geometry": {"coordinates":[23.71667,66.46666999999999],"type":"Point"}
+}

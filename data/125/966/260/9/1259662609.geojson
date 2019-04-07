@@ -1,0 +1,75 @@
+{
+  "id": 1259662609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48535,62.6052,22.48535,62.6052",
+    "geom:latitude":62.6052,
+    "geom:longitude":22.48535,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"301.0",
+    "gn:asciiname":"Salonkylae",
+    "gn:country_code":"FI",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":637911,
+    "gn:latitude":62.6052,
+    "gn:longitude":22.48535,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Salonkyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199007,
+        85633143,
+        404227417,
+        136253047,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637911
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e4eb06e3d0e5e9e7a1185634f2baacac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199007,
+            "locality_id":1259662609,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1259662609,
+    "wof:lastmodified":1537093864,
+    "wof:name":"Salonkylae",
+    "wof:parent_id":907199007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48535,
+    62.6052,
+    22.48535,
+    62.6052
+],
+  "geometry": {"coordinates":[22.48535,62.6052],"type":"Point"}
+}

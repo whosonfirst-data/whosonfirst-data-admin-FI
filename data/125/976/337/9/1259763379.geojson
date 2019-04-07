@@ -1,0 +1,75 @@
+{
+  "id": 1259763379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.01247,63.76658,29.01247,63.76658",
+    "geom:latitude":63.76658,
+    "geom:longitude":29.01247,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"125.0",
+    "gn:admin3_code":"911.0",
+    "gn:asciiname":"Koiravaara",
+    "gn:country_code":"FI",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":652181,
+    "gn:latitude":63.76658,
+    "gn:longitude":29.01247,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Koiravaara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683133,
+        102191581,
+        907199405,
+        85633143,
+        404227407,
+        136253047,
+        1159321575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":652181
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3ae820c4610a69d274b49b21293aa462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321575,
+            "empire_id":136253047,
+            "localadmin_id":907199405,
+            "locality_id":1259763379,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":1259763379,
+    "wof:lastmodified":1536952278,
+    "wof:name":"Koiravaara",
+    "wof:parent_id":907199405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.01247,
+    63.76658000000001,
+    29.01247,
+    63.76658000000001
+],
+  "geometry": {"coordinates":[29.01247,63.76658000000001],"type":"Point"}
+}

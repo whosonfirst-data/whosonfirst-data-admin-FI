@@ -1,0 +1,75 @@
+{
+  "id": 1226223305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6,63.11667,28.6,63.11667",
+    "geom:latitude":63.11667,
+    "geom:longitude":28.6,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"113.0",
+    "gn:admin3_code":"204.0",
+    "gn:asciiname":"Aittomaeki",
+    "gn:country_code":"FI",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":661690,
+    "gn:latitude":63.11667,
+    "gn:longitude":28.6,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Aittom\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199313,
+        85633143,
+        404227407,
+        136253047,
+        1159321579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":661690
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e8cb9e421b214b77c637050050e8d0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321579,
+            "empire_id":136253047,
+            "localadmin_id":907199313,
+            "locality_id":1226223305,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1226223305,
+    "wof:lastmodified":1536965803,
+    "wof:name":"Aittomaeki",
+    "wof:parent_id":907199313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6,
+    63.11666999999999,
+    28.6,
+    63.11666999999999
+],
+  "geometry": {"coordinates":[28.6,63.11666999999999],"type":"Point"}
+}

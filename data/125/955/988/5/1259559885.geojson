@@ -1,0 +1,84 @@
+{
+  "id": 1259559885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.79081,61.77513,25.79081,61.77513",
+    "geom:latitude":61.77513,
+    "geom:longitude":25.79081,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"132.0",
+    "gn:admin3_code":"435.0",
+    "gn:asciiname":"Lempaeae",
+    "gn:country_code":"FI",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":648370,
+    "gn:latitude":61.77513,
+    "gn:longitude":25.79081,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Lemp\u00e4\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lemp\u00e4\u00e4"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043c\u043f\u044f"
+    ],
+    "name:und_x_variant":[
+        "Lemp\u00e4\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        907198699,
+        85633143,
+        404227417,
+        136253047,
+        1159321619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":648370
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2fbb45f4adf867b26ca8309ef4ad1e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321619,
+            "empire_id":136253047,
+            "localadmin_id":907198699,
+            "locality_id":1259559885,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1259559885,
+    "wof:lastmodified":1537622225,
+    "wof:name":"Lempaeae",
+    "wof:parent_id":907198699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.79081,
+    61.77513,
+    25.79081,
+    61.77513
+],
+  "geometry": {"coordinates":[25.79081,61.77513],"type":"Point"}
+}

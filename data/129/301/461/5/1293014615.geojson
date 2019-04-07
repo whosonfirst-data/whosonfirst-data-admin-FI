@@ -1,0 +1,75 @@
+{
+  "id": 1293014615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3508,60.56437,25.3508,60.56437",
+    "geom:latitude":60.56437,
+    "geom:longitude":25.3508,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"505.0",
+    "gn:asciiname":"Herman Onkimaa",
+    "gn:country_code":"FI",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":643747,
+    "gn:latitude":60.56437,
+    "gn:longitude":25.3508,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Herman Onkimaa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198557,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643747
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"80d55024e9be6644f263e1a46642818c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198557,
+            "locality_id":1293014615,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1293014615,
+    "wof:lastmodified":1536971297,
+    "wof:name":"Herman Onkimaa",
+    "wof:parent_id":907198557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3508,
+    60.56437,
+    25.3508,
+    60.56437
+],
+  "geometry": {"coordinates":[25.3508,60.56437],"type":"Point"}
+}

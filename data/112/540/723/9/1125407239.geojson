@@ -1,0 +1,95 @@
+{
+  "id": 1125407239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-12-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.81796,62.69458,25.81796,62.69458",
+    "geom:latitude":62.69458,
+    "geom:longitude":25.81796,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":20244,
+    "gn:population":20244,
+    "iso:country":"FI",
+    "lbl:latitude":62.69458,
+    "lbl:longitude":25.81796,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "\u00c4\u00e4nekoski"
+    ],
+    "name:fin_x_variant":[
+        "\u00c4\u00e4nekosken Kaupunki"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c4\u00e4nekoski"
+    ],
+    "name:unk_x_variant":[
+        "\u00c4\u00e4netkoski"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":662096,
+    "qs_pg:gn_pop":20244,
+    "qs_pg:name":"Enekoski",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1151736,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683117,
+        102191581,
+        85633143,
+        404227417,
+        136253047,
+        1159321553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":662096,
+        "qs_pg:id":1151736
+    },
+    "wof:country":"FI",
+    "wof:created":1497049720,
+    "wof:geomhash":"d4ac7c054d17130d466a9c08e474349d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321553,
+            "empire_id":136253047,
+            "localadmin_id":1125407239,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":1125407239,
+    "wof:lastmodified":1544223148,
+    "wof:name":"Enekoski",
+    "wof:parent_id":1159321553,
+    "wof:placetype":"localadmin",
+    "wof:population":20244,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.81796,
+    62.69458,
+    25.81796,
+    62.69458
+],
+  "geometry": {"coordinates":[25.81796,62.69458],"type":"Point"}
+}

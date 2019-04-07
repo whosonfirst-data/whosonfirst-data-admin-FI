@@ -1,0 +1,75 @@
+{
+  "id": 1276530233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.90945,63.83895,22.90945,63.83895",
+    "geom:latitude":63.83895,
+    "geom:longitude":22.90945,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"162.0",
+    "gn:admin3_code":"272.0",
+    "gn:asciiname":"Bodoe",
+    "gn:country_code":"FI",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660595,
+    "gn:latitude":63.83895,
+    "gn:longitude":22.90945,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Bod\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683125,
+        102191581,
+        907199049,
+        85633143,
+        404227417,
+        136253047,
+        1159321609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660595
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"93a858fc0b0416b42a8b475e139cd72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321609,
+            "empire_id":136253047,
+            "localadmin_id":907199049,
+            "locality_id":1276530233,
+            "macroregion_id":404227417,
+            "region_id":85683125
+        }
+    ],
+    "wof:id":1276530233,
+    "wof:lastmodified":1537011487,
+    "wof:name":"Bodoe",
+    "wof:parent_id":907199049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.90945,
+    63.83895,
+    22.90945,
+    63.83895
+],
+  "geometry": {"coordinates":[22.90945,63.83895],"type":"Point"}
+}

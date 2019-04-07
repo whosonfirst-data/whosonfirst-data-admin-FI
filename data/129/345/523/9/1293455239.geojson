@@ -1,0 +1,81 @@
+{
+  "id": 1293455239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.40532,67.23632,28.40532,67.23632",
+    "geom:latitude":67.23632,
+    "geom:longitude":28.40532,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"194.0",
+    "gn:admin3_code":"742.0",
+    "gn:asciiname":"Kuosku",
+    "gn:country_code":"FI",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":650152,
+    "gn:latitude":67.23632,
+    "gn:longitude":28.40532,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kuosku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuosku"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043e\u0441\u043a\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199579,
+        85633143,
+        404227409,
+        136253047,
+        1159321535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":650152
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8b0d4458078e13724a7b1fc00ecc2a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321535,
+            "empire_id":136253047,
+            "localadmin_id":907199579,
+            "locality_id":1293455239,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1293455239,
+    "wof:lastmodified":1537622234,
+    "wof:name":"Kuosku",
+    "wof:parent_id":907199579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.40532,
+    67.23631999999999,
+    28.40532,
+    67.23631999999999
+],
+  "geometry": {"coordinates":[28.40532,67.23631999999999],"type":"Point"}
+}

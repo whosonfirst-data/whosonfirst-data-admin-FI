@@ -1,0 +1,96 @@
+{
+  "id": 1125936697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.18333,64.93333,27.18333,64.93333",
+    "geom:latitude":64.93333,
+    "geom:longitude":27.18333,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"FI",
+    "lbl:latitude":64.93333,
+    "lbl:longitude":27.18333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "S\u00e4rkij\u00e4rvi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044f\u0440\u043a\u0438\u044f\u0440\u0432\u0438"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":637633,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"S\u00e4rkij\u00e4rvi",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Pohjois-pohjanmaan maakunta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":183001,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":572815,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Pohjois-pohjanmaan maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683143,
+        102191581,
+        907199509,
+        85633143,
+        404227415,
+        136253047,
+        1159321497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637633,
+        "gp:id":572815,
+        "qs_pg:id":183001
+    },
+    "wof:country":"FI",
+    "wof:created":1497296989,
+    "wof:geomhash":"608ae0dfababbfab6e43d7ad1be09162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321497,
+            "empire_id":136253047,
+            "localadmin_id":907199509,
+            "locality_id":1125936697,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":1125936697,
+    "wof:lastmodified":1529709439,
+    "wof:name":"S\u00e4rkij\u00e4rvi",
+    "wof:parent_id":907199509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.18333,
+    64.93333,
+    27.18333,
+    64.93333
+],
+  "geometry": {"coordinates":[27.18333,64.93333],"type":"Point"}
+}

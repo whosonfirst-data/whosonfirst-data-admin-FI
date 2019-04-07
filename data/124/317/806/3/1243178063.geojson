@@ -1,0 +1,87 @@
+{
+  "id": 1243178063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.87567,61.43081,21.87567,61.43081",
+    "geom:latitude":61.43081,
+    "geom:longitude":21.87567,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"886.0",
+    "gn:asciiname":"Friitala",
+    "gn:country_code":"FI",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":659917,
+    "gn:latitude":61.43081,
+    "gn:longitude":21.87567,
+    "gn:modification_date":"2014-12-28",
+    "gn:name":"Friitala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Friby"
+    ],
+    "name:isl_x_preferred":[
+        "Friby"
+    ],
+    "name:nor_x_preferred":[
+        "Friby"
+    ],
+    "name:swe_x_preferred":[
+        "Friby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        907198905,
+        85633143,
+        404227405,
+        136253047,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":659917
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3668365c83ac748e2e2f416dacdcd81b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907198905,
+            "locality_id":1243178063,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1243178063,
+    "wof:lastmodified":1537550104,
+    "wof:name":"Friitala",
+    "wof:parent_id":907198905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.87567,
+    61.43081,
+    21.87567,
+    61.43081
+],
+  "geometry": {"coordinates":[21.87567,61.43081],"type":"Point"}
+}

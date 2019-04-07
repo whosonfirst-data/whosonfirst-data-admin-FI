@@ -1,0 +1,78 @@
+{
+  "id": 1293084507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11164,62.33087,22.11164,62.33087",
+    "geom:latitude":62.33087,
+    "geom:longitude":22.11164,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"141.0",
+    "gn:admin3_code":"232.0",
+    "gn:asciiname":"Murronkylae",
+    "gn:country_code":"FI",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101663,
+    "gn:latitude":62.33087,
+    "gn:longitude":22.11164,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Murronkyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Murronkyl\u00e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199121,
+        85633143,
+        404227417,
+        136253047,
+        1159321543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101663
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"11a349e6e8daf71371fcbe70a464ffab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321543,
+            "empire_id":136253047,
+            "localadmin_id":907199121,
+            "locality_id":1293084507,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1293084507,
+    "wof:lastmodified":1537622338,
+    "wof:name":"Murronkylae",
+    "wof:parent_id":907199121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11164,
+    62.33087,
+    22.11164,
+    62.33087
+],
+  "geometry": {"coordinates":[22.11164,62.33087],"type":"Point"}
+}

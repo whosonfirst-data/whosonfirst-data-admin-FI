@@ -1,0 +1,81 @@
+{
+  "id": 1309915383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88703,60.29961,24.88703,60.29961",
+    "geom:latitude":60.29961,
+    "geom:longitude":24.88703,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"92.0",
+    "gn:asciiname":"Stubbacka industriomrade",
+    "gn:country_code":"FI",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10101495,
+    "gn:latitude":60.29961,
+    "gn:longitude":24.88703,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Stubbacka industriomr\u00e5de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Tuupakan teollisuusalue"
+    ],
+    "name:swe_x_preferred":[
+        "Stubbacka industriomr\u00e5de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907199651,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10101495
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"fa89871d9bc169f2c6e3aeef972ef1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907199651,
+            "locality_id":1309915383,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1309915383,
+    "wof:lastmodified":1537622332,
+    "wof:name":"Stubbacka industriomrade",
+    "wof:parent_id":907199651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88703,
+    60.29961,
+    24.88703,
+    60.29961
+],
+  "geometry": {"coordinates":[24.88703,60.29961],"type":"Point"}
+}

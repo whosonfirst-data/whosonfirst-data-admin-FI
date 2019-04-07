@@ -1,0 +1,75 @@
+{
+  "id": 1260205589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5232,61.67684,24.5232,61.67684",
+    "geom:latitude":61.67684,
+    "geom:longitude":24.5232,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"64.0",
+    "gn:admin3_code":"562.0",
+    "gn:asciiname":"Pitkaejaervi",
+    "gn:country_code":"FI",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":641329,
+    "gn:latitude":61.67684,
+    "gn:longitude":24.5232,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Pitk\u00e4j\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907199393,
+        85633143,
+        404227417,
+        136253047,
+        1159321521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":641329
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a952744ca69ff20be3f6f7fe27ec6b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321521,
+            "empire_id":136253047,
+            "localadmin_id":907199393,
+            "locality_id":1260205589,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1260205589,
+    "wof:lastmodified":1536816942,
+    "wof:name":"Pitkaejaervi",
+    "wof:parent_id":907199393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5232,
+    61.67684000000001,
+    24.5232,
+    61.67684000000001
+],
+  "geometry": {"coordinates":[24.5232,61.67684000000001],"type":"Point"}
+}

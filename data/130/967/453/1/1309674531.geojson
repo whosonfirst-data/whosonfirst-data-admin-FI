@@ -1,0 +1,84 @@
+{
+  "id": 1309674531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.30307,66.38397,27.30307,66.38397",
+    "geom:latitude":66.38397,
+    "geom:longitude":27.30307,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"194.0",
+    "gn:admin3_code":"320.0",
+    "gn:asciiname":"Juujaervi",
+    "gn:country_code":"FI",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":655314,
+    "gn:latitude":66.38397,
+    "gn:longitude":27.30307,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Juuj\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Juuj\u00e4rvi"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u044f\u0440\u0432\u0438"
+    ],
+    "name:und_x_variant":[
+        "Juuj\u00e4rvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199539,
+        85633143,
+        404227409,
+        136253047,
+        1159321535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":655314
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"73b401f869c6b2ae9bf18609270214eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321535,
+            "empire_id":136253047,
+            "localadmin_id":907199539,
+            "locality_id":1309674531,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1309674531,
+    "wof:lastmodified":1537622268,
+    "wof:name":"Juujaervi",
+    "wof:parent_id":907199539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.30307,
+    66.38396999999999,
+    27.30307,
+    66.38396999999999
+],
+  "geometry": {"coordinates":[27.30307,66.38396999999999],"type":"Point"}
+}

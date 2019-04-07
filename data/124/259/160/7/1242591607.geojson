@@ -1,0 +1,75 @@
+{
+  "id": 1242591607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.95,60.55,24.95,60.55",
+    "geom:latitude":60.55,
+    "geom:longitude":24.95,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"858.0",
+    "gn:asciiname":"Kuusisto",
+    "gn:country_code":"FI",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649843,
+    "gn:latitude":60.55,
+    "gn:longitude":24.95,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kuusisto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198631,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649843
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5753671e9fc19de0d8aa0fbd248d751f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198631,
+            "locality_id":1242591607,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1242591607,
+    "wof:lastmodified":1537041617,
+    "wof:name":"Kuusisto",
+    "wof:parent_id":907198631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.95,
+    60.55,
+    24.95,
+    60.55
+],
+  "geometry": {"coordinates":[24.95,60.55],"type":"Point"}
+}

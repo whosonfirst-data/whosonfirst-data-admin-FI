@@ -1,0 +1,75 @@
+{
+  "id": 1293471005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.85,63.93333,26.85,63.93333",
+    "geom:latitude":63.93333,
+    "geom:longitude":26.85,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"925.0",
+    "gn:asciiname":"Kankaala",
+    "gn:country_code":"FI",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":654382,
+    "gn:latitude":63.93333,
+    "gn:longitude":26.85,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kankaala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683131,
+        102191581,
+        907199359,
+        85633143,
+        404227407,
+        136253047,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":654382
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6e6ae92bda17b50a4876d740e8558ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199359,
+            "locality_id":1293471005,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":1293471005,
+    "wof:lastmodified":1536810433,
+    "wof:name":"Kankaala",
+    "wof:parent_id":907199359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.85,
+    63.93333000000001,
+    26.85,
+    63.93333000000001
+],
+  "geometry": {"coordinates":[26.85,63.93333000000001],"type":"Point"}
+}

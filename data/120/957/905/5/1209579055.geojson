@@ -1,0 +1,63 @@
+{
+  "id": 1209579055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.00426,66.27314,29.00426,66.27314",
+    "geom:latitude":66.27314,
+    "geom:longitude":29.00426,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"178.0",
+    "gn:admin3_code":"305.0",
+    "gn:asciiname":"Virranniemi",
+    "gn:country_code":"FI",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":631379,
+    "gn:latitude":66.27314,
+    "gn:longitude":29.00426,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Virranniemi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631379
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7e800a51aa3234babfd4bf64a7c3a23e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209579055
+        }
+    ],
+    "wof:id":1209579055,
+    "wof:lastmodified":1536282846,
+    "wof:name":"Virranniemi",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.00426,
+    66.27314,
+    29.00426,
+    66.27314
+],
+  "geometry": {"coordinates":[29.00426,66.27314],"type":"Point"}
+}

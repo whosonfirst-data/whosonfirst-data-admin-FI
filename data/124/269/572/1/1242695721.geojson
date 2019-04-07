@@ -1,0 +1,78 @@
+{
+  "id": 1242695721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.89081,60.29643,24.89081,60.29643",
+    "geom:latitude":60.29643,
+    "geom:longitude":24.89081,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"92.0",
+    "gn:asciiname":"Tuupakka",
+    "gn:country_code":"FI",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7521681,
+    "gn:latitude":60.29643,
+    "gn:longitude":24.89081,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Tuupakka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Stubbacka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907199651,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521681
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a2ca571437cf3d8a0a71375b596a8c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907199651,
+            "locality_id":1242695721,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1242695721,
+    "wof:lastmodified":1537550112,
+    "wof:name":"Tuupakka",
+    "wof:parent_id":907199651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.89081,
+    60.29643000000001,
+    24.89081,
+    60.29643000000001
+],
+  "geometry": {"coordinates":[24.89081,60.29643000000001],"type":"Point"}
+}

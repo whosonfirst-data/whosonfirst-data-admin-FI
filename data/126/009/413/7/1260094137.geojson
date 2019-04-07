@@ -1,0 +1,86 @@
+{
+  "id": 1260094137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48065,60.34426,25.48065,60.34426",
+    "geom:latitude":60.34426,
+    "geom:longitude":25.48065,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"638.0",
+    "gn:asciiname":"Kullo",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":650461,
+    "gn:latitude":60.34426,
+    "gn:longitude":25.48065,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kullo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kulloo"
+    ],
+    "name:swe_x_preferred":[
+        "Kullo"
+    ],
+    "name:und_x_variant":[
+        "Kulloonkyl\u00e4",
+        "Kulloby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198525,
+        85633143,
+        404227411,
+        136253047,
+        1159321593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":650461
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7faeb1469ede9b073215016dc0caec5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321593,
+            "empire_id":136253047,
+            "localadmin_id":907198525,
+            "locality_id":1260094137,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1260094137,
+    "wof:lastmodified":1537622236,
+    "wof:name":"Kullo",
+    "wof:parent_id":907198525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48065,
+    60.34426,
+    25.48065,
+    60.34426
+],
+  "geometry": {"coordinates":[25.48065,60.34426],"type":"Point"}
+}

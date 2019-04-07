@@ -1,0 +1,75 @@
+{
+  "id": 1276509451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76667,65.85,26.76667,65.85",
+    "geom:latitude":65.85,
+    "geom:longitude":26.76667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"191.0",
+    "gn:admin3_code":"683.0",
+    "gn:asciiname":"Petaejae",
+    "gn:country_code":"FI",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":642022,
+    "gn:latitude":65.85,
+    "gn:longitude":26.76667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Pet\u00e4j\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199493,
+        85633143,
+        404227409,
+        136253047,
+        1159321523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":642022
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"eee6dc37088b3d3346931180f1d0a96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321523,
+            "empire_id":136253047,
+            "localadmin_id":907199493,
+            "locality_id":1276509451,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":1276509451,
+    "wof:lastmodified":1537038566,
+    "wof:name":"Petaejae",
+    "wof:parent_id":907199493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76667,
+    65.85,
+    26.76667,
+    65.85
+],
+  "geometry": {"coordinates":[26.76667,65.84999999999999],"type":"Point"}
+}

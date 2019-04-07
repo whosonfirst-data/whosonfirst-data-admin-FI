@@ -1,0 +1,63 @@
+{
+  "id": 1209486407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.07542,63.2376,23.07542,63.2376",
+    "geom:latitude":63.2376,
+    "geom:longitude":23.07542,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"233.0",
+    "gn:asciiname":"Keskinen",
+    "gn:country_code":"FI",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":653084,
+    "gn:latitude":63.2376,
+    "gn:longitude":23.07542,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Keskinen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":653084
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5d3d48edc0d85b8471e2153010aaa4fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209486407
+        }
+    ],
+    "wof:id":1209486407,
+    "wof:lastmodified":1536285623,
+    "wof:name":"Keskinen",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.07542,
+    63.2376,
+    23.07542,
+    63.2376
+],
+  "geometry": {"coordinates":[23.07542,63.2376],"type":"Point"}
+}

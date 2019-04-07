@@ -1,0 +1,75 @@
+{
+  "id": 1209788349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.169,63.75736,23.169,63.75736",
+    "geom:latitude":63.75736,
+    "geom:longitude":23.169,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"162.0",
+    "gn:admin3_code":"272.0",
+    "gn:asciiname":"Ventjaervi",
+    "gn:country_code":"FI",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":631940,
+    "gn:latitude":63.75736,
+    "gn:longitude":23.169,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Ventj\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683125,
+        102191581,
+        907199049,
+        85633143,
+        404227417,
+        136253047,
+        1159321609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631940
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8c58cd08928b82365b6f73310fb87641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321609,
+            "empire_id":136253047,
+            "localadmin_id":907199049,
+            "locality_id":1209788349,
+            "macroregion_id":404227417,
+            "region_id":85683125
+        }
+    ],
+    "wof:id":1209788349,
+    "wof:lastmodified":1536396155,
+    "wof:name":"Ventjaervi",
+    "wof:parent_id":907199049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.169,
+    63.75736,
+    23.169,
+    63.75736
+],
+  "geometry": {"coordinates":[23.169,63.75736],"type":"Point"}
+}

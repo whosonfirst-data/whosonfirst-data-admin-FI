@@ -1,0 +1,75 @@
+{
+  "id": 1293690865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86208,60.42619,24.86208,60.42619",
+    "geom:latitude":60.42619,
+    "geom:longitude":24.86208,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"543.0",
+    "gn:asciiname":"Ylikylae",
+    "gn:country_code":"FI",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":847393,
+    "gn:latitude":60.42619,
+    "gn:longitude":24.86208,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Ylikyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        907198599,
+        85633143,
+        404227411,
+        136253047,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":847393
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"24e8120efd1cb9951fadaaebe0754277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198599,
+            "locality_id":1293690865,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":1293690865,
+    "wof:lastmodified":1536990266,
+    "wof:name":"Ylikylae",
+    "wof:parent_id":907198599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86208,
+    60.42619000000001,
+    24.86208,
+    60.42619000000001
+],
+  "geometry": {"coordinates":[24.86208,60.42619000000001],"type":"Point"}
+}

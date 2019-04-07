@@ -1,0 +1,95 @@
+{
+  "id": 1125385545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61983,62.15688,22.61983,62.15688",
+    "geom:latitude":62.15688,
+    "geom:longitude":22.61983,
+    "gn:gn_country":"FI",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2643,
+    "gn:population":2643,
+    "iso:country":"FI",
+    "lbl:latitude":62.15688,
+    "lbl:longitude":22.61983,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Karvia"
+    ],
+    "name:fin_x_variant":[
+        "Karvian Kunta"
+    ],
+    "name:swe_x_preferred":[
+        "Karvia"
+    ],
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":653814,
+    "qs_pg:gn_pop":2643,
+    "qs_pg:name":"Karvia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1030094,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85683095,
+        102191581,
+        85633143,
+        404227405,
+        136253047,
+        1159321519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":653814,
+        "qs_pg:id":1030094
+    },
+    "wof:country":"FI",
+    "wof:created":1497048349,
+    "wof:geomhash":"e24a22118bf6009596249dcf74daf405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321519,
+            "empire_id":136253047,
+            "localadmin_id":1125385545,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":1125385545,
+    "wof:lastmodified":1534379302,
+    "wof:name":"Karvia",
+    "wof:parent_id":1159321519,
+    "wof:placetype":"localadmin",
+    "wof:population":2643,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[
+        907199119
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.61983,
+    62.15688,
+    22.61983,
+    62.15688
+],
+  "geometry": {"coordinates":[22.61983,62.15688],"type":"Point"}
+}

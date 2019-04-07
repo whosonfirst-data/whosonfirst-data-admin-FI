@@ -1,0 +1,63 @@
+{
+  "id": 1209493433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.50018,62.59194,27.50018,62.59194",
+    "geom:latitude":62.59194,
+    "geom:longitude":27.50018,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"114.0",
+    "gn:admin3_code":"420.0",
+    "gn:asciiname":"Maekraemaeki",
+    "gn:country_code":"FI",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":646885,
+    "gn:latitude":62.59194,
+    "gn:longitude":27.50018,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"M\u00e4kr\u00e4m\u00e4ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":646885
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6fbd59f3b1c35c29caa29980bfda3d73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209493433
+        }
+    ],
+    "wof:id":1209493433,
+    "wof:lastmodified":1536285412,
+    "wof:name":"Maekraemaeki",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.50018,
+    62.59194,
+    27.50018,
+    62.59194
+],
+  "geometry": {"coordinates":[27.50018,62.59194],"type":"Point"}
+}

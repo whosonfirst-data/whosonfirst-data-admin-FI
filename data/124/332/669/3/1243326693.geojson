@@ -1,0 +1,75 @@
+{
+  "id": 1243326693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.19202,64.4569,28.19202,64.4569",
+    "geom:latitude":64.4569,
+    "geom:longitude":28.19202,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"182.0",
+    "gn:admin3_code":"697.0",
+    "gn:asciiname":"Kivikylae",
+    "gn:country_code":"FI",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":652407,
+    "gn:latitude":64.4569,
+    "gn:longitude":28.19202,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kivikyl\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683137,
+        102191581,
+        907199527,
+        85633143,
+        404227415,
+        136253047,
+        1159321487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":652407
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6ba7c7175de7f65d587f08ab3ddcd0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199527,
+            "locality_id":1243326693,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":1243326693,
+    "wof:lastmodified":1536977767,
+    "wof:name":"Kivikylae",
+    "wof:parent_id":907199527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.19202,
+    64.4569,
+    28.19202,
+    64.4569
+],
+  "geometry": {"coordinates":[28.19202,64.4569],"type":"Point"}
+}

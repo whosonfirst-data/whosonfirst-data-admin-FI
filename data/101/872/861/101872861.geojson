@@ -1,0 +1,104 @@
+{
+  "id": 101872861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.132538,64.333008,28.132538,64.333008",
+    "geom:latitude":64.333008,
+    "geom:longitude":28.132538,
+    "iso:country":"FI",
+    "lbl:latitude":64.333008,
+    "lbl:longitude":28.132538,
+    "mps:latitude":64.333008,
+    "mps:longitude":28.132538,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kontiom\u00e4ki"
+    ],
+    "name:eng_x_preferred":[
+        "Kontiom\u00e4ki"
+    ],
+    "name:fin_x_preferred":[
+        "Oulu\u2013Kontiom\u00e4ki-rata"
+    ],
+    "name:fra_x_preferred":[
+        "Voie ferr\u00e9e Oulu\u2013Kontiom\u00e4ki"
+    ],
+    "name:fre_x_preferred":[
+        "Kontiom\u00e4ki"
+    ],
+    "name:swe_x_preferred":[
+        "Ule\u00e5borg\u2013Kontiom\u00e4ki-banan"
+    ],
+    "name:unk_x_variant":[
+        "Kantiomyaki"
+    ],
+    "qs:a0":"Suomi#Finland",
+    "qs:a1":"*Kainuu#Kajanaland",
+    "qs:a1r":"0Pohjois-Suomen AVI#Norra Finlands RFV",
+    "qs:adm0":"Suomi#Finland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kontiom\u00e4ki",
+    "qs:loc_alt":"Kontiomaki",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85683137,
+        102191581,
+        907199475,
+        85633143,
+        404227415,
+        136253047,
+        1159321487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":651650,
+        "gp:id":567790,
+        "qs:id":1,
+        "wd:id":"Q1280683"
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4c0955bb92c716cefc00159bcc5c7372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199475,
+            "locality_id":101872861,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":101872861,
+    "wof:lastmodified":1544751363,
+    "wof:name":"Kontiom\u00e4ki",
+    "wof:parent_id":907199475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.132538,
+    64.333008,
+    28.132538,
+    64.333008
+],
+  "geometry": {"coordinates":[28.132538,64.33300800000001],"type":"Point"}
+}

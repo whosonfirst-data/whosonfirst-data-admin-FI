@@ -1,0 +1,75 @@
+{
+  "id": 1343953259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.10546,61.56434,23.10546,61.56434",
+    "geom:latitude":61.56434,
+    "geom:longitude":23.10546,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"64.0",
+    "gn:admin3_code":"108.0",
+    "gn:asciiname":"Haukijaervi",
+    "gn:country_code":"FI",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":658646,
+    "gn:latitude":61.56434,
+    "gn:longitude":23.10546,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Haukij\u00e4rvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683099,
+        102191581,
+        907199131,
+        85633143,
+        404227417,
+        136253047,
+        1159321521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":658646
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9bae97190eb78de7354689e8db2416fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321521,
+            "empire_id":136253047,
+            "localadmin_id":907199131,
+            "locality_id":1343953259,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":1343953259,
+    "wof:lastmodified":1537029186,
+    "wof:name":"Haukijaervi",
+    "wof:parent_id":907199131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.10546,
+    61.56434,
+    23.10546,
+    61.56434
+],
+  "geometry": {"coordinates":[23.10546,61.56434],"type":"Point"}
+}

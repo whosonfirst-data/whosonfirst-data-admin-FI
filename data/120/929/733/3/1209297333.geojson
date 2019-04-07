@@ -1,0 +1,69 @@
+{
+  "id": 1209297333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.54187,62.34582,21.54187,62.34582",
+    "geom:latitude":62.34582,
+    "geom:longitude":21.54187,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"153.0",
+    "gn:admin3_code":"287.0",
+    "gn:asciiname":"Stangbraenn",
+    "gn:country_code":"FI",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":842261,
+    "gn:latitude":62.34582,
+    "gn:longitude":21.54187,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"St\u00e5ngbr\u00e4nn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "V\u00e4likyl\u00e4"
+    ],
+    "name:swe_x_preferred":[
+        "St\u00e5ngbr\u00e4nn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":842261
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"02ca856e1c5704ba13de556a0089f34c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633143,
+            "locality_id":1209297333
+        }
+    ],
+    "wof:id":1209297333,
+    "wof:lastmodified":1537622309,
+    "wof:name":"Stangbraenn",
+    "wof:parent_id":85633143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54187,
+    62.34582,
+    21.54187,
+    62.34582
+],
+  "geometry": {"coordinates":[21.54187,62.34582],"type":"Point"}
+}

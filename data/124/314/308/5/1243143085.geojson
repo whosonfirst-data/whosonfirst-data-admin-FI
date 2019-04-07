@@ -1,0 +1,80 @@
+{
+  "id": 1243143085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.97753,62.79168,22.97753,62.79168",
+    "geom:latitude":62.79168,
+    "geom:longitude":22.97753,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"743.0",
+    "gn:asciiname":"Knuuttila",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":652255,
+    "gn:latitude":62.79168,
+    "gn:longitude":22.97753,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Knuuttila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yli-Knuuttila",
+        "Knuuttila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        907199285,
+        85633143,
+        404227417,
+        136253047,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":652255
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8c639292ebe15ab9ea938400eb5fe7fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199285,
+            "locality_id":1243143085,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":1243143085,
+    "wof:lastmodified":1537622248,
+    "wof:name":"Knuuttila",
+    "wof:parent_id":907199285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97753,
+    62.79168000000001,
+    22.97753,
+    62.79168000000001
+],
+  "geometry": {"coordinates":[22.97753,62.79168000000001],"type":"Point"}
+}
