@@ -10,6 +10,24 @@
     "geom:latitude":62.356906,
     "geom:longitude":24.650553,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Keuruu Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Keuruu Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Keuruu Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":62.353026,
     "lbl:longitude":24.660202,
     "mps:latitude":62.353026,
@@ -48,11 +66,11 @@
         }
     ],
     "wof:id":1159321499,
-    "wof:lastmodified":1535390736,
+    "wof:lastmodified":1554325331,
     "wof:name":"Keuruu",
     "wof:parent_id":85683117,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -10,6 +10,24 @@
     "geom:latitude":65.358843,
     "geom:longitude":26.578603,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Oulunkaari Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Oulunkaari Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Oulunkaari Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":65.511011,
     "lbl:longitude":27.415354,
     "mps:latitude":65.511011,
@@ -48,11 +66,11 @@
         }
     ],
     "wof:id":1159321497,
-    "wof:lastmodified":1535390737,
+    "wof:lastmodified":1554325330,
     "wof:name":"Oulunkaari",
     "wof:parent_id":85683143,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

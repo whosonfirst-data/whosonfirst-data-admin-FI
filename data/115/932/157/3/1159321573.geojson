@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.634369,
+    "geom:area_square_m":3863532373.600622,
     "geom:bbox":"26.4478395201,60.1713286325,27.9912828113,60.8426400374",
     "geom:latitude":60.492268,
     "geom:longitude":27.194373,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Kotka-Hamina Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Kotka-Hamina Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kotka-Hamina Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":60.511718,
     "lbl:longitude":27.333745,
     "mps:latitude":60.511718,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321573,
-    "wof:lastmodified":1526416973,
+    "wof:lastmodified":1554325349,
     "wof:name":"Kotka-Hamina",
     "wof:parent_id":85683081,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

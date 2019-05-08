@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.536064,
+    "geom:area_square_m":8579804404.872643,
     "geom:bbox":"20.1658189049,62.6561838868,22.6582020865,63.6702322589",
     "geom:latitude":63.145569,
     "geom:longitude":21.27964,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Vaasa Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Vaasa Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Vaasa Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":63.134922,
     "lbl:longitude":21.176327,
     "mps:latitude":63.134922,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321501,
-    "wof:lastmodified":1526416940,
+    "wof:lastmodified":1554325332,
     "wof:name":"Vaasa",
     "wof:parent_id":85683119,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.725376,
+    "geom:area_square_m":3964671988.868139,
     "geom:bbox":"24.5210329184,63.4291308523,26.2919656874,64.1106440026",
     "geom:latitude":63.766966,
     "geom:longitude":25.562894,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Nivala-Haapajarvi Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Nivala-Haapajarvi Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Nivala-Haapajarvi Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":63.781103,
     "lbl:longitude":25.830604,
     "mps:latitude":63.781103,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321591,
-    "wof:lastmodified":1526416981,
+    "wof:lastmodified":1554325354,
     "wof:name":"Nivala-Haapajarvi",
     "wof:parent_id":85683143,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

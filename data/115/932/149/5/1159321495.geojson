@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.725766,
+    "geom:area_square_m":4164620418.658724,
     "geom:bbox":"20.4660342811,61.9216684732,21.7909676741,62.7676659584",
     "geom:latitude":62.352536,
     "geom:longitude":21.157686,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Sydosterbotten Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Sydosterbotten Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Sydosterbotten Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":62.312966,
     "lbl:longitude":21.147739,
     "mps:latitude":62.312966,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321495,
-    "wof:lastmodified":1526416937,
+    "wof:lastmodified":1554325330,
     "wof:name":"Sydosterbotten",
     "wof:parent_id":85683119,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.668106,
+    "geom:area_square_m":8959792393.124733,
     "geom:bbox":"26.2911059544,63.6688114762,29.2110310565,64.8352873766",
     "geom:latitude":64.253703,
     "geom:longitude":27.793559,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Kajaani Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Kajaani Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kajaani Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":64.212768,
     "lbl:longitude":28.01488,
     "mps:latitude":64.212768,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321487,
-    "wof:lastmodified":1526416933,
+    "wof:lastmodified":1554325328,
     "wof:name":"Kajaani",
     "wof:parent_id":85683137,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.466705,
+    "geom:area_square_m":2849937354.509153,
     "geom:bbox":"22.7909832536,59.9952092374,23.9205491095,60.7741682465",
     "geom:latitude":60.406152,
     "geom:longitude":23.31727,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Salo Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Salo Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Salo Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":60.401273,
     "lbl:longitude":23.325778,
     "mps:latitude":60.401273,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321585,
-    "wof:lastmodified":1526416978,
+    "wof:lastmodified":1554325353,
     "wof:name":"Salo",
     "wof:parent_id":85683073,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

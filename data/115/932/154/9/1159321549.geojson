@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.899394,
+    "geom:area_square_m":15335539837.720484,
     "geom:bbox":"27.1184424542,63.7033563739,30.5535572174,65.5208515073",
     "geom:latitude":64.67436,
     "geom:longitude":29.037611,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Kehys-Kainuu Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Kehys-Kainuu Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kehys-Kainuu Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":64.452636,
     "lbl:longitude":29.348702,
     "mps:latitude":64.452636,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321549,
-    "wof:lastmodified":1526416961,
+    "wof:lastmodified":1554325343,
     "wof:name":"Kehys-Kainuu",
     "wof:parent_id":85683137,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

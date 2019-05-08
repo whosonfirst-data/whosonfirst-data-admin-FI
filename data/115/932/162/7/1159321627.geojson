@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.659277,
+    "geom:area_square_m":4087227421.952611,
     "geom:bbox":"22.6589236383,59.6109994387,24.3162836407,60.2060012571",
     "geom:latitude":59.909867,
     "geom:longitude":23.503794,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Raaseporin Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Raaseporin Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Raaseporin Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":59.928465,
     "lbl:longitude":23.487949,
     "mps:latitude":59.928465,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321627,
-    "wof:lastmodified":1526416998,
+    "wof:lastmodified":1554325364,
     "wof:name":"Raaseporin",
     "wof:parent_id":85683067,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

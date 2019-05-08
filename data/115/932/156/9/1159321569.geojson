@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.893197,
+    "geom:area_square_m":4814689359.022779,
     "geom:bbox":"22.7788967491,63.6486583527,25.2629849953,64.4834607182",
     "geom:latitude":64.154282,
     "geom:longitude":24.132098,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Ylivieska Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Ylivieska Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Ylivieska Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":64.09821,
     "lbl:longitude":24.442691,
     "mps:latitude":64.09821,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321569,
-    "wof:lastmodified":1526416971,
+    "wof:lastmodified":1554325348,
     "wof:name":"Ylivieska",
     "wof:parent_id":85683143,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

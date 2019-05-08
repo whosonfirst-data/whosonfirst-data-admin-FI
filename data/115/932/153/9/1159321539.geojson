@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.389558,
+    "geom:area_square_m":8157929723.046776,
     "geom:bbox":"26.2207225444,61.1513019339,28.8178658839,62.3077263526",
     "geom:latitude":61.653947,
     "geom:longitude":27.164006,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Mikkeli Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Mikkeli Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Mikkeli Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":61.664667,
     "lbl:longitude":27.056286,
     "mps:latitude":61.664667,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321539,
-    "wof:lastmodified":1526416957,
+    "wof:lastmodified":1554325340,
     "wof:name":"Mikkeli",
     "wof:parent_id":85683109,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

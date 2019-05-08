@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152801,
+    "geom:area_square_m":860100817.722898,
     "geom:bbox":"21.7720610005,62.7515742078,22.6941827088,63.1029833701",
     "geom:latitude":62.92076,
     "geom:longitude":22.157308,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Kyronmaa Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Kyronmaa Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kyronmaa Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":62.923521,
     "lbl:longitude":22.265306,
     "mps:latitude":62.923521,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321589,
-    "wof:lastmodified":1526416980,
+    "wof:lastmodified":1554325353,
     "wof:name":"Kyronmaa",
     "wof:parent_id":85683119,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -10,6 +10,24 @@
     "geom:latitude":60.262895,
     "geom:longitude":19.77276,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Countryside Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Countryside Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Countryside Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":60.316566,
     "lbl:longitude":19.61096,
     "mps:latitude":60.316566,
@@ -49,11 +67,11 @@
         }
     ],
     "wof:id":1159321611,
-    "wof:lastmodified":1535390730,
+    "wof:lastmodified":1554325359,
     "wof:name":"Countryside",
     "wof:parent_id":85632789,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

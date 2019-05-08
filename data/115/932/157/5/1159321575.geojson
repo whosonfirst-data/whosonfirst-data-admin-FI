@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.216078,
+    "geom:area_square_m":6718606983.791854,
     "geom:bbox":"28.3597234212,62.99840253,31.2408457826,63.8824146681",
     "geom:latitude":63.460964,
     "geom:longitude":29.74788,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Pielisen Karjala Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Pielisen Karjala Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Pielisen Karjala Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":63.397321,
     "lbl:longitude":29.966261,
     "mps:latitude":63.397321,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321575,
-    "wof:lastmodified":1526416974,
+    "wof:lastmodified":1554325350,
     "wof:name":"Pielisen Karjala",
     "wof:parent_id":85683133,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

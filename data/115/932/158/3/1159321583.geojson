@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.586557,
+    "geom:area_square_m":21162765270.976437,
     "geom:bbox":"20.548636402,66.9379070585,26.0078395199,69.3118841445",
     "geom:latitude":68.088778,
     "geom:longitude":23.946601,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Tunturi-Lappi Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Tunturi-Lappi Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Tunturi-Lappi Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":67.841323,
     "lbl:longitude":24.401345,
     "mps:latitude":67.841323,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321583,
-    "wof:lastmodified":1526416977,
+    "wof:lastmodified":1554325352,
     "wof:name":"Tunturi-Lappi",
     "wof:parent_id":85683147,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

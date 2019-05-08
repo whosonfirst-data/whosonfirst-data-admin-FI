@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.714176,
+    "geom:area_square_m":4273763535.257622,
     "geom:bbox":"27.1210694294,60.6666580609,28.776648522,61.379686546",
     "geom:latitude":61.055911,
     "geom:longitude":27.944268,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Lappeenranta Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Lappeenranta Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Lappeenranta Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":61.063649,
     "lbl:longitude":28.010675,
     "mps:latitude":61.063649,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321547,
-    "wof:lastmodified":1526416960,
+    "wof:lastmodified":1554325342,
     "wof:name":"Lappeenranta",
     "wof:parent_id":85683103,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

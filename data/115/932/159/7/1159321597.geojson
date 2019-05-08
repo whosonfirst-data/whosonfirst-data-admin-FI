@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.855922,
+    "geom:area_square_m":4804657578.512277,
     "geom:bbox":"26.890127759,62.5922636488,28.7623868144,63.403310726",
     "geom:latitude":63.001167,
     "geom:longitude":27.763659,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Kuopio Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Kuopio Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kuopio Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":62.968014,
     "lbl:longitude":27.826609,
     "mps:latitude":62.968014,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321597,
-    "wof:lastmodified":1526416983,
+    "wof:lastmodified":1554325355,
     "wof:name":"Kuopio",
     "wof:parent_id":85683131,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

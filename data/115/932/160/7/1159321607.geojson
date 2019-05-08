@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.377446,
+    "geom:area_square_m":2254851885.910069,
     "geom:bbox":"20.7731388539,60.8720057423,22.7015445018,61.3087891267",
     "geom:latitude":61.109852,
     "geom:longitude":21.802225,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Rauma Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Rauma Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Rauma Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":61.085842,
     "lbl:longitude":22.109258,
     "mps:latitude":61.085842,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321607,
-    "wof:lastmodified":1526416989,
+    "wof:lastmodified":1554325359,
     "wof:name":"Rauma",
     "wof:parent_id":85683095,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

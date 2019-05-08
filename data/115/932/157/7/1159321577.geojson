@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003346,
+    "geom:area_square_m":20632911.367524,
     "geom:bbox":"19.9131076375,60.0466654679,19.9732859288,60.1289863808",
     "geom:latitude":60.087881,
     "geom:longitude":19.94251,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Maarianhamina Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Maarianhamina Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Maarianhamina Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":60.086164,
     "lbl:longitude":19.945461,
     "mps:latitude":60.086164,
@@ -50,11 +69,11 @@
         }
     ],
     "wof:id":1159321577,
-    "wof:lastmodified":1526417402,
+    "wof:lastmodified":1554325350,
     "wof:name":"Maarianhamina",
     "wof:parent_id":85667871,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

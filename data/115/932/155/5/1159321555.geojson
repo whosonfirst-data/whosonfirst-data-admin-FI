@@ -10,6 +10,24 @@
     "geom:latitude":62.618454,
     "geom:longitude":23.796505,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Kuusiokunnat Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Kuusiokunnat Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kuusiokunnat Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":62.663932,
     "lbl:longitude":23.549437,
     "mps:latitude":62.663932,
@@ -48,11 +66,11 @@
         }
     ],
     "wof:id":1159321555,
-    "wof:lastmodified":1535390732,
+    "wof:lastmodified":1554325345,
     "wof:name":"Kuusiokunnat",
     "wof:parent_id":85683113,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

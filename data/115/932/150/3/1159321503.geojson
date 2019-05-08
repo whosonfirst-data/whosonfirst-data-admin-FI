@@ -10,6 +10,24 @@
     "geom:latitude":60.07946,
     "geom:longitude":20.662252,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Archipelago Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Archipelago Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Archipelago Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":59.939961,
     "lbl:longitude":20.672752,
     "mps:latitude":59.939961,
@@ -49,11 +67,11 @@
         }
     ],
     "wof:id":1159321503,
-    "wof:lastmodified":1535390730,
+    "wof:lastmodified":1554325332,
     "wof:name":"Archipelago",
     "wof:parent_id":85632789,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

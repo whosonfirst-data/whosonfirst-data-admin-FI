@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194091,
+    "geom:area_square_m":1173624442.788891,
     "geom:bbox":"24.0467482465,60.5524914803,25.1930665884,60.9278385965",
     "geom:latitude":60.724127,
     "geom:longitude":24.592054,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Riihimaki Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Riihimaki Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Riihimaki Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":60.653804,
     "lbl:longitude":24.45746,
     "mps:latitude":60.653804,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321541,
-    "wof:lastmodified":1526416959,
+    "wof:lastmodified":1554325342,
     "wof:name":"Riihimaki",
     "wof:parent_id":85683077,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

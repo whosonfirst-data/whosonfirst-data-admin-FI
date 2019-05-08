@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.301681,
+    "geom:area_square_m":7292808791.016761,
     "geom:bbox":"24.2155574411,62.5208332223,26.3342741338,63.6122932286",
     "geom:latitude":63.057302,
     "geom:longitude":25.277819,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Saarijarvi-Viitasaari Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Saarijarvi-Viitasaari Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Saarijarvi-Viitasaari Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":63.034323,
     "lbl:longitude":25.20558,
     "mps:latitude":63.034323,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321515,
-    "wof:lastmodified":1526416946,
+    "wof:lastmodified":1554325335,
     "wof:name":"Saarijarvi-Viitasaari",
     "wof:parent_id":85683117,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

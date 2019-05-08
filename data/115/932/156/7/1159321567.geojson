@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.509889,
+    "geom:area_square_m":2855893696.164463,
     "geom:bbox":"23.1961381365,62.6755518047,24.5195919483,63.4980466525",
     "geom:latitude":63.065683,
     "geom:longitude":23.856493,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Jarviseutu Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Jarviseutu Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Jarviseutu Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":63.015288,
     "lbl:longitude":23.910809,
     "mps:latitude":63.015288,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321567,
-    "wof:lastmodified":1526416970,
+    "wof:lastmodified":1554325348,
     "wof:name":"Jarviseutu",
     "wof:parent_id":85683113,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

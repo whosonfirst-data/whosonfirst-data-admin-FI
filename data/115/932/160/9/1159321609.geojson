@@ -10,6 +10,24 @@
     "geom:latitude":63.90877,
     "geom:longitude":23.4039,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Kokkola Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Kokkola Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Kokkola Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":63.931955,
     "lbl:longitude":23.204314,
     "mps:latitude":63.931955,
@@ -48,11 +66,11 @@
         }
     ],
     "wof:id":1159321609,
-    "wof:lastmodified":1535390731,
+    "wof:lastmodified":1554325359,
     "wof:name":"Kokkola",
     "wof:parent_id":85683125,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.456892,
+    "geom:area_square_m":8025117493.666729,
     "geom:bbox":"26.0703965413,62.9918341173,28.1680841041,64.0369738238",
     "geom:latitude":63.546031,
     "geom:longitude":27.05818,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Yla-Savo Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Yla-Savo Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Yla-Savo Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":63.528951,
     "lbl:longitude":26.724329,
     "mps:latitude":63.528951,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321601,
-    "wof:lastmodified":1526416986,
+    "wof:lastmodified":1554325357,
     "wof:name":"Yla-Savo",
     "wof:parent_id":85683131,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

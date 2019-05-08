@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.769331,
+    "geom:area_square_m":4136459872.431463,
     "geom:bbox":"24.865170337,63.8410354802,26.8704021946,64.6289425207",
     "geom:latitude":64.225724,
     "geom:longitude":25.916189,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Haapavesi-Siikalatva Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Haapavesi-Siikalatva Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Haapavesi-Siikalatva Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":64.303168,
     "lbl:longitude":25.985002,
     "mps:latitude":64.303168,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321571,
-    "wof:lastmodified":1526416972,
+    "wof:lastmodified":1554325349,
     "wof:name":"Haapavesi-Siikalatva",
     "wof:parent_id":85683143,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],

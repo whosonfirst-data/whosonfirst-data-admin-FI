@@ -5,10 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.172049,
+    "geom:area_square_m":6910966721.643808,
     "geom:bbox":"20.8120814968,60.9825861877,23.0062343098,62.0245911947",
     "geom:latitude":61.519326,
     "geom:longitude":21.744809,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Pori Sub-Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-region"
+    ],
+    "label:fin_x_preferred_longname":[
+        "Pori Seutukunta"
+    ],
+    "label:fin_x_preferred_placetype":[
+        "seutukunta"
+    ],
+    "label:swe_x_preferred_longname":[
+        "Pori Ekonomisk Region"
+    ],
+    "label:swe_x_preferred_placetype":[
+        "ekonomisk region"
+    ],
     "lbl:latitude":61.616412,
     "lbl:longitude":21.39698,
     "mps:latitude":61.616412,
@@ -47,11 +66,11 @@
         }
     ],
     "wof:id":1159321565,
-    "wof:lastmodified":1526416969,
+    "wof:lastmodified":1554325347,
     "wof:name":"Pori",
     "wof:parent_id":85683095,
     "wof:placetype":"county",
-    "wof:placetype_local":"seutukunta",
+    "wof:placetype_local":"sub-region",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded":[],
     "wof:superseded_by":[],
