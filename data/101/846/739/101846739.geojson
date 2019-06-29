@@ -17,19 +17,10 @@
     "mps:longitude":21.611446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Taivassalo"
-    ],
     "name:ceb_x_preferred":[
         "Taivassalo"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u74e6\u65af\u85a9\u6d1b"
-    ],
     "name:deu_x_preferred":[
-        "Taivassalo"
-    ],
-    "name:dut_x_preferred":[
         "Taivassalo"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "Taivassalo"
     ],
     "name:fra_x_preferred":[
-        "Taivassalo"
-    ],
-    "name:fre_x_preferred":[
-        "Taivassalo"
-    ],
-    "name:ger_x_preferred":[
         "Taivassalo"
     ],
     "name:glg_x_preferred":[
@@ -77,9 +62,6 @@
     "name:ron_x_preferred":[
         "Taivassalo"
     ],
-    "name:rum_x_preferred":[
-        "Taivassalo"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0439\u0432\u0430\u0441\u0441\u0430\u043b\u043e"
     ],
@@ -100,6 +82,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5854\u4f0a\u74e6\u85a9\u6d1b"
+    ],
+    "name:zho_x_variant":[
+        "\u6cf0\u74e6\u65af\u85a9\u6d1b"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Varsinais-Suomi#Egentliga Finland",
@@ -152,7 +137,7 @@
         }
     ],
     "wof:id":101846739,
-    "wof:lastmodified":1529706473,
+    "wof:lastmodified":1561830271,
     "wof:name":"Taivassalo",
     "wof:parent_id":907198635,
     "wof:placetype":"locality",

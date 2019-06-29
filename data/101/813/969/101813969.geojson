@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001207,
-    "geom:area_square_m":7098419.418904,
+    "geom:area_square_m":7098419.418905,
     "geom:bbox":"21.8040183993,61.5772411314,21.914834244,61.6199057116",
     "geom:latitude":61.595063,
     "geom:longitude":21.863357,
@@ -23,10 +23,10 @@
     "name:ceb_x_preferred":[
         "Noormarkku"
     ],
-    "name:deu_x_preferred":[
+    "name:cym_x_preferred":[
         "Noormarkku"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Noormarkku"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +36,6 @@
         "Noormarkku"
     ],
     "name:fra_x_preferred":[
-        "Noormarkku"
-    ],
-    "name:fre_x_preferred":[
-        "Noormarkku"
-    ],
-    "name:ger_x_preferred":[
         "Noormarkku"
     ],
     "name:ita_x_preferred":[
@@ -59,9 +53,6 @@
     "name:ron_x_preferred":[
         "Noormarkku"
     ],
-    "name:rum_x_preferred":[
-        "Noormarkku"
-    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u043e\u0440\u043c\u0430\u0440\u043a\u043a\u0443"
     ],
@@ -75,9 +66,6 @@
         "Norrmark"
     ],
     "name:vie_x_preferred":[
-        "Noormarkku"
-    ],
-    "name:wel_x_preferred":[
         "Noormarkku"
     ],
     "qs:a0":"Suomi#Finland",
@@ -132,7 +120,7 @@
         }
     ],
     "wof:id":101813969,
-    "wof:lastmodified":1529712497,
+    "wof:lastmodified":1561830291,
     "wof:name":"Noormarkku",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

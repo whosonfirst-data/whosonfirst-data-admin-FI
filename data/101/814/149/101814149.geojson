@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000427,
-    "geom:area_square_m":2385317.114179,
+    "geom:area_square_m":2385317.114182,
     "geom:bbox":"25.0177095468,63.1169807476,25.0976867641,63.1355977971",
     "geom:latitude":63.126073,
     "geom:longitude":25.06295,
@@ -17,19 +17,10 @@
     "mps:longitude":25.063557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kivij\u00e4rvi"
-    ],
     "name:ceb_x_preferred":[
         "Kivij\u00e4rvi"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u7dad\u8036\u723e\u7dad"
-    ],
     "name:deu_x_preferred":[
-        "Kivij\u00e4rvi"
-    ],
-    "name:dut_x_preferred":[
         "Kivij\u00e4rvi"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Kivij\u00e4rvi"
     ],
     "name:fra_x_preferred":[
-        "Kivij\u00e4rvi"
-    ],
-    "name:fre_x_preferred":[
-        "Kivij\u00e4rvi"
-    ],
-    "name:ger_x_preferred":[
         "Kivij\u00e4rvi"
     ],
     "name:ita_x_preferred":[
@@ -71,7 +56,7 @@
     "name:pol_x_preferred":[
         "Kivij\u00e4rvi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kivij\u00e4rvi"
     ],
     "name:rus_x_preferred":[
@@ -80,11 +65,17 @@
     "name:sme_x_preferred":[
         "Kivij\u00e4rvi"
     ],
+    "name:sqi_x_preferred":[
+        "Kivij\u00e4rvi"
+    ],
     "name:swe_x_preferred":[
         "Kivij\u00e4rvi"
     ],
     "name:vie_x_preferred":[
         "Kivij\u00e4rvi"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u7dad\u8036\u723e\u7dad"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Keski-Suomi#Mellersta Finland",
@@ -136,7 +127,7 @@
         }
     ],
     "wof:id":101814149,
-    "wof:lastmodified":1529706344,
+    "wof:lastmodified":1561830290,
     "wof:name":"Kivij\u00e4rvi",
     "wof:parent_id":907199147,
     "wof:placetype":"locality",

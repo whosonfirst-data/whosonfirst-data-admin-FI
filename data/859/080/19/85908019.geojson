@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
-    "geom:area_square_m":1297758.178731,
+    "geom:area_square_m":1297758.17873,
     "geom:bbox":"25.0415618315,60.250825225,25.0646103196,60.2657450985",
     "geom:latitude":60.258512,
     "geom:longitude":25.054436,
@@ -30,9 +30,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Tattarisuo"
-    ],
     "name:eng_x_preferred":[
         "Tattarisuo"
     ],
@@ -42,7 +39,7 @@
     "name:fra_x_preferred":[
         "Tattarisuo"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Tattarisuo"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +82,6 @@
     "wd:longitude":25.056944,
     "wd:wordcount":88,
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727369,
         907199715,
@@ -94,7 +90,8 @@
         101748417,
         136253047,
         890536891,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +122,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529714760,
+    "wof:lastmodified":1561830201,
     "wof:name":"Tattarisuo",
     "wof:parent_id":1108727369,
     "wof:placetype":"neighbourhood",

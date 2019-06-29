@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000319,
-    "geom:area_square_m":1749051.320493,
+    "geom:area_square_m":1749051.320491,
     "geom:bbox":"23.311143081,63.6907658516,23.3690151485,63.713032498",
     "geom:latitude":63.702156,
     "geom:longitude":23.344242,
@@ -16,16 +16,16 @@
     "mps:longitude":23.351037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Nedervetil"
+    ],
     "name:eng_x_preferred":[
         "Nedervetil"
     ],
     "name:fin_x_preferred":[
         "Alaveteli"
     ],
-    "name:fre_x_preferred":[
-        "Nedervetil"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nedervetil"
     ],
     "name:nob_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101846949,
-    "wof:lastmodified":1529709680,
+    "wof:lastmodified":1561830275,
     "wof:name":"Alaveteli",
     "wof:parent_id":907199669,
     "wof:placetype":"locality",

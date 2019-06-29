@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000385,
-    "geom:area_square_m":2186745.600166,
+    "geom:area_square_m":2186745.600168,
     "geom:bbox":"26.80076215,62.6118555323,26.8506131469,62.6305106854",
     "geom:latitude":62.622101,
     "geom:longitude":26.827375,
@@ -17,19 +17,10 @@
     "mps:longitude":26.825676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Rautalampi"
-    ],
     "name:ceb_x_preferred":[
         "Rautalampi"
     ],
-    "name:chi_x_preferred":[
-        "\u52de\u5854\u862d\u76ae"
-    ],
     "name:deu_x_preferred":[
-        "Rautalampi"
-    ],
-    "name:dut_x_preferred":[
         "Rautalampi"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "Rautalampi"
     ],
     "name:fra_x_preferred":[
-        "Rautalampi"
-    ],
-    "name:fre_x_preferred":[
-        "Rautalampi"
-    ],
-    "name:ger_x_preferred":[
         "Rautalampi"
     ],
     "name:ita_x_preferred":[
@@ -63,9 +48,6 @@
         "Rautalampi"
     ],
     "name:ron_x_preferred":[
-        "Rautalampi"
-    ],
-    "name:rum_x_preferred":[
         "Rautalampi"
     ],
     "name:rus_x_preferred":[
@@ -135,7 +117,7 @@
         }
     ],
     "wof:id":101814337,
-    "wof:lastmodified":1529708947,
+    "wof:lastmodified":1561830284,
     "wof:name":"Rautalampi",
     "wof:parent_id":907198897,
     "wof:placetype":"locality",

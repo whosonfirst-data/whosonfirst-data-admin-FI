@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000288,
-    "geom:area_square_m":1540163.351316,
+    "geom:area_square_m":1540163.351317,
     "geom:bbox":"26.2578658792,64.3400612212,26.2964841448,64.3544141294",
     "geom:latitude":64.348936,
     "geom:longitude":26.278092,
@@ -27,17 +27,14 @@
     "name:ces_x_preferred":[
         "Kestil\u00e4"
     ],
-    "name:cze_x_preferred":[
-        "Kestil\u00e4"
-    ],
     "name:deu_x_preferred":[
-        "Kestil\u00e4"
-    ],
-    "name:dut_x_preferred":[
         "Kestil\u00e4"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03ad\u03c3\u03c4\u03b9\u03bb\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b5\u03c3\u03c4\u03af\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kestil\u00e4"
@@ -51,15 +48,6 @@
     "name:fra_x_preferred":[
         "Kestil\u00e4"
     ],
-    "name:fre_x_preferred":[
-        "Kestil\u00e4"
-    ],
-    "name:ger_x_preferred":[
-        "Kestil\u00e4"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03c3\u03c4\u03af\u03bb\u03b1"
-    ],
     "name:ita_x_preferred":[
         "Kestil\u00e4"
     ],
@@ -69,7 +57,7 @@
     "name:nob_x_preferred":[
         "Kestil\u00e4"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kestil\u00e4"
     ],
     "name:rus_x_preferred":[
@@ -139,7 +127,7 @@
         }
     ],
     "wof:id":101814445,
-    "wof:lastmodified":1529709425,
+    "wof:lastmodified":1561830289,
     "wof:name":"Kestil\u00e4",
     "wof:parent_id":907199755,
     "wof:placetype":"locality",

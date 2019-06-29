@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Muurla"
     ],
-    "name:dut_x_preferred":[
-        "Muurla"
-    ],
     "name:eng_x_preferred":[
         "Muurla"
     ],
@@ -36,12 +33,6 @@
         "Muurla"
     ],
     "name:fra_x_preferred":[
-        "Muurla"
-    ],
-    "name:fre_x_preferred":[
-        "Muurla"
-    ],
-    "name:ger_x_preferred":[
         "Muurla"
     ],
     "name:ita_x_preferred":[
@@ -57,9 +48,6 @@
         "Muurla"
     ],
     "name:ron_x_preferred":[
-        "Muurla"
-    ],
-    "name:rum_x_preferred":[
         "Muurla"
     ],
     "name:sme_x_preferred":[
@@ -122,7 +110,7 @@
         }
     ],
     "wof:id":101872793,
-    "wof:lastmodified":1544751327,
+    "wof:lastmodified":1561830267,
     "wof:name":"Muurla",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

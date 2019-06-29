@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Mellil\u00e4"
     ],
-    "name:dut_x_preferred":[
-        "Mellil\u00e4"
-    ],
     "name:eng_x_preferred":[
         "Mellil\u00e4"
     ],
@@ -33,12 +30,6 @@
         "Mellil\u00e4"
     ],
     "name:fra_x_preferred":[
-        "Mellil\u00e4"
-    ],
-    "name:fre_x_preferred":[
-        "Mellil\u00e4"
-    ],
-    "name:ger_x_preferred":[
         "Mellil\u00e4"
     ],
     "name:ita_x_preferred":[
@@ -54,9 +45,6 @@
         "Mellil\u00e4"
     ],
     "name:ron_x_preferred":[
-        "Mellil\u00e4"
-    ],
-    "name:rum_x_preferred":[
         "Mellil\u00e4"
     ],
     "name:rus_x_preferred":[
@@ -123,7 +111,7 @@
         }
     ],
     "wof:id":101846725,
-    "wof:lastmodified":1529706472,
+    "wof:lastmodified":1561830274,
     "wof:name":"Mellil\u00e4",
     "wof:parent_id":907198963,
     "wof:placetype":"locality",

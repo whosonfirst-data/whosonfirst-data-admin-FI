@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
-    "geom:area_square_m":441490.517134,
+    "geom:area_square_m":441490.517135,
     "geom:bbox":"25.4439094664,65.0024501317,25.4642970266,65.0111646756",
     "geom:latitude":65.00705,
     "geom:longitude":25.45464,
@@ -20,13 +20,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Hollihaka"
+    ],
     "name:eng_x_preferred":[
         "Hollihaka"
     ],
     "name:fin_x_preferred":[
-        "Hollihaka"
-    ],
-    "name:ger_x_preferred":[
         "Hollihaka"
     ],
     "name:swe_x_preferred":[
@@ -40,14 +40,14 @@
     "reversegeo:longitude":25.455644,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":1108728973,
-    "wof:lastmodified":1529709458,
+    "wof:lastmodified":1561830255,
     "wof:name":"Hollihaka",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

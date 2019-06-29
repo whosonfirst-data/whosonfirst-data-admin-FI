@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001442,
-    "geom:area_square_m":8410341.743736,
+    "geom:area_square_m":8410341.743734,
     "geom:bbox":"21.4586259719,61.8269968271,21.5485106959,61.8786706993",
     "geom:latitude":61.855717,
     "geom:longitude":21.502882,
@@ -17,22 +17,13 @@
     "mps:longitude":21.510373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Merikarvia"
-    ],
     "name:ceb_x_preferred":[
         "Merikarvia"
-    ],
-    "name:chi_x_preferred":[
-        "\u6885\u91cc\u5361\u723e\u7dad\u4e9e"
     ],
     "name:dan_x_preferred":[
         "Sastmola"
     ],
     "name:deu_x_preferred":[
-        "Merikarvia"
-    ],
-    "name:dut_x_preferred":[
         "Merikarvia"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Merikarvia"
     ],
     "name:fra_x_preferred":[
-        "Merikarvia"
-    ],
-    "name:fre_x_preferred":[
-        "Merikarvia"
-    ],
-    "name:ger_x_preferred":[
         "Merikarvia"
     ],
     "name:isl_x_preferred":[
@@ -72,9 +57,6 @@
         "Merikarvia"
     ],
     "name:ron_x_preferred":[
-        "Merikarvia"
-    ],
-    "name:rum_x_preferred":[
         "Merikarvia"
     ],
     "name:rus_x_preferred":[
@@ -150,7 +132,7 @@
         }
     ],
     "wof:id":101813955,
-    "wof:lastmodified":1529712496,
+    "wof:lastmodified":1561830291,
     "wof:name":"Merikarvia",
     "wof:parent_id":907198797,
     "wof:placetype":"locality",

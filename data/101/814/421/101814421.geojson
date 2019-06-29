@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001114,
-    "geom:area_square_m":5862102.458526,
+    "geom:area_square_m":5862102.458529,
     "geom:bbox":"25.9457927868,64.7932518688,26.0410938236,64.8210333096",
     "geom:latitude":64.807941,
     "geom:longitude":25.999008,
@@ -18,29 +18,20 @@
     "mps:longitude":25.987567,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Muhos"
-    ],
     "name:ceb_x_preferred":[
         "Muhos"
     ],
     "name:ces_x_preferred":[
         "Muhos"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u970d\u65af"
-    ],
-    "name:cze_x_preferred":[
-        "Muhos"
-    ],
     "name:deu_x_preferred":[
-        "Muhos"
-    ],
-    "name:dut_x_preferred":[
         "Muhos"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03cd\u03c7\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03cd\u03c7\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Muhos"
@@ -50,15 +41,6 @@
     ],
     "name:fra_x_preferred":[
         "Muhos"
-    ],
-    "name:fre_x_preferred":[
-        "Muhos"
-    ],
-    "name:ger_x_preferred":[
-        "Muhos"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03cd\u03c7\u03bf\u03c2"
     ],
     "name:ita_x_preferred":[
         "Muhos"
@@ -79,9 +61,6 @@
         "Muhos"
     ],
     "name:ron_x_preferred":[
-        "Muhos"
-    ],
-    "name:rum_x_preferred":[
         "Muhos"
     ],
     "name:rus_x_preferred":[
@@ -162,7 +141,7 @@
         }
     ],
     "wof:id":101814421,
-    "wof:lastmodified":1529709424,
+    "wof:lastmodified":1561830288,
     "wof:name":"Muhos",
     "wof:parent_id":907199477,
     "wof:placetype":"locality",

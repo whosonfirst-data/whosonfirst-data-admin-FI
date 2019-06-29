@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000358,
-    "geom:area_square_m":2017678.164074,
+    "geom:area_square_m":2017678.164073,
     "geom:bbox":"26.9429751771,62.8845325536,26.9970217809,62.907992034",
     "geom:latitude":62.896429,
     "geom:longitude":26.970297,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Karttula"
     ],
-    "name:dut_x_preferred":[
-        "Karttula"
-    ],
     "name:eng_x_preferred":[
         "Karttula"
     ],
@@ -36,12 +33,6 @@
         "Karttula"
     ],
     "name:fra_x_preferred":[
-        "Karttula"
-    ],
-    "name:fre_x_preferred":[
-        "Karttula"
-    ],
-    "name:ger_x_preferred":[
         "Karttula"
     ],
     "name:heb_x_preferred":[
@@ -60,9 +51,6 @@
         "Karttula"
     ],
     "name:ron_x_preferred":[
-        "Karttula"
-    ],
-    "name:rum_x_preferred":[
         "Karttula"
     ],
     "name:rus_x_preferred":[
@@ -129,7 +117,7 @@
         }
     ],
     "wof:id":101846999,
-    "wof:lastmodified":1529708952,
+    "wof:lastmodified":1561830272,
     "wof:name":"Karttula",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

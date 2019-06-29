@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00057,
-    "geom:area_square_m":3190388.525313,
+    "geom:area_square_m":3190388.525317,
     "geom:bbox":"25.8115450555,63.0714583396,25.8735937598,63.1096018171",
     "geom:latitude":63.0876,
     "geom:longitude":25.848444,
@@ -20,16 +20,10 @@
     "name:afr_x_preferred":[
         "Viitasaari"
     ],
-    "name:alb_x_preferred":[
-        "Viitasaari"
-    ],
     "name:arg_x_preferred":[
         "Viitasaari"
     ],
     "name:ast_x_preferred":[
-        "Viitasaari"
-    ],
-    "name:baq_x_preferred":[
         "Viitasaari"
     ],
     "name:bar_x_preferred":[
@@ -44,22 +38,19 @@
     "name:ceb_x_preferred":[
         "Viitasaari"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u5854\u85a9\u91cc"
+    "name:ces_x_preferred":[
+        "Viitasaari"
     ],
     "name:cos_x_preferred":[
         "Viitasaari"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Viitasaari"
     ],
     "name:dan_x_preferred":[
         "Viitasaari"
     ],
     "name:deu_x_preferred":[
-        "Viitasaari"
-    ],
-    "name:dut_x_preferred":[
         "Viitasaari"
     ],
     "name:eng_x_preferred":[
@@ -71,22 +62,19 @@
     "name:est_x_preferred":[
         "Viitasaari"
     ],
+    "name:eus_x_preferred":[
+        "Viitasaari"
+    ],
     "name:fin_x_preferred":[
         "Viitasaari"
     ],
     "name:fra_x_preferred":[
         "Viitasaari"
     ],
-    "name:fre_x_preferred":[
-        "Viitasaari"
-    ],
     "name:frp_x_preferred":[
         "Viitasaari"
     ],
     "name:fur_x_preferred":[
-        "Viitasaari"
-    ],
-    "name:ger_x_preferred":[
         "Viitasaari"
     ],
     "name:gla_x_preferred":[
@@ -110,9 +98,6 @@
     "name:hun_x_preferred":[
         "Viitasaari"
     ],
-    "name:ice_x_preferred":[
-        "Viitasaari"
-    ],
     "name:ido_x_preferred":[
         "Viitasaari"
     ],
@@ -123,6 +108,9 @@
         "Viitasaari"
     ],
     "name:ind_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:isl_x_preferred":[
         "Viitasaari"
     ],
     "name:ita_x_preferred":[
@@ -143,13 +131,13 @@
     "name:ltz_x_preferred":[
         "Viitasaari"
     ],
-    "name:may_x_preferred":[
-        "Viitasaari"
-    ],
     "name:min_x_preferred":[
         "Viitasaari"
     ],
     "name:mlg_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:msa_x_preferred":[
         "Viitasaari"
     ],
     "name:nap_x_preferred":[
@@ -197,9 +185,6 @@
     "name:ron_x_preferred":[
         "Viitasaari"
     ],
-    "name:rum_x_preferred":[
-        "Viitasaari"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u0439\u0442\u0430\u0441\u0430\u0430\u0440\u0438"
     ],
@@ -209,7 +194,7 @@
     "name:sco_x_preferred":[
         "Viitasaari"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Viitasaari"
     ],
     "name:slv_x_preferred":[
@@ -252,9 +237,6 @@
         "Viitasaari"
     ],
     "name:vol_x_preferred":[
-        "Viitasaari"
-    ],
-    "name:wel_x_preferred":[
         "Viitasaari"
     ],
     "name:wln_x_preferred":[
@@ -324,7 +306,7 @@
         }
     ],
     "wof:id":101846927,
-    "wof:lastmodified":1529706349,
+    "wof:lastmodified":1561830277,
     "wof:name":"Viitasaari",
     "wof:parent_id":907199223,
     "wof:placetype":"locality",

@@ -21,14 +21,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
-    "name:alb_x_preferred":[
-        "P\u00e4ij\u00e4nne Tavastia"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0627\u062a \u0647\u0627\u0645\u064a"
-    ],
-    "name:baq_x_preferred":[
-        "P\u00e4ij\u00e4nne Tavastia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u044f\u044f\u0442-\u0425\u044f\u043c\u044d"
@@ -48,20 +42,14 @@
     "name:che_x_preferred":[
         "\u041f\u044f\u0439\u044f\u0442-\u0425\u044f\u043c\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u6d3e\u4e9e\u7279\u6d77\u6885\u5340"
-    ],
-    "name:cze_x_preferred":[
-        "P\u00e4ij\u00e4t-H\u00e4me"
-    ],
     "name:dan_x_preferred":[
         "P\u00e4ij\u00e4nne-Tavastland"
     ],
     "name:deu_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
     ],
-    "name:dut_x_preferred":[
-        "P\u00e4ij\u00e4t-H\u00e4me"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03ca\u03c4\u03b6\u03ac\u03bd\u03b5 \u03a4\u03b1\u03b2\u03ac\u03c3\u03c4\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Paijanne Tavastia"
@@ -72,16 +60,16 @@
     "name:est_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
     ],
+    "name:eus_x_preferred":[
+        "P\u00e4ij\u00e4nne Tavastia"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u200c\u06cc\u0646\u0647 \u062a\u0627\u0648\u0627\u0633\u062a\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
     ],
-    "name:fre_x_preferred":[
-        "P\u00e4ij\u00e4t-H\u00e4me"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d8\u10d0\u10d8\u10d0\u10e2-\u10f0\u10d8\u10d0\u10db\u10d4"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
     ],
     "name:glg_x_preferred":[
@@ -89,9 +77,6 @@
     ],
     "name:glv_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03ca\u03c4\u03b6\u03ac\u03bd\u03b5 \u03a4\u03b1\u03b2\u03ac\u03c3\u03c4\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0a9c\u0aa8\u0ac7 \u0aa4\u0abe\u0ab5\u0ab8\u0acd\u0aa4\u0abf\u0aaf\u0abe"
@@ -111,6 +96,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cc8\u0c9c\u0cc7\u0ca8\u0ccd \u0c9f\u0cbf\u0cb5\u0cb8\u0ccd\u0c9f\u0cbf\u0caf\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10d0\u10d8\u10d0\u10e2-\u10f0\u10d8\u10d0\u10db\u10d4"
+    ],
     "name:koi_x_preferred":[
         "\u041f\u044f\u0439\u044f\u0442 \u0425\u044f\u043c\u0435"
     ],
@@ -126,8 +114,11 @@
     "name:mar_x_preferred":[
         "\u092a\u0947\u091c\u0928\u0928 \u0924\u093e\u0935\u093e\u0938\u094d\u0924\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Paijanne Tavastia"
+    ],
+    "name:nld_x_preferred":[
+        "P\u00e4ij\u00e4t-H\u00e4me"
     ],
     "name:nno_x_preferred":[
         "P\u00e4ij\u00e4nne-Tavastland"
@@ -138,9 +129,6 @@
     "name:oci_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u200c\u06cc\u0646\u0647 \u062a\u0627\u0648\u0627\u0633\u062a\u06cc\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u067e\u06cc\u0626\u062c\u06cc\u0646\u06d2 \u062a\u0648\u0627\u0633\u062a\u06cc\u0627"
     ],
@@ -150,7 +138,7 @@
     "name:por_x_preferred":[
         "P\u00e4ij\u00e4nne Tavastia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "P\u00e4ij\u00e4nne Tavastia"
     ],
     "name:rus_x_preferred":[
@@ -162,13 +150,16 @@
     "name:sin_x_preferred":[
         "\u0db4\u0dba\u0dd2\u0da2\u0db1\u0dca\u0db1\u0dda \u0da7\u0dc0\u0dc3\u0dca\u0da7\u0dd2\u0dba\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
     ],
     "name:sme_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me eanangoddi"
     ],
     "name:spa_x_preferred":[
+        "P\u00e4ij\u00e4nne Tavastia"
+    ],
+    "name:sqi_x_preferred":[
         "P\u00e4ij\u00e4nne Tavastia"
     ],
     "name:srp_x_preferred":[
@@ -198,6 +189,9 @@
     ],
     "name:vie_x_preferred":[
         "P\u00e4ij\u00e4nne Tavastia"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d3e\u4e9e\u7279\u6d77\u6885\u5340"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a0_lc":"FI000000",
@@ -247,7 +241,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1553559969,
+    "wof:lastmodified":1561830218,
     "wof:name":"Paijanne Tavastia",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

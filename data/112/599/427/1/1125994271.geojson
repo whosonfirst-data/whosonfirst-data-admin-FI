@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Anjala"
+    ],
     "name:eng_x_preferred":[
         "Anjala"
     ],
@@ -28,10 +31,7 @@
     "name:fin_x_preferred":[
         "Anjala"
     ],
-    "name:fre_x_preferred":[
-        "Anjala"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Anjala"
     ],
     "name:nob_x_preferred":[
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1125994271,
-    "wof:lastmodified":1553816685,
+    "wof:lastmodified":1561830308,
     "wof:name":"Anjala",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

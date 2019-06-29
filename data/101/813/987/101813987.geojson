@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001482,
-    "geom:area_square_m":8598939.201165,
+    "geom:area_square_m":8598939.201162,
     "geom:bbox":"22.9596964364,61.9867128033,23.0532149797,62.0354315774",
     "geom:latitude":62.010827,
     "geom:longitude":23.010187,
@@ -17,22 +17,13 @@
     "mps:longitude":23.011811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Parkano"
-    ],
     "name:ceb_x_preferred":[
         "Parkano"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e15\u723e\u5361\u8afe"
     ],
     "name:dan_x_preferred":[
         "Parkano"
     ],
     "name:deu_x_preferred":[
-        "Parkano"
-    ],
-    "name:dut_x_preferred":[
         "Parkano"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Parkano"
     ],
     "name:fra_x_preferred":[
-        "Parkano"
-    ],
-    "name:fre_x_preferred":[
-        "Parkano"
-    ],
-    "name:ger_x_preferred":[
         "Parkano"
     ],
     "name:hbs_x_preferred":[
@@ -80,9 +65,6 @@
     "name:ron_x_preferred":[
         "Parkano"
     ],
-    "name:rum_x_preferred":[
-        "Parkano"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u043a\u0430\u043d\u043e"
     ],
@@ -90,9 +72,6 @@
         "Parkano"
     ],
     "name:slk_x_preferred":[
-        "Parkano"
-    ],
-    "name:slo_x_preferred":[
         "Parkano"
     ],
     "name:sme_x_preferred":[
@@ -173,7 +152,7 @@
         }
     ],
     "wof:id":101813987,
-    "wof:lastmodified":1529711298,
+    "wof:lastmodified":1561830291,
     "wof:name":"Parkano",
     "wof:parent_id":907199125,
     "wof:placetype":"locality",

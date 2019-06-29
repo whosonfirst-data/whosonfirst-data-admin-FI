@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000574,
-    "geom:area_square_m":3340244.220534,
+    "geom:area_square_m":3340244.22054,
     "geom:bbox":"29.2542798681,61.899332043,29.3058047482,61.9279786076",
     "geom:latitude":61.913877,
     "geom:longitude":29.279844,
@@ -20,13 +20,7 @@
     "name:ceb_x_preferred":[
         "Kerim\u00e4ki"
     ],
-    "name:chi_x_preferred":[
-        "\u51f1\u91cc\u9081\u57fa"
-    ],
     "name:deu_x_preferred":[
-        "Kerim\u00e4ki"
-    ],
-    "name:dut_x_preferred":[
         "Kerim\u00e4ki"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Kerim\u00e4ki"
     ],
     "name:fra_x_preferred":[
-        "Kerim\u00e4ki"
-    ],
-    "name:fre_x_preferred":[
-        "Kerim\u00e4ki"
-    ],
-    "name:ger_x_preferred":[
         "Kerim\u00e4ki"
     ],
     "name:ita_x_preferred":[
@@ -62,9 +50,6 @@
     "name:ron_x_preferred":[
         "Kerim\u00e4ki"
     ],
-    "name:rum_x_preferred":[
-        "Kerim\u00e4ki"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0440\u0438\u043c\u044f\u043a\u0438"
     ],
@@ -73,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Kerim\u00e4ki"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u91cc\u9081\u57fa"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Etel\u00e4-Savo#S\u00f6dra Savolax",
@@ -128,7 +116,7 @@
         }
     ],
     "wof:id":101814059,
-    "wof:lastmodified":1529714451,
+    "wof:lastmodified":1561830289,
     "wof:name":"Kerim\u00e4ki",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

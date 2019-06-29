@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000298,
-    "geom:area_square_m":1809779.163206,
+    "geom:area_square_m":1809779.163207,
     "geom:bbox":"22.2091684521,60.5347565197,22.2577797292,60.5497024026",
     "geom:latitude":60.543482,
     "geom:longitude":22.233169,
@@ -17,22 +17,13 @@
     "mps:longitude":22.240902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Rusko"
-    ],
     "name:ceb_x_preferred":[
         "Rusko"
-    ],
-    "name:chi_x_preferred":[
-        "\u9b6f\u65af\u79d1"
     ],
     "name:dan_x_preferred":[
         "Rusko"
     ],
     "name:deu_x_preferred":[
-        "Rusko"
-    ],
-    "name:dut_x_preferred":[
         "Rusko"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Rusko"
     ],
     "name:fra_x_preferred":[
-        "Rusko"
-    ],
-    "name:fre_x_preferred":[
-        "Rusko"
-    ],
-    "name:ger_x_preferred":[
         "Rusko"
     ],
     "name:ita_x_preferred":[
@@ -72,9 +57,6 @@
         "Rusko"
     ],
     "name:ron_x_preferred":[
-        "Rusko"
-    ],
-    "name:rum_x_preferred":[
         "Rusko"
     ],
     "name:rus_x_preferred":[
@@ -155,7 +137,7 @@
         }
     ],
     "wof:id":101846747,
-    "wof:lastmodified":1529706473,
+    "wof:lastmodified":1561830274,
     "wof:name":"Rusko",
     "wof:parent_id":907198981,
     "wof:placetype":"locality",

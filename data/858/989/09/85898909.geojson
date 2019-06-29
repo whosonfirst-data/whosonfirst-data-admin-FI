@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17899123.450287,
+    "geom:area_square_m":0.0,
     "geom:bbox":"23.78703,61.50212,23.78703,61.50212",
     "geom:latitude":61.50212,
     "geom:longitude":23.78703,
@@ -32,7 +32,7 @@
     "name:fin_x_preferred":[
         "Tampella"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tampella"
     ],
     "name:lav_x_preferred":[
@@ -76,14 +76,14 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":605,
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +112,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1531932119,
+    "wof:lastmodified":1561830221,
     "wof:name":"Tampella",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

@@ -25,13 +25,7 @@
     "name:ceb_x_preferred":[
         "Oravais"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u62c9\u7dad\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Oravais"
-    ],
-    "name:dut_x_preferred":[
         "Oravais"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +35,6 @@
         "Oravainen"
     ],
     "name:fra_x_preferred":[
-        "Oravais"
-    ],
-    "name:fre_x_preferred":[
-        "Oravais"
-    ],
-    "name:ger_x_preferred":[
         "Oravais"
     ],
     "name:hun_x_preferred":[
@@ -67,14 +55,14 @@
     "name:ron_x_preferred":[
         "Oravais"
     ],
-    "name:rum_x_preferred":[
-        "Oravais"
-    ],
     "name:sme_x_preferred":[
         "Oravainen"
     ],
     "name:swe_x_preferred":[
         "Oravais"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u62c9\u7dad\u65af"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjanmaa#\u00d6sterbotten",
@@ -129,7 +117,7 @@
         }
     ],
     "wof:id":101872837,
-    "wof:lastmodified":1544751349,
+    "wof:lastmodified":1561830268,
     "wof:name":"Oravainen",
     "wof:parent_id":907199763,
     "wof:placetype":"locality",

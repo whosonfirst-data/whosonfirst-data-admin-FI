@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000482,
-    "geom:area_square_m":2643484.819047,
+    "geom:area_square_m":2643484.819046,
     "geom:bbox":"28.7851275947,63.6657516563,28.8518966353,63.6929939724",
     "geom:latitude":63.678095,
     "geom:longitude":28.817759,
@@ -17,22 +17,13 @@
     "mps:longitude":28.814978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Valtimo"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u062a\u064a\u0645\u0648"
     ],
     "name:ceb_x_preferred":[
         "Valtimo"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u723e\u8482\u83ab"
-    ],
     "name:deu_x_preferred":[
-        "Valtimo"
-    ],
-    "name:dut_x_preferred":[
         "Valtimo"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "Valtimo"
     ],
     "name:fra_x_preferred":[
-        "Valtimo"
-    ],
-    "name:fre_x_preferred":[
-        "Valtimo"
-    ],
-    "name:ger_x_preferred":[
         "Valtimo"
     ],
     "name:gle_x_preferred":[
@@ -75,9 +60,6 @@
         "Valtimo"
     ],
     "name:ron_x_preferred":[
-        "Valtimo"
-    ],
-    "name:rum_x_preferred":[
         "Valtimo"
     ],
     "name:rus_x_preferred":[
@@ -155,7 +137,7 @@
         }
     ],
     "wof:id":101814355,
-    "wof:lastmodified":1529706707,
+    "wof:lastmodified":1561830284,
     "wof:name":"Valtimo",
     "wof:parent_id":907199405,
     "wof:placetype":"locality",

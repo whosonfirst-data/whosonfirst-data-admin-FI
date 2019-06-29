@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000632,
-    "geom:area_square_m":3731873.053409,
+    "geom:area_square_m":3731873.053414,
     "geom:bbox":"23.6674251782,61.4813378553,23.7477206657,61.5012597401",
     "geom:latitude":61.489306,
     "geom:longitude":23.715254,
@@ -26,7 +26,7 @@
     "name:fin_x_preferred":[
         "Pyynikki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pyynikki"
     ],
     "name:swe_x_preferred":[
@@ -39,14 +39,14 @@
     "tmpgov:id":"101134",
     "tmpgov:name":"Pyynikki",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1108728403,
-    "wof:lastmodified":1529711330,
+    "wof:lastmodified":1561830253,
     "wof:name":"Pyynikki",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

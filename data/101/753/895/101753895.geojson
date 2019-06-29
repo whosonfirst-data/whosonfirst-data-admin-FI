@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002863,
-    "geom:area_square_m":17484205.983561,
+    "geom:area_square_m":17484205.983556,
     "geom:bbox":"25.0410620022,60.360012,25.1239167635,60.4416373931",
     "geom:latitude":60.401324,
     "geom:longitude":25.08792,
@@ -17,14 +17,8 @@
     "mps:longitude":25.095184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kerava"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0627\u0641\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0565\u0580\u0561\u057e\u0561"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0435\u0440\u0430\u0432\u0430"
@@ -35,16 +29,10 @@
     "name:ceb_x_preferred":[
         "Kerava"
     ],
-    "name:chi_x_preferred":[
-        "\u51f1\u62c9\u74e6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kerava"
     ],
     "name:deu_x_preferred":[
-        "Kerava"
-    ],
-    "name:dut_x_preferred":[
         "Kerava"
     ],
     "name:eng_x_preferred":[
@@ -62,12 +50,6 @@
     "name:fra_x_preferred":[
         "Kerava"
     ],
-    "name:fre_x_preferred":[
-        "Kerava"
-    ],
-    "name:ger_x_preferred":[
-        "Kerava"
-    ],
     "name:hbs_x_preferred":[
         "Kerava"
     ],
@@ -76,6 +58,9 @@
     ],
     "name:hun_x_preferred":[
         "Kerava"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u0580\u0561\u057e\u0561"
     ],
     "name:ind_x_preferred":[
         "Kerava"
@@ -110,16 +95,10 @@
     "name:nor_x_preferred":[
         "Kervo"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u0627\u0648\u0627"
-    ],
     "name:pol_x_preferred":[
         "Kerava"
     ],
     "name:ron_x_preferred":[
-        "Kerava"
-    ],
-    "name:rum_x_preferred":[
         "Kerava"
     ],
     "name:rus_x_preferred":[
@@ -214,7 +193,7 @@
         }
     ],
     "wof:id":101753895,
-    "wof:lastmodified":1529714679,
+    "wof:lastmodified":1561830265,
     "wof:name":"Kerava",
     "wof:parent_id":907198627,
     "wof:placetype":"locality",

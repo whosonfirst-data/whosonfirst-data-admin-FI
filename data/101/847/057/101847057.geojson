@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000598,
-    "geom:area_square_m":3079783.080211,
+    "geom:area_square_m":3079783.080212,
     "geom:bbox":"25.7774033831,65.355519275,25.860689538,65.3831762557",
     "geom:latitude":65.369229,
     "geom:longitude":25.826805,
@@ -26,19 +26,10 @@
     "name:ces_x_preferred":[
         "Yli-Ii"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0a\u4f0a\u93ae"
-    ],
-    "name:cze_x_preferred":[
-        "Yli-Ii"
-    ],
     "name:dan_x_preferred":[
         "\u00d6verijo"
     ],
     "name:deu_x_preferred":[
-        "Yli-Ii"
-    ],
-    "name:dut_x_preferred":[
         "Yli-Ii"
     ],
     "name:ell_x_preferred":[
@@ -55,15 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Yli-Ii"
-    ],
-    "name:fre_x_preferred":[
-        "Yli-Ii"
-    ],
-    "name:ger_x_preferred":[
-        "Yli-Ii"
-    ],
-    "name:gre_x_preferred":[
-        "\u038e\u03bb\u03b9-\u038a\u03b9"
     ],
     "name:isl_x_preferred":[
         "\u00d6verijo"
@@ -93,9 +75,6 @@
         "Yli-Ii"
     ],
     "name:ron_x_preferred":[
-        "Yli-Ii"
-    ],
-    "name:rum_x_preferred":[
         "Yli-Ii"
     ],
     "name:rus_x_preferred":[
@@ -174,7 +153,7 @@
         }
     ],
     "wof:id":101847057,
-    "wof:lastmodified":1529709419,
+    "wof:lastmodified":1561830283,
     "wof:name":"Yli-Ii",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

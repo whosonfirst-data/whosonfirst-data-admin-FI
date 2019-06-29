@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00166,
-    "geom:area_square_m":10183105.50283,
+    "geom:area_square_m":10183105.502832,
     "geom:bbox":"24.3667151634,60.2213998596,24.4734840064,60.2959433037",
     "geom:latitude":60.26261,
     "geom:longitude":24.421446,
@@ -17,13 +17,13 @@
     "mps:longitude":24.421753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Veikkola"
-    ],
     "name:eng_x_preferred":[
         "Veikkola"
     ],
     "name:fin_x_preferred":[
+        "Veikkola"
+    ],
+    "name:nld_x_preferred":[
         "Veikkola"
     ],
     "name:rus_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":101815289,
-    "wof:lastmodified":1529714673,
+    "wof:lastmodified":1561830278,
     "wof:name":"Veikkola",
     "wof:parent_id":907198511,
     "wof:placetype":"locality",

@@ -26,14 +26,14 @@
     "name:eng_x_preferred":[
         "Vartiosaari"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u062a\u06cc\u0633\u0627\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Vartiosaari"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vartiosaari"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0631\u062a\u06cc\u0633\u0627\u0631\u06cc"
     ],
     "name:swe_x_preferred":[
         "V\u00e5rd\u00f6"
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1108938455,
-    "wof:lastmodified":1534379301,
+    "wof:lastmodified":1561830256,
     "wof:name":"Vartiosaari",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",

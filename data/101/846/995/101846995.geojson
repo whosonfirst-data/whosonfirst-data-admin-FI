@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000184,
-    "geom:area_square_m":1033674.211072,
+    "geom:area_square_m":1033674.21107,
     "geom:bbox":"28.1375584395,62.9096916786,28.1721884153,62.9215246355",
     "geom:latitude":62.914823,
     "geom:longitude":28.155962,
@@ -23,13 +23,13 @@
     "name:ceb_x_preferred":[
         "Riistavesi"
     ],
+    "name:deu_x_preferred":[
+        "Riistavesi"
+    ],
     "name:eng_x_preferred":[
         "Riistavesi"
     ],
     "name:fin_x_preferred":[
-        "Riistavesi"
-    ],
-    "name:ger_x_preferred":[
         "Riistavesi"
     ],
     "name:nob_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":101846995,
-    "wof:lastmodified":1529708952,
+    "wof:lastmodified":1561830275,
     "wof:name":"Riistavesi",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

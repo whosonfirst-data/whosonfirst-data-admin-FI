@@ -19,16 +19,13 @@
     "name:deu_x_preferred":[
         "Purmo"
     ],
-    "name:dut_x_preferred":[
-        "Purmo"
-    ],
     "name:eng_x_preferred":[
         "Purmo"
     ],
     "name:fin_x_preferred":[
         "Purmo"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Purmo"
     ],
     "name:nob_x_preferred":[
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":101846953,
-    "wof:lastmodified":1529709681,
+    "wof:lastmodified":1561830272,
     "wof:name":"Purmo",
     "wof:parent_id":907199161,
     "wof:placetype":"locality",

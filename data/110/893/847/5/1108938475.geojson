@@ -26,7 +26,7 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0438\u0432\u043e\u043f\u0443\u0438\u0441\u0442\u043e"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kaivopuisto"
     ],
     "name:eng_x_preferred":[
@@ -35,10 +35,10 @@
     "name:fin_x_preferred":[
         "Kaivopuisto"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kaivopuisto"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Kaivopuisto"
     ],
     "name:pol_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1108938475,
-    "wof:lastmodified":1534379299,
+    "wof:lastmodified":1561830257,
     "wof:name":"Kaivopuisto",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

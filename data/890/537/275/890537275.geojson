@@ -11,7 +11,7 @@
     "fsgov:nimi":"LAAJASALO",
     "fsgov:nimi_se":"DEGER\u00d6",
     "geom:area":0.056021,
-    "geom:area_square_m":345900810.333957,
+    "geom:area_square_m":345900810.33395,
     "geom:bbox":"24.8480890648,59.9224907198,25.2195380556,60.200595322",
     "geom:latitude":60.045524,
     "geom:longitude":25.054393,
@@ -39,7 +39,7 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Laajasalo"
     ],
     "name:eng_x_preferred":[
@@ -48,13 +48,13 @@
     "name:fin_x_preferred":[
         "Laajasalo"
     ],
-    "name:fre_x_preferred":[
-        "Laajasalo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Laajasalo"
     ],
     "name:ita_x_preferred":[
+        "Laajasalo"
+    ],
+    "name:nld_x_preferred":[
         "Laajasalo"
     ],
     "name:nob_x_preferred":[
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":890537275,
-    "wof:lastmodified":1529714723,
+    "wof:lastmodified":1561830296,
     "wof:name":"Laajasalo",
     "wof:parent_id":890536883,
     "wof:placetype":"macrohood",

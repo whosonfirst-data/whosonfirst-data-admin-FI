@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000554,
-    "geom:area_square_m":3330965.473031,
+    "geom:area_square_m":3330965.473032,
     "geom:bbox":"27.5197842926,60.906394494,27.6020572618,60.9310725446",
     "geom:latitude":60.919919,
     "geom:longitude":27.562028,
@@ -28,7 +28,7 @@
     "name:fin_x_preferred":[
         "Taavetti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Taavetti"
     ],
     "name:isl_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":101846863,
-    "wof:lastmodified":1529707143,
+    "wof:lastmodified":1561830277,
     "wof:name":"Taavetti",
     "wof:parent_id":907198953,
     "wof:placetype":"locality",

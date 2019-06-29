@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00149,
-    "geom:area_square_m":9118919.07579,
+    "geom:area_square_m":9118919.075794,
     "geom:bbox":"24.2586810979,60.3146450645,24.3552926825,60.3605696769",
     "geom:latitude":60.337532,
     "geom:longitude":24.309598,
@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Nummela"
     ],
-    "name:dut_x_preferred":[
-        "Nummela"
-    ],
     "name:eng_x_preferred":[
         "Nummela"
     ],
@@ -31,7 +28,10 @@
     "name:fin_x_preferred":[
         "Nummela"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Nummela"
+    ],
+    "name:nld_x_preferred":[
         "Nummela"
     ],
     "name:rus_x_preferred":[
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":101815287,
-    "wof:lastmodified":1529714673,
+    "wof:lastmodified":1561830278,
     "wof:name":"Nummela",
     "wof:parent_id":907198595,
     "wof:placetype":"locality",

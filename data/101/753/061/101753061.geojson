@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001328,
-    "geom:area_square_m":6904569.575572,
+    "geom:area_square_m":6904569.575573,
     "geom:bbox":"25.3098730297,65.106668363,25.3878891982,65.1598234712",
     "geom:latitude":65.131045,
     "geom:longitude":25.350359,
@@ -16,13 +16,13 @@
     "mps:longitude":25.341199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Kello"
+    ],
     "name:eng_x_preferred":[
         "Kello"
     ],
     "name:fin_x_preferred":[
-        "Kello"
-    ],
-    "name:ger_x_preferred":[
         "Kello"
     ],
     "name:rus_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":101753061,
-    "wof:lastmodified":1529709420,
+    "wof:lastmodified":1561830265,
     "wof:name":"Kello",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

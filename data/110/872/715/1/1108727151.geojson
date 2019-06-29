@@ -25,16 +25,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Pajam\u00e4ki"
-    ],
     "name:eng_x_preferred":[
         "Pajam\u00e4ki"
     ],
     "name:fin_x_preferred":[
         "Pajam\u00e4ki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Pajam\u00e4ki"
+    ],
+    "name:nld_x_preferred":[
         "Pajam\u00e4ki"
     ],
     "name:swe_x_preferred":[
@@ -45,7 +45,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537259,
         907199715,
@@ -54,7 +53,8 @@
         101748417,
         136253047,
         890536889,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1108727151,
-    "wof:lastmodified":1529714733,
+    "wof:lastmodified":1561830251,
     "wof:name":"Pajamaki",
     "wof:parent_id":890537259,
     "wof:placetype":"neighbourhood",

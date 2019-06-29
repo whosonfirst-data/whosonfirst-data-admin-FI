@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001895,
-    "geom:area_square_m":11314824.558097,
+    "geom:area_square_m":11314824.558093,
     "geom:bbox":"22.1007325383,61.0898143489,22.2254994583,61.1471263086",
     "geom:latitude":61.121302,
     "geom:longitude":22.155117,
@@ -17,25 +17,16 @@
     "mps:longitude":22.15568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Eura"
-    ],
     "name:ceb_x_preferred":[
         "Eura"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u70cf\u62c9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Eura"
     ],
     "name:dan_x_preferred":[
         "Eura"
     ],
     "name:deu_x_preferred":[
-        "Eura"
-    ],
-    "name:dut_x_preferred":[
         "Eura"
     ],
     "name:eng_x_preferred":[
@@ -50,13 +41,7 @@
     "name:fra_x_preferred":[
         "Eura"
     ],
-    "name:fre_x_preferred":[
-        "Eura"
-    ],
     "name:fry_x_preferred":[
-        "Eura"
-    ],
-    "name:ger_x_preferred":[
         "Eura"
     ],
     "name:ita_x_preferred":[
@@ -78,9 +63,6 @@
         "Eura"
     ],
     "name:ron_x_preferred":[
-        "Eura"
-    ],
-    "name:rum_x_preferred":[
         "Eura"
     ],
     "name:rus_x_preferred":[
@@ -155,7 +137,7 @@
         }
     ],
     "wof:id":101816179,
-    "wof:lastmodified":1529712492,
+    "wof:lastmodified":1561830266,
     "wof:name":"Eura",
     "wof:parent_id":907198915,
     "wof:placetype":"locality",

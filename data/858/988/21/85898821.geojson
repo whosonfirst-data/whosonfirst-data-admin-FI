@@ -27,6 +27,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Etu-T\u00f6\u00f6l\u00f6"
+    ],
     "name:eng_x_preferred":[
         "Etu-T\u00f6\u00f6l\u00f6"
     ],
@@ -45,10 +48,7 @@
     "name:fin_x_variant":[
         "Fr\u00e4mre T\u00f6l\u00f6"
     ],
-    "name:fre_x_preferred":[
-        "Etu-T\u00f6\u00f6l\u00f6"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Etu-T\u00f6\u00f6l\u00f6"
     ],
     "name:heb_x_preferred":[
@@ -106,7 +106,6 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":642,
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727337,
         907199715,
@@ -115,7 +114,8 @@
         101748417,
         136253047,
         890536879,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,7 +147,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529714762,
+    "wof:lastmodified":1561830221,
     "wof:name":"Etu-Toolo",
     "wof:parent_id":1108727337,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001528,
-    "geom:area_square_m":9107436.337484,
+    "geom:area_square_m":9107436.337483,
     "geom:bbox":"22.6636940834,61.1582626897,22.7433181533,61.2087023891",
     "geom:latitude":61.183686,
     "geom:longitude":22.701959,
@@ -17,28 +17,16 @@
     "mps:longitude":22.689476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Huittinen"
-    ],
-    "name:arm_x_preferred":[
-        "\u0540\u0578\u0582\u0575\u057f\u056b\u0576\u0565\u0576"
-    ],
     "name:cat_x_preferred":[
         "Salo"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u4f0a\u8482\u5be7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Huittinen"
     ],
     "name:dan_x_preferred":[
         "Vittis"
     ],
     "name:deu_x_preferred":[
-        "Huittinen"
-    ],
-    "name:dut_x_preferred":[
         "Huittinen"
     ],
     "name:eng_x_preferred":[
@@ -56,12 +44,6 @@
     "name:fra_x_preferred":[
         "Huittinen"
     ],
-    "name:fre_x_preferred":[
-        "Huittinen"
-    ],
-    "name:ger_x_preferred":[
-        "Huittinen"
-    ],
     "name:hbs_x_preferred":[
         "Huittinen"
     ],
@@ -70,6 +52,9 @@
     ],
     "name:hsb_x_preferred":[
         "Huittinen"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u0582\u0575\u057f\u056b\u0576\u0565\u0576"
     ],
     "name:ita_x_preferred":[
         "Huittinen"
@@ -95,9 +80,6 @@
     "name:nor_x_variant":[
         "Vittis"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u06cc\u062a\u06cc\u0646\u0646"
-    ],
     "name:pol_x_preferred":[
         "Huittinen"
     ],
@@ -105,9 +87,6 @@
         "Huittinen"
     ],
     "name:ron_x_preferred":[
-        "Huittinen"
-    ],
-    "name:rum_x_preferred":[
         "Huittinen"
     ],
     "name:rus_x_preferred":[
@@ -194,7 +173,7 @@
         }
     ],
     "wof:id":101815463,
-    "wof:lastmodified":1529712492,
+    "wof:lastmodified":1561830279,
     "wof:name":"Huittinen",
     "wof:parent_id":907198933,
     "wof:placetype":"locality",

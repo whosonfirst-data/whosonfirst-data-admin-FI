@@ -39,7 +39,7 @@
     "name:fin_x_preferred":[
         "Myllypuro"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Myllypuro"
     ],
     "name:rus_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108727347,
-    "wof:lastmodified":1529714716,
+    "wof:lastmodified":1561830252,
     "wof:name":"Myllypuro",
     "wof:parent_id":890536881,
     "wof:placetype":"macrohood",

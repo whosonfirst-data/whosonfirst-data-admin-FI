@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020743,
-    "geom:area_square_m":127862612.408533,
+    "geom:area_square_m":127862612.408541,
     "geom:bbox":"24.7828044415,60.0275584485,25.0294533596,60.1681427509",
     "geom:latitude":60.099718,
     "geom:longitude":24.90931,
@@ -36,16 +36,16 @@
     "name:bul_x_preferred":[
         "\u0423\u043b\u0430\u043d\u043b\u0438\u043d\u0430"
     ],
+    "name:deu_x_preferred":[
+        "Ullanlinna"
+    ],
     "name:eng_x_preferred":[
         "Ullanlinna"
     ],
     "name:fin_x_preferred":[
         "Ullanlinna"
     ],
-    "name:fre_x_preferred":[
-        "Ullanlinna"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ullanlinna"
     ],
     "name:pol_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1108727335,
-    "wof:lastmodified":1529714715,
+    "wof:lastmodified":1561830252,
     "wof:name":"Ullanlinna",
     "wof:parent_id":890536879,
     "wof:placetype":"macrohood",

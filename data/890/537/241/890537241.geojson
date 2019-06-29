@@ -11,7 +11,7 @@
     "figov:nimi":"KAARELA",
     "figov:nimi_se":"K\u00c5RB\u00d6LE",
     "geom:area":0.001512,
-    "geom:area_square_m":9280532.245841,
+    "geom:area_square_m":9280532.245839,
     "geom:bbox":"24.833685001,60.2347061744,24.9142976054,60.2689375444",
     "geom:latitude":60.248621,
     "geom:longitude":24.880285,
@@ -42,7 +42,7 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0435\u043b\u0430"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kaarela"
     ],
     "name:eng_x_preferred":[
@@ -51,10 +51,10 @@
     "name:fin_x_preferred":[
         "Kaarela"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kaarela"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Kaarela"
     ],
     "name:swe_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":890537241,
-    "wof:lastmodified":1529714722,
+    "wof:lastmodified":1561830297,
     "wof:name":"Kaarela",
     "wof:parent_id":890536889,
     "wof:placetype":"macrohood",

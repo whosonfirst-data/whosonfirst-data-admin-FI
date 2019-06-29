@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000641,
-    "geom:area_square_m":3118731.476848,
+    "geom:area_square_m":3118731.476847,
     "geom:bbox":"28.6042545778,66.8161387363,28.6879922206,66.8395080318",
     "geom:latitude":66.82654,
     "geom:longitude":28.658801,
@@ -17,12 +17,6 @@
     "mps:longitude":28.666413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Salla"
-    ],
-    "name:baq_x_preferred":[
-        "Salla"
-    ],
     "name:cat_x_preferred":[
         "Sal\u00b7la"
     ],
@@ -32,19 +26,10 @@
     "name:ces_x_preferred":[
         "Salla"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u62c9"
-    ],
-    "name:cze_x_preferred":[
-        "Salla"
-    ],
     "name:dan_x_preferred":[
         "Salla"
     ],
     "name:deu_x_preferred":[
-        "Salla"
-    ],
-    "name:dut_x_preferred":[
         "Salla"
     ],
     "name:eng_x_preferred":[
@@ -63,12 +48,6 @@
         "Salla"
     ],
     "name:fra_x_preferred":[
-        "Salla"
-    ],
-    "name:fre_x_preferred":[
-        "Salla"
-    ],
-    "name:ger_x_preferred":[
         "Salla"
     ],
     "name:glg_x_preferred":[
@@ -108,9 +87,6 @@
         "Salla"
     ],
     "name:ron_x_preferred":[
-        "Salla"
-    ],
-    "name:rum_x_preferred":[
         "Salla"
     ],
     "name:rus_x_preferred":[
@@ -186,7 +162,7 @@
         }
     ],
     "wof:id":101814515,
-    "wof:lastmodified":1553815521,
+    "wof:lastmodified":1561830290,
     "wof:name":"Salla",
     "wof:parent_id":907199555,
     "wof:placetype":"locality",

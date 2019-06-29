@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001945,
-    "geom:area_square_m":11975592.010081,
+    "geom:area_square_m":11975592.010074,
     "geom:bbox":"24.9524214846,60.1175616047,25.0294533614,60.1589863877",
     "geom:latitude":60.140268,
     "geom:longitude":24.998438,
@@ -31,9 +31,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0648\u0645\u0646\u0644\u064a\u0646\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u057e\u0565\u0561\u0562\u0578\u0580\u0563"
-    ],
     "name:bel_x_preferred":[
         "\u041a\u0440\u044d\u043f\u0430\u0441\u0446\u044c \u0421\u0443\u0430\u043c\u0435\u043d\u043b\u0456\u043d\u0430"
     ],
@@ -43,16 +40,16 @@
     "name:cat_x_preferred":[
         "Suomenlinna"
     ],
-    "name:chi_x_preferred":[
-        "\u82ac\u5170\u5821"
+    "name:ces_x_preferred":[
+        "Suomenlinna"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Suomenlinna"
     ],
     "name:dan_x_preferred":[
         "Suomenlinna"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Suomenlinna"
     ],
     "name:eng_x_preferred":[
@@ -74,13 +71,7 @@
         "Suomenlinnassa",
         "Suomenlinnasta"
     ],
-    "name:fre_x_preferred":[
-        "Suomenlinna"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10dd\u10db\u10d4\u10dc\u10da\u10d8\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Suomenlinna"
     ],
     "name:heb_x_preferred":[
@@ -92,6 +83,9 @@
     "name:hun_x_preferred":[
         "Suomenlinna er\u0151d\u00edtm\u00e9nye"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u057e\u0565\u0561\u0562\u0578\u0580\u0563"
+    ],
     "name:ind_x_preferred":[
         "Suomenlinna"
     ],
@@ -101,6 +95,9 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30aa\u30e1\u30f3\u30ea\u30f3\u30ca\u306e\u8981\u585e"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10dd\u10db\u10d4\u10dc\u10da\u10d8\u10dc\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc218\uc624\uba58\ub9b0\ub098"
     ],
@@ -109,6 +106,9 @@
     ],
     "name:nep_x_preferred":[
         "\u0938\u0941\u092e\u0947\u0928\u0932\u093f\u0928\u093e\u0915\u094b \u0915\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Suomenlinna"
     ],
     "name:nno_x_preferred":[
         "Sveaborg"
@@ -125,13 +125,13 @@
     "name:por_x_preferred":[
         "Fortaleza de Suomenlinna"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Suomenlinna"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043e\u043c\u0435\u043d\u043b\u0438\u043d\u043d\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Suomenlinna"
     ],
     "name:slv_x_preferred":[
@@ -156,8 +156,8 @@
     "name:vie_x_preferred":[
         "Suomenlinna"
     ],
-    "name:wel_x_preferred":[
-        "Suomenlinna"
+    "name:zho_x_preferred":[
+        "\u82ac\u5170\u5821"
     ],
     "reversegeo:latitude":60.13993,
     "reversegeo:longitude":25.003023,
@@ -172,7 +172,6 @@
     "wd:population":753,
     "wd:wordcount":2882,
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727335,
         907199715,
@@ -181,7 +180,8 @@
         101748417,
         136253047,
         890536879,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -213,7 +213,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529714764,
+    "wof:lastmodified":1561830221,
     "wof:name":"Suomenlinna",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

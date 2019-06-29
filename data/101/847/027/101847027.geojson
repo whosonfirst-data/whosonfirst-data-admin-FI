@@ -25,13 +25,13 @@
     "name:deu_x_preferred":[
         "Viinij\u00e4rvi"
     ],
-    "name:dut_x_preferred":[
-        "Viinij\u00e4rvi"
-    ],
     "name:eng_x_preferred":[
         "Viinij\u00e4rvi"
     ],
     "name:fin_x_preferred":[
+        "Viinij\u00e4rvi"
+    ],
+    "name:nld_x_preferred":[
         "Viinij\u00e4rvi"
     ],
     "name:rus_x_preferred":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101847027,
-    "wof:lastmodified":1529706705,
+    "wof:lastmodified":1561830283,
     "wof:name":"Viinij\u00e4rvi",
     "wof:parent_id":907198863,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000568,
-    "geom:area_square_m":3310444.208424,
+    "geom:area_square_m":3310444.208425,
     "geom:bbox":"23.6942898447,61.8584232053,23.7580095332,61.8973541794",
     "geom:latitude":61.879923,
     "geom:longitude":23.726414,
@@ -24,9 +24,6 @@
     "name:deu_x_preferred":[
         "Kuru"
     ],
-    "name:dut_x_preferred":[
-        "Kuru"
-    ],
     "name:eng_x_preferred":[
         "Kuru"
     ],
@@ -34,12 +31,6 @@
         "Kuru"
     ],
     "name:fra_x_preferred":[
-        "Kuru"
-    ],
-    "name:fre_x_preferred":[
-        "Kuru"
-    ],
-    "name:ger_x_preferred":[
         "Kuru"
     ],
     "name:ita_x_preferred":[
@@ -55,9 +46,6 @@
         "Kuru"
     ],
     "name:ron_x_preferred":[
-        "Kuru"
-    ],
-    "name:rum_x_preferred":[
         "Kuru"
     ],
     "name:sme_x_preferred":[
@@ -122,7 +110,7 @@
         }
     ],
     "wof:id":101813991,
-    "wof:lastmodified":1529711298,
+    "wof:lastmodified":1561830291,
     "wof:name":"Kuru",
     "wof:parent_id":907199275,
     "wof:placetype":"locality",

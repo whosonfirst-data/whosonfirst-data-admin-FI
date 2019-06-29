@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003811,
-    "geom:area_square_m":22939215.66852,
+    "geom:area_square_m":22939215.668524,
     "geom:bbox":"26.6527697185,60.8381694202,26.7945614378,60.9155347738",
     "geom:latitude":60.870215,
     "geom:longitude":26.717951,
@@ -18,14 +18,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
-    "name:alb_x_preferred":[
-        "Kouvola"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u0641\u0648\u0644\u0627"
-    ],
-    "name:baq_x_preferred":[
-        "Kouvola"
     ],
     "name:bel_x_variant":[
         "\u041a\u043e\u045e\u0432\u0430\u043b\u0430"
@@ -42,20 +36,14 @@
     "name:ces_x_preferred":[
         "Kouvola"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u6c83\u62c9"
-    ],
-    "name:cze_x_preferred":[
-        "Kouvola"
-    ],
     "name:dan_x_preferred":[
         "Kouvola"
     ],
     "name:deu_x_preferred":[
         "Kouvola"
     ],
-    "name:dut_x_preferred":[
-        "Kouvola"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03b2\u03bf\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kouvola"
@@ -75,20 +63,11 @@
     "name:fra_x_preferred":[
         "Kouvola"
     ],
-    "name:fre_x_preferred":[
-        "Kouvola"
-    ],
-    "name:ger_x_preferred":[
-        "Kouvola"
-    ],
     "name:gle_x_preferred":[
         "Kouvola"
     ],
     "name:glg_x_preferred":[
         "Kouvola"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03cd\u03b2\u03bf\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acc\u0ab5\u0acb\u0ab2\u0abe"
@@ -132,20 +111,17 @@
     "name:lit_x_preferred":[
         "Kouvola"
     ],
-    "name:mao_x_preferred":[
-        "Kouvola"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094c\u0935\u094b\u0932\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Kouvola"
     ],
     "name:mri_x_preferred":[
         "Kouvola"
     ],
     "name:mrj_x_preferred":[
         "\u041a\u043e\u0443\u0432\u043e\u043b\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Kouvola"
     ],
     "name:nld_x_preferred":[
         "Kouvola"
@@ -159,9 +135,6 @@
     "name:nor_x_preferred":[
         "Kouvola"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0648\u0644\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u06a9\u0648\u0624\u0648\u0648\u0644\u0627"
     ],
@@ -172,9 +145,6 @@
         "Kouvola"
     ],
     "name:ron_x_preferred":[
-        "Kouvola"
-    ],
-    "name:rum_x_preferred":[
         "Kouvola"
     ],
     "name:rus_x_preferred":[
@@ -382,7 +352,7 @@
         }
     ],
     "wof:id":101839165,
-    "wof:lastmodified":1529707606,
+    "wof:lastmodified":1561830292,
     "wof:name":"Kouvola",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

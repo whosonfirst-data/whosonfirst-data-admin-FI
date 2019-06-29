@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002873,
-    "geom:area_square_m":17321283.513784,
+    "geom:area_square_m":17321283.513787,
     "geom:bbox":"23.5678284927,60.789492781,23.7369819713,60.841300537",
     "geom:latitude":60.814738,
     "geom:longitude":23.628727,
@@ -17,28 +17,16 @@
     "mps:longitude":23.62749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Forssa"
-    ],
-    "name:baq_x_preferred":[
-        "Forssa"
-    ],
     "name:cat_x_preferred":[
         "Forssa"
     ],
     "name:ceb_x_preferred":[
         "Forssa"
     ],
-    "name:chi_x_preferred":[
-        "\u798f\u723e\u85a9"
-    ],
     "name:dan_x_preferred":[
         "Forssa"
     ],
     "name:deu_x_preferred":[
-        "Forssa"
-    ],
-    "name:dut_x_preferred":[
         "Forssa"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +45,6 @@
         "Forssa"
     ],
     "name:fra_x_preferred":[
-        "Forssa"
-    ],
-    "name:fre_x_preferred":[
-        "Forssa"
-    ],
-    "name:ger_x_preferred":[
         "Forssa"
     ],
     "name:hbs_x_preferred":[
@@ -95,9 +77,6 @@
     "name:nor_x_preferred":[
         "Forssa"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u0631\u0633\u0627"
-    ],
     "name:pol_x_preferred":[
         "Forssa"
     ],
@@ -107,16 +86,10 @@
     "name:ron_x_preferred":[
         "Forssa"
     ],
-    "name:rum_x_preferred":[
-        "Forssa"
-    ],
     "name:rus_x_preferred":[
         "\u0424\u043e\u0440\u0441\u0441\u0430"
     ],
     "name:slk_x_preferred":[
-        "Forssa"
-    ],
-    "name:slo_x_preferred":[
         "Forssa"
     ],
     "name:sme_x_preferred":[
@@ -204,7 +177,7 @@
         }
     ],
     "wof:id":101815401,
-    "wof:lastmodified":1529711986,
+    "wof:lastmodified":1561830279,
     "wof:name":"Forssa",
     "wof:parent_id":907199441,
     "wof:placetype":"locality",

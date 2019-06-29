@@ -21,17 +21,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
-    "name:alb_x_preferred":[
-        "Savonia Veriore"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0641\u0648 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
-    ],
-    "name:arm_x_preferred":[
-        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u054d\u0561\u057e\u0578"
-    ],
-    "name:baq_x_preferred":[
-        "Ipar Savonia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430\u0435 \u0421\u0430\u0432\u0430"
@@ -48,20 +39,14 @@
     "name:ces_x_preferred":[
         "Severn\u00ed Savo"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u85a9\u6c83\u5c3c\u4e9e\u5340"
-    ],
-    "name:cze_x_preferred":[
-        "Severn\u00ed Savo"
-    ],
     "name:dan_x_preferred":[
         "Norra Savolax"
     ],
     "name:deu_x_preferred":[
         "Nordsavo"
     ],
-    "name:dut_x_preferred":[
-        "Pohjois-Savo"
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u03a3\u03b1\u03b2\u03bf\u03bd\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Northern Savonia"
@@ -94,20 +79,8 @@
     "name:fra_x_preferred":[
         "Savonie du Nord"
     ],
-    "name:fre_x_preferred":[
-        "Savonie du Nord"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10e1\u10d0\u10d5\u10dd\u10dc\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Nordsavo"
-    ],
     "name:glg_x_preferred":[
         "Savonia do Norte"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u03a3\u03b1\u03b2\u03bf\u03bd\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa7\u0aa8 \u0ab8\u0abe\u0ab5\u0acb\u0aa8\u0abf\u0aaf\u0abe"
@@ -123,6 +96,9 @@
     ],
     "name:hun_x_preferred":[
         "\u00c9szak-Savo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u054d\u0561\u057e\u0578"
     ],
     "name:ind_x_preferred":[
         "Savonia Utara"
@@ -151,13 +127,13 @@
     "name:lit_x_preferred":[
         "\u0160iaur\u0117s Savas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0421\u0430\u0432\u043e\u043d\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u0949\u0930\u094d\u0926\u0930\u094d\u0928 \u0938\u0935\u094b\u0928\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0421\u0430\u0432\u043e\u043d\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Northern Savonia"
     ],
     "name:nld_x_preferred":[
@@ -175,9 +151,6 @@
     "name:oci_x_preferred":[
         "Sav\u00f2nia del N\u00f2rd"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0648\u0648\u0646\u06cc\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u062a\u0644\u0627 \u0633\u0627\u0648\u0648\u0646\u06cc\u0627"
     ],
@@ -188,9 +161,6 @@
         "Sav\u00f4nia do Norte"
     ],
     "name:ron_x_preferred":[
-        "Savonia de Nord"
-    ],
-    "name:rum_x_preferred":[
         "Savonia de Nord"
     ],
     "name:rus_x_preferred":[
@@ -208,9 +178,6 @@
         "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0dc3\u0dc0\u0ddc\u0db1\u0dd2\u0dba\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Pohjois-Savo"
-    ],
-    "name:slo_x_preferred":[
         "Pohjois-Savo"
     ],
     "name:sme_x_preferred":[
@@ -370,7 +337,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1553550809,
+    "wof:lastmodified":1561830210,
     "wof:name":"Northern Savonia",
     "wof:parent_id":404227407,
     "wof:placetype":"region",

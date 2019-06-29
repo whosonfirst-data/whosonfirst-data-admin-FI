@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000186,
-    "geom:area_square_m":1093597.125856,
+    "geom:area_square_m":1093597.125855,
     "geom:bbox":"21.418406525,61.6041595466,21.4593479493,61.6205162574",
     "geom:latitude":61.613303,
     "geom:longitude":21.440376,
@@ -19,7 +19,7 @@
     "name:ceb_x_preferred":[
         "Reposaari"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Reposaari"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +31,7 @@
     "name:fra_x_preferred":[
         "Reposaari"
     ],
-    "name:fre_x_preferred":[
-        "Reposaari"
-    ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Reposaari"
     ],
     "name:spa_x_preferred":[
@@ -95,7 +92,7 @@
         }
     ],
     "wof:id":101846825,
-    "wof:lastmodified":1529712495,
+    "wof:lastmodified":1561830276,
     "wof:name":"Reposaari",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

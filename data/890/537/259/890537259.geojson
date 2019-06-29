@@ -11,7 +11,7 @@
     "figov:nimi":"PIT\u00c4J\u00c4NM\u00c4KI",
     "figov:nimi_se":"SOCKENBACKA",
     "geom:area":0.001098,
-    "geom:area_square_m":6742516.545966,
+    "geom:area_square_m":6742516.54597,
     "geom:bbox":"24.8314029769,60.2053414492,24.8839980183,60.2546674472",
     "geom:latitude":60.227893,
     "geom:longitude":24.855004,
@@ -45,7 +45,7 @@
     "name:fin_x_preferred":[
         "Pit\u00e4j\u00e4nm\u00e4ki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pit\u00e4j\u00e4nm\u00e4ki"
     ],
     "name:hun_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":890537259,
-    "wof:lastmodified":1529714723,
+    "wof:lastmodified":1561830296,
     "wof:name":"Pitajanmaki",
     "wof:parent_id":890536889,
     "wof:placetype":"macrohood",

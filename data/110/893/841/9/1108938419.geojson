@@ -29,7 +29,7 @@
     "name:fin_x_preferred":[
         "\u00d6stersundom"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00d6stersundom"
     ],
     "name:spa_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108938419,
-    "wof:lastmodified":1534379301,
+    "wof:lastmodified":1561830257,
     "wof:name":"Ostersundom",
     "wof:parent_id":1108727375,
     "wof:placetype":"neighbourhood",

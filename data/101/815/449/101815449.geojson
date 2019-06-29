@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000417,
-    "geom:area_square_m":2495673.235593,
+    "geom:area_square_m":2495673.235594,
     "geom:bbox":"25.1291339132,61.015445039,25.1729647189,61.0374036727",
     "geom:latitude":61.0253,
     "geom:longitude":25.153113,
@@ -17,25 +17,13 @@
     "mps:longitude":25.152781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "H\u00e4meenkoski"
-    ],
-    "name:arm_x_preferred":[
-        "\u0540\u0575\u0561\u0574\u0565\u0567\u0576\u056f\u0578\u057d\u056f\u056b"
-    ],
     "name:bel_x_preferred":[
         "\u0425\u044f\u043c\u0435\u044d\u043d\u043a\u0430\u0441\u043a\u0456"
     ],
     "name:ceb_x_preferred":[
         "H\u00e4meenkoski"
     ],
-    "name:chi_x_preferred":[
-        "\u6d77\u9580\u79d1\u65af\u57fa"
-    ],
     "name:deu_x_preferred":[
-        "H\u00e4meenkoski"
-    ],
-    "name:dut_x_preferred":[
         "H\u00e4meenkoski"
     ],
     "name:eng_x_preferred":[
@@ -47,11 +35,8 @@
     "name:fra_x_preferred":[
         "H\u00e4meenkoski"
     ],
-    "name:fre_x_preferred":[
-        "H\u00e4meenkoski"
-    ],
-    "name:ger_x_preferred":[
-        "H\u00e4meenkoski"
+    "name:hye_x_preferred":[
+        "\u0540\u0575\u0561\u0574\u0565\u0567\u0576\u056f\u0578\u057d\u056f\u056b"
     ],
     "name:ita_x_preferred":[
         "H\u00e4meenkoski"
@@ -74,7 +59,7 @@
     "name:pol_x_preferred":[
         "H\u00e4meenkoski"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "H\u00e4meenkoski"
     ],
     "name:rus_x_preferred":[
@@ -89,8 +74,14 @@
     "name:spa_x_preferred":[
         "H\u00e4meenkoski"
     ],
+    "name:sqi_x_preferred":[
+        "H\u00e4meenkoski"
+    ],
     "name:swe_x_preferred":[
         "H\u00e4meenkoski"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u9580\u79d1\u65af\u57fa"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*P\u00e4ij\u00e4t-H\u00e4me#P\u00e4ij\u00e4nne-Tavastland",
@@ -144,7 +135,7 @@
         }
     ],
     "wof:id":101815449,
-    "wof:lastmodified":1529710020,
+    "wof:lastmodified":1561830278,
     "wof:name":"H\u00e4meenkoski",
     "wof:parent_id":907198585,
     "wof:placetype":"locality",

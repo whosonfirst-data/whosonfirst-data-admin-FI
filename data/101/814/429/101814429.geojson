@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004907,
-    "geom:area_square_m":25952849.383181,
+    "geom:area_square_m":25952849.383184,
     "geom:bbox":"24.3984615055,64.6343771275,24.6132403357,64.7072553215",
     "geom:latitude":64.676425,
     "geom:longitude":24.498225,
@@ -16,16 +16,16 @@
     "mps:longitude":24.505992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Pattijoki"
+    ],
     "name:eng_x_preferred":[
         "Pattijoki"
     ],
     "name:fin_x_preferred":[
         "Pattijoki"
     ],
-    "name:fre_x_preferred":[
-        "Pattijoki"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pattijoki"
     ],
     "name:nob_x_preferred":[
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":101814429,
-    "wof:lastmodified":1529709424,
+    "wof:lastmodified":1561830288,
     "wof:name":"Pattijoki",
     "wof:parent_id":907199449,
     "wof:placetype":"locality",

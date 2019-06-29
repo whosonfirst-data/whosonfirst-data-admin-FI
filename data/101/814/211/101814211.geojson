@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000749,
-    "geom:area_square_m":4344199.712778,
+    "geom:area_square_m":4344199.712782,
     "geom:bbox":"25.5279938096,62.0084741435,25.5916022228,62.0320994382",
     "geom:latitude":62.019046,
     "geom:longitude":25.560209,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Korpilahti"
     ],
-    "name:dut_x_preferred":[
-        "Korpilahti"
-    ],
     "name:eng_x_preferred":[
         "Korpilahti"
     ],
@@ -45,12 +42,6 @@
         "Korpilahti"
     ],
     "name:fra_x_preferred":[
-        "Korpilahti"
-    ],
-    "name:fre_x_preferred":[
-        "Korpilahti"
-    ],
-    "name:ger_x_preferred":[
         "Korpilahti"
     ],
     "name:ita_x_preferred":[
@@ -72,9 +63,6 @@
         "Korpilahti"
     ],
     "name:ron_x_preferred":[
-        "Korpilahti"
-    ],
-    "name:rum_x_preferred":[
         "Korpilahti"
     ],
     "name:rus_x_preferred":[
@@ -150,7 +138,7 @@
         }
     ],
     "wof:id":101814211,
-    "wof:lastmodified":1529706348,
+    "wof:lastmodified":1561830284,
     "wof:name":"Korpilahti",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

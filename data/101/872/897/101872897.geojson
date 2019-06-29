@@ -19,19 +19,13 @@
     "name:deu_x_preferred":[
         "Juoksengi"
     ],
-    "name:dut_x_preferred":[
-        "Juoksengi"
-    ],
     "name:eng_x_preferred":[
         "Juoksengi"
     ],
     "name:fin_x_preferred":[
         "Juoksenki"
     ],
-    "name:fre_x_preferred":[
-        "Juoksengi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Juoksengi"
     ],
     "name:ita_x_preferred":[
@@ -112,7 +106,7 @@
         }
     ],
     "wof:id":101872897,
-    "wof:lastmodified":1544751379,
+    "wof:lastmodified":1561830268,
     "wof:name":"Juoksenki",
     "wof:parent_id":907199553,
     "wof:placetype":"locality",

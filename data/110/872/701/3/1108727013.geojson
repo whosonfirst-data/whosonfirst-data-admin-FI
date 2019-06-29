@@ -25,9 +25,6 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Jakom\u00e4ki"
-    ],
     "name:eng_x_preferred":[
         "Jakom\u00e4ki"
     ],
@@ -37,7 +34,10 @@
     "name:fin_x_preferred":[
         "Jakom\u00e4ki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Jakom\u00e4ki"
+    ],
+    "name:nld_x_preferred":[
         "Jakom\u00e4ki"
     ],
     "name:nno_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108727013,
-    "wof:lastmodified":1534379300,
+    "wof:lastmodified":1561830248,
     "wof:name":"Jakomaki",
     "wof:parent_id":1108727371,
     "wof:placetype":"neighbourhood",

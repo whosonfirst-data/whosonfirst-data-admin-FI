@@ -21,7 +21,7 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u0440\u0438\u043c\u0430\u0441\u043a\u0443"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Merimasku"
     ],
     "name:eng_x_preferred":[
@@ -30,19 +30,19 @@
     "name:fin_x_preferred":[
         "Merimasku"
     ],
-    "name:fre_x_preferred":[
-        "Merimasku"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Merimasku"
     ],
     "name:ita_x_preferred":[
         "Merimasku"
     ],
+    "name:nld_x_preferred":[
+        "Merimasku"
+    ],
     "name:nob_x_preferred":[
         "Merimasku"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Merimasku"
     ],
     "name:rus_x_preferred":[
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1126051967,
-    "wof:lastmodified":1534379298,
+    "wof:lastmodified":1561830304,
     "wof:name":"Merimasku",
     "wof:parent_id":907198913,
     "wof:placetype":"locality",

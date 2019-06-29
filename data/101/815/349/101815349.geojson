@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000313,
-    "geom:area_square_m":1899251.027349,
+    "geom:area_square_m":1899251.027351,
     "geom:bbox":"22.1081759267,60.6040728186,22.1514369376,60.6308405515",
     "geom:latitude":60.61672,
     "geom:longitude":22.132214,
@@ -17,19 +17,10 @@
     "mps:longitude":22.132214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Nousiainen"
-    ],
     "name:ceb_x_preferred":[
         "Nousiainen"
     ],
-    "name:chi_x_preferred":[
-        "\u8afe\u897f\u827e\u5be7"
-    ],
     "name:deu_x_preferred":[
-        "Nousiainen"
-    ],
-    "name:dut_x_preferred":[
         "Nousiainen"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Nousiainen"
     ],
     "name:fra_x_preferred":[
-        "Nousiainen"
-    ],
-    "name:fre_x_preferred":[
-        "Nousiainen"
-    ],
-    "name:ger_x_preferred":[
         "Nousiainen"
     ],
     "name:ita_x_preferred":[
@@ -72,9 +57,6 @@
         "Nousiainen"
     ],
     "name:ron_x_preferred":[
-        "Nousiainen"
-    ],
-    "name:rum_x_preferred":[
         "Nousiainen"
     ],
     "name:rus_x_preferred":[
@@ -146,7 +128,7 @@
         }
     ],
     "wof:id":101815349,
-    "wof:lastmodified":1529706469,
+    "wof:lastmodified":1561830280,
     "wof:name":"Nousiainen",
     "wof:parent_id":907198955,
     "wof:placetype":"locality",

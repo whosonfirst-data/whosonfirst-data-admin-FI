@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":606226.262215,
+    "geom:area_square_m":606226.262214,
     "geom:bbox":"24.6578486177,63.5163020692,24.6784732291,63.528344301",
     "geom:latitude":63.522559,
     "geom:longitude":24.668923,
@@ -17,19 +17,10 @@
     "mps:longitude":24.671345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Lestij\u00e4rvi"
-    ],
     "name:ceb_x_preferred":[
         "Lestij\u00e4rvi"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u65af\u8482\u8036\u723e\u7dad"
-    ],
     "name:deu_x_preferred":[
-        "Lestij\u00e4rvi"
-    ],
-    "name:dut_x_preferred":[
         "Lestij\u00e4rvi"
     ],
     "name:eng_x_preferred":[
@@ -47,12 +38,6 @@
     "name:fra_x_preferred":[
         "Lestij\u00e4rvi"
     ],
-    "name:fre_x_preferred":[
-        "Lestij\u00e4rvi"
-    ],
-    "name:ger_x_preferred":[
-        "Lestij\u00e4rvi"
-    ],
     "name:ita_x_preferred":[
         "Lestij\u00e4rvi"
     ],
@@ -68,7 +53,7 @@
     "name:pol_x_preferred":[
         "Lestij\u00e4rvi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lestij\u00e4rvi"
     ],
     "name:rus_x_preferred":[
@@ -77,8 +62,14 @@
     "name:sme_x_preferred":[
         "Lestij\u00e4rvi"
     ],
+    "name:sqi_x_preferred":[
+        "Lestij\u00e4rvi"
+    ],
     "name:swe_x_preferred":[
         "Lestij\u00e4rvi"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u65af\u8482\u8036\u723e\u7dad"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Keski-Pohjanmaa#Mellersta \u00d6sterbotten",
@@ -132,7 +123,7 @@
         }
     ],
     "wof:id":101846975,
-    "wof:lastmodified":1529706410,
+    "wof:lastmodified":1561830277,
     "wof:name":"Lestij\u00e4rvi",
     "wof:parent_id":907199175,
     "wof:placetype":"locality",

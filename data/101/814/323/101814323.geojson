@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000701,
-    "geom:area_square_m":3905929.570277,
+    "geom:area_square_m":3905929.570278,
     "geom:bbox":"28.0529969676,63.1878248098,28.1126245022,63.2254544225",
     "geom:latitude":63.205295,
     "geom:longitude":28.083907,
@@ -17,19 +17,10 @@
     "mps:longitude":28.084359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Nilsi\u00e4"
-    ],
     "name:ceb_x_preferred":[
         "Nilsi\u00e4"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u723e\u897f\u827e"
-    ],
     "name:deu_x_preferred":[
-        "Nilsi\u00e4"
-    ],
-    "name:dut_x_preferred":[
         "Nilsi\u00e4"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Nilsi\u00e4"
     ],
     "name:fra_x_preferred":[
-        "Nilsi\u00e4"
-    ],
-    "name:fre_x_preferred":[
-        "Nilsi\u00e4"
-    ],
-    "name:ger_x_preferred":[
         "Nilsi\u00e4"
     ],
     "name:ind_x_preferred":[
@@ -71,13 +56,13 @@
     "name:ron_x_preferred":[
         "Nilsi\u00e4"
     ],
-    "name:rum_x_preferred":[
-        "Nilsi\u00e4"
-    ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u043b\u044c\u0441\u0438\u044f"
     ],
     "name:sme_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:sqi_x_preferred":[
         "Nilsi\u00e4"
     ],
     "name:swe_x_preferred":[
@@ -91,6 +76,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0644\u0633\u06cc\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u723e\u897f\u827e"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjois-Savo#Norra Savolax",
@@ -146,7 +134,7 @@
         }
     ],
     "wof:id":101814323,
-    "wof:lastmodified":1529708945,
+    "wof:lastmodified":1561830286,
     "wof:name":"Nilsi\u00e4",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

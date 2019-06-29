@@ -21,16 +21,16 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u043a\u0441\u043e\u043b\u0430\u0445\u0442\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Laaksolahti"
-    ],
     "name:eng_x_preferred":[
         "Laaksolahti"
     ],
     "name:fin_x_preferred":[
         "Laaksolahti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Laaksolahti"
+    ],
+    "name:nld_x_preferred":[
         "Laaksolahti"
     ],
     "name:rus_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125961153,
-    "wof:lastmodified":1529714682,
+    "wof:lastmodified":1561830310,
     "wof:name":"Laaksolahti",
     "wof:parent_id":907198517,
     "wof:placetype":"locality",

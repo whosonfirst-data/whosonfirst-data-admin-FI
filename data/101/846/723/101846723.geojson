@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00022,
-    "geom:area_square_m":1322435.731926,
+    "geom:area_square_m":1322435.731927,
     "geom:bbox":"21.4287658301,60.9426075256,21.4566469296,60.959289616",
     "geom:latitude":60.951088,
     "geom:longitude":21.441849,
@@ -17,19 +17,10 @@
     "mps:longitude":21.444172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Pyh\u00e4ranta"
-    ],
     "name:ceb_x_preferred":[
         "Pyh\u00e4ranta"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u6d77\u862d\u5854"
-    ],
     "name:deu_x_preferred":[
-        "Pyh\u00e4ranta"
-    ],
-    "name:dut_x_preferred":[
         "Pyh\u00e4ranta"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "Pyh\u00e4ranta"
     ],
     "name:fra_x_preferred":[
-        "Pyh\u00e4ranta"
-    ],
-    "name:fre_x_preferred":[
-        "Pyh\u00e4ranta"
-    ],
-    "name:ger_x_preferred":[
         "Pyh\u00e4ranta"
     ],
     "name:ita_x_preferred":[
@@ -68,13 +53,16 @@
     "name:pol_x_preferred":[
         "Pyh\u00e4ranta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pyh\u00e4ranta"
     ],
     "name:rus_x_preferred":[
         "\u041f\u044e\u0445\u044f\u0440\u0430\u043d\u0442\u0430"
     ],
     "name:sme_x_preferred":[
+        "Pyh\u00e4ranta"
+    ],
+    "name:sqi_x_preferred":[
         "Pyh\u00e4ranta"
     ],
     "name:swe_x_preferred":[
@@ -85,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "Pyh\u00e4rannan"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u6d77\u862d\u5854"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Varsinais-Suomi#Egentliga Finland",
@@ -135,7 +126,7 @@
         }
     ],
     "wof:id":101846723,
-    "wof:lastmodified":1529706472,
+    "wof:lastmodified":1561830275,
     "wof:name":"Pyh\u00e4ranta",
     "wof:parent_id":907198675,
     "wof:placetype":"locality",

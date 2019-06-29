@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000637,
-    "geom:area_square_m":3528154.232353,
+    "geom:area_square_m":3528154.232355,
     "geom:bbox":"25.5326062821,63.3596605957,25.5917243916,63.3809084873",
     "geom:latitude":63.370243,
     "geom:longitude":25.565102,
@@ -17,19 +17,10 @@
     "mps:longitude":25.562191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Pihtipudas"
-    ],
     "name:ceb_x_preferred":[
         "Pihtipudas"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u8d6b\u8482\u666e\u9054\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Pihtipudas"
-    ],
-    "name:dut_x_preferred":[
         "Pihtipudas"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Pihtipudas"
     ],
     "name:fra_x_preferred":[
-        "Pihtipudas"
-    ],
-    "name:fre_x_preferred":[
-        "Pihtipudas"
-    ],
-    "name:ger_x_preferred":[
         "Pihtipudas"
     ],
     "name:ita_x_preferred":[
@@ -75,9 +60,6 @@
         "Pihtipudas"
     ],
     "name:ron_x_preferred":[
-        "Pihtipudas"
-    ],
-    "name:rum_x_preferred":[
         "Pihtipudas"
     ],
     "name:rus_x_preferred":[
@@ -150,7 +132,7 @@
         }
     ],
     "wof:id":101814163,
-    "wof:lastmodified":1529706345,
+    "wof:lastmodified":1561830287,
     "wof:name":"Pihtipudas",
     "wof:parent_id":907199135,
     "wof:placetype":"locality",

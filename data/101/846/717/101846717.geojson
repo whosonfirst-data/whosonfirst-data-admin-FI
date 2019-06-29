@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00036,
-    "geom:area_square_m":2207678.279239,
+    "geom:area_square_m":2207678.279242,
     "geom:bbox":"23.7069361982,60.2295750831,23.7734467989,60.2628593021",
     "geom:latitude":60.246408,
     "geom:longitude":23.735682,
@@ -20,13 +20,7 @@
     "name:ceb_x_preferred":[
         "Karjalohja"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u4e9e\u6d1b\u8d6b\u4e9e"
-    ],
     "name:deu_x_preferred":[
-        "Karjalohja"
-    ],
-    "name:dut_x_preferred":[
         "Karjalohja"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "Karjalohja"
     ],
     "name:fra_x_preferred":[
-        "Karjalohja"
-    ],
-    "name:fre_x_preferred":[
-        "Karjalohja"
-    ],
-    "name:ger_x_preferred":[
         "Karjalohja"
     ],
     "name:ita_x_preferred":[
@@ -69,9 +57,6 @@
         "Karjalohja"
     ],
     "name:ron_x_preferred":[
-        "Karjalohja"
-    ],
-    "name:rum_x_preferred":[
         "Karjalohja"
     ],
     "name:rus_x_preferred":[
@@ -141,7 +126,7 @@
         }
     ],
     "wof:id":101846717,
-    "wof:lastmodified":1529714678,
+    "wof:lastmodified":1561830277,
     "wof:name":"Karjalohja",
     "wof:parent_id":907198655,
     "wof:placetype":"locality",

@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Bromarv"
     ],
-    "name:dut_x_preferred":[
-        "Bromarf"
-    ],
     "name:eng_x_preferred":[
         "Bromarv"
     ],
@@ -40,11 +37,11 @@
     "name:fin_x_variant":[
         "Bromarvi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bromarf"
     ],
-    "name:ger_x_preferred":[
-        "Bromarv"
+    "name:nld_x_preferred":[
+        "Bromarf"
     ],
     "name:nob_x_preferred":[
         "Bromarv"
@@ -114,7 +111,7 @@
         }
     ],
     "wof:id":101815319,
-    "wof:lastmodified":1529714675,
+    "wof:lastmodified":1561830282,
     "wof:name":"Bromarv",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

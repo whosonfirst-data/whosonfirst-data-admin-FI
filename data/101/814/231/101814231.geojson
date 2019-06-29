@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000977,
-    "geom:area_square_m":5486352.491275,
+    "geom:area_square_m":5486352.491271,
     "geom:bbox":"22.2807103802,62.9798840186,22.3622199342,63.0146468741",
     "geom:latitude":62.997234,
     "geom:longitude":22.321377,
@@ -17,19 +17,10 @@
     "mps:longitude":22.325135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Isokyr\u00f6"
-    ],
     "name:ceb_x_preferred":[
         "Isokyr\u00f6"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u7d22\u5c48\u52d2"
-    ],
     "name:deu_x_preferred":[
-        "Isokyr\u00f6"
-    ],
-    "name:dut_x_preferred":[
         "Isokyr\u00f6"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Isokyr\u00f6"
     ],
     "name:fra_x_preferred":[
-        "Isokyr\u00f6"
-    ],
-    "name:fre_x_preferred":[
-        "Isokyr\u00f6"
-    ],
-    "name:ger_x_preferred":[
         "Isokyr\u00f6"
     ],
     "name:ita_x_preferred":[
@@ -68,7 +53,7 @@
     "name:pol_x_preferred":[
         "Isokyr\u00f6"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Isokyr\u00f6"
     ],
     "name:rus_x_preferred":[
@@ -77,11 +62,17 @@
     "name:sme_x_preferred":[
         "Isokyr\u00f6"
     ],
+    "name:sqi_x_preferred":[
+        "Isokyr\u00f6"
+    ],
     "name:swe_x_preferred":[
         "Storkyro"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u0648\u06a9\u06cc\u0631\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u7d22\u5c48\u52d2"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjanmaa#\u00d6sterbotten",
@@ -134,7 +125,7 @@
         }
     ],
     "wof:id":101814231,
-    "wof:lastmodified":1529709676,
+    "wof:lastmodified":1561830289,
     "wof:name":"Isokyr\u00f6",
     "wof:parent_id":907199075,
     "wof:placetype":"locality",

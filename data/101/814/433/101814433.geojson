@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000154,
-    "geom:area_square_m":814756.738617,
+    "geom:area_square_m":814756.738616,
     "geom:bbox":"25.1887886066,64.6003390688,25.2161218234,64.6110624876",
     "geom:latitude":64.606509,
     "geom:longitude":25.202926,
@@ -19,7 +19,7 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u0648\u0644\u0627"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Paavola"
     ],
     "name:eng_x_preferred":[
@@ -28,10 +28,10 @@
     "name:fin_x_preferred":[
         "Paavola"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Paavola"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Paavola"
     ],
     "name:nob_x_preferred":[
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":101814433,
-    "wof:lastmodified":1529709425,
+    "wof:lastmodified":1561830289,
     "wof:name":"Paavola",
     "wof:parent_id":907199705,
     "wof:placetype":"locality",

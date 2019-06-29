@@ -17,12 +17,6 @@
     "mps:longitude":23.503456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kuortane"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0582\u0578\u0580\u057f\u0561\u0576\u0565"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u043e\u0440\u0442\u0430\u043d\u0435"
     ],
@@ -32,17 +26,14 @@
     "name:ceb_x_preferred":[
         "Kuortane"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u5967\u723e\u5854\u5167"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kuortane"
     ],
     "name:deu_x_preferred":[
         "Kuortane"
     ],
-    "name:dut_x_preferred":[
-        "Kuortane"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bf\u03c1\u03c4\u03ac\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Kuortane"
@@ -56,23 +47,17 @@
     "name:fra_x_preferred":[
         "Kuortane"
     ],
-    "name:fre_x_preferred":[
-        "Kuortane"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10dd\u10e0\u10e2\u10d0\u10dc\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Kuortane"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03bf\u03c1\u03c4\u03ac\u03bd\u03b5"
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0578\u0580\u057f\u0561\u0576\u0565"
     ],
     "name:ind_x_preferred":[
         "Kuortane"
     ],
     "name:ita_x_preferred":[
         "Kuortane"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10dd\u10e0\u10e2\u10d0\u10dc\u10d4"
     ],
     "name:nld_x_preferred":[
         "Kuortane"
@@ -93,9 +78,6 @@
         "Kuortane"
     ],
     "name:ron_x_preferred":[
-        "Kuortane"
-    ],
-    "name:rum_x_preferred":[
         "Kuortane"
     ],
     "name:rus_x_preferred":[
@@ -175,7 +157,7 @@
         }
     ],
     "wof:id":101814123,
-    "wof:lastmodified":1529709631,
+    "wof:lastmodified":1561830290,
     "wof:name":"Kuortane",
     "wof:parent_id":907199291,
     "wof:placetype":"locality",

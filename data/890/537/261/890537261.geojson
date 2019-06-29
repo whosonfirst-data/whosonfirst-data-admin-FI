@@ -11,7 +11,7 @@
     "fsgov:nimi":"LAUTTASAARI",
     "fsgov:nimi_se":"DRUMS\u00d6",
     "geom:area":0.001642,
-    "geom:area_square_m":10105230.418623,
+    "geom:area_square_m":10105230.418626,
     "geom:bbox":"24.8380222426,60.1397303385,24.8972207088,60.1735654689",
     "geom:latitude":60.155694,
     "geom:longitude":24.868964,
@@ -42,7 +42,7 @@
     "name:cat_x_preferred":[
         "Lauttasaari"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lauttasaari"
     ],
     "name:eng_x_preferred":[
@@ -54,14 +54,14 @@
     "name:fin_x_preferred":[
         "Lauttasaari"
     ],
-    "name:fre_x_preferred":[
-        "Lauttasaari"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lauttasaari"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30a6\u30c3\u30bf\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Lauttasaari"
     ],
     "name:nno_x_preferred":[
         "Drums\u00f6"
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":890537261,
-    "wof:lastmodified":1529714722,
+    "wof:lastmodified":1561830296,
     "wof:name":"Lauttasaari",
     "wof:parent_id":890536879,
     "wof:placetype":"macrohood",

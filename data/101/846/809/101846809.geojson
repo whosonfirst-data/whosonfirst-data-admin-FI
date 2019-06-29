@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000756,
-    "geom:area_square_m":4503976.060848,
+    "geom:area_square_m":4503976.06085,
     "geom:bbox":"21.7140496317,61.1897736735,21.7722749743,61.2262246033",
     "geom:latitude":61.205789,
     "geom:longitude":21.743113,
@@ -17,19 +17,10 @@
     "mps:longitude":21.73782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Eurajoki"
-    ],
     "name:ceb_x_preferred":[
         "Eurajoki"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u70cf\u62c9\u7d04\u57fa"
-    ],
     "name:deu_x_preferred":[
-        "Eurajoki"
-    ],
-    "name:dut_x_preferred":[
         "Eurajoki"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "Eurajoki"
     ],
     "name:fra_x_preferred":[
-        "Eurajoki"
-    ],
-    "name:fre_x_preferred":[
-        "Eurajoki"
-    ],
-    "name:ger_x_preferred":[
         "Eurajoki"
     ],
     "name:ita_x_preferred":[
@@ -66,9 +51,6 @@
         "Eurajoki"
     ],
     "name:ron_x_preferred":[
-        "Eurajoki"
-    ],
-    "name:rum_x_preferred":[
         "Eurajoki"
     ],
     "name:rus_x_preferred":[
@@ -148,7 +130,7 @@
         }
     ],
     "wof:id":101846809,
-    "wof:lastmodified":1529712494,
+    "wof:lastmodified":1561830277,
     "wof:name":"Eurajoki",
     "wof:parent_id":907198669,
     "wof:placetype":"locality",

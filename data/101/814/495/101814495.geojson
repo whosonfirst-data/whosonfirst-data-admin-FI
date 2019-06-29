@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001119,
-    "geom:area_square_m":5223506.37176,
+    "geom:area_square_m":5223506.371764,
     "geom:bbox":"24.7692241222,67.7978807831,24.8704554574,67.8240215818",
     "geom:latitude":67.811354,
     "geom:longitude":24.818564,
@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0643\u0627 \u0647\u0645\u0627\u0644\u0627\u064a\u0646\u0646"
     ],
-    "name:dut_x_preferred":[
-        "Sirkka"
-    ],
     "name:eng_x_preferred":[
         "Sirkka"
     ],
@@ -33,6 +30,9 @@
     ],
     "name:nld_x_preferred":[
         "Sirkka H\u00e4m\u00e4l\u00e4inen"
+    ],
+    "name:nld_x_variant":[
+        "Sirkka"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u0440\u0440\u043a\u0430"
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":101814495,
-    "wof:lastmodified":1529708124,
+    "wof:lastmodified":1561830289,
     "wof:name":"Sirkka",
     "wof:parent_id":907199565,
     "wof:placetype":"locality",

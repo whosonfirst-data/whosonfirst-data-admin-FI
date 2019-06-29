@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006435,
-    "geom:area_square_m":36608858.420815,
+    "geom:area_square_m":36608858.420812,
     "geom:bbox":"29.685951,62.571285,29.8814807195,62.6342165",
     "geom:latitude":62.6076,
     "geom:longitude":29.784883,
@@ -18,17 +18,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:alb_x_preferred":[
-        "Joensuu"
-    ],
     "name:ara_x_preferred":[
         "\u064a\u0648\u064a\u0646\u0633\u0648"
-    ],
-    "name:arm_x_preferred":[
-        "\u0545\u0578\u0565\u0576\u057d\u0578\u0582\u0578\u0582"
-    ],
-    "name:baq_x_preferred":[
-        "Joensuu"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0401\u044d\u043d\u0441\u0443"
@@ -51,13 +42,7 @@
     "name:ces_x_preferred":[
         "Joensuu"
     ],
-    "name:chi_x_preferred":[
-        "\u7ea6\u6069\u82cf"
-    ],
     "name:cor_x_preferred":[
-        "Joensuu"
-    ],
-    "name:cze_x_preferred":[
         "Joensuu"
     ],
     "name:dan_x_preferred":[
@@ -66,8 +51,8 @@
     "name:deu_x_preferred":[
         "Joensuu"
     ],
-    "name:dut_x_preferred":[
-        "Joensuu"
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03b5\u03bd\u03c3\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Joensuu"
@@ -90,20 +75,11 @@
     "name:fra_x_preferred":[
         "Joensuu"
     ],
-    "name:fre_x_preferred":[
-        "Joensuu"
-    ],
-    "name:ger_x_preferred":[
-        "Joensuu"
-    ],
     "name:gle_x_preferred":[
         "Joensuu"
     ],
     "name:glg_x_preferred":[
         "Joensuu"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03b5\u03bd\u03c3\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0acb\u0aaf\u0ac7\u0aa8\u0ab8\u0ac1"
@@ -119,6 +95,9 @@
     ],
     "name:hun_x_preferred":[
         "Joensuu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0545\u0578\u0565\u0576\u057d\u0578\u0582\u0578\u0582"
     ],
     "name:ido_x_preferred":[
         "Joensuu"
@@ -165,14 +144,8 @@
     "name:lmo_x_preferred":[
         "Joensuu"
     ],
-    "name:mao_x_preferred":[
-        "Joensuu"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u094b\u090f\u0928\u0938\u0942\u092f\u0942"
-    ],
-    "name:may_x_preferred":[
-        "Joensuu"
     ],
     "name:mri_x_preferred":[
         "Joensuu"
@@ -201,9 +174,6 @@
     "name:olo_x_preferred":[
         "Jovensuu"
     ],
-    "name:per_x_preferred":[
-        "\u06cc\u0648\u0626\u0646\u0633\u0648"
-    ],
     "name:pnb_x_preferred":[
         "\u062c\u0648\u0626\u0646\u0633\u0648"
     ],
@@ -216,9 +186,6 @@
     "name:ron_x_preferred":[
         "Joensuu"
     ],
-    "name:rum_x_preferred":[
-        "Joensuu"
-    ],
     "name:rus_x_preferred":[
         "\u0419\u043e\u044d\u043d\u0441\u0443\u0443"
     ],
@@ -229,9 +196,6 @@
         "\u0da2\u0ddd\u0dc3\u0dd9\u0db1\u0dca\u0dc3\u0dd4"
     ],
     "name:slk_x_preferred":[
-        "Joensuu"
-    ],
-    "name:slo_x_preferred":[
         "Joensuu"
     ],
     "name:slv_x_preferred":[
@@ -429,7 +393,7 @@
         }
     ],
     "wof:id":101748441,
-    "wof:lastmodified":1529706709,
+    "wof:lastmodified":1561830269,
     "wof:name":"Joensuu",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

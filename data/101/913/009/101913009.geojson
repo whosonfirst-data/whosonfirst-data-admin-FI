@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000456,
-    "geom:area_square_m":2539000.31861,
+    "geom:area_square_m":2539000.318607,
     "geom:bbox":"22.8275851558,63.2263562982,22.8665392578,63.2640917449",
     "geom:latitude":63.24911,
     "geom:longitude":22.848243,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Alah\u00e4rm\u00e4"
     ],
-    "name:dut_x_preferred":[
-        "Alah\u00e4rm\u00e4"
-    ],
     "name:eng_x_preferred":[
         "Alah\u00e4rm\u00e4"
     ],
@@ -33,12 +30,6 @@
         "Alah\u00e4rm\u00e4"
     ],
     "name:fra_x_preferred":[
-        "Alah\u00e4rm\u00e4"
-    ],
-    "name:fre_x_preferred":[
-        "Alah\u00e4rm\u00e4"
-    ],
-    "name:ger_x_preferred":[
         "Alah\u00e4rm\u00e4"
     ],
     "name:hun_x_preferred":[
@@ -57,9 +48,6 @@
         "Alah\u00e4rm\u00e4"
     ],
     "name:ron_x_preferred":[
-        "Alah\u00e4rm\u00e4"
-    ],
-    "name:rum_x_preferred":[
         "Alah\u00e4rm\u00e4"
     ],
     "name:sme_x_preferred":[
@@ -120,7 +108,7 @@
         }
     ],
     "wof:id":101913009,
-    "wof:lastmodified":1529709633,
+    "wof:lastmodified":1561830271,
     "wof:name":"Alah\u00e4rm\u00e4",
     "wof:parent_id":907199237,
     "wof:placetype":"locality",

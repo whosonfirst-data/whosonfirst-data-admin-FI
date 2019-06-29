@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000406,
-    "geom:area_square_m":2393097.876434,
+    "geom:area_square_m":2393097.876436,
     "geom:bbox":"23.6492928411,61.5086719023,23.6998540778,61.5264255124",
     "geom:latitude":61.516135,
     "geom:longitude":23.67604,
@@ -20,13 +20,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Lielahti"
+    ],
     "name:eng_x_preferred":[
         "Lielahti"
     ],
     "name:fin_x_preferred":[
-        "Lielahti"
-    ],
-    "name:ger_x_preferred":[
         "Lielahti"
     ],
     "name:swe_x_preferred":[
@@ -39,14 +39,14 @@
     "tmpgov:id":"615263",
     "tmpgov:name":"Lielahti",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1108728305,
-    "wof:lastmodified":1529711324,
+    "wof:lastmodified":1561830254,
     "wof:name":"Lielahti",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

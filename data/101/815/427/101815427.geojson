@@ -16,9 +16,6 @@
     "mps:longitude":26.789115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Myllykoski"
-    ],
     "name:eng_x_preferred":[
         "Myllykoski"
     ],
@@ -27,6 +24,9 @@
     ],
     "name:lit_x_preferred":[
         "Miuliukoskis"
+    ],
+    "name:nld_x_preferred":[
+        "Myllykoski"
     ],
     "name:swe_x_preferred":[
         "Myllykoski"
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101815427,
-    "wof:lastmodified":1529707608,
+    "wof:lastmodified":1561830281,
     "wof:name":"Myllykoski",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

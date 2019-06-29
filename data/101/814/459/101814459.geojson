@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000747,
-    "geom:area_square_m":4024478.656477,
+    "geom:area_square_m":4024478.65648,
     "geom:bbox":"24.2626052826,64.1519870109,24.3329208939,64.1806245195",
     "geom:latitude":64.165418,
     "geom:longitude":24.30199,
@@ -17,29 +17,20 @@
     "mps:longitude":24.304387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Alavieska"
-    ],
     "name:ceb_x_preferred":[
         "Alavieska"
     ],
     "name:ces_x_preferred":[
         "Alavieska"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u62c9\u7dad\u8036\u65af\u5361"
-    ],
-    "name:cze_x_preferred":[
-        "Alavieska"
-    ],
     "name:deu_x_preferred":[
-        "Alavieska"
-    ],
-    "name:dut_x_preferred":[
         "Alavieska"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03bb\u03b1\u03b2\u03b9\u03b5\u03c3\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bb\u03b1\u03b2\u03b9\u03ad\u03c3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Alavieska"
@@ -59,15 +50,6 @@
     "name:fra_x_preferred":[
         "Alavieska"
     ],
-    "name:fre_x_preferred":[
-        "Alavieska"
-    ],
-    "name:ger_x_preferred":[
-        "Alavieska"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb\u03b1\u03b2\u03b9\u03ad\u03c3\u03ba\u03b1"
-    ],
     "name:ita_x_preferred":[
         "Alavieska"
     ],
@@ -80,9 +62,6 @@
     "name:nor_x_preferred":[
         "Alavieska"
     ],
-    "name:per_x_preferred":[
-        "\u0639\u0644\u0648\u06cc\u0633\u06a9\u0627"
-    ],
     "name:pms_x_preferred":[
         "Alavieska"
     ],
@@ -90,9 +69,6 @@
         "Alavieska"
     ],
     "name:ron_x_preferred":[
-        "Alavieska"
-    ],
-    "name:rum_x_preferred":[
         "Alavieska"
     ],
     "name:rus_x_preferred":[
@@ -168,7 +144,7 @@
         }
     ],
     "wof:id":101814459,
-    "wof:lastmodified":1529709426,
+    "wof:lastmodified":1561830290,
     "wof:name":"Alavieska",
     "wof:parent_id":907199429,
     "wof:placetype":"locality",

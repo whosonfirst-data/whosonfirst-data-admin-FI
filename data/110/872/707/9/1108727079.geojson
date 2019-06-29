@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000378,
-    "geom:area_square_m":2323091.952221,
+    "geom:area_square_m":2323091.952224,
     "geom:bbox":"24.842796877,60.1776737877,24.8766651399,60.1960233313",
     "geom:latitude":60.187932,
     "geom:longitude":24.858595,
@@ -25,16 +25,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Kuusisaari"
-    ],
     "name:eng_x_preferred":[
         "Kuusisaari"
     ],
     "name:fin_x_preferred":[
         "Kuusisaari"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Kuusisaari"
+    ],
+    "name:nld_x_preferred":[
         "Kuusisaari"
     ],
     "name:swe_x_preferred":[
@@ -45,7 +45,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537235,
         907199715,
@@ -54,7 +53,8 @@
         101748417,
         136253047,
         890536889,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1108727079,
-    "wof:lastmodified":1529714729,
+    "wof:lastmodified":1561830249,
     "wof:name":"Kuusisaari",
     "wof:parent_id":890537235,
     "wof:placetype":"neighbourhood",

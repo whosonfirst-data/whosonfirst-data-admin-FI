@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00048,
-    "geom:area_square_m":1143414.568381,
+    "geom:area_square_m":2865166.739752,
     "geom:bbox":"23.6662557288,61.1434230061,23.7134719556,61.1625999939",
     "geom:latitude":61.152978,
     "geom:longitude":23.695563,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Kylm\u00e4koski"
     ],
-    "name:dut_x_preferred":[
-        "Kylm\u00e4koski"
-    ],
     "name:eng_x_preferred":[
         "Kylm\u00e4koski"
     ],
@@ -36,12 +33,6 @@
         "Kylm\u00e4koski"
     ],
     "name:fra_x_preferred":[
-        "Kylm\u00e4koski"
-    ],
-    "name:fre_x_preferred":[
-        "Kylm\u00e4koski"
-    ],
-    "name:ger_x_preferred":[
         "Kylm\u00e4koski"
     ],
     "name:ita_x_preferred":[
@@ -57,9 +48,6 @@
         "Kylm\u00e4koski"
     ],
     "name:ron_x_preferred":[
-        "Kylm\u00e4koski"
-    ],
-    "name:rum_x_preferred":[
         "Kylm\u00e4koski"
     ],
     "name:sme_x_preferred":[
@@ -122,7 +110,7 @@
         }
     ],
     "wof:id":1175611485,
-    "wof:lastmodified":1534985891,
+    "wof:lastmodified":1561830257,
     "wof:name":"Kylm\u00e4koski",
     "wof:parent_id":907199731,
     "wof:placetype":"locality",

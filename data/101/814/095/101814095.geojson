@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Ylistaro"
     ],
-    "name:dut_x_preferred":[
-        "Ylistaro"
-    ],
     "name:eng_x_preferred":[
         "Ylistaro"
     ],
@@ -36,12 +33,6 @@
         "Ylistaro"
     ],
     "name:fra_x_preferred":[
-        "Ylistaro"
-    ],
-    "name:fre_x_preferred":[
-        "Ylistaro"
-    ],
-    "name:ger_x_preferred":[
         "Ylistaro"
     ],
     "name:ita_x_preferred":[
@@ -57,9 +48,6 @@
         "Ylistaro"
     ],
     "name:ron_x_preferred":[
-        "Ylistaro"
-    ],
-    "name:rum_x_preferred":[
         "Ylistaro"
     ],
     "name:sme_x_preferred":[
@@ -126,7 +114,7 @@
         }
     ],
     "wof:id":101814095,
-    "wof:lastmodified":1529709629,
+    "wof:lastmodified":1561830289,
     "wof:name":"Ylistaro",
     "wof:parent_id":907199285,
     "wof:placetype":"locality",

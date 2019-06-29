@@ -17,25 +17,16 @@
     "mps:longitude":29.394593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0582\u0567\u0576\u056f\u0561\u0570\u0561\u0580\u0575\u0578\u0582"
-    ],
     "name:cat_x_preferred":[
         "Punkaharju"
     ],
     "name:ceb_x_preferred":[
         "Punkaharju"
     ],
-    "name:chi_x_preferred":[
-        "\u84ec\u5361\u54c8\u723e\u5c24"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Punkaharju"
     ],
     "name:deu_x_preferred":[
-        "Punkaharju"
-    ],
-    "name:dut_x_preferred":[
         "Punkaharju"
     ],
     "name:eng_x_preferred":[
@@ -47,11 +38,8 @@
     "name:fra_x_preferred":[
         "Punkaharju"
     ],
-    "name:fre_x_preferred":[
-        "Punkaharju"
-    ],
-    "name:ger_x_preferred":[
-        "Punkaharju"
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0582\u0567\u0576\u056f\u0561\u0570\u0561\u0580\u0575\u0578\u0582"
     ],
     "name:ita_x_preferred":[
         "Punkaharju"
@@ -72,9 +60,6 @@
         "Punkaharju"
     ],
     "name:ron_x_preferred":[
-        "Punkaharju"
-    ],
-    "name:rum_x_preferred":[
         "Punkaharju"
     ],
     "name:sme_x_preferred":[
@@ -138,7 +123,7 @@
         }
     ],
     "wof:id":101814067,
-    "wof:lastmodified":1529714452,
+    "wof:lastmodified":1561830290,
     "wof:name":"Punkaharju",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

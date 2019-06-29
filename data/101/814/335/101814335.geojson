@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001285,
-    "geom:area_square_m":7305757.824573,
+    "geom:area_square_m":7305757.824568,
     "geom:bbox":"27.0660343258,62.6116558797,27.1514028354,62.6605771481",
     "geom:latitude":62.62926,
     "geom:longitude":27.110434,
@@ -17,19 +17,10 @@
     "mps:longitude":27.114447,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Suonenjoki"
-    ],
     "name:ceb_x_preferred":[
         "Suonenjoki"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u5967\u5ae9\u7d04\u57fa"
-    ],
     "name:deu_x_preferred":[
-        "Suonenjoki"
-    ],
-    "name:dut_x_preferred":[
         "Suonenjoki"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Suonenjoki"
     ],
     "name:fra_x_preferred":[
-        "Suonenjoki"
-    ],
-    "name:fre_x_preferred":[
-        "Suonenjoki"
-    ],
-    "name:ger_x_preferred":[
         "Suonenjoki"
     ],
     "name:hbs_x_preferred":[
@@ -78,9 +63,6 @@
         "Suonenjoki"
     ],
     "name:ron_x_preferred":[
-        "Suonenjoki"
-    ],
-    "name:rum_x_preferred":[
         "Suonenjoki"
     ],
     "name:rus_x_preferred":[
@@ -165,7 +147,7 @@
         }
     ],
     "wof:id":101814335,
-    "wof:lastmodified":1529708947,
+    "wof:lastmodified":1561830287,
     "wof:name":"Suonenjoki",
     "wof:parent_id":907198847,
     "wof:placetype":"locality",

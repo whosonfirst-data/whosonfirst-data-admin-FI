@@ -22,7 +22,7 @@
     "name:fin_x_preferred":[
         "J\u00e4\u00e4li"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de J\u00e4\u00e4li"
     ],
     "name:rus_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101847061,
-    "wof:lastmodified":1529709420,
+    "wof:lastmodified":1561830283,
     "wof:name":"J\u00e4\u00e4li",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

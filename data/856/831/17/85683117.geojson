@@ -21,14 +21,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
-    "name:alb_x_preferred":[
-        "Finlanda Qendrore"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u0646\u0644\u0646\u062f\u0627 \u0627\u0644\u0648\u0633\u0637\u0649"
-    ],
-    "name:baq_x_preferred":[
-        "Erdialdeko Finlandia"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u09ab\u09bf\u09a8\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
@@ -42,20 +36,14 @@
     "name:ces_x_preferred":[
         "St\u0159edn\u00ed Finsko"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u82ac\u862d\u5340"
-    ],
-    "name:cze_x_preferred":[
-        "St\u0159edn\u00ed Finsko"
-    ],
     "name:dan_x_preferred":[
         "Keski-Suomi"
     ],
     "name:deu_x_preferred":[
         "Mittelfinnland"
     ],
-    "name:dut_x_preferred":[
-        "Keski-Suomi"
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03a6\u03b9\u03bd\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Central Finland"
@@ -85,20 +73,8 @@
     "name:fra_x_preferred":[
         "Finlande-Centrale"
     ],
-    "name:fre_x_preferred":[
-        "Finlande-Centrale"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10e4\u10d8\u10dc\u10d4\u10d7\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Mittelfinnland"
-    ],
     "name:glg_x_preferred":[
         "Finlandia Central"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03a6\u03b9\u03bd\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0aab\u0abf\u0aa8\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
@@ -145,9 +121,6 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f\u094d\u0930\u0932 \u092b\u093f\u0928\u0932\u0902\u0921"
     ],
-    "name:may_x_preferred":[
-        "Finland Tengah"
-    ],
     "name:msa_x_preferred":[
         "Finland Tengah"
     ],
@@ -166,9 +139,6 @@
     "name:nor_x_variant":[
         "Midt-Finland"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0646\u0644\u0627\u0646\u062f \u0645\u0631\u06a9\u0632\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0648\u0634\u06a9\u0627\u0631\u0644\u0627 \u0641\u0646\u0644\u06cc\u0646\u0688"
     ],
@@ -179,9 +149,6 @@
         "Finl\u00e2ndia Central"
     ],
     "name:ron_x_preferred":[
-        "Finlanda Central\u0103"
-    ],
-    "name:rum_x_preferred":[
         "Finlanda Central\u0103"
     ],
     "name:rus_x_preferred":[
@@ -197,9 +164,6 @@
         "\u0db8\u0daf\u0dca\u200d\u0dba\u0db8 \u0dc6\u0dd2\u0db1\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Keski-Suomi"
-    ],
-    "name:slo_x_preferred":[
         "Keski-Suomi"
     ],
     "name:sme_x_preferred":[
@@ -353,7 +317,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1553550821,
+    "wof:lastmodified":1561830205,
     "wof:name":"Central Finland",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

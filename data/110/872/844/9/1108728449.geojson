@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001316,
-    "geom:area_square_m":7777073.574975,
+    "geom:area_square_m":7777073.574979,
     "geom:bbox":"23.8110773426,61.4347369618,23.8824055761,61.4654604439",
     "geom:latitude":61.450032,
     "geom:longitude":23.850051,
@@ -23,10 +23,10 @@
     "name:bul_x_preferred":[
         "\u0425\u0435\u0440\u0432\u0430\u043d\u0442\u0430"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hervanta"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hervanta"
     ],
     "name:eng_x_preferred":[
@@ -35,13 +35,13 @@
     "name:fin_x_preferred":[
         "Hervanta"
     ],
-    "name:fre_x_preferred":[
-        "Hervanta"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hervanta"
     ],
     "name:hun_x_preferred":[
+        "Hervanta"
+    ],
+    "name:nld_x_preferred":[
         "Hervanta"
     ],
     "name:spa_x_preferred":[
@@ -57,14 +57,14 @@
     "tmpgov:id":"308065",
     "tmpgov:name":"Hervanta",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1108728449,
-    "wof:lastmodified":1529711333,
+    "wof:lastmodified":1561830250,
     "wof:name":"Hervanta",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

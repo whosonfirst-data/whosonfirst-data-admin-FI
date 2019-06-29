@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":1692284.767512,
+    "geom:area_square_m":1692284.767513,
     "geom:bbox":"24.915484881,60.2453259006,24.9509455932,60.2571438908",
     "geom:latitude":60.25148,
     "geom:longitude":24.931851,
@@ -30,9 +30,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Palohein\u00e4"
-    ],
     "name:eng_x_preferred":[
         "Palohein\u00e4"
     ],
@@ -45,7 +42,7 @@
     "name:fra_x_preferred":[
         "Palohein\u00e4"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Palohein\u00e4"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +82,6 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85683067,
         102191581,
         890537257,
         907199715,
@@ -94,7 +90,8 @@
         101748417,
         136253047,
         890536895,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +122,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529714761,
+    "wof:lastmodified":1561830201,
     "wof:name":"Paloheina",
     "wof:parent_id":890537257,
     "wof:placetype":"neighbourhood",

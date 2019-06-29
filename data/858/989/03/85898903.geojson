@@ -39,6 +39,12 @@
     "name:deu_x_preferred":[
         "T\u00f6\u00f6l\u00f6"
     ],
+    "name:deu_x_variant":[
+        "Taka-T\u00f6\u00f6l\u00f6"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03ba\u03b1-\u03a4\u03cc\u03bf\u03bb\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Taka-T\u00f6\u00f6l\u00f6"
     ],
@@ -61,14 +67,8 @@
     "name:fra_x_preferred":[
         "T\u00f6\u00f6l\u00f6"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Taka-T\u00f6\u00f6l\u00f6"
-    ],
-    "name:ger_x_preferred":[
-        "Taka-T\u00f6\u00f6l\u00f6"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03ac\u03ba\u03b1-\u03a4\u03cc\u03bf\u03bb\u03bf"
     ],
     "name:hun_x_preferred":[
         "T\u00f6\u00f6l\u00f6"
@@ -160,7 +160,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1536868708,
+    "wof:lastmodified":1561830220,
     "wof:name":"Taka-Toolo",
     "wof:parent_id":1108727339,
     "wof:placetype":"neighbourhood",

@@ -17,19 +17,10 @@
     "mps:longitude":27.655463,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Puolanka"
-    ],
     "name:ceb_x_preferred":[
         "Puolanka"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u5965\u5170\u5361"
-    ],
     "name:deu_x_preferred":[
-        "Puolanka"
-    ],
-    "name:dut_x_preferred":[
         "Puolanka"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Puolanka"
     ],
     "name:fra_x_preferred":[
-        "Puolanka"
-    ],
-    "name:fre_x_preferred":[
-        "Puolanka"
-    ],
-    "name:ger_x_preferred":[
         "Puolanka"
     ],
     "name:ita_x_preferred":[
@@ -78,9 +63,6 @@
         "Puolanka"
     ],
     "name:ron_x_preferred":[
-        "Puolanka"
-    ],
-    "name:rum_x_preferred":[
         "Puolanka"
     ],
     "name:rus_x_preferred":[
@@ -156,7 +138,7 @@
         }
     ],
     "wof:id":101814393,
-    "wof:lastmodified":1529706646,
+    "wof:lastmodified":1561830287,
     "wof:name":"Puolanka",
     "wof:parent_id":907199513,
     "wof:placetype":"locality",

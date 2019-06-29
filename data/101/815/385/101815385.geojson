@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Dragsfj\u00e4rd"
     ],
-    "name:dut_x_preferred":[
-        "Dragsfj\u00e4rd"
-    ],
     "name:eng_x_preferred":[
         "Dragsfj\u00e4rd"
     ],
@@ -36,12 +33,6 @@
         "Dragsfj\u00e4rd"
     ],
     "name:fra_x_preferred":[
-        "Dragsfj\u00e4rd"
-    ],
-    "name:fre_x_preferred":[
-        "Dragsfj\u00e4rd"
-    ],
-    "name:ger_x_preferred":[
         "Dragsfj\u00e4rd"
     ],
     "name:ita_x_preferred":[
@@ -57,9 +48,6 @@
         "Dragsfj\u00e4rd"
     ],
     "name:ron_x_preferred":[
-        "Dragsfj\u00e4rd"
-    ],
-    "name:rum_x_preferred":[
         "Dragsfj\u00e4rd"
     ],
     "name:rus_x_preferred":[
@@ -129,7 +117,7 @@
         }
     ],
     "wof:id":101815385,
-    "wof:lastmodified":1529706471,
+    "wof:lastmodified":1561830280,
     "wof:name":"Dragsfj\u00e4rd",
     "wof:parent_id":907199735,
     "wof:placetype":"locality",

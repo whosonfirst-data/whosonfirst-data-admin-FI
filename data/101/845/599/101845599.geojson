@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001211,
-    "geom:area_square_m":6069387.326547,
+    "geom:area_square_m":6069387.326548,
     "geom:bbox":"24.7652162046,66.0637229487,24.8380086876,66.1066257552",
     "geom:latitude":66.083446,
     "geom:longitude":24.802593,
@@ -17,28 +17,13 @@
     "mps:longitude":24.802042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Tervola"
-    ],
-    "name:baq_x_preferred":[
-        "Tervola"
-    ],
     "name:ceb_x_preferred":[
         "Tervola"
     ],
     "name:ces_x_preferred":[
         "Tervola"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u723e\u6c83\u62c9"
-    ],
-    "name:cze_x_preferred":[
-        "Tervola"
-    ],
     "name:deu_x_preferred":[
-        "Tervola"
-    ],
-    "name:dut_x_preferred":[
         "Tervola"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +42,6 @@
         "Tervola"
     ],
     "name:fra_x_preferred":[
-        "Tervola"
-    ],
-    "name:fre_x_preferred":[
-        "Tervola"
-    ],
-    "name:ger_x_preferred":[
         "Tervola"
     ],
     "name:glg_x_preferred":[
@@ -90,9 +69,6 @@
         "Tervola"
     ],
     "name:ron_x_preferred":[
-        "Tervola"
-    ],
-    "name:rum_x_preferred":[
         "Tervola"
     ],
     "name:rus_x_preferred":[
@@ -168,7 +144,7 @@
         }
     ],
     "wof:id":101845599,
-    "wof:lastmodified":1529708127,
+    "wof:lastmodified":1561830266,
     "wof:name":"Tervola",
     "wof:parent_id":907199545,
     "wof:placetype":"locality",

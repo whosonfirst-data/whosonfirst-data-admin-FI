@@ -23,13 +23,7 @@
     "name:ceb_x_preferred":[
         "Suomenniemi"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u5967\u9580\u6d85\u7c73"
-    ],
     "name:deu_x_preferred":[
-        "Suomenniemi"
-    ],
-    "name:dut_x_preferred":[
         "Suomenniemi"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "Suomenniemi"
     ],
     "name:fra_x_preferred":[
-        "Suomenniemi"
-    ],
-    "name:fre_x_preferred":[
-        "Suomenniemi"
-    ],
-    "name:ger_x_preferred":[
         "Suomenniemi"
     ],
     "name:ita_x_preferred":[
@@ -66,9 +54,6 @@
         "Suomenniemi"
     ],
     "name:ron_x_preferred":[
-        "Suomenniemi"
-    ],
-    "name:rum_x_preferred":[
         "Suomenniemi"
     ],
     "name:rus_x_preferred":[
@@ -135,7 +120,7 @@
         }
     ],
     "wof:id":101846869,
-    "wof:lastmodified":1529714454,
+    "wof:lastmodified":1561830273,
     "wof:name":"Suomenniemi",
     "wof:parent_id":907198765,
     "wof:placetype":"locality",

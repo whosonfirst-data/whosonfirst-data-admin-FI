@@ -17,9 +17,6 @@
     "mps:longitude":21.853382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u057d\u056f\u0561\u0575\u0576\u0565\u0576"
-    ],
     "name:bel_x_preferred":[
         "\u0410\u0441\u043a\u0430\u0439\u043d\u0435\u043d"
     ],
@@ -29,14 +26,14 @@
     "name:ceb_x_preferred":[
         "Askainen"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Askainen"
     ],
     "name:deu_x_preferred":[
         "Askainen"
     ],
-    "name:dut_x_preferred":[
-        "Askainen"
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03ba\u03ac\u03b9\u03bd\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Askainen"
@@ -50,17 +47,11 @@
     "name:fra_x_preferred":[
         "Askainen"
     ],
-    "name:fre_x_preferred":[
-        "Askainen"
-    ],
-    "name:ger_x_preferred":[
-        "Askainen"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c3\u03ba\u03ac\u03b9\u03bd\u03b5\u03bd"
-    ],
     "name:hun_x_preferred":[
         "Askainen"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057d\u056f\u0561\u0575\u0576\u0565\u0576"
     ],
     "name:ita_x_preferred":[
         "Askainen"
@@ -81,9 +72,6 @@
         "Askainen"
     ],
     "name:ron_x_preferred":[
-        "Askainen"
-    ],
-    "name:rum_x_preferred":[
         "Askainen"
     ],
     "name:rus_x_preferred":[
@@ -160,7 +148,7 @@
         }
     ],
     "wof:id":101872787,
-    "wof:lastmodified":1544751325,
+    "wof:lastmodified":1561830268,
     "wof:name":"Askainen",
     "wof:parent_id":907198919,
     "wof:placetype":"locality",

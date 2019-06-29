@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":825157.513587,
+    "geom:area_square_m":825157.513589,
     "geom:bbox":"29.6666883753,61.6866359736,29.6974517424,61.700004117",
     "geom:latitude":61.693842,
     "geom:longitude":29.683494,
@@ -20,7 +20,7 @@
     "name:ceb_x_preferred":[
         "Saari"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Saari"
     ],
     "name:eng_x_preferred":[
@@ -30,12 +30,6 @@
         "Saari"
     ],
     "name:fra_x_preferred":[
-        "Saari"
-    ],
-    "name:fre_x_preferred":[
-        "Saari"
-    ],
-    "name:ger_x_preferred":[
         "Saari"
     ],
     "name:nld_x_preferred":[
@@ -48,9 +42,6 @@
         "Saari"
     ],
     "name:ron_x_preferred":[
-        "Saari"
-    ],
-    "name:rum_x_preferred":[
         "Saari"
     ],
     "name:rus_x_preferred":[
@@ -114,7 +105,7 @@
         }
     ],
     "wof:id":101846867,
-    "wof:lastmodified":1553815541,
+    "wof:lastmodified":1561830273,
     "wof:name":"Saari",
     "wof:parent_id":907198853,
     "wof:placetype":"locality",

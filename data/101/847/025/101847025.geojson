@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000974,
-    "geom:area_square_m":5506469.260144,
+    "geom:area_square_m":5506469.260143,
     "geom:bbox":"30.0768913183,62.7779128921,30.1754208521,62.8076874464",
     "geom:latitude":62.795563,
     "geom:longitude":30.136484,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Eno"
     ],
-    "name:dut_x_preferred":[
-        "Eno"
-    ],
     "name:eng_x_preferred":[
         "Eno"
     ],
@@ -44,12 +41,6 @@
     "name:fra_x_preferred":[
         "Eno"
     ],
-    "name:fre_x_preferred":[
-        "Eno"
-    ],
-    "name:ger_x_preferred":[
-        "Eno"
-    ],
     "name:hun_x_preferred":[
         "Eno"
     ],
@@ -63,9 +54,6 @@
         "Eno"
     ],
     "name:ron_x_preferred":[
-        "Eno"
-    ],
-    "name:rum_x_preferred":[
         "Eno"
     ],
     "name:rus_x_preferred":[
@@ -129,7 +117,7 @@
         }
     ],
     "wof:id":101847025,
-    "wof:lastmodified":1529706705,
+    "wof:lastmodified":1561830282,
     "wof:name":"Eno",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000226,
-    "geom:area_square_m":1322234.520259,
+    "geom:area_square_m":1322234.52026,
     "geom:bbox":"23.2547402203,61.6983001564,23.2973759466,61.7115675562",
     "geom:latitude":61.705131,
     "geom:longitude":23.275057,
@@ -20,7 +20,7 @@
     "name:ceb_x_preferred":[
         "Viljakkala"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Viljakkala"
     ],
     "name:eng_x_preferred":[
@@ -30,12 +30,6 @@
         "Viljakkala"
     ],
     "name:fra_x_preferred":[
-        "Viljakkala"
-    ],
-    "name:fre_x_preferred":[
-        "Viljakkala"
-    ],
-    "name:ger_x_preferred":[
         "Viljakkala"
     ],
     "name:nld_x_preferred":[
@@ -48,9 +42,6 @@
         "Viljakkala"
     ],
     "name:ron_x_preferred":[
-        "Viljakkala"
-    ],
-    "name:rum_x_preferred":[
         "Viljakkala"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +105,7 @@
         }
     ],
     "wof:id":101813999,
-    "wof:lastmodified":1529711299,
+    "wof:lastmodified":1561830291,
     "wof:name":"Viljakkala",
     "wof:parent_id":907199275,
     "wof:placetype":"locality",

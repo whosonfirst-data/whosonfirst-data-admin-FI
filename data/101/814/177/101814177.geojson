@@ -17,25 +17,16 @@
     "mps:longitude":25.949645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Laukaa"
-    ],
     "name:ceb_x_preferred":[
         "Laukaa"
     ],
-    "name:chi_x_preferred":[
-        "\u52de\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Laukaa"
     ],
     "name:dan_x_preferred":[
         "Laukas"
     ],
     "name:deu_x_preferred":[
-        "Laukaa"
-    ],
-    "name:dut_x_preferred":[
         "Laukaa"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "Laukaa"
     ],
     "name:fra_x_preferred":[
-        "Laukaa"
-    ],
-    "name:fre_x_preferred":[
-        "Laukaa"
-    ],
-    "name:ger_x_preferred":[
         "Laukaa"
     ],
     "name:ita_x_preferred":[
@@ -81,9 +66,6 @@
         "Laukaa"
     ],
     "name:ron_x_preferred":[
-        "Laukaa"
-    ],
-    "name:rum_x_preferred":[
         "Laukaa"
     ],
     "name:rus_x_preferred":[
@@ -165,7 +147,7 @@
         }
     ],
     "wof:id":101814177,
-    "wof:lastmodified":1529706346,
+    "wof:lastmodified":1561830290,
     "wof:name":"Laukaa",
     "wof:parent_id":907199203,
     "wof:placetype":"locality",

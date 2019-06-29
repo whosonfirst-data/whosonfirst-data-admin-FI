@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001969,
-    "geom:area_square_m":12232751.097481,
+    "geom:area_square_m":12232751.097482,
     "geom:bbox":"22.8998271571,59.8083093495,23.0531636221,59.8465436312",
     "geom:latitude":59.830619,
     "geom:longitude":22.970274,
@@ -17,9 +17,6 @@
     "mps:longitude":22.963885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Hanko"
-    ],
     "name:cat_x_preferred":[
         "Hanko"
     ],
@@ -29,19 +26,10 @@
     "name:ces_x_preferred":[
         "Hanko"
     ],
-    "name:chi_x_preferred":[
-        "\u6c49\u79d1"
-    ],
-    "name:cze_x_preferred":[
-        "Hanko"
-    ],
     "name:dan_x_preferred":[
         "Hang\u00f6"
     ],
     "name:deu_x_preferred":[
-        "Hanko"
-    ],
-    "name:dut_x_preferred":[
         "Hanko"
     ],
     "name:eng_x_preferred":[
@@ -53,16 +41,13 @@
     "name:est_x_preferred":[
         "Hanko"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0646\u06a9\u0648"
+    ],
     "name:fin_x_preferred":[
         "Hanko"
     ],
     "name:fra_x_preferred":[
-        "Hanko"
-    ],
-    "name:fre_x_preferred":[
-        "Hanko"
-    ],
-    "name:ger_x_preferred":[
         "Hanko"
     ],
     "name:gle_x_preferred":[
@@ -107,9 +92,6 @@
     "name:nor_x_variant":[
         "Hanko"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u0646\u06a9\u0648"
-    ],
     "name:pol_x_preferred":[
         "Hanko"
     ],
@@ -117,9 +99,6 @@
         "Hanko"
     ],
     "name:ron_x_preferred":[
-        "Hanko"
-    ],
-    "name:rum_x_preferred":[
         "Hanko"
     ],
     "name:rus_x_preferred":[
@@ -216,7 +195,7 @@
         }
     ],
     "wof:id":101815313,
-    "wof:lastmodified":1529714675,
+    "wof:lastmodified":1561830280,
     "wof:name":"Hanko",
     "wof:parent_id":907198505,
     "wof:placetype":"locality",

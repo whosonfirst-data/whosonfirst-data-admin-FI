@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001683,
-    "geom:area_square_m":9672062.23916,
+    "geom:area_square_m":9672062.239152,
     "geom:bbox":"27.1043680847,62.2839961698,27.1927190613,62.3239936374",
     "geom:latitude":62.301247,
     "geom:longitude":27.153871,
@@ -17,22 +17,10 @@
     "mps:longitude":27.172277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Pieks\u00e4m\u00e4ki"
-    ],
-    "name:baq_x_preferred":[
-        "Pieks\u00e4m\u00e4ki"
-    ],
     "name:ceb_x_preferred":[
         "Pieks\u00e4m\u00e4ki"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u8036\u514b\u8d5b\u8fc8\u57fa"
-    ],
     "name:deu_x_preferred":[
-        "Pieks\u00e4m\u00e4ki"
-    ],
-    "name:dut_x_preferred":[
         "Pieks\u00e4m\u00e4ki"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +36,6 @@
         "Pieks\u00e4m\u00e4ki"
     ],
     "name:fra_x_preferred":[
-        "Pieks\u00e4m\u00e4ki"
-    ],
-    "name:fre_x_preferred":[
-        "Pieks\u00e4m\u00e4ki"
-    ],
-    "name:ger_x_preferred":[
         "Pieks\u00e4m\u00e4ki"
     ],
     "name:heb_x_preferred":[
@@ -86,9 +68,6 @@
     "name:ron_x_preferred":[
         "Pieks\u00e4m\u00e4ki"
     ],
-    "name:rum_x_preferred":[
-        "Pieks\u00e4m\u00e4ki"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u0435\u043a\u0441\u044f\u043c\u044f\u043a\u0438"
     ],
@@ -96,6 +75,9 @@
         "Pieks\u00e4m\u00e4ki"
     ],
     "name:spa_x_preferred":[
+        "Pieks\u00e4m\u00e4ki"
+    ],
+    "name:sqi_x_preferred":[
         "Pieks\u00e4m\u00e4ki"
     ],
     "name:srp_x_preferred":[
@@ -172,7 +154,7 @@
         }
     ],
     "wof:id":101815059,
-    "wof:lastmodified":1529714451,
+    "wof:lastmodified":1561830281,
     "wof:name":"Pieks\u00e4m\u00e4ki",
     "wof:parent_id":907199013,
     "wof:placetype":"locality",

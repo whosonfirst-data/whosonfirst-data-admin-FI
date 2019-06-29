@@ -17,22 +17,13 @@
     "mps:longitude":21.662724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Vehmaa"
-    ],
     "name:ceb_x_preferred":[
         "Vehmaa"
-    ],
-    "name:chi_x_preferred":[
-        "\u97cb\u8d6b\u99ac"
     ],
     "name:dan_x_preferred":[
         "Vehmaa"
     ],
     "name:deu_x_preferred":[
-        "Vehmaa"
-    ],
-    "name:dut_x_preferred":[
         "Vehmaa"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Vehmaa"
     ],
     "name:fra_x_preferred":[
-        "Vehmaa"
-    ],
-    "name:fre_x_preferred":[
-        "Vehmaa"
-    ],
-    "name:ger_x_preferred":[
         "Vehmaa"
     ],
     "name:ita_x_preferred":[
@@ -71,16 +56,10 @@
     "name:nor_x_preferred":[
         "Vehmaa"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0647\u0645\u0627"
-    ],
     "name:pol_x_preferred":[
         "Vehmaa"
     ],
     "name:ron_x_preferred":[
-        "Vehmaa"
-    ],
-    "name:rum_x_preferred":[
         "Vehmaa"
     ],
     "name:rus_x_preferred":[
@@ -155,7 +134,7 @@
         }
     ],
     "wof:id":101846729,
-    "wof:lastmodified":1529706472,
+    "wof:lastmodified":1561830277,
     "wof:name":"Vehmaa",
     "wof:parent_id":907198643,
     "wof:placetype":"locality",

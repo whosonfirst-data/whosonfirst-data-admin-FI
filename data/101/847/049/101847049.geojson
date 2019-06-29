@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000676,
-    "geom:area_square_m":3646855.726553,
+    "geom:area_square_m":3646855.726556,
     "geom:bbox":"28.2224400827,64.1409924651,28.3006455658,64.1584800342",
     "geom:latitude":64.149796,
     "geom:longitude":28.256297,
@@ -20,7 +20,7 @@
     "name:dan_x_preferred":[
         "Vuokatti"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vuokatti"
     ],
     "name:eng_x_preferred":[
@@ -29,13 +29,13 @@
     "name:fin_x_preferred":[
         "Vuokatti"
     ],
-    "name:fre_x_preferred":[
-        "Vuokatti"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vuokatti"
     ],
     "name:ita_x_preferred":[
+        "Vuokatti"
+    ],
+    "name:nld_x_preferred":[
         "Vuokatti"
     ],
     "name:nob_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":101847049,
-    "wof:lastmodified":1529706645,
+    "wof:lastmodified":1561830282,
     "wof:name":"Vuokatti",
     "wof:parent_id":907199319,
     "wof:placetype":"locality",

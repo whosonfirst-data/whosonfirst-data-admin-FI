@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001056,
-    "geom:area_square_m":5993673.527,
+    "geom:area_square_m":5993673.526999,
     "geom:bbox":"30.9088914394,62.6461464242,30.975301161,62.6902087026",
     "geom:latitude":62.667525,
     "geom:longitude":30.93828,
@@ -17,25 +17,13 @@
     "mps:longitude":30.937777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Ilomantsi"
-    ],
     "name:ceb_x_preferred":[
         "Ilomantsi"
     ],
     "name:ces_x_preferred":[
         "Ilomantsi"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u6d1b\u66fc\u9f4a"
-    ],
-    "name:cze_x_preferred":[
-        "Ilomantsi"
-    ],
     "name:deu_x_preferred":[
-        "Ilomantsi"
-    ],
-    "name:dut_x_preferred":[
         "Ilomantsi"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +39,6 @@
         "Ilomantsi"
     ],
     "name:fra_x_preferred":[
-        "Ilomantsi"
-    ],
-    "name:fre_x_preferred":[
-        "Ilomantsi"
-    ],
-    "name:ger_x_preferred":[
         "Ilomantsi"
     ],
     "name:gle_x_preferred":[
@@ -86,16 +68,10 @@
     "name:ron_x_preferred":[
         "Ilomantsi"
     ],
-    "name:rum_x_preferred":[
-        "Ilomantsi"
-    ],
     "name:rus_x_preferred":[
         "\u0418\u043b\u043e\u043c\u0430\u043d\u0442\u0441\u0438"
     ],
     "name:slk_x_preferred":[
-        "Ilomantsi"
-    ],
-    "name:slo_x_preferred":[
         "Ilomantsi"
     ],
     "name:sme_x_preferred":[
@@ -162,7 +138,7 @@
         }
     ],
     "wof:id":101814371,
-    "wof:lastmodified":1529706708,
+    "wof:lastmodified":1561830287,
     "wof:name":"Ilomantsi",
     "wof:parent_id":907199525,
     "wof:placetype":"locality",

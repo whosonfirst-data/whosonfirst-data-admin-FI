@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000247,
-    "geom:area_square_m":1501516.458737,
+    "geom:area_square_m":1501516.458736,
     "geom:bbox":"21.959566914,60.5560023617,21.9934763253,60.576939092",
     "geom:latitude":60.567816,
     "geom:longitude":21.97714,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Lemu"
     ],
-    "name:dut_x_preferred":[
-        "Lemu"
-    ],
     "name:eng_x_preferred":[
         "Lemu"
     ],
@@ -36,12 +33,6 @@
         "Lemu"
     ],
     "name:fra_x_preferred":[
-        "Lemu"
-    ],
-    "name:fre_x_preferred":[
-        "Lemu"
-    ],
-    "name:ger_x_preferred":[
         "Lemu"
     ],
     "name:ita_x_preferred":[
@@ -57,9 +48,6 @@
         "Lemu"
     ],
     "name:ron_x_preferred":[
-        "Lemu"
-    ],
-    "name:rum_x_preferred":[
         "Lemu"
     ],
     "name:sme_x_preferred":[
@@ -126,7 +114,7 @@
         }
     ],
     "wof:id":101846737,
-    "wof:lastmodified":1529706473,
+    "wof:lastmodified":1561830272,
     "wof:name":"Lemu",
     "wof:parent_id":907198919,
     "wof:placetype":"locality",

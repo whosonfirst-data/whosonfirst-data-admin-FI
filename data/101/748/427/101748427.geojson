@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010143,
-    "geom:area_square_m":59894773.577326,
+    "geom:area_square_m":59894773.577345,
     "geom:bbox":"21.6835822983,61.4030687129,21.9494228682,61.5320319443",
     "geom:latitude":61.474943,
     "geom:longitude":21.820916,
@@ -18,17 +18,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
-    "name:alb_x_preferred":[
-        "Pori"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u057c\u056b"
-    ],
-    "name:baq_x_preferred":[
-        "Pori"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u043e\u0440\u044b"
@@ -51,22 +42,13 @@
     "name:ces_x_preferred":[
         "Pori"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u91cc"
-    ],
     "name:cor_x_preferred":[
-        "Pori"
-    ],
-    "name:cze_x_preferred":[
         "Pori"
     ],
     "name:dan_x_preferred":[
         "Pori"
     ],
     "name:deu_x_preferred":[
-        "Pori"
-    ],
-    "name:dut_x_preferred":[
         "Pori"
     ],
     "name:ell_x_preferred":[
@@ -93,23 +75,11 @@
     "name:fra_x_preferred":[
         "Pori"
     ],
-    "name:fre_x_preferred":[
-        "Pori"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Pori"
-    ],
     "name:gle_x_preferred":[
         "Pori"
     ],
     "name:glg_x_preferred":[
         "Pori"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03cc\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab0\u0ac0"
@@ -147,6 +117,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0ccb\u0cb0\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10e0\u10d8"
+    ],
     "name:koi_x_preferred":[
         "\u041f\u043e\u0440\u0438"
     ],
@@ -162,23 +135,20 @@
     "name:lit_x_preferred":[
         "Poris"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u043e\u0440\u0438"
-    ],
-    "name:mao_x_preferred":[
-        "Pori"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094b\u0930\u0940"
     ],
-    "name:may_x_preferred":[
-        "Pori"
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0440\u0438"
     ],
     "name:mri_x_preferred":[
         "Pori"
     ],
     "name:mrj_x_preferred":[
         "\u041f\u043e\u0440\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Pori"
     ],
     "name:nld_x_preferred":[
         "Pori"
@@ -192,9 +162,6 @@
     "name:nor_x_preferred":[
         "Bj\u00f6rneborg"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0631\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u067e\u0648\u0631\u06cc"
     ],
@@ -205,9 +172,6 @@
         "Pori"
     ],
     "name:ron_x_preferred":[
-        "Pori"
-    ],
-    "name:rum_x_preferred":[
         "Pori"
     ],
     "name:rus_x_preferred":[
@@ -223,9 +187,6 @@
         "\u0db4\u0ddd\u0dbb\u0dd2"
     ],
     "name:slk_x_preferred":[
-        "Pori"
-    ],
-    "name:slo_x_preferred":[
         "Pori"
     ],
     "name:slv_x_preferred":[
@@ -430,7 +391,7 @@
         }
     ],
     "wof:id":101748427,
-    "wof:lastmodified":1529712494,
+    "wof:lastmodified":1561830271,
     "wof:name":"Pori",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

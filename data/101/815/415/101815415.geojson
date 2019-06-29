@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000757,
-    "geom:area_square_m":4563984.810696,
+    "geom:area_square_m":4563984.810697,
     "geom:bbox":"23.466705217,60.7880861822,23.5341629316,60.8156848077",
     "geom:latitude":60.803424,
     "geom:longitude":23.496078,
@@ -17,22 +17,10 @@
     "mps:longitude":23.487135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Jokioinen"
-    ],
-    "name:baq_x_preferred":[
-        "Jokioinen"
-    ],
     "name:ceb_x_preferred":[
         "Jokioinen"
     ],
-    "name:chi_x_preferred":[
-        "\u7d04\u57fa\u5967\u4f0a\u5be7"
-    ],
     "name:deu_x_preferred":[
-        "Jokioinen"
-    ],
-    "name:dut_x_preferred":[
         "Jokioinen"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +36,6 @@
         "Jokioinen"
     ],
     "name:fra_x_preferred":[
-        "Jokioinen"
-    ],
-    "name:fre_x_preferred":[
-        "Jokioinen"
-    ],
-    "name:ger_x_preferred":[
         "Jokioinen"
     ],
     "name:hun_x_preferred":[
@@ -75,9 +57,6 @@
         "Jokioinen"
     ],
     "name:ron_x_preferred":[
-        "Jokioinen"
-    ],
-    "name:rum_x_preferred":[
         "Jokioinen"
     ],
     "name:rus_x_preferred":[
@@ -150,7 +129,7 @@
         }
     ],
     "wof:id":101815415,
-    "wof:lastmodified":1529711987,
+    "wof:lastmodified":1561830278,
     "wof:name":"Jokioinen",
     "wof:parent_id":907198951,
     "wof:placetype":"locality",

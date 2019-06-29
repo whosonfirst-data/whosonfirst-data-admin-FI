@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000314,
-    "geom:area_square_m":1638399.63576,
+    "geom:area_square_m":1638399.635762,
     "geom:bbox":"25.4439618724,65.022008389,25.4968529522,65.0309321938",
     "geom:latitude":65.026133,
     "geom:longitude":25.468802,
@@ -23,13 +23,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Tuira"
+    ],
     "name:eng_x_preferred":[
         "Tuira"
     ],
     "name:fin_x_preferred":[
-        "Tuira"
-    ],
-    "name:ger_x_preferred":[
         "Tuira"
     ],
     "name:pol_x_preferred":[
@@ -75,14 +75,14 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":17,
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +111,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529709469,
+    "wof:lastmodified":1561830221,
     "wof:name":"Tuira",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

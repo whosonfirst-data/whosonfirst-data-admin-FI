@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
-    "geom:area_square_m":509140.7743,
+    "geom:area_square_m":509140.774301,
     "geom:bbox":"24.8995103438,60.2077589733,24.9146377366,60.2184950094",
     "geom:latitude":60.212947,
     "geom:longitude":24.906742,
@@ -25,16 +25,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Kivihaka"
-    ],
     "name:eng_x_preferred":[
         "Kivihaka"
     ],
     "name:fin_x_preferred":[
         "Kivihaka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Kivihaka"
+    ],
+    "name:nld_x_preferred":[
         "Kivihaka"
     ],
     "name:swe_x_preferred":[
@@ -45,7 +45,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537273,
         907199715,
@@ -54,7 +53,8 @@
         101748417,
         136253047,
         890536889,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1108727047,
-    "wof:lastmodified":1529714728,
+    "wof:lastmodified":1561830253,
     "wof:name":"Kivihaka",
     "wof:parent_id":890537273,
     "wof:placetype":"neighbourhood",

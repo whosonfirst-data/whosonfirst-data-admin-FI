@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001199,
-    "geom:area_square_m":7148750.339971,
+    "geom:area_square_m":7148750.339969,
     "geom:bbox":"25.5075697715,61.1500125057,25.629666266,61.1920478045",
     "geom:latitude":61.167417,
     "geom:longitude":25.564039,
@@ -17,19 +17,10 @@
     "mps:longitude":25.559552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Asikkala"
-    ],
     "name:ceb_x_preferred":[
         "Asikkala"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u897f\u5361\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "Asikkala"
-    ],
-    "name:dut_x_preferred":[
         "Asikkala"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Asikkala"
     ],
     "name:fra_x_preferred":[
-        "Asikkala"
-    ],
-    "name:fre_x_preferred":[
-        "Asikkala"
-    ],
-    "name:ger_x_preferred":[
         "Asikkala"
     ],
     "name:heb_x_preferred":[
@@ -75,9 +60,6 @@
         "Asikkala"
     ],
     "name:ron_x_preferred":[
-        "Asikkala"
-    ],
-    "name:rum_x_preferred":[
         "Asikkala"
     ],
     "name:rus_x_preferred":[
@@ -150,7 +132,7 @@
         }
     ],
     "wof:id":101813941,
-    "wof:lastmodified":1529710023,
+    "wof:lastmodified":1561830291,
     "wof:name":"Asikkala",
     "wof:parent_id":907198691,
     "wof:placetype":"locality",

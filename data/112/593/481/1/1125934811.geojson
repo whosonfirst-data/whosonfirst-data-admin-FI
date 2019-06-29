@@ -24,7 +24,7 @@
     "name:fin_x_preferred":[
         "Aitolahti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aitolahti"
     ],
     "name:nob_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125934811,
-    "wof:lastmodified":1529711309,
+    "wof:lastmodified":1561830302,
     "wof:name":"Aitolahti",
     "wof:parent_id":907199231,
     "wof:placetype":"locality",

@@ -29,9 +29,6 @@
     "name:bam_x_preferred":[
         "Kangaslampi"
     ],
-    "name:baq_x_preferred":[
-        "Kangaslampi"
-    ],
     "name:bar_x_preferred":[
         "Kangaslampi"
     ],
@@ -44,19 +41,19 @@
     "name:ceb_x_preferred":[
         "Kangaslampi"
     ],
+    "name:ces_x_preferred":[
+        "Kangaslampi"
+    ],
     "name:cos_x_preferred":[
         "Kangaslampi"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Kangaslampi"
     ],
     "name:dan_x_preferred":[
         "Kangaslampi"
     ],
     "name:deu_x_preferred":[
-        "Kangaslampi"
-    ],
-    "name:dut_x_preferred":[
         "Kangaslampi"
     ],
     "name:eng_x_preferred":[
@@ -68,22 +65,22 @@
     "name:est_x_preferred":[
         "Kangaslampi"
     ],
+    "name:eus_x_preferred":[
+        "Kangaslampi"
+    ],
     "name:fin_x_preferred":[
         "Kangaslampi"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Kangaslampi"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Kangaslampi"
     ],
     "name:frp_x_preferred":[
         "Kangaslampi"
     ],
     "name:fur_x_preferred":[
-        "Kangaslampi"
-    ],
-    "name:ger_x_preferred":[
         "Kangaslampi"
     ],
     "name:gla_x_preferred":[
@@ -146,13 +143,13 @@
     "name:ltz_x_preferred":[
         "Kangaslampi"
     ],
-    "name:may_x_preferred":[
-        "Kangaslampi"
-    ],
     "name:min_x_preferred":[
         "Kangaslampi"
     ],
     "name:mlg_x_preferred":[
+        "Kangaslampi"
+    ],
+    "name:msa_x_preferred":[
         "Kangaslampi"
     ],
     "name:nap_x_preferred":[
@@ -206,16 +203,13 @@
     "name:ron_x_preferred":[
         "Kangaslampi"
     ],
-    "name:rum_x_preferred":[
-        "Kangaslampi"
-    ],
     "name:scn_x_preferred":[
         "Kangaslampi"
     ],
     "name:sco_x_preferred":[
         "Kangaslampi"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kangaslampi"
     ],
     "name:spa_x_preferred":[
@@ -246,9 +240,6 @@
         "Kangaslampi"
     ],
     "name:vol_x_preferred":[
-        "Kangaslampi"
-    ],
-    "name:wel_x_preferred":[
         "Kangaslampi"
     ],
     "name:wln_x_preferred":[
@@ -313,7 +304,7 @@
         }
     ],
     "wof:id":101872857,
-    "wof:lastmodified":1544751361,
+    "wof:lastmodified":1561830267,
     "wof:name":"Kangaslampi",
     "wof:parent_id":907199707,
     "wof:placetype":"locality",

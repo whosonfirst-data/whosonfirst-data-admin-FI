@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
-    "geom:area_square_m":1321528.432626,
+    "geom:area_square_m":1321528.432625,
     "geom:bbox":"25.6395829191,64.5011159216,25.66989534,64.5196888932",
     "geom:latitude":64.509001,
     "geom:longitude":25.652039,
@@ -26,17 +26,14 @@
     "name:ces_x_preferred":[
         "Rantsila"
     ],
-    "name:cze_x_preferred":[
-        "Rantsila"
-    ],
     "name:deu_x_preferred":[
-        "Rantsila"
-    ],
-    "name:dut_x_preferred":[
         "Rantsila"
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03ac\u03bd\u03c4\u03c3\u03b9\u03bb\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03b1\u03bd\u03c4\u03c3\u03af\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Rantsila"
@@ -49,15 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Rantsila"
-    ],
-    "name:fre_x_preferred":[
-        "Rantsila"
-    ],
-    "name:ger_x_preferred":[
-        "Rantsila"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b1\u03bd\u03c4\u03c3\u03af\u03bb\u03b1"
     ],
     "name:ita_x_preferred":[
         "Rantsila"
@@ -72,9 +60,6 @@
         "Rantsila"
     ],
     "name:ron_x_preferred":[
-        "Rantsila"
-    ],
-    "name:rum_x_preferred":[
         "Rantsila"
     ],
     "name:rus_x_preferred":[
@@ -141,7 +126,7 @@
         }
     ],
     "wof:id":101847077,
-    "wof:lastmodified":1529709421,
+    "wof:lastmodified":1561830282,
     "wof:name":"Rantsila",
     "wof:parent_id":907199755,
     "wof:placetype":"locality",

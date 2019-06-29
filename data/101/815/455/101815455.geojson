@@ -17,16 +17,10 @@
     "mps:longitude":26.054978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Artj\u00e4rvi"
-    ],
     "name:ceb_x_preferred":[
         "Artj\u00e4rvi"
     ],
     "name:deu_x_preferred":[
-        "Artj\u00e4rvi"
-    ],
-    "name:dut_x_preferred":[
         "Artj\u00e4rvi"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "Artj\u00e4rvi"
     ],
     "name:fra_x_preferred":[
-        "Artj\u00e4rvi"
-    ],
-    "name:fre_x_preferred":[
-        "Artj\u00e4rvi"
-    ],
-    "name:ger_x_preferred":[
         "Artj\u00e4rvi"
     ],
     "name:ita_x_preferred":[
@@ -63,9 +51,6 @@
         "Artsj\u00f6"
     ],
     "name:ron_x_preferred":[
-        "Artj\u00e4rvi"
-    ],
-    "name:rum_x_preferred":[
         "Artj\u00e4rvi"
     ],
     "name:sme_x_preferred":[
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":101815455,
-    "wof:lastmodified":1529710021,
+    "wof:lastmodified":1561830279,
     "wof:name":"Artj\u00e4rvi",
     "wof:parent_id":907198577,
     "wof:placetype":"locality",

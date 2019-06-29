@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000496,
-    "geom:area_square_m":3022967.907374,
+    "geom:area_square_m":3022967.907373,
     "geom:bbox":"25.3548003872,60.4612918547,25.3990695959,60.4958027315",
     "geom:latitude":60.478374,
     "geom:longitude":25.375784,
@@ -17,19 +17,10 @@
     "mps:longitude":25.370585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Pornainen"
-    ],
     "name:ceb_x_preferred":[
         "Pornainen"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u723e\u5948\u5be7"
-    ],
     "name:deu_x_preferred":[
-        "Pornainen"
-    ],
-    "name:dut_x_preferred":[
         "Pornainen"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Pornainen"
     ],
     "name:fra_x_preferred":[
-        "Pornainen"
-    ],
-    "name:fre_x_preferred":[
-        "Pornainen"
-    ],
-    "name:ger_x_preferred":[
         "Pornainen"
     ],
     "name:ita_x_preferred":[
@@ -72,9 +57,6 @@
         "Pornainen"
     ],
     "name:ron_x_preferred":[
-        "Pornainen"
-    ],
-    "name:rum_x_preferred":[
         "Pornainen"
     ],
     "name:rus_x_preferred":[
@@ -152,7 +134,7 @@
         }
     ],
     "wof:id":101815255,
-    "wof:lastmodified":1529714671,
+    "wof:lastmodified":1561830282,
     "wof:name":"Pornainen",
     "wof:parent_id":907198545,
     "wof:placetype":"locality",

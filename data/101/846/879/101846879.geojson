@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00135,
-    "geom:area_square_m":7983535.47607,
+    "geom:area_square_m":7983535.476074,
     "geom:bbox":"26.8047764529,61.3876170146,26.9141146024,61.4416545252",
     "geom:latitude":61.417788,
     "geom:longitude":26.867921,
@@ -17,19 +17,10 @@
     "mps:longitude":26.876382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "M\u00e4ntyharju"
-    ],
     "name:ceb_x_preferred":[
         "M\u00e4ntyharju"
     ],
-    "name:chi_x_preferred":[
-        "\u66fc\u8482\u54c8\u723e\u5c24"
-    ],
     "name:deu_x_preferred":[
-        "M\u00e4ntyharju"
-    ],
-    "name:dut_x_preferred":[
         "M\u00e4ntyharju"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "M\u00e4ntyharju"
     ],
     "name:fra_x_preferred":[
-        "M\u00e4ntyharju"
-    ],
-    "name:fre_x_preferred":[
-        "M\u00e4ntyharju"
-    ],
-    "name:ger_x_preferred":[
         "M\u00e4ntyharju"
     ],
     "name:ita_x_preferred":[
@@ -65,13 +50,13 @@
     "name:ron_x_preferred":[
         "M\u00e4ntyharju"
     ],
-    "name:rum_x_preferred":[
-        "M\u00e4ntyharju"
-    ],
     "name:sme_x_preferred":[
         "M\u00e4ntyharju"
     ],
     "name:spa_x_preferred":[
+        "M\u00e4ntyharju"
+    ],
+    "name:sqi_x_preferred":[
         "M\u00e4ntyharju"
     ],
     "name:swe_x_preferred":[
@@ -79,6 +64,9 @@
     ],
     "name:unk_x_variant":[
         "M\u00e4ntyharja"
+    ],
+    "name:zho_x_preferred":[
+        "\u66fc\u8482\u54c8\u723e\u5c24"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Etel\u00e4-Savo#S\u00f6dra Savolax",
@@ -132,7 +120,7 @@
         }
     ],
     "wof:id":101846879,
-    "wof:lastmodified":1529714455,
+    "wof:lastmodified":1561830276,
     "wof:name":"M\u00e4ntyharju",
     "wof:parent_id":907198721,
     "wof:placetype":"locality",

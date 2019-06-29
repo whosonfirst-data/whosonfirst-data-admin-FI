@@ -11,7 +11,7 @@
     "figov:nimi":"MUNKKINIEMI",
     "figov:nimi_se":"MUNKSN\u00c4S",
     "geom:area":0.001468,
-    "geom:area_square_m":9026235.663195,
+    "geom:area_square_m":9026235.663196,
     "geom:bbox":"24.8427968735,60.1688706639,24.8913934018,60.216129951",
     "geom:latitude":60.192482,
     "geom:longitude":24.864315,
@@ -45,8 +45,8 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u043d\u043a\u0438\u043d\u0438\u0435\u043c\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u723e\u8f9b\u57fa"
+    "name:deu_x_preferred":[
+        "Munkkiniemi"
     ],
     "name:eng_x_preferred":[
         "Munkkiniemi"
@@ -57,10 +57,7 @@
     "name:fin_x_preferred":[
         "Munkkiniemi"
     ],
-    "name:fre_x_preferred":[
-        "Munkkiniemi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Munkkiniemi"
     ],
     "name:nno_x_preferred":[
@@ -74,6 +71,9 @@
     ],
     "name:swe_x_preferred":[
         "Munksn\u00e4s"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u723e\u8f9b\u57fa"
     ],
     "reversegeo:latitude":60.193247,
     "reversegeo:longitude":24.861413,
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":890537235,
-    "wof:lastmodified":1529714721,
+    "wof:lastmodified":1561830296,
     "wof:name":"Munkkiniemi",
     "wof:parent_id":890536889,
     "wof:placetype":"macrohood",

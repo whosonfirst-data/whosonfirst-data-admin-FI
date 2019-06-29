@@ -23,7 +23,7 @@
     "name:ceb_x_preferred":[
         "Vehmersalmi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vehmersalmi"
     ],
     "name:eng_x_preferred":[
@@ -33,9 +33,6 @@
         "Vehmersalmi"
     ],
     "name:fin_x_preferred":[
-        "Vehmersalmi"
-    ],
-    "name:ger_x_preferred":[
         "Vehmersalmi"
     ],
     "name:heb_x_preferred":[
@@ -51,9 +48,6 @@
         "Vehmersalmi"
     ],
     "name:ron_x_preferred":[
-        "Vehmersalmi"
-    ],
-    "name:rum_x_preferred":[
         "Vehmersalmi"
     ],
     "name:rus_x_preferred":[
@@ -114,7 +108,7 @@
         }
     ],
     "wof:id":101847017,
-    "wof:lastmodified":1529708942,
+    "wof:lastmodified":1561830283,
     "wof:name":"Vehmersalmi",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

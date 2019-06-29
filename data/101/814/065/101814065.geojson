@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000427,
-    "geom:area_square_m":2495291.127672,
+    "geom:area_square_m":2495291.127676,
     "geom:bbox":"28.346782022,61.7783787445,28.3903486612,61.7979983115",
     "geom:latitude":61.788224,
     "geom:longitude":28.365895,
@@ -17,19 +17,10 @@
     "mps:longitude":28.365565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Sulkava"
-    ],
     "name:ceb_x_preferred":[
         "Sulkava"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u723e\u5361\u74e6"
-    ],
     "name:deu_x_preferred":[
-        "Sulkava"
-    ],
-    "name:dut_x_preferred":[
         "Sulkava"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "Sulkava"
     ],
     "name:fra_x_preferred":[
-        "Sulkava"
-    ],
-    "name:fre_x_preferred":[
-        "Sulkava"
-    ],
-    "name:ger_x_preferred":[
         "Sulkava"
     ],
     "name:ita_x_preferred":[
@@ -63,9 +48,6 @@
         "Sulkava"
     ],
     "name:ron_x_preferred":[
-        "Sulkava"
-    ],
-    "name:rum_x_preferred":[
         "Sulkava"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +119,7 @@
         }
     ],
     "wof:id":101814065,
-    "wof:lastmodified":1529714452,
+    "wof:lastmodified":1561830285,
     "wof:name":"Sulkava",
     "wof:parent_id":907198787,
     "wof:placetype":"locality",

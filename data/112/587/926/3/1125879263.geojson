@@ -18,7 +18,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Alastaro"
     ],
     "name:eng_x_preferred":[
@@ -30,19 +30,19 @@
     "name:fin_x_preferred":[
         "Alastaro"
     ],
-    "name:fre_x_preferred":[
-        "Alastaro"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Alastaro"
     ],
     "name:ita_x_preferred":[
         "Alastaro"
     ],
+    "name:nld_x_preferred":[
+        "Alastaro"
+    ],
     "name:nob_x_preferred":[
         "Alastaro"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Alastaro"
     ],
     "name:rus_x_preferred":[
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1125879263,
-    "wof:lastmodified":1529706492,
+    "wof:lastmodified":1561830308,
     "wof:name":"Alastaro",
     "wof:parent_id":907198963,
     "wof:placetype":"locality",

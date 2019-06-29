@@ -26,7 +26,7 @@
     "name:fin_x_preferred":[
         "Nalkala"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nalkala"
     ],
     "reversegeo:latitude":61.49438,
@@ -36,14 +36,14 @@
     "tmpgov:id":"101103",
     "tmpgov:name":"Nalkala",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1108728457,
-    "wof:lastmodified":1529711333,
+    "wof:lastmodified":1561830249,
     "wof:name":"Nalkala",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

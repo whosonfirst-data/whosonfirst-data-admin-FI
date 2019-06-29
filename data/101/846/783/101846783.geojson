@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000272,
-    "geom:area_square_m":1630669.370836,
+    "geom:area_square_m":1630669.370834,
     "geom:bbox":"26.461440502,61.0454819929,26.5284608347,61.0575328366",
     "geom:latitude":61.052014,
     "geom:longitude":26.48954,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Jaala"
     ],
-    "name:dut_x_preferred":[
-        "Jaala"
-    ],
     "name:eng_x_preferred":[
         "Jaala"
     ],
@@ -36,12 +33,6 @@
         "Jaala"
     ],
     "name:fra_x_preferred":[
-        "Jaala"
-    ],
-    "name:fre_x_preferred":[
-        "Jaala"
-    ],
-    "name:ger_x_preferred":[
         "Jaala"
     ],
     "name:ita_x_preferred":[
@@ -60,9 +51,6 @@
         "Jaala"
     ],
     "name:ron_x_preferred":[
-        "Jaala"
-    ],
-    "name:rum_x_preferred":[
         "Jaala"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +120,7 @@
         }
     ],
     "wof:id":101846783,
-    "wof:lastmodified":1529707610,
+    "wof:lastmodified":1561830275,
     "wof:name":"Jaala",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

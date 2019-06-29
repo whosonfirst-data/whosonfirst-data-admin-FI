@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00647,
-    "geom:area_square_m":38547453.317967,
+    "geom:area_square_m":38547453.317965,
     "geom:bbox":"28.7100918193,61.1322039263,28.8888710224,61.2564112485",
     "geom:latitude":61.193901,
     "geom:longitude":28.796688,
@@ -17,14 +17,8 @@
     "mps:longitude":28.759469,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Imatra"
-    ],
     "name:ara_x_preferred":[
         "\u0625\u064a\u0645\u0627\u062a\u0631\u0627"
-    ],
-    "name:baq_x_preferred":[
-        "Imatra"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u043c\u0430\u0442\u0440\u0430"
@@ -35,19 +29,13 @@
     "name:ceb_x_preferred":[
         "Imatra"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u99ac\u7279\u62c9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Imatra"
     ],
     "name:dan_x_preferred":[
         "Imatra"
     ],
     "name:deu_x_preferred":[
-        "Imatra"
-    ],
-    "name:dut_x_preferred":[
         "Imatra"
     ],
     "name:eng_x_preferred":[
@@ -62,16 +50,13 @@
     "name:eus_x_preferred":[
         "Imatra"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0645\u0627\u062a\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Imatra"
     ],
     "name:fra_x_preferred":[
-        "Imatra"
-    ],
-    "name:fre_x_preferred":[
-        "Imatra"
-    ],
-    "name:ger_x_preferred":[
         "Imatra"
     ],
     "name:hbs_x_preferred":[
@@ -116,9 +101,6 @@
     "name:nor_x_preferred":[
         "Imatra"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0645\u0627\u062a\u0631\u0627"
-    ],
     "name:pol_x_preferred":[
         "Imatra"
     ],
@@ -126,9 +108,6 @@
         "Imatra"
     ],
     "name:ron_x_preferred":[
-        "Imatra"
-    ],
-    "name:rum_x_preferred":[
         "Imatra"
     ],
     "name:rus_x_preferred":[
@@ -224,7 +203,7 @@
         }
     ],
     "wof:id":101814019,
-    "wof:lastmodified":1529707141,
+    "wof:lastmodified":1561830289,
     "wof:name":"Imatra",
     "wof:parent_id":907198977,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000447,
-    "geom:area_square_m":2444655.222267,
+    "geom:area_square_m":2444655.222265,
     "geom:bbox":"24.2312373835,63.7604140702,24.2858732009,63.7865790008",
     "geom:latitude":63.772192,
     "geom:longitude":24.254973,
@@ -17,19 +17,10 @@
     "mps:longitude":24.248557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Toholampi"
-    ],
     "name:ceb_x_preferred":[
         "Toholampi"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u970d\u862d\u76ae"
-    ],
     "name:deu_x_preferred":[
-        "Toholampi"
-    ],
-    "name:dut_x_preferred":[
         "Toholampi"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Toholampi"
     ],
     "name:fra_x_preferred":[
-        "Toholampi"
-    ],
-    "name:fre_x_preferred":[
-        "Toholampi"
-    ],
-    "name:ger_x_preferred":[
         "Toholampi"
     ],
     "name:ita_x_preferred":[
@@ -66,9 +51,6 @@
         "Toholampi"
     ],
     "name:ron_x_preferred":[
-        "Toholampi"
-    ],
-    "name:rum_x_preferred":[
         "Toholampi"
     ],
     "name:rus_x_preferred":[
@@ -134,7 +116,7 @@
         }
     ],
     "wof:id":101814289,
-    "wof:lastmodified":1529706409,
+    "wof:lastmodified":1561830285,
     "wof:name":"Toholampi",
     "wof:parent_id":907199309,
     "wof:placetype":"locality",

@@ -20,7 +20,7 @@
     "name:ceb_x_preferred":[
         "Sumiainen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sumiainen"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +36,6 @@
         "Sumiainen"
     ],
     "name:fra_x_preferred":[
-        "Sumiainen"
-    ],
-    "name:fre_x_preferred":[
-        "Sumiainen"
-    ],
-    "name:ger_x_preferred":[
         "Sumiainen"
     ],
     "name:ita_x_preferred":[
@@ -60,9 +54,6 @@
         "Sumiainen"
     ],
     "name:ron_x_preferred":[
-        "Sumiainen"
-    ],
-    "name:rum_x_preferred":[
         "Sumiainen"
     ],
     "name:rus_x_preferred":[
@@ -129,7 +120,7 @@
         }
     ],
     "wof:id":101814175,
-    "wof:lastmodified":1529706345,
+    "wof:lastmodified":1561830287,
     "wof:name":"Sumiainen",
     "wof:parent_id":907199205,
     "wof:placetype":"locality",

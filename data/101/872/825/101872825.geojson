@@ -19,13 +19,13 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0633\u0643\u0627\u0648"
     ],
-    "name:dut_x_preferred":[
-        "Koskue"
-    ],
     "name:eng_x_preferred":[
         "Koskue"
     ],
     "name:fin_x_preferred":[
+        "Koskue"
+    ],
+    "name:nld_x_preferred":[
         "Koskue"
     ],
     "qs:a0":"Suomi#Finland",
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":101872825,
-    "wof:lastmodified":1544751344,
+    "wof:lastmodified":1561830268,
     "wof:name":"Koskue",
     "wof:parent_id":907199007,
     "wof:placetype":"locality",

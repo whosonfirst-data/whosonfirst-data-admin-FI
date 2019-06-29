@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002805,
-    "geom:area_square_m":16843595.084508,
+    "geom:area_square_m":16843595.084501,
     "geom:bbox":"25.7862189043,60.923136129,26.0498631005,60.9651252734",
     "geom:latitude":60.943931,
     "geom:longitude":25.911921,
@@ -17,16 +17,10 @@
     "mps:longitude":25.94662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Nastola"
-    ],
     "name:cat_x_preferred":[
         "Nastola"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u65af\u6258\u62c9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nastola"
     ],
     "name:eng_x_preferred":[
@@ -38,10 +32,7 @@
     "name:fin_x_preferred":[
         "Nastola"
     ],
-    "name:fre_x_preferred":[
-        "Nastola"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nastola"
     ],
     "name:heb_x_preferred":[
@@ -56,13 +47,16 @@
     "name:nau_x_preferred":[
         "Nastola"
     ],
+    "name:nld_x_preferred":[
+        "Nastola"
+    ],
     "name:nob_x_preferred":[
         "Nastola"
     ],
     "name:pol_x_preferred":[
         "Nastola"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nastola"
     ],
     "name:rus_x_preferred":[
@@ -75,6 +69,9 @@
         "Nastola"
     ],
     "name:spa_x_preferred":[
+        "Nastola"
+    ],
+    "name:sqi_x_preferred":[
         "Nastola"
     ],
     "name:srp_x_preferred":[
@@ -91,6 +88,9 @@
     ],
     "name:zea_x_preferred":[
         "Nastola"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u65af\u6258\u62c9"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*P\u00e4ij\u00e4t-H\u00e4me#P\u00e4ij\u00e4nne-Tavastland",
@@ -144,7 +144,7 @@
         }
     ],
     "wof:id":101815451,
-    "wof:lastmodified":1529710020,
+    "wof:lastmodified":1561830281,
     "wof:name":"Nastola",
     "wof:parent_id":907198647,
     "wof:placetype":"locality",

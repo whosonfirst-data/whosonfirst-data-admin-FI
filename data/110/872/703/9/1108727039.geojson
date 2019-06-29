@@ -25,16 +25,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Karhusaari"
-    ],
     "name:eng_x_preferred":[
         "Karhusaari"
     ],
     "name:fin_x_preferred":[
         "Karhusaari"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Karhusaari"
+    ],
+    "name:nld_x_preferred":[
         "Karhusaari"
     ],
     "name:swe_x_preferred":[
@@ -45,7 +45,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727375,
         907199715,
@@ -55,6 +54,7 @@
         136253047,
         890536893,
         1159321633,
+        85683067,
         101748417
     ],
     "wof:breaches":[],
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1108727039,
-    "wof:lastmodified":1529714727,
+    "wof:lastmodified":1561830252,
     "wof:name":"Karhusaari",
     "wof:parent_id":1108727375,
     "wof:placetype":"neighbourhood",

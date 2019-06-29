@@ -19,16 +19,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Korsholm"
-    ],
-    "name:chi_x_preferred":[
-        "\u79d1\u4ec0\u970d\u723e\u59c6"
-    ],
     "name:deu_x_preferred":[
-        "Korsholm"
-    ],
-    "name:dut_x_preferred":[
         "Korsholm"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +32,6 @@
         "Mustasaari"
     ],
     "name:fra_x_preferred":[
-        "Korsholm"
-    ],
-    "name:fre_x_preferred":[
-        "Korsholm"
-    ],
-    "name:ger_x_preferred":[
         "Korsholm"
     ],
     "name:ita_x_preferred":[
@@ -73,14 +58,17 @@
     "name:ron_x_preferred":[
         "Korsholm"
     ],
-    "name:rum_x_preferred":[
-        "Korsholm"
-    ],
     "name:sme_x_preferred":[
         "Mustasaari"
     ],
+    "name:sqi_x_preferred":[
+        "Korsholm"
+    ],
     "name:swe_x_preferred":[
         "Korsholm"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u4ec0\u970d\u723e\u59c6"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -139,7 +127,7 @@
         }
     ],
     "wof:id":1126034507,
-    "wof:lastmodified":1529709685,
+    "wof:lastmodified":1561830305,
     "wof:name":"Korsholm",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

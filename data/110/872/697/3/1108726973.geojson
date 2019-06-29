@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000034,
-    "geom:area_square_m":207723.948008,
+    "geom:area_square_m":207723.948009,
     "geom:bbox":"24.9333412411,60.1532133061,24.9437070152,60.1579724218",
     "geom:latitude":60.155594,
     "geom:longitude":24.938911,
@@ -28,7 +28,7 @@
     "name:cat_x_preferred":[
         "Eira"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Eira"
     ],
     "name:eng_x_preferred":[
@@ -40,16 +40,16 @@
     "name:fin_x_preferred":[
         "Eira"
     ],
-    "name:fre_x_preferred":[
-        "Eira"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Eira"
     ],
     "name:glg_x_preferred":[
         "Eira"
     ],
     "name:hun_x_preferred":[
+        "Eira"
+    ],
+    "name:nld_x_preferred":[
         "Eira"
     ],
     "name:pol_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1108726973,
-    "wof:lastmodified":1534379299,
+    "wof:lastmodified":1561830254,
     "wof:name":"Eira",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

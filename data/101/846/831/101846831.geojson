@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":855091.639213,
+    "geom:area_square_m":855091.639212,
     "geom:bbox":"21.6789089512,61.0195256894,21.6984000286,61.0351789805",
     "geom:latitude":61.028985,
     "geom:longitude":21.687481,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Kodisjoki"
     ],
-    "name:dut_x_preferred":[
-        "Kodisjoki"
-    ],
     "name:eng_x_preferred":[
         "Kodisjoki"
     ],
@@ -33,12 +30,6 @@
         "Kodisjoki"
     ],
     "name:fra_x_preferred":[
-        "Kodisjoki"
-    ],
-    "name:fre_x_preferred":[
-        "Kodisjoki"
-    ],
-    "name:ger_x_preferred":[
         "Kodisjoki"
     ],
     "name:nld_x_preferred":[
@@ -51,9 +42,6 @@
         "Kodisjoki"
     ],
     "name:ron_x_preferred":[
-        "Kodisjoki"
-    ],
-    "name:rum_x_preferred":[
         "Kodisjoki"
     ],
     "name:sme_x_preferred":[
@@ -117,7 +105,7 @@
         }
     ],
     "wof:id":101846831,
-    "wof:lastmodified":1529712495,
+    "wof:lastmodified":1561830277,
     "wof:name":"Kodisjoki",
     "wof:parent_id":907198665,
     "wof:placetype":"locality",

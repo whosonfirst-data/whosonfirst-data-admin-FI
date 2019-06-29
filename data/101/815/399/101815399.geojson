@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000672,
-    "geom:area_square_m":4036912.116585,
+    "geom:area_square_m":4036912.116584,
     "geom:bbox":"23.3480981768,60.9038842651,23.3921271007,60.9455100105",
     "geom:latitude":60.923342,
     "geom:longitude":23.368412,
@@ -17,22 +17,10 @@
     "mps:longitude":23.368078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Humppila"
-    ],
-    "name:baq_x_preferred":[
-        "Humppila"
-    ],
     "name:ceb_x_preferred":[
         "Humppila"
     ],
-    "name:chi_x_preferred":[
-        "\u6d2a\u76ae\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "Humppila"
-    ],
-    "name:dut_x_preferred":[
         "Humppila"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +36,6 @@
         "Humppila"
     ],
     "name:fra_x_preferred":[
-        "Humppila"
-    ],
-    "name:fre_x_preferred":[
-        "Humppila"
-    ],
-    "name:ger_x_preferred":[
         "Humppila"
     ],
     "name:hun_x_preferred":[
@@ -75,9 +57,6 @@
         "Humppila"
     ],
     "name:ron_x_preferred":[
-        "Humppila"
-    ],
-    "name:rum_x_preferred":[
         "Humppila"
     ],
     "name:rus_x_preferred":[
@@ -146,7 +125,7 @@
         }
     ],
     "wof:id":101815399,
-    "wof:lastmodified":1529711985,
+    "wof:lastmodified":1561830278,
     "wof:name":"Humppila",
     "wof:parent_id":907198829,
     "wof:placetype":"locality",

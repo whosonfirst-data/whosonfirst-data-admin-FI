@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039679,
-    "geom:area_square_m":206421545.645027,
+    "geom:area_square_m":206421545.645034,
     "geom:bbox":"24.9509608235,65.0543563414,25.4325159552,65.1772216073",
     "geom:latitude":65.120312,
     "geom:longitude":25.207321,
@@ -20,13 +20,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Kello"
+    ],
     "name:eng_x_preferred":[
         "Kello"
     ],
     "name:fin_x_preferred":[
-        "Kello"
-    ],
-    "name:ger_x_preferred":[
         "Kello"
     ],
     "name:swe_x_preferred":[
@@ -40,14 +40,14 @@
     "reversegeo:longitude":25.34112,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":1108728867,
-    "wof:lastmodified":1529709449,
+    "wof:lastmodified":1561830249,
     "wof:name":"Kello",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

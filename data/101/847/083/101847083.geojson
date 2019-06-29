@@ -26,17 +26,14 @@
     "name:ces_x_preferred":[
         "Pulkkila"
     ],
-    "name:cze_x_preferred":[
-        "Pulkkila"
-    ],
     "name:deu_x_preferred":[
-        "Pulkkila"
-    ],
-    "name:dut_x_preferred":[
         "Pulkkila"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03cd\u03bb\u03ba\u03b9\u03bb\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03c5\u03bb\u03ba\u03af\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Pulkkila"
@@ -49,15 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Pulkkila"
-    ],
-    "name:fre_x_preferred":[
-        "Pulkkila"
-    ],
-    "name:ger_x_preferred":[
-        "Pulkkila"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03bb\u03ba\u03af\u03bb\u03b1"
     ],
     "name:ita_x_preferred":[
         "Pulkkila"
@@ -75,9 +63,6 @@
         "Pukkila"
     ],
     "name:ron_x_preferred":[
-        "Pulkkila"
-    ],
-    "name:rum_x_preferred":[
         "Pulkkila"
     ],
     "name:rus_x_preferred":[
@@ -144,7 +129,7 @@
         }
     ],
     "wof:id":101847083,
-    "wof:lastmodified":1529709421,
+    "wof:lastmodified":1561830282,
     "wof:name":"Pulkkila",
     "wof:parent_id":907199755,
     "wof:placetype":"locality",

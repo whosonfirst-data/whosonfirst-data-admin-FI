@@ -17,22 +17,13 @@
     "mps:longitude":21.821491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Siikainen"
-    ],
     "name:ceb_x_preferred":[
         "Siikainen"
-    ],
-    "name:chi_x_preferred":[
-        "\u932b\u51f1\u5be7"
     ],
     "name:dan_x_preferred":[
         "Siikais"
     ],
     "name:deu_x_preferred":[
-        "Siikainen"
-    ],
-    "name:dut_x_preferred":[
         "Siikainen"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Siikainen"
     ],
     "name:fra_x_preferred":[
-        "Siikainen"
-    ],
-    "name:fre_x_preferred":[
-        "Siikainen"
-    ],
-    "name:ger_x_preferred":[
         "Siikainen"
     ],
     "name:isl_x_preferred":[
@@ -75,9 +60,6 @@
         "Siikainen"
     ],
     "name:ron_x_preferred":[
-        "Siikainen"
-    ],
-    "name:rum_x_preferred":[
         "Siikainen"
     ],
     "name:rus_x_preferred":[
@@ -152,7 +134,7 @@
         }
     ],
     "wof:id":101813953,
-    "wof:lastmodified":1529712496,
+    "wof:lastmodified":1561830290,
     "wof:name":"Siikainen",
     "wof:parent_id":907198809,
     "wof:placetype":"locality",

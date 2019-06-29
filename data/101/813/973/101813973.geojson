@@ -23,13 +23,7 @@
     "name:ceb_x_preferred":[
         "Kiikoinen"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u79d1\u4f0a\u5be7"
-    ],
     "name:deu_x_preferred":[
-        "Kiikoinen"
-    ],
-    "name:dut_x_preferred":[
         "Kiikoinen"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +36,6 @@
         "Kiikoinen"
     ],
     "name:fra_x_preferred":[
-        "Kiikoinen"
-    ],
-    "name:fre_x_preferred":[
-        "Kiikoinen"
-    ],
-    "name:ger_x_preferred":[
         "Kiikoinen"
     ],
     "name:ita_x_preferred":[
@@ -66,9 +54,6 @@
         "Kiikoinen"
     ],
     "name:ron_x_preferred":[
-        "Kiikoinen"
-    ],
-    "name:rum_x_preferred":[
         "Kiikoinen"
     ],
     "name:rus_x_preferred":[
@@ -138,7 +123,7 @@
         }
     ],
     "wof:id":101813973,
-    "wof:lastmodified":1529711297,
+    "wof:lastmodified":1561830291,
     "wof:name":"Kiikoinen",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001222,
-    "geom:area_square_m":7428053.646397,
+    "geom:area_square_m":7428053.646399,
     "geom:bbox":"22.0621126528,60.5405705201,22.1536786063,60.5801792309",
     "geom:latitude":60.558842,
     "geom:longitude":22.111585,
@@ -17,22 +17,13 @@
     "mps:longitude":22.111642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Masku"
-    ],
     "name:ceb_x_preferred":[
         "Masku"
-    ],
-    "name:chi_x_preferred":[
-        "\u99ac\u65af\u5eab"
     ],
     "name:dan_x_preferred":[
         "Masku"
     ],
     "name:deu_x_preferred":[
-        "Masku"
-    ],
-    "name:dut_x_preferred":[
         "Masku"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Masku"
     ],
     "name:fra_x_preferred":[
-        "Masku"
-    ],
-    "name:fre_x_preferred":[
-        "Masku"
-    ],
-    "name:ger_x_preferred":[
         "Masku"
     ],
     "name:heb_x_preferred":[
@@ -78,9 +63,6 @@
         "Masku"
     ],
     "name:ron_x_preferred":[
-        "Masku"
-    ],
-    "name:rum_x_preferred":[
         "Masku"
     ],
     "name:rus_x_preferred":[
@@ -156,7 +138,7 @@
         }
     ],
     "wof:id":101815357,
-    "wof:lastmodified":1529706469,
+    "wof:lastmodified":1561830280,
     "wof:name":"Masku",
     "wof:parent_id":907198919,
     "wof:placetype":"locality",

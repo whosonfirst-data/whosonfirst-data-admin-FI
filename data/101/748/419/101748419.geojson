@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03903,
-    "geom:area_square_m":239020237.275773,
+    "geom:area_square_m":239020237.275772,
     "geom:bbox":"24.746184534,60.2372155411,25.1930752393,60.4012268798",
     "geom:latitude":60.313278,
     "geom:longitude":24.950629,
@@ -17,19 +17,10 @@
     "mps:longitude":25.012196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Vantaa"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u0627\u0646\u062a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u0561\u0576\u057f\u0561\u0561"
-    ],
     "name:aze_x_preferred":[
-        "Vantaa"
-    ],
-    "name:baq_x_preferred":[
         "Vantaa"
     ],
     "name:bel_x_preferred":[
@@ -50,22 +41,19 @@
     "name:cat_x_preferred":[
         "Vantaa"
     ],
+    "name:ces_x_preferred":[
+        "Vantaa"
+    ],
     "name:che_x_preferred":[
         "\u0412\u0430\u043d\u0442\u0430\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u4e07\u5854"
-    ],
     "name:cor_x_preferred":[
-        "Vantaa"
-    ],
-    "name:cze_x_preferred":[
         "Vantaa"
     ],
     "name:dan_x_preferred":[
         "Vantaa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vantaa"
     ],
     "name:ell_x_preferred":[
@@ -80,19 +68,16 @@
     "name:est_x_preferred":[
         "Vantaa"
     ],
+    "name:eus_x_preferred":[
+        "Vantaa"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0627\u0646\u062a\u0627"
     ],
     "name:fin_x_preferred":[
         "Vantaa"
     ],
-    "name:fre_x_preferred":[
-        "Vantaa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10dc\u10e2\u10d0\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vantaa"
     ],
     "name:glg_x_preferred":[
@@ -100,9 +85,6 @@
     ],
     "name:glv_x_preferred":[
         "Vantaa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03ac\u03bd\u03c4\u03b1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abe\u0aa8\u0acd\u0a9f\u0abe"
@@ -116,13 +98,16 @@
     "name:hun_x_preferred":[
         "Vantaa"
     ],
-    "name:ice_x_preferred":[
-        "Vantaa"
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0576\u057f\u0561\u0561"
     ],
     "name:ile_x_preferred":[
         "Vantaa"
     ],
     "name:ind_x_preferred":[
+        "Vantaa"
+    ],
+    "name:isl_x_preferred":[
         "Vantaa"
     ],
     "name:ita_x_preferred":[
@@ -155,22 +140,25 @@
     "name:lit_x_preferred":[
         "Vanta"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0430\u043d\u0442\u0430"
-    ],
-    "name:mao_x_preferred":[
-        "Vantaa"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u0902\u091f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u043d\u0442\u0430"
+    ],
+    "name:mri_x_preferred":[
         "Vantaa"
     ],
     "name:mrj_x_preferred":[
         "\u0412\u0430\u043d\u0442\u0430\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Vantaa"
+    ],
     "name:nau_x_preferred":[
+        "Vantaa"
+    ],
+    "name:nld_x_preferred":[
         "Vantaa"
     ],
     "name:nno_x_preferred":[
@@ -185,9 +173,6 @@
     "name:oss_x_preferred":[
         "\u0412\u0430\u043d\u0442\u0430\u0430"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u0646\u062a\u0627"
-    ],
     "name:pol_x_preferred":[
         "Vantaa"
     ],
@@ -197,7 +182,7 @@
     "name:que_x_preferred":[
         "Vantaa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Vantaa"
     ],
     "name:rus_x_preferred":[
@@ -209,7 +194,7 @@
     "name:sin_x_preferred":[
         "\u0dc0\u0db1\u0dca\u0da7\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vantaa"
     ],
     "name:slv_x_preferred":[
@@ -219,6 +204,9 @@
         "Vanda"
     ],
     "name:spa_x_preferred":[
+        "Vantaa"
+    ],
+    "name:sqi_x_preferred":[
         "Vantaa"
     ],
     "name:srp_x_preferred":[
@@ -318,7 +306,7 @@
         }
     ],
     "wof:id":101748419,
-    "wof:lastmodified":1529714676,
+    "wof:lastmodified":1561830270,
     "wof:name":"Vantaa",
     "wof:parent_id":907199651,
     "wof:placetype":"locality",

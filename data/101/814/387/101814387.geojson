@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000304,
-    "geom:area_square_m":1769533.917866,
+    "geom:area_square_m":1769533.917864,
     "geom:bbox":"29.8031674742,61.8851597954,29.8476313257,61.898937983",
     "geom:latitude":61.891368,
     "geom:longitude":29.828604,
@@ -20,13 +20,7 @@
     "name:ceb_x_preferred":[
         "Kes\u00e4lahti"
     ],
-    "name:chi_x_preferred":[
-        "\u51f1\u8cfd\u62c9\u8d6b\u8482"
-    ],
     "name:deu_x_preferred":[
-        "Kes\u00e4lahti"
-    ],
-    "name:dut_x_preferred":[
         "Kes\u00e4lahti"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +38,6 @@
     "name:fra_x_preferred":[
         "Kes\u00e4lahti"
     ],
-    "name:fre_x_preferred":[
-        "Kes\u00e4lahti"
-    ],
-    "name:ger_x_preferred":[
-        "Kes\u00e4lahti"
-    ],
     "name:ita_x_preferred":[
         "Kes\u00e4lahti"
     ],
@@ -65,7 +53,7 @@
     "name:pol_x_preferred":[
         "Kes\u00e4lahti"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kes\u00e4lahti"
     ],
     "name:rus_x_preferred":[
@@ -79,6 +67,9 @@
     ],
     "name:swe_x_preferred":[
         "Kes\u00e4lax"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u8cfd\u62c9\u8d6b\u8482"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjois-Karjala#Norra Karelen",
@@ -132,7 +123,7 @@
         }
     ],
     "wof:id":101814387,
-    "wof:lastmodified":1529706709,
+    "wof:lastmodified":1561830290,
     "wof:name":"Kes\u00e4lahti",
     "wof:parent_id":907198727,
     "wof:placetype":"locality",

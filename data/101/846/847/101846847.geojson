@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":2087819.933735,
+    "geom:area_square_m":2087819.933737,
     "geom:bbox":"22.9841961969,61.5030685064,23.0541794934,61.5195546724",
     "geom:latitude":61.510776,
     "geom:longitude":23.017357,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Mouhij\u00e4rvi"
     ],
-    "name:dut_x_preferred":[
-        "Mouhij\u00e4rvi"
-    ],
     "name:eng_x_preferred":[
         "Mouhij\u00e4rvi"
     ],
@@ -36,12 +33,6 @@
         "Mouhij\u00e4rvi"
     ],
     "name:fra_x_preferred":[
-        "Mouhij\u00e4rvi"
-    ],
-    "name:fre_x_preferred":[
-        "Mouhij\u00e4rvi"
-    ],
-    "name:ger_x_preferred":[
         "Mouhij\u00e4rvi"
     ],
     "name:ita_x_preferred":[
@@ -57,9 +48,6 @@
         "Mouhij\u00e4rvi"
     ],
     "name:ron_x_preferred":[
-        "Mouhij\u00e4rvi"
-    ],
-    "name:rum_x_preferred":[
         "Mouhij\u00e4rvi"
     ],
     "name:sme_x_preferred":[
@@ -124,7 +112,7 @@
         }
     ],
     "wof:id":101846847,
-    "wof:lastmodified":1529711295,
+    "wof:lastmodified":1561830276,
     "wof:name":"Mouhij\u00e4rvi",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

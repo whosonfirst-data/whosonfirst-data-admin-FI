@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000384,
-    "geom:area_square_m":2126831.090818,
+    "geom:area_square_m":2126831.090821,
     "geom:bbox":"27.7284538154,63.3494820661,27.7846170052,63.3699232761",
     "geom:latitude":63.359659,
     "geom:longitude":27.752233,
@@ -20,10 +20,10 @@
     "name:ceb_x_preferred":[
         "Varpaisj\u00e4rvi"
     ],
-    "name:deu_x_preferred":[
+    "name:cym_x_preferred":[
         "Varpaisj\u00e4rvi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Varpaisj\u00e4rvi"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +36,6 @@
         "Varpaisj\u00e4rvi"
     ],
     "name:fra_x_preferred":[
-        "Varpaisj\u00e4rvi"
-    ],
-    "name:fre_x_preferred":[
-        "Varpaisj\u00e4rvi"
-    ],
-    "name:ger_x_preferred":[
         "Varpaisj\u00e4rvi"
     ],
     "name:ita_x_preferred":[
@@ -59,9 +53,6 @@
     "name:ron_x_preferred":[
         "Varpaisj\u00e4rvi"
     ],
-    "name:rum_x_preferred":[
-        "Varpaisj\u00e4rvi"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0440\u043f\u0430\u0439\u0441\u044a\u044f\u0440\u0432\u0438"
     ],
@@ -69,9 +60,6 @@
         "Varpaisj\u00e4rvi"
     ],
     "name:swe_x_preferred":[
-        "Varpaisj\u00e4rvi"
-    ],
-    "name:wel_x_preferred":[
         "Varpaisj\u00e4rvi"
     ],
     "qs:a0":"Suomi#Finland",
@@ -126,7 +114,7 @@
         }
     ],
     "wof:id":101814319,
-    "wof:lastmodified":1529708945,
+    "wof:lastmodified":1561830290,
     "wof:name":"Varpaisj\u00e4rvi",
     "wof:parent_id":907199373,
     "wof:placetype":"locality",

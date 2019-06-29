@@ -25,7 +25,7 @@
     "name:fin_x_preferred":[
         "\u00d6stersundom"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00d6stersundom"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125901643,
-    "wof:lastmodified":1529714684,
+    "wof:lastmodified":1561830309,
     "wof:name":"It\u00e4salmi",
     "wof:parent_id":907199715,
     "wof:placetype":"locality",
