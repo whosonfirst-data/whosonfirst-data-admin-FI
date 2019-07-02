@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001508,
-    "geom:area_square_m":8488111.392911,
+    "geom:area_square_m":8488111.392917,
     "geom:bbox":"21.5399404953,62.9040473792,21.6658992208,62.9571363783",
     "geom:latitude":62.92949,
     "geom:longitude":21.602572,
@@ -17,16 +17,10 @@
     "mps:longitude":21.584974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Malax"
-    ],
     "name:aze_x_preferred":[
         "Malax"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u62c9\u514b\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Malax"
     ],
     "name:eng_x_preferred":[
@@ -35,13 +29,13 @@
     "name:fin_x_preferred":[
         "Maalahti"
     ],
-    "name:fre_x_preferred":[
-        "Malax"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Malax"
     ],
     "name:ita_x_preferred":[
+        "Malax"
+    ],
+    "name:nld_x_preferred":[
         "Malax"
     ],
     "name:nob_x_preferred":[
@@ -53,17 +47,23 @@
     "name:pol_x_preferred":[
         "Maalahti"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Malax"
     ],
     "name:sme_x_preferred":[
         "Maalahti"
+    ],
+    "name:sqi_x_preferred":[
+        "Malax"
     ],
     "name:swe_x_preferred":[
         "Malax"
     ],
     "name:unk_x_variant":[
         "Maahlahti"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u62c9\u514b\u65af"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjanmaa#\u00d6sterbotten",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":101846939,
-    "wof:lastmodified":1529709680,
+    "wof:lastmodified":1561830272,
     "wof:name":"Maalahti",
     "wof:parent_id":907199043,
     "wof:placetype":"locality",

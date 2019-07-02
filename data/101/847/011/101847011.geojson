@@ -17,16 +17,16 @@
     "mps:longitude":28.477321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "S\u00e4yneinen"
+    ],
     "name:eng_x_preferred":[
         "S\u00e4yneinen"
     ],
     "name:fin_x_preferred":[
         "S\u00e4yneinen"
     ],
-    "name:fre_x_preferred":[
-        "S\u00e4yneinen"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "S\u00e4yneinen"
     ],
     "name:nob_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101847011,
-    "wof:lastmodified":1529708941,
+    "wof:lastmodified":1561830283,
     "wof:name":"S\u00e4yneinen",
     "wof:parent_id":907199339,
     "wof:placetype":"locality",

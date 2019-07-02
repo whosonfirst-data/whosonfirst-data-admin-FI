@@ -11,7 +11,7 @@
     "fsgov:nimi":"HERTTONIEMI",
     "fsgov:nimi_se":"HERTON\u00c4S",
     "geom:area":0.001389,
-    "geom:area_square_m":8532995.955281,
+    "geom:area_square_m":8532995.955282,
     "geom:bbox":"25.0068041549,60.1830772353,25.0764833253,60.219342954",
     "geom:latitude":60.198921,
     "geom:longitude":25.041471,
@@ -39,7 +39,7 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Herttoniemi"
     ],
     "name:eng_x_preferred":[
@@ -48,16 +48,16 @@
     "name:fin_x_preferred":[
         "Herttoniemi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Herttoniemi"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Herttoniemi"
     ],
     "name:nob_x_preferred":[
         "Herton\u00e4s"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Herttoniemi"
     ],
     "name:spa_x_preferred":[
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":890537227,
-    "wof:lastmodified":1529714721,
+    "wof:lastmodified":1561830296,
     "wof:name":"Herttoniemi",
     "wof:parent_id":890536883,
     "wof:placetype":"macrohood",

@@ -21,14 +21,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
-    "name:alb_x_preferred":[
-        "Tavastia Proper"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0627 \u0647\u0627\u0645\u064a"
-    ],
-    "name:baq_x_preferred":[
-        "Jatorrizko Tavastia"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b8\u09cd\u09a4\u09bf\u09af\u09bc\u09be  \u09aa\u09cd\u09b0\u09aa\u09be\u09b0"
@@ -42,20 +36,14 @@
     "name:ces_x_preferred":[
         "Kanta-H\u00e4me"
     ],
-    "name:chi_x_preferred":[
-        "\u574e\u5854\u6d77\u6885\u5340"
-    ],
-    "name:cze_x_preferred":[
-        "Kanta-H\u00e4me"
-    ],
     "name:dan_x_preferred":[
         "Egentliga Tavastland"
     ],
     "name:deu_x_preferred":[
         "Kanta-H\u00e4me"
     ],
-    "name:dut_x_preferred":[
-        "Kanta-H\u00e4me"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03b2\u03ac\u03c3\u03c4\u03b9\u03b1 \u03a0\u03c1\u03cc\u03c0\u03b5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Tavastia Proper"
@@ -87,23 +75,11 @@
     "name:fra_x_preferred":[
         "Kanta-H\u00e4me"
     ],
-    "name:fre_x_preferred":[
-        "Kanta-H\u00e4me"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10dc\u10e2\u10d0-\u10f0\u10d8\u10d0\u10db\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Kanta-H\u00e4me"
-    ],
     "name:glg_x_preferred":[
         "Tavastia Propia"
     ],
     "name:glv_x_preferred":[
         "Kanta-H\u00e4me"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03b2\u03ac\u03c3\u03c4\u03b9\u03b1 \u03a0\u03c1\u03cc\u03c0\u03b5\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ab5\u0abe\u0ab8\u0acd\u0aa4\u0abf\u0aaf\u0abe \u0aaa\u0acd\u0ab0\u0acb\u0aaa\u0ab0"
@@ -144,7 +120,7 @@
     "name:mar_x_preferred":[
         "\u0924\u0935\u0938\u094d\u0924\u094d\u0930\u093f\u092f\u093e \u092a\u094d\u0930\u0949\u092a\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tavastia Proper"
     ],
     "name:nld_x_preferred":[
@@ -162,9 +138,6 @@
     "name:nor_x_variant":[
         "Tavastland"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0648\u0627\u0633\u062a\u06cc\u0627\u06cc \u0627\u0635\u0644\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u062a\u0648\u0627\u0633\u062a\u06cc\u0627 \u062e\u0627\u0635"
     ],
@@ -177,7 +150,7 @@
     "name:ron_x_preferred":[
         "Kanta-H\u00e4me"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Kanta - H\u00e4me"
     ],
     "name:rus_x_preferred":[
@@ -190,9 +163,6 @@
         "\u0da7\u0dc0\u0dc3\u0dca\u0da7\u0dd2\u0dba\u0dcf \u0db4\u0dca\u200d\u0dbb\u0ddc\u0db4\u0dbb\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Kanta-H\u00e4me"
-    ],
-    "name:slo_x_preferred":[
         "Kanta-H\u00e4me"
     ],
     "name:sme_x_preferred":[
@@ -352,7 +322,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1553550822,
+    "wof:lastmodified":1561830219,
     "wof:name":"Tavastia Proper",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

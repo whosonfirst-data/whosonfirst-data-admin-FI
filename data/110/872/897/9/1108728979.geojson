@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000199,
-    "geom:area_square_m":1038514.987122,
+    "geom:area_square_m":1038514.987123,
     "geom:bbox":"25.50482401,64.9993160778,25.5308733288,65.0119156554",
     "geom:latitude":65.006228,
     "geom:longitude":25.518433,
@@ -20,16 +20,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Kontinkangas"
+    ],
     "name:eng_x_preferred":[
         "Kontinkangas"
     ],
     "name:fin_x_preferred":[
         "Kontinkangas"
     ],
-    "name:fre_x_preferred":[
-        "Kontinkangas"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kontinkangas"
     ],
     "name:swe_x_preferred":[
@@ -43,14 +43,14 @@
     "reversegeo:longitude":25.518432,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1108728979,
-    "wof:lastmodified":1529709460,
+    "wof:lastmodified":1561830255,
     "wof:name":"Kontinkangas",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

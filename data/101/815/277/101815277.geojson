@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003437,
-    "geom:area_square_m":21002149.427001,
+    "geom:area_square_m":21002149.426998,
     "geom:bbox":"25.5722148038,60.353093855,25.7177967796,60.415957963",
     "geom:latitude":60.387385,
     "geom:longitude":25.65575,
@@ -18,17 +18,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
-    "name:alb_x_preferred":[
-        "Porvoo"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0641\u0648"
-    ],
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0580\u057e\u0578\u0578"
-    ],
-    "name:baq_x_preferred":[
-        "Porvoo"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u043e\u0440\u0432\u0430"
@@ -42,22 +33,16 @@
     "name:ces_x_preferred":[
         "Porvoo"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u723e\u6c83"
-    ],
     "name:cor_x_preferred":[
         "Porvoo"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Porvoo"
     ],
     "name:dan_x_preferred":[
         "Porvoo"
     ],
     "name:deu_x_preferred":[
-        "Porvoo"
-    ],
-    "name:dut_x_preferred":[
         "Porvoo"
     ],
     "name:eng_x_preferred":[
@@ -72,19 +57,16 @@
     "name:est_x_preferred":[
         "Porvoo"
     ],
+    "name:eus_x_preferred":[
+        "Porvoo"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "Porvoo"
     ],
     "name:fra_x_preferred":[
-        "Porvoo"
-    ],
-    "name:fre_x_preferred":[
-        "Porvoo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10e0\u10d5\u10dd\u10dd"
-    ],
-    "name:ger_x_preferred":[
         "Porvoo"
     ],
     "name:glg_x_preferred":[
@@ -99,9 +81,6 @@
     "name:hye_x_preferred":[
         "\u054a\u0578\u0580\u057e\u0578\u0578"
     ],
-    "name:ice_x_preferred":[
-        "Porvoo"
-    ],
     "name:ido_x_preferred":[
         "Porvoo"
     ],
@@ -109,6 +88,9 @@
         "Porvoo"
     ],
     "name:ind_x_preferred":[
+        "Porvoo"
+    ],
+    "name:isl_x_preferred":[
         "Porvoo"
     ],
     "name:ita_x_preferred":[
@@ -119,6 +101,9 @@
     ],
     "name:kal_x_preferred":[
         "Porvoo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10e0\u10d5\u10dd\u10dd"
     ],
     "name:koi_x_preferred":[
         "\u041f\u043e\u0440\u0432\u043e"
@@ -147,9 +132,6 @@
     "name:nor_x_preferred":[
         "Borg\u00e5"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0631\u0648\u0648"
-    ],
     "name:pol_x_preferred":[
         "Porvoo"
     ],
@@ -157,9 +139,6 @@
         "Porvoo"
     ],
     "name:ron_x_preferred":[
-        "Porvoo"
-    ],
-    "name:rum_x_preferred":[
         "Porvoo"
     ],
     "name:rus_x_preferred":[
@@ -171,7 +150,7 @@
     "name:sgs_x_preferred":[
         "Porv\u014d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Porvoo"
     ],
     "name:slv_x_preferred":[
@@ -181,6 +160,9 @@
         "Porvoo"
     ],
     "name:spa_x_preferred":[
+        "Porvoo"
+    ],
+    "name:sqi_x_preferred":[
         "Porvoo"
     ],
     "name:srp_x_preferred":[
@@ -205,9 +187,6 @@
         "Porvoo"
     ],
     "name:vie_x_preferred":[
-        "Porvoo"
-    ],
-    "name:wel_x_preferred":[
         "Porvoo"
     ],
     "name:zho_x_preferred":[
@@ -360,7 +339,7 @@
         }
     ],
     "wof:id":101815277,
-    "wof:lastmodified":1534379298,
+    "wof:lastmodified":1561830280,
     "wof:name":"Porvoo",
     "wof:parent_id":907198525,
     "wof:placetype":"locality",

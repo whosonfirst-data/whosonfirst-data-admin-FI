@@ -16,13 +16,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Leiri"
+    ],
     "name:eng_x_preferred":[
         "Leiri"
     ],
     "name:fin_x_preferred":[
-        "Leiri"
-    ],
-    "name:ger_x_preferred":[
         "Leiri"
     ],
     "name:swe_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125871055,
-    "wof:lastmodified":1529707144,
+    "wof:lastmodified":1561830307,
     "wof:name":"Leiri",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000591,
-    "geom:area_square_m":3219743.596181,
+    "geom:area_square_m":3219743.596178,
     "geom:bbox":"23.4174883695,63.8521086424,23.4806071462,63.8744501968",
     "geom:latitude":63.86178,
     "geom:longitude":23.451065,
@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "K\u00e4lvi\u00e4"
     ],
-    "name:dut_x_preferred":[
-        "K\u00e4lvi\u00e4"
-    ],
     "name:eng_x_preferred":[
         "K\u00e4lvi\u00e4"
     ],
@@ -33,12 +30,6 @@
         "K\u00e4lvi\u00e4"
     ],
     "name:fra_x_preferred":[
-        "K\u00e4lvi\u00e4"
-    ],
-    "name:fre_x_preferred":[
-        "K\u00e4lvi\u00e4"
-    ],
-    "name:ger_x_preferred":[
         "K\u00e4lvi\u00e4"
     ],
     "name:ita_x_preferred":[
@@ -54,9 +45,6 @@
         "Kelvi\u00e5"
     ],
     "name:ron_x_preferred":[
-        "K\u00e4lvi\u00e4"
-    ],
-    "name:rum_x_preferred":[
         "K\u00e4lvi\u00e4"
     ],
     "name:sme_x_preferred":[
@@ -120,7 +108,7 @@
         }
     ],
     "wof:id":101846973,
-    "wof:lastmodified":1529706410,
+    "wof:lastmodified":1561830277,
     "wof:name":"K\u00e4lvi\u00e4",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

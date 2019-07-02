@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000202,
-    "geom:area_square_m":1153059.273245,
+    "geom:area_square_m":1153059.273244,
     "geom:bbox":"30.6079155011,62.4749208513,30.6412300623,62.4901028875",
     "geom:latitude":62.482353,
     "geom:longitude":30.623544,
@@ -23,7 +23,7 @@
     "name:ceb_x_preferred":[
         "Tuupovaara"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tuupovaara"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +36,6 @@
         "Tuupovaara"
     ],
     "name:fra_x_preferred":[
-        "Tuupovaara"
-    ],
-    "name:fre_x_preferred":[
-        "Tuupovaara"
-    ],
-    "name:ger_x_preferred":[
         "Tuupovaara"
     ],
     "name:hun_x_preferred":[
@@ -57,9 +51,6 @@
         "Tuupovaara"
     ],
     "name:ron_x_preferred":[
-        "Tuupovaara"
-    ],
-    "name:rum_x_preferred":[
         "Tuupovaara"
     ],
     "name:rus_x_preferred":[
@@ -120,7 +111,7 @@
         }
     ],
     "wof:id":101814353,
-    "wof:lastmodified":1529706707,
+    "wof:lastmodified":1561830283,
     "wof:name":"Tuupovaara",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

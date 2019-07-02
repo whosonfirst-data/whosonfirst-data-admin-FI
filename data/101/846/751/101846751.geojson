@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
-    "geom:area_square_m":1203236.686602,
+    "geom:area_square_m":1203236.686601,
     "geom:bbox":"23.2209215355,60.4460427577,23.2515722389,60.4568338545",
     "geom:latitude":60.451066,
     "geom:longitude":23.238005,
@@ -29,9 +29,6 @@
     "name:deu_x_preferred":[
         "Pertteli"
     ],
-    "name:dut_x_preferred":[
-        "Pertteli"
-    ],
     "name:eng_x_preferred":[
         "Pertteli"
     ],
@@ -39,12 +36,6 @@
         "Pertteli"
     ],
     "name:fra_x_preferred":[
-        "Pertteli"
-    ],
-    "name:fre_x_preferred":[
-        "Pertteli"
-    ],
-    "name:ger_x_preferred":[
         "Pertteli"
     ],
     "name:ita_x_preferred":[
@@ -66,9 +57,6 @@
         "Pertteli"
     ],
     "name:ron_x_preferred":[
-        "Pertteli"
-    ],
-    "name:rum_x_preferred":[
         "Pertteli"
     ],
     "name:sme_x_preferred":[
@@ -132,7 +120,7 @@
         }
     ],
     "wof:id":101846751,
-    "wof:lastmodified":1529706473,
+    "wof:lastmodified":1561830276,
     "wof:name":"Pertteli",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

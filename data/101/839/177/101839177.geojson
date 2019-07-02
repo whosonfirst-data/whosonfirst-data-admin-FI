@@ -16,12 +16,6 @@
     "mps:longitude":24.609253,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Liedakkala"
-    ],
-    "name:dut_x_preferred":[
-        "Liedakkala"
-    ],
     "name:eng_x_preferred":[
         "Liedakkala"
     ],
@@ -29,6 +23,9 @@
         "Liedakkala"
     ],
     "name:fin_x_preferred":[
+        "Liedakkala"
+    ],
+    "name:nld_x_preferred":[
         "Liedakkala"
     ],
     "name:rus_x_preferred":[
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":101839177,
-    "wof:lastmodified":1529708123,
+    "wof:lastmodified":1561830292,
     "wof:name":"Liedakkala",
     "wof:parent_id":907199569,
     "wof:placetype":"locality",

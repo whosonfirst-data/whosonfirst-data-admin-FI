@@ -18,13 +18,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Mets\u00e4maa"
+    ],
     "name:eng_x_preferred":[
         "Mets\u00e4maa"
     ],
     "name:fin_x_preferred":[
-        "Mets\u00e4maa"
-    ],
-    "name:ger_x_preferred":[
         "Mets\u00e4maa"
     ],
     "name:nob_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1126051267,
-    "wof:lastmodified":1529706478,
+    "wof:lastmodified":1561830304,
     "wof:name":"Mets\u00e4maa",
     "wof:parent_id":907198963,
     "wof:placetype":"locality",

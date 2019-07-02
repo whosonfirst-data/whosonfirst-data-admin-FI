@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000981,
-    "geom:area_square_m":5386336.576159,
+    "geom:area_square_m":5386336.57616,
     "geom:bbox":"26.5837347012,63.6283605986,26.6462969371,63.6625086731",
     "geom:latitude":63.64856,
     "geom:longitude":26.613947,
@@ -17,19 +17,10 @@
     "mps:longitude":26.613473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kiuruvesi"
-    ],
     "name:ceb_x_preferred":[
         "Kiuruvesi"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u70cf\u9b6f\u97cb\u897f"
-    ],
     "name:deu_x_preferred":[
-        "Kiuruvesi"
-    ],
-    "name:dut_x_preferred":[
         "Kiuruvesi"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Kiuruvesi"
     ],
     "name:fra_x_preferred":[
-        "Kiuruvesi"
-    ],
-    "name:fre_x_preferred":[
-        "Kiuruvesi"
-    ],
-    "name:ger_x_preferred":[
         "Kiuruvesi"
     ],
     "name:hbs_x_preferred":[
@@ -78,9 +63,6 @@
         "Kiuruvesi"
     ],
     "name:ron_x_preferred":[
-        "Kiuruvesi"
-    ],
-    "name:rum_x_preferred":[
         "Kiuruvesi"
     ],
     "name:rus_x_preferred":[
@@ -163,7 +145,7 @@
         }
     ],
     "wof:id":101814311,
-    "wof:lastmodified":1529708943,
+    "wof:lastmodified":1561830290,
     "wof:name":"Kiuruvesi",
     "wof:parent_id":907199481,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
-    "geom:area_square_m":1351937.77682,
+    "geom:area_square_m":1351937.776818,
     "geom:bbox":"28.9039264048,62.081950733,28.9377142357,62.0972386108",
     "geom:latitude":62.090574,
     "geom:longitude":28.921504,
@@ -17,19 +17,10 @@
     "mps:longitude":28.923168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Enonkoski"
-    ],
     "name:ceb_x_preferred":[
         "Enonkoski"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u8fb2\u79d1\u65af\u57fa"
-    ],
     "name:deu_x_preferred":[
-        "Enonkoski"
-    ],
-    "name:dut_x_preferred":[
         "Enonkoski"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Enonkoski"
     ],
     "name:fra_x_preferred":[
-        "Enonkoski"
-    ],
-    "name:fre_x_preferred":[
-        "Enonkoski"
-    ],
-    "name:ger_x_preferred":[
         "Enonkoski"
     ],
     "name:hbs_x_preferred":[
@@ -69,9 +54,6 @@
         "Enonkoski"
     ],
     "name:ron_x_preferred":[
-        "Enonkoski"
-    ],
-    "name:rum_x_preferred":[
         "Enonkoski"
     ],
     "name:rus_x_preferred":[
@@ -144,7 +126,7 @@
         }
     ],
     "wof:id":101846873,
-    "wof:lastmodified":1529714454,
+    "wof:lastmodified":1561830273,
     "wof:name":"Enonkoski",
     "wof:parent_id":907199021,
     "wof:placetype":"locality",

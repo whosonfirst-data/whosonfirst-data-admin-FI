@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0005,
-    "geom:area_square_m":2952774.150524,
+    "geom:area_square_m":2952774.150523,
     "geom:bbox":"23.8737374384,61.4820833645,23.9159114175,61.5016921194",
     "geom:latitude":61.491325,
     "geom:longitude":23.892757,
@@ -26,7 +26,7 @@
     "name:fin_x_preferred":[
         "Linnainmaa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Linnainmaa"
     ],
     "reversegeo:latitude":61.491924,
@@ -36,14 +36,14 @@
     "tmpgov:id":"206037",
     "tmpgov:name":"Linnainmaa",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1108728339,
-    "wof:lastmodified":1529711325,
+    "wof:lastmodified":1561830250,
     "wof:name":"Linnainmaa",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

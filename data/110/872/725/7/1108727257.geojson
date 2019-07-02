@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00087,
-    "geom:area_square_m":5352805.05817,
+    "geom:area_square_m":5352805.058173,
     "geom:bbox":"25.0917912315,60.1506130763,25.160859456,60.1676344042",
     "geom:latitude":60.158423,
     "geom:longitude":25.126671,
@@ -31,7 +31,7 @@
     "name:fin_x_preferred":[
         "Villinki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Villinki"
     ],
     "name:swe_x_preferred":[
@@ -42,7 +42,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537275,
         907199715,
@@ -51,7 +50,8 @@
         101748417,
         136253047,
         890536883,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1108727257,
-    "wof:lastmodified":1529714737,
+    "wof:lastmodified":1561830250,
     "wof:name":"Villinki",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",

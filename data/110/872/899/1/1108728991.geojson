@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":696187.756331,
+    "geom:area_square_m":696187.75633,
     "geom:bbox":"25.4717292748,65.0129030675,25.4964061737,65.0224836364",
     "geom:latitude":65.018221,
     "geom:longitude":25.48452,
@@ -20,16 +20,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Myllytulli"
+    ],
     "name:eng_x_preferred":[
         "Myllytulli"
     ],
     "name:fin_x_preferred":[
         "Myllytulli"
     ],
-    "name:fre_x_preferred":[
-        "Myllytulli"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Myllytulli"
     ],
     "name:swe_x_preferred":[
@@ -46,14 +46,14 @@
     "reversegeo:longitude":25.484707,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1108728991,
-    "wof:lastmodified":1529709460,
+    "wof:lastmodified":1561830254,
     "wof:name":"Myllytulli",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

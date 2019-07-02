@@ -17,9 +17,6 @@
     "mps:longitude":25.731255,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Orimattila"
-    ],
     "name:cat_x_preferred":[
         "Orimattila"
     ],
@@ -29,16 +26,7 @@
     "name:ces_x_preferred":[
         "Orimattila"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u91cc\u99ac\u8482\u62c9"
-    ],
-    "name:cze_x_preferred":[
-        "Orimattila"
-    ],
     "name:deu_x_preferred":[
-        "Orimattila"
-    ],
-    "name:dut_x_preferred":[
         "Orimattila"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +39,6 @@
         "Orimattila"
     ],
     "name:fra_x_preferred":[
-        "Orimattila"
-    ],
-    "name:fre_x_preferred":[
-        "Orimattila"
-    ],
-    "name:ger_x_preferred":[
         "Orimattila"
     ],
     "name:hbs_x_preferred":[
@@ -87,9 +69,6 @@
         "Orimattila"
     ],
     "name:ron_x_preferred":[
-        "Orimattila"
-    ],
-    "name:rum_x_preferred":[
         "Orimattila"
     ],
     "name:rus_x_preferred":[
@@ -176,7 +155,7 @@
         }
     ],
     "wof:id":101815453,
-    "wof:lastmodified":1529710020,
+    "wof:lastmodified":1561830279,
     "wof:name":"Orimattila",
     "wof:parent_id":907198577,
     "wof:placetype":"locality",

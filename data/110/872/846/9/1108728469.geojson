@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
-    "geom:area_square_m":227053.833115,
+    "geom:area_square_m":227053.833116,
     "geom:bbox":"23.7506261668,61.4969307905,23.7633467054,61.5009719547",
     "geom:latitude":61.498955,
     "geom:longitude":23.756977,
@@ -26,7 +26,7 @@
     "name:fin_x_preferred":[
         "Tammerkoski"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tammerkoski"
     ],
     "reversegeo:latitude":61.498975,
@@ -36,14 +36,14 @@
     "tmpgov:id":"101102",
     "tmpgov:name":"Tammerkoski",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1108728469,
-    "wof:lastmodified":1529711334,
+    "wof:lastmodified":1561830253,
     "wof:name":"Tammerkoski",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

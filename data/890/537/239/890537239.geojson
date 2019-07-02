@@ -11,7 +11,7 @@
     "figov:nimi_se":"MALM",
     "fsgov:Aluejako":"KAUPUNGINOSA",
     "geom:area":0.001779,
-    "geom:area_square_m":10912442.443305,
+    "geom:area_square_m":10912442.443309,
     "geom:bbox":"24.9728692751,60.2306460885,25.0619408767,60.2697241595",
     "geom:latitude":60.253252,
     "geom:longitude":25.018603,
@@ -45,6 +45,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u043c\u0438"
     ],
+    "name:deu_x_preferred":[
+        "Malmi"
+    ],
     "name:eng_x_preferred":[
         "Malmi"
     ],
@@ -54,10 +57,7 @@
     "name:fin_x_preferred":[
         "Malmi"
     ],
-    "name:fre_x_preferred":[
-        "Malmi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Malmi"
     ],
     "name:nno_x_preferred":[
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":890537239,
-    "wof:lastmodified":1529714722,
+    "wof:lastmodified":1561830297,
     "wof:name":"Malmi",
     "wof:parent_id":890536891,
     "wof:placetype":"macrohood",

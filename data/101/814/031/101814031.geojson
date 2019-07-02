@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000601,
-    "geom:area_square_m":3539306.180779,
+    "geom:area_square_m":3539306.18078,
     "geom:bbox":"29.4813318316,61.5385536616,29.5260543161,61.5744457161",
     "geom:latitude":61.553138,
     "geom:longitude":29.504973,
@@ -17,22 +17,13 @@
     "mps:longitude":29.505312,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Parikkala"
-    ],
     "name:ceb_x_preferred":[
         "Parikkala"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e15\u91cc\u5361\u62c9"
     ],
     "name:dan_x_preferred":[
         "Parikkala"
     ],
     "name:deu_x_preferred":[
-        "Parikkala"
-    ],
-    "name:dut_x_preferred":[
         "Parikkala"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "Parikkala"
     ],
     "name:fra_x_preferred":[
-        "Parikkala"
-    ],
-    "name:fre_x_preferred":[
-        "Parikkala"
-    ],
-    "name:ger_x_preferred":[
         "Parikkala"
     ],
     "name:ita_x_preferred":[
@@ -75,9 +60,6 @@
         "Parikkala"
     ],
     "name:ron_x_preferred":[
-        "Parikkala"
-    ],
-    "name:rum_x_preferred":[
         "Parikkala"
     ],
     "name:rus_x_preferred":[
@@ -147,7 +129,7 @@
         }
     ],
     "wof:id":101814031,
-    "wof:lastmodified":1529707141,
+    "wof:lastmodified":1561830285,
     "wof:name":"Parikkala",
     "wof:parent_id":907198853,
     "wof:placetype":"locality",

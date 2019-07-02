@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000387,
-    "geom:area_square_m":2306688.878668,
+    "geom:area_square_m":2306688.878669,
     "geom:bbox":"28.0214937703,61.1477063707,28.0809969554,61.1712234323",
     "geom:latitude":61.161214,
     "geom:longitude":28.058987,
@@ -17,19 +17,10 @@
     "mps:longitude":28.061466,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Taipalsaari"
-    ],
     "name:ceb_x_preferred":[
         "Taipalsaari"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u5e15\u723e\u85a9\u91cc"
-    ],
     "name:deu_x_preferred":[
-        "Taipalsaari"
-    ],
-    "name:dut_x_preferred":[
         "Taipalsaari"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Taipalsaari"
     ],
     "name:fra_x_preferred":[
-        "Taipalsaari"
-    ],
-    "name:fre_x_preferred":[
-        "Taipalsaari"
-    ],
-    "name:ger_x_preferred":[
         "Taipalsaari"
     ],
     "name:ita_x_preferred":[
@@ -69,9 +54,6 @@
         "Taipalsaari"
     ],
     "name:ron_x_preferred":[
-        "Taipalsaari"
-    ],
-    "name:rum_x_preferred":[
         "Taipalsaari"
     ],
     "name:rus_x_preferred":[
@@ -141,7 +123,7 @@
         }
     ],
     "wof:id":101814023,
-    "wof:lastmodified":1529707141,
+    "wof:lastmodified":1561830284,
     "wof:name":"Taipalsaari",
     "wof:parent_id":907198779,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002086,
-    "geom:area_square_m":12458262.154619,
+    "geom:area_square_m":12458262.154617,
     "geom:bbox":"28.4263886951,61.1018373711,28.5383213758,61.1400298911",
     "geom:latitude":61.12013,
     "geom:longitude":28.47452,
@@ -20,16 +20,10 @@
     "name:ceb_x_preferred":[
         "Joutseno"
     ],
-    "name:chi_x_preferred":[
-        "\u7d04\u91c7\u8afe"
-    ],
     "name:dan_x_preferred":[
         "Joutseno"
     ],
     "name:deu_x_preferred":[
-        "Joutseno"
-    ],
-    "name:dut_x_preferred":[
         "Joutseno"
     ],
     "name:eng_x_preferred":[
@@ -50,15 +44,6 @@
     "name:fra_x_preferred":[
         "Joutseno"
     ],
-    "name:fre_x_preferred":[
-        "Joutseno"
-    ],
-    "name:ger_x_preferred":[
-        "Joutseno"
-    ],
-    "name:ice_x_preferred":[
-        "Joutseno"
-    ],
     "name:ind_x_preferred":[
         "Joutseno"
     ],
@@ -72,9 +57,6 @@
         "\u30e8\u30a6\u30c4\u30bb\u30ce"
     ],
     "name:kur_x_preferred":[
-        "Joutseno"
-    ],
-    "name:may_x_preferred":[
         "Joutseno"
     ],
     "name:msa_x_preferred":[
@@ -96,9 +78,6 @@
         "Joutseno"
     ],
     "name:ron_x_preferred":[
-        "Joutseno"
-    ],
-    "name:rum_x_preferred":[
         "Joutseno"
     ],
     "name:rus_x_preferred":[
@@ -171,7 +150,7 @@
         }
     ],
     "wof:id":101846861,
-    "wof:lastmodified":1529707143,
+    "wof:lastmodified":1561830273,
     "wof:name":"Joutseno",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

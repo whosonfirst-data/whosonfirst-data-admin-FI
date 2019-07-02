@@ -17,25 +17,16 @@
     "mps:longitude":21.891735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Ulvila"
-    ],
     "name:cat_x_preferred":[
         "Ulvila"
     ],
     "name:ceb_x_preferred":[
         "Ulvila"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u723e\u7dad\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Ulvsby"
     ],
     "name:deu_x_preferred":[
-        "Ulvila"
-    ],
-    "name:dut_x_preferred":[
         "Ulvila"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "Ulvila"
     ],
     "name:fra_x_preferred":[
-        "Ulvila"
-    ],
-    "name:fre_x_preferred":[
-        "Ulvila"
-    ],
-    "name:ger_x_preferred":[
         "Ulvila"
     ],
     "name:hbs_x_preferred":[
@@ -93,9 +78,6 @@
         "Ulvila"
     ],
     "name:ron_x_preferred":[
-        "Ulvila"
-    ],
-    "name:rum_x_preferred":[
         "Ulvila"
     ],
     "name:rus_x_preferred":[
@@ -192,7 +174,7 @@
         }
     ],
     "wof:id":101753043,
-    "wof:lastmodified":1529712491,
+    "wof:lastmodified":1561830265,
     "wof:name":"Ulvila",
     "wof:parent_id":907198905,
     "wof:placetype":"locality",

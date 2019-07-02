@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000347,
-    "geom:area_square_m":2078071.669176,
+    "geom:area_square_m":2078071.669175,
     "geom:bbox":"22.6623849017,61.0146811806,22.7086115207,61.0438330814",
     "geom:latitude":61.029127,
     "geom:longitude":22.685579,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Vampula"
     ],
-    "name:dut_x_preferred":[
-        "Vampula"
-    ],
     "name:eng_x_preferred":[
         "Vampula"
     ],
@@ -36,12 +33,6 @@
         "Vampula"
     ],
     "name:fra_x_preferred":[
-        "Vampula"
-    ],
-    "name:fre_x_preferred":[
-        "Vampula"
-    ],
-    "name:ger_x_preferred":[
         "Vampula"
     ],
     "name:ita_x_preferred":[
@@ -57,9 +48,6 @@
         "Vampula"
     ],
     "name:ron_x_preferred":[
-        "Vampula"
-    ],
-    "name:rum_x_preferred":[
         "Vampula"
     ],
     "name:sme_x_preferred":[
@@ -124,7 +112,7 @@
         }
     ],
     "wof:id":101815469,
-    "wof:lastmodified":1529712493,
+    "wof:lastmodified":1561830281,
     "wof:name":"Vampula",
     "wof:parent_id":907198933,
     "wof:placetype":"locality",

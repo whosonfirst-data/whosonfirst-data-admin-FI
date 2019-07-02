@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000457,
-    "geom:area_square_m":2614279.301429,
+    "geom:area_square_m":2614279.301432,
     "geom:bbox":"29.9531016096,62.4266495448,29.995614913,62.4510429052",
     "geom:latitude":62.438039,
     "geom:longitude":29.968995,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Pyh\u00e4selk\u00e4"
     ],
-    "name:dut_x_preferred":[
-        "Pyh\u00e4selk\u00e4"
-    ],
     "name:eng_x_preferred":[
         "Pyh\u00e4selk\u00e4"
     ],
@@ -41,12 +38,6 @@
     "name:fra_x_preferred":[
         "Pyh\u00e4selk\u00e4"
     ],
-    "name:fre_x_preferred":[
-        "Pyh\u00e4selk\u00e4"
-    ],
-    "name:ger_x_preferred":[
-        "Pyh\u00e4selk\u00e4"
-    ],
     "name:ita_x_preferred":[
         "Pyh\u00e4selk\u00e4"
     ],
@@ -60,9 +51,6 @@
         "Pyh\u00e4selk\u00e4"
     ],
     "name:ron_x_preferred":[
-        "Pyh\u00e4selk\u00e4"
-    ],
-    "name:rum_x_preferred":[
         "Pyh\u00e4selk\u00e4"
     ],
     "name:sme_x_preferred":[
@@ -124,7 +112,7 @@
         }
     ],
     "wof:id":101814375,
-    "wof:lastmodified":1529706708,
+    "wof:lastmodified":1561830290,
     "wof:name":"Pyh\u00e4selk\u00e4",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

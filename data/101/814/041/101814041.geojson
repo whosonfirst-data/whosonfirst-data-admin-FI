@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000131,
-    "geom:area_square_m":785501.021612,
+    "geom:area_square_m":785501.02161,
     "geom:bbox":"28.5194370631,60.9573361227,28.5496903754,60.9664433482",
     "geom:latitude":60.961173,
     "geom:longitude":28.536366,
@@ -21,6 +21,9 @@
     "name:ceb_x_preferred":[
         "Ozero Nuyyamayarvi"
     ],
+    "name:deu_x_preferred":[
+        "Nuijamaa"
+    ],
     "name:eng_x_preferred":[
         "Nuijamaa"
     ],
@@ -30,10 +33,7 @@
     "name:fin_x_preferred":[
         "Nuijamaanj\u00e4rvi"
     ],
-    "name:fre_x_preferred":[
-        "Nuijamaa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nuijamaa"
     ],
     "name:nob_x_preferred":[
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":101814041,
-    "wof:lastmodified":1529707143,
+    "wof:lastmodified":1561830284,
     "wof:name":"Nuijamaa",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

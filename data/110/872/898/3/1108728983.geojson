@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00065,
-    "geom:area_square_m":3397317.717437,
+    "geom:area_square_m":3397317.71743,
     "geom:bbox":"25.3511846998,65.0003924947,25.4386661443,65.0138029763",
     "geom:latitude":65.007465,
     "geom:longitude":25.394204,
@@ -20,13 +20,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Vihre\u00e4saari"
+    ],
     "name:eng_x_preferred":[
         "Vihre\u00e4saari"
     ],
     "name:fin_x_preferred":[
-        "Vihre\u00e4saari"
-    ],
-    "name:ger_x_preferred":[
         "Vihre\u00e4saari"
     ],
     "name:pol_x_preferred":[
@@ -43,14 +43,14 @@
     "reversegeo:longitude":25.40868,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1108728983,
-    "wof:lastmodified":1529709460,
+    "wof:lastmodified":1561830254,
     "wof:name":"Vihreasaari",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

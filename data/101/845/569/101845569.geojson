@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000629,
-    "geom:area_square_m":3218742.102226,
+    "geom:area_square_m":3218742.102225,
     "geom:bbox":"28.1932241132,65.55636506,28.2560988639,65.5821320083",
     "geom:latitude":65.569451,
     "geom:longitude":28.2256,
@@ -17,19 +17,10 @@
     "mps:longitude":28.222551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Taivalkoski"
-    ],
     "name:ceb_x_preferred":[
         "Taivalkoski"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u74e6\u723e\u79d1\u65af\u57fa"
-    ],
     "name:deu_x_preferred":[
-        "Taivalkoski"
-    ],
-    "name:dut_x_preferred":[
         "Taivalkoski"
     ],
     "name:ell_x_preferred":[
@@ -50,15 +41,6 @@
     "name:fra_x_preferred":[
         "Taivalkoski"
     ],
-    "name:fre_x_preferred":[
-        "Taivalkoski"
-    ],
-    "name:ger_x_preferred":[
-        "Taivalkoski"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03ca\u03b2\u03b1\u03bb\u03ba\u03cc\u03c3\u03ba\u03b9"
-    ],
     "name:ita_x_preferred":[
         "Taivalkoski"
     ],
@@ -78,9 +60,6 @@
         "Taivalkoski"
     ],
     "name:ron_x_preferred":[
-        "Taivalkoski"
-    ],
-    "name:rum_x_preferred":[
         "Taivalkoski"
     ],
     "name:rus_x_preferred":[
@@ -155,7 +134,7 @@
         }
     ],
     "wof:id":101845569,
-    "wof:lastmodified":1529709428,
+    "wof:lastmodified":1561830266,
     "wof:name":"Taivalkoski",
     "wof:parent_id":907199503,
     "wof:placetype":"locality",

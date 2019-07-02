@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081692,
-    "geom:area_square_m":423796394.571763,
+    "geom:area_square_m":423796394.571732,
     "geom:bbox":"24.1184868443,65.1411291406,25.430851616,65.2522886965",
     "geom:latitude":65.19401,
     "geom:longitude":24.773729,
@@ -20,13 +20,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Haukipudas"
+    ],
     "name:eng_x_preferred":[
         "Haukipudas"
     ],
     "name:fin_x_preferred":[
-        "Haukipudas"
-    ],
-    "name:ger_x_preferred":[
         "Haukipudas"
     ],
     "name:swe_x_preferred":[
@@ -40,7 +40,6 @@
     "reversegeo:longitude":25.36207,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
@@ -48,6 +47,7 @@
         101753059,
         136253047,
         1159321529,
+        85683143,
         101748443
     ],
     "wof:breaches":[],
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1108728865,
-    "wof:lastmodified":1529709449,
+    "wof:lastmodified":1561830249,
     "wof:name":"Haukipudas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

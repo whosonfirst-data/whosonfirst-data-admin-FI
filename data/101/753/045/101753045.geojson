@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003149,
-    "geom:area_square_m":18592456.664626,
+    "geom:area_square_m":18592456.664622,
     "geom:bbox":"23.4587861866,61.4354595391,23.5606480686,61.5016173542",
     "geom:latitude":61.475172,
     "geom:longitude":23.502605,
@@ -17,17 +17,8 @@
     "mps:longitude":23.50189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Nokia"
-    ],
     "name:ara_x_preferred":[
         "\u0646\u0648\u0643\u064a\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u0546\u0578\u056f\u056b\u0561"
-    ],
-    "name:bur_x_preferred":[
-        "\u101a\u1030\u1017\u102c\u1005\u1000\u1030\u1038\u101c\u102c\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:cat_x_preferred":[
         "Nokia"
@@ -38,19 +29,10 @@
     "name:ces_x_preferred":[
         "Nokia"
     ],
-    "name:chi_x_preferred":[
-        "\u8bfa\u57fa\u4e9a"
-    ],
-    "name:cze_x_preferred":[
-        "Nokia"
-    ],
     "name:dan_x_preferred":[
         "Nokia"
     ],
     "name:deu_x_preferred":[
-        "Nokia"
-    ],
-    "name:dut_x_preferred":[
         "Nokia"
     ],
     "name:eng_x_preferred":[
@@ -71,12 +53,6 @@
     "name:fra_x_preferred":[
         "Nokia"
     ],
-    "name:fre_x_preferred":[
-        "Nokia"
-    ],
-    "name:ger_x_preferred":[
-        "Nokia"
-    ],
     "name:gla_x_preferred":[
         "Nokia"
     ],
@@ -92,8 +68,8 @@
     "name:hun_x_preferred":[
         "Nokia"
     ],
-    "name:ice_x_preferred":[
-        "Nokia"
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u056f\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Nokia"
@@ -119,6 +95,9 @@
     "name:lit_x_preferred":[
         "Nokija"
     ],
+    "name:mya_x_preferred":[
+        "\u101a\u1030\u1017\u102c\u1005\u1000\u1030\u1038\u101c\u102c\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:nld_x_preferred":[
         "Nokia"
     ],
@@ -131,9 +110,6 @@
     "name:nor_x_preferred":[
         "Nokia"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u06a9\u06cc\u0627\u060c \u0641\u0646\u0644\u0627\u0646\u062f"
-    ],
     "name:pol_x_preferred":[
         "Nokia"
     ],
@@ -141,9 +117,6 @@
         "Nokia"
     ],
     "name:ron_x_preferred":[
-        "Nokia"
-    ],
-    "name:rum_x_preferred":[
         "Nokia"
     ],
     "name:rus_x_preferred":[
@@ -156,9 +129,6 @@
         "\u0db1\u0ddc\u0d9a\u0dd2\u0dba\u0dcf \u0db1\u0d9c\u0dbb\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Nokia"
-    ],
-    "name:slo_x_preferred":[
         "Nokia"
     ],
     "name:sme_x_preferred":[
@@ -254,7 +224,7 @@
         }
     ],
     "wof:id":101753045,
-    "wof:lastmodified":1529711292,
+    "wof:lastmodified":1561830265,
     "wof:name":"Nokia",
     "wof:parent_id":907198999,
     "wof:placetype":"locality",

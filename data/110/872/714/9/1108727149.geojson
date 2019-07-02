@@ -31,7 +31,7 @@
     "name:fin_x_preferred":[
         "\u00d6stersundom"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00d6stersundom"
     ],
     "name:spa_x_preferred":[
@@ -45,7 +45,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727375,
         907199715,
@@ -55,6 +54,7 @@
         136253047,
         890536893,
         1159321633,
+        85683067,
         101872781
     ],
     "wof:breaches":[],
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1108727149,
-    "wof:lastmodified":1544751322,
+    "wof:lastmodified":1561830251,
     "wof:name":"Ostersundom",
     "wof:parent_id":1108727375,
     "wof:placetype":"neighbourhood",

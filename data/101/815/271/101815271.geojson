@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000228,
-    "geom:area_square_m":1392174.718297,
+    "geom:area_square_m":1392174.718301,
     "geom:bbox":"26.0196147526,60.4341612595,26.0513873734,60.4542517526",
     "geom:latitude":60.443329,
     "geom:longitude":26.037209,
@@ -17,19 +17,13 @@
     "mps:longitude":26.042264,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Pern\u00e5"
-    ],
     "name:ceb_x_preferred":[
         "Pern\u00e5"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pern\u00e5"
     ],
     "name:deu_x_preferred":[
-        "Pern\u00e5"
-    ],
-    "name:dut_x_preferred":[
         "Pern\u00e5"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +39,6 @@
         "Pernaja"
     ],
     "name:fra_x_preferred":[
-        "Pern\u00e5"
-    ],
-    "name:fre_x_preferred":[
-        "Pern\u00e5"
-    ],
-    "name:ger_x_preferred":[
         "Pern\u00e5"
     ],
     "name:ita_x_preferred":[
@@ -72,9 +60,6 @@
         "Pern\u00e5"
     ],
     "name:ron_x_preferred":[
-        "Pernaja"
-    ],
-    "name:rum_x_preferred":[
         "Pernaja"
     ],
     "name:rus_x_preferred":[
@@ -146,7 +131,7 @@
         }
     ],
     "wof:id":101815271,
-    "wof:lastmodified":1529714672,
+    "wof:lastmodified":1561830281,
     "wof:name":"Pernaja",
     "wof:parent_id":907198469,
     "wof:placetype":"locality",

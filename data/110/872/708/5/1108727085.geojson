@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001126,
-    "geom:area_square_m":6904398.789145,
+    "geom:area_square_m":6904398.789147,
     "geom:bbox":"25.1417434461,60.2613146528,25.2263564875,60.2863895539",
     "geom:latitude":60.272167,
     "geom:longitude":25.185994,
@@ -25,16 +25,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "Landbo"
-    ],
     "name:eng_x_preferred":[
         "Landbo"
     ],
     "name:fin_x_preferred":[
         "Landbo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Landbo"
+    ],
+    "name:nld_x_preferred":[
         "Landbo"
     ],
     "name:swe_x_preferred":[
@@ -45,7 +45,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727375,
         907199715,
@@ -55,6 +54,7 @@
         136253047,
         890536893,
         1159321633,
+        85683067,
         101748417
     ],
     "wof:breaches":[],
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1108727085,
-    "wof:lastmodified":1529714730,
+    "wof:lastmodified":1561830248,
     "wof:name":"Landbo",
     "wof:parent_id":-3,
     "wof:placetype":"neighbourhood",

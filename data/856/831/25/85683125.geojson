@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.172527,
-    "geom:area_square_m":6425847364.252911,
+    "geom:area_square_m":6425847364.25283,
     "geom:bbox":"22.2878770162,63.1164295097,25.0363155553,64.1789692938",
     "geom:latitude":63.690984,
     "geom:longitude":23.843277,
@@ -21,14 +21,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
-    "name:alb_x_preferred":[
-        "Ostrobothnia Qendrore"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0647\u064a\u0627\u0646\u0645\u0627 \u0627\u0644\u0648\u0633\u0637\u0649"
-    ],
-    "name:baq_x_preferred":[
-        "Erdialdeko Ostrobotnia"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u0985\u09b8\u09cd\u099f\u09cd\u09b0\u09cb\u09ac\u09cb\u09a5\u09a8\u09bf\u09af\u09bc\u09be"
@@ -42,20 +36,14 @@
     "name:ces_x_preferred":[
         "St\u0159edn\u00ed Pohjanmaa"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u535a\u6ed5\u5340"
-    ],
-    "name:cze_x_preferred":[
-        "St\u0159edn\u00ed Pohjanmaa"
-    ],
     "name:dan_x_preferred":[
         "Mellersta \u00d6sterbotten"
     ],
     "name:deu_x_preferred":[
         "Mittel\u00f6sterbotten"
     ],
-    "name:dut_x_preferred":[
-        "Keski-Pohjanmaa"
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u039f\u03c3\u03c4\u03c1\u03bf\u03bc\u03c0\u03bf\u03b8\u03bd\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Central Ostrobothnia"
@@ -85,20 +73,8 @@
     "name:fra_x_preferred":[
         "Ostrobotnie-Centrale"
     ],
-    "name:fre_x_preferred":[
-        "Ostrobotnie-Centrale"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10dd\u10e1\u10e2\u10e0\u10dd\u10d1\u10dd\u10e2\u10dc\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Mittel\u00f6sterbotten"
-    ],
     "name:glg_x_preferred":[
         "Ostrobotnia Central"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u039f\u03c3\u03c4\u03c1\u03bf\u03bc\u03c0\u03bf\u03b8\u03bd\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0a91\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0acb\u0aac\u0acb\u0aa5\u0aa8\u0abf\u0a86"
@@ -145,7 +121,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f\u094d\u0930\u0932 \u0913\u0938\u094d\u091f\u094d\u0930\u094b\u092c\u0949\u0925\u0928\u093f\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Central Ostrobothnia"
     ],
     "name:nld_x_preferred":[
@@ -160,9 +136,6 @@
     "name:nor_x_preferred":[
         "Mellersta \u00d6sterbotten"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0633\u062a\u0631\u0648\u0628\u0648\u062a\u0646\u06cc\u0627\u06cc \u0645\u0631\u06a9\u0632\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0648\u0634\u06a9\u0627\u0631\u0644\u0627 \u0627\u0648\u0633\u0679\u0631\u0648\u0628\u0648\u062a\u06be\u0646\u06cc\u0627"
     ],
@@ -175,9 +148,6 @@
     "name:ron_x_preferred":[
         "Ostrobotnia Central\u0103"
     ],
-    "name:rum_x_preferred":[
-        "Ostrobotnia Central\u0103"
-    ],
     "name:rus_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u041e\u0441\u0442\u0440\u043e\u0431\u043e\u0442\u043d\u0438\u044f"
     ],
@@ -188,9 +158,6 @@
         "\u0db8\u0daf\u0dca\u200d\u0dba\u0db8 \u0d94\u0dc3\u0dca\u0da7\u0dca\u0dbb\u0ddd\u0db6\u0ddc\u0dad\u0dca\u0db1\u0dd2\u0dba\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Keski-Pohjanmaa"
-    ],
-    "name:slo_x_preferred":[
         "Keski-Pohjanmaa"
     ],
     "name:sme_x_preferred":[
@@ -346,7 +313,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1553814876,
+    "wof:lastmodified":1561830214,
     "wof:name":"Central Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

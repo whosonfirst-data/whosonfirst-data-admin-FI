@@ -42,7 +42,7 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vuosaari"
     ],
     "name:eng_x_preferred":[
@@ -54,14 +54,14 @@
     "name:fin_x_preferred":[
         "Vuosaari"
     ],
-    "name:fre_x_preferred":[
-        "Vuosaari"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vuosaari"
     ],
     "name:jpn_x_preferred":[
         "\u30f4\u30aa\u30b5\u30fc\u30ea"
+    ],
+    "name:nld_x_preferred":[
+        "Vuosaari"
     ],
     "name:nob_x_preferred":[
         "Nordsj\u00f6"
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":890537281,
-    "wof:lastmodified":1529714723,
+    "wof:lastmodified":1561830296,
     "wof:name":"Vuosaari",
     "wof:parent_id":890536881,
     "wof:placetype":"macrohood",

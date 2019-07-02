@@ -42,7 +42,7 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0441\u0438\u043b\u0430"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pasila"
     ],
     "name:eng_x_preferred":[
@@ -54,14 +54,14 @@
     "name:fin_x_preferred":[
         "Pasila"
     ],
-    "name:fre_x_preferred":[
-        "Pasila"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pasila"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30b7\u30e9"
+    ],
+    "name:nld_x_preferred":[
+        "Pasila"
     ],
     "name:nno_x_preferred":[
         "B\u00f6le i Helsingfors"
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":890537255,
-    "wof:lastmodified":1529714723,
+    "wof:lastmodified":1561830297,
     "wof:name":"Pasila",
     "wof:parent_id":890536885,
     "wof:placetype":"macrohood",

@@ -26,7 +26,7 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u043d\u0443\u043d\u0445\u0430\u043a\u0430"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kruununhaka"
     ],
     "name:eng_x_preferred":[
@@ -38,16 +38,16 @@
     "name:fin_x_preferred":[
         "Kruununhaka"
     ],
-    "name:fre_x_preferred":[
-        "Kruununhaka"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kruununhaka"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d5\u05e0\u05d5\u05e0\u05d7\u05e7\u05d4"
     ],
     "name:hun_x_preferred":[
+        "Kruununhaka"
+    ],
+    "name:nld_x_preferred":[
         "Kruununhaka"
     ],
     "name:nno_x_preferred":[
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1108938865,
-    "wof:lastmodified":1534379300,
+    "wof:lastmodified":1561830256,
     "wof:name":"Kruununhaka",
     "wof:parent_id":1108727331,
     "wof:placetype":"neighbourhood",

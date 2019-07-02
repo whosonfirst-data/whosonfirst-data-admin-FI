@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000612,
-    "geom:area_square_m":3269111.549963,
+    "geom:area_square_m":3269111.549964,
     "geom:bbox":"27.800087726,64.3952295971,27.861036296,64.4221742436",
     "geom:latitude":64.407344,
     "geom:longitude":27.830125,
@@ -17,22 +17,13 @@
     "mps:longitude":27.830125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Paltamo"
-    ],
     "name:ceb_x_preferred":[
         "Paltamo"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u723e\u5854\u83ab"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Paltamo"
     ],
     "name:deu_x_preferred":[
-        "Paltamo"
-    ],
-    "name:dut_x_preferred":[
         "Paltamo"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "Paltamo"
     ],
     "name:fra_x_preferred":[
-        "Paltamo"
-    ],
-    "name:fre_x_preferred":[
-        "Paltamo"
-    ],
-    "name:ger_x_preferred":[
         "Paltamo"
     ],
     "name:ita_x_preferred":[
@@ -75,9 +60,6 @@
         "Paltamo"
     ],
     "name:ron_x_preferred":[
-        "Paltamo"
-    ],
-    "name:rum_x_preferred":[
         "Paltamo"
     ],
     "name:rus_x_preferred":[
@@ -153,7 +135,7 @@
         }
     ],
     "wof:id":101814397,
-    "wof:lastmodified":1529706646,
+    "wof:lastmodified":1561830284,
     "wof:name":"Paltamo",
     "wof:parent_id":907199475,
     "wof:placetype":"locality",

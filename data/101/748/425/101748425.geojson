@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012117,
-    "geom:area_square_m":72673378.005554,
+    "geom:area_square_m":72673378.005542,
     "geom:bbox":"25.5428275,60.9207905391,25.8289352655,61.04401",
     "geom:latitude":60.984162,
     "geom:longitude":25.670823,
@@ -18,17 +18,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:alb_x_preferred":[
-        "Lahti"
-    ],
     "name:ara_x_preferred":[
         "\u0644\u0627\u0647\u062a\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u053c\u0561\u0570\u0569\u056b"
-    ],
-    "name:baq_x_preferred":[
-        "Lahti"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0430\u0445\u0442\u044b"
@@ -58,13 +49,10 @@
     "name:che_x_preferred":[
         "\u041b\u0430\u0445\u0442\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u8d6b\u8482"
-    ],
     "name:cor_x_preferred":[
         "Lahti"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Lahti"
     ],
     "name:dan_x_preferred":[
@@ -74,9 +62,6 @@
         "Lahtis"
     ],
     "name:deu_x_preferred":[
-        "Lahti"
-    ],
-    "name:dut_x_preferred":[
         "Lahti"
     ],
     "name:ell_x_preferred":[
@@ -103,20 +88,11 @@
     "name:fra_x_preferred":[
         "Lahti"
     ],
-    "name:fre_x_preferred":[
-        "Lahti"
-    ],
-    "name:ger_x_preferred":[
-        "Lahti"
-    ],
     "name:gle_x_preferred":[
         "Lahti"
     ],
     "name:glg_x_preferred":[
         "Lahti"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03ac\u03c7\u03c4\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0a9f\u0ac0"
@@ -136,8 +112,8 @@
     "name:hun_x_preferred":[
         "Lahti"
     ],
-    "name:ice_x_preferred":[
-        "Lahti"
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u0570\u0569\u056b"
     ],
     "name:ile_x_preferred":[
         "Lahti"
@@ -181,20 +157,17 @@
     "name:lit_x_preferred":[
         "Lahtis"
     ],
-    "name:mao_x_preferred":[
-        "Lahti"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Lahti"
     ],
     "name:mri_x_preferred":[
         "Lahti"
     ],
     "name:mrj_x_preferred":[
         "\u041b\u0430\u0445\u0442\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Lahti"
     ],
     "name:nds_x_preferred":[
         "Lahti"
@@ -217,9 +190,6 @@
     "name:oci_x_preferred":[
         "Lahti"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u062e\u062a\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0644\u0627\u06c1\u062a\u06cc"
     ],
@@ -235,9 +205,6 @@
     "name:ron_x_preferred":[
         "Lahti"
     ],
-    "name:rum_x_preferred":[
-        "Lahti"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u0445\u0442\u0438"
     ],
@@ -248,9 +215,6 @@
         "\u0dbd\u0dc4\u0dca\u0da7\u0dd2"
     ],
     "name:slk_x_preferred":[
-        "Lahti"
-    ],
-    "name:slo_x_preferred":[
         "Lahti"
     ],
     "name:slv_x_preferred":[
@@ -305,9 +269,6 @@
         "Lahti"
     ],
     "name:war_x_preferred":[
-        "Lahti"
-    ],
-    "name:wel_x_preferred":[
         "Lahti"
     ],
     "name:zho_x_preferred":[
@@ -461,7 +422,7 @@
         }
     ],
     "wof:id":101748425,
-    "wof:lastmodified":1529710021,
+    "wof:lastmodified":1561830269,
     "wof:name":"Lahti",
     "wof:parent_id":907198647,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000369,
-    "geom:area_square_m":1947443.522201,
+    "geom:area_square_m":1947443.522198,
     "geom:bbox":"24.9482930026,64.6955199831,24.9761692233,64.726612514",
     "geom:latitude":64.710443,
     "geom:longitude":24.961613,
@@ -16,16 +16,16 @@
     "mps:longitude":24.962564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Revonlahti"
+    ],
     "name:eng_x_preferred":[
         "Revonlahti"
     ],
     "name:fin_x_preferred":[
         "Revonlahti"
     ],
-    "name:fre_x_preferred":[
-        "Revonlahti"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Revonlahti"
     ],
     "name:nob_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":101847073,
-    "wof:lastmodified":1529709421,
+    "wof:lastmodified":1561830283,
     "wof:name":"Revonlahti",
     "wof:parent_id":907199705,
     "wof:placetype":"locality",

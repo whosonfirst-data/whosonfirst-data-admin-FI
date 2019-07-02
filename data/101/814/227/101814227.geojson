@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000704,
-    "geom:area_square_m":4145767.21553,
+    "geom:area_square_m":4145767.215533,
     "geom:bbox":"25.1487341668,61.5474694208,25.1965032624,61.5859781352",
     "geom:latitude":61.564838,
     "geom:longitude":25.174753,
@@ -17,19 +17,10 @@
     "mps:longitude":25.178372,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kuhmoinen"
-    ],
     "name:ceb_x_preferred":[
         "Kuhmoinen"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u8d6b\u83ab\u4f0a\u5be7"
-    ],
     "name:deu_x_preferred":[
-        "Kuhmoinen"
-    ],
-    "name:dut_x_preferred":[
         "Kuhmoinen"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Kuhmoinen"
     ],
     "name:fra_x_preferred":[
-        "Kuhmoinen"
-    ],
-    "name:fre_x_preferred":[
-        "Kuhmoinen"
-    ],
-    "name:ger_x_preferred":[
         "Kuhmoinen"
     ],
     "name:ita_x_preferred":[
@@ -72,9 +57,6 @@
         "Kuhmoinen"
     ],
     "name:ron_x_preferred":[
-        "Kuhmoinen"
-    ],
-    "name:rum_x_preferred":[
         "Kuhmoinen"
     ],
     "name:rus_x_preferred":[
@@ -147,7 +129,7 @@
         }
     ],
     "wof:id":101814227,
-    "wof:lastmodified":1529706348,
+    "wof:lastmodified":1561830284,
     "wof:name":"Kuhmoinen",
     "wof:parent_id":907198799,
     "wof:placetype":"locality",

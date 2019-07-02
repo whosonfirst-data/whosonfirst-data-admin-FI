@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000446,
-    "geom:area_square_m":2145256.575552,
+    "geom:area_square_m":2145256.575553,
     "geom:bbox":"27.485482045,67.094755641,27.5236847329,67.1258483453",
     "geom:latitude":67.111201,
     "geom:longitude":27.507327,
@@ -19,12 +19,6 @@
     "mps:longitude":27.511813,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:alb_x_preferred":[
-        "Pelkosenniemi"
-    ],
-    "name:baq_x_preferred":[
-        "Pelkosenniemi"
-    ],
     "name:cat_x_preferred":[
         "Pelkosenniemi"
     ],
@@ -34,16 +28,7 @@
     "name:ces_x_preferred":[
         "Pelkosenniemi"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u5c14\u79d1\u68ee\u6d85\u7c73"
-    ],
-    "name:cze_x_preferred":[
-        "Pelkosenniemi"
-    ],
     "name:deu_x_preferred":[
-        "Pelkosenniemi"
-    ],
-    "name:dut_x_preferred":[
         "Pelkosenniemi"
     ],
     "name:eng_x_preferred":[
@@ -64,12 +49,6 @@
     "name:fra_x_preferred":[
         "Pelkosenniemi"
     ],
-    "name:fre_x_preferred":[
-        "Pelkosenniemi"
-    ],
-    "name:ger_x_preferred":[
-        "Pelkosenniemi"
-    ],
     "name:glg_x_preferred":[
         "Pelkosenniemi"
     ],
@@ -84,9 +63,6 @@
     ],
     "name:lat_x_preferred":[
         "Pelkosenniemi"
-    ],
-    "name:mac_x_preferred":[
-        "\u041f\u0435\u043b\u043a\u043e\u0441\u0435\u043d\u0438\u0435\u043c\u0438"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0435\u043b\u043a\u043e\u0441\u0435\u043d\u0438\u0435\u043c\u0438"
@@ -104,9 +80,6 @@
         "Pelkosenniemi"
     ],
     "name:ron_x_preferred":[
-        "Pelkosenniemi"
-    ],
-    "name:rum_x_preferred":[
         "Pelkosenniemi"
     ],
     "name:rus_x_preferred":[
@@ -181,7 +154,7 @@
         }
     ],
     "wof:id":101911307,
-    "wof:lastmodified":1534985891,
+    "wof:lastmodified":1561830292,
     "wof:name":"Pelkosenniemi",
     "wof:parent_id":907199571,
     "wof:placetype":"locality",

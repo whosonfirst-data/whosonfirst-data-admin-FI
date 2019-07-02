@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Korpo"
     ],
-    "name:dut_x_preferred":[
-        "Korpo"
-    ],
     "name:eng_x_preferred":[
         "Korpo"
     ],
@@ -36,12 +33,6 @@
         "Korppoo"
     ],
     "name:fra_x_preferred":[
-        "Korpo"
-    ],
-    "name:fre_x_preferred":[
-        "Korpo"
-    ],
-    "name:ger_x_preferred":[
         "Korpo"
     ],
     "name:ita_x_preferred":[
@@ -60,9 +51,6 @@
         "Korpo"
     ],
     "name:ron_x_preferred":[
-        "Korpo"
-    ],
-    "name:rum_x_preferred":[
         "Korpo"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +120,7 @@
         }
     ],
     "wof:id":101846759,
-    "wof:lastmodified":1529706474,
+    "wof:lastmodified":1561830276,
     "wof:name":"Korppoo",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

@@ -21,13 +21,13 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0643\u0627\u0644\u0627"
     ],
-    "name:dut_x_preferred":[
-        "Tuukkala"
-    ],
     "name:eng_x_preferred":[
         "Tuukkala"
     ],
     "name:fin_x_preferred":[
+        "Tuukkala"
+    ],
+    "name:nld_x_preferred":[
         "Tuukkala"
     ],
     "name:rus_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125793099,
-    "wof:lastmodified":1529714459,
+    "wof:lastmodified":1561830312,
     "wof:name":"Tuukkala",
     "wof:parent_id":907198755,
     "wof:placetype":"locality",

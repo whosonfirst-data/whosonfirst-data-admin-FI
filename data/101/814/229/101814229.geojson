@@ -20,13 +20,7 @@
     "name:ceb_x_preferred":[
         "V\u00e4h\u00e4kyr\u00f6"
     ],
-    "name:chi_x_preferred":[
-        "\u97cb\u6d77\u5c48\u52d2"
-    ],
     "name:deu_x_preferred":[
-        "V\u00e4h\u00e4kyr\u00f6"
-    ],
-    "name:dut_x_preferred":[
         "V\u00e4h\u00e4kyr\u00f6"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +36,6 @@
         "V\u00e4h\u00e4kyr\u00f6"
     ],
     "name:fra_x_preferred":[
-        "V\u00e4h\u00e4kyr\u00f6"
-    ],
-    "name:fre_x_preferred":[
-        "V\u00e4h\u00e4kyr\u00f6"
-    ],
-    "name:ger_x_preferred":[
         "V\u00e4h\u00e4kyr\u00f6"
     ],
     "name:ita_x_preferred":[
@@ -68,14 +56,14 @@
     "name:ron_x_preferred":[
         "V\u00e4h\u00e4kyr\u00f6"
     ],
-    "name:rum_x_preferred":[
-        "V\u00e4h\u00e4kyr\u00f6"
-    ],
     "name:sme_x_preferred":[
         "V\u00e4h\u00e4kyr\u00f6"
     ],
     "name:swe_x_preferred":[
         "Lillkyro"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u6d77\u5c48\u52d2"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjanmaa#\u00d6sterbotten",
@@ -129,7 +117,7 @@
         }
     ],
     "wof:id":101814229,
-    "wof:lastmodified":1529709675,
+    "wof:lastmodified":1561830284,
     "wof:name":"V\u00e4h\u00e4kyr\u00f6",
     "wof:parent_id":907199149,
     "wof:placetype":"locality",

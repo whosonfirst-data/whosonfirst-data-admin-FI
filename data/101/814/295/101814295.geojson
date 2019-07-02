@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000733,
-    "geom:area_square_m":4034856.030406,
+    "geom:area_square_m":4034856.030404,
     "geom:bbox":"23.6710020189,63.5352823915,23.7275352373,63.5636391145",
     "geom:latitude":63.550304,
     "geom:longitude":23.701683,
@@ -17,22 +17,13 @@
     "mps:longitude":23.702324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kaustinen"
-    ],
     "name:ceb_x_preferred":[
         "Kaustinen"
-    ],
-    "name:chi_x_preferred":[
-        "\u8003\u65af\u8482\u5be7"
     ],
     "name:dan_x_preferred":[
         "Kaustby"
     ],
     "name:deu_x_preferred":[
-        "Kaustinen"
-    ],
-    "name:dut_x_preferred":[
         "Kaustinen"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Kaustinen"
     ],
     "name:fra_x_preferred":[
-        "Kaustinen"
-    ],
-    "name:fre_x_preferred":[
-        "Kaustinen"
-    ],
-    "name:ger_x_preferred":[
         "Kaustinen"
     ],
     "name:ita_x_preferred":[
@@ -72,9 +57,6 @@
         "Kaustinen"
     ],
     "name:ron_x_preferred":[
-        "Kaustinen"
-    ],
-    "name:rum_x_preferred":[
         "Kaustinen"
     ],
     "name:rus_x_preferred":[
@@ -144,7 +126,7 @@
         }
     ],
     "wof:id":101814295,
-    "wof:lastmodified":1529706409,
+    "wof:lastmodified":1561830285,
     "wof:name":"Kaustinen",
     "wof:parent_id":907199305,
     "wof:placetype":"locality",

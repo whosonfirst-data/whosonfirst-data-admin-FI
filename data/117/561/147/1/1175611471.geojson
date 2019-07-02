@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001033,
-    "geom:area_square_m":4203990.157562,
+    "geom:area_square_m":5740727.631901,
     "geom:bbox":"22.3594052586,63.285116089,22.4310572261,63.3266741635",
     "geom:latitude":63.305077,
     "geom:longitude":22.392895,
@@ -23,13 +23,7 @@
     "name:ceb_x_preferred":[
         "Oravais"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u62c9\u7dad\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Oravais"
-    ],
-    "name:dut_x_preferred":[
         "Oravais"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "Oravainen"
     ],
     "name:fra_x_preferred":[
-        "Oravais"
-    ],
-    "name:fre_x_preferred":[
-        "Oravais"
-    ],
-    "name:ger_x_preferred":[
         "Oravais"
     ],
     "name:hun_x_preferred":[
@@ -65,14 +53,14 @@
     "name:ron_x_preferred":[
         "Oravais"
     ],
-    "name:rum_x_preferred":[
-        "Oravais"
-    ],
     "name:sme_x_preferred":[
         "Oravainen"
     ],
     "name:swe_x_preferred":[
         "Oravais"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u62c9\u7dad\u65af"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjanmaa#\u00d6sterbotten",
@@ -113,7 +101,7 @@
         "wk:page":"Oravais"
     },
     "wof:country":"FI",
-    "wof:geomhash":"09505c5d4ec45572fa425b29ac1e022c",
+    "wof:geomhash":"3b4df0a39f229e5744848d8092c51aa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,7 +115,7 @@
         }
     ],
     "wof:id":1175611471,
-    "wof:lastmodified":1534985891,
+    "wof:lastmodified":1561830257,
     "wof:name":"Oravainen",
     "wof:parent_id":907199763,
     "wof:placetype":"locality",

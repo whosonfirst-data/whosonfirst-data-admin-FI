@@ -51,7 +51,7 @@
     "name:fin_x_preferred":[
         "Vartiokyl\u00e4"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vartiokyl\u00e4"
     ],
     "name:nob_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":890537287,
-    "wof:lastmodified":1529714723,
+    "wof:lastmodified":1561830296,
     "wof:name":"Vartiokyla",
     "wof:parent_id":890536881,
     "wof:placetype":"macrohood",

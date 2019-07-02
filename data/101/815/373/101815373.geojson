@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000286,
-    "geom:area_square_m":1750178.865125,
+    "geom:area_square_m":1750178.865122,
     "geom:bbox":"21.9223017864,60.3694731449,21.9641448324,60.3847124041",
     "geom:latitude":60.377231,
     "geom:longitude":21.94297,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Rym\u00e4ttyl\u00e4"
     ],
-    "name:dut_x_preferred":[
-        "Rym\u00e4ttyl\u00e4"
-    ],
     "name:eng_x_preferred":[
         "Rym\u00e4ttyl\u00e4"
     ],
@@ -36,12 +33,6 @@
         "Rym\u00e4ttyl\u00e4"
     ],
     "name:fra_x_preferred":[
-        "Rym\u00e4ttyl\u00e4"
-    ],
-    "name:fre_x_preferred":[
-        "Rym\u00e4ttyl\u00e4"
-    ],
-    "name:ger_x_preferred":[
         "Rym\u00e4ttyl\u00e4"
     ],
     "name:ita_x_preferred":[
@@ -60,9 +51,6 @@
         "Rimito"
     ],
     "name:ron_x_preferred":[
-        "Rym\u00e4ttyl\u00e4"
-    ],
-    "name:rum_x_preferred":[
         "Rym\u00e4ttyl\u00e4"
     ],
     "name:slv_x_preferred":[
@@ -129,7 +117,7 @@
         }
     ],
     "wof:id":101815373,
-    "wof:lastmodified":1529706470,
+    "wof:lastmodified":1561830282,
     "wof:name":"Rym\u00e4ttyl\u00e4",
     "wof:parent_id":907198913,
     "wof:placetype":"locality",

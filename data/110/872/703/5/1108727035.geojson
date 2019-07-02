@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000287,
-    "geom:area_square_m":1761700.844174,
+    "geom:area_square_m":1761700.844173,
     "geom:bbox":"24.9337285665,60.2045851652,24.9635392286,60.2235412273",
     "geom:latitude":60.2146,
     "geom:longitude":24.94918,
@@ -25,9 +25,6 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
-        "K\u00e4pyl\u00e4"
-    ],
     "name:eng_x_preferred":[
         "K\u00e4pyl\u00e4"
     ],
@@ -37,7 +34,10 @@
     "name:fin_x_preferred":[
         "K\u00e4pyl\u00e4"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "K\u00e4pyl\u00e4"
+    ],
+    "name:nld_x_preferred":[
         "K\u00e4pyl\u00e4"
     ],
     "name:nob_x_preferred":[
@@ -54,7 +54,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727357,
         907199715,
@@ -63,7 +62,8 @@
         101748417,
         136253047,
         890536885,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108727035,
-    "wof:lastmodified":1529714727,
+    "wof:lastmodified":1561830252,
     "wof:name":"Kapyla",
     "wof:parent_id":1108727357,
     "wof:placetype":"neighbourhood",

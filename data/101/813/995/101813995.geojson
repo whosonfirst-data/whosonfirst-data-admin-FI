@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000868,
-    "geom:area_square_m":5080092.415843,
+    "geom:area_square_m":5080092.415845,
     "geom:bbox":"23.0454059429,61.7518395724,23.1084924792,61.778314098",
     "geom:latitude":61.765532,
     "geom:longitude":23.077086,
@@ -17,22 +17,13 @@
     "mps:longitude":23.076608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Ikaalinen"
-    ],
     "name:ceb_x_preferred":[
         "Ikaalinen"
-    ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u5361\u5229\u5be7"
     ],
     "name:dan_x_preferred":[
         "Ikalis"
     ],
     "name:deu_x_preferred":[
-        "Ikaalinen"
-    ],
-    "name:dut_x_preferred":[
         "Ikaalinen"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Ikaalinen"
     ],
     "name:fra_x_preferred":[
-        "Ikaalinen"
-    ],
-    "name:fre_x_preferred":[
-        "Ikaalinen"
-    ],
-    "name:ger_x_preferred":[
         "Ikaalinen"
     ],
     "name:gle_x_preferred":[
@@ -84,9 +69,6 @@
         "Ikaalinen"
     ],
     "name:ron_x_preferred":[
-        "Ikaalinen"
-    ],
-    "name:rum_x_preferred":[
         "Ikaalinen"
     ],
     "name:rus_x_preferred":[
@@ -170,7 +152,7 @@
         }
     ],
     "wof:id":101813995,
-    "wof:lastmodified":1529711298,
+    "wof:lastmodified":1561830291,
     "wof:name":"Ikaalinen",
     "wof:parent_id":907199297,
     "wof:placetype":"locality",

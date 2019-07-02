@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000661,
-    "geom:area_square_m":3977280.547908,
+    "geom:area_square_m":3977280.547904,
     "geom:bbox":"26.8909604305,60.8889436673,26.9787631737,60.9093505266",
     "geom:latitude":60.896323,
     "geom:longitude":26.932659,
@@ -22,9 +22,6 @@
     "name:dan_x_preferred":[
         "Utti"
     ],
-    "name:dut_x_preferred":[
-        "Utti"
-    ],
     "name:eng_x_preferred":[
         "Utti"
     ],
@@ -33,6 +30,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30c3\u30c6\u30a3"
+    ],
+    "name:nld_x_preferred":[
+        "Utti"
     ],
     "name:rus_x_preferred":[
         "\u0423\u0442\u0442\u0438"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":101846787,
-    "wof:lastmodified":1553815541,
+    "wof:lastmodified":1561830277,
     "wof:name":"Utti",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

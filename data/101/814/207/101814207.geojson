@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000345,
-    "geom:area_square_m":1998111.314726,
+    "geom:area_square_m":1998111.314724,
     "geom:bbox":"26.0579622925,62.0881297315,26.1006673655,62.1077158364",
     "geom:latitude":62.097564,
     "geom:longitude":26.077402,
@@ -17,22 +17,13 @@
     "mps:longitude":26.078632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Toivakka"
-    ],
     "name:cat_x_preferred":[
         "Toivakka"
     ],
     "name:ceb_x_preferred":[
         "Toivakka"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u4f0a\u74e6\u5361"
-    ],
     "name:deu_x_preferred":[
-        "Toivakka"
-    ],
-    "name:dut_x_preferred":[
         "Toivakka"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "Toivakka"
     ],
     "name:fra_x_preferred":[
-        "Toivakka"
-    ],
-    "name:fre_x_preferred":[
-        "Toivakka"
-    ],
-    "name:ger_x_preferred":[
         "Toivakka"
     ],
     "name:ita_x_preferred":[
@@ -75,9 +60,6 @@
         "Toivakka"
     ],
     "name:ron_x_preferred":[
-        "Toivakka"
-    ],
-    "name:rum_x_preferred":[
         "Toivakka"
     ],
     "name:rus_x_preferred":[
@@ -146,7 +128,7 @@
         }
     ],
     "wof:id":101814207,
-    "wof:lastmodified":1529706347,
+    "wof:lastmodified":1561830289,
     "wof:name":"Toivakka",
     "wof:parent_id":907198813,
     "wof:placetype":"locality",

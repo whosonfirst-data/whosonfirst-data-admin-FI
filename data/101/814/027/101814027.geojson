@@ -17,19 +17,10 @@
     "mps:longitude":27.809456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Lemi"
-    ],
     "name:ceb_x_preferred":[
         "Lemi"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u7c73"
-    ],
     "name:deu_x_preferred":[
-        "Lemi"
-    ],
-    "name:dut_x_preferred":[
         "Lemi"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Lemi"
     ],
     "name:fra_x_preferred":[
-        "Lemi"
-    ],
-    "name:fre_x_preferred":[
-        "Lemi"
-    ],
-    "name:ger_x_preferred":[
         "Lemi"
     ],
     "name:heb_x_preferred":[
@@ -75,9 +60,6 @@
         "Lemi"
     ],
     "name:ron_x_preferred":[
-        "Lemi"
-    ],
-    "name:rum_x_preferred":[
         "Lemi"
     ],
     "name:rus_x_preferred":[
@@ -147,7 +129,7 @@
         }
     ],
     "wof:id":101814027,
-    "wof:lastmodified":1553815521,
+    "wof:lastmodified":1561830288,
     "wof:name":"Lemi",
     "wof:parent_id":907198959,
     "wof:placetype":"locality",

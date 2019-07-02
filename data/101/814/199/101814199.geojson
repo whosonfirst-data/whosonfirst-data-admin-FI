@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000511,
-    "geom:area_square_m":2942399.232541,
+    "geom:area_square_m":2942399.232543,
     "geom:bbox":"24.4354817481,62.2344726358,24.4865695091,62.2623852254",
     "geom:latitude":62.247471,
     "geom:longitude":24.457723,
@@ -19,9 +19,6 @@
     "name:ceb_x_preferred":[
         "Haapam\u00e4ki"
     ],
-    "name:dut_x_preferred":[
-        "Haapam\u00e4ki"
-    ],
     "name:eng_x_preferred":[
         "Haapam\u00e4ki"
     ],
@@ -31,7 +28,7 @@
     "name:fra_x_preferred":[
         "Haapam\u00e4ki"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Haapam\u00e4ki"
     ],
     "name:pol_x_preferred":[
@@ -96,7 +93,7 @@
         }
     ],
     "wof:id":101814199,
-    "wof:lastmodified":1529706347,
+    "wof:lastmodified":1561830288,
     "wof:name":"Haapam\u00e4ki",
     "wof:parent_id":907199179,
     "wof:placetype":"locality",

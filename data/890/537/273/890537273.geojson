@@ -11,7 +11,7 @@
     "figov:nimi":"HAAGA",
     "figov:nimi_se":"HAGA",
     "geom:area":0.000861,
-    "geom:area_square_m":5287636.492628,
+    "geom:area_square_m":5287636.49263,
     "geom:bbox":"24.8666375099,60.2068055878,24.914637739,60.235541508",
     "geom:latitude":60.221792,
     "geom:longitude":24.892803,
@@ -45,7 +45,7 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0433\u0430"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Haaga"
     ],
     "name:eng_x_preferred":[
@@ -57,10 +57,10 @@
     "name:fin_x_preferred":[
         "Haaga"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Haaga"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Haaga"
     ],
     "name:nob_x_preferred":[
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":890537273,
-    "wof:lastmodified":1529714723,
+    "wof:lastmodified":1561830296,
     "wof:name":"Haaga",
     "wof:parent_id":890536889,
     "wof:placetype":"macrohood",

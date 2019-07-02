@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "J\u00e4ms\u00e4nkoski"
     ],
-    "name:dut_x_preferred":[
-        "J\u00e4ms\u00e4nkoski"
-    ],
     "name:eng_x_preferred":[
         "J\u00e4ms\u00e4nkoski"
     ],
@@ -39,12 +36,6 @@
         "J\u00e4ms\u00e4nkoski"
     ],
     "name:fra_x_preferred":[
-        "J\u00e4ms\u00e4nkoski"
-    ],
-    "name:fre_x_preferred":[
-        "J\u00e4ms\u00e4nkoski"
-    ],
-    "name:ger_x_preferred":[
         "J\u00e4ms\u00e4nkoski"
     ],
     "name:ita_x_preferred":[
@@ -62,7 +53,7 @@
     "name:nob_x_preferred":[
         "J\u00e4ms\u00e4nkoski"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "J\u00e4ms\u00e4nkoski"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +123,7 @@
         }
     ],
     "wof:id":101814213,
-    "wof:lastmodified":1529706348,
+    "wof:lastmodified":1561830289,
     "wof:name":"J\u00e4ms\u00e4nkoski",
     "wof:parent_id":907199101,
     "wof:placetype":"locality",

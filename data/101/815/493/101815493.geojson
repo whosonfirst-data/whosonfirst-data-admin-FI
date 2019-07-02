@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001988,
-    "geom:area_square_m":11791613.559768,
+    "geom:area_square_m":11791613.559771,
     "geom:bbox":"22.8715751014,61.3021575462,22.9560116035,61.3646228432",
     "geom:latitude":61.335342,
     "geom:longitude":22.917277,
@@ -26,16 +26,10 @@
     "name:ceb_x_preferred":[
         "Vammala"
     ],
-    "name:chi_x_preferred":[
-        "\u4e07\u9a6c\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Vammala"
     ],
     "name:deu_x_preferred":[
-        "Vammala"
-    ],
-    "name:dut_x_preferred":[
         "Vammala"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +42,6 @@
         "Vammala"
     ],
     "name:fra_x_preferred":[
-        "Vammala"
-    ],
-    "name:fre_x_preferred":[
-        "Vammala"
-    ],
-    "name:ger_x_preferred":[
         "Vammala"
     ],
     "name:ita_x_preferred":[
@@ -80,9 +68,6 @@
     "name:ron_x_preferred":[
         "Vammala"
     ],
-    "name:rum_x_preferred":[
-        "Vammala"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u043c\u043c\u0430\u043b\u0430"
     ],
@@ -106,6 +91,9 @@
     ],
     "name:zho_x_preferred":[
         "\u74e6\u9a6c\u62c9"
+    ],
+    "name:zho_x_variant":[
+        "\u4e07\u9a6c\u62c9"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pirkanmaa#Birkaland",
@@ -159,7 +147,7 @@
         }
     ],
     "wof:id":101815493,
-    "wof:lastmodified":1529711294,
+    "wof:lastmodified":1561830281,
     "wof:name":"Vammala",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

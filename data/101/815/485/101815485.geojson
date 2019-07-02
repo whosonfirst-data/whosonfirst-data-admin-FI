@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001429,
-    "geom:area_square_m":8510837.243414,
+    "geom:area_square_m":8510837.243412,
     "geom:bbox":"23.7156675382,61.1891600165,23.811913902,61.2324389053",
     "geom:latitude":61.21094,
     "geom:longitude":23.761795,
@@ -35,9 +35,6 @@
     "name:deu_x_preferred":[
         "Viiala"
     ],
-    "name:dut_x_preferred":[
-        "Viiala"
-    ],
     "name:eng_x_preferred":[
         "Viiala"
     ],
@@ -45,12 +42,6 @@
         "Viiala"
     ],
     "name:fra_x_preferred":[
-        "Viiala"
-    ],
-    "name:fre_x_preferred":[
-        "Viiala"
-    ],
-    "name:ger_x_preferred":[
         "Viiala"
     ],
     "name:ind_x_preferred":[
@@ -75,9 +66,6 @@
         "Viiala"
     ],
     "name:ron_x_preferred":[
-        "Viiala"
-    ],
-    "name:rum_x_preferred":[
         "Viiala"
     ],
     "name:spa_x_preferred":[
@@ -147,7 +135,7 @@
         }
     ],
     "wof:id":101815485,
-    "wof:lastmodified":1529711294,
+    "wof:lastmodified":1561830278,
     "wof:name":"Viiala",
     "wof:parent_id":907199731,
     "wof:placetype":"locality",

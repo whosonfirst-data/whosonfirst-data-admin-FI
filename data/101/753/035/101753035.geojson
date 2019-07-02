@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002092,
-    "geom:area_square_m":12744667.056855,
+    "geom:area_square_m":12744667.056856,
     "geom:bbox":"22.1138391008,60.4676431903,22.2117247378,60.5151513586",
     "geom:latitude":60.487459,
     "geom:longitude":22.161192,
@@ -17,9 +17,6 @@
     "mps:longitude":22.16501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Raisio"
-    ],
     "name:ara_x_preferred":[
         "\u0631\u0627\u064a\u0633\u064a\u0648"
     ],
@@ -28,9 +25,6 @@
     ],
     "name:ceb_x_preferred":[
         "Raisio"
-    ],
-    "name:chi_x_preferred":[
-        "\u62c9\u4f0a\u897f\u5967"
     ],
     "name:dan_x_preferred":[
         "Raisio"
@@ -41,25 +35,19 @@
     "name:deu_x_preferred":[
         "Raisio"
     ],
-    "name:dut_x_preferred":[
-        "Raisio"
-    ],
     "name:eng_x_preferred":[
         "Raisio"
     ],
     "name:est_x_preferred":[
         "Raisio"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u06cc\u0633\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Raisio"
     ],
     "name:fra_x_preferred":[
-        "Raisio"
-    ],
-    "name:fre_x_preferred":[
-        "Raisio"
-    ],
-    "name:ger_x_preferred":[
         "Raisio"
     ],
     "name:hbs_x_preferred":[
@@ -113,16 +101,10 @@
     "name:nor_x_preferred":[
         "Reso"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u06cc\u0633\u06cc\u0648"
-    ],
     "name:pol_x_preferred":[
         "Raisio"
     ],
     "name:ron_x_preferred":[
-        "Raisio"
-    ],
-    "name:rum_x_preferred":[
         "Raisio"
     ],
     "name:rus_x_preferred":[
@@ -209,7 +191,7 @@
         }
     ],
     "wof:id":101753035,
-    "wof:lastmodified":1529706466,
+    "wof:lastmodified":1561830265,
     "wof:name":"Raisio",
     "wof:parent_id":907198957,
     "wof:placetype":"locality",

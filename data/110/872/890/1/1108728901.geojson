@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001138,
-    "geom:area_square_m":5931200.600708,
+    "geom:area_square_m":5931200.600705,
     "geom:bbox":"25.4657272679,65.0621996425,25.5385262043,65.0940723255",
     "geom:latitude":65.075488,
     "geom:longitude":25.496464,
@@ -20,13 +20,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Kuivasj\u00e4rvi"
+    ],
     "name:eng_x_preferred":[
         "Kuivasj\u00e4rvi"
     ],
     "name:fin_x_preferred":[
-        "Kuivasj\u00e4rvi"
-    ],
-    "name:ger_x_preferred":[
         "Kuivasj\u00e4rvi"
     ],
     "name:swe_x_preferred":[
@@ -40,14 +40,14 @@
     "reversegeo:longitude":25.490949,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":1108728901,
-    "wof:lastmodified":1529709453,
+    "wof:lastmodified":1561830255,
     "wof:name":"Kuivasjarvi",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

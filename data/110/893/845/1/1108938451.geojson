@@ -27,7 +27,7 @@
     "name:fin_x_preferred":[
         "Pit\u00e4j\u00e4nm\u00e4ki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pit\u00e4j\u00e4nm\u00e4ki"
     ],
     "name:hun_x_preferred":[
@@ -41,7 +41,6 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85683067,
         102191581,
         890537259,
         907199715,
@@ -50,7 +49,8 @@
         101748417,
         136253047,
         890536889,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1108938451,
-    "wof:lastmodified":1529714746,
+    "wof:lastmodified":1561830256,
     "wof:name":"Pitajanmaki",
     "wof:parent_id":890537259,
     "wof:placetype":"neighbourhood",

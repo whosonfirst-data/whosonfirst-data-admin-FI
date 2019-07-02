@@ -24,7 +24,7 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0443\u0442\u0430\u0439\u0435\u0440\u0432\u0438"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hautaj\u00e4rvi"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,10 @@
     "name:fin_x_preferred":[
         "Hautaj\u00e4rvi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hautaj\u00e4rvi"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Hautaj\u00e4rvi"
     ],
     "name:pol_x_preferred":[
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1125791885,
-    "wof:lastmodified":1529708132,
+    "wof:lastmodified":1561830313,
     "wof:name":"Hautaj\u00e4rvi",
     "wof:parent_id":907199555,
     "wof:placetype":"locality",

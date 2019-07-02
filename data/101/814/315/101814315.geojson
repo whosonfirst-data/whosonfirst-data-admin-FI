@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
-    "geom:area_square_m":1431090.271673,
+    "geom:area_square_m":1431090.271675,
     "geom:bbox":"27.2307584806,63.5118098128,27.2528261325,63.5327100847",
     "geom:latitude":63.520782,
     "geom:longitude":27.241509,
@@ -19,7 +19,7 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0631\u0643\u0648\u0646 \u062c\u064a\u0631\u0641\u064a"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Peltosalmi"
     ],
     "name:eng_x_preferred":[
@@ -28,7 +28,7 @@
     "name:fin_x_preferred":[
         "Peltosalmi"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Peltosalmi"
     ],
     "name:rus_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":101814315,
-    "wof:lastmodified":1529708944,
+    "wof:lastmodified":1561830286,
     "wof:name":"Peltosalmi",
     "wof:parent_id":907199351,
     "wof:placetype":"locality",

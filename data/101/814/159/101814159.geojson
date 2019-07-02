@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001073,
-    "geom:area_square_m":6113052.347891,
+    "geom:area_square_m":6113052.347894,
     "geom:bbox":"25.8075465078,62.5510957568,25.8948520937,62.583306854",
     "geom:latitude":62.565201,
     "geom:longitude":25.855852,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Suolahti"
     ],
-    "name:dut_x_preferred":[
-        "Suolahti"
-    ],
     "name:eng_x_preferred":[
         "Suolahti"
     ],
@@ -41,12 +38,6 @@
     "name:fra_x_preferred":[
         "Suolahti"
     ],
-    "name:fre_x_preferred":[
-        "Suolahti"
-    ],
-    "name:ger_x_preferred":[
-        "Suolahti"
-    ],
     "name:nld_x_preferred":[
         "Suolahti"
     ],
@@ -60,9 +51,6 @@
         "Suolahti"
     ],
     "name:ron_x_preferred":[
-        "Suolahti"
-    ],
-    "name:rum_x_preferred":[
         "Suolahti"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +116,7 @@
         }
     ],
     "wof:id":101814159,
-    "wof:lastmodified":1529706345,
+    "wof:lastmodified":1561830283,
     "wof:name":"Suolahti",
     "wof:parent_id":907199205,
     "wof:placetype":"locality",

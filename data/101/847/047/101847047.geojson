@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Vuolijoki"
     ],
-    "name:dut_x_preferred":[
-        "Vuolijoki"
-    ],
     "name:eng_x_preferred":[
         "Vuolijoki"
     ],
@@ -41,12 +38,6 @@
     "name:fra_x_preferred":[
         "Vuolijoki"
     ],
-    "name:fre_x_preferred":[
-        "Vuolijoki"
-    ],
-    "name:ger_x_preferred":[
-        "Vuolijoki"
-    ],
     "name:ita_x_preferred":[
         "Vuolijoki"
     ],
@@ -60,9 +51,6 @@
         "Vuolijoki"
     ],
     "name:ron_x_preferred":[
-        "Vuolijoki"
-    ],
-    "name:rum_x_preferred":[
         "Vuolijoki"
     ],
     "name:rus_x_preferred":[
@@ -126,7 +114,7 @@
         }
     ],
     "wof:id":101847047,
-    "wof:lastmodified":1529706645,
+    "wof:lastmodified":1561830282,
     "wof:name":"Vuolijoki",
     "wof:parent_id":907199455,
     "wof:placetype":"locality",

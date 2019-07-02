@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000378,
-    "geom:area_square_m":2321183.213659,
+    "geom:area_square_m":2321183.21366,
     "geom:bbox":"24.8989884521,60.1760262718,24.9362482321,60.1927780056",
     "geom:latitude":60.183605,
     "geom:longitude":24.920237,
@@ -36,20 +36,20 @@
     "name:cat_x_preferred":[
         "Taka-T\u00f6\u00f6l\u00f6"
     ],
+    "name:deu_x_preferred":[
+        "Taka-T\u00f6\u00f6l\u00f6"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03ba\u03b1-\u03a4\u03cc\u03bf\u03bb\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Taka-T\u00f6\u00f6l\u00f6"
     ],
     "name:fin_x_preferred":[
         "Taka-t\u00f6\u00f6l\u00f6"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Taka-T\u00f6\u00f6l\u00f6"
-    ],
-    "name:ger_x_preferred":[
-        "Taka-T\u00f6\u00f6l\u00f6"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03ac\u03ba\u03b1-\u03a4\u03cc\u03bf\u03bb\u03bf"
     ],
     "name:swe_x_preferred":[
         "Bortre T\u00f6l\u00f6"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1108727339,
-    "wof:lastmodified":1529714716,
+    "wof:lastmodified":1561830252,
     "wof:name":"Taka-toolo",
     "wof:parent_id":890536879,
     "wof:placetype":"macrohood",

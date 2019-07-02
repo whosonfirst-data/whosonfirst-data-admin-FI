@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000202,
-    "geom:area_square_m":1193020.660352,
+    "geom:area_square_m":1193020.660353,
     "geom:bbox":"24.5474002174,61.4941268652,24.5913990455,61.5083121251",
     "geom:latitude":61.50227,
     "geom:longitude":24.565426,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Kuhmalahti"
     ],
-    "name:dut_x_preferred":[
-        "Kuhmalahti"
-    ],
     "name:eng_x_preferred":[
         "Kuhmalahti"
     ],
@@ -39,12 +36,6 @@
         "Kuhmalahti"
     ],
     "name:fra_x_preferred":[
-        "Kuhmalahti"
-    ],
-    "name:fre_x_preferred":[
-        "Kuhmalahti"
-    ],
-    "name:ger_x_preferred":[
         "Kuhmalahti"
     ],
     "name:ita_x_preferred":[
@@ -63,9 +54,6 @@
         "Kuhmalahti"
     ],
     "name:ron_x_preferred":[
-        "Kuhmalahti"
-    ],
-    "name:rum_x_preferred":[
         "Kuhmalahti"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +120,7 @@
         }
     ],
     "wof:id":101846849,
-    "wof:lastmodified":1529711296,
+    "wof:lastmodified":1561830276,
     "wof:name":"Kuhmalahti",
     "wof:parent_id":907199185,
     "wof:placetype":"locality",

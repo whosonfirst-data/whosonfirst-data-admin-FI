@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000211,
-    "geom:area_square_m":1282761.027159,
+    "geom:area_square_m":1282761.027158,
     "geom:bbox":"23.2073403881,60.5131569491,23.2444891335,60.5344073254",
     "geom:latitude":60.522391,
     "geom:longitude":23.223656,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Kuusjoki"
     ],
-    "name:dut_x_preferred":[
-        "Kuusjoki"
-    ],
     "name:eng_x_preferred":[
         "Kuusjoki"
     ],
@@ -33,12 +30,6 @@
         "Kuusjoki"
     ],
     "name:fra_x_preferred":[
-        "Kuusjoki"
-    ],
-    "name:fre_x_preferred":[
-        "Kuusjoki"
-    ],
-    "name:ger_x_preferred":[
         "Kuusjoki"
     ],
     "name:ita_x_preferred":[
@@ -54,9 +45,6 @@
         "Kuusjoki"
     ],
     "name:ron_x_preferred":[
-        "Kuusjoki"
-    ],
-    "name:rum_x_preferred":[
         "Kuusjoki"
     ],
     "name:sme_x_preferred":[
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":101815359,
-    "wof:lastmodified":1529706469,
+    "wof:lastmodified":1561830280,
     "wof:name":"Kuusjoki",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

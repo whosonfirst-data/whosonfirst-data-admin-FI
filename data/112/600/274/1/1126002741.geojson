@@ -21,7 +21,7 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u062a\u0648\u0646\u0646"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Littoinen"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,10 @@
     "name:fin_x_preferred":[
         "Littoinen"
     ],
-    "name:ger_x_preferred":[
+    "name:hun_x_preferred":[
         "Littoinen"
     ],
-    "name:hun_x_preferred":[
+    "name:nld_x_preferred":[
         "Littoinen"
     ],
     "name:swe_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1126002741,
-    "wof:lastmodified":1529706482,
+    "wof:lastmodified":1561830311,
     "wof:name":"Littoinen",
     "wof:parent_id":907198993,
     "wof:placetype":"locality",

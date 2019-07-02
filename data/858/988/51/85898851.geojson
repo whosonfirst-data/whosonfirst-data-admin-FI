@@ -36,9 +36,6 @@
     "name:deu_x_preferred":[
         "Kulosaari"
     ],
-    "name:dut_x_preferred":[
-        "Kulosaari"
-    ],
     "name:eng_x_preferred":[
         "Kulosaari"
     ],
@@ -60,12 +57,6 @@
         "Palosaari"
     ],
     "name:fra_x_preferred":[
-        "Kulosaari"
-    ],
-    "name:fre_x_preferred":[
-        "Kulosaari"
-    ],
-    "name:ger_x_preferred":[
         "Kulosaari"
     ],
     "name:ita_x_preferred":[
@@ -125,7 +116,6 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":298,
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727349,
         907199715,
@@ -134,7 +124,8 @@
         101748417,
         136253047,
         890536883,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -165,7 +156,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529714763,
+    "wof:lastmodified":1561830221,
     "wof:name":"Kulosaari",
     "wof:parent_id":1108727349,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000406,
-    "geom:area_square_m":2446073.499994,
+    "geom:area_square_m":2446073.499992,
     "geom:bbox":"21.5290662495,60.8117341244,21.571390158,60.8275389312",
     "geom:latitude":60.820257,
     "geom:longitude":21.549986,
@@ -16,13 +16,13 @@
     "mps:longitude":21.54787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Kalanti"
+    ],
     "name:eng_x_preferred":[
         "Kalanti"
     ],
     "name:fin_x_preferred":[
-        "Kalanti"
-    ],
-    "name:ger_x_preferred":[
         "Kalanti"
     ],
     "name:nob_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":101815327,
-    "wof:lastmodified":1529706467,
+    "wof:lastmodified":1561830282,
     "wof:name":"Kalanti",
     "wof:parent_id":907198615,
     "wof:placetype":"locality",

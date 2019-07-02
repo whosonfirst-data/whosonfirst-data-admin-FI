@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000485,
-    "geom:area_square_m":2783228.443396,
+    "geom:area_square_m":2783228.443393,
     "geom:bbox":"21.2139226753,62.34695965,21.2388126835,62.3950325265",
     "geom:latitude":62.375484,
     "geom:longitude":21.225648,
@@ -17,28 +17,16 @@
     "mps:longitude":21.227534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kaskinen"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u057d\u056f\u056b\u0576\u0565\u0576"
-    ],
     "name:cat_x_preferred":[
         "Kaskinen"
     ],
     "name:ceb_x_preferred":[
         "Kaskinen"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u65af\u57fa\u5b81"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kaskinen"
     ],
     "name:deu_x_preferred":[
-        "Kaskinen"
-    ],
-    "name:dut_x_preferred":[
         "Kaskinen"
     ],
     "name:eng_x_preferred":[
@@ -56,14 +44,11 @@
     "name:fra_x_preferred":[
         "Kaskinen"
     ],
-    "name:fre_x_preferred":[
-        "Kaskinen"
-    ],
-    "name:ger_x_preferred":[
-        "Kaskinen"
-    ],
     "name:hbs_x_preferred":[
         "Kaskinen"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057d\u056f\u056b\u0576\u0565\u0576"
     ],
     "name:ita_x_preferred":[
         "Kaskinen"
@@ -92,9 +77,6 @@
     "name:ron_x_preferred":[
         "Kaskinen"
     ],
-    "name:rum_x_preferred":[
-        "Kaskinen"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u043a\u0438\u043d\u0435\u043d"
     ],
@@ -121,6 +103,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u65af\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u65af\u57fa\u5b81"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjanmaa#\u00d6sterbotten",
@@ -174,7 +159,7 @@
         }
     ],
     "wof:id":101814253,
-    "wof:lastmodified":1529709677,
+    "wof:lastmodified":1561830289,
     "wof:name":"Kaskinen",
     "wof:parent_id":907199039,
     "wof:placetype":"locality",

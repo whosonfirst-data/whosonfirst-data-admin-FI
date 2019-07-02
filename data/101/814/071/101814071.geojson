@@ -17,22 +17,13 @@
     "mps:longitude":26.77569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Hirvensalmi"
-    ],
     "name:bel_x_preferred":[
         "\u0425\u0456\u0440\u0432\u0435\u043d\u0441\u0430\u043b\u043c\u0456"
     ],
     "name:ceb_x_preferred":[
         "Hirvensalmi"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u6587\u85a9\u723e\u7c73"
-    ],
     "name:deu_x_preferred":[
-        "Hirvensalmi"
-    ],
-    "name:dut_x_preferred":[
         "Hirvensalmi"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Hirvensalmi"
     ],
     "name:fra_x_preferred":[
-        "Hirvensalmi"
-    ],
-    "name:fre_x_preferred":[
-        "Hirvensalmi"
-    ],
-    "name:ger_x_preferred":[
         "Hirvensalmi"
     ],
     "name:ita_x_preferred":[
@@ -66,9 +51,6 @@
         "Hirvensalmi"
     ],
     "name:ron_x_preferred":[
-        "Hirvensalmi"
-    ],
-    "name:rum_x_preferred":[
         "Hirvensalmi"
     ],
     "name:rus_x_preferred":[
@@ -140,7 +122,7 @@
         }
     ],
     "wof:id":101814071,
-    "wof:lastmodified":1529714453,
+    "wof:lastmodified":1561830285,
     "wof:name":"Hirvensalmi",
     "wof:parent_id":907198755,
     "wof:placetype":"locality",

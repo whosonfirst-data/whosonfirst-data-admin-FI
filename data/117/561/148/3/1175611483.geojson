@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000682,
-    "geom:area_square_m":566747.94782,
+    "geom:area_square_m":4163781.548283,
     "geom:bbox":"23.0564687109,60.3755664968,23.1056616723,60.4164167987",
     "geom:latitude":60.400113,
     "geom:longitude":23.080362,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Halikko"
     ],
-    "name:dut_x_preferred":[
-        "Halikko"
-    ],
     "name:eng_x_preferred":[
         "Halikko"
     ],
@@ -36,12 +33,6 @@
         "Halikko"
     ],
     "name:fra_x_preferred":[
-        "Halikko"
-    ],
-    "name:fre_x_preferred":[
-        "Halikko"
-    ],
-    "name:ger_x_preferred":[
         "Halikko"
     ],
     "name:hun_x_preferred":[
@@ -63,9 +54,6 @@
         "Halikko"
     ],
     "name:ron_x_preferred":[
-        "Halikko"
-    ],
-    "name:rum_x_preferred":[
         "Halikko"
     ],
     "name:rus_x_preferred":[
@@ -131,7 +119,7 @@
         }
     ],
     "wof:id":1175611483,
-    "wof:lastmodified":1534985891,
+    "wof:lastmodified":1561830257,
     "wof:name":"Halikko",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

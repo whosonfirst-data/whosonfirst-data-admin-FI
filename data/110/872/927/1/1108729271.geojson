@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001874,
-    "geom:area_square_m":11533588.374457,
+    "geom:area_square_m":11533588.374456,
     "geom:bbox":"24.7533452781,60.1390468365,24.8443743818,60.1715546825",
     "geom:latitude":60.157219,
     "geom:longitude":24.805593,
@@ -31,7 +31,7 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0443\u043a\u0438\u043b\u0430\u0445\u0442\u0438"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Haukilahti"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +40,10 @@
     "name:fin_x_preferred":[
         "Haukilahti-Westend"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Haukilahti-Westend"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Haukilahti"
     ],
     "name:swe_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108729271,
-    "wof:lastmodified":1529714720,
+    "wof:lastmodified":1561830255,
     "wof:name":"Haukilahti-Westend",
     "wof:parent_id":1108729225,
     "wof:placetype":"macrohood",

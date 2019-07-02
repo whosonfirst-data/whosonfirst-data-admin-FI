@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000865,
-    "geom:area_square_m":4870264.740905,
+    "geom:area_square_m":4870264.740907,
     "geom:bbox":"30.2157315335,62.904385813,30.2864987717,62.9297515373",
     "geom:latitude":62.917371,
     "geom:longitude":30.248592,
@@ -16,9 +16,6 @@
     "mps:longitude":30.233849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Uimaharju"
-    ],
     "name:eng_x_preferred":[
         "Uimaharju"
     ],
@@ -26,6 +23,9 @@
         "Uimaharju"
     ],
     "name:fin_x_preferred":[
+        "Uimaharju"
+    ],
+    "name:nld_x_preferred":[
         "Uimaharju"
     ],
     "name:rus_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101814341,
-    "wof:lastmodified":1529706706,
+    "wof:lastmodified":1561830286,
     "wof:name":"Uimaharju",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

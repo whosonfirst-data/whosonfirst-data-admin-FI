@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000808,
-    "geom:area_square_m":4962706.772363,
+    "geom:area_square_m":4962706.772362,
     "geom:bbox":"24.7716578867,60.1912447865,24.8468585095,60.2093228412",
     "geom:latitude":60.202323,
     "geom:longitude":24.807706,
@@ -28,16 +28,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
-    "name:dut_x_preferred":[
-        "Laajalahti"
-    ],
     "name:eng_x_preferred":[
         "Laajalahti"
     ],
     "name:fin_x_preferred":[
         "Laajalahti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Laajalahti"
+    ],
+    "name:nld_x_preferred":[
         "Laajalahti"
     ],
     "name:swe_x_preferred":[
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1108729277,
-    "wof:lastmodified":1529714720,
+    "wof:lastmodified":1561830255,
     "wof:name":"Laajalahti",
     "wof:parent_id":1108729225,
     "wof:placetype":"macrohood",

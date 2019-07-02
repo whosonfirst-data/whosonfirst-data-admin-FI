@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003026,
-    "geom:area_square_m":18627630.414649,
+    "geom:area_square_m":18627630.414651,
     "geom:bbox":"25.0221729417,60.1188128081,25.1239591892,60.1581801008",
     "geom:latitude":60.139715,
     "geom:longitude":25.06923,
@@ -31,9 +31,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627\u0647\u0627\u0645\u064a\u0646\u0627"
     ],
-    "name:dut_x_preferred":[
-        "Santahamina"
-    ],
     "name:eng_x_preferred":[
         "Santahamina"
     ],
@@ -47,11 +44,14 @@
         "Santahaminassa",
         "Santahaminasta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santahamina"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30bf\u30cf\u30df\u30ca\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Santahamina"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430\u0445\u0430\u043c\u0438\u043d\u0430"
@@ -95,7 +95,6 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85683067,
         102191581,
         890537275,
         907199715,
@@ -104,7 +103,8 @@
         101748417,
         136253047,
         890536883,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,7 +134,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529714763,
+    "wof:lastmodified":1561830221,
     "wof:name":"Santahamina",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",

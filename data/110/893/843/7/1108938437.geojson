@@ -23,9 +23,6 @@
     "mz:max_zoom":16.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Jakom\u00e4ki"
-    ],
     "name:eng_x_preferred":[
         "Jakom\u00e4ki"
     ],
@@ -35,7 +32,10 @@
     "name:fin_x_preferred":[
         "Jakom\u00e4ki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Jakom\u00e4ki"
+    ],
+    "name:nld_x_preferred":[
         "Jakom\u00e4ki"
     ],
     "name:nno_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1108938437,
-    "wof:lastmodified":1534379299,
+    "wof:lastmodified":1561830256,
     "wof:name":"Jakomaki",
     "wof:parent_id":1108727371,
     "wof:placetype":"neighbourhood",

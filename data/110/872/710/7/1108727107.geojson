@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000363,
-    "geom:area_square_m":2229478.760431,
+    "geom:area_square_m":2229478.760433,
     "geom:bbox":"24.8386510037,60.2350495565,24.879049563,60.2544456988",
     "geom:latitude":60.24742,
     "geom:longitude":24.859287,
@@ -34,7 +34,7 @@
     "name:fin_x_preferred":[
         "Malminkartano"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Malminkartano"
     ],
     "name:swe_x_preferred":[
@@ -47,7 +47,6 @@
         "quattroshapes_pg"
     ],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537241,
         907199715,
@@ -56,7 +55,8 @@
         101748417,
         136253047,
         890536889,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108727107,
-    "wof:lastmodified":1529714731,
+    "wof:lastmodified":1561830255,
     "wof:name":"Malminkartano",
     "wof:parent_id":890537241,
     "wof:placetype":"neighbourhood",

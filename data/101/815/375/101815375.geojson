@@ -17,19 +17,13 @@
     "mps:longitude":22.693576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Sauvo"
-    ],
     "name:ceb_x_preferred":[
         "Sauvo"
     ],
-    "name:chi_x_preferred":[
-        "\u7d39\u6c83"
-    ],
-    "name:deu_x_preferred":[
+    "name:cym_x_preferred":[
         "Sauvo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sauvo"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "Sauvo"
     ],
     "name:fra_x_preferred":[
-        "Sauvo"
-    ],
-    "name:fre_x_preferred":[
-        "Sauvo"
-    ],
-    "name:ger_x_preferred":[
         "Sauvo"
     ],
     "name:ita_x_preferred":[
@@ -71,9 +59,6 @@
     "name:ron_x_preferred":[
         "Sauvo"
     ],
-    "name:rum_x_preferred":[
-        "Sauvo"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0443\u0432\u043e"
     ],
@@ -85,9 +70,6 @@
     ],
     "name:swe_x_preferred":[
         "Sagu"
-    ],
-    "name:wel_x_preferred":[
-        "Sauvo"
     ],
     "name:zho_x_preferred":[
         "\u7d39\u6c83"
@@ -144,7 +126,7 @@
         }
     ],
     "wof:id":101815375,
-    "wof:lastmodified":1553815521,
+    "wof:lastmodified":1561830282,
     "wof:name":"Sauvo",
     "wof:parent_id":907198941,
     "wof:placetype":"locality",

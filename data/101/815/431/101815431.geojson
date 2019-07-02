@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000327,
-    "geom:area_square_m":1978751.081535,
+    "geom:area_square_m":1978751.081536,
     "geom:bbox":"26.428860971,60.7094291614,26.4747065732,60.7263230916",
     "geom:latitude":60.718579,
     "geom:longitude":26.448574,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Elim\u00e4ki"
     ],
-    "name:dut_x_preferred":[
-        "Elim\u00e4ki"
-    ],
     "name:eng_x_preferred":[
         "Elim\u00e4ki"
     ],
@@ -36,12 +33,6 @@
         "Elim\u00e4ki"
     ],
     "name:fra_x_preferred":[
-        "Elim\u00e4ki"
-    ],
-    "name:fre_x_preferred":[
-        "Elim\u00e4ki"
-    ],
-    "name:ger_x_preferred":[
         "Elim\u00e4ki"
     ],
     "name:ita_x_preferred":[
@@ -63,9 +54,6 @@
         "Elim\u00e4ki"
     ],
     "name:ron_x_preferred":[
-        "Elim\u00e4ki"
-    ],
-    "name:rum_x_preferred":[
         "Elim\u00e4ki"
     ],
     "name:rus_x_preferred":[
@@ -135,7 +123,7 @@
         }
     ],
     "wof:id":101815431,
-    "wof:lastmodified":1529707608,
+    "wof:lastmodified":1561830279,
     "wof:name":"Elim\u00e4ki",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

@@ -22,22 +22,16 @@
     "name:deu_x_preferred":[
         "Velkua"
     ],
-    "name:dut_x_preferred":[
-        "Velkua"
-    ],
     "name:eng_x_preferred":[
         "Velkua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06a9\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Velkua"
     ],
     "name:fra_x_preferred":[
-        "Velkua"
-    ],
-    "name:fre_x_preferred":[
-        "Velkua"
-    ],
-    "name:ger_x_preferred":[
         "Velkua"
     ],
     "name:ita_x_preferred":[
@@ -49,13 +43,7 @@
     "name:nob_x_preferred":[
         "Velkua"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u06a9\u0648\u0627"
-    ],
     "name:ron_x_preferred":[
-        "Velkua"
-    ],
-    "name:rum_x_preferred":[
         "Velkua"
     ],
     "name:sme_x_preferred":[
@@ -112,7 +100,7 @@
         }
     ],
     "wof:id":1125902959,
-    "wof:lastmodified":1529706482,
+    "wof:lastmodified":1561830309,
     "wof:name":"Velkua",
     "wof:parent_id":907198913,
     "wof:placetype":"locality",

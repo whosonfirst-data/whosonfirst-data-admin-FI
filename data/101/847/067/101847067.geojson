@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000467,
-    "geom:area_square_m":2454128.794326,
+    "geom:area_square_m":2454128.794324,
     "geom:bbox":"25.1639464557,64.8238847736,25.2089178999,64.8471878275",
     "geom:latitude":64.834737,
     "geom:longitude":25.188618,
@@ -17,25 +17,13 @@
     "mps:longitude":25.192025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Lumijoki"
-    ],
     "name:ceb_x_preferred":[
         "Lumijoki"
     ],
     "name:ces_x_preferred":[
         "Lumijoki"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u7c73\u7d04\u57fa"
-    ],
-    "name:cze_x_preferred":[
-        "Lumijoki"
-    ],
     "name:deu_x_preferred":[
-        "Lumijoki"
-    ],
-    "name:dut_x_preferred":[
         "Lumijoki"
     ],
     "name:ell_x_preferred":[
@@ -49,15 +37,6 @@
     ],
     "name:fra_x_preferred":[
         "Lumijoki"
-    ],
-    "name:fre_x_preferred":[
-        "Lumijoki"
-    ],
-    "name:ger_x_preferred":[
-        "Lumijoki"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c5\u03bc\u03b9\u03b3\u03b9\u03cc\u03ba\u03b9"
     ],
     "name:ita_x_preferred":[
         "Lumijoki"
@@ -78,9 +57,6 @@
         "Lumijoki"
     ],
     "name:ron_x_preferred":[
-        "Lumijoki"
-    ],
-    "name:rum_x_preferred":[
         "Lumijoki"
     ],
     "name:rus_x_preferred":[
@@ -159,7 +135,7 @@
         }
     ],
     "wof:id":101847067,
-    "wof:lastmodified":1529709420,
+    "wof:lastmodified":1561830283,
     "wof:name":"Lumijoki",
     "wof:parent_id":907199537,
     "wof:placetype":"locality",

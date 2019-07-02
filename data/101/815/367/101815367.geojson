@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001476,
-    "geom:area_square_m":9009373.370531,
+    "geom:area_square_m":9009373.370526,
     "geom:bbox":"22.4576272448,60.4063428838,22.5510179869,60.4427017464",
     "geom:latitude":60.425934,
     "geom:longitude":22.505457,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Piikki\u00f6"
     ],
-    "name:dut_x_preferred":[
-        "Piikki\u00f6"
-    ],
     "name:eng_x_preferred":[
         "Piikki\u00f6"
     ],
@@ -33,12 +30,6 @@
         "Piikki\u00f6"
     ],
     "name:fra_x_preferred":[
-        "Piikki\u00f6"
-    ],
-    "name:fre_x_preferred":[
-        "Piikki\u00f6"
-    ],
-    "name:ger_x_preferred":[
         "Piikki\u00f6"
     ],
     "name:ita_x_preferred":[
@@ -54,9 +45,6 @@
         "Pikis"
     ],
     "name:ron_x_preferred":[
-        "Piikki\u00f6"
-    ],
-    "name:rum_x_preferred":[
         "Piikki\u00f6"
     ],
     "name:sme_x_preferred":[
@@ -123,7 +111,7 @@
         }
     ],
     "wof:id":101815367,
-    "wof:lastmodified":1529706470,
+    "wof:lastmodified":1561830280,
     "wof:name":"Piikki\u00f6",
     "wof:parent_id":907198993,
     "wof:placetype":"locality",

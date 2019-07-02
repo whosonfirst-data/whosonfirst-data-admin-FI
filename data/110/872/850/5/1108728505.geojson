@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000396,
-    "geom:area_square_m":2335548.491305,
+    "geom:area_square_m":2335548.491308,
     "geom:bbox":"23.7221742829,61.4997508143,23.7576039821,61.5195887426",
     "geom:latitude":61.508931,
     "geom:longitude":23.741321,
@@ -29,7 +29,7 @@
     "name:fin_x_preferred":[
         "S\u00e4rk\u00e4nniemi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "S\u00e4rk\u00e4nniemi"
     ],
     "reversegeo:latitude":61.509369,
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1108728505,
-    "wof:lastmodified":1553816490,
+    "wof:lastmodified":1561830250,
     "wof:name":"Sarkanniemi",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

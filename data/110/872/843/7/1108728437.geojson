@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000886,
-    "geom:area_square_m":5230960.118107,
+    "geom:area_square_m":5230960.118111,
     "geom:bbox":"23.8569672599,61.4538305146,23.9262266716,61.4786050101",
     "geom:latitude":61.466275,
     "geom:longitude":23.893802,
@@ -20,16 +20,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Kaukaj\u00e4rvi"
+    ],
     "name:eng_x_preferred":[
         "Kaukaj\u00e4rvi"
     ],
     "name:fin_x_preferred":[
         "Kaukaj\u00e4rvi"
     ],
-    "name:fre_x_preferred":[
-        "Kaukaj\u00e4rvi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kaukaj\u00e4rvi"
     ],
     "reversegeo:latitude":61.46645,
@@ -39,14 +39,14 @@
     "tmpgov:id":"307060",
     "tmpgov:name":"Kaukaj\u00e4rvi",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1108728437,
-    "wof:lastmodified":1529711332,
+    "wof:lastmodified":1561830249,
     "wof:name":"Kaukajarvi",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

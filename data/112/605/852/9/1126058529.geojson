@@ -16,14 +16,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Solf"
+    ],
     "name:eng_x_preferred":[
         "Solf"
     ],
     "name:fin_x_preferred":[
         "Sulva"
-    ],
-    "name:ger_x_preferred":[
-        "Solf"
     ],
     "name:nob_x_preferred":[
         "Solf"
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1126058529,
-    "wof:lastmodified":1529709688,
+    "wof:lastmodified":1561830304,
     "wof:name":"Solf",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

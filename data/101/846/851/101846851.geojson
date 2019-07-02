@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00028,
-    "geom:area_square_m":1650379.763,
+    "geom:area_square_m":1650379.762999,
     "geom:bbox":"24.3152710646,61.4676019432,24.3574790671,61.4877223561",
     "geom:latitude":61.477697,
     "geom:longitude":24.333731,
@@ -29,9 +29,6 @@
     "name:deu_x_preferred":[
         "Sahalahti"
     ],
-    "name:dut_x_preferred":[
-        "Sahalahti"
-    ],
     "name:eng_x_preferred":[
         "Sahalahti"
     ],
@@ -39,12 +36,6 @@
         "Sahalahti"
     ],
     "name:fra_x_preferred":[
-        "Sahalahti"
-    ],
-    "name:fre_x_preferred":[
-        "Sahalahti"
-    ],
-    "name:ger_x_preferred":[
         "Sahalahti"
     ],
     "name:nld_x_preferred":[
@@ -57,9 +48,6 @@
         "Sahalahti"
     ],
     "name:ron_x_preferred":[
-        "Sahalahti"
-    ],
-    "name:rum_x_preferred":[
         "Sahalahti"
     ],
     "name:rus_x_preferred":[
@@ -120,7 +108,7 @@
         }
     ],
     "wof:id":101846851,
-    "wof:lastmodified":1529711296,
+    "wof:lastmodified":1561830273,
     "wof:name":"Sahalahti",
     "wof:parent_id":907199185,
     "wof:placetype":"locality",

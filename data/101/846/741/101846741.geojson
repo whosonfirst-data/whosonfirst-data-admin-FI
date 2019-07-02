@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000232,
-    "geom:area_square_m":1412028.090664,
+    "geom:area_square_m":1412028.090665,
     "geom:bbox":"21.3385777818,60.5392060139,21.3708863199,60.5527916193",
     "geom:latitude":60.546655,
     "geom:longitude":21.354226,
@@ -17,22 +17,13 @@
     "mps:longitude":21.354226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kustavi"
-    ],
     "name:ceb_x_preferred":[
         "Kustavi"
-    ],
-    "name:chi_x_preferred":[
-        "\u5eab\u65af\u5854\u7dad"
     ],
     "name:dan_x_preferred":[
         "Gustavs"
     ],
     "name:deu_x_preferred":[
-        "Kustavi"
-    ],
-    "name:dut_x_preferred":[
         "Kustavi"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Kustavi"
     ],
     "name:fra_x_preferred":[
-        "Kustavi"
-    ],
-    "name:fre_x_preferred":[
-        "Kustavi"
-    ],
-    "name:ger_x_preferred":[
         "Kustavi"
     ],
     "name:glg_x_preferred":[
@@ -78,9 +63,6 @@
         "Kustavi"
     ],
     "name:ron_x_preferred":[
-        "Kustavi"
-    ],
-    "name:rum_x_preferred":[
         "Kustavi"
     ],
     "name:rus_x_preferred":[
@@ -158,7 +140,7 @@
         }
     ],
     "wof:id":101846741,
-    "wof:lastmodified":1529706473,
+    "wof:lastmodified":1561830275,
     "wof:name":"Kustavi",
     "wof:parent_id":907198611,
     "wof:placetype":"locality",

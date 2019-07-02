@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "S\u00e4yn\u00e4tsalo"
     ],
-    "name:dut_x_preferred":[
-        "S\u00e4yn\u00e4tsalo"
-    ],
     "name:eng_x_preferred":[
         "S\u00e4yn\u00e4tsalo"
     ],
@@ -38,10 +35,7 @@
     "name:fra_x_preferred":[
         "S\u00e4yn\u00e4tsalo"
     ],
-    "name:fre_x_preferred":[
-        "S\u00e4yn\u00e4tsalo"
-    ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "S\u00e4yn\u00e4tsalo"
     ],
     "name:nob_x_preferred":[
@@ -109,7 +103,7 @@
         }
     ],
     "wof:id":101814203,
-    "wof:lastmodified":1529706347,
+    "wof:lastmodified":1561830286,
     "wof:name":"S\u00e4yn\u00e4tsalo",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

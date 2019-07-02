@@ -17,12 +17,6 @@
     "mps:longitude":26.988396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Utsjoki"
-    ],
-    "name:baq_x_preferred":[
-        "Utsjoki"
-    ],
     "name:cat_x_preferred":[
         "Utsjoki"
     ],
@@ -32,19 +26,10 @@
     "name:ces_x_preferred":[
         "Utsjoki"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u8328\u7d04\u57fa"
-    ],
     "name:cym_x_preferred":[
         "Ohcejohka"
     ],
-    "name:cze_x_preferred":[
-        "Utsjoki"
-    ],
     "name:deu_x_preferred":[
-        "Utsjoki"
-    ],
-    "name:dut_x_preferred":[
         "Utsjoki"
     ],
     "name:eng_x_preferred":[
@@ -63,12 +48,6 @@
         "Utsjoki"
     ],
     "name:fra_x_preferred":[
-        "Utsjoki"
-    ],
-    "name:fre_x_preferred":[
-        "Utsjoki"
-    ],
-    "name:ger_x_preferred":[
         "Utsjoki"
     ],
     "name:glg_x_preferred":[
@@ -104,9 +83,6 @@
     "name:ron_x_preferred":[
         "Utsjoki"
     ],
-    "name:rum_x_preferred":[
-        "Utsjoki"
-    ],
     "name:rus_x_preferred":[
         "\u0423\u0442\u0441\u0439\u043e\u043a\u0438"
     ],
@@ -130,9 +106,6 @@
     ],
     "name:vie_x_preferred":[
         "Utsjoki"
-    ],
-    "name:wel_x_preferred":[
-        "Ohcejohka"
     ],
     "name:zho_x_preferred":[
         "\u70cf\u8328\u7d04\u57fa"
@@ -191,7 +164,7 @@
         }
     ],
     "wof:id":1175611479,
-    "wof:lastmodified":1544731507,
+    "wof:lastmodified":1561830257,
     "wof:name":"Utsjoki",
     "wof:parent_id":907199575,
     "wof:placetype":"locality",

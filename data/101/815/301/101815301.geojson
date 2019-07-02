@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000752,
-    "geom:area_square_m":4634259.934591,
+    "geom:area_square_m":4634259.934592,
     "geom:bbox":"23.5079267153,60.0882621041,23.5976188472,60.1158262354",
     "geom:latitude":60.101145,
     "geom:longitude":23.540523,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Pohja"
     ],
-    "name:dut_x_preferred":[
-        "Pohja"
-    ],
     "name:eng_x_preferred":[
         "Pohja"
     ],
@@ -36,12 +33,6 @@
         "Pohja"
     ],
     "name:fra_x_preferred":[
-        "Pohja"
-    ],
-    "name:fre_x_preferred":[
-        "Pohja"
-    ],
-    "name:ger_x_preferred":[
         "Pohja"
     ],
     "name:heb_x_preferred":[
@@ -69,9 +60,6 @@
         "Pohja"
     ],
     "name:ron_x_preferred":[
-        "Pohja"
-    ],
-    "name:rum_x_preferred":[
         "Pohja"
     ],
     "name:rus_x_preferred":[
@@ -141,7 +129,7 @@
         }
     ],
     "wof:id":101815301,
-    "wof:lastmodified":1529714674,
+    "wof:lastmodified":1561830278,
     "wof:name":"Pohja",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

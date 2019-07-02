@@ -17,9 +17,6 @@
     "mps:longitude":27.549005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ivalo"
-    ],
     "name:cat_x_preferred":[
         "Ivalo"
     ],
@@ -29,19 +26,13 @@
     "name:ces_x_preferred":[
         "Ivalo"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u74e6\u6d1b"
-    ],
-    "name:cze_x_preferred":[
-        "Ivalo"
+    "name:cym_x_preferred":[
+        "Avveel"
     ],
     "name:dan_x_preferred":[
         "Ivalo"
     ],
     "name:deu_x_preferred":[
-        "Ivalo"
-    ],
-    "name:dut_x_preferred":[
         "Ivalo"
     ],
     "name:eng_x_preferred":[
@@ -60,12 +51,6 @@
         "Ivalo"
     ],
     "name:fra_x_preferred":[
-        "Ivalo"
-    ],
-    "name:fre_x_preferred":[
-        "Ivalo"
-    ],
-    "name:ger_x_preferred":[
         "Ivalo"
     ],
     "name:hun_x_preferred":[
@@ -104,9 +89,6 @@
     "name:ron_x_preferred":[
         "Ivalo"
     ],
-    "name:rum_x_preferred":[
-        "Ivalo"
-    ],
     "name:rus_x_preferred":[
         "\u0418\u0432\u0430\u043b\u043e"
     ],
@@ -125,8 +107,8 @@
     "name:unk_x_variant":[
         "Kyr\u00f6"
     ],
-    "name:wel_x_preferred":[
-        "Avveel"
+    "name:zho_x_preferred":[
+        "\u4f0a\u74e6\u6d1b"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Lappi#Lappland",
@@ -182,7 +164,7 @@
         }
     ],
     "wof:id":101814511,
-    "wof:lastmodified":1529708125,
+    "wof:lastmodified":1561830287,
     "wof:name":"Ivalo",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

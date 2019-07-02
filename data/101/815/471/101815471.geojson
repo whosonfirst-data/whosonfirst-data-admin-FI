@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001349,
-    "geom:area_square_m":7993578.082266,
+    "geom:area_square_m":7993578.082267,
     "geom:bbox":"21.966763675,61.34904314,22.0644728426,61.3860669271",
     "geom:latitude":61.36687,
     "geom:longitude":22.014758,
@@ -17,19 +17,10 @@
     "mps:longitude":22.002615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Nakkila"
-    ],
     "name:ceb_x_preferred":[
         "Nakkila"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u57fa\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "Nakkila"
-    ],
-    "name:dut_x_preferred":[
         "Nakkila"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "Nakkila"
     ],
     "name:fra_x_preferred":[
-        "Nakkila"
-    ],
-    "name:fre_x_preferred":[
-        "Nakkila"
-    ],
-    "name:ger_x_preferred":[
         "Nakkila"
     ],
     "name:ita_x_preferred":[
@@ -66,9 +51,6 @@
         "Nakkila"
     ],
     "name:ron_x_preferred":[
-        "Nakkila"
-    ],
-    "name:rum_x_preferred":[
         "Nakkila"
     ],
     "name:rus_x_preferred":[
@@ -150,7 +132,7 @@
         }
     ],
     "wof:id":101815471,
-    "wof:lastmodified":1529712492,
+    "wof:lastmodified":1561830278,
     "wof:name":"Nakkila",
     "wof:parent_id":907198705,
     "wof:placetype":"locality",

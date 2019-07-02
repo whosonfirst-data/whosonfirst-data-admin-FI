@@ -17,26 +17,20 @@
     "mps:longitude":27.191854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Iisalmi"
-    ],
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u0644\u0645\u064a"
     ],
     "name:ceb_x_preferred":[
         "Iisalmi"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u85a9\u723e\u7c73"
-    ],
     "name:deu_x_preferred":[
-        "Iisalmi"
-    ],
-    "name:dut_x_preferred":[
         "Iisalmi"
     ],
     "name:ell_x_preferred":[
         "\u038a\u03b9\u03c3\u03b1\u03bb\u03bc\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0399\u03af\u03c3\u03b1\u03bb\u03bc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Iisalmi"
@@ -55,15 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Iisalmi"
-    ],
-    "name:fre_x_preferred":[
-        "Iisalmi"
-    ],
-    "name:ger_x_preferred":[
-        "Iisalmi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03af\u03c3\u03b1\u03bb\u03bc\u03b9"
     ],
     "name:hbs_x_preferred":[
         "Iisalmi"
@@ -102,9 +87,6 @@
         "Iisalmi"
     ],
     "name:ron_x_preferred":[
-        "Iisalmi"
-    ],
-    "name:rum_x_preferred":[
         "Iisalmi"
     ],
     "name:rus_x_preferred":[
@@ -198,7 +180,7 @@
         }
     ],
     "wof:id":101814313,
-    "wof:lastmodified":1535390518,
+    "wof:lastmodified":1561830287,
     "wof:name":"Iisalmi",
     "wof:parent_id":907199351,
     "wof:placetype":"locality",

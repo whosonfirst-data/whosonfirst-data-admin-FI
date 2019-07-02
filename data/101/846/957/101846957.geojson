@@ -16,13 +16,13 @@
     "mps:longitude":22.43642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Munsala"
+    ],
     "name:eng_x_preferred":[
         "Munsala"
     ],
     "name:fin_x_preferred":[
-        "Munsala"
-    ],
-    "name:ger_x_preferred":[
         "Munsala"
     ],
     "name:nob_x_preferred":[
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":101846957,
-    "wof:lastmodified":1529709681,
+    "wof:lastmodified":1561830275,
     "wof:name":"Munsala",
     "wof:parent_id":907199045,
     "wof:placetype":"locality",

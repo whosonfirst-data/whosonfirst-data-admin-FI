@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":568572.896593,
+    "geom:area_square_m":568572.896591,
     "geom:bbox":"25.4529506156,65.0099485904,25.4798467411,65.017352005",
     "geom:latitude":65.013772,
     "geom:longitude":25.467271,
@@ -20,16 +20,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Pokkinen"
+    ],
     "name:eng_x_preferred":[
         "Pokkinen"
     ],
     "name:fin_x_preferred":[
         "Pokkinen"
     ],
-    "name:fre_x_preferred":[
-        "Pokkinen"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pokkinen"
     ],
     "name:swe_x_preferred":[
@@ -43,14 +43,14 @@
     "reversegeo:longitude":25.471549,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1108729003,
-    "wof:lastmodified":1529709462,
+    "wof:lastmodified":1561830247,
     "wof:name":"Pokkinen",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

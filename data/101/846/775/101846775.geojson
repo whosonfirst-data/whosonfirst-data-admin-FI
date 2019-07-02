@@ -17,16 +17,7 @@
     "mps:longitude":24.43774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Loppi"
-    ],
-    "name:baq_x_preferred":[
-        "Loppi"
-    ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u76ae"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Loppi"
     ],
     "name:eng_x_preferred":[
@@ -35,13 +26,13 @@
     "name:est_x_preferred":[
         "Loppi vald"
     ],
+    "name:eus_x_preferred":[
+        "Loppi"
+    ],
     "name:fin_x_preferred":[
         "Loppi"
     ],
-    "name:fre_x_preferred":[
-        "Loppi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Loppi"
     ],
     "name:hun_x_preferred":[
@@ -50,13 +41,16 @@
     "name:ita_x_preferred":[
         "Loppi"
     ],
+    "name:nld_x_preferred":[
+        "Loppi"
+    ],
     "name:nob_x_preferred":[
         "Loppi"
     ],
     "name:pol_x_preferred":[
         "Loppi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Loppi"
     ],
     "name:rus_x_preferred":[
@@ -65,8 +59,14 @@
     "name:sme_x_preferred":[
         "Loppi"
     ],
+    "name:sqi_x_preferred":[
+        "Loppi"
+    ],
     "name:swe_x_preferred":[
         "Loppi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u76ae"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Kanta-H\u00e4me#Egentliga Tavastland",
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":101846775,
-    "wof:lastmodified":1529711989,
+    "wof:lastmodified":1561830277,
     "wof:name":"Loppi",
     "wof:parent_id":907198573,
     "wof:placetype":"locality",

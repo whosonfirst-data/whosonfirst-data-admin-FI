@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Pitk\u00e4m\u00e4ki"
+    ],
     "name:eng_x_preferred":[
         "Pitk\u00e4m\u00e4ki"
     ],
@@ -25,9 +28,6 @@
         "Pitk\u00e4m\u00e4ki"
     ],
     "name:fin_x_preferred":[
-        "Pitk\u00e4m\u00e4ki"
-    ],
-    "name:ger_x_preferred":[
         "Pitk\u00e4m\u00e4ki"
     ],
     "name:koi_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125899763,
-    "wof:lastmodified":1553816611,
+    "wof:lastmodified":1561830307,
     "wof:name":"Pitk\u00e4m\u00e4ki",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000051,
-    "geom:area_square_m":312456.710774,
+    "geom:area_square_m":312456.710775,
     "geom:bbox":"24.9639640055,60.201498103,24.9779546278,60.2126584171",
     "geom:latitude":60.207912,
     "geom:longitude":24.971258,
@@ -54,12 +54,6 @@
     "name:fra_x_preferred":[
         "Toukola"
     ],
-    "name:fre_x_preferred":[
-        "Toukola"
-    ],
-    "name:ger_x_preferred":[
-        "Toukola"
-    ],
     "name:nob_x_preferred":[
         "Majstad"
     ],
@@ -106,7 +100,6 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":122,
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727357,
         907199715,
@@ -115,7 +108,8 @@
         101748417,
         136253047,
         890536885,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -148,7 +142,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529714762,
+    "wof:lastmodified":1561830221,
     "wof:name":"Toukola",
     "wof:parent_id":1108727357,
     "wof:placetype":"neighbourhood",

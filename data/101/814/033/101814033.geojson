@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000669,
-    "geom:area_square_m":3956963.536603,
+    "geom:area_square_m":3956963.536608,
     "geom:bbox":"29.3321115632,61.4216394014,29.3992553898,61.447224951",
     "geom:latitude":61.433038,
     "geom:longitude":29.365039,
@@ -28,9 +28,6 @@
     "name:bam_x_preferred":[
         "Simpele"
     ],
-    "name:baq_x_preferred":[
-        "Simpele"
-    ],
     "name:bar_x_preferred":[
         "Simpele"
     ],
@@ -40,16 +37,19 @@
     "name:cat_x_preferred":[
         "Simpele"
     ],
+    "name:ces_x_preferred":[
+        "Simpele"
+    ],
     "name:cos_x_preferred":[
         "Simpele"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Simpele"
     ],
     "name:dan_x_preferred":[
         "Simpele"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Simpele"
     ],
     "name:eng_x_preferred":[
@@ -61,22 +61,22 @@
     "name:est_x_preferred":[
         "Simpele"
     ],
+    "name:eus_x_preferred":[
+        "Simpele"
+    ],
     "name:fin_x_preferred":[
         "Simpele"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Simpele"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Simpele"
     ],
     "name:frp_x_preferred":[
         "Simpele"
     ],
     "name:fur_x_preferred":[
-        "Simpele"
-    ],
-    "name:ger_x_preferred":[
         "Simpele"
     ],
     "name:gla_x_preferred":[
@@ -136,19 +136,22 @@
     "name:ltz_x_preferred":[
         "Simpele"
     ],
-    "name:may_x_preferred":[
-        "Simpele"
-    ],
     "name:min_x_preferred":[
         "Simpele"
     ],
     "name:mlg_x_preferred":[
         "Simpele"
     ],
+    "name:msa_x_preferred":[
+        "Simpele"
+    ],
     "name:nap_x_preferred":[
         "Simpele"
     ],
     "name:nds_x_preferred":[
+        "Simpele"
+    ],
+    "name:nld_x_preferred":[
         "Simpele"
     ],
     "name:nno_x_preferred":[
@@ -187,7 +190,7 @@
     "name:roh_x_preferred":[
         "Simpele"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Simpele"
     ],
     "name:rus_x_preferred":[
@@ -199,7 +202,7 @@
     "name:sco_x_preferred":[
         "Simpele"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Simpele"
     ],
     "name:spa_x_preferred":[
@@ -230,9 +233,6 @@
         "Simpele"
     ],
     "name:vol_x_preferred":[
-        "Simpele"
-    ],
-    "name:wel_x_preferred":[
         "Simpele"
     ],
     "name:wln_x_preferred":[
@@ -294,7 +294,7 @@
         }
     ],
     "wof:id":101814033,
-    "wof:lastmodified":1529707142,
+    "wof:lastmodified":1561830289,
     "wof:name":"Simpele",
     "wof:parent_id":907198805,
     "wof:placetype":"locality",

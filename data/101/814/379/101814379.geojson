@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000497,
-    "geom:area_square_m":2862908.415628,
+    "geom:area_square_m":2862908.415626,
     "geom:bbox":"30.3109200974,62.2153068304,30.3587970194,62.238098524",
     "geom:latitude":62.226555,
     "geom:longitude":30.335093,
@@ -17,22 +17,13 @@
     "mps:longitude":30.337451,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Tohmaj\u00e4rvi"
-    ],
     "name:ara_x_preferred":[
         "\u062a\u0648\u0647\u0645\u0627\u064a\u0627\u0631\u0641\u064a"
     ],
     "name:ceb_x_preferred":[
         "Tohmaj\u00e4rvi"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u8d6b\u99ac\u8036\u723e\u7dad"
-    ],
     "name:deu_x_preferred":[
-        "Tohmaj\u00e4rvi"
-    ],
-    "name:dut_x_preferred":[
         "Tohmaj\u00e4rvi"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "Tohmaj\u00e4rvi"
     ],
     "name:fra_x_preferred":[
-        "Tohmaj\u00e4rvi"
-    ],
-    "name:fre_x_preferred":[
-        "Tohmaj\u00e4rvi"
-    ],
-    "name:ger_x_preferred":[
         "Tohmaj\u00e4rvi"
     ],
     "name:ita_x_preferred":[
@@ -77,9 +62,6 @@
     "name:ron_x_preferred":[
         "Tohmaj\u00e4rvi"
     ],
-    "name:rum_x_preferred":[
-        "Tohmaj\u00e4rvi"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0445\u043c\u0430\u044f\u0440\u0432\u0438"
     ],
@@ -87,6 +69,9 @@
         "Tohmaj\u00e4rvi"
     ],
     "name:sme_x_preferred":[
+        "Tohmaj\u00e4rvi"
+    ],
+    "name:sqi_x_preferred":[
         "Tohmaj\u00e4rvi"
     ],
     "name:swe_x_preferred":[
@@ -144,7 +129,7 @@
         }
     ],
     "wof:id":101814379,
-    "wof:lastmodified":1529706709,
+    "wof:lastmodified":1561830286,
     "wof:name":"Tohmaj\u00e4rvi",
     "wof:parent_id":907199417,
     "wof:placetype":"locality",

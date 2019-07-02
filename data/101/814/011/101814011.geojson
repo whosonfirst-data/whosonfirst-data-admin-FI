@@ -23,7 +23,7 @@
     "name:ceb_x_preferred":[
         "Luopioinen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Luopioinen"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +33,6 @@
         "Luopioinen"
     ],
     "name:fra_x_preferred":[
-        "Luopioinen"
-    ],
-    "name:fre_x_preferred":[
-        "Luopioinen"
-    ],
-    "name:ger_x_preferred":[
         "Luopioinen"
     ],
     "name:nld_x_preferred":[
@@ -51,9 +45,6 @@
         "Luopioinen"
     ],
     "name:ron_x_preferred":[
-        "Luopioinen"
-    ],
-    "name:rum_x_preferred":[
         "Luopioinen"
     ],
     "name:rus_x_preferred":[
@@ -117,7 +108,7 @@
         }
     ],
     "wof:id":101814011,
-    "wof:lastmodified":1529711292,
+    "wof:lastmodified":1561830288,
     "wof:name":"Luopioinen",
     "wof:parent_id":907199187,
     "wof:placetype":"locality",

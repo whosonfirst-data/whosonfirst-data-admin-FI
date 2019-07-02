@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000348,
-    "geom:area_square_m":1818163.857841,
+    "geom:area_square_m":1818163.85784,
     "geom:bbox":"26.0927073475,65.0188832859,26.1697536857,65.0359765717",
     "geom:latitude":65.029054,
     "geom:longitude":26.128563,
@@ -20,13 +20,7 @@
     "name:ces_x_preferred":[
         "Ylikiiminki"
     ],
-    "name:cze_x_preferred":[
-        "Ylikiiminki"
-    ],
     "name:deu_x_preferred":[
-        "Ylikiiminki"
-    ],
-    "name:dut_x_preferred":[
         "Ylikiiminki"
     ],
     "name:ell_x_preferred":[
@@ -44,15 +38,6 @@
     "name:fra_x_preferred":[
         "Ylikiiminki"
     ],
-    "name:fre_x_preferred":[
-        "Ylikiiminki"
-    ],
-    "name:ger_x_preferred":[
-        "Ylikiiminki"
-    ],
-    "name:gre_x_preferred":[
-        "\u038e\u03bb\u03b9\u03ba\u03b9\u03b9\u03bc\u03b9\u03bd\u03ba\u03b9"
-    ],
     "name:ita_x_preferred":[
         "Ylikiiminki"
     ],
@@ -69,9 +54,6 @@
         "Ylikiiminki"
     ],
     "name:ron_x_preferred":[
-        "Ylikiiminki"
-    ],
-    "name:rum_x_preferred":[
         "Ylikiiminki"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +119,7 @@
         }
     ],
     "wof:id":101847063,
-    "wof:lastmodified":1529709420,
+    "wof:lastmodified":1561830283,
     "wof:name":"Ylikiiminki",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

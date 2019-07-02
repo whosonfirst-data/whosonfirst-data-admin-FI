@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000278,
-    "geom:area_square_m":1690454.392803,
+    "geom:area_square_m":1690454.392801,
     "geom:bbox":"22.7260706043,60.5731089829,22.7783576528,60.5915096138",
     "geom:latitude":60.581513,
     "geom:longitude":22.754555,
@@ -20,16 +20,10 @@
     "name:ceb_x_preferred":[
         "Tarvasjoki"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u723e\u74e6\u65af\u7d04\u57fa"
-    ],
     "name:dan_x_preferred":[
         "Tarvasjoki"
     ],
     "name:deu_x_preferred":[
-        "Tarvasjoki"
-    ],
-    "name:dut_x_preferred":[
         "Tarvasjoki"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "Tarvasjoki"
     ],
     "name:fra_x_preferred":[
-        "Tarvasjoki"
-    ],
-    "name:fre_x_preferred":[
-        "Tarvasjoki"
-    ],
-    "name:ger_x_preferred":[
         "Tarvasjoki"
     ],
     "name:ita_x_preferred":[
@@ -69,9 +57,6 @@
         "Tarvasjoki"
     ],
     "name:ron_x_preferred":[
-        "Tarvasjoki"
-    ],
-    "name:rum_x_preferred":[
         "Tarvasjoki"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +122,7 @@
         }
     ],
     "wof:id":101815355,
-    "wof:lastmodified":1529706469,
+    "wof:lastmodified":1561830278,
     "wof:name":"Tarvasjoki",
     "wof:parent_id":907199011,
     "wof:placetype":"locality",

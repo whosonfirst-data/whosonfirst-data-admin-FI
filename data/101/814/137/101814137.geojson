@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001662,
-    "geom:area_square_m":9452786.752463,
+    "geom:area_square_m":9452786.752468,
     "geom:bbox":"22.3490868187,62.5896568537,22.4589531289,62.6453337901",
     "geom:latitude":62.616354,
     "geom:longitude":22.390345,
@@ -17,22 +17,13 @@
     "mps:longitude":22.389513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kurikka"
-    ],
     "name:cat_x_preferred":[
         "Kurikka"
     ],
     "name:ceb_x_preferred":[
         "Kurikka"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u91cc\u5361"
-    ],
     "name:deu_x_preferred":[
-        "Kurikka"
-    ],
-    "name:dut_x_preferred":[
         "Kurikka"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Kurikka"
     ],
     "name:fra_x_preferred":[
-        "Kurikka"
-    ],
-    "name:fre_x_preferred":[
-        "Kurikka"
-    ],
-    "name:ger_x_preferred":[
         "Kurikka"
     ],
     "name:hbs_x_preferred":[
@@ -81,9 +66,6 @@
         "Kurikka"
     ],
     "name:ron_x_preferred":[
-        "Kurikka"
-    ],
-    "name:rum_x_preferred":[
         "Kurikka"
     ],
     "name:rus_x_preferred":[
@@ -172,7 +154,7 @@
         }
     ],
     "wof:id":101814137,
-    "wof:lastmodified":1529709632,
+    "wof:lastmodified":1561830288,
     "wof:name":"Kurikka",
     "wof:parent_id":907199007,
     "wof:placetype":"locality",

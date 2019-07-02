@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000373,
-    "geom:area_square_m":2237199.786559,
+    "geom:area_square_m":2237199.786561,
     "geom:bbox":"22.8406166425,60.9364264446,22.872769022,60.9619602504",
     "geom:latitude":60.950501,
     "geom:longitude":22.858302,
@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Alastaro"
     ],
-    "name:dut_x_preferred":[
-        "Alastaro"
-    ],
     "name:eng_x_preferred":[
         "Alastaro"
     ],
@@ -33,12 +30,6 @@
         "Alastaro"
     ],
     "name:fra_x_preferred":[
-        "Alastaro"
-    ],
-    "name:fre_x_preferred":[
-        "Alastaro"
-    ],
-    "name:ger_x_preferred":[
         "Alastaro"
     ],
     "name:ita_x_preferred":[
@@ -54,9 +45,6 @@
         "Alastaro"
     ],
     "name:ron_x_preferred":[
-        "Alastaro"
-    ],
-    "name:rum_x_preferred":[
         "Alastaro"
     ],
     "name:rus_x_preferred":[
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":101815329,
-    "wof:lastmodified":1529706467,
+    "wof:lastmodified":1561830282,
     "wof:name":"Alastaro",
     "wof:parent_id":907198963,
     "wof:placetype":"locality",

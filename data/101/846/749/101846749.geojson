@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000132,
-    "geom:area_square_m":805466.498736,
+    "geom:area_square_m":805466.498734,
     "geom:bbox":"23.5303678281,60.4556538004,23.5621051219,60.4635561676",
     "geom:latitude":60.459811,
     "geom:longitude":23.546254,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Kiikala"
     ],
-    "name:dut_x_preferred":[
-        "Kiikala"
-    ],
     "name:eng_x_preferred":[
         "Kiikala"
     ],
@@ -36,12 +33,6 @@
         "Kiikala"
     ],
     "name:fra_x_preferred":[
-        "Kiikala"
-    ],
-    "name:fre_x_preferred":[
-        "Kiikala"
-    ],
-    "name:ger_x_preferred":[
         "Kiikala"
     ],
     "name:ita_x_preferred":[
@@ -60,9 +51,6 @@
         "Kiikala"
     ],
     "name:ron_x_preferred":[
-        "Kiikala"
-    ],
-    "name:rum_x_preferred":[
         "Kiikala"
     ],
     "name:sme_x_preferred":[
@@ -127,7 +115,7 @@
         }
     ],
     "wof:id":101846749,
-    "wof:lastmodified":1529706473,
+    "wof:lastmodified":1561830274,
     "wof:name":"Kiikala",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000222,
-    "geom:area_square_m":1292346.081445,
+    "geom:area_square_m":1292346.081444,
     "geom:bbox":"26.114145114,61.9045440329,26.1372468776,61.9260565833",
     "geom:latitude":61.913958,
     "geom:longitude":26.124195,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Leivonm\u00e4ki"
     ],
-    "name:dut_x_preferred":[
-        "Leivonm\u00e4ki"
-    ],
     "name:eng_x_preferred":[
         "Leivonm\u00e4ki"
     ],
@@ -39,12 +36,6 @@
         "Leivonm\u00e4ki"
     ],
     "name:fra_x_preferred":[
-        "Leivonm\u00e4ki"
-    ],
-    "name:fre_x_preferred":[
-        "Leivonm\u00e4ki"
-    ],
-    "name:ger_x_preferred":[
         "Leivonm\u00e4ki"
     ],
     "name:ita_x_preferred":[
@@ -62,7 +53,7 @@
     "name:nor_x_preferred":[
         "Leivonm\u00e4ki"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Leivonm\u00e4ki"
     ],
     "name:rus_x_preferred":[
@@ -126,7 +117,7 @@
         }
     ],
     "wof:id":101814215,
-    "wof:lastmodified":1529706348,
+    "wof:lastmodified":1561830288,
     "wof:name":"Leivonm\u00e4ki",
     "wof:parent_id":907198751,
     "wof:placetype":"locality",

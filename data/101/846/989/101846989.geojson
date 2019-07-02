@@ -17,22 +17,13 @@
     "mps:longitude":28.487585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kaavi"
-    ],
     "name:ceb_x_preferred":[
         "Kaavi"
-    ],
-    "name:chi_x_preferred":[
-        "\u5361\u7dad"
     ],
     "name:dan_x_preferred":[
         "Kaavi"
     ],
     "name:deu_x_preferred":[
-        "Kaavi"
-    ],
-    "name:dut_x_preferred":[
         "Kaavi"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Kaavi"
     ],
     "name:fra_x_preferred":[
-        "Kaavi"
-    ],
-    "name:fre_x_preferred":[
-        "Kaavi"
-    ],
-    "name:ger_x_preferred":[
         "Kaavi"
     ],
     "name:ita_x_preferred":[
@@ -77,9 +62,6 @@
     "name:ron_x_preferred":[
         "Kaavi"
     ],
-    "name:rum_x_preferred":[
-        "Kaavi"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0430\u0432\u0438"
     ],
@@ -97,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "Kaavi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7dad"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjois-Savo#Norra Savolax",
@@ -150,7 +135,7 @@
         }
     ],
     "wof:id":101846989,
-    "wof:lastmodified":1553815541,
+    "wof:lastmodified":1561830277,
     "wof:name":"Kaavi",
     "wof:parent_id":907199313,
     "wof:placetype":"locality",

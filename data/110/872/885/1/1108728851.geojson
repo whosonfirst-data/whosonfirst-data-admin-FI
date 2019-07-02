@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014065,
-    "geom:area_square_m":73301191.758523,
+    "geom:area_square_m":73301191.75853,
     "geom:bbox":"25.7635470557,65.0214179693,26.0330958878,65.1089672502",
     "geom:latitude":65.071812,
     "geom:longitude":25.881207,
@@ -20,13 +20,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Huttukyl\u00e4"
+    ],
     "name:eng_x_preferred":[
         "Huttukyl\u00e4"
     ],
     "name:fin_x_preferred":[
-        "Huttukyl\u00e4"
-    ],
-    "name:ger_x_preferred":[
         "Huttukyl\u00e4"
     ],
     "name:swe_x_preferred":[
@@ -40,14 +40,14 @@
     "reversegeo:longitude":25.854234,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":1108728851,
-    "wof:lastmodified":1529709448,
+    "wof:lastmodified":1561830253,
     "wof:name":"Huttukyla",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

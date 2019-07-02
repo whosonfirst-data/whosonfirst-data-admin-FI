@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000668,
-    "geom:area_square_m":3997024.731111,
+    "geom:area_square_m":3997024.731108,
     "geom:bbox":"23.5375809843,61.0547191659,23.6532320309,61.0870988974",
     "geom:latitude":61.071245,
     "geom:longitude":23.596953,
@@ -17,16 +17,10 @@
     "mps:longitude":23.622765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
+    "name:ces_x_preferred":[
         "Urjala"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u723e\u4e9e\u62c9"
-    ],
-    "name:cze_x_preferred":[
-        "Urjala"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Urjala"
     ],
     "name:eng_x_preferred":[
@@ -38,10 +32,7 @@
     "name:fin_x_preferred":[
         "Urjala"
     ],
-    "name:fre_x_preferred":[
-        "Urjala"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Urjala"
     ],
     "name:gle_x_preferred":[
@@ -53,6 +44,9 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30eb\u30e4\u30e9"
     ],
+    "name:nld_x_preferred":[
+        "Urjala"
+    ],
     "name:nno_x_preferred":[
         "Urjala"
     ],
@@ -62,7 +56,7 @@
     "name:pol_x_preferred":[
         "Urjala"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Urjala"
     ],
     "name:rus_x_preferred":[
@@ -74,6 +68,9 @@
     "name:sme_x_preferred":[
         "Urjala"
     ],
+    "name:sqi_x_preferred":[
+        "Urjala"
+    ],
     "name:swe_x_preferred":[
         "Urjala"
     ],
@@ -82,6 +79,9 @@
     ],
     "name:vie_x_preferred":[
         "Urjala"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u723e\u4e9e\u62c9"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pirkanmaa#Birkaland",
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":101815491,
-    "wof:lastmodified":1529711294,
+    "wof:lastmodified":1561830279,
     "wof:name":"Urjala",
     "wof:parent_id":907198841,
     "wof:placetype":"locality",

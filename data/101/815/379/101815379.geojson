@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000337,
-    "geom:area_square_m":2068445.988719,
+    "geom:area_square_m":2068445.98872,
     "geom:bbox":"23.4336684853,60.2443125266,23.4814181269,60.2745141964",
     "geom:latitude":60.26083,
     "geom:longitude":23.456272,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Kisko"
     ],
-    "name:dut_x_preferred":[
-        "Kisko"
-    ],
     "name:eng_x_preferred":[
         "Kisko"
     ],
@@ -33,12 +30,6 @@
         "Kisko"
     ],
     "name:fra_x_preferred":[
-        "Kisko"
-    ],
-    "name:fre_x_preferred":[
-        "Kisko"
-    ],
-    "name:ger_x_preferred":[
         "Kisko"
     ],
     "name:ita_x_preferred":[
@@ -54,9 +45,6 @@
         "Kisko"
     ],
     "name:ron_x_preferred":[
-        "Kisko"
-    ],
-    "name:rum_x_preferred":[
         "Kisko"
     ],
     "name:rus_x_preferred":[
@@ -123,7 +111,7 @@
         }
     ],
     "wof:id":101815379,
-    "wof:lastmodified":1529706470,
+    "wof:lastmodified":1561830279,
     "wof:name":"Kisko",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":1421985.89866,
+    "geom:area_square_m":1421985.898661,
     "geom:bbox":"23.9694126427,60.465260821,24.0044205991,60.4823423974",
     "geom:latitude":60.472487,
     "geom:longitude":23.986037,
@@ -19,16 +19,16 @@
     "name:ceb_x_preferred":[
         "Pusula"
     ],
+    "name:deu_x_preferred":[
+        "Pusula"
+    ],
     "name:eng_x_preferred":[
         "Pusula"
     ],
     "name:fin_x_preferred":[
         "Pusula"
     ],
-    "name:fre_x_preferred":[
-        "Pusula"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pusula"
     ],
     "name:nob_x_preferred":[
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":101815259,
-    "wof:lastmodified":1529714671,
+    "wof:lastmodified":1561830279,
     "wof:name":"Pusula",
     "wof:parent_id":907198655,
     "wof:placetype":"locality",

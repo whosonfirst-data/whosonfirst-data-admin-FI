@@ -169,9 +169,6 @@
     "name:cym_x_preferred":[
         "Y Ffindir"
     ],
-    "name:cze_x_preferred":[
-        "Finsko"
-    ],
     "name:dan_x_preferred":[
         "Finland"
     ],
@@ -675,9 +672,6 @@
     "name:rue_x_preferred":[
         "\u0424\u0456\u043d\u044c\u0441\u043a\u043e"
     ],
-    "name:rum_x_preferred":[
-        "Finlanda"
-    ],
     "name:run_x_preferred":[
         "Finilandi"
     ],
@@ -895,8 +889,7 @@
         "\u82ac\u5170"
     ],
     "name:zho_x_variant":[
-        "\u82ac\u862d",
-        "\u82ac\u5170"
+        "\u82ac\u862d"
     ],
     "name:zho_yue_x_preferred":[
         "\u82ac\u862d"
@@ -1059,7 +1052,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1544059227,
+    "wof:lastmodified":1561830202,
     "wof:name":"Finland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

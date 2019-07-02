@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007463,
-    "geom:area_square_m":44657331.079827,
+    "geom:area_square_m":44657331.079816,
     "geom:bbox":"28.0785806496,61.0161481669,28.364598379,61.0949060956",
     "geom:latitude":61.058016,
     "geom:longitude":28.210488,
@@ -18,17 +18,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
-    "name:alb_x_preferred":[
-        "Lappeenranta"
-    ],
     "name:ara_x_preferred":[
         "\u0644\u0627\u0628\u064a\u0646\u0631\u0646\u062a\u0627"
     ],
     "name:bak_x_preferred":[
         "\u041b\u0430\u043f\u043f\u0435\u044d\u043d\u0440\u0430\u043d\u0442\u0430"
-    ],
-    "name:baq_x_preferred":[
-        "Lappeenranta"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0430\u043f\u0435\u044d\u043d\u0440\u0430\u043d\u0442\u0430"
@@ -48,22 +42,13 @@
     "name:ces_x_preferred":[
         "Lappeenranta"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5f6d\u5170\u5854"
-    ],
     "name:cor_x_preferred":[
-        "Lappeenranta"
-    ],
-    "name:cze_x_preferred":[
         "Lappeenranta"
     ],
     "name:dan_x_preferred":[
         "Lappeenranta"
     ],
     "name:deu_x_preferred":[
-        "Lappeenranta"
-    ],
-    "name:dut_x_preferred":[
         "Lappeenranta"
     ],
     "name:ell_x_preferred":[
@@ -90,20 +75,8 @@
     "name:fra_x_preferred":[
         "Lappeenranta"
     ],
-    "name:fre_x_preferred":[
-        "Lappeenranta"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0\u10de\u10d4\u10d4\u10dc\u10e0\u10d0\u10dc\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Lappeenranta"
-    ],
     "name:glg_x_preferred":[
         "Lappeenranta"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1\u03c0\u03b5\u03b5\u03bd\u03c1\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0aaa\u0abf\u0aa8\u0acd\u0ab0\u0abe\u0a82\u0a9f\u0abe"
@@ -118,9 +91,6 @@
         "\u0932\u092a\u094d\u092a\u0940\u0923\u0930\u0923\u0924\u093e"
     ],
     "name:hun_x_preferred":[
-        "Lappeenranta"
-    ],
-    "name:ice_x_preferred":[
         "Lappeenranta"
     ],
     "name:ind_x_preferred":[
@@ -159,14 +129,8 @@
     "name:lit_x_preferred":[
         "Lapenranta"
     ],
-    "name:mao_x_preferred":[
-        "Lappeenranta"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u0945\u092a\u093f\u0928\u0930\u093e\u0902\u091f\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Lappeenranta"
     ],
     "name:mri_x_preferred":[
         "Lappeenranta"
@@ -192,9 +156,6 @@
     "name:nor_x_preferred":[
         "Villmanstrand"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u067e\u0631\u0646\u062a\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0644\u0627\u067e\u06cc\u0646\u0631\u0627\u0646\u062a\u0627"
     ],
@@ -205,9 +166,6 @@
         "Lappeenranta"
     ],
     "name:ron_x_preferred":[
-        "Lappeenranta"
-    ],
-    "name:rum_x_preferred":[
         "Lappeenranta"
     ],
     "name:rus_x_preferred":[
@@ -223,9 +181,6 @@
         "\u0dbd\u0dd0\u0db4\u0dd3\u0db1\u0dca \u0dbb\u0db1\u0dca\u0da7\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Lappeenranta"
-    ],
-    "name:slo_x_preferred":[
         "Lappeenranta"
     ],
     "name:slv_x_preferred":[
@@ -436,7 +391,7 @@
         }
     ],
     "wof:id":101748433,
-    "wof:lastmodified":1529707143,
+    "wof:lastmodified":1561830271,
     "wof:name":"Lappeenranta",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":1449249.236413,
+    "geom:area_square_m":1449249.236411,
     "geom:bbox":"25.0112351094,60.2544625981,25.0354957537,60.2697241654",
     "geom:latitude":60.262806,
     "geom:longitude":25.022541,
@@ -25,7 +25,7 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tapanila"
     ],
     "name:eng_x_preferred":[
@@ -34,13 +34,13 @@
     "name:fin_x_preferred":[
         "Tapanila"
     ],
-    "name:fre_x_preferred":[
-        "Tapanila"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tapanila"
     ],
     "name:hun_x_preferred":[
+        "Tapanila"
+    ],
+    "name:nld_x_preferred":[
         "Tapanila"
     ],
     "name:swe_x_preferred":[
@@ -51,7 +51,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537239,
         907199715,
@@ -60,7 +59,8 @@
         101748417,
         136253047,
         890536891,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1108727211,
-    "wof:lastmodified":1529714735,
+    "wof:lastmodified":1561830255,
     "wof:name":"Tapanila",
     "wof:parent_id":890537239,
     "wof:placetype":"neighbourhood",

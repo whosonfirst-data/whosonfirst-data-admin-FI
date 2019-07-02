@@ -17,13 +17,13 @@
     "mps:longitude":22.774987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Kiikka"
+    ],
     "name:eng_x_preferred":[
         "Kiikka"
     ],
     "name:fin_x_preferred":[
-        "Kiikka"
-    ],
-    "name:ger_x_preferred":[
         "Kiikka"
     ],
     "name:nob_x_preferred":[
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":101846857,
-    "wof:lastmodified":1529711296,
+    "wof:lastmodified":1561830273,
     "wof:name":"Kiikka",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

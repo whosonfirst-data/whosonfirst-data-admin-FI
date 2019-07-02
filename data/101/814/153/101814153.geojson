@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000271,
-    "geom:area_square_m":1520692.142291,
+    "geom:area_square_m":1520692.14229,
     "geom:bbox":"25.2486896122,62.9659731534,25.2782701784,62.9851548581",
     "geom:latitude":62.976517,
     "geom:longitude":25.262379,
@@ -17,22 +17,13 @@
     "mps:longitude":25.263388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kannonkoski"
-    ],
     "name:cat_x_preferred":[
         "Kannonkoski"
     ],
     "name:ceb_x_preferred":[
         "Kannonkoski"
     ],
-    "name:chi_x_preferred":[
-        "\u574e\u8fb2\u79d1\u65af\u57fa"
-    ],
     "name:deu_x_preferred":[
-        "Kannonkoski"
-    ],
-    "name:dut_x_preferred":[
         "Kannonkoski"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "Kannonkoski"
     ],
     "name:fra_x_preferred":[
-        "Kannonkoski"
-    ],
-    "name:fre_x_preferred":[
-        "Kannonkoski"
-    ],
-    "name:ger_x_preferred":[
         "Kannonkoski"
     ],
     "name:glg_x_preferred":[
@@ -78,9 +63,6 @@
         "Kannonkoski"
     ],
     "name:ron_x_preferred":[
-        "Kannonkoski"
-    ],
-    "name:rum_x_preferred":[
         "Kannonkoski"
     ],
     "name:rus_x_preferred":[
@@ -149,7 +131,7 @@
         }
     ],
     "wof:id":101814153,
-    "wof:lastmodified":1529706344,
+    "wof:lastmodified":1561830287,
     "wof:name":"Kannonkoski",
     "wof:parent_id":907199227,
     "wof:placetype":"locality",

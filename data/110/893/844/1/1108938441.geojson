@@ -21,7 +21,7 @@
     "mz:max_zoom":16.0,
     "mz:min_zoom":12.0,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mellunkyl\u00e4"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,10 @@
     "name:fin_x_preferred":[
         "Mellunkyl\u00e4"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mellunkyl\u00e4"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Mellunkyl\u00e4"
     ],
     "name:swe_x_preferred":[
@@ -44,7 +44,6 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85683067,
         102191581,
         890537253,
         907199715,
@@ -53,7 +52,8 @@
         101748417,
         136253047,
         890536881,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1108938441,
-    "wof:lastmodified":1529714745,
+    "wof:lastmodified":1561830257,
     "wof:name":"Mellunkyla",
     "wof:parent_id":890537253,
     "wof:placetype":"neighbourhood",

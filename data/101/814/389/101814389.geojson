@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000307,
-    "geom:area_square_m":1609559.795705,
+    "geom:area_square_m":1609559.795704,
     "geom:bbox":"28.97944355,64.8952983031,29.024787344,64.9099731058",
     "geom:latitude":64.901495,
     "geom:longitude":29.00421,
@@ -17,28 +17,16 @@
     "mps:longitude":29.003867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Suomussalmi"
-    ],
     "name:cat_x_preferred":[
         "Suomussalmi"
     ],
     "name:ces_x_preferred":[
         "Suomussalmi"
     ],
-    "name:chi_x_preferred":[
-        "\u82cf\u5965\u7a46\u65af\u8428\u5c14\u7c73"
-    ],
-    "name:cze_x_preferred":[
-        "Suomussalmi"
-    ],
     "name:dan_x_preferred":[
         "Suomussalmi"
     ],
     "name:deu_x_preferred":[
-        "Suomussalmi"
-    ],
-    "name:dut_x_preferred":[
         "Suomussalmi"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +42,6 @@
         "Suomussalmi"
     ],
     "name:fra_x_preferred":[
-        "Suomussalmi"
-    ],
-    "name:fre_x_preferred":[
-        "Suomussalmi"
-    ],
-    "name:ger_x_preferred":[
         "Suomussalmi"
     ],
     "name:ita_x_preferred":[
@@ -95,16 +77,10 @@
     "name:ron_x_preferred":[
         "Suomussalmi"
     ],
-    "name:rum_x_preferred":[
-        "Suomussalmi"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043e\u043c\u0443\u0441\u0441\u0430\u043b\u043c\u0438"
     ],
     "name:slk_x_preferred":[
-        "Suomussalmi"
-    ],
-    "name:slo_x_preferred":[
         "Suomussalmi"
     ],
     "name:slv_x_preferred":[
@@ -114,6 +90,9 @@
         "Suomussalmi"
     ],
     "name:spa_x_preferred":[
+        "Suomussalmi"
+    ],
+    "name:sqi_x_preferred":[
         "Suomussalmi"
     ],
     "name:swe_x_preferred":[
@@ -186,7 +165,7 @@
         }
     ],
     "wof:id":101814389,
-    "wof:lastmodified":1529706645,
+    "wof:lastmodified":1561830290,
     "wof:name":"Suomussalmi",
     "wof:parent_id":907199501,
     "wof:placetype":"locality",

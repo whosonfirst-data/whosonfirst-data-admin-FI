@@ -21,17 +21,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
-    "name:alb_x_preferred":[
-        "Karelia Jugore"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u064a\u0644\u064a\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
-    ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u053f\u0561\u0580\u0565\u056c\u056b\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Hego Karelia"
     ],
     "name:ben_x_preferred":[
         "\u09a6\u0995\u09cd\u09b7\u09bf\u09a8 \u0995\u09be\u09b0\u09c7\u09b2\u09bf\u09af\u09bc\u09be"
@@ -45,20 +36,14 @@
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed Kar\u00e9lie"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u5361\u7d2f\u5229\u963f\u5340"
-    ],
-    "name:cze_x_preferred":[
-        "Ji\u017en\u00ed Kar\u00e9lie"
-    ],
     "name:dan_x_preferred":[
         "S\u00f6dra Karelen"
     ],
     "name:deu_x_preferred":[
         "S\u00fcdkarelien"
     ],
-    "name:dut_x_preferred":[
-        "Etel\u00e4-Karjala"
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03c4\u03b9\u03b1 \u039a\u03b1\u03c1\u03ad\u03bb\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "South Karelia"
@@ -89,20 +74,8 @@
     "name:fra_x_preferred":[
         "Car\u00e9lie du Sud"
     ],
-    "name:fre_x_preferred":[
-        "Car\u00e9lie du Sud"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7\u10d8 \u10d9\u10d0\u10e0\u10d4\u10da\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "S\u00fcdkarelien"
-    ],
     "name:glg_x_preferred":[
         "Carelia do Sur"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03cc\u03c4\u03b9\u03b1 \u039a\u03b1\u03c1\u03ad\u03bb\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a89\u0aa5 \u0a95\u0abe\u0ab0\u0ac7\u0ab2\u0abf\u0aaf\u0abe"
@@ -115,6 +88,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u0947\u0930\u0932\u093f\u092f\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u053f\u0561\u0580\u0565\u056c\u056b\u0561"
     ],
     "name:ido_x_preferred":[
         "Sud-Karelia"
@@ -152,9 +128,6 @@
     "name:mar_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u0947\u0930\u0947\u0932\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
-        "Karelia Selatan"
-    ],
     "name:msa_x_preferred":[
         "Karelia Selatan"
     ],
@@ -176,9 +149,6 @@
     "name:nor_x_variant":[
         "S\u00f8r-Karelen"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0631\u0644\u06cc\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u062a\u06be\u0644\u0648\u0627\u06ba \u06a9\u0631\u06cc\u0644\u06cc\u0627"
     ],
@@ -191,9 +161,6 @@
     "name:ron_x_preferred":[
         "Carelia de Sud"
     ],
-    "name:rum_x_preferred":[
-        "Carelia de Sud"
-    ],
     "name:rus_x_preferred":[
         "\u042e\u0436\u043d\u0430\u044f \u041a\u0430\u0440\u0435\u043b\u0438\u044f"
     ],
@@ -204,9 +171,6 @@
         "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0dbb\u0dd9\u0dbd\u0dd2\u0dba\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Etel\u00e4-Karjala"
-    ],
-    "name:slo_x_preferred":[
         "Etel\u00e4-Karjala"
     ],
     "name:sme_x_preferred":[
@@ -365,7 +329,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1553550792,
+    "wof:lastmodified":1561830203,
     "wof:name":"South Karelia",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

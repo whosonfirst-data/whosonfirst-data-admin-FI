@@ -19,14 +19,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Akaa"
-    ],
     "name:ara_x_preferred":[
         "\u0627\u0643\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u0531\u056f\u0561\u0561"
     ],
     "name:aze_x_preferred":[
         "\u0410kaa"
@@ -37,16 +31,13 @@
     "name:cat_x_preferred":[
         "Akaa"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Akaa"
     ],
     "name:dan_x_preferred":[
         "Ackas"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Akaa"
     ],
     "name:eng_x_preferred":[
@@ -55,17 +46,17 @@
     "name:est_x_preferred":[
         "Akaa linn"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0627\u0621"
+    ],
     "name:fin_x_preferred":[
         "Akaa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Akaa"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d9\u10d0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Akaa"
+    "name:hye_x_preferred":[
+        "\u0531\u056f\u0561\u0561"
     ],
     "name:isl_x_preferred":[
         "Ackas"
@@ -76,20 +67,23 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30ab\u30fc"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d9\u10d0\u10d0"
+    ],
     "name:lat_x_preferred":[
         "Akaa"
     ],
     "name:mrj_x_preferred":[
         "\u0410\u043a\u0430\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Akaa"
+    ],
     "name:nno_x_preferred":[
         "Ackas"
     ],
     "name:nob_x_preferred":[
         "Ackas"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06a9\u0627\u0621"
     ],
     "name:pms_x_preferred":[
         "Akaa"
@@ -100,7 +94,7 @@
     "name:por_x_preferred":[
         "Akaa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Akaa"
     ],
     "name:rus_x_preferred":[
@@ -112,13 +106,16 @@
     "name:sgs_x_preferred":[
         "Akaa"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Akaa"
     ],
     "name:sme_x_preferred":[
         "Akaa"
     ],
     "name:spa_x_preferred":[
+        "Akaa"
+    ],
+    "name:sqi_x_preferred":[
         "Akaa"
     ],
     "name:swe_x_preferred":[
@@ -132,6 +129,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06a9\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5361"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -178,7 +178,7 @@
         }
     ],
     "wof:id":1125831821,
-    "wof:lastmodified":1553816559,
+    "wof:lastmodified":1561830313,
     "wof:name":"Akaa",
     "wof:parent_id":907199731,
     "wof:placetype":"locality",

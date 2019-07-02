@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000779,
-    "geom:area_square_m":4213342.930767,
+    "geom:area_square_m":4213342.930766,
     "geom:bbox":"23.6288947168,64.0397848112,23.6888571691,64.0789389972",
     "geom:latitude":64.061046,
     "geom:longitude":23.654273,
@@ -24,16 +24,10 @@
     "name:ceb_x_preferred":[
         "Himanka"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u66fc\u5361"
-    ],
     "name:dan_x_preferred":[
         "Himango"
     ],
     "name:deu_x_preferred":[
-        "Himanka"
-    ],
-    "name:dut_x_preferred":[
         "Himanka"
     ],
     "name:eng_x_preferred":[
@@ -46,12 +40,6 @@
         "Himanka"
     ],
     "name:fra_x_preferred":[
-        "Himanka"
-    ],
-    "name:fre_x_preferred":[
-        "Himanka"
-    ],
-    "name:ger_x_preferred":[
         "Himanka"
     ],
     "name:isl_x_preferred":[
@@ -75,13 +63,7 @@
     "name:ron_x_preferred":[
         "Himanka"
     ],
-    "name:rum_x_preferred":[
-        "Himanka"
-    ],
     "name:slk_x_preferred":[
-        "Himanka"
-    ],
-    "name:slo_x_preferred":[
         "Himanka"
     ],
     "name:sme_x_preferred":[
@@ -145,7 +127,7 @@
         }
     ],
     "wof:id":101814465,
-    "wof:lastmodified":1529709426,
+    "wof:lastmodified":1561830286,
     "wof:name":"Himanka",
     "wof:parent_id":907199617,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001253,
-    "geom:area_square_m":7246813.453075,
+    "geom:area_square_m":7246813.453077,
     "geom:bbox":"25.6134259314,62.0887392545,25.708744297,62.148021901",
     "geom:latitude":62.124769,
     "geom:longitude":25.665686,
@@ -17,19 +17,10 @@
     "mps:longitude":25.673277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Muurame"
-    ],
     "name:ceb_x_preferred":[
         "Muurame"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u62c9\u6885"
-    ],
     "name:deu_x_preferred":[
-        "Muurame"
-    ],
-    "name:dut_x_preferred":[
         "Muurame"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Muurame"
     ],
     "name:fra_x_preferred":[
-        "Muurame"
-    ],
-    "name:fre_x_preferred":[
-        "Muurame"
-    ],
-    "name:ger_x_preferred":[
         "Muurame"
     ],
     "name:ita_x_preferred":[
@@ -78,9 +63,6 @@
         "Muurame"
     ],
     "name:ron_x_preferred":[
-        "Muurame"
-    ],
-    "name:rum_x_preferred":[
         "Muurame"
     ],
     "name:rus_x_preferred":[
@@ -153,7 +135,7 @@
         }
     ],
     "wof:id":101814205,
-    "wof:lastmodified":1529706347,
+    "wof:lastmodified":1561830286,
     "wof:name":"Muurame",
     "wof:parent_id":907199257,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000554,
-    "geom:area_square_m":3310966.285005,
+    "geom:area_square_m":3310966.285007,
     "geom:bbox":"21.8128048061,61.0906959316,21.861992773,61.1142029947",
     "geom:latitude":61.102103,
     "geom:longitude":21.840566,
@@ -32,8 +32,8 @@
     "name:deu_x_preferred":[
         "Lappi"
     ],
-    "name:dut_x_preferred":[
-        "Lappi"
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03c0\u03c0\u03b9"
     ],
     "name:eng_x_preferred":[
         "Lappi"
@@ -43,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Lappi"
-    ],
-    "name:fre_x_preferred":[
-        "Lappi"
-    ],
-    "name:ger_x_preferred":[
-        "Lappi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03ac\u03c0\u03c0\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0aaa\u0acd\u0aaa\u0ac0"
@@ -83,7 +74,7 @@
     "name:mar_x_preferred":[
         "\u0932\u092a\u094d\u092a\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lappi"
     ],
     "name:nld_x_preferred":[
@@ -105,9 +96,6 @@
         "Lappi"
     ],
     "name:ron_x_preferred":[
-        "Lappi"
-    ],
-    "name:rum_x_preferred":[
         "Lappi"
     ],
     "name:rus_x_preferred":[
@@ -201,7 +189,7 @@
         }
     ],
     "wof:id":101815467,
-    "wof:lastmodified":1529712492,
+    "wof:lastmodified":1561830281,
     "wof:name":"Lappi",
     "wof:parent_id":907198665,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000377,
-    "geom:area_square_m":2097034.267802,
+    "geom:area_square_m":2097034.267801,
     "geom:bbox":"23.1302373694,63.2836660309,23.174049559,63.3116684194",
     "geom:latitude":63.297806,
     "geom:longitude":23.150377,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Kortesj\u00e4rvi"
     ],
-    "name:dut_x_preferred":[
-        "Kortesj\u00e4rvi"
-    ],
     "name:eng_x_preferred":[
         "Kortesj\u00e4rvi"
     ],
@@ -41,12 +38,6 @@
     "name:fra_x_preferred":[
         "Kortesj\u00e4rvi"
     ],
-    "name:fre_x_preferred":[
-        "Kortesj\u00e4rvi"
-    ],
-    "name:ger_x_preferred":[
-        "Kortesj\u00e4rvi"
-    ],
     "name:ita_x_preferred":[
         "Kortesj\u00e4rvi"
     ],
@@ -60,9 +51,6 @@
         "Kortesj\u00e4rvi"
     ],
     "name:ron_x_preferred":[
-        "Kortesj\u00e4rvi"
-    ],
-    "name:rum_x_preferred":[
         "Kortesj\u00e4rvi"
     ],
     "name:sme_x_preferred":[
@@ -126,7 +114,7 @@
         }
     ],
     "wof:id":101846901,
-    "wof:lastmodified":1529709635,
+    "wof:lastmodified":1561830272,
     "wof:name":"Kortesj\u00e4rvi",
     "wof:parent_id":907199237,
     "wof:placetype":"locality",

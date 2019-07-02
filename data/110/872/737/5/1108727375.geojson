@@ -39,7 +39,7 @@
     "name:fin_x_preferred":[
         "\u00d6stersundom"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00d6stersundom"
     ],
     "name:spa_x_preferred":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1108727375,
-    "wof:lastmodified":1544751321,
+    "wof:lastmodified":1561830248,
     "wof:name":"Ostersundom",
     "wof:parent_id":890536893,
     "wof:placetype":"macrohood",

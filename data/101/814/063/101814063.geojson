@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002797,
-    "geom:area_square_m":16303687.051302,
+    "geom:area_square_m":16303687.051312,
     "geom:bbox":"28.7677449077,61.8400963493,28.9837492337,61.8963960017",
     "geom:latitude":61.869578,
     "geom:longitude":28.894297,
@@ -18,14 +18,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
-    "name:alb_x_preferred":[
-        "Savonlinna"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0641\u0648\u0646\u0644\u064a\u0646\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u057e\u0578\u0576\u056c\u056b\u0576\u0561"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u0432\u043e\u043d\u043b\u0438\u043d\u0430"
@@ -39,19 +33,10 @@
     "name:ces_x_preferred":[
         "Savonlinna"
     ],
-    "name:chi_x_preferred":[
-        "\u8428\u7fc1\u6797\u7eb3"
-    ],
-    "name:cze_x_preferred":[
-        "Savonlinna"
-    ],
     "name:dan_x_preferred":[
         "Nyslott"
     ],
     "name:deu_x_preferred":[
-        "Savonlinna"
-    ],
-    "name:dut_x_preferred":[
         "Savonlinna"
     ],
     "name:eng_x_preferred":[
@@ -66,16 +51,13 @@
     "name:est_x_variant":[
         "Savonlinna"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0648\u0648\u0646\u0644\u0627\u06cc\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Savonlinna"
     ],
     "name:fra_x_preferred":[
-        "Savonlinna"
-    ],
-    "name:fre_x_preferred":[
-        "Savonlinna"
-    ],
-    "name:ger_x_preferred":[
         "Savonlinna"
     ],
     "name:hbs_x_preferred":[
@@ -83,6 +65,9 @@
     ],
     "name:hun_x_preferred":[
         "Savonlinna"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u057e\u0578\u0576\u056c\u056b\u0576\u0561"
     ],
     "name:ind_x_preferred":[
         "Savonlinna"
@@ -117,9 +102,6 @@
     "name:olo_x_preferred":[
         "Savonlinnu"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0648\u0648\u0646\u0644\u0627\u06cc\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "Savonlinna"
     ],
@@ -127,9 +109,6 @@
         "Savonlinna"
     ],
     "name:ron_x_preferred":[
-        "Savonlinna"
-    ],
-    "name:rum_x_preferred":[
         "Savonlinna"
     ],
     "name:rus_x_preferred":[
@@ -315,7 +294,7 @@
         }
     ],
     "wof:id":101814063,
-    "wof:lastmodified":1529714451,
+    "wof:lastmodified":1561830286,
     "wof:name":"Savonlinna",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

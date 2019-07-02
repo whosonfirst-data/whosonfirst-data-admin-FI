@@ -17,19 +17,10 @@
     "mps:longitude":23.518327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Somero"
-    ],
     "name:ceb_x_preferred":[
         "Somero"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u6885\u7f85"
-    ],
     "name:deu_x_preferred":[
-        "Somero"
-    ],
-    "name:dut_x_preferred":[
         "Somero"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Somero"
     ],
     "name:fra_x_preferred":[
-        "Somero"
-    ],
-    "name:fre_x_preferred":[
-        "Somero"
-    ],
-    "name:ger_x_preferred":[
         "Somero"
     ],
     "name:hbs_x_preferred":[
@@ -83,9 +68,6 @@
     "name:ron_x_preferred":[
         "Somero"
     ],
-    "name:rum_x_preferred":[
-        "Somero"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u043c\u0435\u0440\u043e"
     ],
@@ -93,9 +75,6 @@
         "Somero"
     ],
     "name:slk_x_preferred":[
-        "Somero"
-    ],
-    "name:slo_x_preferred":[
         "Somero"
     ],
     "name:sme_x_preferred":[
@@ -175,7 +154,7 @@
         }
     ],
     "wof:id":101815347,
-    "wof:lastmodified":1529706469,
+    "wof:lastmodified":1561830280,
     "wof:name":"Somero",
     "wof:parent_id":907198549,
     "wof:placetype":"locality",

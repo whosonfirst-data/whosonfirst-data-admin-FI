@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00097,
-    "geom:area_square_m":5626578.485457,
+    "geom:area_square_m":5626578.485455,
     "geom:bbox":"24.4660839454,62.0050429984,24.5361003396,62.0367663229",
     "geom:latitude":62.021642,
     "geom:longitude":24.49906,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Vilppula"
     ],
-    "name:dut_x_preferred":[
-        "Vilppula"
-    ],
     "name:eng_x_preferred":[
         "Vilppula"
     ],
@@ -39,12 +36,6 @@
         "Vilppula"
     ],
     "name:fra_x_preferred":[
-        "Vilppula"
-    ],
-    "name:fre_x_preferred":[
-        "Vilppula"
-    ],
-    "name:ger_x_preferred":[
         "Vilppula"
     ],
     "name:ita_x_preferred":[
@@ -63,9 +54,6 @@
         "Vilppula"
     ],
     "name:ron_x_preferred":[
-        "Vilppula"
-    ],
-    "name:rum_x_preferred":[
         "Vilppula"
     ],
     "name:rus_x_preferred":[
@@ -136,7 +124,7 @@
         }
     ],
     "wof:id":101813983,
-    "wof:lastmodified":1529711305,
+    "wof:lastmodified":1561830291,
     "wof:name":"Vilppula",
     "wof:parent_id":907199743,
     "wof:placetype":"locality",

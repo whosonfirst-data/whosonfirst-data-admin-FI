@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Ruukki"
     ],
-    "name:dut_x_preferred":[
-        "Ruukki"
-    ],
     "name:eng_x_preferred":[
         "Ruukki"
     ],
@@ -33,12 +30,6 @@
         "Ruukki"
     ],
     "name:fra_x_preferred":[
-        "Ruukki"
-    ],
-    "name:fre_x_preferred":[
-        "Ruukki"
-    ],
-    "name:ger_x_preferred":[
         "Ruukki"
     ],
     "name:nld_x_preferred":[
@@ -51,9 +42,6 @@
         "Ruukki"
     ],
     "name:ron_x_preferred":[
-        "Ruukki"
-    ],
-    "name:rum_x_preferred":[
         "Ruukki"
     ],
     "name:rus_x_preferred":[
@@ -120,7 +108,7 @@
         }
     ],
     "wof:id":101814431,
-    "wof:lastmodified":1529709424,
+    "wof:lastmodified":1561830286,
     "wof:name":"Ruukki",
     "wof:parent_id":907199705,
     "wof:placetype":"locality",

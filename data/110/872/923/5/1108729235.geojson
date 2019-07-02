@@ -28,9 +28,6 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
-    "name:dut_x_preferred":[
-        "Matinkyl\u00e4"
-    ],
     "name:eng_x_preferred":[
         "Matinkyl\u00e4"
     ],
@@ -40,7 +37,10 @@
     "name:fin_x_preferred":[
         "Matinkyl\u00e4"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Matinkyl\u00e4"
+    ],
+    "name:nld_x_preferred":[
         "Matinkyl\u00e4"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1108729235,
-    "wof:lastmodified":1529714718,
+    "wof:lastmodified":1561830251,
     "wof:name":"Matinkyla",
     "wof:parent_id":1108729221,
     "wof:placetype":"macrohood",

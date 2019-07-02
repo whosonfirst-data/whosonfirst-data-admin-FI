@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000316,
-    "geom:area_square_m":1938644.078716,
+    "geom:area_square_m":1938644.078715,
     "geom:bbox":"25.0619408767,60.2496674675,25.0891139828,60.2727001355",
     "geom:latitude":60.259101,
     "geom:longitude":25.078313,
@@ -33,9 +33,6 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
-    "name:dut_x_preferred":[
-        "Jakom\u00e4ki"
-    ],
     "name:eng_x_preferred":[
         "Jakom\u00e4ki"
     ],
@@ -45,7 +42,10 @@
     "name:fin_x_preferred":[
         "Jakom\u00e4ki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Jakom\u00e4ki"
+    ],
+    "name:nld_x_preferred":[
         "Jakom\u00e4ki"
     ],
     "name:nno_x_preferred":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1108727371,
-    "wof:lastmodified":1529714716,
+    "wof:lastmodified":1561830248,
     "wof:name":"Jakomaki",
     "wof:parent_id":890536891,
     "wof:placetype":"macrohood",

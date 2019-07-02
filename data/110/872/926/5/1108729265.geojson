@@ -28,12 +28,6 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
-    "name:arm_x_preferred":[
-        "\u053f\u056b\u056c\u0578"
-    ],
-    "name:dut_x_preferred":[
-        "Kilo"
-    ],
     "name:eng_x_preferred":[
         "Kilo"
     ],
@@ -43,8 +37,14 @@
     "name:fin_x_preferred":[
         "Kilo-Karakallio"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kilo-Karakallio"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u056c\u0578"
+    ],
+    "name:nld_x_preferred":[
+        "Kilo"
     ],
     "name:swe_x_preferred":[
         "Kilo"
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108729265,
-    "wof:lastmodified":1529714720,
+    "wof:lastmodified":1561830256,
     "wof:name":"Kilo-Karakallio",
     "wof:parent_id":1108729223,
     "wof:placetype":"macrohood",

@@ -17,25 +17,13 @@
     "mps:longitude":25.762263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "K\u00e4rs\u00e4m\u00e4ki"
-    ],
     "name:ceb_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
     "name:ces_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
-    "name:chi_x_preferred":[
-        "\u51f1\u723e\u8cfd\u9081\u57fa"
-    ],
-    "name:cze_x_preferred":[
-        "K\u00e4rs\u00e4m\u00e4ki"
-    ],
     "name:deu_x_preferred":[
-        "K\u00e4rs\u00e4m\u00e4ki"
-    ],
-    "name:dut_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
     "name:ell_x_preferred":[
@@ -49,15 +37,6 @@
     ],
     "name:fra_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
-    ],
-    "name:fre_x_preferred":[
-        "K\u00e4rs\u00e4m\u00e4ki"
-    ],
-    "name:ger_x_preferred":[
-        "K\u00e4rs\u00e4m\u00e4ki"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c1\u03c3\u03b1\u03bc\u03ac\u03ba\u03b9"
     ],
     "name:ita_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
@@ -74,7 +53,7 @@
     "name:pol_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
     "name:rus_x_preferred":[
@@ -86,11 +65,17 @@
     "name:spa_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
+    "name:sqi_x_preferred":[
+        "K\u00e4rs\u00e4m\u00e4ki"
+    ],
     "name:swe_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
     "name:vie_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u723e\u8cfd\u9081\u57fa"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjois-Pohjanmaa#Norra \u00d6sterbotten",
@@ -144,7 +129,7 @@
         }
     ],
     "wof:id":101814469,
-    "wof:lastmodified":1529709427,
+    "wof:lastmodified":1561830289,
     "wof:name":"K\u00e4rs\u00e4m\u00e4ki",
     "wof:parent_id":907199465,
     "wof:placetype":"locality",

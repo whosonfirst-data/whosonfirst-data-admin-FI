@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002206,
-    "geom:area_square_m":13144102.216099,
+    "geom:area_square_m":13144102.216094,
     "geom:bbox":"25.9760720715,61.1554981262,26.087753126,61.2323288286",
     "geom:latitude":61.196129,
     "geom:longitude":26.026857,
@@ -17,9 +17,6 @@
     "mps:longitude":26.036735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Heinola"
-    ],
     "name:ara_x_preferred":[
         "\u0647\u064a\u0646\u0648\u0644\u0627"
     ],
@@ -32,16 +29,7 @@
     "name:ces_x_preferred":[
         "Heinola"
     ],
-    "name:chi_x_preferred":[
-        "\u9ed1\u8afe\u62c9"
-    ],
-    "name:cze_x_preferred":[
-        "Heinola"
-    ],
     "name:deu_x_preferred":[
-        "Heinola"
-    ],
-    "name:dut_x_preferred":[
         "Heinola"
     ],
     "name:eng_x_preferred":[
@@ -50,16 +38,13 @@
     "name:est_x_preferred":[
         "Heinola linn"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0646\u0648\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Heinola"
     ],
     "name:fra_x_preferred":[
-        "Heinola"
-    ],
-    "name:fre_x_preferred":[
-        "Heinola"
-    ],
-    "name:ger_x_preferred":[
         "Heinola"
     ],
     "name:hbs_x_preferred":[
@@ -89,9 +74,6 @@
     "name:nor_x_preferred":[
         "Heinola"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u06cc\u0646\u0648\u0644\u0627"
-    ],
     "name:pol_x_preferred":[
         "Heinola"
     ],
@@ -101,9 +83,6 @@
     "name:ron_x_preferred":[
         "Heinola"
     ],
-    "name:rum_x_preferred":[
-        "Heinola"
-    ],
     "name:rus_x_preferred":[
         "\u0425\u0435\u0439\u043d\u043e\u043b\u0430"
     ],
@@ -111,9 +90,6 @@
         "Heinola"
     ],
     "name:slk_x_preferred":[
-        "Heinola"
-    ],
-    "name:slo_x_preferred":[
         "Heinola"
     ],
     "name:slv_x_preferred":[
@@ -203,7 +179,7 @@
         }
     ],
     "wof:id":101813939,
-    "wof:lastmodified":1529710022,
+    "wof:lastmodified":1561830291,
     "wof:name":"Heinola",
     "wof:parent_id":907198689,
     "wof:placetype":"locality",

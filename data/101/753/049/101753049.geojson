@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002831,
-    "geom:area_square_m":16781273.439213,
+    "geom:area_square_m":16781273.43922,
     "geom:bbox":"23.7058685606,61.2928294281,23.8034159395,61.4040306852",
     "geom:latitude":61.349711,
     "geom:longitude":23.761961,
@@ -17,9 +17,6 @@
     "mps:longitude":23.761851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Lemp\u00e4\u00e4l\u00e4"
-    ],
     "name:ara_x_preferred":[
         "\u0644\u0645\u0628\u0627\u0644\u0627"
     ],
@@ -29,16 +26,7 @@
     "name:ces_x_preferred":[
         "Lemp\u00e4\u00e4l\u00e4"
     ],
-    "name:chi_x_preferred":[
-        "\u502b\u6d3e\u840a"
-    ],
-    "name:cze_x_preferred":[
-        "Lemp\u00e4\u00e4l\u00e4"
-    ],
     "name:deu_x_preferred":[
-        "Lemp\u00e4\u00e4l\u00e4"
-    ],
-    "name:dut_x_preferred":[
         "Lemp\u00e4\u00e4l\u00e4"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +39,6 @@
         "Lemp\u00e4\u00e4l\u00e4"
     ],
     "name:fra_x_preferred":[
-        "Lemp\u00e4\u00e4l\u00e4"
-    ],
-    "name:fre_x_preferred":[
-        "Lemp\u00e4\u00e4l\u00e4"
-    ],
-    "name:ger_x_preferred":[
         "Lemp\u00e4\u00e4l\u00e4"
     ],
     "name:glg_x_preferred":[
@@ -98,9 +80,6 @@
     "name:ron_x_preferred":[
         "Lemp\u00e4\u00e4l\u00e4"
     ],
-    "name:rum_x_preferred":[
-        "Lemp\u00e4\u00e4l\u00e4"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u043c\u043f\u044f\u0430\u043b\u044f"
     ],
@@ -111,6 +90,9 @@
         "Lemp\u00e4\u00e4l\u00e4"
     ],
     "name:spa_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
+    "name:sqi_x_preferred":[
         "Lemp\u00e4\u00e4l\u00e4"
     ],
     "name:swe_x_historical":[
@@ -181,7 +163,7 @@
         }
     ],
     "wof:id":101753049,
-    "wof:lastmodified":1529711292,
+    "wof:lastmodified":1561830264,
     "wof:name":"Lemp\u00e4\u00e4l\u00e4",
     "wof:parent_id":907199279,
     "wof:placetype":"locality",

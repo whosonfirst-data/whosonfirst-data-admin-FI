@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":1749447.175418,
+    "geom:area_square_m":1749447.175417,
     "geom:bbox":"25.4202756033,62.4858674348,25.4523578893,62.5114722979",
     "geom:latitude":62.497992,
     "geom:longitude":25.435331,
@@ -17,19 +17,10 @@
     "mps:longitude":25.438247,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Uurainen"
-    ],
     "name:ceb_x_preferred":[
         "Uurainen"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u8cf4\u5be7"
-    ],
     "name:deu_x_preferred":[
-        "Uurainen"
-    ],
-    "name:dut_x_preferred":[
         "Uurainen"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Uurainen"
     ],
     "name:fra_x_preferred":[
-        "Uurainen"
-    ],
-    "name:fre_x_preferred":[
-        "Uurainen"
-    ],
-    "name:ger_x_preferred":[
         "Uurainen"
     ],
     "name:ita_x_preferred":[
@@ -72,9 +57,6 @@
         "Uurainen"
     ],
     "name:ron_x_preferred":[
-        "Uurainen"
-    ],
-    "name:rum_x_preferred":[
         "Uurainen"
     ],
     "name:rus_x_preferred":[
@@ -147,7 +129,7 @@
         }
     ],
     "wof:id":101814161,
-    "wof:lastmodified":1529706345,
+    "wof:lastmodified":1561830283,
     "wof:name":"Uurainen",
     "wof:parent_id":907199197,
     "wof:placetype":"locality",

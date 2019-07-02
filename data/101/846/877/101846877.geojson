@@ -17,19 +17,10 @@
     "mps:longitude":26.480986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Pertunmaa"
-    ],
     "name:ceb_x_preferred":[
         "Pertunmaa"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u723e\u9813\u99ac"
-    ],
     "name:deu_x_preferred":[
-        "Pertunmaa"
-    ],
-    "name:dut_x_preferred":[
         "Pertunmaa"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Pertunmaa"
     ],
     "name:fra_x_preferred":[
-        "Pertunmaa"
-    ],
-    "name:fre_x_preferred":[
-        "Pertunmaa"
-    ],
-    "name:ger_x_preferred":[
         "Pertunmaa"
     ],
     "name:ita_x_preferred":[
@@ -66,9 +51,6 @@
         "Pertunmaa"
     ],
     "name:ron_x_preferred":[
-        "Pertunmaa"
-    ],
-    "name:rum_x_preferred":[
         "Pertunmaa"
     ],
     "name:rus_x_preferred":[
@@ -138,7 +120,7 @@
         }
     ],
     "wof:id":101846877,
-    "wof:lastmodified":1529714455,
+    "wof:lastmodified":1561830276,
     "wof:name":"Pertunmaa",
     "wof:parent_id":907198743,
     "wof:placetype":"locality",

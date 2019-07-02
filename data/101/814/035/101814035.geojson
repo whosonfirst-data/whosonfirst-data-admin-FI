@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000947,
-    "geom:area_square_m":5627390.415407,
+    "geom:area_square_m":5627390.415409,
     "geom:bbox":"28.7804655622,61.2633067111,28.86123377,61.3001984793",
     "geom:latitude":61.284944,
     "geom:longitude":28.821828,
@@ -17,19 +17,10 @@
     "mps:longitude":28.822573,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Ruokolahti"
-    ],
     "name:ceb_x_preferred":[
         "Ruokolahti"
     ],
-    "name:chi_x_preferred":[
-        "\u9b6f\u5967\u79d1\u62c9\u8d6b\u8482"
-    ],
     "name:deu_x_preferred":[
-        "Ruokolahti"
-    ],
-    "name:dut_x_preferred":[
         "Ruokolahti"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "Ruokolahti"
     ],
     "name:fra_x_preferred":[
-        "Ruokolahti"
-    ],
-    "name:fre_x_preferred":[
-        "Ruokolahti"
-    ],
-    "name:ger_x_preferred":[
         "Ruokolahti"
     ],
     "name:ita_x_preferred":[
@@ -69,9 +54,6 @@
         "Ruokolahti"
     ],
     "name:ron_x_preferred":[
-        "Ruokolahti"
-    ],
-    "name:rum_x_preferred":[
         "Ruokolahti"
     ],
     "name:rus_x_preferred":[
@@ -147,7 +129,7 @@
         }
     ],
     "wof:id":101814035,
-    "wof:lastmodified":1529707142,
+    "wof:lastmodified":1561830289,
     "wof:name":"Ruokolahti",
     "wof:parent_id":907198791,
     "wof:placetype":"locality",

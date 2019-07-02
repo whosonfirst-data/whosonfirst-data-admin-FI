@@ -17,9 +17,6 @@
     "mps:longitude":24.092484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kangasala"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0646\u0627\u0633\u0623\u0644\u0627"
     ],
@@ -29,16 +26,7 @@
     "name:ces_x_preferred":[
         "Kangasala"
     ],
-    "name:chi_x_preferred":[
-        "\u5eb7\u963f\u65af\u963f\u62c9"
-    ],
-    "name:cze_x_preferred":[
-        "Kangasala"
-    ],
     "name:deu_x_preferred":[
-        "Kangasala"
-    ],
-    "name:dut_x_preferred":[
         "Kangasala"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +39,6 @@
         "Kangasala"
     ],
     "name:fra_x_preferred":[
-        "Kangasala"
-    ],
-    "name:fre_x_preferred":[
-        "Kangasala"
-    ],
-    "name:ger_x_preferred":[
         "Kangasala"
     ],
     "name:hbs_x_preferred":[
@@ -92,9 +74,6 @@
     "name:ron_x_preferred":[
         "Kangasala"
     ],
-    "name:rum_x_preferred":[
-        "Kangasala"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0433\u0430\u0441\u0430\u043b\u0430"
     ],
@@ -118,6 +97,9 @@
     ],
     "name:zho_x_preferred":[
         "\u574e\u52a0\u85a9\u62c9"
+    ],
+    "name:zho_x_variant":[
+        "\u5eb7\u963f\u65af\u963f\u62c9"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pirkanmaa#Birkaland",
@@ -170,7 +152,7 @@
         }
     ],
     "wof:id":101753047,
-    "wof:lastmodified":1529711292,
+    "wof:lastmodified":1561830265,
     "wof:name":"Kangasala",
     "wof:parent_id":907199185,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000298,
-    "geom:area_square_m":1749733.825447,
+    "geom:area_square_m":1749733.825449,
     "geom:bbox":"21.6018826793,61.6642034347,21.6844430706,61.6798763972",
     "geom:latitude":61.672367,
     "geom:longitude":21.633268,
@@ -32,12 +32,6 @@
         "Ahlainen"
     ],
     "name:fra_x_preferred":[
-        "Ahlainen"
-    ],
-    "name:fre_x_preferred":[
-        "Ahlainen"
-    ],
-    "name:ger_x_preferred":[
         "Ahlainen"
     ],
     "name:jpn_x_preferred":[
@@ -114,7 +108,7 @@
         }
     ],
     "wof:id":101846823,
-    "wof:lastmodified":1529712494,
+    "wof:lastmodified":1561830276,
     "wof:name":"Ahlainen",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

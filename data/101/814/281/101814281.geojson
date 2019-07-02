@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Lohtaja"
     ],
-    "name:dut_x_preferred":[
-        "Lohtaja"
-    ],
     "name:eng_x_preferred":[
         "Lohtaja"
     ],
@@ -39,12 +36,6 @@
         "Lohtaja"
     ],
     "name:fra_x_preferred":[
-        "Lohtaja"
-    ],
-    "name:fre_x_preferred":[
-        "Lohtaja"
-    ],
-    "name:ger_x_preferred":[
         "Lohtaja"
     ],
     "name:isl_x_preferred":[
@@ -63,9 +54,6 @@
         "Lochte\u00e5"
     ],
     "name:ron_x_preferred":[
-        "Lohtaja"
-    ],
-    "name:rum_x_preferred":[
         "Lohtaja"
     ],
     "name:sme_x_preferred":[
@@ -129,7 +117,7 @@
         }
     ],
     "wof:id":101814281,
-    "wof:lastmodified":1529706408,
+    "wof:lastmodified":1561830285,
     "wof:name":"Lohtaja",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

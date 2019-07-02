@@ -17,25 +17,16 @@
     "mps:longitude":25.181639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Pet\u00e4j\u00e4vesi"
-    ],
     "name:cat_x_preferred":[
         "Pet\u00e4j\u00e4vesi"
     ],
     "name:ceb_x_preferred":[
         "Pet\u00e4j\u00e4vesi"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u6cf0\u8036\u97cb\u897f"
-    ],
     "name:dan_x_preferred":[
         "Pet\u00e4j\u00e4vesi"
     ],
     "name:deu_x_preferred":[
-        "Pet\u00e4j\u00e4vesi"
-    ],
-    "name:dut_x_preferred":[
         "Pet\u00e4j\u00e4vesi"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "Pet\u00e4j\u00e4vesi"
     ],
     "name:fra_x_preferred":[
-        "Pet\u00e4j\u00e4vesi"
-    ],
-    "name:fre_x_preferred":[
-        "Pet\u00e4j\u00e4vesi"
-    ],
-    "name:ger_x_preferred":[
         "Pet\u00e4j\u00e4vesi"
     ],
     "name:ind_x_preferred":[
@@ -80,9 +65,6 @@
     "name:ron_x_preferred":[
         "Pet\u00e4j\u00e4vesi"
     ],
-    "name:rum_x_preferred":[
-        "Pet\u00e4j\u00e4vesi"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0442\u044f\u044f\u0432\u0435\u0441\u0438"
     ],
@@ -93,6 +75,9 @@
         "Pet\u00e4j\u00e4vesi"
     ],
     "name:spa_x_preferred":[
+        "Pet\u00e4j\u00e4vesi"
+    ],
+    "name:sqi_x_preferred":[
         "Pet\u00e4j\u00e4vesi"
     ],
     "name:swe_x_preferred":[
@@ -155,7 +140,7 @@
         }
     ],
     "wof:id":101814197,
-    "wof:lastmodified":1529706347,
+    "wof:lastmodified":1561830287,
     "wof:name":"Pet\u00e4j\u00e4vesi",
     "wof:parent_id":907199215,
     "wof:placetype":"locality",

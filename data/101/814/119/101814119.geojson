@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Ylih\u00e4rm\u00e4"
     ],
-    "name:dut_x_preferred":[
-        "Ylih\u00e4rm\u00e4"
-    ],
     "name:eng_x_preferred":[
         "Ylih\u00e4rm\u00e4"
     ],
@@ -33,12 +30,6 @@
         "Ylih\u00e4rm\u00e4"
     ],
     "name:fra_x_preferred":[
-        "Ylih\u00e4rm\u00e4"
-    ],
-    "name:fre_x_preferred":[
-        "Ylih\u00e4rm\u00e4"
-    ],
-    "name:ger_x_preferred":[
         "Ylih\u00e4rm\u00e4"
     ],
     "name:ita_x_preferred":[
@@ -57,9 +48,6 @@
         "Ylih\u00e4rm\u00e4"
     ],
     "name:ron_x_preferred":[
-        "Ylih\u00e4rm\u00e4"
-    ],
-    "name:rum_x_preferred":[
         "Ylih\u00e4rm\u00e4"
     ],
     "name:sme_x_preferred":[
@@ -128,7 +116,7 @@
         }
     ],
     "wof:id":101814119,
-    "wof:lastmodified":1535390518,
+    "wof:lastmodified":1561830287,
     "wof:name":"Ylih\u00e4rm\u00e4",
     "wof:parent_id":907199237,
     "wof:placetype":"locality",

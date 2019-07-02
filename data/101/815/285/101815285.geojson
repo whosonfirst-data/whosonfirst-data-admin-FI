@@ -19,9 +19,6 @@
     "name:dan_x_preferred":[
         "Kl\u00f6vskog"
     ],
-    "name:dut_x_preferred":[
-        "Klaukkala"
-    ],
     "name:eng_x_preferred":[
         "Klaukkala"
     ],
@@ -30,6 +27,9 @@
     ],
     "name:isl_x_preferred":[
         "Kl\u00f6vskog"
+    ],
+    "name:nld_x_preferred":[
+        "Klaukkala"
     ],
     "name:nor_x_preferred":[
         "Kl\u00f6vskog"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":101815285,
-    "wof:lastmodified":1529714673,
+    "wof:lastmodified":1561830281,
     "wof:name":"Klaukkala",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

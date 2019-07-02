@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Kiukainen"
     ],
-    "name:dut_x_preferred":[
-        "Kiukainen"
-    ],
     "name:eng_x_preferred":[
         "Kiukainen"
     ],
@@ -39,12 +36,6 @@
         "Kiukais"
     ],
     "name:fra_x_preferred":[
-        "Kiukainen"
-    ],
-    "name:fre_x_preferred":[
-        "Kiukainen"
-    ],
-    "name:ger_x_preferred":[
         "Kiukainen"
     ],
     "name:ita_x_preferred":[
@@ -60,9 +51,6 @@
         "Kiukainen"
     ],
     "name:ron_x_preferred":[
-        "Kiukainen"
-    ],
-    "name:rum_x_preferred":[
         "Kiukainen"
     ],
     "name:sme_x_preferred":[
@@ -124,7 +112,7 @@
         }
     ],
     "wof:id":101815459,
-    "wof:lastmodified":1529712492,
+    "wof:lastmodified":1561830281,
     "wof:name":"Kiukainen",
     "wof:parent_id":907198915,
     "wof:placetype":"locality",

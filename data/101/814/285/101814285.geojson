@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001299,
-    "geom:area_square_m":7065499.608455,
+    "geom:area_square_m":7065499.608458,
     "geom:bbox":"23.8825958353,63.8815813755,23.9558103275,63.9237540574",
     "geom:latitude":63.89977,
     "geom:longitude":23.923007,
@@ -17,22 +17,13 @@
     "mps:longitude":23.926612,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kannus"
-    ],
     "name:cat_x_preferred":[
         "Kannus"
     ],
     "name:ceb_x_preferred":[
         "Kannus"
     ],
-    "name:chi_x_preferred":[
-        "\u574e\u52aa\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Kannus"
-    ],
-    "name:dut_x_preferred":[
         "Kannus"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Kannus"
     ],
     "name:fra_x_preferred":[
-        "Kannus"
-    ],
-    "name:fre_x_preferred":[
-        "Kannus"
-    ],
-    "name:ger_x_preferred":[
         "Kannus"
     ],
     "name:hbs_x_preferred":[
@@ -77,9 +62,6 @@
     "name:ron_x_preferred":[
         "Kannus"
     ],
-    "name:rum_x_preferred":[
-        "Kannus"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u043d\u0443\u0441"
     ],
@@ -87,9 +69,6 @@
         "\u0418\u043b\u0438\u043a\u0430\u043d\u043d\u0443\u0441"
     ],
     "name:slk_x_preferred":[
-        "Kannus"
-    ],
-    "name:slo_x_preferred":[
         "Kannus"
     ],
     "name:sme_x_preferred":[
@@ -175,7 +154,7 @@
         }
     ],
     "wof:id":101814285,
-    "wof:lastmodified":1529706409,
+    "wof:lastmodified":1561830288,
     "wof:name":"Kannus",
     "wof:parent_id":907198997,
     "wof:placetype":"locality",

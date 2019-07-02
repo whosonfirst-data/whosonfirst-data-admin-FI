@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001444,
-    "geom:area_square_m":8420264.468394,
+    "geom:area_square_m":8420264.468391,
     "geom:bbox":"25.148822328,61.8529892563,25.2349232181,61.8855837815",
     "geom:latitude":61.868932,
     "geom:longitude":25.191261,
@@ -17,9 +17,6 @@
     "mps:longitude":25.183434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "J\u00e4ms\u00e4"
-    ],
     "name:ara_x_preferred":[
         "\u064a\u0627\u0645\u0633\u0627"
     ],
@@ -32,13 +29,7 @@
     "name:ceb_x_preferred":[
         "J\u00e4ms\u00e4"
     ],
-    "name:chi_x_preferred":[
-        "\u8036\u59c6\u8cfd"
-    ],
     "name:deu_x_preferred":[
-        "J\u00e4ms\u00e4"
-    ],
-    "name:dut_x_preferred":[
         "J\u00e4ms\u00e4"
     ],
     "name:eng_x_preferred":[
@@ -50,16 +41,13 @@
     "name:est_x_preferred":[
         "J\u00e4ms\u00e4"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0645\u0633\u0627"
+    ],
     "name:fin_x_preferred":[
         "J\u00e4ms\u00e4"
     ],
     "name:fra_x_preferred":[
-        "J\u00e4ms\u00e4"
-    ],
-    "name:fre_x_preferred":[
-        "J\u00e4ms\u00e4"
-    ],
-    "name:ger_x_preferred":[
         "J\u00e4ms\u00e4"
     ],
     "name:hun_x_preferred":[
@@ -77,11 +65,11 @@
     "name:lit_x_preferred":[
         "Jamsa"
     ],
-    "name:may_x_preferred":[
-        "J\u00e4ms\u00e4"
-    ],
     "name:mrj_x_preferred":[
         "\u0419\u04d3\u043c\u0441\u04d3"
+    ],
+    "name:msa_x_preferred":[
+        "J\u00e4ms\u00e4"
     ],
     "name:nld_x_preferred":[
         "J\u00e4ms\u00e4"
@@ -92,16 +80,10 @@
     "name:nob_x_preferred":[
         "J\u00e4ms\u00e4"
     ],
-    "name:per_x_preferred":[
-        "\u06cc\u0627\u0645\u0633\u0627"
-    ],
     "name:pol_x_preferred":[
         "J\u00e4ms\u00e4"
     ],
     "name:ron_x_preferred":[
-        "J\u00e4ms\u00e4"
-    ],
-    "name:rum_x_preferred":[
         "J\u00e4ms\u00e4"
     ],
     "name:rus_x_preferred":[
@@ -117,6 +99,9 @@
         "J\u00e4ms\u00e4"
     ],
     "name:spa_x_preferred":[
+        "J\u00e4ms\u00e4"
+    ],
+    "name:sqi_x_preferred":[
         "J\u00e4ms\u00e4"
     ],
     "name:srp_x_preferred":[
@@ -198,7 +183,7 @@
         }
     ],
     "wof:id":101814221,
-    "wof:lastmodified":1529706349,
+    "wof:lastmodified":1561830285,
     "wof:name":"J\u00e4ms\u00e4",
     "wof:parent_id":907199101,
     "wof:placetype":"locality",

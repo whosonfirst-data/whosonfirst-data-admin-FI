@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000366,
-    "geom:area_square_m":2187408.693707,
+    "geom:area_square_m":2187408.693706,
     "geom:bbox":"22.2924627608,61.0974817095,22.3267620703,61.131297206",
     "geom:latitude":61.114713,
     "geom:longitude":22.309267,
@@ -17,25 +17,13 @@
     "mps:longitude":22.309007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "K\u00f6yli\u00f6"
-    ],
     "name:ceb_x_preferred":[
         "K\u00f6yli\u00f6"
     ],
     "name:ces_x_preferred":[
         "K\u00f6yli\u00f6"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u4e8e\u5229\u5384"
-    ],
-    "name:cze_x_preferred":[
-        "K\u00f6yli\u00f6"
-    ],
     "name:deu_x_preferred":[
-        "K\u00f6yli\u00f6"
-    ],
-    "name:dut_x_preferred":[
         "K\u00f6yli\u00f6"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +36,6 @@
         "K\u00f6yli\u00f6"
     ],
     "name:fra_x_preferred":[
-        "K\u00f6yli\u00f6"
-    ],
-    "name:fre_x_preferred":[
-        "K\u00f6yli\u00f6"
-    ],
-    "name:ger_x_preferred":[
         "K\u00f6yli\u00f6"
     ],
     "name:hun_x_preferred":[
@@ -77,7 +59,7 @@
     "name:pol_x_preferred":[
         "K\u00f6yli\u00f6"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "K\u00f6yli\u00f6"
     ],
     "name:rus_x_preferred":[
@@ -89,11 +71,17 @@
     "name:spa_x_preferred":[
         "K\u00f6yli\u00f6"
     ],
+    "name:sqi_x_preferred":[
+        "K\u00f6yli\u00f6"
+    ],
     "name:swe_x_preferred":[
         "Kjulo"
     ],
     "name:vie_x_preferred":[
         "K\u00f6yli\u00f6"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u4e8e\u5229\u5384"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Satakunta",
@@ -146,7 +134,7 @@
         }
     ],
     "wof:id":101846811,
-    "wof:lastmodified":1529712494,
+    "wof:lastmodified":1561830273,
     "wof:name":"K\u00f6yli\u00f6",
     "wof:parent_id":907198925,
     "wof:placetype":"locality",

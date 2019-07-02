@@ -38,9 +38,6 @@
     "name:deu_x_preferred":[
         "Punavuori"
     ],
-    "name:dut_x_preferred":[
-        "Punavuori"
-    ],
     "name:eng_x_preferred":[
         "Punavuori"
     ],
@@ -60,10 +57,7 @@
     "name:fra_x_preferred":[
         "Punavuori"
     ],
-    "name:fre_x_preferred":[
-        "Punavuori"
-    ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Punavuori"
     ],
     "name:nob_x_preferred":[
@@ -114,7 +108,6 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":262,
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727335,
         907199715,
@@ -123,7 +116,8 @@
         101748417,
         136253047,
         890536879,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[
         85907973
@@ -157,7 +151,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529714761,
+    "wof:lastmodified":1561830201,
     "wof:name":"Punavuori",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

@@ -17,19 +17,10 @@
     "mps:longitude":24.421005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Perho"
-    ],
     "name:ceb_x_preferred":[
         "Perho"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u723e\u970d"
-    ],
     "name:deu_x_preferred":[
-        "Perho"
-    ],
-    "name:dut_x_preferred":[
         "Perho"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Perho"
     ],
     "name:fra_x_preferred":[
-        "Perho"
-    ],
-    "name:fre_x_preferred":[
-        "Perho"
-    ],
-    "name:ger_x_preferred":[
         "Perho"
     ],
     "name:ita_x_preferred":[
@@ -66,9 +51,6 @@
         "Perho"
     ],
     "name:ron_x_preferred":[
-        "Perho"
-    ],
-    "name:rum_x_preferred":[
         "Perho"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +119,7 @@
         }
     ],
     "wof:id":101846981,
-    "wof:lastmodified":1529706410,
+    "wof:lastmodified":1561830277,
     "wof:name":"Perho",
     "wof:parent_id":907199111,
     "wof:placetype":"locality",

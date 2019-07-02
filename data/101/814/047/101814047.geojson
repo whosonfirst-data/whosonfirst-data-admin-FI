@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000203,
-    "geom:area_square_m":1172997.842088,
+    "geom:area_square_m":1172997.842087,
     "geom:bbox":"29.1934381516,62.1630706577,29.2207269094,62.1891383003",
     "geom:latitude":62.175,
     "geom:longitude":29.203949,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Savonranta"
     ],
-    "name:dut_x_preferred":[
-        "Savonranta"
-    ],
     "name:eng_x_preferred":[
         "Savonranta"
     ],
@@ -36,12 +33,6 @@
         "Savonranta"
     ],
     "name:fra_x_preferred":[
-        "Savonranta"
-    ],
-    "name:fre_x_preferred":[
-        "Savonranta"
-    ],
-    "name:ger_x_preferred":[
         "Savonranta"
     ],
     "name:hbs_x_preferred":[
@@ -60,9 +51,6 @@
         "Savonranta"
     ],
     "name:ron_x_preferred":[
-        "Savonranta"
-    ],
-    "name:rum_x_preferred":[
         "Savonranta"
     ],
     "name:rus_x_preferred":[
@@ -126,7 +114,7 @@
         }
     ],
     "wof:id":101814047,
-    "wof:lastmodified":1529714449,
+    "wof:lastmodified":1561830285,
     "wof:name":"Savonranta",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

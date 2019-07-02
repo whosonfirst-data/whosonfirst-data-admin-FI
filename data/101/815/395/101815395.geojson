@@ -17,9 +17,6 @@
     "mps:longitude":25.006151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Lammi"
-    ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u043c\u0438"
     ],
@@ -27,9 +24,6 @@
         "Lammi"
     ],
     "name:deu_x_preferred":[
-        "Lammi"
-    ],
-    "name:dut_x_preferred":[
         "Lammi"
     ],
     "name:eng_x_preferred":[
@@ -47,12 +41,6 @@
     "name:fra_x_preferred":[
         "Lammi"
     ],
-    "name:fre_x_preferred":[
-        "Lammi"
-    ],
-    "name:ger_x_preferred":[
-        "Lammi"
-    ],
     "name:ita_x_preferred":[
         "Lammi"
     ],
@@ -66,9 +54,6 @@
         "Lammi"
     ],
     "name:ron_x_preferred":[
-        "Lammi"
-    ],
-    "name:rum_x_preferred":[
         "Lammi"
     ],
     "name:rus_x_preferred":[
@@ -134,7 +119,7 @@
         }
     ],
     "wof:id":101815395,
-    "wof:lastmodified":1529711985,
+    "wof:lastmodified":1561830280,
     "wof:name":"Lammi",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

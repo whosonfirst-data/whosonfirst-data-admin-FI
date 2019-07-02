@@ -19,12 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u053f\u056b\u056c\u0578"
-    ],
-    "name:dut_x_preferred":[
-        "Kilo"
-    ],
     "name:eng_x_preferred":[
         "Kilo"
     ],
@@ -34,8 +28,14 @@
     "name:fin_x_preferred":[
         "Kilo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kilo-Karakallio"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u056c\u0578"
+    ],
+    "name:nld_x_preferred":[
+        "Kilo"
     ],
     "name:swe_x_preferred":[
         "Kilo"
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1125976773,
-    "wof:lastmodified":1529714701,
+    "wof:lastmodified":1561830309,
     "wof:name":"Kilo",
     "wof:parent_id":907198517,
     "wof:placetype":"locality",

@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000589,
-    "geom:area_square_m":3597033.60046,
+    "geom:area_square_m":3597033.600462,
     "geom:bbox":"23.0586288523,60.3846249122,23.1056616723,60.4164167987",
     "geom:latitude":60.402995,
     "geom:longitude":23.082531,
@@ -22,7 +22,7 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u043b\u0438\u043a\u043e"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Halikko"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +31,7 @@
     "name:fin_x_preferred":[
         "Halikko"
     ],
-    "name:fre_x_preferred":[
-        "Halikko"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Halikko"
     ],
     "name:hun_x_preferred":[
@@ -46,10 +43,13 @@
     "name:jpn_x_preferred":[
         "\u30cf\u30ea\u30c3\u30b3"
     ],
+    "name:nld_x_preferred":[
+        "Halikko"
+    ],
     "name:nob_x_preferred":[
         "Halikko"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Halikko"
     ],
     "name:rus_x_preferred":[
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":101839157,
-    "wof:lastmodified":1534985891,
+    "wof:lastmodified":1561830291,
     "wof:name":"Halikko",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

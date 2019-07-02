@@ -17,10 +17,7 @@
     "mps:longitude":21.413282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u96f7\u666e\u6d1b\u7279\u5cf6"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Replot"
     ],
     "name:eng_x_preferred":[
@@ -29,14 +26,14 @@
     "name:fin_x_preferred":[
         "Raippaluoto"
     ],
-    "name:fre_x_preferred":[
-        "Replot"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Replot"
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30d7\u30ed\u30c3\u30c8\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Replot"
     ],
     "name:nob_x_preferred":[
         "Replot"
@@ -55,6 +52,9 @@
     ],
     "name:swe_x_variant":[
         "Replot\u00f6"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u666e\u6d1b\u7279\u5cf6"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjanmaa#\u00d6sterbotten",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":101846963,
-    "wof:lastmodified":1529709681,
+    "wof:lastmodified":1561830272,
     "wof:name":"Raippaluoto",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

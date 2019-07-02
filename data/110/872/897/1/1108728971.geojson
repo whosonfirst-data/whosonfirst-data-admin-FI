@@ -20,7 +20,7 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Raksila"
     ],
     "name:eng_x_preferred":[
@@ -29,10 +29,10 @@
     "name:fin_x_preferred":[
         "Raksila"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Raksila"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Raksila"
     ],
     "name:swe_x_preferred":[
@@ -46,14 +46,14 @@
     "reversegeo:longitude":25.494398,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1108728971,
-    "wof:lastmodified":1529709459,
+    "wof:lastmodified":1561830255,
     "wof:name":"Raksila",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",
