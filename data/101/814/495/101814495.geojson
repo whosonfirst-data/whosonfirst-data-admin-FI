@@ -19,11 +19,17 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0643\u0627 \u0647\u0645\u0627\u0644\u0627\u064a\u0646\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Sirkka"
+    ],
     "name:eng_x_preferred":[
         "Sirkka"
     ],
     "name:fin_x_preferred":[
         "Sirkka H\u00e4m\u00e4l\u00e4inen"
+    ],
+    "name:fin_x_variant":[
+        "Sirkka"
     ],
     "name:ind_x_preferred":[
         "Sirkka H\u00e4m\u00e4l\u00e4inen"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":101814495,
-    "wof:lastmodified":1561830289,
+    "wof:lastmodified":1563283951,
     "wof:name":"Sirkka",
     "wof:parent_id":907199565,
     "wof:placetype":"locality",

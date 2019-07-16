@@ -20,6 +20,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Nalkala"
+    ],
     "name:eng_x_preferred":[
         "Nalkala"
     ],
@@ -27,6 +30,9 @@
         "Nalkala"
     ],
     "name:fra_x_preferred":[
+        "Nalkala"
+    ],
+    "name:swe_x_preferred":[
         "Nalkala"
     ],
     "reversegeo:latitude":61.49438,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108728457,
-    "wof:lastmodified":1561830249,
+    "wof:lastmodified":1563283363,
     "wof:name":"Nalkala",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

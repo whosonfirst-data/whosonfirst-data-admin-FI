@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Tenala"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30a8\u30ce\u30e9"
+    ],
     "name:nld_x_preferred":[
         "Tenala"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101815305,
-    "wof:lastmodified":1561830280,
+    "wof:lastmodified":1563283812,
     "wof:name":"Tenhola",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

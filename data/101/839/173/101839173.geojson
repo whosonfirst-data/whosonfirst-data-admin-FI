@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001414,
-    "geom:area_square_m":7991068.597727,
+    "geom:area_square_m":7991068.597732,
     "geom:bbox":"22.876681436,62.7671022748,22.9390027045,62.8411876771",
     "geom:latitude":62.810646,
     "geom:longitude":22.906774,
@@ -17,7 +17,13 @@
     "mps:longitude":22.89686,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nurmo"
+    ],
     "name:deu_x_preferred":[
+        "Nurmo"
+    ],
+    "name:eng_x_preferred":[
         "Nurmo"
     ],
     "name:fin_x_preferred":[
@@ -30,6 +36,9 @@
         "Nurmo"
     ],
     "name:nld_x_preferred":[
+        "Nurmo"
+    ],
+    "name:nob_x_preferred":[
         "Nurmo"
     ],
     "name:nor_x_preferred":[
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":101839173,
-    "wof:lastmodified":1529709633,
+    "wof:lastmodified":1563283981,
     "wof:name":"Nurmo",
     "wof:parent_id":907199285,
     "wof:placetype":"locality",

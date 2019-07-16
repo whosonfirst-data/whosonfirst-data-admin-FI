@@ -28,6 +28,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0438\u0432\u043e\u043f\u0443\u0438\u0441\u0442\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kaivopuisto"
+    ],
     "name:deu_x_preferred":[
         "Kaivopuisto"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:tur_x_preferred":[
         "Kaivopuisto"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u4f0a\u6c83\u516c\u56ed"
     ],
     "reversegeo:latitude":60.158179,
     "reversegeo:longitude":24.974641,
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108727025,
-    "wof:lastmodified":1561830252,
+    "wof:lastmodified":1563283410,
     "wof:name":"Kaivopuisto",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

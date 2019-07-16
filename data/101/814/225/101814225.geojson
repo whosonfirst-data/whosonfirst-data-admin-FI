@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u062a\u0633\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Joutsa"
+    ],
     "name:ceb_x_preferred":[
         "Joutsa"
     ],
@@ -42,6 +45,12 @@
         "Joutsa"
     ],
     "name:fra_x_preferred":[
+        "Joutsa"
+    ],
+    "name:glg_x_preferred":[
+        "Joutsa"
+    ],
+    "name:ind_x_preferred":[
         "Joutsa"
     ],
     "name:ita_x_preferred":[
@@ -75,6 +84,9 @@
         "Joutsa"
     ],
     "name:swe_x_preferred":[
+        "Joutsa"
+    ],
+    "name:tur_x_preferred":[
         "Joutsa"
     ],
     "name:vie_x_preferred":[
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":101814225,
-    "wof:lastmodified":1561830289,
+    "wof:lastmodified":1563283938,
     "wof:name":"Joutsa",
     "wof:parent_id":907198751,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:swe_x_preferred":[
         "Sandhamn"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430\u0445\u0430\u043c\u0456\u043d\u0430"
+    ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Uusimaa#Nyland",
     "qs:a1r":"0Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101846719,
-    "wof:lastmodified":1561830277,
+    "wof:lastmodified":1563283770,
     "wof:name":"Santahamina",
     "wof:parent_id":907199715,
     "wof:placetype":"locality",

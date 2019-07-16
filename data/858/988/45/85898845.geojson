@@ -33,6 +33,9 @@
     "name:ceb_x_preferred":[
         "Kamppi"
     ],
+    "name:dan_x_preferred":[
+        "Kamppi"
+    ],
     "name:deu_x_preferred":[
         "Kamppi"
     ],
@@ -156,7 +159,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830221,
+    "wof:lastmodified":1563282673,
     "wof:name":"Kamppi",
     "wof:parent_id":1108727337,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "name:nld_x_preferred":[
         "Kiljava"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u044c\u044f\u0432\u0430"
+    ],
     "name:unk_x_variant":[
         "Kiljavan Nummi"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125921089,
-    "wof:lastmodified":1561830303,
+    "wof:lastmodified":1563284093,
     "wof:name":"Kiljava",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

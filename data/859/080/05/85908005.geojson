@@ -51,6 +51,9 @@
     "name:swe_x_preferred":[
         "Havsrastb\u00f6le"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0440\u0456-\u0420\u0430\u0441\u0442\u0456\u043b\u0430"
+    ],
     "name:unk_x_variant":[
         "Havs-Rastb\u00f6le"
     ],
@@ -125,7 +128,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830201,
+    "wof:lastmodified":1563282620,
     "wof:name":"Meri-Rastila",
     "wof:parent_id":890537281,
     "wof:placetype":"neighbourhood",

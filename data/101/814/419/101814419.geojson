@@ -17,6 +17,9 @@
     "mps:longitude":25.520412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Kempele"
+    ],
     "name:cat_x_preferred":[
         "Kempele"
     ],
@@ -35,10 +38,16 @@
     "name:eng_x_preferred":[
         "Kempele"
     ],
+    "name:est_x_preferred":[
+        "Kempele vald"
+    ],
     "name:fin_x_preferred":[
         "Kempele"
     ],
     "name:fra_x_preferred":[
+        "Kempele"
+    ],
+    "name:glg_x_preferred":[
         "Kempele"
     ],
     "name:heb_x_preferred":[
@@ -81,6 +90,9 @@
         "Kempele"
     ],
     "name:swe_x_preferred":[
+        "Kempele"
+    ],
+    "name:tur_x_preferred":[
         "Kempele"
     ],
     "name:unk_x_variant":[
@@ -144,7 +156,7 @@
         }
     ],
     "wof:id":101814419,
-    "wof:lastmodified":1561830288,
+    "wof:lastmodified":1563283926,
     "wof:name":"Kempele",
     "wof:parent_id":907199479,
     "wof:placetype":"locality",

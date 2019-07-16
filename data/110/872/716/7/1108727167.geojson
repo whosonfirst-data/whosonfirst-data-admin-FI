@@ -25,6 +25,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Puotinharju"
+    ],
     "name:eng_x_preferred":[
         "Puotinharju"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:swe_x_preferred":[
         "Botbyh\u00f6jden"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043e\u0442\u0456\u043d\u0445\u0430\u0440'\u044e"
     ],
     "reversegeo:latitude":60.217413,
     "reversegeo:longitude":25.088245,
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1108727167,
-    "wof:lastmodified":1561830256,
+    "wof:lastmodified":1563283469,
     "wof:name":"Puotinharju",
     "wof:parent_id":890537287,
     "wof:placetype":"neighbourhood",

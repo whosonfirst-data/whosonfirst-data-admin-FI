@@ -17,16 +17,31 @@
     "mps:longitude":26.340584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Keitele"
+    ],
+    "name:ceb_x_preferred":[
+        "Keitele"
+    ],
     "name:deu_x_preferred":[
         "Keitele"
     ],
     "name:eng_x_preferred":[
         "Keitele"
     ],
+    "name:epo_x_preferred":[
+        "Keitele"
+    ],
+    "name:est_x_preferred":[
+        "Keitele vald"
+    ],
     "name:fin_x_preferred":[
         "Keitele"
     ],
     "name:fra_x_preferred":[
+        "Keitele"
+    ],
+    "name:glg_x_preferred":[
         "Keitele"
     ],
     "name:ita_x_preferred":[
@@ -57,6 +72,12 @@
         "Keitele"
     ],
     "name:swe_x_preferred":[
+        "Keitele"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e04\u0e40\u0e17\u0e40\u0e25"
+    ],
+    "name:tur_x_preferred":[
         "Keitele"
     ],
     "name:zho_x_preferred":[
@@ -114,7 +135,7 @@
         }
     ],
     "wof:id":101814325,
-    "wof:lastmodified":1561830287,
+    "wof:lastmodified":1563283912,
     "wof:name":"Keitele",
     "wof:parent_id":907199277,
     "wof:placetype":"locality",

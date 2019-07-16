@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Raattama"
+    ],
     "name:eng_x_preferred":[
         "Raattama"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1126026123,
-    "wof:lastmodified":1529708138,
+    "wof:lastmodified":1563284105,
     "wof:name":"Raattama",
     "wof:parent_id":907199565,
     "wof:placetype":"locality",

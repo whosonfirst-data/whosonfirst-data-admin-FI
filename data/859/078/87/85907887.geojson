@@ -57,6 +57,9 @@
     "name:fra_x_preferred":[
         "Punavuori"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ca\u30f4\u30aa\u30ea"
+    ],
     "name:nld_x_preferred":[
         "Punavuori"
     ],
@@ -151,7 +154,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830201,
+    "wof:lastmodified":1563282619,
     "wof:name":"Punavuori",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

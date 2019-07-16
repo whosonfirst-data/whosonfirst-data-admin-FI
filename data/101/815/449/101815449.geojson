@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Koski"
     ],
+    "name:eng_x_variant":[
+        "H\u00e4meenkoski"
+    ],
     "name:fin_x_preferred":[
         "H\u00e4meenkoski"
     ],
@@ -65,6 +68,9 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0441\u043a\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u044f\u043c\u0435\u044d\u043d\u043a\u043e\u0441\u043a\u0438"
+    ],
     "name:slv_x_preferred":[
         "H\u00e4meenkoski"
     ],
@@ -78,6 +84,9 @@
         "H\u00e4meenkoski"
     ],
     "name:swe_x_preferred":[
+        "H\u00e4meenkoski"
+    ],
+    "name:tur_x_preferred":[
         "H\u00e4meenkoski"
     ],
     "name:zho_x_preferred":[
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":101815449,
-    "wof:lastmodified":1561830278,
+    "wof:lastmodified":1563283783,
     "wof:name":"H\u00e4meenkoski",
     "wof:parent_id":907198585,
     "wof:placetype":"locality",

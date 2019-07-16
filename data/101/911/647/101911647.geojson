@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000097,
-    "geom:area_square_m":556654.019674,
+    "geom:area_square_m":556654.019675,
     "geom:bbox":"25.8943091906,62.2110016021,25.9105031235,62.2284803469",
     "geom:latitude":62.218804,
     "geom:longitude":25.901966,
@@ -16,7 +16,16 @@
     "mps:longitude":25.901843,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kanavuori"
+    ],
+    "name:eng_x_preferred":[
+        "Kanavuori"
+    ],
     "name:fin_x_preferred":[
+        "Kanavuori"
+    ],
+    "name:swe_x_preferred":[
         "Kanavuori"
     ],
     "qs:a0":"Suomi#Finland",
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":101911647,
-    "wof:lastmodified":1529706350,
+    "wof:lastmodified":1563283990,
     "wof:name":"Kanavuori",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Kilo"
+    ],
     "name:eng_x_preferred":[
         "Kilo"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:fin_x_preferred":[
         "Kilo-Karakallio"
+    ],
+    "name:fin_x_variant":[
+        "Kilo"
     ],
     "name:fra_x_preferred":[
         "Kilo-Karakallio"
@@ -48,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Kilo"
+    ],
+    "name:swe_x_variant":[
+        "Viherlaakso-Lippajarvi"
     ],
     "reversegeo:latitude":60.22202,
     "reversegeo:longitude":24.775298,
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":1108729265,
-    "wof:lastmodified":1561830256,
+    "wof:lastmodified":1563283465,
     "wof:name":"Kilo-Karakallio",
     "wof:parent_id":1108729223,
     "wof:placetype":"macrohood",

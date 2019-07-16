@@ -30,6 +30,9 @@
     "name:ceb_x_preferred":[
         "Kluuvi"
     ],
+    "name:dan_x_preferred":[
+        "Kluuvi"
+    ],
     "name:deu_x_preferred":[
         "Kluuvi"
     ],
@@ -54,6 +57,12 @@
     "name:hye_x_preferred":[
         "\u053f\u056c\u0578\u0582\u0578\u0582\u057e\u056b"
     ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30eb\u30fc\u30f4\u30a3"
+    ],
+    "name:ltz_x_preferred":[
+        "Kluuvi"
+    ],
     "name:nld_x_preferred":[
         "Kluuvi"
     ],
@@ -68,6 +77,9 @@
     ],
     "name:swe_x_preferred":[
         "Gloet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0441\u0442\u0456\u043b\u0430"
     ],
     "name:unk_x_variant":[
         "Kluuvi"
@@ -148,7 +160,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830221,
+    "wof:lastmodified":1563282677,
     "wof:name":"Kluuvi",
     "wof:parent_id":1108727331,
     "wof:placetype":"neighbourhood",

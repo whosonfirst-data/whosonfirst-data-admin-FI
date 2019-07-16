@@ -16,7 +16,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Juupajoki"
+    ],
     "name:cat_x_preferred":[
+        "Juupajoki"
+    ],
+    "name:ceb_x_preferred":[
         "Juupajoki"
     ],
     "name:deu_x_preferred":[
@@ -25,10 +31,16 @@
     "name:eng_x_preferred":[
         "Juupajoki"
     ],
+    "name:est_x_preferred":[
+        "Juupajoki vald"
+    ],
     "name:fin_x_preferred":[
         "Juupajoki"
     ],
     "name:fra_x_preferred":[
+        "Juupajoki"
+    ],
+    "name:glg_x_preferred":[
         "Juupajoki"
     ],
     "name:ita_x_preferred":[
@@ -62,6 +74,9 @@
         "Juupajoki"
     ],
     "name:swe_x_preferred":[
+        "Juupajoki"
+    ],
+    "name:tur_x_preferred":[
         "Juupajoki"
     ],
     "name:vie_x_preferred":[
@@ -124,7 +139,7 @@
         }
     ],
     "wof:id":1126051915,
-    "wof:lastmodified":1561830304,
+    "wof:lastmodified":1563284113,
     "wof:name":"Juupajoki",
     "wof:parent_id":907199385,
     "wof:placetype":"locality",

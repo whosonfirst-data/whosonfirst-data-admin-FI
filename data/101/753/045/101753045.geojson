@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0643\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Nokia"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u043a\u0456\u044f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09cb\u0995\u09bf\u09af\u09bc\u09be"
+    ],
     "name:cat_x_preferred":[
         "Nokia"
     ],
@@ -47,6 +56,9 @@
     "name:fas_x_preferred":[
         "\u0646\u0648\u06a9\u06cc\u0627\u060c \u0641\u0646\u0644\u0627\u0646\u062f"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0648\u06a9\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Nokia"
     ],
@@ -57,6 +69,9 @@
         "Nokia"
     ],
     "name:gle_x_preferred":[
+        "Nokia"
+    ],
+    "name:glg_x_preferred":[
         "Nokia"
     ],
     "name:hbs_x_preferred":[
@@ -158,6 +173,9 @@
     "name:urd_x_preferred":[
         "\u0646\u0648\u06a9\u06cc\u0627\u060c \u0641\u0646 \u0644\u06cc\u0646\u0688"
     ],
+    "name:urd_x_variant":[
+        "\u0646\u0648\u06a9\u06cc\u0627"
+    ],
     "name:vie_x_preferred":[
         "Nokia"
     ],
@@ -224,7 +242,7 @@
         }
     ],
     "wof:id":101753045,
-    "wof:lastmodified":1561830265,
+    "wof:lastmodified":1563283672,
     "wof:name":"Nokia",
     "wof:parent_id":907198999,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "liminka"
     ],
+    "name:ast_x_preferred":[
+        "Liminka"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u043c\u0456\u043d\u043a\u0430"
+    ],
     "name:cat_x_preferred":[
         "Liminka"
     ],
@@ -44,10 +50,16 @@
     "name:eng_x_preferred":[
         "Liminka"
     ],
+    "name:est_x_preferred":[
+        "Liminka vald"
+    ],
     "name:fin_x_preferred":[
         "Liminka"
     ],
     "name:fra_x_preferred":[
+        "Liminka"
+    ],
+    "name:glg_x_preferred":[
         "Liminka"
     ],
     "name:ita_x_preferred":[
@@ -91,6 +103,9 @@
     ],
     "name:swe_x_preferred":[
         "Limingo"
+    ],
+    "name:tur_x_preferred":[
+        "Liminka"
     ],
     "name:unk_x_variant":[
         "Limingo"
@@ -152,7 +167,7 @@
         }
     ],
     "wof:id":101814423,
-    "wof:lastmodified":1561830285,
+    "wof:lastmodified":1563283883,
     "wof:name":"Liminka",
     "wof:parent_id":907199635,
     "wof:placetype":"locality",

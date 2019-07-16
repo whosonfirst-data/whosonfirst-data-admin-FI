@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0622\u0631\u064a\u0646\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Kaarina"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0430\u0440\u044b\u043d\u0430"
+    ],
     "name:cat_x_preferred":[
         "Kaarina"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:dan_x_preferred":[
         "S:t Karins"
+    ],
+    "name:dan_x_variant":[
+        "Kaarina"
     ],
     "name:deu_x_preferred":[
         "Kaarina"
@@ -47,8 +56,14 @@
     "name:fra_x_preferred":[
         "Kaarina"
     ],
+    "name:glg_x_preferred":[
+        "Kaarina"
+    ],
     "name:hbs_x_preferred":[
         "Kaarina"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e8\u05d9\u05e0\u05d4"
     ],
     "name:isl_x_preferred":[
         "S:t Karins"
@@ -188,7 +203,7 @@
         }
     ],
     "wof:id":101753899,
-    "wof:lastmodified":1561830265,
+    "wof:lastmodified":1563283675,
     "wof:name":"Kaarina",
     "wof:parent_id":907198993,
     "wof:placetype":"locality",

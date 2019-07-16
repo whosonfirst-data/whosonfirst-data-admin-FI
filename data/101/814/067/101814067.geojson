@@ -26,10 +26,19 @@
     "name:ces_x_preferred":[
         "Punkaharju"
     ],
+    "name:dan_x_preferred":[
+        "Punkaharju"
+    ],
     "name:deu_x_preferred":[
         "Punkaharju"
     ],
     "name:eng_x_preferred":[
+        "Punkaharju"
+    ],
+    "name:est_x_preferred":[
+        "Punkaharju vald"
+    ],
+    "name:eus_x_preferred":[
         "Punkaharju"
     ],
     "name:fin_x_preferred":[
@@ -61,6 +70,9 @@
     ],
     "name:ron_x_preferred":[
         "Punkaharju"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043d\u043a\u0430\u0445\u0430\u0440\u044c\u044e"
     ],
     "name:sme_x_preferred":[
         "Punkaharju"
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":101814067,
-    "wof:lastmodified":1561830290,
+    "wof:lastmodified":1563283955,
     "wof:name":"Punkaharju",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

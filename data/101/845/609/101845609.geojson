@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0641\u0627\u0646\u064a\u064a\u0645\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:bar_x_preferred":[
+        "Rovaniemi"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u043e\u0432\u0430\u043d\u0456\u0435\u043c\u0456"
     ],
@@ -207,6 +213,9 @@
     "name:szl_x_preferred":[
         "Rovaniemi"
     ],
+    "name:tat_x_preferred":[
+        "\u0420\u043e\u0432\u0430\u043d\u0438\u0435\u043c\u0438"
+    ],
     "name:tur_x_preferred":[
         "Rovaniemi"
     ],
@@ -226,6 +235,9 @@
         "Rovanem"
     ],
     "name:vie_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:war_x_preferred":[
         "Rovaniemi"
     ],
     "name:zho_x_preferred":[
@@ -378,7 +390,7 @@
         }
     ],
     "wof:id":101845609,
-    "wof:lastmodified":1561830266,
+    "wof:lastmodified":1563283683,
     "wof:name":"Rovaniemi",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

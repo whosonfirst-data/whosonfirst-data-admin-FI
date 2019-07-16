@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Mietoinen"
     ],
+    "name:est_x_preferred":[
+        "Mietoineni vald"
+    ],
     "name:fin_x_preferred":[
         "Mietoinen"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101846731,
-    "wof:lastmodified":1561830272,
+    "wof:lastmodified":1563283734,
     "wof:name":"Mietoinen",
     "wof:parent_id":907198907,
     "wof:placetype":"locality",

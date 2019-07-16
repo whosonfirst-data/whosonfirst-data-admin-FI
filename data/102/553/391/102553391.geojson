@@ -12,6 +12,39 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kauhajoki Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Kauhajoki Airfield"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u06a9\u0627\u0647\u0627\u06cc\u0648\u06a9\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Kauhajoen lentokentt\u00e4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30a6\u30cf\u30e8\u30ad\u7a7a\u6e2f"
+    ],
+    "name:kir_x_preferred":[
+        "Kauhajoki Airfield"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Kauhajoki"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kauhajoki"
+    ],
+    "name:swe_x_preferred":[
+        "Kauhajoki Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u04e3 \u043a\u043e\u04b3\u043e\u04b7\u0443\u043a\u0438"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u54c8\u7d04\u57fa\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"407",
     "oa:type":"medium_airport",
     "src:geom":"wikidata",
@@ -45,7 +78,7 @@
         }
     ],
     "wof:id":102553391,
-    "wof:lastmodified":1543846099,
+    "wof:lastmodified":1563282418,
     "wof:name":"Kauhajoki lentokentt\u00e4",
     "wof:parent_id":85683113,
     "wof:placetype":"campus",

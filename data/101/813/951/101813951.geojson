@@ -16,11 +16,17 @@
     "mps:longitude":22.261993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Honkajoki"
+    ],
     "name:ceb_x_preferred":[
         "Honkajoki"
     ],
     "name:deu_x_preferred":[
         "Honkajoki"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03bd\u03ba\u03b1\u03b3\u03b9\u03cc\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Honkajoki"
@@ -29,6 +35,9 @@
         "Honkajoki"
     ],
     "name:fra_x_preferred":[
+        "Honkajoki"
+    ],
+    "name:glg_x_preferred":[
         "Honkajoki"
     ],
     "name:ita_x_preferred":[
@@ -66,6 +75,12 @@
     ],
     "name:swe_x_preferred":[
         "Honkajoki"
+    ],
+    "name:tur_x_preferred":[
+        "Honkajoki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043d\u043a\u0430\u0439\u043e\u043a\u0456"
     ],
     "name:unk_x_variant":[
         "Hongonjoki"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":101813951,
-    "wof:lastmodified":1561830291,
+    "wof:lastmodified":1563283976,
     "wof:name":"Honkajoki",
     "wof:parent_id":907198873,
     "wof:placetype":"locality",

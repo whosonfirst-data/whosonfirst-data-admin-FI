@@ -48,7 +48,13 @@
     "name:fin_x_preferred":[
         "Taka-t\u00f6\u00f6l\u00f6"
     ],
+    "name:fin_x_variant":[
+        "Taka-T\u00f6\u00f6l\u00f6"
+    ],
     "name:fra_x_preferred":[
+        "Taka-T\u00f6\u00f6l\u00f6"
+    ],
+    "name:ita_x_preferred":[
         "Taka-T\u00f6\u00f6l\u00f6"
     ],
     "name:swe_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108727339,
-    "wof:lastmodified":1561830252,
+    "wof:lastmodified":1563283412,
     "wof:name":"Taka-toolo",
     "wof:parent_id":890536879,
     "wof:placetype":"macrohood",

@@ -17,7 +17,16 @@
     "mps:longitude":25.94662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Nastola"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0441\u0442\u0430\u043b\u0430"
+    ],
     "name:cat_x_preferred":[
+        "Nastola"
+    ],
+    "name:ceb_x_preferred":[
         "Nastola"
     ],
     "name:deu_x_preferred":[
@@ -83,6 +92,9 @@
     "name:szl_x_preferred":[
         "Nastola"
     ],
+    "name:tur_x_preferred":[
+        "Nastola"
+    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0633\u062a\u0648\u0644\u0627"
     ],
@@ -144,7 +156,7 @@
         }
     ],
     "wof:id":101815451,
-    "wof:lastmodified":1561830281,
+    "wof:lastmodified":1563283826,
     "wof:name":"Nastola",
     "wof:parent_id":907198647,
     "wof:placetype":"locality",

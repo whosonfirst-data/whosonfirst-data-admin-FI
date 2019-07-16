@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Maxmo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30af\u30b9\u30e2"
+    ],
     "name:nld_x_preferred":[
         "Maxmo"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101846965,
-    "wof:lastmodified":1561830272,
+    "wof:lastmodified":1563283730,
     "wof:name":"Maksamaa",
     "wof:parent_id":907199763,
     "wof:placetype":"locality",

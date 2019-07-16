@@ -28,6 +28,12 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u043a\u0435\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Koskela"
+    ],
+    "name:deu_x_preferred":[
+        "Koskela"
+    ],
     "name:eng_x_preferred":[
         "Koskela"
     ],
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108727061,
-    "wof:lastmodified":1561830248,
+    "wof:lastmodified":1563283348,
     "wof:name":"Koskela",
     "wof:parent_id":1108727357,
     "wof:placetype":"neighbourhood",

@@ -32,6 +32,9 @@
     "name:swe_x_preferred":[
         "Br\u00f6draby"
     ],
+    "name:swe_x_variant":[
+        "Veikkola"
+    ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Uusimaa#Nyland",
     "qs:a1r":"0Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101815289,
-    "wof:lastmodified":1561830278,
+    "wof:lastmodified":1563283785,
     "wof:name":"Veikkola",
     "wof:parent_id":907198511,
     "wof:placetype":"locality",

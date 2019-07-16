@@ -17,6 +17,12 @@
     "mps:longitude":25.181639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Pet\u00e4j\u00e4vesi"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0435\u0446\u044f\u044f\u0432\u0435\u0441\u0456"
+    ],
     "name:cat_x_preferred":[
         "Pet\u00e4j\u00e4vesi"
     ],
@@ -42,6 +48,9 @@
         "Pet\u00e4j\u00e4vesi"
     ],
     "name:fra_x_preferred":[
+        "Pet\u00e4j\u00e4vesi"
+    ],
+    "name:glg_x_preferred":[
         "Pet\u00e4j\u00e4vesi"
     ],
     "name:ind_x_preferred":[
@@ -81,6 +90,9 @@
         "Pet\u00e4j\u00e4vesi"
     ],
     "name:swe_x_preferred":[
+        "Pet\u00e4j\u00e4vesi"
+    ],
+    "name:tur_x_preferred":[
         "Pet\u00e4j\u00e4vesi"
     ],
     "name:vie_x_preferred":[
@@ -140,7 +152,7 @@
         }
     ],
     "wof:id":101814197,
-    "wof:lastmodified":1561830287,
+    "wof:lastmodified":1563283920,
     "wof:name":"Pet\u00e4j\u00e4vesi",
     "wof:parent_id":907199215,
     "wof:placetype":"locality",

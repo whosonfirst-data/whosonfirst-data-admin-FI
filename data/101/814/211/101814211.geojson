@@ -80,6 +80,9 @@
     "name:swe_x_preferred":[
         "Korpilax"
     ],
+    "name:tur_x_preferred":[
+        "Korpilahti"
+    ],
     "name:unk_x_variant":[
         "Vuorilahti"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101814211,
-    "wof:lastmodified":1561830284,
+    "wof:lastmodified":1563283869,
     "wof:name":"Korpilahti",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

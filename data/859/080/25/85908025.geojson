@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1024060.223415,
+    "geom:area_square_m":1024060.223414,
     "geom:bbox":"25.1440331138,60.196595313,25.1656189932,60.2086518992",
     "geom:latitude":60.203296,
     "geom:longitude":25.15554,
@@ -34,6 +34,9 @@
     "name:dan_x_preferred":[
         "Solvik"
     ],
+    "name:eng_x_preferred":[
+        "Aurinkolahti"
+    ],
     "name:fin_x_preferred":[
         "Aurinkolahti"
     ],
@@ -43,6 +46,9 @@
     "name:isl_x_preferred":[
         "Solvik"
     ],
+    "name:nld_x_preferred":[
+        "Aurinkolahti"
+    ],
     "name:nor_x_preferred":[
         "Solvik"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Solvik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0443\u0440\u0456\u043d\u043a\u043e\u043b\u0430\u0445\u0442\u0456"
     ],
     "name:unk_x_variant":[
         "Aurinkolahti"
@@ -89,7 +98,6 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":253,
     "wof:belongsto":[
-        85683067,
         102191581,
         890537281,
         907199715,
@@ -98,7 +106,8 @@
         101748417,
         136253047,
         890536881,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,7 +140,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529714760,
+    "wof:lastmodified":1563282622,
     "wof:name":"Aurinkolahti",
     "wof:parent_id":890537281,
     "wof:placetype":"neighbourhood",

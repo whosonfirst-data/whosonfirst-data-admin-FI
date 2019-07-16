@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00045,
-    "geom:area_square_m":2658478.844656,
+    "geom:area_square_m":2658478.844653,
     "geom:bbox":"23.8001064733,61.451203362,23.8446269711,61.4705934439",
     "geom:latitude":61.461896,
     "geom:longitude":23.823174,
@@ -26,6 +26,9 @@
     "name:fin_x_preferred":[
         "Hallila"
     ],
+    "name:fra_x_preferred":[
+        "Hallila"
+    ],
     "reversegeo:latitude":61.462098,
     "reversegeo:longitude":23.822834,
     "src:geom":"tmpgov",
@@ -33,14 +36,14 @@
     "tmpgov:id":"307062",
     "tmpgov:name":"Hallila",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108728409,
-    "wof:lastmodified":1529711330,
+    "wof:lastmodified":1563283437,
     "wof:name":"Hallila",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

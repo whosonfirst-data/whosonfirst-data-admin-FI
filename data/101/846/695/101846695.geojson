@@ -17,7 +17,13 @@
     "mps:longitude":26.200182,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lapinj\u00e4rvi"
+    ],
     "name:eng_x_preferred":[
+        "Lapinj\u00e4rvi"
+    ],
+    "name:fin_x_preferred":[
         "Lapinj\u00e4rvi"
     ],
     "name:hbs_x_preferred":[
@@ -31,6 +37,9 @@
     ],
     "name:swe_x_preferred":[
         "Lapptr\u00e4sk"
+    ],
+    "name:swe_x_variant":[
+        "Lapinj\u00e4rvi"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Uusimaa#Nyland",
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":101846695,
-    "wof:lastmodified":1529714676,
+    "wof:lastmodified":1563283743,
     "wof:name":"Lapinj\u00e4rvi",
     "wof:parent_id":907198607,
     "wof:placetype":"locality",

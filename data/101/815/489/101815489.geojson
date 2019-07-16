@@ -17,19 +17,31 @@
     "mps:longitude":23.108941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Punkalaidun"
+    ],
     "name:ceb_x_preferred":[
         "Punkalaidun"
     ],
     "name:deu_x_preferred":[
         "Punkalaidun"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03cd\u03bd\u03ba\u03b1\u03bb\u03b1\u03ca\u03bd\u03c4\u03bf\u03c5\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Punkalaidun"
+    ],
+    "name:est_x_preferred":[
+        "Punkalaiduni vald"
     ],
     "name:fin_x_preferred":[
         "Punkalaidun"
     ],
     "name:fra_x_preferred":[
+        "Punkalaidun"
+    ],
+    "name:glg_x_preferred":[
         "Punkalaidun"
     ],
     "name:ita_x_preferred":[
@@ -64,6 +76,12 @@
     ],
     "name:swe_x_preferred":[
         "Pungalaitio"
+    ],
+    "name:swe_x_variant":[
+        "Punkalaidun"
+    ],
+    "name:tur_x_preferred":[
+        "Punkalaidun"
     ],
     "name:vie_x_preferred":[
         "Punkalaidun"
@@ -122,7 +140,7 @@
         }
     ],
     "wof:id":101815489,
-    "wof:lastmodified":1561830281,
+    "wof:lastmodified":1563283823,
     "wof:name":"Punkalaidun",
     "wof:parent_id":907198835,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Iso Evo"
     ],
+    "name:eng_x_variant":[
+        "Evo"
+    ],
     "name:fin_x_preferred":[
         "Evo"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:swe_x_preferred":[
         "Stor Evois"
+    ],
+    "name:swe_x_variant":[
+        "Evois"
     ],
     "name:unk_x_variant":[
         "Evo"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125938701,
-    "wof:lastmodified":1529711997,
+    "wof:lastmodified":1563284085,
     "wof:name":"Iso-Evo",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

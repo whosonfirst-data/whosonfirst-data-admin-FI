@@ -27,6 +27,9 @@
     "name:fin_x_preferred":[
         "J\u00e4kt\u00e4saari"
     ],
+    "name:fin_x_variant":[
+        "J\u00e4tk\u00e4saari"
+    ],
     "name:fra_x_preferred":[
         "J\u00e4tk\u00e4saari"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:swe_x_preferred":[
         "Busholmen"
+    ],
+    "name:swe_x_variant":[
+        "Lapinlaht"
     ],
     "name:tur_x_preferred":[
         "J\u00e4tk\u00e4saari"
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1108938481,
-    "wof:lastmodified":1561830257,
+    "wof:lastmodified":1563283477,
     "wof:name":"Jaktasaari",
     "wof:parent_id":1108727337,
     "wof:placetype":"neighbourhood",

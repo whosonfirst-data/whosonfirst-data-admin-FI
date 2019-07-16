@@ -25,6 +25,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Kontula"
+    ],
     "name:eng_x_preferred":[
         "Kontula"
     ],
@@ -40,8 +43,14 @@
     "name:nld_x_preferred":[
         "Kontula"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0442\u0443\u043b\u0430"
+    ],
     "name:swe_x_preferred":[
         "G\u00e5rdsbacka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0442\u0443\u043b\u0430"
     ],
     "reversegeo:latitude":60.230535,
     "reversegeo:longitude":25.086897,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":1108727059,
-    "wof:lastmodified":1561830252,
+    "wof:lastmodified":1563283408,
     "wof:name":"Kontula",
     "wof:parent_id":890537253,
     "wof:placetype":"neighbourhood",

@@ -19,11 +19,17 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u043d\u043a\u0430\u0432\u0430\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Tankavaara"
+    ],
     "name:eng_x_preferred":[
         "Tankavaara"
     ],
     "name:fin_x_preferred":[
         "Tankavaara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30f3\u30ab\u30f4\u30a1\u30fc\u30e9"
     ],
     "name:swe_x_preferred":[
         "Tankavaara"
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1125852483,
-    "wof:lastmodified":1529708133,
+    "wof:lastmodified":1563284280,
     "wof:name":"Tankavaara",
     "wof:parent_id":907199561,
     "wof:placetype":"locality",

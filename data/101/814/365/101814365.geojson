@@ -17,6 +17,9 @@
     "mps:longitude":29.244713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Juuka"
+    ],
     "name:ceb_x_preferred":[
         "Juuka"
     ],
@@ -39,6 +42,9 @@
         "Juuka"
     ],
     "name:fra_x_preferred":[
+        "Juuka"
+    ],
+    "name:glg_x_preferred":[
         "Juuka"
     ],
     "name:hye_x_preferred":[
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":101814365,
-    "wof:lastmodified":1561830283,
+    "wof:lastmodified":1563283858,
     "wof:name":"Juuka",
     "wof:parent_id":907199389,
     "wof:placetype":"locality",

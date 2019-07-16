@@ -44,6 +44,9 @@
     "name:ron_x_preferred":[
         "Viljakkala"
     ],
+    "name:sme_x_preferred":[
+        "Viljakkala"
+    ],
     "name:swe_x_preferred":[
         "Viljakkala"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101813999,
-    "wof:lastmodified":1561830291,
+    "wof:lastmodified":1563283970,
     "wof:name":"Viljakkala",
     "wof:parent_id":907199275,
     "wof:placetype":"locality",

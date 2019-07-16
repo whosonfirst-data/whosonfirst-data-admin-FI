@@ -16,17 +16,35 @@
     "mps:longitude":24.743215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0644\u0648\u0643\u0627\u0644\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043b\u0430\u0443\u043a\u0430\u043b\u0430"
+    ],
     "name:dan_x_preferred":[
         "Kl\u00f6vskog"
     ],
+    "name:deu_x_preferred":[
+        "Klaukkala"
+    ],
     "name:eng_x_preferred":[
+        "Klaukkala"
+    ],
+    "name:est_x_preferred":[
         "Klaukkala"
     ],
     "name:fin_x_preferred":[
         "Klaukkala"
     ],
+    "name:fra_x_preferred":[
+        "Klaukkala"
+    ],
     "name:isl_x_preferred":[
         "Kl\u00f6vskog"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30a6\u30ab\u30e9"
     ],
     "name:nld_x_preferred":[
         "Klaukkala"
@@ -34,8 +52,20 @@
     "name:nor_x_preferred":[
         "Kl\u00f6vskog"
     ],
+    "name:pol_x_preferred":[
+        "Klaukkala"
+    ],
+    "name:por_x_preferred":[
+        "Klaukkala"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043b\u0430\u0443\u043a\u043a\u0430\u043b\u043b\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043b\u0430\u0443\u043a\u043a\u0430\u043b\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Klaukkala"
     ],
     "name:swe_x_preferred":[
         "Kl\u00f6vskog"
@@ -93,7 +123,7 @@
         }
     ],
     "wof:id":101815285,
-    "wof:lastmodified":1561830281,
+    "wof:lastmodified":1563283821,
     "wof:name":"Klaukkala",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

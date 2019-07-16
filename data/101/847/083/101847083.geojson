@@ -68,6 +68,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0443\u043b\u043a\u0438\u043b\u043b\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u041f\u0443\u043b\u043a\u0438\u043b\u0430"
+    ],
     "name:sme_x_preferred":[
         "Pulkkila"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101847083,
-    "wof:lastmodified":1561830282,
+    "wof:lastmodified":1563283841,
     "wof:name":"Pulkkila",
     "wof:parent_id":907199755,
     "wof:placetype":"locality",

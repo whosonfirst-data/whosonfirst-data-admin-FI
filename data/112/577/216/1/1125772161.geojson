@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Vuorna"
     ],
+    "name:eng_x_variant":[
+        "Vorna"
+    ],
     "name:fin_x_preferred":[
         "Vorna"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125772161,
-    "wof:lastmodified":1529709433,
+    "wof:lastmodified":1563284312,
     "wof:name":"Vorna",
     "wof:parent_id":907199755,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:nob_x_preferred":[
         "Solf"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u0444"
+    ],
     "name:swe_x_preferred":[
         "Solf"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101846937,
-    "wof:lastmodified":1561830272,
+    "wof:lastmodified":1563283733,
     "wof:name":"Sulva",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

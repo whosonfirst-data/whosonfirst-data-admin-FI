@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Sundom"
+    ],
     "name:eng_x_preferred":[
         "Sundom"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125981993,
-    "wof:lastmodified":1529709683,
+    "wof:lastmodified":1563284241,
     "wof:name":"Sundom",
     "wof:parent_id":907199149,
     "wof:placetype":"locality",

@@ -33,6 +33,9 @@
     "name:fin_x_preferred":[
         "Nuijamaanj\u00e4rvi"
     ],
+    "name:fin_x_variant":[
+        "Nuijamaa"
+    ],
     "name:fra_x_preferred":[
         "Nuijamaa"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:swe_x_preferred":[
         "Nuijamaanj\u00e4rvi"
+    ],
+    "name:swe_x_variant":[
+        "Nuijamaa"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Etel\u00e4-Karjala#S\u00f6dra Karelen",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101814041,
-    "wof:lastmodified":1561830284,
+    "wof:lastmodified":1563283872,
     "wof:name":"Nuijamaa",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

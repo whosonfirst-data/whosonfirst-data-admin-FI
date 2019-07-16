@@ -34,6 +34,9 @@
     "name:rus_x_preferred":[
         "\u0420\u0435\u0432\u043e\u043b\u0430\u0445\u0442\u0438"
     ],
+    "name:sme_x_preferred":[
+        "Revonlahti"
+    ],
     "name:swe_x_preferred":[
         "Revolax"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101847073,
-    "wof:lastmodified":1561830283,
+    "wof:lastmodified":1563283848,
     "wof:name":"Revonlahti",
     "wof:parent_id":907199705,
     "wof:placetype":"locality",

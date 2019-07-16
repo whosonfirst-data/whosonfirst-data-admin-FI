@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000326,
-    "geom:area_square_m":1999008.342631,
+    "geom:area_square_m":1999008.342632,
     "geom:bbox":"24.9716326924,60.2334994618,25.0026785988,60.2519295295",
     "geom:latitude":60.244779,
     "geom:longitude":24.986083,
@@ -32,6 +32,12 @@
     "name:dan_x_preferred":[
         "Bocksbacka"
     ],
+    "name:deu_x_preferred":[
+        "Pukinm\u00e4ki"
+    ],
+    "name:eng_x_preferred":[
+        "Pukinm\u00e4ki"
+    ],
     "name:fin_x_colloquial":[
         "Pukinmaen",
         "Pukinmaessa",
@@ -52,6 +58,9 @@
         "Pukinm\u00e4ke\u00e4"
     ],
     "name:fra_x_preferred":[
+        "Pukinm\u00e4ki"
+    ],
+    "name:hun_x_preferred":[
         "Pukinm\u00e4ki"
     ],
     "name:isl_x_preferred":[
@@ -102,7 +111,6 @@
     "wd:population":8139,
     "wd:wordcount":163,
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727363,
         907199715,
@@ -111,7 +119,8 @@
         101748417,
         136253047,
         890536891,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,7 +152,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529714764,
+    "wof:lastmodified":1563282674,
     "wof:name":"Pukinmaki",
     "wof:parent_id":1108727363,
     "wof:placetype":"neighbourhood",

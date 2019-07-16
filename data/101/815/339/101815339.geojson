@@ -31,6 +31,9 @@
     "name:nob_x_preferred":[
         "Lokalahti"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043a\u0430\u043b\u0430\u0445\u0442\u0438"
+    ],
     "name:swe_x_preferred":[
         "Lokalax"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101815339,
-    "wof:lastmodified":1561830278,
+    "wof:lastmodified":1563283779,
     "wof:name":"Lokalahti",
     "wof:parent_id":907198615,
     "wof:placetype":"locality",

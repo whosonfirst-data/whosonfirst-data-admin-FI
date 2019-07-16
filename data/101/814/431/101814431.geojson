@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0443\u043a\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Ruukki"
+    ],
     "name:deu_x_preferred":[
         "Ruukki"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101814431,
-    "wof:lastmodified":1561830286,
+    "wof:lastmodified":1563283894,
     "wof:name":"Ruukki",
     "wof:parent_id":907199705,
     "wof:placetype":"locality",

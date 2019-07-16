@@ -17,6 +17,12 @@
     "mps:longitude":21.891735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Ulvila"
+    ],
+    "name:bel_x_preferred":[
+        "\u0423\u043b\u0432\u0456\u043b\u0430"
+    ],
     "name:cat_x_preferred":[
         "Ulvila"
     ],
@@ -35,10 +41,16 @@
     "name:est_x_preferred":[
         "Ulvila"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u0648\u06cc\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ulvila"
     ],
     "name:fra_x_preferred":[
+        "Ulvila"
+    ],
+    "name:glg_x_preferred":[
         "Ulvila"
     ],
     "name:hbs_x_preferred":[
@@ -174,7 +186,7 @@
         }
     ],
     "wof:id":101753043,
-    "wof:lastmodified":1561830265,
+    "wof:lastmodified":1563283672,
     "wof:name":"Ulvila",
     "wof:parent_id":907198905,
     "wof:placetype":"locality",

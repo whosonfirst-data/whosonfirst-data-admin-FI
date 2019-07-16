@@ -59,6 +59,9 @@
     "name:ron_x_preferred":[
         "Pertteli"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0442\u0442\u0435\u043b\u0438"
+    ],
     "name:sme_x_preferred":[
         "Pertteli"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101846751,
-    "wof:lastmodified":1561830276,
+    "wof:lastmodified":1563283753,
     "wof:name":"Pertteli",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

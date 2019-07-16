@@ -53,6 +53,9 @@
     "name:nob_x_preferred":[
         "Kristina"
     ],
+    "name:nob_x_variant":[
+        "Ristiina"
+    ],
     "name:nor_x_preferred":[
         "Ristiina"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u0441\u0442\u0438\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u0438\u0441\u0442\u0438\u0438\u043d\u0430"
     ],
     "name:sme_x_preferred":[
         "Ristiina"
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":101814079,
-    "wof:lastmodified":1561830284,
+    "wof:lastmodified":1563283872,
     "wof:name":"Ristiina",
     "wof:parent_id":907198765,
     "wof:placetype":"locality",

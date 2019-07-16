@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0623\u062a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Kesti"
+    ],
     "name:dan_x_preferred":[
         "Utti"
     ],
@@ -26,6 +29,9 @@
         "Utti"
     ],
     "name:fin_x_preferred":[
+        "Utti"
+    ],
+    "name:fra_x_preferred":[
         "Utti"
     ],
     "name:jpn_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101846787,
-    "wof:lastmodified":1561830277,
+    "wof:lastmodified":1563283773,
     "wof:name":"Utti",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

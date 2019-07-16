@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u0627\u064a\u0648\u0643\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Sein\u00e4joki"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u0439\u043d\u044f\u0451\u043a\u0456"
+    ],
     "name:bel_x_variant":[
         "\u0421\u044d\u0439\u043d\u044f\u0451\u043a\u0456"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03ad\u03b9\u03bd\u03b1\u03b3\u03b9\u03bf\u03ba\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b5\u03ca\u03bd\u03b1\u03b3\u03b9\u03cc\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Sein\u00e4joki"
@@ -191,6 +200,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bc7\u0baf\u0bcd\u0ba8\u0bbe\u0b9c\u0bcb\u0b95\u0bbf"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u0439\u043d\u04d9\u0439\u043e\u043a\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c48\u0c28\u0c1c\u0c4b\u0c15\u0c3f"
     ],
@@ -213,6 +225,9 @@
         "Seinjogi"
     ],
     "name:vie_x_preferred":[
+        "Sein\u00e4joki"
+    ],
+    "name:war_x_preferred":[
         "Sein\u00e4joki"
     ],
     "name:zho_x_preferred":[
@@ -287,7 +302,7 @@
         }
     ],
     "wof:id":101839175,
-    "wof:lastmodified":1561830292,
+    "wof:lastmodified":1563283983,
     "wof:name":"Sein\u00e4joki",
     "wof:parent_id":907199285,
     "wof:placetype":"locality",

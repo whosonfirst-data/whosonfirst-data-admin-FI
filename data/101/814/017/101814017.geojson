@@ -17,6 +17,9 @@
     "mps:longitude":27.686456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Savitaipale"
+    ],
     "name:ceb_x_preferred":[
         "Savitaipale"
     ],
@@ -26,13 +29,22 @@
     "name:deu_x_preferred":[
         "Savitaipale"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b2\u03b9\u03c4\u03ac\u03b9\u03c0\u03b1\u03bb\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Savitaipale"
+    ],
+    "name:est_x_preferred":[
+        "Savitaipale vald"
     ],
     "name:fin_x_preferred":[
         "Savitaipale"
     ],
     "name:fra_x_preferred":[
+        "Savitaipale"
+    ],
+    "name:glg_x_preferred":[
         "Savitaipale"
     ],
     "name:ita_x_preferred":[
@@ -69,6 +81,9 @@
         "Savitaipale"
     ],
     "name:swe_x_preferred":[
+        "Savitaipale"
+    ],
+    "name:tur_x_preferred":[
         "Savitaipale"
     ],
     "name:unk_x_variant":[
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":101814017,
-    "wof:lastmodified":1561830289,
+    "wof:lastmodified":1563283939,
     "wof:name":"Savitaipale",
     "wof:parent_id":907198759,
     "wof:placetype":"locality",

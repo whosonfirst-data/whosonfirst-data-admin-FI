@@ -36,6 +36,9 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u0443\u0442\u0438\u043e"
     ],
+    "name:sme_x_preferred":[
+        "Rautio"
+    ],
     "name:swe_x_preferred":[
         "Rautio"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125773283,
-    "wof:lastmodified":1561830313,
+    "wof:lastmodified":1563284316,
     "wof:name":"Rautlo",
     "wof:parent_id":907199617,
     "wof:placetype":"locality",

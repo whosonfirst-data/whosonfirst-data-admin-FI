@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000559,
-    "geom:area_square_m":3230768.30159,
+    "geom:area_square_m":3230768.301594,
     "geom:bbox":"24.4801316941,62.1127124564,24.5267013794,62.1522428745",
     "geom:latitude":62.134975,
     "geom:longitude":24.504088,
@@ -21,6 +21,12 @@
     ],
     "name:fin_x_preferred":[
         "Vilppula"
+    ],
+    "name:fin_x_variant":[
+        "Kolho"
+    ],
+    "name:nld_x_preferred":[
+        "Kolho"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u0445\u043e"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":101813977,
-    "wof:lastmodified":1529711297,
+    "wof:lastmodified":1563283971,
     "wof:name":"Kolho",
     "wof:parent_id":907199743,
     "wof:placetype":"locality",

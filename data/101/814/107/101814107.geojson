@@ -17,6 +17,9 @@
     "mps:longitude":24.077776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "\u00c4ht\u00e4ri"
+    ],
     "name:cat_x_preferred":[
         "\u00c4ht\u00e4ri"
     ],
@@ -45,6 +48,9 @@
         "\u00c4ht\u00e4ri"
     ],
     "name:fra_x_preferred":[
+        "\u00c4ht\u00e4ri"
+    ],
+    "name:glg_x_preferred":[
         "\u00c4ht\u00e4ri"
     ],
     "name:ind_x_preferred":[
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":101814107,
-    "wof:lastmodified":1561830287,
+    "wof:lastmodified":1563283917,
     "wof:name":"\u00c4ht\u00e4ri",
     "wof:parent_id":907199089,
     "wof:placetype":"locality",

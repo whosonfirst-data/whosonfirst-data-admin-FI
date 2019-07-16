@@ -95,6 +95,9 @@
     "name:sme_x_preferred":[
         "Avvil"
     ],
+    "name:smn_x_preferred":[
+        "Avveel"
+    ],
     "name:spa_x_preferred":[
         "Ivalo"
     ],
@@ -102,6 +105,9 @@
         "\u0418\u0432\u0430\u043b\u043e"
     ],
     "name:swe_x_preferred":[
+        "Ivalo"
+    ],
+    "name:tur_x_preferred":[
         "Ivalo"
     ],
     "name:unk_x_variant":[
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":101814511,
-    "wof:lastmodified":1561830287,
+    "wof:lastmodified":1563283909,
     "wof:name":"Ivalo",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

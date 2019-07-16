@@ -17,6 +17,12 @@
     "mps:longitude":24.00678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Inkoo"
+    ],
+    "name:cat_x_preferred":[
+        "Ing\u00e5"
+    ],
     "name:ceb_x_preferred":[
         "Ing\u00e5"
     ],
@@ -39,6 +45,9 @@
         "Inkoo"
     ],
     "name:fra_x_preferred":[
+        "Ing\u00e5"
+    ],
+    "name:glg_x_preferred":[
         "Ing\u00e5"
     ],
     "name:ita_x_preferred":[
@@ -65,6 +74,9 @@
     "name:rus_x_preferred":[
         "\u0418\u043d\u0491\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u0418\u043d\u043a\u043e\u043e"
+    ],
     "name:sco_x_preferred":[
         "Ing\u00e5"
     ],
@@ -75,6 +87,9 @@
         "Ing\u00e5"
     ],
     "name:swe_x_preferred":[
+        "Ing\u00e5"
+    ],
+    "name:tur_x_preferred":[
         "Ing\u00e5"
     ],
     "name:vie_x_preferred":[
@@ -137,7 +152,7 @@
         }
     ],
     "wof:id":101815307,
-    "wof:lastmodified":1561830277,
+    "wof:lastmodified":1563283776,
     "wof:name":"Inkoo",
     "wof:parent_id":907198509,
     "wof:placetype":"locality",

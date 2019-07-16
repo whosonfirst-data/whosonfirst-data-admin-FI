@@ -42,6 +42,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0441\u0438\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Pasila"
+    ],
     "name:deu_x_preferred":[
         "Pasila"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":890537255,
-    "wof:lastmodified":1561830297,
+    "wof:lastmodified":1563284063,
     "wof:name":"Pasila",
     "wof:parent_id":890536885,
     "wof:placetype":"macrohood",

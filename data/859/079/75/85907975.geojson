@@ -35,6 +35,9 @@
     "name:ceb_x_preferred":[
         "Kaartinkaupunki"
     ],
+    "name:dan_x_preferred":[
+        "Kaartinkaupunki"
+    ],
     "name:deu_x_preferred":[
         "Kaartinkaupunki"
     ],
@@ -144,7 +147,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830201,
+    "wof:lastmodified":1563282616,
     "wof:name":"Kaartinkaupunki",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

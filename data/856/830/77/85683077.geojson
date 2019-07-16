@@ -24,8 +24,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0627 \u0647\u0627\u0645\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Tavastia Propia"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b8\u09cd\u09a4\u09bf\u09af\u09bc\u09be  \u09aa\u09cd\u09b0\u09aa\u09be\u09b0"
+    ],
+    "name:ben_x_variant":[
+        "\u0995\u09be\u09a8\u09cd\u09a4\u09be-\u09b9\u09cd\u09af\u09be\u09ae\u09c7"
+    ],
+    "name:bos_x_preferred":[
+        "Prava Tavastija"
     ],
     "name:cat_x_preferred":[
         "Tavastia Pr\u00f2pia"
@@ -54,6 +63,9 @@
     ],
     "name:epo_x_preferred":[
         "Origina Tavastio"
+    ],
+    "name:epo_x_variant":[
+        "Kanta-H\u00e4me"
     ],
     "name:est_x_preferred":[
         "Kanta-H\u00e4me"
@@ -187,6 +199,9 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0bb5\u0bb8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0baa\u0bcd\u0bb0\u0bcb\u0baa\u0bc6\u0bb0\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u043d\u0442\u0430-\u04ba\u04d9\u043c\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c35\u0c3e\u0c38\u0c4d\u0c1f\u0c3f\u0c2f\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c2a\u0c30\u0c4d"
     ],
@@ -198,6 +213,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0442\u0430-\u0425\u044f\u043c\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u043d\u0442\u0430-\u0413\u044f\u043c\u0435"
     ],
     "name:unk_x_variant":[
         "Egentliga Tavastland"
@@ -322,7 +340,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1561830219,
+    "wof:lastmodified":1563282667,
     "wof:name":"Tavastia Proper",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0627\u0641\u0648\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Alavus"
+    ],
+    "name:aze_x_preferred":[
+        "Alavus"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043b\u0430\u0432\u0443\u0441"
     ],
@@ -51,6 +57,9 @@
         "Alavus"
     ],
     "name:fra_x_preferred":[
+        "Alavus"
+    ],
+    "name:glg_x_preferred":[
         "Alavus"
     ],
     "name:hbs_x_preferred":[
@@ -100,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Alavo"
+    ],
+    "name:swe_x_variant":[
+        "Alavus"
     ],
     "name:tur_x_preferred":[
         "Alavus"
@@ -173,7 +185,7 @@
         }
     ],
     "wof:id":101814103,
-    "wof:lastmodified":1561830283,
+    "wof:lastmodified":1563283856,
     "wof:name":"Alavus",
     "wof:parent_id":907199157,
     "wof:placetype":"locality",

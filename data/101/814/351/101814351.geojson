@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Kiihtelysvaara"
     ],
+    "name:ita_x_preferred":[
+        "Kiihtelysvaara"
+    ],
     "name:nld_x_preferred":[
         "Kiihtelysvaara"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:nor_x_preferred":[
         "Kiihtelysvaara"
+    ],
+    "name:olo_x_preferred":[
+        "Kiihtelysvuara"
     ],
     "name:ron_x_preferred":[
         "Kiihtelysvaara"
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":101814351,
-    "wof:lastmodified":1561830287,
+    "wof:lastmodified":1563283919,
     "wof:name":"Kiihtelysvaara",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

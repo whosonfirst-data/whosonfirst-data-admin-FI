@@ -53,6 +53,9 @@
     "name:ron_x_preferred":[
         "Artj\u00e4rvi"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0442\u044a\u044f\u0440\u0432\u0438"
+    ],
     "name:sme_x_preferred":[
         "Artj\u00e4rvi"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101815455,
-    "wof:lastmodified":1561830279,
+    "wof:lastmodified":1563283796,
     "wof:name":"Artj\u00e4rvi",
     "wof:parent_id":907198577,
     "wof:placetype":"locality",

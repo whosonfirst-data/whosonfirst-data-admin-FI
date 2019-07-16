@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0442\u0443\u043b\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Karttula"
+    ],
     "name:ceb_x_preferred":[
         "Karttula"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101846999,
-    "wof:lastmodified":1561830272,
+    "wof:lastmodified":1563283734,
     "wof:name":"Karttula",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

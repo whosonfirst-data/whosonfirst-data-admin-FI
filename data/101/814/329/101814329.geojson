@@ -50,6 +50,9 @@
     "name:nor_x_preferred":[
         "Maaninka"
     ],
+    "name:olo_x_preferred":[
+        "Muaninka"
+    ],
     "name:pol_x_preferred":[
         "Maaninka"
     ],
@@ -65,7 +68,13 @@
     "name:sme_x_preferred":[
         "Maaninka"
     ],
+    "name:sqi_x_preferred":[
+        "Maaninka"
+    ],
     "name:swe_x_preferred":[
+        "Maaninka"
+    ],
+    "name:tur_x_preferred":[
         "Maaninka"
     ],
     "name:zho_x_preferred":[
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":101814329,
-    "wof:lastmodified":1561830290,
+    "wof:lastmodified":1563283958,
     "wof:name":"Maaninka",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

@@ -72,6 +72,9 @@
     "name:swe_x_variant":[
         "Deger\u00f6gard"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0430\u044f\u0441\u0430\u043b\u043e"
+    ],
     "name:unk_x_variant":[
         "Deger\u00f6gard"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":890537275,
-    "wof:lastmodified":1561830296,
+    "wof:lastmodified":1563284058,
     "wof:name":"Laajasalo",
     "wof:parent_id":890536883,
     "wof:placetype":"macrohood",

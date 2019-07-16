@@ -33,6 +33,9 @@
     "name:fin_x_preferred":[
         "Littoinen"
     ],
+    "name:fra_x_preferred":[
+        "Littoinen"
+    ],
     "name:hun_x_preferred":[
         "Littoinen"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1126002741,
-    "wof:lastmodified":1561830311,
+    "wof:lastmodified":1563284261,
     "wof:name":"Littoinen",
     "wof:parent_id":907198993,
     "wof:placetype":"locality",

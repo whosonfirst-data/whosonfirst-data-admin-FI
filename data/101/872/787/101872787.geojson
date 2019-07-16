@@ -59,6 +59,9 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30b9\u30ab\u30a4\u30cd\u30f3"
     ],
+    "name:ltz_x_preferred":[
+        "Askainen"
+    ],
     "name:nld_x_preferred":[
         "Askainen"
     ],
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101872787,
-    "wof:lastmodified":1561830268,
+    "wof:lastmodified":1563283700,
     "wof:name":"Askainen",
     "wof:parent_id":907198919,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Varpaisj\u00e4rvi"
     ],
+    "name:hun_x_preferred":[
+        "Varpaisj\u00e4rvi"
+    ],
     "name:ita_x_preferred":[
         "Varpaisj\u00e4rvi"
     ],
@@ -60,6 +63,9 @@
         "Varpaisj\u00e4rvi"
     ],
     "name:swe_x_preferred":[
+        "Varpaisj\u00e4rvi"
+    ],
+    "name:tur_x_preferred":[
         "Varpaisj\u00e4rvi"
     ],
     "qs:a0":"Suomi#Finland",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":101814319,
-    "wof:lastmodified":1561830290,
+    "wof:lastmodified":1563283963,
     "wof:name":"Varpaisj\u00e4rvi",
     "wof:parent_id":907199373,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0647\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Lohja"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u043e\u0445\u044c\u044f"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u043e\u0445'\u044f"
     ],
@@ -41,6 +47,9 @@
     "name:deu_x_preferred":[
         "Lohja"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03cc\u03c7\u03b3\u03b9\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Lohja"
     ],
@@ -54,6 +63,9 @@
         "Lohja"
     ],
     "name:fra_x_preferred":[
+        "Lohja"
+    ],
+    "name:glg_x_preferred":[
         "Lohja"
     ],
     "name:hbs_x_preferred":[
@@ -143,6 +155,9 @@
     "name:urd_x_preferred":[
         "\u0644\u0648\u06c1 \u06cc\u0627"
     ],
+    "name:vep_x_preferred":[
+        "Lohj"
+    ],
     "name:vie_x_preferred":[
         "Lohja"
     ],
@@ -203,7 +218,7 @@
         }
     ],
     "wof:id":101815291,
-    "wof:lastmodified":1561830281,
+    "wof:lastmodified":1563283828,
     "wof:name":"Lohja",
     "wof:parent_id":907198655,
     "wof:placetype":"locality",

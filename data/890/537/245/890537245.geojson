@@ -39,6 +39,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Alppiharju"
+    ],
     "name:deu_x_preferred":[
         "Alppiharju"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":890537245,
-    "wof:lastmodified":1561830296,
+    "wof:lastmodified":1563284058,
     "wof:name":"Alppiharju",
     "wof:parent_id":890536885,
     "wof:placetype":"macrohood",

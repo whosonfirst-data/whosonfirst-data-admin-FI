@@ -17,6 +17,12 @@
     "mps:longitude":22.780766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0443\u043e\u0434\u0435\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Suodenniemi"
+    ],
     "name:deu_x_preferred":[
         "Suodenniemi"
     ],
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":101846843,
-    "wof:lastmodified":1561830273,
+    "wof:lastmodified":1563283738,
     "wof:name":"Suodenniemi",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

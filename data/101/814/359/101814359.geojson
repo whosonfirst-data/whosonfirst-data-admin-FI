@@ -17,6 +17,15 @@
     "mps:longitude":30.026638,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Lieksa"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u0438\u0435\u043a\u0441\u0430"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u0435\u043a\u0441\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Lieksa"
     ],
@@ -32,16 +41,25 @@
     "name:est_x_preferred":[
         "Lieksa linn"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0633\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Lieksa"
     ],
     "name:fra_x_preferred":[
         "Lieksa"
     ],
+    "name:glg_x_preferred":[
+        "Lieksa"
+    ],
     "name:hbs_x_preferred":[
         "Lieksa"
     ],
     "name:hun_x_preferred":[
+        "Lieksa"
+    ],
+    "name:ind_x_preferred":[
         "Lieksa"
     ],
     "name:ita_x_preferred":[
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":101814359,
-    "wof:lastmodified":1561830287,
+    "wof:lastmodified":1563283914,
     "wof:name":"Lieksa",
     "wof:parent_id":907199605,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "mz:max_zoom":16.0,
     "mz:min_zoom":12.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Mellunkyl\u00e4"
+    ],
     "name:deu_x_preferred":[
         "Mellunkyl\u00e4"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:swe_x_preferred":[
         "Mellungsby"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u043b\u0443\u043d\u043a\u044e\u043b\u044f"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108938441,
-    "wof:lastmodified":1561830257,
+    "wof:lastmodified":1563283474,
     "wof:name":"Mellunkyla",
     "wof:parent_id":890537253,
     "wof:placetype":"neighbourhood",

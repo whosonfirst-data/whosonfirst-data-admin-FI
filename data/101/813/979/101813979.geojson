@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000261,
-    "geom:area_square_m":1510996.998578,
+    "geom:area_square_m":1510996.99858,
     "geom:bbox":"23.906842283,62.1179910258,23.9326590341,62.1361365407",
     "geom:latitude":62.127058,
     "geom:longitude":23.919991,
@@ -19,11 +19,20 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0633\u0643\u0641\u064a\u0633\u064a - \u0641\u0633\u064a\u0641\u0627\u0633\u064a"
     ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0441\u043a\u0438\u0432\u0435\u0441\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Vaskivesi"
+    ],
     "name:deu_x_preferred":[
         "Vaskivesi"
     ],
     "name:fin_x_preferred":[
         "Vaskivesi\u2013Visuvesi"
+    ],
+    "name:swe_x_preferred":[
+        "Vaskivesi"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pirkanmaa#Birkaland",
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":101813979,
-    "wof:lastmodified":1529711297,
+    "wof:lastmodified":1563283972,
     "wof:name":"Visuvesi",
     "wof:parent_id":907199295,
     "wof:placetype":"locality",

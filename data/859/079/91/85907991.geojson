@@ -31,6 +31,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "It\u00e4-Pakila"
+    ],
     "name:fin_x_colloquial":[
         "Ita-Pakila"
     ],
@@ -41,6 +44,9 @@
         "It\u00e4-Pakila"
     ],
     "name:fra_x_preferred":[
+        "It\u00e4-Pakila"
+    ],
+    "name:nld_x_preferred":[
         "It\u00e4-Pakila"
     ],
     "name:swe_x_preferred":[
@@ -126,7 +132,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1536864518,
+    "wof:lastmodified":1563282617,
     "wof:name":"Ita-Pakila",
     "wof:parent_id":1108727383,
     "wof:placetype":"neighbourhood",

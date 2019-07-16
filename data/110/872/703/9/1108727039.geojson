@@ -25,6 +25,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Karhusaari"
+    ],
     "name:eng_x_preferred":[
         "Karhusaari"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108727039,
-    "wof:lastmodified":1561830252,
+    "wof:lastmodified":1563283420,
     "wof:name":"Karhusaari",
     "wof:parent_id":1108727375,
     "wof:placetype":"neighbourhood",

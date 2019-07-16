@@ -33,6 +33,9 @@
     "name:nob_x_preferred":[
         "Somerniemi"
     ],
+    "name:sqi_x_preferred":[
+        "Somerniemi"
+    ],
     "name:swe_x_preferred":[
         "Sommarn\u00e4s"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125848969,
-    "wof:lastmodified":1561830313,
+    "wof:lastmodified":1563284309,
     "wof:name":"Somerniemi",
     "wof:parent_id":907198549,
     "wof:placetype":"locality",

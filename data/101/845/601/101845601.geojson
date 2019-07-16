@@ -20,10 +20,19 @@
     "name:deu_x_preferred":[
         "Karunki"
     ],
+    "name:eng_x_preferred":[
+        "Karunki"
+    ],
     "name:fin_x_preferred":[
         "Karunki"
     ],
+    "name:fra_x_preferred":[
+        "Karunki"
+    ],
     "name:glg_x_preferred":[
+        "Karunki"
+    ],
+    "name:nob_x_preferred":[
         "Karunki"
     ],
     "name:nor_x_preferred":[
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":101845601,
-    "wof:lastmodified":1535390430,
+    "wof:lastmodified":1563283681,
     "wof:name":"Karunki",
     "wof:parent_id":907199557,
     "wof:placetype":"locality",

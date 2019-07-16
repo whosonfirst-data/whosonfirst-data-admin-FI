@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u064a\u0646\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Kainuu"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0439\u043d\u0443\u0443"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0987\u09a8\u09cd\u09af\u09c1"
+    ],
+    "name:bos_x_preferred":[
+        "Kainuu"
     ],
     "name:cat_x_preferred":[
         "Kainuu"
@@ -80,6 +86,9 @@
     "name:fra_x_preferred":[
         "Kainuu"
     ],
+    "name:gle_x_preferred":[
+        "Kainuu"
+    ],
     "name:glg_x_preferred":[
         "Kainuu"
     ],
@@ -91,6 +100,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d0\u05e0\u05d9\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d9\u05e0\u05d5\u05d0\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0947\u0928\u0941\u0909"
@@ -335,7 +347,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1561830211,
+    "wof:lastmodified":1563282647,
     "wof:name":"Kainuu",
     "wof:parent_id":404227415,
     "wof:placetype":"region",

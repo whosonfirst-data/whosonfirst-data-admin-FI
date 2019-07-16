@@ -25,6 +25,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "K\u00e4pyl\u00e4"
+    ],
     "name:eng_x_preferred":[
         "K\u00e4pyl\u00e4"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108727035,
-    "wof:lastmodified":1561830252,
+    "wof:lastmodified":1563283420,
     "wof:name":"Kapyla",
     "wof:parent_id":1108727357,
     "wof:placetype":"neighbourhood",

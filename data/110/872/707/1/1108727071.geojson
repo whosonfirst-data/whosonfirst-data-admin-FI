@@ -25,6 +25,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Kumpula"
+    ],
     "name:deu_x_preferred":[
         "Kumpula"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108727071,
-    "wof:lastmodified":1561830249,
+    "wof:lastmodified":1563283360,
     "wof:name":"Kumpula",
     "wof:parent_id":1108727357,
     "wof:placetype":"neighbourhood",

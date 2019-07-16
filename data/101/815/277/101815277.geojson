@@ -21,13 +21,25 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0641\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Porvoo"
+    ],
+    "name:bak_x_preferred":[
+        "\u041f\u043e\u0440\u0432\u043e\u043e"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u043e\u0440\u0432\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u043e\u0440\u0432\u0430"
     ],
     "name:bul_x_preferred":[
         "\u041f\u043e\u0440\u0432\u043e\u043e"
     ],
     "name:cat_x_preferred":[
+        "Porvoo"
+    ],
+    "name:ceb_x_preferred":[
         "Porvoo"
     ],
     "name:ces_x_preferred":[
@@ -150,6 +162,9 @@
     "name:sgs_x_preferred":[
         "Porv\u014d"
     ],
+    "name:sgs_x_variant":[
+        "Porvoo"
+    ],
     "name:slk_x_preferred":[
         "Porvoo"
     ],
@@ -170,6 +185,9 @@
     ],
     "name:swe_x_preferred":[
         "Borg\u00e5"
+    ],
+    "name:szl_x_preferred":[
+        "Porvoo"
     ],
     "name:tur_x_preferred":[
         "Porvoo"
@@ -339,7 +357,7 @@
         }
     ],
     "wof:id":101815277,
-    "wof:lastmodified":1561830280,
+    "wof:lastmodified":1563283816,
     "wof:name":"Porvoo",
     "wof:parent_id":907198525,
     "wof:placetype":"locality",

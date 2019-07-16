@@ -29,6 +29,9 @@
     "name:fin_x_preferred":[
         "Lielahti"
     ],
+    "name:fra_x_preferred":[
+        "Lielahti"
+    ],
     "name:swe_x_preferred":[
         "Lielax"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108728305,
-    "wof:lastmodified":1561830254,
+    "wof:lastmodified":1563283448,
     "wof:name":"Lielahti",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

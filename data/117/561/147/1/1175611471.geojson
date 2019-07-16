@@ -53,6 +53,9 @@
     "name:ron_x_preferred":[
         "Oravais"
     ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043e\u0432\u0430\u0439\u0441"
+    ],
     "name:sme_x_preferred":[
         "Oravainen"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1175611471,
-    "wof:lastmodified":1561830257,
+    "wof:lastmodified":1563283481,
     "wof:name":"Oravainen",
     "wof:parent_id":907199763,
     "wof:placetype":"locality",

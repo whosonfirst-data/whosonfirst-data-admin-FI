@@ -62,6 +62,9 @@
     "name:swe_x_preferred":[
         "Sandhamn"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430\u0445\u0430\u043c\u0456\u043d\u0430"
+    ],
     "name:unk_x_variant":[
         "Santahamina"
     ],
@@ -134,7 +137,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830221,
+    "wof:lastmodified":1563282673,
     "wof:name":"Santahamina",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",

@@ -17,6 +17,9 @@
     "mps:longitude":21.611446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Taivassalo"
+    ],
     "name:ceb_x_preferred":[
         "Taivassalo"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "T\u00f6vsala"
+    ],
+    "name:tur_x_preferred":[
+        "Taivassalo"
     ],
     "name:unk_x_variant":[
         "T\u00f6fsala"
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":101846739,
-    "wof:lastmodified":1561830271,
+    "wof:lastmodified":1563283729,
     "wof:name":"Taivassalo",
     "wof:parent_id":907198635,
     "wof:placetype":"locality",

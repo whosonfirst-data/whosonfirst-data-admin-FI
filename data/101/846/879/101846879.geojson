@@ -17,7 +17,16 @@
     "mps:longitude":26.876382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0646\u062a\u0647\u0627\u0631\u062c\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "M\u00e4ntyharju"
+    ],
     "name:ceb_x_preferred":[
+        "M\u00e4ntyharju"
+    ],
+    "name:dan_x_preferred":[
         "M\u00e4ntyharju"
     ],
     "name:deu_x_preferred":[
@@ -25,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "M\u00e4ntyharju"
+    ],
+    "name:est_x_preferred":[
+        "M\u00e4ntyharju vald"
     ],
     "name:fin_x_preferred":[
         "M\u00e4ntyharju"
@@ -50,6 +62,9 @@
     "name:ron_x_preferred":[
         "M\u00e4ntyharju"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u044f\u043d\u0442\u044e\u0445\u0430\u0440\u044c\u044e"
+    ],
     "name:sme_x_preferred":[
         "M\u00e4ntyharju"
     ],
@@ -61,6 +76,12 @@
     ],
     "name:swe_x_preferred":[
         "M\u00e4ntyharju"
+    ],
+    "name:tur_x_preferred":[
+        "M\u00e4ntyharju"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u044f\u043d\u0442\u044e\u0445\u0430\u0440'\u044e"
     ],
     "name:unk_x_variant":[
         "M\u00e4ntyharja"
@@ -120,7 +141,7 @@
         }
     ],
     "wof:id":101846879,
-    "wof:lastmodified":1561830276,
+    "wof:lastmodified":1563283759,
     "wof:name":"M\u00e4ntyharju",
     "wof:parent_id":907198721,
     "wof:placetype":"locality",

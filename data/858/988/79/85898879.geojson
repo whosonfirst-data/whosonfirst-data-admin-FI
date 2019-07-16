@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7956122.655182,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.704789,64.212722,27.704789,64.212722",
     "geom:latitude":64.212722,
     "geom:longitude":27.704789,
@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Puistola"
+    ],
     "name:fin_x_preferred":[
         "Puistola"
     ],
@@ -67,13 +70,13 @@
     "wd:population":6693,
     "wd:wordcount":18,
     "wof:belongsto":[
-        85683137,
         102191581,
         907199455,
         85633143,
         404227415,
         136253047,
-        1159321487
+        1159321487,
+        85683137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +104,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1531932118,
+    "wof:lastmodified":1563282676,
     "wof:name":"Puistola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

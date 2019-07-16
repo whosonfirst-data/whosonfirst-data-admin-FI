@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Ullanlinna"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30c3\u30e9\u30f3\u30ea\u30f3\u30ca"
+    ],
     "name:pol_x_preferred":[
         "Ullanlinna"
     ],
@@ -136,7 +139,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830200,
+    "wof:lastmodified":1563282616,
     "wof:name":"Ullanlinna",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

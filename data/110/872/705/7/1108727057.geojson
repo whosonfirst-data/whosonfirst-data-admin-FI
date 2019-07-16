@@ -25,6 +25,12 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Konala"
+    ],
+    "name:deu_x_preferred":[
+        "Konala"
+    ],
     "name:eng_x_preferred":[
         "Konala"
     ],
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108727057,
-    "wof:lastmodified":1561830252,
+    "wof:lastmodified":1563283409,
     "wof:name":"Konala",
     "wof:parent_id":890537259,
     "wof:placetype":"neighbourhood",

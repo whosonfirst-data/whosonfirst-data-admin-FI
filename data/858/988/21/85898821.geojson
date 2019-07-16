@@ -27,6 +27,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:dan_x_preferred":[
+        "Etu-T\u00f6\u00f6l\u00f6"
+    ],
     "name:deu_x_preferred":[
         "Etu-T\u00f6\u00f6l\u00f6"
     ],
@@ -147,7 +150,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830221,
+    "wof:lastmodified":1563282674,
     "wof:name":"Etu-Toolo",
     "wof:parent_id":1108727337,
     "wof:placetype":"neighbourhood",

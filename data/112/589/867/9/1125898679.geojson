@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0622\u0633\u064a\u0628\u0648\u0631\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Raasepori"
+    ],
+    "name:ceb_x_preferred":[
+        "Raseborg"
+    ],
     "name:dan_x_preferred":[
         "Raseborg"
     ],
@@ -40,6 +46,9 @@
         "Raasepori"
     ],
     "name:fra_x_preferred":[
+        "Raseborg"
+    ],
+    "name:glg_x_preferred":[
         "Raseborg"
     ],
     "name:isl_x_preferred":[
@@ -81,6 +90,9 @@
     "name:sgs_x_preferred":[
         "Raseborgs"
     ],
+    "name:sgs_x_variant":[
+        "Raseborg"
+    ],
     "name:spa_x_preferred":[
         "Raseborg"
     ],
@@ -88,6 +100,9 @@
         "Raseborg"
     ],
     "name:swe_x_preferred":[
+        "Raseborg"
+    ],
+    "name:tur_x_preferred":[
         "Raseborg"
     ],
     "name:ukr_x_preferred":[
@@ -161,7 +176,7 @@
         }
     ],
     "wof:id":1125898679,
-    "wof:lastmodified":1561830306,
+    "wof:lastmodified":1563284161,
     "wof:name":"Raseborg",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

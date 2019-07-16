@@ -50,6 +50,9 @@
     "name:ron_x_preferred":[
         "Ylih\u00e4rm\u00e4"
     ],
+    "name:rus_x_preferred":[
+        "\u042e\u043b\u0438\u0445\u044f\u0440\u043c\u044f"
+    ],
     "name:sme_x_preferred":[
         "Ylih\u00e4rm\u00e4"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101814119,
-    "wof:lastmodified":1561830287,
+    "wof:lastmodified":1563283911,
     "wof:name":"Ylih\u00e4rm\u00e4",
     "wof:parent_id":907199237,
     "wof:placetype":"locality",

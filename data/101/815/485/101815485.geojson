@@ -50,6 +50,9 @@
     "name:ita_x_preferred":[
         "Viiala"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30fc\u30a2\u30e9"
+    ],
     "name:nds_x_preferred":[
         "Viiala"
     ],
@@ -68,6 +71,9 @@
     "name:ron_x_preferred":[
         "Viiala"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0439\u0430\u043b\u0430"
+    ],
     "name:spa_x_preferred":[
         "Viiala"
     ],
@@ -79,6 +85,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc \u0622\u0644\u0627\u060c \u0641\u0646 \u0644\u06cc\u0646\u0688"
+    ],
+    "name:urd_x_variant":[
+        "\u0648\u06cc \u0622\u0644\u0627"
     ],
     "name:vie_x_preferred":[
         "Viiala"
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":101815485,
-    "wof:lastmodified":1561830278,
+    "wof:lastmodified":1563283782,
     "wof:name":"Viiala",
     "wof:parent_id":907199731,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000427,
-    "geom:area_square_m":2445284.166728,
+    "geom:area_square_m":2445284.166732,
     "geom:bbox":"28.6170215069,62.4132576756,28.6632638855,62.440918508",
     "geom:latitude":62.425792,
     "geom:longitude":28.63836,
@@ -17,6 +17,9 @@
     "mps:longitude":28.63836,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Hein\u00e4vesi"
+    ],
     "name:cat_x_preferred":[
         "Hein\u00e4vesi"
     ],
@@ -41,13 +44,22 @@
     "name:fra_x_preferred":[
         "Hein\u00e4vesi"
     ],
+    "name:glg_x_preferred":[
+        "Hein\u00e4vesi"
+    ],
     "name:ido_x_preferred":[
         "Hein\u00e4vesi"
     ],
     "name:ita_x_preferred":[
         "Hein\u00e4vesi"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30a4\u30ca\u30f4\u30a7\u30b7"
+    ],
     "name:nld_x_preferred":[
+        "Hein\u00e4vesi"
+    ],
+    "name:nob_x_preferred":[
         "Hein\u00e4vesi"
     ],
     "name:pol_x_preferred":[
@@ -59,10 +71,19 @@
     "name:rus_x_preferred":[
         "\u0425\u0435\u0439\u043d\u044f\u0432\u0435\u0441\u0438"
     ],
+    "name:sme_x_preferred":[
+        "Hein\u00e4vesi"
+    ],
     "name:spa_x_preferred":[
         "Hein\u00e4vesi"
     ],
+    "name:sqi_x_preferred":[
+        "Hein\u00e4vesi"
+    ],
     "name:swe_x_preferred":[
+        "Hein\u00e4vesi"
+    ],
+    "name:tur_x_preferred":[
         "Hein\u00e4vesi"
     ],
     "name:unk_x_variant":[
@@ -123,7 +144,7 @@
         }
     ],
     "wof:id":101814043,
-    "wof:lastmodified":1529714449,
+    "wof:lastmodified":1563283936,
     "wof:name":"Hein\u00e4vesi",
     "wof:parent_id":907199027,
     "wof:placetype":"locality",

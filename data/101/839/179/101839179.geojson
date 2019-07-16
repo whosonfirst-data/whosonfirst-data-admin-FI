@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003397,
-    "geom:area_square_m":17193512.14968,
+    "geom:area_square_m":17193512.149678,
     "geom:bbox":"24.1477253769,65.7964248763,24.244700037,65.8787077896",
     "geom:latitude":65.837277,
     "geom:longitude":24.182616,
@@ -19,6 +19,12 @@
     "mz:is_current":-1,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0646\u064a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Tornio"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u043e\u0440\u043d\u0456\u0430"
     ],
     "name:cat_x_preferred":[
         "Tornio"
@@ -53,6 +59,9 @@
     "name:eus_x_preferred":[
         "Tornio"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0646\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Tornio"
     ],
@@ -64,6 +73,9 @@
     ],
     "name:hbs_x_preferred":[
         "Tornio"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e8\u05e0\u05d9\u05d5"
     ],
     "name:hun_x_preferred":[
         "Tornio"
@@ -95,6 +107,9 @@
     "name:nno_x_preferred":[
         "Torne\u00e5"
     ],
+    "name:nob_x_preferred":[
+        "Torne\u00e5"
+    ],
     "name:nor_x_preferred":[
         "Torne\u00e5"
     ],
@@ -112,6 +127,9 @@
     ],
     "name:sgs_x_preferred":[
         "Tornij\u0117s"
+    ],
+    "name:sgs_x_variant":[
+        "Tornio"
     ],
     "name:sme_x_preferred":[
         "Duortnus"
@@ -192,7 +210,7 @@
         }
     ],
     "wof:id":101839179,
-    "wof:lastmodified":1529702564,
+    "wof:lastmodified":1563283987,
     "wof:name":"Tornio",
     "wof:parent_id":907199557,
     "wof:placetype":"locality",

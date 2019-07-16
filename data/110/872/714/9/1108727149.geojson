@@ -25,6 +25,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "\u00d6stersundom"
+    ],
     "name:eng_x_preferred":[
         "\u00d6stersundom"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108727149,
-    "wof:lastmodified":1561830251,
+    "wof:lastmodified":1563283395,
     "wof:name":"Ostersundom",
     "wof:parent_id":1108727375,
     "wof:placetype":"neighbourhood",

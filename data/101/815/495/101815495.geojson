@@ -17,6 +17,12 @@
     "mps:longitude":23.615298,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Vesilahti"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u0441\u0438\u043b\u0430\u0445\u0442\u0438"
+    ],
     "name:ceb_x_preferred":[
         "Vesilahti"
     ],
@@ -26,10 +32,16 @@
     "name:eng_x_preferred":[
         "Vesilahti"
     ],
+    "name:est_x_preferred":[
+        "Vesilahti vald"
+    ],
     "name:fin_x_preferred":[
         "Vesilahti"
     ],
     "name:fra_x_preferred":[
+        "Vesilahti"
+    ],
+    "name:glg_x_preferred":[
         "Vesilahti"
     ],
     "name:ita_x_preferred":[
@@ -64,6 +76,12 @@
     ],
     "name:swe_x_preferred":[
         "Vesilax"
+    ],
+    "name:swe_x_variant":[
+        "Vesilahti"
+    ],
+    "name:tur_x_preferred":[
+        "Vesilahti"
     ],
     "name:vie_x_preferred":[
         "Vesilahti"
@@ -122,7 +140,7 @@
         }
     ],
     "wof:id":101815495,
-    "wof:lastmodified":1561830281,
+    "wof:lastmodified":1563283830,
     "wof:name":"Vesilahti",
     "wof:parent_id":907198735,
     "wof:placetype":"locality",

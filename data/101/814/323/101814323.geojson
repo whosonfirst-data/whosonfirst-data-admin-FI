@@ -29,6 +29,9 @@
     "name:est_x_preferred":[
         "Nilsi\u00e4"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0644\u0633\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Nilsi\u00e4"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Nilsi\u00e4"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0438\u043b\u0441\u0438\u044f"
     ],
     "name:tur_x_preferred":[
         "Nilsi\u00e4"
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":101814323,
-    "wof:lastmodified":1561830286,
+    "wof:lastmodified":1563283905,
     "wof:name":"Nilsi\u00e4",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

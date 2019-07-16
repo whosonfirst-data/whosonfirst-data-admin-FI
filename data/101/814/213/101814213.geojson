@@ -59,6 +59,9 @@
     "name:rus_x_preferred":[
         "\u0419\u044f\u043c\u0441\u044f\u043d\u043a\u043e\u0441\u043a\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u042f\u043c\u0441\u044f\u043d\u043a\u043e\u0441\u043a\u0438"
+    ],
     "name:sme_x_preferred":[
         "J\u00e4ms\u00e4nkoski"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101814213,
-    "wof:lastmodified":1561830289,
+    "wof:lastmodified":1563283941,
     "wof:name":"J\u00e4ms\u00e4nkoski",
     "wof:parent_id":907199101,
     "wof:placetype":"locality",

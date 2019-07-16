@@ -51,6 +51,9 @@
     "name:swe_x_preferred":[
         "Nybondas"
     ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0443\u0442\u0435\u043b\u0430"
+    ],
     "name:unk_x_variant":[
         "Uutela"
     ],
@@ -126,7 +129,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830201,
+    "wof:lastmodified":1563282618,
     "wof:name":"Uutela",
     "wof:parent_id":890537281,
     "wof:placetype":"neighbourhood",

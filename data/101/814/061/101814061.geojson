@@ -17,10 +17,16 @@
     "mps:longitude":27.856582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Juva"
+    ],
     "name:cat_x_preferred":[
         "Juva"
     ],
     "name:ceb_x_preferred":[
+        "Juva"
+    ],
+    "name:dan_x_preferred":[
         "Juva"
     ],
     "name:deu_x_preferred":[
@@ -28,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "Juva"
+    ],
+    "name:est_x_preferred":[
+        "Juva vald"
     ],
     "name:fin_x_preferred":[
         "Juva"
@@ -76,6 +85,9 @@
     ],
     "name:swe_x_preferred":[
         "Jockas"
+    ],
+    "name:tur_x_preferred":[
+        "Juva"
     ],
     "name:unk_x_variant":[
         "Jockas"
@@ -134,7 +146,7 @@
         }
     ],
     "wof:id":101814061,
-    "wof:lastmodified":1561830289,
+    "wof:lastmodified":1563283948,
     "wof:name":"Juva",
     "wof:parent_id":907198761,
     "wof:placetype":"locality",

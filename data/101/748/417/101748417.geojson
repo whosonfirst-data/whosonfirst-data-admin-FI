@@ -46,22 +46,33 @@
         "Helsinki"
     ],
     "name:ast_x_variant":[
-        "\u1e24\u00e9lsinki"
+        "\u1e24\u00e9lsinki",
+        "\u1e24elsinki"
     ],
     "name:ava_x_preferred":[
         "\u0425\u0435\u043b\u044c\u0441\u0438\u043d\u043a\u0438"
     ],
+    "name:aym_x_preferred":[
+        "Helsinki"
+    ],
     "name:aze_x_preferred":[
         "Helsinki"
     ],
+    "name:bak_x_preferred":[
+        "\u0425\u0435\u043b\u044c\u0441\u0438\u043d\u043a\u0438"
+    ],
     "name:bar_x_preferred":[
+        "Helsinki"
+    ],
+    "name:bcl_x_preferred":[
         "Helsinki"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0435\u043b\u044c\u0441\u0456\u043d\u043a\u0456"
     ],
     "name:bel_x_variant":[
-        "\u0425\u044d\u043b\u044c\u0441\u044b\u043d\u043a\u0456"
+        "\u0425\u044d\u043b\u044c\u0441\u044b\u043d\u043a\u0456",
+        "\u0425\u0435\u043b\u044c\u0441\u0456\u043d\u043a\u0456"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09c7\u09b2\u09b8\u09bf\u0999\u09cd\u0995\u09bf"
@@ -189,8 +200,20 @@
     "name:glv_x_preferred":[
         "Helsinki"
     ],
+    "name:gsw_x_preferred":[
+        "Helsinki"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab9\u0ac7\u0ab2\u0ab8\u0abf\u0a82\u0a95\u0ac0"
+    ],
+    "name:hak_x_preferred":[
+        "Helsinki"
+    ],
     "name:hat_x_preferred":[
         "\u00c8lzinki"
+    ],
+    "name:hau_x_preferred":[
+        "Helsinki"
     ],
     "name:hbs_x_preferred":[
         "Helsinki"
@@ -216,10 +239,16 @@
     "name:hye_x_preferred":[
         "\u0540\u0565\u056c\u057d\u056b\u0576\u056f\u056b"
     ],
+    "name:hyw_x_preferred":[
+        "\u0540\u0565\u056c\u057d\u056b\u0576\u0584\u056b"
+    ],
     "name:ido_x_preferred":[
         "Helsinki"
     ],
     "name:ile_x_preferred":[
+        "Helsinki"
+    ],
+    "name:ilo_x_preferred":[
         "Helsinki"
     ],
     "name:ina_x_preferred":[
@@ -318,6 +347,9 @@
     "name:lug_x_preferred":[
         "Helsinki"
     ],
+    "name:lzh_x_preferred":[
+        "\u8d6b\u723e\u8f9b\u57fa"
+    ],
     "name:mal_x_preferred":[
         "\u0d39\u0d46\u0d7d\u0d38\u0d3f\u0d19\u0d4d\u0d15\u0d3f"
     ],
@@ -339,6 +371,9 @@
     "name:mlt_x_preferred":[
         "\u0126elsinki"
     ],
+    "name:mon_x_preferred":[
+        "\u0425\u0435\u043b\u044c\u0441\u0438\u043d\u043a\u0438"
+    ],
     "name:mri_x_preferred":[
         "Helsinki"
     ],
@@ -356,6 +391,9 @@
     ],
     "name:nah_x_preferred":[
         "Helsinqui"
+    ],
+    "name:nan_x_preferred":[
+        "Helsinki"
     ],
     "name:nau_x_preferred":[
         "Helsinki"
@@ -381,14 +419,29 @@
     "name:nov_x_preferred":[
         "Helsinki"
     ],
+    "name:nrm_x_preferred":[
+        "\u0124elsinq\u00f9i"
+    ],
+    "name:nya_x_preferred":[
+        "Helsinki"
+    ],
     "name:oci_x_preferred":[
         "Helsinki"
+    ],
+    "name:olo_x_preferred":[
+        "Helsinki"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b39\u0b47\u0b32\u0b38\u0b3f\u0b19\u0b4d\u0b15\u0b3f"
     ],
     "name:oss_x_preferred":[
         "\u0425\u0435\u043b\u044c\u0441\u0438\u043d\u043a\u0438"
     ],
     "name:pan_x_preferred":[
         "\u0a39\u0a48\u0a32\u0a38\u0a3f\u0a70\u0a15\u0a40"
+    ],
+    "name:pap_x_preferred":[
+        "Helsinki"
     ],
     "name:pcd_x_preferred":[
         "Helsinki"
@@ -411,7 +464,13 @@
     "name:que_x_preferred":[
         "Helsinki"
     ],
+    "name:roh_x_preferred":[
+        "Helsinki"
+    ],
     "name:ron_x_preferred":[
+        "Helsinki"
+    ],
+    "name:rup_x_preferred":[
         "Helsinki"
     ],
     "name:rus_x_preferred":[
@@ -432,6 +491,9 @@
     "name:sgs_x_preferred":[
         "Hels\u0117nkis"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0dd9\u0dbd\u0dca\u0dc3\u0dd2\u0db1\u0dca\u0d9a\u0dd2"
+    ],
     "name:slk_x_preferred":[
         "Helsinki"
     ],
@@ -440,6 +502,12 @@
     ],
     "name:sme_x_preferred":[
         "Helsset"
+    ],
+    "name:smn_x_preferred":[
+        "Helsig"
+    ],
+    "name:sms_x_preferred":[
+        "He\u02b9lssen"
     ],
     "name:sna_x_preferred":[
         "Helsinki"
@@ -468,6 +536,9 @@
     "name:stq_x_preferred":[
         "Helsinki"
     ],
+    "name:sun_x_preferred":[
+        "H\u00e9lsinki"
+    ],
     "name:swa_x_preferred":[
         "Helsinki"
     ],
@@ -480,8 +551,17 @@
     "name:tam_x_preferred":[
         "\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0bb9\u0bc6\u0bb2\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd\u0b95\u0bbf"
+    ],
     "name:tat_x_preferred":[
         "\u04ba\u0435\u043b\u044c\u0441\u0438\u043d\u043a\u0438"
+    ],
+    "name:tat_x_variant":[
+        "\u04ba\u0435\u043b\u0441\u0438\u043d\u043a\u0438"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c39\u0c46\u0c32\u0c4d\u0c38\u0c3f\u0c02\u0c15\u0c40"
     ],
     "name:tgk_x_preferred":[
         "\u04b2\u0435\u043b\u0441\u0438\u043d\u043a\u04e3"
@@ -528,11 +608,20 @@
     "name:vol_x_preferred":[
         "Helsinki"
     ],
+    "name:vro_x_preferred":[
+        "Helsingi"
+    ],
     "name:war_x_preferred":[
         "Helsinki"
     ],
     "name:wol_x_preferred":[
         "Elsinki"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8d6b\u5c14\u8f9b\u57fa"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10f0\u10d4\u10da\u10e1\u10d8\u10dc\u10d9\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d4\u05e2\u05dc\u05e1\u05d9\u05e0\u05e7\u05d9"
@@ -551,6 +640,9 @@
     ],
     "name:zho_yue_x_preferred":[
         "\u8d6b\u723e\u8f9b\u57fa"
+    ],
+    "name:zul_x_preferred":[
+        "Helsinki"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Finland",
@@ -710,7 +802,7 @@
         }
     ],
     "wof:id":101748417,
-    "wof:lastmodified":1536947514,
+    "wof:lastmodified":1563283718,
     "wof:megacity":1,
     "wof:name":"Helsinki",
     "wof:parent_id":907199715,

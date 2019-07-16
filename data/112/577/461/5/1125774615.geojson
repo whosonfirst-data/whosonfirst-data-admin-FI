@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0423\u043a\u0443\u043d\u0438\u0435\u043c\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Uukuniemi"
+    ],
     "name:deu_x_preferred":[
         "Uukuniemi"
     ],
@@ -32,6 +35,9 @@
         "Uukuniemi"
     ],
     "name:fin_x_preferred":[
+        "Uukuniemi"
+    ],
+    "name:fra_x_preferred":[
         "Uukuniemi"
     ],
     "name:nld_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125774615,
-    "wof:lastmodified":1561830313,
+    "wof:lastmodified":1563284315,
     "wof:name":"Uukuniemi",
     "wof:parent_id":907198853,
     "wof:placetype":"locality",

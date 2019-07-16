@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0430\u0438\u043d\u0438\u043a\u0430\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Vainikkala"
+    ],
     "name:deu_x_preferred":[
         "Vainikkala"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101846865,
-    "wof:lastmodified":1561830277,
+    "wof:lastmodified":1563283765,
     "wof:name":"Vainikkala",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

@@ -21,8 +21,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0643\u064a\u0645\u064a\u0627\u0631\u0641\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Kemij\u00e4rvi"
+    ],
+    "name:bak_x_preferred":[
+        "\u041a\u0435\u043c\u0438\u044f\u0440\u0432\u0438"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0435\u043c\u0456\u044f\u0440\u0432\u0456"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0435\u043c\u0456\u044f\u0440\u0432\u0456"
     ],
     "name:ceb_x_preferred":[
         "Kemij\u00e4rvi"
@@ -263,7 +272,7 @@
         }
     ],
     "wof:id":101814517,
-    "wof:lastmodified":1561830286,
+    "wof:lastmodified":1563283902,
     "wof:name":"Kemij\u00e4rvi",
     "wof:parent_id":907199539,
     "wof:placetype":"locality",

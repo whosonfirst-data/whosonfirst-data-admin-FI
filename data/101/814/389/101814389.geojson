@@ -17,7 +17,13 @@
     "mps:longitude":29.003867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Suomussalmi"
+    ],
     "name:cat_x_preferred":[
+        "Suomussalmi"
+    ],
+    "name:ceb_x_preferred":[
         "Suomussalmi"
     ],
     "name:ces_x_preferred":[
@@ -42,6 +48,9 @@
         "Suomussalmi"
     ],
     "name:fra_x_preferred":[
+        "Suomussalmi"
+    ],
+    "name:glg_x_preferred":[
         "Suomussalmi"
     ],
     "name:ita_x_preferred":[
@@ -165,7 +174,7 @@
         }
     ],
     "wof:id":101814389,
-    "wof:lastmodified":1561830290,
+    "wof:lastmodified":1563283959,
     "wof:name":"Suomussalmi",
     "wof:parent_id":907199501,
     "wof:placetype":"locality",

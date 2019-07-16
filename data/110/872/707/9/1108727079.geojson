@@ -25,6 +25,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Kuusisaari"
+    ],
     "name:eng_x_preferred":[
         "Kuusisaari"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:swe_x_preferred":[
         "Gran\u00f6"
+    ],
+    "name:swe_x_variant":[
+        "Ita-Hakkila"
     ],
     "reversegeo:latitude":60.188404,
     "reversegeo:longitude":24.858595,
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1108727079,
-    "wof:lastmodified":1561830249,
+    "wof:lastmodified":1563283359,
     "wof:name":"Kuusisaari",
     "wof:parent_id":890537235,
     "wof:placetype":"neighbourhood",

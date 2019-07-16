@@ -17,6 +17,12 @@
     "mps:longitude":25.289416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Padasjoki"
+    ],
+    "name:bar_x_preferred":[
+        "Padasjoki"
+    ],
     "name:ceb_x_preferred":[
         "Padasjoki"
     ],
@@ -33,6 +39,9 @@
         "Padasjoki"
     ],
     "name:fra_x_preferred":[
+        "Padasjoki"
+    ],
+    "name:glg_x_preferred":[
         "Padasjoki"
     ],
     "name:ita_x_preferred":[
@@ -75,6 +84,9 @@
         "Padasjoki"
     ],
     "name:swe_x_preferred":[
+        "Padasjoki"
+    ],
+    "name:tur_x_preferred":[
         "Padasjoki"
     ],
     "name:zho_x_preferred":[
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":101872803,
-    "wof:lastmodified":1561830267,
+    "wof:lastmodified":1563283691,
     "wof:name":"Padasjoki",
     "wof:parent_id":907198715,
     "wof:placetype":"locality",

@@ -61,6 +61,9 @@
     "name:swe_x_preferred":[
         "Lillhoplax"
     ],
+    "name:swe_x_variant":[
+        "Norra Haga"
+    ],
     "name:unk_x_variant":[
         "Pikku Huopalahti"
     ],
@@ -140,7 +143,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830200,
+    "wof:lastmodified":1563282615,
     "wof:name":"Pikku Huopalahti",
     "wof:parent_id":1108727373,
     "wof:placetype":"neighbourhood",

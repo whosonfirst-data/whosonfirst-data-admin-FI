@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Lauttasaari"
     ],
+    "name:ceb_x_preferred":[
+        "Lauttasaari"
+    ],
     "name:deu_x_preferred":[
         "Lauttasaari"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":890537261,
-    "wof:lastmodified":1561830296,
+    "wof:lastmodified":1563284059,
     "wof:name":"Lauttasaari",
     "wof:parent_id":890536879,
     "wof:placetype":"macrohood",

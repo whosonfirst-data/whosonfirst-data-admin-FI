@@ -42,6 +42,9 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Oulunkyl\u00e4"
+    ],
     "name:deu_x_preferred":[
         "Oulunkyl\u00e4"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:nld_x_preferred":[
         "Oulunkyl\u00e4"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c5ggelby"
     ],
     "name:nob_x_preferred":[
         "\u00c5ggelby"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":890537237,
-    "wof:lastmodified":1561830297,
+    "wof:lastmodified":1563284062,
     "wof:name":"Oulunkyla",
     "wof:parent_id":890536895,
     "wof:placetype":"macrohood",
