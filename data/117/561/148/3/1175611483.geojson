@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u043b\u0438\u043a\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Halikko"
+    ],
     "name:ceb_x_preferred":[
         "Halikko"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "Halikko"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u5229\u79d1"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Varsinais-Suomi#Egentliga Finland",
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":1175611483,
-    "wof:lastmodified":1561830257,
+    "wof:lastmodified":1563283479,
     "wof:name":"Halikko",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

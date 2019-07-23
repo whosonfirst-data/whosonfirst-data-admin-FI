@@ -34,6 +34,9 @@
     "name:nob_x_preferred":[
         "Nummis"
     ],
+    "name:nob_x_variant":[
+        "Nummi"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0443\u043c\u043c\u0438"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1175611475,
-    "wof:lastmodified":1561830257,
+    "wof:lastmodified":1563283482,
     "wof:name":"Nummi",
     "wof:parent_id":907198655,
     "wof:placetype":"locality",

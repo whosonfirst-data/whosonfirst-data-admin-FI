@@ -45,6 +45,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0433\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Haaga"
+    ],
     "name:deu_x_preferred":[
         "Haaga"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890537273,
-    "wof:lastmodified":1561830296,
+    "wof:lastmodified":1563284057,
     "wof:name":"Haaga",
     "wof:parent_id":890536889,
     "wof:placetype":"macrohood",

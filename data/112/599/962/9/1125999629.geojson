@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
     "name:eng_x_preferred":[
         "Monninkyl\u00e4"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:swe_x_preferred":[
         "Monby"
+    ],
+    "name:swe_x_variant":[
+        "M\u00e5nby"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125999629,
-    "wof:lastmodified":1561830308,
+    "wof:lastmodified":1563284183,
     "wof:name":"Monninkyl\u00e4",
     "wof:parent_id":907198543,
     "wof:placetype":"locality",

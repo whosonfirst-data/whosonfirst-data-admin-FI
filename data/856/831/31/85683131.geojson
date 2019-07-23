@@ -24,11 +24,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0641\u0648 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Savonia del Norte"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430\u0435 \u0421\u0430\u0432\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09b0\u09cd\u09a6\u09be\u09a8 \u09b8\u09cd\u09af\u09be\u09ad\u09cb\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bos_x_preferred":[
+        "Sjeverna Savonija"
     ],
     "name:cat_x_preferred":[
         "Sav\u00f2nia del Nord"
@@ -142,6 +148,9 @@
     "name:nno_x_preferred":[
         "Norra Savolax"
     ],
+    "name:nno_x_variant":[
+        "Pohjois-Savo"
+    ],
     "name:nob_x_preferred":[
         "Norra Savolax"
     ],
@@ -156,6 +165,9 @@
     ],
     "name:pol_x_preferred":[
         "Sawonia P\u00f3\u0142nocna"
+    ],
+    "name:pol_x_variant":[
+        "Pohjois-Savo"
     ],
     "name:por_x_preferred":[
         "Sav\u00f4nia do Norte"
@@ -337,7 +349,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1561830210,
+    "wof:lastmodified":1563282644,
     "wof:name":"Northern Savonia",
     "wof:parent_id":404227407,
     "wof:placetype":"region",

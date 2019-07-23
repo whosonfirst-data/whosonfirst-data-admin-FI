@@ -26,6 +26,9 @@
     "name:dan_x_preferred":[
         "Ule\u00e5salo"
     ],
+    "name:dan_x_variant":[
+        "Oulunsalo"
+    ],
     "name:deu_x_preferred":[
         "Oulunsalo"
     ],
@@ -44,11 +47,20 @@
     "name:fra_x_preferred":[
         "Oulunsalo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dc\u05d5\u05e0\u05e1\u05dc\u05d5"
+    ],
     "name:isl_x_preferred":[
         "Ule\u00e5salo"
     ],
     "name:ita_x_preferred":[
         "Oulunsalo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30a6\u30eb\u30f3\u30b5\u30ed"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\uc6b8\ub8ec\uc0b4\ub85c"
     ],
     "name:nld_x_preferred":[
         "Oulunsalo"
@@ -86,11 +98,17 @@
     "name:swe_x_variant":[
         "Ule\u00e5sal\u00f6"
     ],
+    "name:tur_x_preferred":[
+        "Oulunsalo"
+    ],
     "name:vie_x_preferred":[
         "Oulunsalo"
     ],
     "name:zho_x_preferred":[
         "\u6b50\u502b\u85a9\u6d1b"
+    ],
+    "name:zho_x_variant":[
+        "\u5967\u502b\u85a9\u6d1b"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjois-Pohjanmaa#Norra \u00d6sterbotten",
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":101814415,
-    "wof:lastmodified":1561830285,
+    "wof:lastmodified":1563283882,
     "wof:name":"Oulunsalo",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

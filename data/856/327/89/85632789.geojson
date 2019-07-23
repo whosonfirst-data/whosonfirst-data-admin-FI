@@ -35,6 +35,9 @@
     "name:amh_x_preferred":[
         "\u12e8\u12a0\u120b\u1295\u12f5 \u12f0\u1234\u1276\u127d"
     ],
+    "name:amh_x_variant":[
+        "\u12a6\u120b\u1295\u12f5 \u12f0\u1234\u1276\u127d"
+    ],
     "name:ang_x_preferred":[
         "\u0112alendisca \u012aega"
     ],
@@ -51,6 +54,9 @@
     "name:ast_x_preferred":[
         "Islles \u00c5land"
     ],
+    "name:ast_x_variant":[
+        "Islles Aland"
+    ],
     "name:aze_x_preferred":[
         "Aland adalar\u0131"
     ],
@@ -59,6 +65,12 @@
     ],
     "name:bak_x_preferred":[
         "\u0410\u043b\u0430\u043d\u0434 \u0443\u0442\u0440\u0430\u0443\u0499\u0430\u0440\u044b"
+    ],
+    "name:bar_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:bcl_x_preferred":[
+        "Kaiislahang \u00c5land"
     ],
     "name:bel_x_preferred":[
         "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0456\u044f \u0430\u0441\u0442\u0440\u0430\u0432\u044b"
@@ -70,25 +82,62 @@
         "\u0985\u09b2\u09be\u09a8\u09cd\u09a6_\u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
     ],
     "name:ben_x_variant":[
-        "\u0986\u09b2\u09be\u09a8\u09cd\u09a1 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
+        "\u0986\u09b2\u09be\u09a8\u09cd\u09a1 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c",
+        "\u0985\u09b2\u09be\u09a8\u09cd\u09a6 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
     ],
     "name:bos_x_preferred":[
         "Alandska ostrva"
     ],
+    "name:bos_x_variant":[
+        "\u00c5landska ostrva"
+    ],
     "name:bre_x_preferred":[
         "Inizi \u00c5land"
+    ],
+    "name:bre_x_variant":[
+        "\u00c5land"
     ],
     "name:bul_x_preferred":[
         "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438 \u043e-\u0432\u0438"
     ],
+    "name:bul_x_variant":[
+        "\u041e\u043b\u0430\u043d\u0434\u0441\u043a\u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
     "name:cat_x_preferred":[
         "Illes \u00c5land"
+    ],
+    "name:cat_x_variant":[
+        "illes \u00c5land"
+    ],
+    "name:cdo_x_preferred":[
+        "\u00c5land G\u00f9ng-d\u014d\u0324"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c5land"
     ],
     "name:ces_x_preferred":[
         "Alandy"
     ],
+    "name:ces_x_variant":[
+        "\u00c5landy"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434\u0430\u043d \u0433\u04c0\u0430\u0439\u0440\u0435\u043d\u0430\u0448"
+    ],
+    "name:chr_x_preferred":[
+        "\u13a3\u13b4\u13c5\u13d3\u13da \u13a6\u13da\u13db\u13a2"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06c6\u0644\u06d5\u0646\u062f"
+    ],
+    "name:cor_x_preferred":[
+        "\u00c5land"
+    ],
     "name:cym_x_preferred":[
         "Ynysoedd Aland"
+    ],
+    "name:cym_x_variant":[
+        "\u00c5land"
     ],
     "name:dan_x_preferred":[
         "\u00c5land"
@@ -98,6 +147,9 @@
     ],
     "name:deu_x_variant":[
         "Alandinseln"
+    ],
+    "name:dsb_x_preferred":[
+        "\u00c5land"
     ],
     "name:ell_x_preferred":[
         "\u038f\u03bb\u03b1\u03bd\u03c4"
@@ -117,11 +169,17 @@
         "\u00c5land",
         "Aland Islands"
     ],
+    "name:epo_x_preferred":[
+        "Alando"
+    ],
     "name:est_x_preferred":[
         "Ahvenamaa"
     ],
     "name:eus_x_preferred":[
         "Aland Uharteak"
+    ],
+    "name:eus_x_variant":[
+        "\u00c5land"
     ],
     "name:ewe_x_preferred":[
         "\u00c5land \u0192udomekpo nutome"
@@ -132,11 +190,15 @@
     "name:fas_x_preferred":[
         "\u062c\u0632\u0627\u06cc\u0631 \u0622\u0644\u0627\u0646\u062f"
     ],
+    "name:fas_x_variant":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u0627\u0644\u0646\u062f"
+    ],
     "name:fin_x_preferred":[
         "Ahvenanmaa"
     ],
     "name:fin_x_variant":[
-        "Ahvenanmaan L\u00e4\u00e4ni"
+        "Ahvenanmaan L\u00e4\u00e4ni",
+        "Ahvenanmaan maakunta"
     ],
     "name:fra_x_preferred":[
         "\u00c5land"
@@ -144,14 +206,44 @@
     "name:fra_x_variant":[
         "\u00celes \u00c5land"
     ],
+    "name:frp_x_preferred":[
+        "Iles d\u2019\u00c5land"
+    ],
+    "name:frr_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:fry_x_preferred":[
+        "\u00c5landseilannen"
+    ],
+    "name:gag_x_preferred":[
+        "Aland"
+    ],
+    "name:gla_x_preferred":[
+        "\u00c5land"
+    ],
     "name:gle_x_preferred":[
         "Oile\u00e1in Alaind"
+    ],
+    "name:gle_x_variant":[
+        "Oile\u00e1in \u00c5land"
     ],
     "name:glg_x_preferred":[
         "Illas Aland"
     ],
+    "name:glg_x_variant":[
+        "\u00c5land"
+    ],
+    "name:glv_x_preferred":[
+        "\u00c5land"
+    ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab2\u0ac7\u0a82\u0aa1 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    ],
+    "name:guj_x_variant":[
+        "\u0a8f\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    ],
+    "name:hau_x_preferred":[
+        "\u00c5land"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05dc\u05e0\u05d3"
@@ -163,19 +255,35 @@
         "\u0911\u0932\u0948\u0923\u094d\u0921_\u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
     ],
     "name:hin_x_variant":[
-        "\u090f\u0932\u0948\u0902\u0921 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+        "\u090f\u0932\u0948\u0902\u0921 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939",
+        "\u0911\u0932\u0948\u0923\u094d\u0921 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
     ],
     "name:hrv_x_preferred":[
         "Alandski otoci"
     ],
+    "name:hrv_x_variant":[
+        "\u00c5landski otoci"
+    ],
+    "name:hsb_x_preferred":[
+        "\u00c5land"
+    ],
     "name:hun_x_preferred":[
         "Aland-szigetek"
+    ],
+    "name:hun_x_variant":[
+        "\u00c5land"
     ],
     "name:hye_x_preferred":[
         "\u0531\u056c\u0561\u0576\u0564\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
     ],
+    "name:ido_x_preferred":[
+        "Alando"
+    ],
     "name:ind_x_preferred":[
         "Kepulauan Aland"
+    ],
+    "name:ind_x_variant":[
+        "\u00c5land"
     ],
     "name:isl_x_preferred":[
         "\u00c1landseyjar"
@@ -185,6 +293,9 @@
     ],
     "name:ita_x_variant":[
         "Isole Aland"
+    ],
+    "name:jav_x_preferred":[
+        "Kapuloan \u00c5land"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6"
@@ -198,35 +309,95 @@
     "name:kat_x_preferred":[
         "\u10d0\u10da\u10d0\u10dc\u10d3\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
     ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434 \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
+    ],
+    "name:kin_x_preferred":[
+        "Ibirwa by\u2019Alande"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434 \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
+    ],
+    "name:kom_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434 \u0434\u0456\u044f\u0441"
+    ],
     "name:kor_x_preferred":[
         "\uc62c\ub780\ub4dc \uc81c\ub3c4"
+    ],
+    "name:lat_x_preferred":[
+        "Alandia"
     ],
     "name:lav_x_preferred":[
         "Olandes salas"
     ],
+    "name:lav_x_variant":[
+        "Olande"
+    ],
+    "name:lij_x_preferred":[
+        "Isoe \u00c5land"
+    ],
+    "name:lim_x_preferred":[
+        "\u00c5landj"
+    ],
     "name:lit_x_preferred":[
         "Aland\u0173 salos"
+    ],
+    "name:lit_x_variant":[
+        "Alandai"
+    ],
+    "name:lmo_x_preferred":[
+        "Isol \u00c5land"
     ],
     "name:mal_x_preferred":[
         "\u0d05\u0d32\u0d28\u0d4d\u200d\u0d21\u0d4d \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d41\u0d15\u0d33\u0d4d\u200d"
     ],
+    "name:mal_x_variant":[
+        "\u0d05\u0d32\u0d3e\u0d28\u0d4d\u0d26\u0d4d \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d41\u0d15\u0d7e"
+    ],
     "name:mar_x_preferred":[
         "\u0905\u200d\u0945\u0932\u0901\u0921 \u092c\u0947\u091f\u0947"
+    ],
+    "name:mar_x_variant":[
+        "\u0911\u0932\u0902\u0921 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
     ],
+    "name:mkd_x_variant":[
+        "\u041e\u043b\u0430\u043d\u0434"
+    ],
     "name:mlt_x_preferred":[
         "G\u017cejjer Aland"
     ],
+    "name:mlt_x_variant":[
+        "G\u017cejjer \u00c5land"
+    ],
+    "name:mri_x_preferred":[
+        "Aaland"
+    ],
     "name:msa_x_preferred":[
         "Kepulauan \u00c5land"
+    ],
+    "name:msa_x_variant":[
+        "\u00c5land"
+    ],
+    "name:myv_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434\u043e\u043d\u044c \u0443\u0441\u0438\u044f\u0442"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0644\u0646\u062f"
+    ],
+    "name:nan_x_preferred":[
+        "\u00c5land K\u00fbn-t\u00f3"
     ],
     "name:nep_x_preferred":[
         "\u0905\u0932\u093e\u0928\u094d\u0921 \u091f\u093e\u092a\u0941"
     ],
     "name:nld_x_preferred":[
         "\u00c5landeilanden"
+    ],
+    "name:nld_x_variant":[
+        "\u00c5land"
     ],
     "name:nno_x_preferred":[
         "\u00c5land"
@@ -237,8 +408,26 @@
     "name:nor_x_preferred":[
         "\u00c5land"
     ],
+    "name:nov_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:oci_x_preferred":[
+        "\u00c5land"
+    ],
     "name:ori_x_preferred":[
         "\u0b06\u0b32\u0b3e\u0b23\u0b4d\u0b21 \u0b06\u0b07\u0b38\u0b32\u0b4d\u0b5f\u0b3e\u0b23\u0b4d\u0b21"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434\u044b \u0441\u0430\u043a\u044a\u0430\u0434\u00e6\u0445\u0442\u00e6"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a13\u0a32\u0a3e\u0a02\u0a26 \u0a1f\u0a3e\u0a2a\u0a42"
+    ],
+    "name:pap_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0632\u0627\u0626\u0631 \u0622\u0644\u06cc\u0646\u0688"
     ],
     "name:pol_x_preferred":[
         "Wyspy Alandzkie"
@@ -247,13 +436,23 @@
         "Ilhas Aland"
     ],
     "name:por_x_variant":[
-        "Alanda"
+        "Alanda",
+        "\u00c5land"
+    ],
+    "name:que_x_preferred":[
+        "\u00c5land"
     ],
     "name:roh_x_preferred":[
         "Inslas Aland"
     ],
     "name:ron_x_preferred":[
         "Insulele Aland"
+    ],
+    "name:ron_x_variant":[
+        "Insulele \u00c5land"
+    ],
+    "name:rue_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434\u044b"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
@@ -262,14 +461,26 @@
         "\u0410\u043b\u0430\u043d\u0434\u044b",
         "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e-\u0432\u0430"
     ],
+    "name:sco_x_preferred":[
+        "\u00c5land Islands"
+    ],
     "name:sin_x_preferred":[
         "\u0d95\u0dbd\u0db1\u0dca\u0da9\u0dca \u0daf\u0dd6\u0db4\u0dad\u0dca"
+    ],
+    "name:sin_x_variant":[
+        "\u0d86\u0dbd\u0db1\u0dca\u0da9\u0dca \u0daf\u0dd6\u0db4\u0dad\u0dca"
     ],
     "name:slk_x_preferred":[
         "Alandsk\u00e9 ostrovy"
     ],
+    "name:slk_x_variant":[
+        "\u00c5landy"
+    ],
     "name:slv_x_preferred":[
         "Alandsko oto\u010dje"
+    ],
+    "name:slv_x_variant":[
+        "\u00c5land"
     ],
     "name:sme_x_preferred":[
         "\u00c5l\u00e1nda"
@@ -278,16 +489,27 @@
         "Islas de \u00c5land"
     ],
     "name:spa_x_variant":[
-        "Islas \u00c5land"
+        "Islas \u00c5land",
+        "\u00c5land"
     ],
     "name:sqi_x_preferred":[
         "Ishujt Aland"
+    ],
+    "name:sqi_x_variant":[
+        "Ishujt \u00c5land"
+    ],
+    "name:srd_x_preferred":[
+        "\u00ccsulas \u00c5land"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043b\u0430\u043d\u0434\u0441\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430"
     ],
     "name:srp_x_variant":[
-        "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0430 \u043e\u0441\u0442\u0440\u0432\u0430"
+        "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0430 \u043e\u0441\u0442\u0440\u0432\u0430",
+        "\u041e\u043b\u0430\u043d\u0434\u0441\u043a\u0430 \u043e\u0441\u0442\u0440\u0432\u0430"
+    ],
+    "name:sun_x_preferred":[
+        "\u00c5land"
     ],
     "name:swa_x_preferred":[
         "Visiwa vya Aland"
@@ -308,8 +530,17 @@
     "name:tam_x_variant":[
         "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434 \u0443\u0442\u0440\u0430\u0443\u043b\u0430\u0440\u044b"
+    ],
     "name:tel_x_preferred":[
         "\u0c06\u0c32\u0c47\u0c02\u0c21\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
+    ],
+    "name:tel_x_variant":[
+        "\u0c06\u0c32\u0c02\u0c21\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434"
     ],
     "name:tha_x_preferred":[
         "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e42\u0e2d\u0e25\u0e31\u0e19\u0e14\u0e4c"
@@ -335,11 +566,53 @@
     "name:urd_x_preferred":[
         "\u0622\u0644\u06cc\u0646\u0688 \u0622\u0626\u0644\u06cc\u0646\u0688\u0632"
     ],
+    "name:urd_x_variant":[
+        "\u062c\u0632\u0627\u0626\u0631 \u0627\u06cc\u0644\u0627\u0646\u0688"
+    ],
+    "name:uzb_x_preferred":[
+        "Aland orollari"
+    ],
+    "name:vec_x_preferred":[
+        "Isole \u00c5land"
+    ],
+    "name:vep_x_preferred":[
+        "Alandan Sared"
+    ],
     "name:vie_x_preferred":[
         "Qu\u1ea7n \u0111\u1ea3o Aland"
     ],
+    "name:vie_x_variant":[
+        "\u00c5land"
+    ],
+    "name:vls_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:vro_x_preferred":[
+        "Ahunamaa"
+    ],
+    "name:war_x_preferred":[
+        "Kapuropud-an \u00c5land"
+    ],
+    "name:wol_x_preferred":[
+        "Dunu Aland"
+    ],
+    "name:xal_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0434\u0438\u043d \u0410\u0440\u043b\u0441"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10da\u10d0\u10dc\u10d3\u10d8\u10e8 \u10d9\u10dd\u10d9\u10d4\u10e4\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u5967\u862d\u7fa4\u5cf6"
+    ],
+    "name:zea_x_preferred":[
+        "\u00c5land"
+    ],
     "name:zho_x_preferred":[
         "\u5965\u5170\u7fa4\u5c9b"
+    ],
+    "name:zho_x_variant":[
+        "\u5965\u5170"
     ],
     "name:zul_x_preferred":[
         "i-\u00c5land Islands"
@@ -472,7 +745,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1536617536,
+    "wof:lastmodified":1563282669,
     "wof:name":"Aland",
     "wof:parent_id":136253047,
     "wof:placetype":"dependency",

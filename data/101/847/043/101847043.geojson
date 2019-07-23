@@ -16,6 +16,9 @@
     "mps:longitude":26.777134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "S\u00e4r\u00e4isniemi"
+    ],
     "name:eng_x_preferred":[
         "S\u00e4r\u00e4isniemi"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101847043,
-    "wof:lastmodified":1561830283,
+    "wof:lastmodified":1563283850,
     "wof:name":"S\u00e4r\u00e4isniemi",
     "wof:parent_id":907199621,
     "wof:placetype":"locality",

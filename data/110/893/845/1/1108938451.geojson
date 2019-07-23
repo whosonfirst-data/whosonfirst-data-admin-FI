@@ -21,6 +21,9 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":12.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Pit\u00e4j\u00e4nm\u00e4ki"
+    ],
     "name:eng_x_preferred":[
         "Pit\u00e4j\u00e4nm\u00e4ki"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108938451,
-    "wof:lastmodified":1561830256,
+    "wof:lastmodified":1563283472,
     "wof:name":"Pitajanmaki",
     "wof:parent_id":890537259,
     "wof:placetype":"neighbourhood",

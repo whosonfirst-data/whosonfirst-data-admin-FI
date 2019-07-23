@@ -16,6 +16,12 @@
     "mps:longitude":21.209008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "N\u00e4rpi\u00f6"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0435\u0440\u043f\u0435\u0441"
+    ],
     "name:ceb_x_preferred":[
         "N\u00e4rpes"
     ],
@@ -32,6 +38,9 @@
         "N\u00e4rpi\u00f6"
     ],
     "name:fra_x_preferred":[
+        "N\u00e4rpes"
+    ],
+    "name:glg_x_preferred":[
         "N\u00e4rpes"
     ],
     "name:hye_x_preferred":[
@@ -140,7 +149,7 @@
         }
     ],
     "wof:id":101814277,
-    "wof:lastmodified":1561830288,
+    "wof:lastmodified":1563283928,
     "wof:name":"N\u00e4mpn\u00e4s",
     "wof:parent_id":907199661,
     "wof:placetype":"locality",

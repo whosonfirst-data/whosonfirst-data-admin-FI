@@ -46,6 +46,9 @@
     "name:swe_x_preferred":[
         "Davidsstad"
     ],
+    "name:swe_x_variant":[
+        "Davidstad"
+    ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Etel\u00e4-Karjala#S\u00f6dra Karelen",
     "qs:a1r":"0Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101846863,
-    "wof:lastmodified":1561830277,
+    "wof:lastmodified":1563283766,
     "wof:name":"Taavetti",
     "wof:parent_id":907198953,
     "wof:placetype":"locality",

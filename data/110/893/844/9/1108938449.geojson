@@ -24,6 +24,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0435\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kaarela"
+    ],
     "name:deu_x_preferred":[
         "Kaarela"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108938449,
-    "wof:lastmodified":1561830257,
+    "wof:lastmodified":1563283474,
     "wof:name":"Kaarela",
     "wof:parent_id":890537241,
     "wof:placetype":"neighbourhood",

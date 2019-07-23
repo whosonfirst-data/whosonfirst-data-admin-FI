@@ -46,6 +46,9 @@
     "name:swe_x_preferred":[
         "Mejlans"
     ],
+    "name:swe_x_variant":[
+        "Taavinkyla"
+    ],
     "reversegeo:latitude":60.185865,
     "reversegeo:longitude":24.888859,
     "src:geom":"hkigis",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108727121,
-    "wof:lastmodified":1561830251,
+    "wof:lastmodified":1563283401,
     "wof:name":"Meilahti",
     "wof:parent_id":1108727373,
     "wof:placetype":"neighbourhood",

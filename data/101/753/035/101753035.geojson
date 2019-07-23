@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u064a\u0633\u064a\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Raisio"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0439\u0441\u0456\u0430"
+    ],
     "name:cat_x_preferred":[
         "Raisio"
     ],
@@ -48,6 +54,9 @@
         "Raisio"
     ],
     "name:fra_x_preferred":[
+        "Raisio"
+    ],
+    "name:glg_x_preferred":[
         "Raisio"
     ],
     "name:hbs_x_preferred":[
@@ -191,7 +200,7 @@
         }
     ],
     "wof:id":101753035,
-    "wof:lastmodified":1561830265,
+    "wof:lastmodified":1563283673,
     "wof:name":"Raisio",
     "wof:parent_id":907198957,
     "wof:placetype":"locality",

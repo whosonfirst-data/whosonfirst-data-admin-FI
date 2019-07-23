@@ -23,6 +23,9 @@
     "name:deu_x_preferred":[
         "Pokkinen"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03ba\u03ba\u03b9\u03bd\u03b5\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Pokkinen"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108729003,
-    "wof:lastmodified":1561830247,
+    "wof:lastmodified":1563283345,
     "wof:name":"Pokkinen",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

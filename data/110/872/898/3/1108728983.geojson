@@ -20,6 +20,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Vihre\u00e4saari"
+    ],
     "name:deu_x_preferred":[
         "Vihre\u00e4saari"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108728983,
-    "wof:lastmodified":1561830254,
+    "wof:lastmodified":1563283444,
     "wof:name":"Vihreasaari",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

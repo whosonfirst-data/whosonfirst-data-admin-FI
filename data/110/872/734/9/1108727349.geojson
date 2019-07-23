@@ -36,6 +36,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043b\u043e\u0445\u043e\u043b\u043c\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Paloholmen"
+    ],
     "name:deu_x_preferred":[
         "Kulosaari"
     ],
@@ -68,6 +71,12 @@
     ],
     "name:swe_x_preferred":[
         "Br\u00e4nd\u00f6"
+    ],
+    "name:swe_x_variant":[
+        "Vaarala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043b\u043e\u0441\u0430\u0430\u0440\u0456"
     ],
     "reversegeo:latitude":60.186131,
     "reversegeo:longitude":25.001711,
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1108727349,
-    "wof:lastmodified":1561830252,
+    "wof:lastmodified":1563283411,
     "wof:name":"Kulosaari",
     "wof:parent_id":890536883,
     "wof:placetype":"macrohood",

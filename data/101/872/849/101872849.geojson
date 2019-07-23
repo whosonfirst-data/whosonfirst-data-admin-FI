@@ -19,6 +19,12 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0442\u0443\u043b\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Karttula"
+    ],
+    "name:ceb_x_preferred":[
+        "Karttula"
+    ],
     "name:deu_x_preferred":[
         "Karttula"
     ],
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":101872849,
-    "wof:lastmodified":1561830268,
+    "wof:lastmodified":1563283696,
     "wof:name":"Syv\u00e4nniemi",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

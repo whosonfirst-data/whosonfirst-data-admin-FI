@@ -22,6 +22,9 @@
     "name:fin_x_preferred":[
         "Bj\u00f6rk\u00f6by"
     ],
+    "name:fra_x_preferred":[
+        "Bj\u00f6rk\u00f6by"
+    ],
     "name:nld_x_preferred":[
         "Bj\u00f6rk\u00f6by"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101846969,
-    "wof:lastmodified":1561830276,
+    "wof:lastmodified":1563283756,
     "wof:name":"Bj\u00f6rk\u00f6by",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

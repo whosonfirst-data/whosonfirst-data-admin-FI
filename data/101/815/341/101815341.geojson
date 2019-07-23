@@ -17,8 +17,14 @@
     "mps:longitude":21.979984,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Myn\u00e4m\u00e4ki"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u044e\u043d\u044f\u043c\u044f\u043a\u0456"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u044e\u043d\u044f\u043c\u044f\u043a\u0438"
     ],
     "name:ceb_x_preferred":[
         "Virmo"
@@ -32,10 +38,19 @@
     "name:eng_x_preferred":[
         "Myn\u00e4m\u00e4ki"
     ],
+    "name:epo_x_preferred":[
+        "Myn\u00e4m\u00e4ki"
+    ],
+    "name:est_x_preferred":[
+        "Myn\u00e4m\u00e4ki vald"
+    ],
     "name:fin_x_preferred":[
         "Myn\u00e4m\u00e4ki"
     ],
     "name:fra_x_preferred":[
+        "Myn\u00e4m\u00e4ki"
+    ],
+    "name:glg_x_preferred":[
         "Myn\u00e4m\u00e4ki"
     ],
     "name:hun_x_preferred":[
@@ -81,6 +96,9 @@
         "Myn\u00e4m\u00e4ki"
     ],
     "name:swe_x_preferred":[
+        "Myn\u00e4m\u00e4ki"
+    ],
+    "name:tur_x_preferred":[
         "Myn\u00e4m\u00e4ki"
     ],
     "name:unk_x_variant":[
@@ -143,7 +161,7 @@
         }
     ],
     "wof:id":101815341,
-    "wof:lastmodified":1561830279,
+    "wof:lastmodified":1563283803,
     "wof:name":"Myn\u00e4m\u00e4ki",
     "wof:parent_id":907198907,
     "wof:placetype":"locality",

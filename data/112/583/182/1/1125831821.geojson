@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0643\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Akaa"
+    ],
     "name:aze_x_preferred":[
         "\u0410kaa"
     ],
@@ -29,6 +32,9 @@
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043a\u0430\u0430"
     ],
     "name:cat_x_preferred":[
+        "Akaa"
+    ],
+    "name:ceb_x_preferred":[
         "Akaa"
     ],
     "name:ces_x_preferred":[
@@ -53,6 +59,9 @@
         "Akaa"
     ],
     "name:fra_x_preferred":[
+        "Akaa"
+    ],
+    "name:glg_x_preferred":[
         "Akaa"
     ],
     "name:hye_x_preferred":[
@@ -84,6 +93,9 @@
     ],
     "name:nob_x_preferred":[
         "Ackas"
+    ],
+    "name:nob_x_variant":[
+        "Akaa"
     ],
     "name:pms_x_preferred":[
         "Akaa"
@@ -121,6 +133,9 @@
     "name:swe_x_preferred":[
         "Ackas"
     ],
+    "name:swe_x_variant":[
+        "Akaa"
+    ],
     "name:tur_x_preferred":[
         "Akaa"
     ],
@@ -129,6 +144,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06a9\u0627"
+    ],
+    "name:vep_x_preferred":[
+        "Akaa"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5361"
@@ -178,7 +196,7 @@
         }
     ],
     "wof:id":1125831821,
-    "wof:lastmodified":1561830313,
+    "wof:lastmodified":1563284323,
     "wof:name":"Akaa",
     "wof:parent_id":907199731,
     "wof:placetype":"locality",

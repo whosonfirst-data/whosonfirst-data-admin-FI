@@ -68,6 +68,9 @@
     "name:zho_x_preferred":[
         "\u8607\u5967\u9580\u6d85\u7c73"
     ],
+    "name:zho_x_variant":[
+        "\u7d22\u9580\u6d85\u7c73"
+    ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Etel\u00e4-Karjala#S\u00f6dra Karelen",
     "qs:a1r":"0Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101846869,
-    "wof:lastmodified":1561830273,
+    "wof:lastmodified":1563283741,
     "wof:name":"Suomenniemi",
     "wof:parent_id":907198765,
     "wof:placetype":"locality",

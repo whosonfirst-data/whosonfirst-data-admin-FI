@@ -56,6 +56,9 @@
     "name:swe_x_preferred":[
         "Gr\u00e4sviken"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u043e\u0445\u043e\u043b\u0430\u0445\u0442\u0456"
+    ],
     "name:unk_x_variant":[
         "Ruoholahti"
     ],
@@ -141,7 +144,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830201,
+    "wof:lastmodified":1563282619,
     "wof:name":"Ruoholahti",
     "wof:parent_id":-3,
     "wof:placetype":"neighbourhood",

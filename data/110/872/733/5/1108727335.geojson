@@ -36,6 +36,9 @@
     "name:bul_x_preferred":[
         "\u0423\u043b\u0430\u043d\u043b\u0438\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Ullanlinna"
+    ],
     "name:deu_x_preferred":[
         "Ullanlinna"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:fra_x_preferred":[
         "Ullanlinna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30c3\u30e9\u30f3\u30ea\u30f3\u30ca"
     ],
     "name:pol_x_preferred":[
         "Ullanlinna"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108727335,
-    "wof:lastmodified":1561830252,
+    "wof:lastmodified":1563283413,
     "wof:name":"Ullanlinna",
     "wof:parent_id":890536879,
     "wof:placetype":"macrohood",

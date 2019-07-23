@@ -32,6 +32,9 @@
     "name:ces_x_preferred":[
         "Sammatti"
     ],
+    "name:dan_x_preferred":[
+        "Sammatti"
+    ],
     "name:deu_x_preferred":[
         "Sammatti"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:ita_x_preferred":[
         "Sammatti"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30de\u30c3\u30c6\u30a3"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10db\u10d0\u10e2\u10d8"
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":101846715,
-    "wof:lastmodified":1561830274,
+    "wof:lastmodified":1563283746,
     "wof:name":"Sammatti",
     "wof:parent_id":907198655,
     "wof:placetype":"locality",

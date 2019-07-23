@@ -26,6 +26,9 @@
     "name:fin_x_preferred":[
         "Jussinkyl\u00e4"
     ],
+    "name:fin_x_variant":[
+        "Juhannuskyl\u00e4"
+    ],
     "name:fra_x_preferred":[
         "Jussinkyl\u00e4"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108728453,
-    "wof:lastmodified":1561830249,
+    "wof:lastmodified":1563283363,
     "wof:name":"Jussinkyla",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

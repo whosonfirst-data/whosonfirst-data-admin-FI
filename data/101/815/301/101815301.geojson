@@ -17,8 +17,14 @@
     "mps:longitude":23.528632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041f\u043e\u0445'\u044f"
+    ],
     "name:ceb_x_preferred":[
         "Pohja"
+    ],
+    "name:dan_x_preferred":[
+        "Pojo"
     ],
     "name:deu_x_preferred":[
         "Pohja"
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":101815301,
-    "wof:lastmodified":1561830278,
+    "wof:lastmodified":1563283778,
     "wof:name":"Pohja",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

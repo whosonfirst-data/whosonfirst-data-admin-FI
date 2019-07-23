@@ -17,6 +17,12 @@
     "mps:longitude":24.358524,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Orivesi"
+    ],
+    "name:bel_x_preferred":[
+        "\u041e\u0440\u044b\u0432\u0435\u0441\u0456"
+    ],
     "name:ceb_x_preferred":[
         "Orivesi"
     ],
@@ -32,10 +38,16 @@
     "name:est_x_preferred":[
         "Orivesi linn"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u06cc\u0648\u0633\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Orivesi"
     ],
     "name:fra_x_preferred":[
+        "Orivesi"
+    ],
+    "name:glg_x_preferred":[
         "Orivesi"
     ],
     "name:hbs_x_preferred":[
@@ -43,6 +55,9 @@
     ],
     "name:ita_x_preferred":[
         "Orivesi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30ea\u30f4\u30a7\u30b7"
     ],
     "name:mrj_x_preferred":[
         "\u041e\u0440\u0438\u0432\u0435\u0441\u0438"
@@ -153,7 +168,7 @@
         }
     ],
     "wof:id":101814001,
-    "wof:lastmodified":1561830286,
+    "wof:lastmodified":1563283898,
     "wof:name":"Orivesi",
     "wof:parent_id":907199393,
     "wof:placetype":"locality",

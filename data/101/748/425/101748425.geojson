@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0647\u062a\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Lahti"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u0430\u0445\u0442\u0438"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0430\u0445\u0442\u044b"
     ],
@@ -114,6 +120,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053c\u0561\u0570\u0569\u056b"
+    ],
+    "name:ido_x_preferred":[
+        "Lahti"
     ],
     "name:ile_x_preferred":[
         "Lahti"
@@ -241,6 +250,9 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bbe\u0b9f\u0bbf"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u04bb\u0442\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c39\u0c4d\u0c24\u0c3f"
     ],
@@ -252,6 +264,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0445\u0442\u0456"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0430\u0433\u0442\u0456"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u06c1\u062a\u06cc"
@@ -422,7 +437,7 @@
         }
     ],
     "wof:id":101748425,
-    "wof:lastmodified":1561830269,
+    "wof:lastmodified":1563283704,
     "wof:name":"Lahti",
     "wof:parent_id":907198647,
     "wof:placetype":"locality",

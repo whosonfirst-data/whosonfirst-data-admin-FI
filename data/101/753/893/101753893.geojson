@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0633\u0648\u0644\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Tuusula"
+    ],
+    "name:bak_x_preferred":[
+        "\u0422\u0443\u0443\u0441\u0443\u043b\u0430"
+    ],
     "name:bel_x_preferred":[
         "\u0422\u0443\u0443\u0441\u0443\u043b\u0430"
     ],
@@ -56,8 +62,14 @@
     "name:gle_x_preferred":[
         "Tuusula"
     ],
+    "name:glg_x_preferred":[
+        "Tuusula"
+    ],
     "name:hbs_x_preferred":[
         "Tuusula"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e1\u05d5\u05dc\u05d4"
     ],
     "name:ind_x_preferred":[
         "Tuusula"
@@ -186,7 +198,7 @@
         }
     ],
     "wof:id":101753893,
-    "wof:lastmodified":1561830265,
+    "wof:lastmodified":1563283670,
     "wof:name":"Tuusula",
     "wof:parent_id":907198631,
     "wof:placetype":"locality",

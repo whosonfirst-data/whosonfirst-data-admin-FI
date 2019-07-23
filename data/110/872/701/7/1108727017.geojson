@@ -40,6 +40,9 @@
     "name:swe_x_preferred":[
         "Busholmen"
     ],
+    "name:swe_x_variant":[
+        "Korso"
+    ],
     "name:tur_x_preferred":[
         "J\u00e4tk\u00e4saari"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108727017,
-    "wof:lastmodified":1561830248,
+    "wof:lastmodified":1563283347,
     "wof:name":"Jatkasaari",
     "wof:parent_id":-3,
     "wof:placetype":"neighbourhood",

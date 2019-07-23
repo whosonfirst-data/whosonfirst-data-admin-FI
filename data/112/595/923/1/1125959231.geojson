@@ -19,14 +19,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "H\u00e4meenkyr\u00f6"
+    ],
     "name:bel_x_preferred":[
         "\u0425\u044f\u043c\u0435\u044d\u043d\u043a\u044e\u0440\u044d"
+    ],
+    "name:ceb_x_preferred":[
+        "H\u00e4meenkyr\u00f6"
     ],
     "name:ces_x_preferred":[
         "H\u00e4meenkyr\u00f6"
     ],
+    "name:dan_x_preferred":[
+        "H\u00e4meenkyr\u00f6"
+    ],
     "name:deu_x_preferred":[
         "H\u00e4meenkyr\u00f6"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03bc\u03b5\u03bd\u03ba\u03b9\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "H\u00e4meenkyr\u00f6"
@@ -42,6 +54,12 @@
     ],
     "name:gla_x_preferred":[
         "H\u00e4meenkyr\u00f6"
+    ],
+    "name:glg_x_preferred":[
+        "H\u00e4meenkyr\u00f6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05de\u05e0\u05e7\u05d9\u05e8\u05d9\u05d5"
     ],
     "name:ita_x_preferred":[
         "H\u00e4meenkyr\u00f6"
@@ -84,6 +102,12 @@
     ],
     "name:swe_x_variant":[
         "Tavastkyro"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u04d9\u043c\u0435\u044d\u043d\u043a\u04af\u0440\u04e9"
+    ],
+    "name:tur_x_preferred":[
+        "H\u00e4meenkyr\u00f6"
     ],
     "name:vie_x_preferred":[
         "H\u00e4meenkyr\u00f6"
@@ -136,7 +160,7 @@
         }
     ],
     "wof:id":1125959231,
-    "wof:lastmodified":1561830303,
+    "wof:lastmodified":1563284097,
     "wof:name":"H\u00e4meenkyr\u00f6",
     "wof:parent_id":907199131,
     "wof:placetype":"locality",

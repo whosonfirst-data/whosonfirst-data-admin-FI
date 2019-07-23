@@ -18,14 +18,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:afr_x_preferred":[
+        "Oulu"
+    ],
     "name:aka_x_preferred":[
         "Oulu"
     ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Oulu"
+    ],
+    "name:bak_x_preferred":[
+        "\u041e\u0443\u043b\u0443 \u04a1\u0430\u043b\u0430\u04bb\u044b"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041e\u045e\u043b\u0443"
+    ],
+    "name:bel_x_variant":[
+        "\u041e\u045e\u043b\u0443"
     ],
     "name:ben_x_preferred":[
         "\u0986\u0989\u09b2\u09c1"
@@ -40,6 +52,9 @@
         "\u041e\u0443\u043b\u0443"
     ],
     "name:cat_x_preferred":[
+        "Oulu"
+    ],
+    "name:ceb_x_preferred":[
         "Oulu"
     ],
     "name:ces_x_preferred":[
@@ -72,6 +87,9 @@
     "name:epo_x_preferred":[
         "O\u016dlo"
     ],
+    "name:epo_x_variant":[
+        "Oulu"
+    ],
     "name:est_x_preferred":[
         "Oulu linn"
     ],
@@ -80,6 +98,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0644\u0648\u060c \u0641\u0646\u0644\u0627\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0644\u0648"
     ],
     "name:fin_x_preferred":[
         "Oulu"
@@ -113,6 +134,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0555\u0578\u0582\u056c\u0578\u0582"
+    ],
+    "name:ido_x_preferred":[
+        "Oulu"
     ],
     "name:ind_x_preferred":[
         "Oulu"
@@ -234,6 +258,12 @@
     "name:sme_x_preferred":[
         "Oulu"
     ],
+    "name:smn_x_preferred":[
+        "Oulu"
+    ],
+    "name:sms_x_preferred":[
+        "Oulu"
+    ],
     "name:sot_x_preferred":[
         "Oulu"
     ],
@@ -254,6 +284,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bb5\u0bcb\u0bb2\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0443\u043b\u0443"
     ],
     "name:tel_x_preferred":[
         "\u0c14\u0c32\u0c41"
@@ -445,7 +478,7 @@
         }
     ],
     "wof:id":101748443,
-    "wof:lastmodified":1561830270,
+    "wof:lastmodified":1563283720,
     "wof:name":"Oulu",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

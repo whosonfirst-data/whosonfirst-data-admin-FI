@@ -24,8 +24,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u064a\u0644\u064a\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Carelia del Norte"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09c7\u09b2\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bos_x_preferred":[
+        "Sjeverna Karelija"
     ],
     "name:cat_x_preferred":[
         "Car\u00e8lia Septentrional"
@@ -44,6 +50,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03bf\u03c1\u03b8 \u039a\u03b1\u03c1\u03ad\u03bb\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u039a\u03b1\u03c1\u03b5\u03bb\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "North Karelen"
@@ -146,6 +155,9 @@
     "name:nno_x_preferred":[
         "Norra Karelen"
     ],
+    "name:nno_x_variant":[
+        "Pohjois-Karjala"
+    ],
     "name:nob_x_preferred":[
         "Norra Karelen"
     ],
@@ -187,6 +199,9 @@
     ],
     "name:spa_x_preferred":[
         "Karelia del Norte"
+    ],
+    "name:spa_x_variant":[
+        "Carelia del Norte"
     ],
     "name:sqi_x_preferred":[
         "Karelia Veriore"
@@ -335,7 +350,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1561830204,
+    "wof:lastmodified":1563282632,
     "wof:name":"North Karelen",
     "wof:parent_id":404227407,
     "wof:placetype":"region",

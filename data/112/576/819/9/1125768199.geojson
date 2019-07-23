@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Nellim\u00f6"
     ],
+    "name:eng_x_variant":[
+        "Nellim"
+    ],
     "name:eus_x_preferred":[
         "Nellim"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u043b\u043b\u0438\u043c\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u0435\u043b\u043b\u0438\u043c"
     ],
     "name:sme_x_preferred":[
         "Nellim"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1125768199,
-    "wof:lastmodified":1561830312,
+    "wof:lastmodified":1563284275,
     "wof:name":"Nellim",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

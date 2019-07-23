@@ -17,8 +17,20 @@
     "mps:longitude":22.689476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Huittinen"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0443\u0439\u0442\u044b\u043d\u0435\u043d"
+    ],
     "name:cat_x_preferred":[
         "Salo"
+    ],
+    "name:cat_x_variant":[
+        "Huittinen"
+    ],
+    "name:ceb_x_preferred":[
+        "Huittinen"
     ],
     "name:ces_x_preferred":[
         "Huittinen"
@@ -42,6 +54,9 @@
         "Huittinen"
     ],
     "name:fra_x_preferred":[
+        "Huittinen"
+    ],
+    "name:glg_x_preferred":[
         "Huittinen"
     ],
     "name:hbs_x_preferred":[
@@ -173,7 +188,7 @@
         }
     ],
     "wof:id":101815463,
-    "wof:lastmodified":1561830279,
+    "wof:lastmodified":1563283793,
     "wof:name":"Huittinen",
     "wof:parent_id":907198933,
     "wof:placetype":"locality",

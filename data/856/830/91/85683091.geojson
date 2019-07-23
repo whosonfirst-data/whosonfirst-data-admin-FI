@@ -24,11 +24,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0627\u062a \u0647\u0627\u0645\u064a"
     ],
+    "name:ast_x_preferred":[
+        "P\u00e4ij\u00e4nne Tavastia"
+    ],
+    "name:aze_x_preferred":[
+        "Pyayat-Hame"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u044f\u044f\u0442-\u0425\u044f\u043c\u044d"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0987\u099c\u09be\u09a8 \u09a4\u09be\u09ad\u09be\u09b8\u09cd\u09a4\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bos_x_preferred":[
+        "P\u00e4ij\u00e4nne Tavastija"
     ],
     "name:cat_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
@@ -54,8 +63,14 @@
     "name:eng_x_preferred":[
         "Paijanne Tavastia"
     ],
+    "name:eng_x_variant":[
+        "P\u00e4ij\u00e4nne Tavastia"
+    ],
     "name:epo_x_preferred":[
         "P\u00e4ij\u00e4nne-Tavastio"
+    ],
+    "name:epo_x_variant":[
+        "P\u00e4ij\u00e4t-H\u00e4me"
     ],
     "name:est_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
@@ -69,7 +84,13 @@
     "name:fin_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
     ],
+    "name:fin_x_variant":[
+        "P\u00e4ij\u00e4t-H\u00e4meen maakunta"
+    ],
     "name:fra_x_preferred":[
+        "P\u00e4ij\u00e4t-H\u00e4me"
+    ],
+    "name:gle_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
     ],
     "name:glg_x_preferred":[
@@ -83,6 +104,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092a\u0947\u092f\u0947\u0928 \u0924\u0935\u093e\u0938\u094d\u0924\u093f\u092f\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0575\u0561\u0575\u0561\u057f-\u0540\u0575\u0561\u0574\u0565"
     ],
     "name:ind_x_preferred":[
         "P\u00e4ij\u00e4nne Tavastia"
@@ -241,7 +265,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1561830218,
+    "wof:lastmodified":1563282662,
     "wof:name":"Paijanne Tavastia",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

@@ -27,11 +27,20 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u064a\u0645\u0627"
     ],
+    "name:arg_x_preferred":[
+        "Uusimaa"
+    ],
+    "name:ast_x_preferred":[
+        "Uusimaa"
+    ],
     "name:bel_x_preferred":[
         "\u0423\u0441\u0456\u043c\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0989\u09b8\u09bf\u09ae\u09cd\u09af\u09be"
+    ],
+    "name:bos_x_preferred":[
+        "Uusimaa"
     ],
     "name:bul_x_preferred":[
         "\u0423\u0443\u0441\u0438\u043c\u0430\u0430"
@@ -56,6 +65,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03bf\u03c5\u03c3\u03af\u03bc\u03b1\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c5\u03bf\u03cd\u03c3\u03b9\u03bc\u03b1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Uusimaa"
@@ -113,6 +125,9 @@
     ],
     "name:hun_x_preferred":[
         "Nyland tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0578\u0582\u057d\u056b\u0574\u0561\u0561"
     ],
     "name:ind_x_preferred":[
         "Uusimaa"
@@ -354,7 +369,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1561830216,
+    "wof:lastmodified":1563282657,
     "wof:name":"Uusimaa",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

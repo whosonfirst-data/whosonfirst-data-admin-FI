@@ -17,6 +17,9 @@
     "mps:longitude":24.671345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Lestij\u00e4rvi"
+    ],
     "name:ceb_x_preferred":[
         "Lestij\u00e4rvi"
     ],
@@ -36,6 +39,9 @@
         "Lestij\u00e4rvi"
     ],
     "name:fra_x_preferred":[
+        "Lestij\u00e4rvi"
+    ],
+    "name:glg_x_preferred":[
         "Lestij\u00e4rvi"
     ],
     "name:ita_x_preferred":[
@@ -66,6 +72,9 @@
         "Lestij\u00e4rvi"
     ],
     "name:swe_x_preferred":[
+        "Lestij\u00e4rvi"
+    ],
+    "name:tur_x_preferred":[
         "Lestij\u00e4rvi"
     ],
     "name:zho_x_preferred":[
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":101846975,
-    "wof:lastmodified":1561830277,
+    "wof:lastmodified":1563283775,
     "wof:name":"Lestij\u00e4rvi",
     "wof:parent_id":907199175,
     "wof:placetype":"locality",

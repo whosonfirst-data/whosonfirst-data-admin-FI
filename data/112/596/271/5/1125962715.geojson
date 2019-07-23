@@ -33,6 +33,9 @@
     "name:fra_x_preferred":[
         "Kymi"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e5\u30df"
+    ],
     "name:nob_x_preferred":[
         "Kymmene"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125962715,
-    "wof:lastmodified":1561830310,
+    "wof:lastmodified":1563284217,
     "wof:name":"Kymi",
     "wof:parent_id":907198683,
     "wof:placetype":"locality",

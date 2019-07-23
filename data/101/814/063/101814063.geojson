@@ -21,6 +21,15 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0641\u0648\u0646\u0644\u064a\u0646\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Savonlinna"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u0430\u0432\u043e\u043d\u043b\u0438\u043d\u043d\u0430"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0432\u0430\u043d\u043b\u0456\u043d\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u0432\u043e\u043d\u043b\u0438\u043d\u0430"
     ],
@@ -35,6 +44,9 @@
     ],
     "name:dan_x_preferred":[
         "Nyslott"
+    ],
+    "name:dan_x_variant":[
+        "Savonlinna"
     ],
     "name:deu_x_preferred":[
         "Savonlinna"
@@ -58,6 +70,9 @@
         "Savonlinna"
     ],
     "name:fra_x_preferred":[
+        "Savonlinna"
+    ],
+    "name:glg_x_preferred":[
         "Savonlinna"
     ],
     "name:hbs_x_preferred":[
@@ -118,6 +133,12 @@
         "Savonlinna"
     ],
     "name:sme_x_preferred":[
+        "Savonlinna"
+    ],
+    "name:smn_x_preferred":[
+        "Savonlinna"
+    ],
+    "name:sms_x_preferred":[
         "Savonlinna"
     ],
     "name:spa_x_preferred":[
@@ -294,7 +315,7 @@
         }
     ],
     "wof:id":101814063,
-    "wof:lastmodified":1561830286,
+    "wof:lastmodified":1563283896,
     "wof:name":"Savonlinna",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

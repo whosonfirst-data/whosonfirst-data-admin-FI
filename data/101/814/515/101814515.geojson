@@ -17,8 +17,17 @@
     "mps:longitude":28.666413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Salla"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u0430\u043b\u043b\u0430"
+    ],
     "name:cat_x_preferred":[
         "Sal\u00b7la"
+    ],
+    "name:cat_x_variant":[
+        "Salla"
     ],
     "name:ceb_x_preferred":[
         "Salla"
@@ -86,6 +95,9 @@
     "name:pol_x_preferred":[
         "Salla"
     ],
+    "name:por_x_preferred":[
+        "Salla"
+    ],
     "name:ron_x_preferred":[
         "Salla"
     ],
@@ -102,6 +114,9 @@
         "Salla"
     ],
     "name:swe_x_preferred":[
+        "Salla"
+    ],
+    "name:tur_x_preferred":[
         "Salla"
     ],
     "name:vie_x_preferred":[
@@ -162,7 +177,7 @@
         }
     ],
     "wof:id":101814515,
-    "wof:lastmodified":1561830290,
+    "wof:lastmodified":1563283966,
     "wof:name":"Salla",
     "wof:parent_id":907199555,
     "wof:placetype":"locality",

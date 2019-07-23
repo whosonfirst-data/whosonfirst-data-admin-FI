@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Lepp\u00e4vesi"
     ],
+    "name:deu_x_preferred":[
+        "Lepp\u00e4vesi"
+    ],
     "name:eng_x_preferred":[
         "Lepp\u00e4vesi"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101872833,
-    "wof:lastmodified":1544751347,
+    "wof:lastmodified":1563283692,
     "wof:name":"Lepp\u00e4vesi",
     "wof:parent_id":907199203,
     "wof:placetype":"locality",

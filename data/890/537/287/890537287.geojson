@@ -60,6 +60,12 @@
     "name:swe_x_preferred":[
         "Botby"
     ],
+    "name:swe_x_variant":[
+        "Haga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0440\u0442\u0456\u043e\u043a\u044e\u043b\u044f"
+    ],
     "reversegeo:latitude":60.210905,
     "reversegeo:longitude":25.095077,
     "src:geom":"hkigis",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":890537287,
-    "wof:lastmodified":1561830296,
+    "wof:lastmodified":1563284057,
     "wof:name":"Vartiokyla",
     "wof:parent_id":890536881,
     "wof:placetype":"macrohood",

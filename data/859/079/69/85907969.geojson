@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Pohjois-Haaga"
     ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30db\u30e8\u30a4\u30b9\uff1d\u30cf\u30fc\u30ac"
+    ],
     "name:swe_x_preferred":[
         "Norra Haga"
     ],
@@ -122,7 +125,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830200,
+    "wof:lastmodified":1563282614,
     "wof:name":"Pohjois-Haaga",
     "wof:parent_id":890537273,
     "wof:placetype":"neighbourhood",

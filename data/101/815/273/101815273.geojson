@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0647\u062a\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Vihti"
+    ],
+    "name:ceb_x_preferred":[
+        "Vihti"
+    ],
     "name:ces_x_preferred":[
         "Vihti"
     ],
@@ -39,6 +45,9 @@
         "Vihti"
     ],
     "name:fra_x_preferred":[
+        "Vihti"
+    ],
+    "name:glg_x_preferred":[
         "Vihti"
     ],
     "name:ita_x_preferred":[
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":101815273,
-    "wof:lastmodified":1561830278,
+    "wof:lastmodified":1563283784,
     "wof:name":"Vihti",
     "wof:parent_id":907198595,
     "wof:placetype":"locality",

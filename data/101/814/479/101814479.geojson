@@ -16,6 +16,12 @@
     "mps:longitude":25.971174,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Pyh\u00e4j\u00e4rvi"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u044e\u0445\u044f\u044f\u0440\u0432\u0456"
+    ],
     "name:ceb_x_preferred":[
         "Pyh\u00e4j\u00e4rvi"
     ],
@@ -40,10 +46,16 @@
     "name:est_x_preferred":[
         "Pyh\u00e4j\u00e4rvi linn"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0647\u0627\u06cc\u0627\u0631\u0648\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Pyh\u00e4j\u00e4rvi"
     ],
     "name:fra_x_preferred":[
+        "Pyh\u00e4j\u00e4rvi"
+    ],
+    "name:glg_x_preferred":[
         "Pyh\u00e4j\u00e4rvi"
     ],
     "name:ita_x_preferred":[
@@ -149,7 +161,7 @@
         }
     ],
     "wof:id":101814479,
-    "wof:lastmodified":1561830285,
+    "wof:lastmodified":1563283880,
     "wof:name":"Pyh\u00e4salmi",
     "wof:parent_id":907199151,
     "wof:placetype":"locality",

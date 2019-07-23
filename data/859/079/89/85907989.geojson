@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000196,
-    "geom:area_square_m":1205577.037992,
+    "geom:area_square_m":1205577.037993,
     "geom:bbox":"24.9528812456,60.2210006642,24.9898382345,60.2342422602",
     "geom:latitude":60.226936,
     "geom:longitude":24.974552,
@@ -37,6 +37,9 @@
     "name:dan_x_preferred":[
         "Grindbacka"
     ],
+    "name:eng_x_preferred":[
+        "Ver\u00e4j\u00e4m\u00e4ki"
+    ],
     "name:fin_x_colloquial":[
         "Verajamaki"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:isl_x_preferred":[
         "Grindbacka"
+    ],
+    "name:nld_x_preferred":[
+        "Ver\u00e4j\u00e4m\u00e4ki"
     ],
     "name:nor_x_preferred":[
         "Grindbacka"
@@ -92,7 +98,6 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":28,
     "wof:belongsto":[
-        85683067,
         102191581,
         890537237,
         907199715,
@@ -101,7 +106,8 @@
         101748417,
         136253047,
         890536895,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,7 +140,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529714762,
+    "wof:lastmodified":1563282615,
     "wof:name":"Verajamaki",
     "wof:parent_id":890537237,
     "wof:placetype":"neighbourhood",

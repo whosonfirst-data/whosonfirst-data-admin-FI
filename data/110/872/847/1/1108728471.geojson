@@ -20,6 +20,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Finlayson"
+    ],
     "name:eng_x_preferred":[
         "Finlayson"
     ],
@@ -27,6 +30,9 @@
         "Finlayson"
     ],
     "name:fra_x_preferred":[
+        "Finlayson"
+    ],
+    "name:swe_x_preferred":[
         "Finlayson"
     ],
     "reversegeo:latitude":61.502972,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108728471,
-    "wof:lastmodified":1561830253,
+    "wof:lastmodified":1563283436,
     "wof:name":"Finlayson",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

@@ -40,6 +40,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u0432\u043e\u043b\u0430"
     ],
+    "name:sme_x_preferred":[
+        "Paavola"
+    ],
     "name:swe_x_preferred":[
         "Paavola"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101814433,
-    "wof:lastmodified":1561830289,
+    "wof:lastmodified":1563283949,
     "wof:name":"Paavola",
     "wof:parent_id":907199705,
     "wof:placetype":"locality",

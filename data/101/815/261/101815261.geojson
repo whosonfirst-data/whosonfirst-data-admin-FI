@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u0645\u064a\u0627\u0631\u0641\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Nurmij\u00e4rvi"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0443\u0440\u043c\u0456\u044f\u0440\u0432\u0456"
+    ],
+    "name:cat_x_preferred":[
+        "Nurmij\u00e4rvi"
+    ],
     "name:ceb_x_preferred":[
         "Nurmij\u00e4rvi"
     ],
@@ -45,6 +54,9 @@
         "Nurmij\u00e4rvi"
     ],
     "name:fra_x_preferred":[
+        "Nurmij\u00e4rvi"
+    ],
+    "name:glg_x_preferred":[
         "Nurmij\u00e4rvi"
     ],
     "name:ita_x_preferred":[
@@ -77,6 +89,9 @@
     "name:pol_x_preferred":[
         "Nurmij\u00e4rvi"
     ],
+    "name:por_x_preferred":[
+        "Nurmij\u00e4rvi"
+    ],
     "name:ron_x_preferred":[
         "Nurmij\u00e4rvi"
     ],
@@ -103,6 +118,9 @@
     ],
     "name:tur_x_preferred":[
         "Nurmij\u00e4rvi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u0440\u043c\u0456\u044f\u0440\u0432\u0456"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0631\u0645\u06cc\u0627\u0648\u06cc"
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":101815261,
-    "wof:lastmodified":1561830279,
+    "wof:lastmodified":1563283792,
     "wof:name":"Nurmij\u00e4rvi",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

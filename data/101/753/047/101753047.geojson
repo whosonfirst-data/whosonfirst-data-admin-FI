@@ -20,14 +20,26 @@
     "name:ara_x_preferred":[
         "\u0643\u0646\u0627\u0633\u0623\u0644\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Kangasala"
+    ],
+    "name:cat_x_preferred":[
+        "Kangasala"
+    ],
     "name:ceb_x_preferred":[
         "Kangasala"
     ],
     "name:ces_x_preferred":[
         "Kangasala"
     ],
+    "name:dan_x_preferred":[
+        "Kangasala"
+    ],
     "name:deu_x_preferred":[
         "Kangasala"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bd\u03b3\u03ba\u03b1\u03c3\u03b1\u03bb\u03ac"
     ],
     "name:eng_x_preferred":[
         "Kangasala"
@@ -39,6 +51,9 @@
         "Kangasala"
     ],
     "name:fra_x_preferred":[
+        "Kangasala"
+    ],
+    "name:glg_x_preferred":[
         "Kangasala"
     ],
     "name:hbs_x_preferred":[
@@ -93,6 +108,9 @@
         "\u041a\u0430\u043d\u0433\u0430\u0441\u0430\u043b\u0430"
     ],
     "name:swe_x_preferred":[
+        "Kangasala"
+    ],
+    "name:tur_x_preferred":[
         "Kangasala"
     ],
     "name:zho_x_preferred":[
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":101753047,
-    "wof:lastmodified":1561830265,
+    "wof:lastmodified":1563283668,
     "wof:name":"Kangasala",
     "wof:parent_id":907199185,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Lauttasaari"
     ],
+    "name:ceb_x_preferred":[
+        "Lauttasaari"
+    ],
     "name:deu_x_preferred":[
         "Lauttasaari"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108938473,
-    "wof:lastmodified":1561830257,
+    "wof:lastmodified":1563283477,
     "wof:name":"Lauttasaari",
     "wof:parent_id":890537261,
     "wof:placetype":"neighbourhood",

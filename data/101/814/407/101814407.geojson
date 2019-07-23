@@ -41,6 +41,9 @@
     "name:nld_x_preferred":[
         "Kuivaniemi"
     ],
+    "name:nob_x_preferred":[
+        "Kuivaniemi"
+    ],
     "name:nor_x_preferred":[
         "Kuivaniemi"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101814407,
-    "wof:lastmodified":1529709422,
+    "wof:lastmodified":1563283895,
     "wof:name":"Kuivaniemi",
     "wof:parent_id":907199699,
     "wof:placetype":"locality",

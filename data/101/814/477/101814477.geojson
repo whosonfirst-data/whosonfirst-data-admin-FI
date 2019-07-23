@@ -17,6 +17,12 @@
     "mps:longitude":25.327518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Haapaj\u00e4rvi"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0430\u043f\u0430\u044f\u0440\u0432\u0456"
+    ],
     "name:ceb_x_preferred":[
         "Haapaj\u00e4rvi"
     ],
@@ -41,10 +47,16 @@
     "name:est_x_preferred":[
         "Haapaj\u00e4rvi linn"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u067e\u0627\u06cc\u0627\u0631\u0648\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Haapaj\u00e4rvi"
     ],
     "name:fra_x_preferred":[
+        "Haapaj\u00e4rvi"
+    ],
+    "name:glg_x_preferred":[
         "Haapaj\u00e4rvi"
     ],
     "name:ita_x_preferred":[
@@ -71,6 +83,9 @@
     "name:rus_x_preferred":[
         "\u0425\u0430\u043f\u0430\u044f\u0440\u0432\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u0430\u0430\u043f\u0430\u044f\u0440\u0432\u0438"
+    ],
     "name:slk_x_preferred":[
         "Haapaj\u00e4rvi"
     ],
@@ -88,6 +103,9 @@
     ],
     "name:swe_x_preferred":[
         "Aspsj\u00f6"
+    ],
+    "name:swe_x_variant":[
+        "Haapaj\u00e4rvi"
     ],
     "name:tur_x_preferred":[
         "Haapaj\u00e4rvi"
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":101814477,
-    "wof:lastmodified":1561830285,
+    "wof:lastmodified":1563283878,
     "wof:name":"Haapaj\u00e4rvi",
     "wof:parent_id":907199639,
     "wof:placetype":"locality",

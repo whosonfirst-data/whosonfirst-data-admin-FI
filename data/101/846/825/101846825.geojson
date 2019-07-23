@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Reposaari"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30dd\u30b5\u30fc\u30ea\u5cf6"
+    ],
     "name:nld_x_preferred":[
         "Reposaari"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101846825,
-    "wof:lastmodified":1561830276,
+    "wof:lastmodified":1563283762,
     "wof:name":"Reposaari",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

@@ -39,6 +39,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Pit\u00e4j\u00e4nm\u00e4ki"
+    ],
     "name:eng_x_preferred":[
         "Pit\u00e4j\u00e4nm\u00e4ki"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890537259,
-    "wof:lastmodified":1561830296,
+    "wof:lastmodified":1563284059,
     "wof:name":"Pitajanmaki",
     "wof:parent_id":890536889,
     "wof:placetype":"macrohood",

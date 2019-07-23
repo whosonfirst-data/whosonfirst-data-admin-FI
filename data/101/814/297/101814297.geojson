@@ -17,7 +17,16 @@
     "mps:longitude":23.795037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Veteli"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u0442\u044d\u043b\u0456"
+    ],
     "name:ceb_x_preferred":[
+        "Veteli"
+    ],
+    "name:dan_x_preferred":[
         "Veteli"
     ],
     "name:deu_x_preferred":[
@@ -36,6 +45,9 @@
         "Veteli"
     ],
     "name:fra_x_preferred":[
+        "Veteli"
+    ],
+    "name:glg_x_preferred":[
         "Veteli"
     ],
     "name:heb_x_preferred":[
@@ -79,6 +91,12 @@
     ],
     "name:swe_x_preferred":[
         "Vetil"
+    ],
+    "name:tur_x_preferred":[
+        "Veteli"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0442\u0435\u043b\u0456"
     ],
     "name:zho_x_preferred":[
         "\u97cb\u6cf0\u5229"
@@ -134,7 +152,7 @@
         }
     ],
     "wof:id":101814297,
-    "wof:lastmodified":1561830290,
+    "wof:lastmodified":1563283953,
     "wof:name":"Veteli",
     "wof:parent_id":907199293,
     "wof:placetype":"locality",

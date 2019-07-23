@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0432\u043e\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kalvola"
+    ],
     "name:deu_x_preferred":[
         "Kalvola"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1126012341,
-    "wof:lastmodified":1561830311,
+    "wof:lastmodified":1563284250,
     "wof:name":"Kalvola",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

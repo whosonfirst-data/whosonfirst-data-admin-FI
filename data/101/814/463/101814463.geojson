@@ -17,6 +17,12 @@
     "mps:longitude":24.542889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Ylivieska"
+    ],
+    "name:bel_x_preferred":[
+        "\u042e\u043b\u0456\u0432\u0456\u0435\u0441\u043a\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Ylivieska"
     ],
@@ -47,10 +53,16 @@
     "name:est_x_variant":[
         "Ylivieska"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0648\u06cc\u0633\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ylivieska"
     ],
     "name:fra_x_preferred":[
+        "Ylivieska"
+    ],
+    "name:glg_x_preferred":[
         "Ylivieska"
     ],
     "name:hbs_x_preferred":[
@@ -61,6 +73,9 @@
     ],
     "name:ita_x_preferred":[
         "Ylivieska"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e6\u30ea\u30f4\u30a3\u30a8\u30b9\u30ab"
     ],
     "name:kor_x_preferred":[
         "\uc70c\ub9ac\ube44\uc5d0\uc2a4\uce74"
@@ -182,7 +197,7 @@
         }
     ],
     "wof:id":101814463,
-    "wof:lastmodified":1561830285,
+    "wof:lastmodified":1563283889,
     "wof:name":"Ylivieska",
     "wof:parent_id":907199437,
     "wof:placetype":"locality",

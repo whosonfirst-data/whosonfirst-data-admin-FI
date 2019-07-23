@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000226,
-    "geom:area_square_m":1372200.426886,
+    "geom:area_square_m":1372200.426885,
     "geom:bbox":"26.4508478475,60.5176695628,26.4884590247,60.5302047793",
     "geom:latitude":60.52474,
     "geom:longitude":26.466909,
@@ -47,8 +47,17 @@
     "name:nld_x_preferred":[
         "Ruotsinpyht\u00e4\u00e4"
     ],
+    "name:nob_x_preferred":[
+        "Str\u00f6mfors"
+    ],
     "name:nor_x_preferred":[
         "Str\u00f6mfors"
+    ],
+    "name:ron_x_preferred":[
+        "Ruotsinpyht\u00e4\u00e4"
+    ],
+    "name:sme_x_preferred":[
+        "Ruotsinpyht\u00e4\u00e4"
     ],
     "name:spa_x_preferred":[
         "Ruotsinpyht\u00e4\u00e4"
@@ -56,8 +65,14 @@
     "name:swe_x_preferred":[
         "Str\u00f6mfors"
     ],
+    "name:tur_x_preferred":[
+        "Ruotsinpyht\u00e4\u00e4"
+    ],
     "name:unk_x_variant":[
         "Pyht\u00e4\u00e4"
+    ],
+    "name:vie_x_preferred":[
+        "Ruotsinpyht\u00e4\u00e4"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Uusimaa#Nyland",
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":101846697,
-    "wof:lastmodified":1529714676,
+    "wof:lastmodified":1563283764,
     "wof:name":"Ruotsinpyht\u00e4\u00e4",
     "wof:parent_id":907198469,
     "wof:placetype":"locality",

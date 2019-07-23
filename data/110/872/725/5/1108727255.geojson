@@ -31,15 +31,20 @@
     "name:fin_x_preferred":[
         "Vilhonvuori"
     ],
+    "name:fra_x_preferred":[
+        "Vilhonvuori"
+    ],
     "name:swe_x_preferred":[
         "Vilhemsberg"
+    ],
+    "name:swe_x_variant":[
+        "Vilhelmsberg"
     ],
     "reversegeo:latitude":60.179685,
     "reversegeo:longitude":24.961299,
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537285,
         907199715,
@@ -48,7 +53,8 @@
         101748417,
         136253047,
         890536885,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108727255,
-    "wof:lastmodified":1529714737,
+    "wof:lastmodified":1563283392,
     "wof:name":"Vilhonvuori",
     "wof:parent_id":890537285,
     "wof:placetype":"neighbourhood",

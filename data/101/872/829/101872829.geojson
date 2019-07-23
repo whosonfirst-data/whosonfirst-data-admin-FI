@@ -17,7 +17,16 @@
     "mps:longitude":21.723406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Karijoki"
+    ],
+    "name:aze_x_preferred":[
+        "Kariyoki"
+    ],
     "name:cat_x_preferred":[
+        "Karijoki"
+    ],
+    "name:ceb_x_preferred":[
         "Karijoki"
     ],
     "name:dan_x_preferred":[
@@ -26,6 +35,9 @@
     "name:deu_x_preferred":[
         "Karijoki"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b9\u03b3\u03b9\u03cc\u03ba\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Karijoki"
     ],
@@ -33,6 +45,9 @@
         "Karijoki"
     ],
     "name:fra_x_preferred":[
+        "Karijoki"
+    ],
+    "name:glg_x_preferred":[
         "Karijoki"
     ],
     "name:ita_x_preferred":[
@@ -73,6 +88,9 @@
     ],
     "name:swe_x_preferred":[
         "B\u00f6tom"
+    ],
+    "name:tur_x_preferred":[
+        "Karijoki"
     ],
     "name:vie_x_preferred":[
         "Karijoki"
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":101872829,
-    "wof:lastmodified":1561830266,
+    "wof:lastmodified":1563283687,
     "wof:name":"Karijoki",
     "wof:parent_id":907199065,
     "wof:placetype":"locality",

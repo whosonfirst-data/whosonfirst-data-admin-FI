@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Alah\u00e4rm\u00e4"
     ],
+    "name:est_x_preferred":[
+        "Alah\u00e4rm\u00e4 vald"
+    ],
     "name:fin_x_preferred":[
         "Alah\u00e4rm\u00e4"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101913009,
-    "wof:lastmodified":1561830271,
+    "wof:lastmodified":1563283726,
     "wof:name":"Alah\u00e4rm\u00e4",
     "wof:parent_id":907199237,
     "wof:placetype":"locality",

@@ -20,7 +20,16 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u064a\u0622\u0646\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Kajaani"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u044f\u043d\u0456"
+    ],
     "name:cat_x_preferred":[
+        "Kajaani"
+    ],
+    "name:ceb_x_preferred":[
         "Kajaani"
     ],
     "name:ces_x_preferred":[
@@ -88,6 +97,9 @@
     ],
     "name:lit_x_preferred":[
         "Kajanis"
+    ],
+    "name:ltz_x_preferred":[
+        "Kajaani"
     ],
     "name:mrj_x_preferred":[
         "\u041a\u0430\u044f\u0430\u043d\u0438"
@@ -219,7 +231,7 @@
         }
     ],
     "wof:id":101814401,
-    "wof:lastmodified":1561830285,
+    "wof:lastmodified":1563283885,
     "wof:name":"Kajaani",
     "wof:parent_id":907199455,
     "wof:placetype":"locality",

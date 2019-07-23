@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0440\u0443\u0440\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Harurna"
+    ],
     "name:deu_x_preferred":[
         "Karuna"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125804581,
-    "wof:lastmodified":1561830307,
+    "wof:lastmodified":1563284172,
     "wof:name":"Karuna",
     "wof:parent_id":907198941,
     "wof:placetype":"locality",

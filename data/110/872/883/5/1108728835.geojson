@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01393,
-    "geom:area_square_m":72167248.451802,
+    "geom:area_square_m":72167248.451797,
     "geom:bbox":"25.1772638211,65.1964422133,25.505364507,65.2672650693",
     "geom:latitude":65.230375,
     "geom:longitude":25.348475,
@@ -20,6 +20,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Martinniemi"
+    ],
     "name:eng_x_preferred":[
         "Martinniemi"
     ],
@@ -37,14 +40,14 @@
     "reversegeo:longitude":25.30955,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108728835,
-    "wof:lastmodified":1529709447,
+    "wof:lastmodified":1563283432,
     "wof:name":"Martinniemi",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

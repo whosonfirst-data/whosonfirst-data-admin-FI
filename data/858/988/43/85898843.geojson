@@ -30,6 +30,9 @@
     "name:cat_x_preferred":[
         "Jollas"
     ],
+    "name:ceb_x_preferred":[
+        "Jollas"
+    ],
     "name:eng_x_preferred":[
         "Jollas"
     ],
@@ -112,7 +115,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830221,
+    "wof:lastmodified":1563282674,
     "wof:name":"Jollas",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",

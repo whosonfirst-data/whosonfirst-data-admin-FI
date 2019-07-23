@@ -22,6 +22,9 @@
     "name:fin_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4meen ilmailumuseo"
     ],
+    "name:fin_x_variant":[
+        "Vesivehmaa"
+    ],
     "name:ita_x_preferred":[
         "Museo aeronautico del P\u00e4ij\u00e4t-H\u00e4me"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101872801,
-    "wof:lastmodified":1561830268,
+    "wof:lastmodified":1563283698,
     "wof:name":"Vesivehmaa",
     "wof:parent_id":907198691,
     "wof:placetype":"locality",

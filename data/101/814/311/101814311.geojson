@@ -17,6 +17,12 @@
     "mps:longitude":26.613473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Kiuruvesi"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u045e\u0440\u0443\u0432\u0435\u0441\u0456"
+    ],
     "name:ceb_x_preferred":[
         "Kiuruvesi"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:est_x_preferred":[
         "Kiuruvesi linn"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0648\u0631\u0648\u0648\u0633\u06cc"
     ],
     "name:fin_x_preferred":[
         "Kiuruvesi"
@@ -145,7 +154,7 @@
         }
     ],
     "wof:id":101814311,
-    "wof:lastmodified":1561830290,
+    "wof:lastmodified":1563283957,
     "wof:name":"Kiuruvesi",
     "wof:parent_id":907199481,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:cat_x_preferred":[
         "Eira"
     ],
+    "name:ceb_x_preferred":[
+        "Eira"
+    ],
+    "name:dan_x_preferred":[
+        "Eira"
+    ],
     "name:deu_x_preferred":[
         "Eira"
     ],
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108726973,
-    "wof:lastmodified":1561830254,
+    "wof:lastmodified":1563283441,
     "wof:name":"Eira",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

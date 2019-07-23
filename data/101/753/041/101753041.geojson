@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001392,
-    "geom:area_square_m":8346070.776251,
+    "geom:area_square_m":8346070.776255,
     "geom:bbox":"25.4543000137,60.974457712,25.5632607987,61.0183922549",
     "geom:latitude":60.992171,
     "geom:longitude":25.516886,
@@ -20,7 +20,16 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0648\u0644\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Hollola"
+    ],
+    "name:bar_x_preferred":[
+        "Hollola"
+    ],
     "name:ceb_x_preferred":[
+        "Hollola"
+    ],
+    "name:dan_x_preferred":[
         "Hollola"
     ],
     "name:deu_x_preferred":[
@@ -38,16 +47,34 @@
     "name:fra_x_preferred":[
         "Hollola"
     ],
+    "name:glg_x_preferred":[
+        "Hollola"
+    ],
     "name:hbs_x_preferred":[
         "Hollola"
     ],
     "name:ita_x_preferred":[
         "Hollola"
     ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30c3\u30ed\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud640\ub864\ub77c"
+    ],
+    "name:lav_x_preferred":[
+        "Hollola"
+    ],
+    "name:lit_x_preferred":[
+        "Oljola"
+    ],
     "name:nld_x_preferred":[
         "Hollola"
     ],
     "name:nno_x_preferred":[
+        "Hollola"
+    ],
+    "name:nob_x_preferred":[
         "Hollola"
     ],
     "name:nor_x_preferred":[
@@ -61,6 +88,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u043b\u043b\u043e\u043b\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Hollola"
     ],
     "name:sme_x_preferred":[
         "Hollola"
@@ -133,7 +163,7 @@
         }
     ],
     "wof:id":101753041,
-    "wof:lastmodified":1529710019,
+    "wof:lastmodified":1563283666,
     "wof:name":"Hollola",
     "wof:parent_id":907198585,
     "wof:placetype":"locality",

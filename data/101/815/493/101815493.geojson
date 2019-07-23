@@ -93,7 +93,8 @@
         "\u74e6\u9a6c\u62c9"
     ],
     "name:zho_x_variant":[
-        "\u4e07\u9a6c\u62c9"
+        "\u4e07\u9a6c\u62c9",
+        "\u4e07\u739b\u62c9"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pirkanmaa#Birkaland",
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":101815493,
-    "wof:lastmodified":1561830281,
+    "wof:lastmodified":1563283824,
     "wof:name":"Vammala",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Vartiosaari"
+    ],
     "name:eng_x_preferred":[
         "Vartiosaari"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108727239,
-    "wof:lastmodified":1561830251,
+    "wof:lastmodified":1563283404,
     "wof:name":"Vartiosaari",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",

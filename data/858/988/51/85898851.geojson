@@ -80,6 +80,12 @@
     "name:swe_x_preferred":[
         "Br\u00e4nd\u00f6"
     ],
+    "name:swe_x_variant":[
+        "Muurala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043b\u043e\u0441\u0430\u0430\u0440\u0456"
+    ],
     "name:unk_x_variant":[
         "Kulosaari"
     ],
@@ -156,7 +162,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830221,
+    "wof:lastmodified":1563282672,
     "wof:name":"Kulosaari",
     "wof:parent_id":1108727349,
     "wof:placetype":"neighbourhood",

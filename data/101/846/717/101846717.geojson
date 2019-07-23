@@ -74,6 +74,9 @@
     "name:zho_x_preferred":[
         "\u5361\u4e9e\u6d1b\u8d6b\u4e9e"
     ],
+    "name:zho_x_variant":[
+        "\u5361\u723e\u4e9e\u6d1b\u8d6b\u4e9e"
+    ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Uusimaa#Nyland",
     "qs:a1r":"0Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101846717,
-    "wof:lastmodified":1561830277,
+    "wof:lastmodified":1563283771,
     "wof:name":"Karjalohja",
     "wof:parent_id":907198655,
     "wof:placetype":"locality",

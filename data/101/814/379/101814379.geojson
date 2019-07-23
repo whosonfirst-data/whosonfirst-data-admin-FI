@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0647\u0645\u0627\u064a\u0627\u0631\u0641\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Tohmaj\u00e4rvi"
+    ],
     "name:ceb_x_preferred":[
         "Tohmaj\u00e4rvi"
     ],
@@ -77,6 +80,9 @@
     "name:swe_x_preferred":[
         "Tohmaj\u00e4rvi"
     ],
+    "name:tur_x_preferred":[
+        "Tohmaj\u00e4rvi"
+    ],
     "name:zho_x_preferred":[
         "\u6258\u8d6b\u99ac\u8036\u723e\u7dad"
     ],
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":101814379,
-    "wof:lastmodified":1561830286,
+    "wof:lastmodified":1563283901,
     "wof:name":"Tohmaj\u00e4rvi",
     "wof:parent_id":907199417,
     "wof:placetype":"locality",

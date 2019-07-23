@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Suomenlinna"
     ],
+    "name:ceb_x_preferred":[
+        "Suomenlinna"
+    ],
     "name:ces_x_preferred":[
         "Suomenlinna"
     ],
@@ -61,6 +64,12 @@
     "name:est_x_preferred":[
         "Suomenlinna"
     ],
+    "name:eus_x_preferred":[
+        "Suomenlinna"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0648\u0645\u0646\u0644\u06cc\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Suomenlinna"
     ],
@@ -76,6 +85,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05d0\u05d5\u05de\u05e0\u05dc\u05d9\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0941\u0906\u092e\u0947\u0928\u0932\u093f\u0928\u094d\u0928\u093e"
     ],
     "name:hrv_x_preferred":[
         "Suomenlinna"
@@ -131,6 +143,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0443\u043e\u043c\u0435\u043d\u043b\u0438\u043d\u043d\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0432\u0435\u0430\u0431\u043e\u0440\u0433"
+    ],
     "name:slk_x_preferred":[
         "Suomenlinna"
     ],
@@ -146,6 +161,9 @@
     "name:swe_x_preferred":[
         "Sveaborg"
     ],
+    "name:tur_x_preferred":[
+        "Suomenlinna"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0430\u0431\u043e\u0440\u0433"
     ],
@@ -158,6 +176,9 @@
     ],
     "name:zho_x_preferred":[
         "\u82ac\u5170\u5821"
+    ],
+    "name:zho_x_variant":[
+        "\u82ac\u5170\u57ce\u5821"
     ],
     "reversegeo:latitude":60.13993,
     "reversegeo:longitude":25.003023,
@@ -213,7 +234,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830221,
+    "wof:lastmodified":1563282676,
     "wof:name":"Suomenlinna",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

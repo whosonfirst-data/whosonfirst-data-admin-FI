@@ -28,6 +28,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Laajalahti"
+    ],
     "name:eng_x_preferred":[
         "Laajalahti"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Bredvik"
+    ],
+    "name:swe_x_variant":[
+        "Kanta-Leppavaara"
     ],
     "reversegeo:latitude":60.203365,
     "reversegeo:longitude":24.804666,
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108729277,
-    "wof:lastmodified":1561830255,
+    "wof:lastmodified":1563283458,
     "wof:name":"Laajalahti",
     "wof:parent_id":1108729225,
     "wof:placetype":"macrohood",

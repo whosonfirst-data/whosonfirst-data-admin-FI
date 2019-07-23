@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001654,
-    "geom:area_square_m":10013194.515887,
+    "geom:area_square_m":10013194.515891,
     "geom:bbox":"26.7766034687,60.674749144,26.8684144883,60.7214083378",
     "geom:latitude":60.695331,
     "geom:longitude":26.826017,
@@ -21,6 +21,9 @@
     ],
     "name:fin_x_preferred":[
         "Juha-Pekka Inker\u00f6inen"
+    ],
+    "name:fin_x_variant":[
+        "Inkeroinen"
     ],
     "name:por_x_preferred":[
         "Juha-Pekka Inker\u00f6inen"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101815433,
-    "wof:lastmodified":1529707608,
+    "wof:lastmodified":1563283829,
     "wof:name":"Inkeroinen",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

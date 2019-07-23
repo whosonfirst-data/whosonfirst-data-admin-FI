@@ -16,10 +16,16 @@
     "mps:longitude":24.145899,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Iittala"
+    ],
     "name:deu_x_preferred":[
         "Iittala"
     ],
     "name:eng_x_preferred":[
+        "Iittala"
+    ],
+    "name:est_x_preferred":[
         "Iittala"
     ],
     "name:fin_x_preferred":[
@@ -54,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Iittala"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5854\u62c9"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Kanta-H\u00e4me#Egentliga Tavastland",
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":101846761,
-    "wof:lastmodified":1529711988,
+    "wof:lastmodified":1563283757,
     "wof:name":"Iittala",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Honkilahti"
+    ],
     "name:eng_x_preferred":[
         "Honkilahti"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1126058169,
-    "wof:lastmodified":1561830304,
+    "wof:lastmodified":1563284109,
     "wof:name":"Honkilahti",
     "wof:parent_id":907198915,
     "wof:placetype":"locality",

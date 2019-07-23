@@ -29,6 +29,9 @@
     "name:fin_x_preferred":[
         "Petsamo"
     ],
+    "name:fra_x_preferred":[
+        "Petsamo"
+    ],
     "reversegeo:latitude":61.52286,
     "reversegeo:longitude":23.783753,
     "src:geom":"tmpgov",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108728439,
-    "wof:lastmodified":1561830249,
+    "wof:lastmodified":1563283372,
     "wof:name":"Petsamo",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000359,
-    "geom:area_square_m":1758063.613754,
+    "geom:area_square_m":1758063.613752,
     "geom:bbox":"25.4454608963,66.6363872759,25.5044361309,66.6503975608",
     "geom:latitude":66.644287,
     "geom:longitude":25.474896,
@@ -21,6 +21,9 @@
     ],
     "name:fin_x_preferred":[
         "Sinett\u00e4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30cd\u30c3\u30bf"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043d\u043d\u0435\u0442\u044f"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101814509,
-    "wof:lastmodified":1529708125,
+    "wof:lastmodified":1563283923,
     "wof:name":"Sinett\u00e4",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

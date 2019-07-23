@@ -45,6 +45,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u043c\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Malmi"
+    ],
     "name:deu_x_preferred":[
         "Malmi"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":890537239,
-    "wof:lastmodified":1561830297,
+    "wof:lastmodified":1563284062,
     "wof:name":"Malmi",
     "wof:parent_id":890536891,
     "wof:placetype":"macrohood",

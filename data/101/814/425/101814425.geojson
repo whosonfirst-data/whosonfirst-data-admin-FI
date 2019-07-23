@@ -17,6 +17,9 @@
     "mps:longitude":25.650715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Tyrn\u00e4v\u00e4"
+    ],
     "name:ceb_x_preferred":[
         "Tyrn\u00e4v\u00e4"
     ],
@@ -35,6 +38,9 @@
     "name:eng_x_preferred":[
         "Tyrn\u00e4v\u00e4"
     ],
+    "name:est_x_preferred":[
+        "Tyrn\u00e4v\u00e4 vald"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u06cc\u0631\u0646\u0627\u0648\u0627"
     ],
@@ -42,6 +48,9 @@
         "Tyrn\u00e4v\u00e4"
     ],
     "name:fra_x_preferred":[
+        "Tyrn\u00e4v\u00e4"
+    ],
+    "name:glg_x_preferred":[
         "Tyrn\u00e4v\u00e4"
     ],
     "name:ita_x_preferred":[
@@ -72,6 +81,9 @@
         "Tyrn\u00e4v\u00e4"
     ],
     "name:swe_x_preferred":[
+        "Tyrn\u00e4v\u00e4"
+    ],
+    "name:tur_x_preferred":[
         "Tyrn\u00e4v\u00e4"
     ],
     "name:vie_x_preferred":[
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":101814425,
-    "wof:lastmodified":1561830284,
+    "wof:lastmodified":1563283873,
     "wof:name":"Tyrn\u00e4v\u00e4",
     "wof:parent_id":907199615,
     "wof:placetype":"locality",

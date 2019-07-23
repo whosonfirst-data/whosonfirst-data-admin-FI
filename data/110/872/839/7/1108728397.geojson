@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000553,
-    "geom:area_square_m":3264107.391011,
+    "geom:area_square_m":3264107.39101,
     "geom:bbox":"23.7181104666,61.4604102403,23.7549233388,61.4840980901",
     "geom:latitude":61.471915,
     "geom:longitude":23.73636,
@@ -26,6 +26,9 @@
     "name:fin_x_preferred":[
         "H\u00e4rm\u00e4l\u00e4"
     ],
+    "name:fra_x_preferred":[
+        "H\u00e4rm\u00e4l\u00e4"
+    ],
     "reversegeo:latitude":61.470971,
     "reversegeo:longitude":23.734177,
     "src:geom":"tmpgov",
@@ -33,14 +36,14 @@
     "tmpgov:id":"409301",
     "tmpgov:name":"H\u00e4rm\u00e4l\u00e4",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108728397,
-    "wof:lastmodified":1529711329,
+    "wof:lastmodified":1563283449,
     "wof:name":"Harmala",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

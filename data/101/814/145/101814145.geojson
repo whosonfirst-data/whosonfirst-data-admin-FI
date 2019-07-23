@@ -17,6 +17,12 @@
     "mps:longitude":21.953774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Isojoki"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130soyoki"
+    ],
     "name:cat_x_preferred":[
         "Isojoki"
     ],
@@ -29,6 +35,9 @@
     "name:deu_x_preferred":[
         "Isojoki"
     ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c3\u03bf\u03b3\u03b9\u03cc\u03ba\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Isojoki"
     ],
@@ -36,6 +45,9 @@
         "Isojoki"
     ],
     "name:fra_x_preferred":[
+        "Isojoki"
+    ],
+    "name:glg_x_preferred":[
         "Isojoki"
     ],
     "name:isl_x_preferred":[
@@ -76,6 +88,9 @@
     ],
     "name:swe_x_preferred":[
         "Stor\u00e5"
+    ],
+    "name:tur_x_preferred":[
+        "Isojoki"
     ],
     "name:vie_x_preferred":[
         "Isojoki"
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":101814145,
-    "wof:lastmodified":1561830286,
+    "wof:lastmodified":1563283903,
     "wof:name":"Isojoki",
     "wof:parent_id":907198871,
     "wof:placetype":"locality",

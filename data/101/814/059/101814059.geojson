@@ -17,13 +17,25 @@
     "mps:longitude":29.280235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Kerim\u00e4ki"
+    ],
     "name:ceb_x_preferred":[
+        "Kerim\u00e4ki"
+    ],
+    "name:cym_x_preferred":[
+        "Kerim\u00e4ki"
+    ],
+    "name:dan_x_preferred":[
         "Kerim\u00e4ki"
     ],
     "name:deu_x_preferred":[
         "Kerim\u00e4ki"
     ],
     "name:eng_x_preferred":[
+        "Kerim\u00e4ki"
+    ],
+    "name:fao_x_preferred":[
         "Kerim\u00e4ki"
     ],
     "name:fin_x_preferred":[
@@ -36,6 +48,9 @@
         "Kerim\u00e4ki"
     ],
     "name:nld_x_preferred":[
+        "Kerim\u00e4ki"
+    ],
+    "name:nno_x_preferred":[
         "Kerim\u00e4ki"
     ],
     "name:nob_x_preferred":[
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":101814059,
-    "wof:lastmodified":1561830289,
+    "wof:lastmodified":1563283949,
     "wof:name":"Kerim\u00e4ki",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

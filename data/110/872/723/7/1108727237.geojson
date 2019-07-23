@@ -25,6 +25,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Vartioharju"
+    ],
     "name:eng_x_preferred":[
         "Vartioharju"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:swe_x_preferred":[
         "Botby\u00e5sen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0440\u0442\u0456\u043e\u0445\u0430\u0440'\u044e"
     ],
     "reversegeo:latitude":60.220591,
     "reversegeo:longitude":25.108077,
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1108727237,
-    "wof:lastmodified":1561830251,
+    "wof:lastmodified":1563283404,
     "wof:name":"Vartioharju",
     "wof:parent_id":890537287,
     "wof:placetype":"neighbourhood",

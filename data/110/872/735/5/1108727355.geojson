@@ -36,6 +36,12 @@
     "name:bul_x_preferred":[
         "\u0412\u0430\u043b\u0438\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Vallila"
+    ],
+    "name:dan_x_preferred":[
+        "Vallila"
+    ],
     "name:deu_x_preferred":[
         "Vallila"
     ],
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108727355,
-    "wof:lastmodified":1561830252,
+    "wof:lastmodified":1563283419,
     "wof:name":"Vallila",
     "wof:parent_id":890536885,
     "wof:placetype":"macrohood",

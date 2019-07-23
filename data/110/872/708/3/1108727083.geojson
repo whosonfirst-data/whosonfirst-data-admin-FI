@@ -28,6 +28,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u043a\u0441\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Laakso"
+    ],
     "name:eng_x_preferred":[
         "Laakso"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108727083,
-    "wof:lastmodified":1561830248,
+    "wof:lastmodified":1563283350,
     "wof:name":"Laakso",
     "wof:parent_id":1108727373,
     "wof:placetype":"neighbourhood",

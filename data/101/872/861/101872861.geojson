@@ -22,6 +22,9 @@
     "name:fin_x_preferred":[
         "Oulu\u2013Kontiom\u00e4ki-rata"
     ],
+    "name:fin_x_variant":[
+        "Kontiom\u00e4ki"
+    ],
     "name:fra_x_preferred":[
         "Voie ferr\u00e9e Oulu\u2013Kontiom\u00e4ki"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:swe_x_preferred":[
         "Ule\u00e5borg\u2013Kontiom\u00e4ki-banan"
+    ],
+    "name:swe_x_variant":[
+        "Kontiom\u00e4ki"
     ],
     "name:unk_x_variant":[
         "Kantiomyaki"
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":101872861,
-    "wof:lastmodified":1561830267,
+    "wof:lastmodified":1563283690,
     "wof:name":"Kontiom\u00e4ki",
     "wof:parent_id":907199475,
     "wof:placetype":"locality",

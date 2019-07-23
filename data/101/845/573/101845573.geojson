@@ -28,6 +28,9 @@
     "name:fin_x_preferred":[
         "Palojoensuu"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30ed\u30e8\u30a8\u30f3\u30b9\u30fc"
+    ],
     "name:nld_x_preferred":[
         "Palojoensuu"
     ],
@@ -36,6 +39,12 @@
     ],
     "name:sme_x_preferred":[
         "B\u00e1lojohnj\u00e1lbmi"
+    ],
+    "name:sme_x_variant":[
+        "B\u00e1lojotnj\u00e4lbmi"
+    ],
+    "name:swe_x_preferred":[
+        "Palojoensuu"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Lappi#Lappland",
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":101845573,
-    "wof:lastmodified":1561830266,
+    "wof:lastmodified":1563283679,
     "wof:name":"Palojoensuu",
     "wof:parent_id":907199599,
     "wof:placetype":"locality",

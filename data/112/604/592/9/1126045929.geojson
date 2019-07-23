@@ -24,6 +24,9 @@
     "name:fin_x_preferred":[
         "Huruksela"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30eb\u30af\u30bb\u30e9"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1126045929,
-    "wof:lastmodified":1529707619,
+    "wof:lastmodified":1563284123,
     "wof:name":"Huruksela",
     "wof:parent_id":907198683,
     "wof:placetype":"locality",

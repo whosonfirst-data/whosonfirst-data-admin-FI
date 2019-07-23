@@ -46,6 +46,9 @@
     "name:isl_x_preferred":[
         "Arabiastranden"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e9\u30d3\u30a2\u30f3\u30e9\u30f3\u30bf"
+    ],
     "name:nld_x_preferred":[
         "Arabianranta"
     ],
@@ -146,7 +149,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830201,
+    "wof:lastmodified":1563282618,
     "wof:name":"Arabianranta",
     "wof:parent_id":1108727357,
     "wof:placetype":"neighbourhood",

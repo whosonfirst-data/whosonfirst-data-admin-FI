@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0641\u064a\u0646\u0643\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:bak_x_preferred":[
+        "\u0425\u044e\u0432\u0438\u043d\u043a\u044f\u0430"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u044e\u0432\u0456\u043d\u043a\u044f"
+    ],
     "name:cat_x_preferred":[
         "Hyvink\u00e4\u00e4"
     ],
@@ -31,6 +40,9 @@
     ],
     "name:dan_x_preferred":[
         "Hyvinge"
+    ],
+    "name:dan_x_variant":[
+        "Hyvink\u00e4\u00e4"
     ],
     "name:deu_x_preferred":[
         "Hyvink\u00e4\u00e4"
@@ -47,6 +59,9 @@
     "name:est_x_variant":[
         "Hyvink\u00e4\u00e4"
     ],
+    "name:eus_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u06cc\u0648\u06cc\u0646\u06a9\u0627"
     ],
@@ -55,6 +70,12 @@
     ],
     "name:fra_x_preferred":[
         "Hyvink\u00e4\u00e4"
+    ],
+    "name:glg_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05d5\u05d5\u05d9\u05e0\u05e7\u05d4"
     ],
     "name:hun_x_preferred":[
         "Hyvink\u00e4\u00e4"
@@ -201,7 +222,7 @@
         }
     ],
     "wof:id":101815237,
-    "wof:lastmodified":1561830281,
+    "wof:lastmodified":1563283831,
     "wof:name":"Hyvink\u00e4\u00e4",
     "wof:parent_id":907198603,
     "wof:placetype":"locality",

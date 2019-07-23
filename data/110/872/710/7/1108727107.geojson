@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Malminkartano"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30df\u30f3\u30ab\u30eb\u30bf\u30ce"
+    ],
     "name:swe_x_preferred":[
         "Malmg\u00e5rd"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108727107,
-    "wof:lastmodified":1561830255,
+    "wof:lastmodified":1563283462,
     "wof:name":"Malminkartano",
     "wof:parent_id":890537241,
     "wof:placetype":"neighbourhood",

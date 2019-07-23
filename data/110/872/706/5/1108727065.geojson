@@ -28,6 +28,12 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u043d\u0443\u043d\u0445\u0430\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kruununhaka"
+    ],
+    "name:dan_x_preferred":[
+        "Kruununhaka"
+    ],
     "name:deu_x_preferred":[
         "Kruununhaka"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Kronohagen"
+    ],
+    "name:swe_x_variant":[
+        "Kotkavuori"
     ],
     "reversegeo:latitude":60.1733,
     "reversegeo:longitude":24.961331,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1108727065,
-    "wof:lastmodified":1561830248,
+    "wof:lastmodified":1563283349,
     "wof:name":"Kruununhaka",
     "wof:parent_id":1108727331,
     "wof:placetype":"neighbourhood",

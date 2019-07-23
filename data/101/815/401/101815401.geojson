@@ -17,6 +17,12 @@
     "mps:longitude":23.62749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Forssa"
+    ],
+    "name:bel_x_preferred":[
+        "\u0424\u043e\u0440\u0441\u0430"
+    ],
     "name:cat_x_preferred":[
         "Forssa"
     ],
@@ -45,6 +51,9 @@
         "Forssa"
     ],
     "name:fra_x_preferred":[
+        "Forssa"
+    ],
+    "name:glg_x_preferred":[
         "Forssa"
     ],
     "name:hbs_x_preferred":[
@@ -177,7 +186,7 @@
         }
     ],
     "wof:id":101815401,
-    "wof:lastmodified":1561830279,
+    "wof:lastmodified":1563283790,
     "wof:name":"Forssa",
     "wof:parent_id":907199441,
     "wof:placetype":"locality",

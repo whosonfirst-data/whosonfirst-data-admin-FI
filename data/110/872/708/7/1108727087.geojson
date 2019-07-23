@@ -37,6 +37,9 @@
     "name:swe_x_preferred":[
         "V\u00e4stra Herton\u00e4s"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044f\u043d\u0441\u0456-\u0413\u0435\u0440\u0442\u0442\u043e\u043d\u0456\u0435\u043c\u0456"
+    ],
     "reversegeo:latitude":60.203208,
     "reversegeo:longitude":25.028855,
     "src:geom":"hkigis",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108727087,
-    "wof:lastmodified":1561830248,
+    "wof:lastmodified":1563283350,
     "wof:name":"Lansi-Herttoniemi",
     "wof:parent_id":890537227,
     "wof:placetype":"neighbourhood",

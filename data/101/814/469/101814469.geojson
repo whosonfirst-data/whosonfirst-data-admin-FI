@@ -17,6 +17,9 @@
     "mps:longitude":25.762263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "K\u00e4rs\u00e4m\u00e4ki"
+    ],
     "name:ceb_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
@@ -32,10 +35,16 @@
     "name:eng_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
+    "name:est_x_preferred":[
+        "K\u00e4rs\u00e4m\u00e4ki vald"
+    ],
     "name:fin_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
     "name:fra_x_preferred":[
+        "K\u00e4rs\u00e4m\u00e4ki"
+    ],
+    "name:glg_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
     "name:ita_x_preferred":[
@@ -69,6 +78,9 @@
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
     "name:swe_x_preferred":[
+        "K\u00e4rs\u00e4m\u00e4ki"
+    ],
+    "name:tur_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
     "name:vie_x_preferred":[
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":101814469,
-    "wof:lastmodified":1561830289,
+    "wof:lastmodified":1563283943,
     "wof:name":"K\u00e4rs\u00e4m\u00e4ki",
     "wof:parent_id":907199465,
     "wof:placetype":"locality",

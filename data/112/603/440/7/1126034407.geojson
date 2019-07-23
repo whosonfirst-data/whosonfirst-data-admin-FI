@@ -51,6 +51,9 @@
     "name:nob_x_preferred":[
         "Sevettij\u00e4rvi"
     ],
+    "name:olo_x_preferred":[
+        "\u010cevetj\u00e4rvi"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0442\u0442\u0438\u044f\u0440\u0432\u0438"
     ],
@@ -62,6 +65,9 @@
     ],
     "name:sms_x_preferred":[
         "\u010ce'vetj\u00e4u'rr"
+    ],
+    "name:sms_x_variant":[
+        "\u010ce\u02b9vetj\u00e4u\u02b9rr"
     ],
     "name:swe_x_preferred":[
         "Sevettij\u00e4rvi"
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1126034407,
-    "wof:lastmodified":1561830305,
+    "wof:lastmodified":1563284128,
     "wof:name":"Sevettij\u00e4rvi",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

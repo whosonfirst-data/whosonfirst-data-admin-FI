@@ -16,6 +16,9 @@
     "mps:longitude":23.546407,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "Fiskars"
+    ],
     "name:deu_x_preferred":[
         "Fiskars"
     ],
@@ -25,11 +28,17 @@
     "name:est_x_preferred":[
         "Fiskari"
     ],
+    "name:est_x_variant":[
+        "Fiskars"
+    ],
     "name:fin_x_preferred":[
         "Fiskari"
     ],
     "name:fra_x_preferred":[
         "Fiskari"
+    ],
+    "name:fra_x_variant":[
+        "Fiskars"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30a3\u30b9\u30ab\u30fc\u30b9"
@@ -44,6 +53,12 @@
         "Fiskars"
     ],
     "name:pol_x_preferred":[
+        "Fiskars"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u0441\u043a\u0430\u0440\u0438"
+    ],
+    "name:sqi_x_preferred":[
         "Fiskars"
     ],
     "name:swe_x_preferred":[
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":101815295,
-    "wof:lastmodified":1561830279,
+    "wof:lastmodified":1563283792,
     "wof:name":"Fiskari",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

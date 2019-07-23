@@ -17,6 +17,9 @@
     "mps:longitude":22.143816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Harjavalta"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0430\u0440'\u044f\u0432\u0430\u043b\u0442\u0430"
     ],
@@ -35,10 +38,16 @@
     "name:est_x_preferred":[
         "Harjavalta linn"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0631\u06cc\u0627\u0648\u0627\u0644\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Harjavalta"
     ],
     "name:fra_x_preferred":[
+        "Harjavalta"
+    ],
+    "name:glg_x_preferred":[
         "Harjavalta"
     ],
     "name:hbs_x_preferred":[
@@ -150,7 +159,7 @@
         }
     ],
     "wof:id":101815477,
-    "wof:lastmodified":1561830278,
+    "wof:lastmodified":1563283785,
     "wof:name":"Harjavalta",
     "wof:parent_id":907198927,
     "wof:placetype":"locality",

@@ -23,8 +23,14 @@
     "name:ceb_x_preferred":[
         "Eno"
     ],
+    "name:dan_x_preferred":[
+        "Eno"
+    ],
     "name:deu_x_preferred":[
         "Eno"
+    ],
+    "name:ell_x_preferred":[
+        "\u0388\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Eno"
@@ -51,6 +57,9 @@
         "\u30a8\u30ce"
     ],
     "name:nld_x_preferred":[
+        "Eno"
+    ],
+    "name:nob_x_preferred":[
         "Eno"
     ],
     "name:ron_x_preferred":[
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":101847025,
-    "wof:lastmodified":1561830282,
+    "wof:lastmodified":1563283841,
     "wof:name":"Eno",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

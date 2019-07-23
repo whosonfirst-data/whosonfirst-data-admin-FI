@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0645\u0628\u0627\u0644\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
     "name:ceb_x_preferred":[
         "Lemp\u00e4\u00e4l\u00e4"
     ],
@@ -101,6 +104,9 @@
     "name:swe_x_preferred":[
         "Lembois"
     ],
+    "name:tur_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0645\u067e\u0627\u0644\u0627"
     ],
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":101753049,
-    "wof:lastmodified":1561830264,
+    "wof:lastmodified":1563283667,
     "wof:name":"Lemp\u00e4\u00e4l\u00e4",
     "wof:parent_id":907199279,
     "wof:placetype":"locality",

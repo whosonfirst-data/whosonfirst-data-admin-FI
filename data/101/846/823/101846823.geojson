@@ -43,6 +43,9 @@
     "name:nob_x_preferred":[
         "Vittisbofj\u00e4rd"
     ],
+    "name:nob_x_variant":[
+        "Ahlainen"
+    ],
     "name:nor_x_preferred":[
         "Ahlainen"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101846823,
-    "wof:lastmodified":1561830276,
+    "wof:lastmodified":1563283760,
     "wof:name":"Ahlainen",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

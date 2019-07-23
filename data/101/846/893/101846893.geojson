@@ -74,6 +74,9 @@
     "name:swe_x_preferred":[
         "Jalasj\u00e4rvi"
     ],
+    "name:tur_x_preferred":[
+        "Jalasj\u00e4rvi"
+    ],
     "name:unk_x_variant":[
         "Yalas'yarvi"
     ],
@@ -85,6 +88,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e9e\u62c9\u65af\u8036\u723e\u7dad"
+    ],
+    "name:zho_x_variant":[
+        "\u4e9a\u62c9\u65af\u8036\u5c14\u7ef4"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Etel\u00e4-Pohjanmaa#S\u00f6dra \u00d6sterbotten",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":101846893,
-    "wof:lastmodified":1561830273,
+    "wof:lastmodified":1563283742,
     "wof:name":"Jalasj\u00e4rvi",
     "wof:parent_id":907199007,
     "wof:placetype":"locality",

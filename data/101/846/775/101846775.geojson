@@ -17,6 +17,12 @@
     "mps:longitude":24.43774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Loppi"
+    ],
+    "name:ceb_x_preferred":[
+        "Loppi"
+    ],
     "name:deu_x_preferred":[
         "Loppi"
     ],
@@ -33,6 +39,9 @@
         "Loppi"
     ],
     "name:fra_x_preferred":[
+        "Loppi"
+    ],
+    "name:glg_x_preferred":[
         "Loppi"
     ],
     "name:hun_x_preferred":[
@@ -63,6 +72,9 @@
         "Loppi"
     ],
     "name:swe_x_preferred":[
+        "Loppi"
+    ],
+    "name:tur_x_preferred":[
         "Loppi"
     ],
     "name:zho_x_preferred":[
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":101846775,
-    "wof:lastmodified":1561830277,
+    "wof:lastmodified":1563283768,
     "wof:name":"Loppi",
     "wof:parent_id":907198573,
     "wof:placetype":"locality",

@@ -17,6 +17,12 @@
     "mps:longitude":25.58149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0643\u064a\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Pukkila"
+    ],
     "name:ceb_x_preferred":[
         "Pukkila"
     ],
@@ -36,6 +42,9 @@
         "Pukkila"
     ],
     "name:fra_x_preferred":[
+        "Pukkila"
+    ],
+    "name:glg_x_preferred":[
         "Pukkila"
     ],
     "name:hbs_x_preferred":[
@@ -73,6 +82,12 @@
     ],
     "name:swe_x_preferred":[
         "Buckila"
+    ],
+    "name:swe_x_variant":[
+        "Pukkila"
+    ],
+    "name:tur_x_preferred":[
+        "Pukkila"
     ],
     "name:vie_x_preferred":[
         "Pukkila"
@@ -132,7 +147,7 @@
         }
     ],
     "wof:id":101815233,
-    "wof:lastmodified":1561830279,
+    "wof:lastmodified":1563283800,
     "wof:name":"Pukkila",
     "wof:parent_id":907198663,
     "wof:placetype":"locality",

@@ -17,7 +17,13 @@
     "mps:longitude":22.002615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Nakkila"
+    ],
     "name:ceb_x_preferred":[
+        "Nakkila"
+    ],
+    "name:cym_x_preferred":[
         "Nakkila"
     ],
     "name:deu_x_preferred":[
@@ -30,6 +36,9 @@
         "Nakkila"
     ],
     "name:fra_x_preferred":[
+        "Nakkila"
+    ],
+    "name:glg_x_preferred":[
         "Nakkila"
     ],
     "name:ita_x_preferred":[
@@ -73,6 +82,9 @@
     ],
     "name:swe_x_variant":[
         "Nackeby"
+    ],
+    "name:tur_x_preferred":[
+        "Nakkila"
     ],
     "name:vie_x_preferred":[
         "Nakkila"
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":101815471,
-    "wof:lastmodified":1561830278,
+    "wof:lastmodified":1563283782,
     "wof:name":"Nakkila",
     "wof:parent_id":907198705,
     "wof:placetype":"locality",

@@ -72,6 +72,9 @@
     "name:swe_x_preferred":[
         "Kestil\u00e4"
     ],
+    "name:tur_x_preferred":[
+        "Kestil\u00e4"
+    ],
     "name:vie_x_preferred":[
         "Kestil\u00e4"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101814445,
-    "wof:lastmodified":1561830289,
+    "wof:lastmodified":1563283941,
     "wof:name":"Kestil\u00e4",
     "wof:parent_id":907199755,
     "wof:placetype":"locality",

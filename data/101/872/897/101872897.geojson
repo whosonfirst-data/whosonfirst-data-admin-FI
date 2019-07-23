@@ -16,6 +16,9 @@
     "mps:longitude":23.887963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Juoksengi"
+    ],
     "name:deu_x_preferred":[
         "Juoksengi"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101872897,
-    "wof:lastmodified":1561830268,
+    "wof:lastmodified":1563283699,
     "wof:name":"Juoksenki",
     "wof:parent_id":907199553,
     "wof:placetype":"locality",

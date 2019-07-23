@@ -32,6 +32,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0443\u043a\u0438\u043b\u0430\u0445\u0442\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Haukilahti"
+    ],
     "name:deu_x_preferred":[
         "Haukilahti"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "G\u00e4ddvik"
+    ],
+    "name:swe_x_variant":[
+        "\u00c4ngskulla"
     ],
     "reversegeo:latitude":60.159684,
     "reversegeo:longitude":24.778329,
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1108729397,
-    "wof:lastmodified":1561830248,
+    "wof:lastmodified":1563283353,
     "wof:name":"Haukilahti",
     "wof:parent_id":1108729271,
     "wof:placetype":"neighbourhood",

@@ -31,6 +31,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Mankkaa"
+    ],
     "name:eng_x_preferred":[
         "Mankkaa"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1108729261,
-    "wof:lastmodified":1561830256,
+    "wof:lastmodified":1563283464,
     "wof:name":"Mankkaa",
     "wof:parent_id":1108729225,
     "wof:placetype":"macrohood",

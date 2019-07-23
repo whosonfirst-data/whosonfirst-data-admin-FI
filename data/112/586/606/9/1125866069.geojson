@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Vikaj\u00e4rvi"
+    ],
     "name:eng_x_preferred":[
         "Vikaj\u00e4rvi"
     ],
@@ -26,6 +29,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u043a\u0430\u044f\u0440\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vikaj\u00e4rvi"
     ],
     "name:unk_x_variant":[
         "Vikak\u00f6ng\u00e4s"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125866069,
-    "wof:lastmodified":1529708137,
+    "wof:lastmodified":1563284143,
     "wof:name":"Vikaj\u00e4rvi",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",
