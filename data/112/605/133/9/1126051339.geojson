@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Simola"
+    ],
+    "name:fin_x_preferred":[
+        "Simola"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1126051339,
-    "wof:lastmodified":1529707145,
+    "wof:lastmodified":1564101863,
     "wof:name":"Simola",
     "wof:parent_id":907198759,
     "wof:placetype":"locality",

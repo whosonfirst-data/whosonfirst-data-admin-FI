@@ -29,8 +29,44 @@
     "lbl:longitude":21.10691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0633\u064a\u0643\u0627\u0648\u0628\u0648\u0646\u0643\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0423\u0441\u0456\u043a\u0430\u045e\u043f\u0443\u043d\u043a\u0456"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0443\u0441\u0438\u043a\u0430\u0443\u043f\u0443\u043d\u043a\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:ceb_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:ces_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:dan_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:deu_x_preferred":[
+        "Uusikaupunki"
+    ],
     "name:eng_x_preferred":[
         "Uusikaupunki"
+    ],
+    "name:epo_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:est_x_preferred":[
+        "Uusikaupunki linn"
+    ],
+    "name:eus_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0633\u06cc\u06a9\u0627\u067e\u0648\u0646\u06a9\u06cc"
     ],
     "name:fin_x_preferred":[
         "Uusikaupunki"
@@ -38,11 +74,98 @@
     "name:fin_x_variant":[
         "Uudenkaupungin Kaupunki"
     ],
+    "name:fra_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:glg_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:hun_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:ita_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30fc\u30b7\u30ab\u30a6\u30d7\u30f3\u30ad"
+    ],
+    "name:koi_x_preferred":[
+        "\u0423\u0441\u0438\u043a\u0430\u0432\u043f\u0443\u043d\u043a\u0438"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uc2dc\uce74\uc6b0\ud48d\ud0a4"
+    ],
+    "name:lat_x_preferred":[
+        "Neostadium"
+    ],
+    "name:lav_x_preferred":[
+        "\u016asikaupunki"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0423\u0443\u0441\u0438\u043a\u0430\u0443\u043f\u0443\u043d\u043a\u0438"
+    ],
+    "name:nau_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:nld_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:nno_x_preferred":[
+        "Nystad"
+    ],
+    "name:nor_x_preferred":[
+        "Nystad"
+    ],
+    "name:pol_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:por_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:ron_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0443\u0441\u0438\u043a\u0430\u0443\u043f\u0443\u043d\u043a\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:sme_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:spa_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:sqi_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0441\u0438\u043a\u0430\u0443\u043f\u0443\u043d\u043a\u0438"
+    ],
     "name:swe_x_preferred":[
         "Nystad"
     ],
+    "name:tur_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0443\u0441\u0456\u043a\u0430\u0443\u043f\u0443\u043d\u043a\u0456"
+    ],
     "name:unk_x_variant":[
         "Nystad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0633\u06cc \u06a9\u0627\u0624\u067e\u0646\u06a9\u06cc"
+    ],
+    "name:vep_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:vie_x_preferred":[
+        "Uusikaupunki"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u8003\u84ec\u57fa"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -77,7 +200,7 @@
         }
     ],
     "wof:id":907198615,
-    "wof:lastmodified":1544224763,
+    "wof:lastmodified":1564100320,
     "wof:name":"Uusikaupunki",
     "wof:parent_id":1159321637,
     "wof:placetype":"localadmin",

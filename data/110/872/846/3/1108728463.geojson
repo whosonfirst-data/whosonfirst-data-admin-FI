@@ -20,7 +20,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Lappi"
+    ],
+    "name:deu_x_preferred":[
+        "Lappi"
+    ],
     "name:fin_x_preferred":[
+        "Lappi"
+    ],
+    "name:fra_x_preferred":[
+        "Lappi"
+    ],
+    "name:isl_x_preferred":[
+        "Lappi"
+    ],
+    "name:nds_x_preferred":[
+        "Lappi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043f\u043f\u0438"
+    ],
+    "name:swe_x_preferred":[
         "Lappi"
     ],
     "reversegeo:latitude":61.51132,
@@ -30,14 +51,14 @@
     "tmpgov:id":"102127",
     "tmpgov:name":"Lappi",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1108728463,
-    "wof:lastmodified":1529711334,
+    "wof:lastmodified":1564101474,
     "wof:name":"Lappi",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,63 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:deu_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:fin_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:fra_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:glg_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:ita_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:koi_x_preferred":[
+        "\u041f\u0451\u0432\u0442\u044e\u044f"
+    ],
+    "name:lat_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:nld_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:nor_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:pol_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:ron_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0451\u0443\u0442\u044e\u044f"
+    ],
+    "name:sme_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:sqi_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:swe_x_preferred":[
+        "P\u00f6ytis"
+    ],
+    "name:tur_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:vie_x_preferred":[
+        "P\u00f6yty\u00e4"
+    ],
+    "name:zho_x_preferred":[
+        "\u73c0\u4e8e\u8482\u827e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -58,7 +115,7 @@
         }
     ],
     "wof:id":1243076567,
-    "wof:lastmodified":1537562785,
+    "wof:lastmodified":1564102109,
     "wof:name":"Poeytyae",
     "wof:parent_id":907198921,
     "wof:placetype":"locality",

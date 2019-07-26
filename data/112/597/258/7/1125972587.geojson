@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:swa_x_preferred":[
+        "Kimo"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125972587,
-    "wof:lastmodified":1529709684,
+    "wof:lastmodified":1564101933,
     "wof:name":"Kimo",
     "wof:parent_id":907199763,
     "wof:placetype":"locality",

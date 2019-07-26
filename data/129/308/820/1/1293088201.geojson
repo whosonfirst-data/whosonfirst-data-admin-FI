@@ -28,6 +28,12 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Toivola"
+    ],
+    "name:fin_x_preferred":[
+        "Toivola"
+    ],
     "name:und_x_variant":[
         "Toivula",
         "Toivola"
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1293088201,
-    "wof:lastmodified":1537622149,
+    "wof:lastmodified":1564100710,
     "wof:name":"Toivola",
     "wof:parent_id":907198891,
     "wof:placetype":"locality",

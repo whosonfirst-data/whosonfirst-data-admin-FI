@@ -28,6 +28,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kuisma"
+    ],
     "name:und_x_variant":[
         "Kuismavaara",
         "Kuisma"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1343648667,
-    "wof:lastmodified":1537622237,
+    "wof:lastmodified":1564096677,
     "wof:name":"Kuisma",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

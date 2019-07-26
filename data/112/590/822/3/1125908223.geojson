@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "H\u00f6gs\u00e5ra"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00f6gs\u00e5ra"
+    ],
     "name:unk_x_variant":[
         "H\u00f6gs\u00e5r"
     ],
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1125908223,
-    "wof:lastmodified":1529706490,
+    "wof:lastmodified":1564101929,
     "wof:name":"H\u00f6gs\u00e5ra",
     "wof:parent_id":907199735,
     "wof:placetype":"locality",

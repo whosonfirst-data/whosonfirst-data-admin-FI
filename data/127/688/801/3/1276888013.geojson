@@ -27,8 +27,20 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Saxby"
+    ],
+    "name:deu_x_preferred":[
+        "Saxby"
+    ],
     "name:fin_x_preferred":[
         "Saksala"
+    ],
+    "name:fra_x_preferred":[
+        "Saxby"
+    ],
+    "name:pol_x_preferred":[
+        "Saxby"
     ],
     "name:swe_x_preferred":[
         "Saxby"
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1276888013,
-    "wof:lastmodified":1537622164,
+    "wof:lastmodified":1564100901,
     "wof:name":"Saxby",
     "wof:parent_id":907198525,
     "wof:placetype":"locality",

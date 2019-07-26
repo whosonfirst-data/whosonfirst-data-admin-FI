@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Saarenmaa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0691\u06cc\u0646\u0645\u0627"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Saarenmaa",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1125996299,
-    "wof:lastmodified":1529711313,
+    "wof:lastmodified":1564101921,
     "wof:name":"Saarenmaa",
     "wof:parent_id":907199231,
     "wof:placetype":"locality",

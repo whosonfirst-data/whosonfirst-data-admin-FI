@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000642,
-    "geom:area_square_m":3943169.948769,
+    "geom:area_square_m":3943169.948767,
     "geom:bbox":"24.899444369,60.217327241,24.9474351348,60.2386195873",
     "geom:latitude":60.228075,
     "geom:longitude":24.925113,
@@ -34,6 +34,9 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
     "name:fin_x_preferred":[
+        "Maunula"
+    ],
+    "name:fra_x_preferred":[
         "Maunula"
     ],
     "name:swe_x_preferred":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108727377,
-    "wof:lastmodified":1529714717,
+    "wof:lastmodified":1564101409,
     "wof:name":"Maunula",
     "wof:parent_id":890536895,
     "wof:placetype":"macrohood",

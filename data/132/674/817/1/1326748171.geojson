@@ -27,6 +27,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Erse"
+    ],
     "name:und_x_variant":[
         "Jers\u00f6",
         "J\u00e4rs\u00f6"
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1326748171,
-    "wof:lastmodified":1537622272,
+    "wof:lastmodified":1564096233,
     "wof:name":"Erse",
     "wof:parent_id":907198511,
     "wof:placetype":"locality",

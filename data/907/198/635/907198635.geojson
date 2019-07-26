@@ -29,6 +29,12 @@
     "lbl:longitude":21.584793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Taivassalo"
+    ],
+    "name:deu_x_preferred":[
+        "Taivassalo"
+    ],
     "name:eng_x_preferred":[
         "Taivassalo"
     ],
@@ -38,11 +44,56 @@
     "name:fin_x_variant":[
         "Taivassalon Kunta"
     ],
+    "name:fra_x_preferred":[
+        "Taivassalo"
+    ],
+    "name:glg_x_preferred":[
+        "Taivassalo"
+    ],
+    "name:ita_x_preferred":[
+        "Taivassalo"
+    ],
+    "name:koi_x_preferred":[
+        "\u0422\u0430\u0439\u0432\u0430\u0441\u0441\u0430\u043b\u043e"
+    ],
+    "name:lat_x_preferred":[
+        "Toefsala"
+    ],
+    "name:nld_x_preferred":[
+        "Taivassalo"
+    ],
+    "name:nor_x_preferred":[
+        "T\u00f6vsala"
+    ],
+    "name:pol_x_preferred":[
+        "Taivassalo"
+    ],
+    "name:ron_x_preferred":[
+        "Taivassalo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u0432\u0430\u0441\u0441\u0430\u043b\u043e"
+    ],
+    "name:sme_x_preferred":[
+        "Taivassalo"
+    ],
+    "name:sqi_x_preferred":[
+        "Taivassalo"
+    ],
     "name:swe_x_preferred":[
         "T\u00f6vsala"
     ],
+    "name:tur_x_preferred":[
+        "Taivassalo"
+    ],
     "name:unk_x_variant":[
         "T\u00f6vsala"
+    ],
+    "name:vie_x_preferred":[
+        "Taivassalo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u74e6\u65af\u85a9\u6d1b"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -76,7 +127,7 @@
         }
     ],
     "wof:id":907198635,
-    "wof:lastmodified":1544224764,
+    "wof:lastmodified":1564100284,
     "wof:name":"Taivassalo",
     "wof:parent_id":1159321637,
     "wof:placetype":"localadmin",

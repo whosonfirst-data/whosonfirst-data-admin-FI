@@ -28,6 +28,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Ruuska"
+    ],
     "name:und_x_variant":[
         "Ruuskanper\u00e4",
         "Ruuska"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1276833113,
-    "wof:lastmodified":1537622171,
+    "wof:lastmodified":1564097241,
     "wof:name":"Ruuska",
     "wof:parent_id":907199629,
     "wof:placetype":"locality",

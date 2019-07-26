@@ -30,6 +30,12 @@
     "name:fin_x_preferred":[
         "Maunula"
     ],
+    "name:fra_x_preferred":[
+        "Maunula"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00e5nsas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683119,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1343732523,
-    "wof:lastmodified":1537622344,
+    "wof:lastmodified":1564100646,
     "wof:name":"Maunula",
     "wof:parent_id":907198989,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "\u00d6ll\u00f6l\u00e4"
+    ],
     "name:und_x_variant":[
         "\u00d6ll\u00f6l\u00e4"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1276643017,
-    "wof:lastmodified":1537622199,
+    "wof:lastmodified":1564097251,
     "wof:name":"OElloelae",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

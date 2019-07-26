@@ -27,6 +27,30 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Parila"
+    ],
+    "name:est_x_preferred":[
+        "Parila"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u057c\u056b\u056c\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Parila"
+    ],
+    "name:pol_x_preferred":[
+        "Parila"
+    ],
+    "name:sco_x_preferred":[
+        "Parila"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0456\u043b\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Parila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683099,
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1259877297,
-    "wof:lastmodified":1536788586,
+    "wof:lastmodified":1564102431,
     "wof:name":"Parila",
     "wof:parent_id":907199131,
     "wof:placetype":"locality",

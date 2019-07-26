@@ -29,17 +29,74 @@
     "lbl:longitude":23.463478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Urjala"
+    ],
+    "name:deu_x_preferred":[
+        "Urjala"
+    ],
     "name:eng_x_preferred":[
         "Urjala"
     ],
+    "name:est_x_preferred":[
+        "Urjala vald"
+    ],
     "name:fin_x_preferred":[
+        "Urjala"
+    ],
+    "name:fra_x_preferred":[
+        "Urjala"
+    ],
+    "name:gle_x_preferred":[
+        "Urjala"
+    ],
+    "name:glg_x_preferred":[
+        "Urjala"
+    ],
+    "name:ita_x_preferred":[
+        "Urjala"
+    ],
+    "name:nld_x_preferred":[
+        "Urjala"
+    ],
+    "name:nor_x_preferred":[
+        "Urjala"
+    ],
+    "name:pol_x_preferred":[
+        "Urjala"
+    ],
+    "name:ron_x_preferred":[
+        "Urjala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u044c\u044f\u043b\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Urjala"
+    ],
+    "name:sme_x_preferred":[
+        "Urjala"
+    ],
+    "name:sqi_x_preferred":[
         "Urjala"
     ],
     "name:swe_x_preferred":[
         "Urjala"
     ],
+    "name:swe_x_variant":[
+        "Urdiala"
+    ],
+    "name:tur_x_preferred":[
+        "Urjala"
+    ],
     "name:unk_x_variant":[
         "Urdiala"
+    ],
+    "name:vie_x_preferred":[
+        "Urjala"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u723e\u4e9e\u62c9"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -74,7 +131,7 @@
         }
     ],
     "wof:id":907198841,
-    "wof:lastmodified":1544224777,
+    "wof:lastmodified":1564100311,
     "wof:name":"Urjala",
     "wof:parent_id":1159321621,
     "wof:placetype":"localadmin",

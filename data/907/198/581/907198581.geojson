@@ -32,11 +32,17 @@
     "name:eng_x_preferred":[
         "Tammela"
     ],
+    "name:est_x_preferred":[
+        "Tammela"
+    ],
     "name:fin_x_preferred":[
         "Tammela"
     ],
     "name:fin_x_variant":[
         "Tammelan Kunta"
+    ],
+    "name:pol_x_preferred":[
+        "Tammela"
     ],
     "name:swe_x_preferred":[
         "Tammela"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":907198581,
-    "wof:lastmodified":1544224761,
+    "wof:lastmodified":1564100292,
     "wof:name":"Tammela",
     "wof:parent_id":1159321511,
     "wof:placetype":"localadmin",

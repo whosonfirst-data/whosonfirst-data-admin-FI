@@ -21,8 +21,20 @@
     "name:eng_x_preferred":[
         "Er\u00e4j\u00e4rvi"
     ],
+    "name:fin_x_preferred":[
+        "Er\u00e4j\u00e4rvi"
+    ],
+    "name:nor_x_preferred":[
+        "Er\u00e4j\u00e4rvi"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0440\u044f\u044f\u0440\u0432\u0438"
+    ],
+    "name:sqi_x_preferred":[
+        "Er\u00e4j\u00e4rvi"
+    ],
+    "name:swe_x_preferred":[
+        "Er\u00e4j\u00e4rvi"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -79,7 +91,7 @@
         }
     ],
     "wof:id":1125891307,
-    "wof:lastmodified":1529711301,
+    "wof:lastmodified":1564101904,
     "wof:name":"Er\u00e4j\u00e4rvi",
     "wof:parent_id":907199393,
     "wof:placetype":"locality",

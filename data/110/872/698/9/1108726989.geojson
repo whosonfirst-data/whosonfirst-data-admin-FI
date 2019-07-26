@@ -25,7 +25,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Heikinlaakso"
+    ],
     "name:fin_x_preferred":[
+        "Heikinlaakso"
+    ],
+    "name:fra_x_preferred":[
         "Heikinlaakso"
     ],
     "name:swe_x_preferred":[
@@ -38,7 +44,6 @@
         "quattroshapes_pg"
     ],
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727369,
         907199715,
@@ -47,7 +52,8 @@
         101748417,
         136253047,
         890536891,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1108726989,
-    "wof:lastmodified":1529714726,
+    "wof:lastmodified":1564101493,
     "wof:name":"Heikinlaakso",
     "wof:parent_id":1108727369,
     "wof:placetype":"neighbourhood",

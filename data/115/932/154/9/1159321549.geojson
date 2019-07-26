@@ -34,10 +34,31 @@
     "mps:longitude":29.348702,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kehys-Kainuu"
+    ],
+    "name:deu_x_preferred":[
+        "Kehys-Kainuu"
+    ],
     "name:eng_x_preferred":[
         "Kehys-Kainuu"
     ],
     "name:fin_x_preferred":[
+        "Kehys-Kainuu"
+    ],
+    "name:fin_x_variant":[
+        "Kehys-Kainuun seutukunta"
+    ],
+    "name:nor_x_preferred":[
+        "Kehys-Kainuu"
+    ],
+    "name:pol_x_preferred":[
+        "Podregion Kehys-Kainuu"
+    ],
+    "name:sme_x_preferred":[
+        "Kehys-Kainuu guovlogielda"
+    ],
+    "name:swe_x_preferred":[
         "Kehys-Kainuu"
     ],
     "src:geom":"fivgov",
@@ -66,7 +87,7 @@
         }
     ],
     "wof:id":1159321549,
-    "wof:lastmodified":1554325343,
+    "wof:lastmodified":1564102061,
     "wof:name":"Kehys-Kainuu",
     "wof:parent_id":85683137,
     "wof:placetype":"county",

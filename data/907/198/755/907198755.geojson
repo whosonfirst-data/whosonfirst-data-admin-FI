@@ -29,8 +29,17 @@
     "lbl:longitude":26.746994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Hirvensalmi"
+    ],
+    "name:deu_x_preferred":[
+        "Hirvensalmi"
+    ],
     "name:eng_x_preferred":[
         "Hirvensalmi"
+    ],
+    "name:est_x_preferred":[
+        "Hirvensalmi vald"
     ],
     "name:fin_x_preferred":[
         "Hirvensalmi"
@@ -38,8 +47,47 @@
     "name:fin_x_variant":[
         "Hirvensalmen Kunta"
     ],
+    "name:fra_x_preferred":[
+        "Hirvensalmi"
+    ],
+    "name:glg_x_preferred":[
+        "Hirvensalmi"
+    ],
+    "name:ita_x_preferred":[
+        "Hirvensalmi"
+    ],
+    "name:nld_x_preferred":[
+        "Hirvensalmi"
+    ],
+    "name:nor_x_preferred":[
+        "Hirvensalmi"
+    ],
+    "name:pol_x_preferred":[
+        "Hirvensalmi"
+    ],
+    "name:ron_x_preferred":[
+        "Hirvensalmi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0440\u0432\u0435\u043d\u0441\u0430\u043b\u043c\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Hirvensalmi"
+    ],
+    "name:spa_x_preferred":[
+        "Hirvensalmi"
+    ],
+    "name:sqi_x_preferred":[
+        "Hirvensalmi"
+    ],
     "name:swe_x_preferred":[
         "Hirvensalmi"
+    ],
+    "name:tur_x_preferred":[
+        "Hirvensalmi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u723e\u6587\u85a9\u723e\u7c73"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -74,7 +122,7 @@
         }
     ],
     "wof:id":907198755,
-    "wof:lastmodified":1544224771,
+    "wof:lastmodified":1564100258,
     "wof:name":"Hirvensalmi",
     "wof:parent_id":1159321539,
     "wof:placetype":"localadmin",

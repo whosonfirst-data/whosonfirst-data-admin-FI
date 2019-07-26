@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001672,
-    "geom:area_square_m":10226257.126845,
+    "geom:area_square_m":10226257.126843,
     "geom:bbox":"24.8655581124,60.3290517874,24.9430934145,60.3828515962",
     "geom:latitude":60.350902,
     "geom:longitude":24.904119,
@@ -31,6 +31,9 @@
     "name:fin_x_preferred":[
         "Kiila"
     ],
+    "name:nld_x_preferred":[
+        "Kiila"
+    ],
     "name:swe_x_preferred":[
         "Kila"
     ],
@@ -38,7 +41,6 @@
     "reversegeo:longitude":24.907945,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -46,7 +48,8 @@
         101748419,
         136253047,
         1108729481,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108729535,
-    "wof:lastmodified":1529714753,
+    "wof:lastmodified":1564101407,
     "wof:name":"Kiila",
     "wof:parent_id":1108729481,
     "wof:placetype":"neighbourhood",

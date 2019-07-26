@@ -30,8 +30,20 @@
     "name:eng_x_preferred":[
         "Marjaniemi"
     ],
+    "name:fin_x_preferred":[
+        "Marjaniemi"
+    ],
+    "name:fra_x_preferred":[
+        "Marjaniemi"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u044c\u044f\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Marudd"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440'\u044f\u043d\u0456\u0435\u043c\u0456"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1226113831,
-    "wof:lastmodified":1537622310,
+    "wof:lastmodified":1564102506,
     "wof:name":"Marjaniemi",
     "wof:parent_id":907199435,
     "wof:placetype":"locality",

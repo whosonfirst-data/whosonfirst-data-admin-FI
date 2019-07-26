@@ -30,6 +30,9 @@
     "name:fin_x_preferred":[
         "Espoonlahti"
     ],
+    "name:fra_x_preferred":[
+        "Espoonlahti"
+    ],
     "name:swe_x_preferred":[
         "Esboviken"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1344171233,
-    "wof:lastmodified":1537622314,
+    "wof:lastmodified":1564100620,
     "wof:name":"Espoonlahti",
     "wof:parent_id":907198517,
     "wof:placetype":"locality",

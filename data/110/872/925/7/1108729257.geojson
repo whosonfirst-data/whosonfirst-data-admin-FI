@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000832,
-    "geom:area_square_m":5114190.550376,
+    "geom:area_square_m":5114190.550377,
     "geom:bbox":"24.686615444,60.1765709811,24.7480117944,60.2044102729",
     "geom:latitude":60.188051,
     "geom:longitude":24.725664,
@@ -30,6 +30,12 @@
     "mz:min_zoom":13.0,
     "name:fin_x_preferred":[
         "Henttaa"
+    ],
+    "name:fra_x_preferred":[
+        "Henttaa-Suurpelto"
+    ],
+    "name:swe_x_preferred":[
+        "Hemtans"
     ],
     "reversegeo:latitude":60.186816,
     "reversegeo:longitude":24.73287,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108729257,
-    "wof:lastmodified":1529714719,
+    "wof:lastmodified":1564101457,
     "wof:name":"Henttaa",
     "wof:parent_id":1108729221,
     "wof:placetype":"macrohood",

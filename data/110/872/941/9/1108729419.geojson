@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000377,
-    "geom:area_square_m":2312070.561489,
+    "geom:area_square_m":2312070.56149,
     "geom:bbox":"24.71487427,60.2182662479,24.7590356663,60.2378753408",
     "geom:latitude":60.227416,
     "geom:longitude":24.739545,
@@ -29,8 +29,14 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Viherlaakso"
+    ],
     "name:fin_x_preferred":[
         "Viherlaakso"
+    ],
+    "name:fra_x_preferred":[
+        "Viherlaakso-Lippaj\u00e4rvi"
     ],
     "name:swe_x_preferred":[
         "Gr\u00f6ndal"
@@ -39,7 +45,6 @@
     "reversegeo:longitude":24.74172,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729263,
         907198517,
@@ -48,7 +53,8 @@
         101748415,
         136253047,
         1108729223,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108729419,
-    "wof:lastmodified":1529714746,
+    "wof:lastmodified":1564101448,
     "wof:name":"Viherlaakso",
     "wof:parent_id":1108729263,
     "wof:placetype":"neighbourhood",

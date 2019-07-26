@@ -28,14 +28,34 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ben_x_preferred":[
+        "\u0985\u09b8\u09cb\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Asola"
+    ],
+    "name:deu_x_preferred":[
+        "Asola"
+    ],
     "name:fin_x_preferred":[
+        "Asola"
+    ],
+    "name:ita_x_preferred":[
+        "Asola"
+    ],
+    "name:nld_x_preferred":[
+        "Asola"
+    ],
+    "name:swe_x_preferred":[
+        "Asola"
+    ],
+    "name:vie_x_preferred":[
         "Asola"
     ],
     "reversegeo:latitude":60.334124,
     "reversegeo:longitude":25.055577,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -43,7 +63,8 @@
         101748419,
         136253047,
         1108729493,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -64,7 +85,7 @@
         }
     ],
     "wof:id":1108729505,
-    "wof:lastmodified":1529714752,
+    "wof:lastmodified":1564101460,
     "wof:name":"Asola",
     "wof:parent_id":1108729493,
     "wof:placetype":"neighbourhood",

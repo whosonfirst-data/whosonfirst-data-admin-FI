@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000282,
-    "geom:area_square_m":1723473.14599,
+    "geom:area_square_m":1723473.145991,
     "geom:bbox":"22.2559891384,60.402617442,22.2901927014,60.4165550528",
     "geom:latitude":60.410552,
     "geom:longitude":22.274083,
@@ -23,6 +23,12 @@
     "name:fin_x_preferred":[
         "Katariina"
     ],
+    "name:koi_x_preferred":[
+        "\u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0430\u0440\u0438\u0439\u043d\u0430"
+    ],
     "name:swe_x_preferred":[
         "Katarina"
     ],
@@ -33,14 +39,14 @@
     "tkugov:NIMI":"Katariina",
     "tkugov:PIENALUE":"853319064",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108728577,
-    "wof:lastmodified":1529706498,
+    "wof:lastmodified":1564101433,
     "wof:name":"Katariina",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

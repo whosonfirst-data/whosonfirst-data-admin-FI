@@ -27,6 +27,15 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kirvesniemi"
+    ],
+    "name:fin_x_preferred":[
+        "Kirvesniemi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0432\u0435\u0441\u043d\u0438\u0435\u043c\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683103,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1310189609,
-    "wof:lastmodified":1536874268,
+    "wof:lastmodified":1564101592,
     "wof:name":"Kirvesniemi",
     "wof:parent_id":907198779,
     "wof:placetype":"locality",

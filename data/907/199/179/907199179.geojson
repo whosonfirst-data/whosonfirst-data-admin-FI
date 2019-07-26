@@ -29,8 +29,29 @@
     "lbl:longitude":24.456652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0435\u0443\u0440\u0443\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Keuruu"
+    ],
+    "name:ceb_x_preferred":[
+        "Keuruu"
+    ],
+    "name:deu_x_preferred":[
+        "Keuruu"
+    ],
     "name:eng_x_preferred":[
         "Keuruu"
+    ],
+    "name:epo_x_preferred":[
+        "Keuruu"
+    ],
+    "name:est_x_preferred":[
+        "Keuruu linn"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0626\u0648\u0631\u0648"
     ],
     "name:fin_x_preferred":[
         "Keuruu"
@@ -38,14 +59,84 @@
     "name:fin_x_variant":[
         "Keuruun Kaupunki"
     ],
+    "name:fra_x_preferred":[
+        "Keuruu"
+    ],
+    "name:glg_x_preferred":[
+        "Keuruu"
+    ],
+    "name:hun_x_preferred":[
+        "Keuruu"
+    ],
+    "name:ita_x_preferred":[
+        "Keuruu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30a6\u30eb\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf00\uc6b0\ub8e8"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041a\u0435\u0443\u0440\u0443\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Keuruu"
+    ],
+    "name:nno_x_preferred":[
+        "Keuruu"
+    ],
+    "name:nor_x_preferred":[
+        "Keuruu"
+    ],
+    "name:pol_x_preferred":[
+        "Keuruu"
+    ],
+    "name:ron_x_preferred":[
+        "Keuruu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0443\u0440\u0443\u0443"
+    ],
+    "name:sme_x_preferred":[
+        "Keuruu"
+    ],
+    "name:spa_x_preferred":[
+        "Keuruu"
+    ],
+    "name:sqi_x_preferred":[
+        "Keuruu"
+    ],
     "name:swe_x_preferred":[
         "Keuruu"
     ],
     "name:swe_x_variant":[
-        "Keuru Stad"
+        "Keuru Stad",
+        "Keuru"
+    ],
+    "name:szl_x_preferred":[
+        "Keuruu"
+    ],
+    "name:tur_x_preferred":[
+        "Keuruu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0443\u0440\u0443\u0443"
     ],
     "name:unk_x_variant":[
         "Keuru"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0648\u0631\u0648"
+    ],
+    "name:vep_x_preferred":[
+        "Keuruu"
+    ],
+    "name:vie_x_preferred":[
+        "Keuruu"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u70cf\u9b6f"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -80,7 +171,7 @@
         }
     ],
     "wof:id":907199179,
-    "wof:lastmodified":1544224801,
+    "wof:lastmodified":1564100468,
     "wof:name":"Keuruu",
     "wof:parent_id":1159321499,
     "wof:placetype":"localadmin",

@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Pokka"
     ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30c3\u30ab\u30b5\u30c3\u30dd\u30ed\u30d5\u30fc\u30c9&\u30d3\u30d0\u30ec\u30c3\u30b8"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u043a\u043a\u0430"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1243033589,
-    "wof:lastmodified":1537622185,
+    "wof:lastmodified":1564102214,
     "wof:name":"Pokka",
     "wof:parent_id":907199565,
     "wof:placetype":"locality",

@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Tourula"
+    ],
+    "name:fra_x_preferred":[
+        "Tourula"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Tourula",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1125889043,
-    "wof:lastmodified":1529706357,
+    "wof:lastmodified":1564101897,
     "wof:name":"Tourula",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

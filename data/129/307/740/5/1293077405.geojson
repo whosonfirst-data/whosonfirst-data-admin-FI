@@ -27,6 +27,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Karstula"
+    ],
     "name:deu_x_preferred":[
         "Karstula"
     ],
@@ -36,13 +39,31 @@
     "name:epo_x_preferred":[
         "Karstula"
     ],
+    "name:est_x_preferred":[
+        "Karstula vald"
+    ],
     "name:fin_x_preferred":[
         "Karstula"
     ],
     "name:fra_x_preferred":[
         "Karstula"
     ],
+    "name:glg_x_preferred":[
+        "Karstula"
+    ],
+    "name:ita_x_preferred":[
+        "Karstula"
+    ],
     "name:nld_x_preferred":[
+        "Karstula"
+    ],
+    "name:nno_x_preferred":[
+        "Karstula"
+    ],
+    "name:nor_x_preferred":[
+        "Karstula"
+    ],
+    "name:pol_x_preferred":[
         "Karstula"
     ],
     "name:ron_x_preferred":[
@@ -51,8 +72,23 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0441\u0442\u0443\u043b\u0430"
     ],
+    "name:sme_x_preferred":[
+        "Karstula"
+    ],
+    "name:sqi_x_preferred":[
+        "Karstula"
+    ],
     "name:swe_x_preferred":[
         "Karstula"
+    ],
+    "name:tur_x_preferred":[
+        "Karstula"
+    ],
+    "name:vie_x_preferred":[
+        "Karstula"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u65af\u5716\u62c9"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -85,7 +121,7 @@
         }
     ],
     "wof:id":1293077405,
-    "wof:lastmodified":1537622258,
+    "wof:lastmodified":1564100685,
     "wof:name":"Karstula",
     "wof:parent_id":907199083,
     "wof:placetype":"locality",

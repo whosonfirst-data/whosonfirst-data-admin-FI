@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000973,
-    "geom:area_square_m":5979758.999095,
+    "geom:area_square_m":5979758.999096,
     "geom:bbox":"24.8688151506,60.1721116908,24.9244095967,60.2087840395",
     "geom:latitude":60.191586,
     "geom:longitude":24.896753,
@@ -36,8 +36,14 @@
     "name:fin_x_preferred":[
         "Reijola"
     ],
+    "name:fra_x_preferred":[
+        "Reijola"
+    ],
     "name:swe_x_preferred":[
         "Grejus"
+    ],
+    "name:swe_x_variant":[
+        "Grejus distrikt"
     ],
     "reversegeo:latitude":60.195433,
     "reversegeo:longitude":24.90139,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108727373,
-    "wof:lastmodified":1529714717,
+    "wof:lastmodified":1564101409,
     "wof:name":"Reijola",
     "wof:parent_id":890536889,
     "wof:placetype":"macrohood",

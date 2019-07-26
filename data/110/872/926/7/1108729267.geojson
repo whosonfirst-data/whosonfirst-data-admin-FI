@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001029,
-    "geom:area_square_m":6312572.334881,
+    "geom:area_square_m":6312572.33488,
     "geom:bbox":"24.7220061756,60.2309721686,24.7847664532,60.2656368955",
     "geom:latitude":60.245023,
     "geom:longitude":24.75734,
@@ -28,8 +28,17 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Laaksolahti"
+    ],
     "name:fin_x_preferred":[
         "Laaksolahti"
+    ],
+    "name:fra_x_preferred":[
+        "Laaksolahti"
+    ],
+    "name:swe_x_preferred":[
+        "Dalsvik"
     ],
     "reversegeo:latitude":60.243809,
     "reversegeo:longitude":24.75781,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1108729267,
-    "wof:lastmodified":1529714720,
+    "wof:lastmodified":1564101506,
     "wof:name":"Laaksolahti",
     "wof:parent_id":1108729223,
     "wof:placetype":"macrohood",

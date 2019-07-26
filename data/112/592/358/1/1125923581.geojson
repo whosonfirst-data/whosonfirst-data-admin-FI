@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Haarajoki"
     ],
+    "name:fin_x_preferred":[
+        "Haarajoki"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0440\u0430\u0439\u043e\u043a\u0438"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125923581,
-    "wof:lastmodified":1529714690,
+    "wof:lastmodified":1564101851,
     "wof:name":"Haarajoki",
     "wof:parent_id":907198521,
     "wof:placetype":"locality",

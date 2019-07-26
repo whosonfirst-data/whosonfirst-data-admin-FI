@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:est_x_preferred":[
+        "Oriketo"
+    ],
+    "name:fin_x_preferred":[
+        "Oriketo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0438\u043a\u0435\u0442\u043e"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1125788611,
-    "wof:lastmodified":1529706493,
+    "wof:lastmodified":1564101996,
     "wof:name":"Oriketo",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Fionn\u00fa"
+    ],
     "name:und_x_variant":[
         "Einn\u00f6",
         "Einno",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1293101889,
-    "wof:lastmodified":1537622295,
+    "wof:lastmodified":1564097063,
     "wof:name":"Finnoe",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

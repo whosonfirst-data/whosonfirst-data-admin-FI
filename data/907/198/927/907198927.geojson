@@ -29,14 +29,80 @@
     "lbl:longitude":22.170765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0440\u2019\u044f\u0432\u0430\u043b\u0442\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Harjavalta"
+    ],
+    "name:deu_x_preferred":[
+        "Harjavalta"
+    ],
     "name:eng_x_preferred":[
         "Harjavalta"
+    ],
+    "name:epo_x_preferred":[
+        "Harjavalta"
+    ],
+    "name:est_x_preferred":[
+        "Harjavalta linn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0631\u06cc\u0627\u0648\u0627\u0644\u062a\u0627"
     ],
     "name:fin_x_preferred":[
         "Harjavalta"
     ],
+    "name:fra_x_preferred":[
+        "Harjavalta"
+    ],
+    "name:glg_x_preferred":[
+        "Harjavalta"
+    ],
+    "name:ita_x_preferred":[
+        "Harjavalta"
+    ],
+    "name:nld_x_preferred":[
+        "Harjavalta"
+    ],
+    "name:nor_x_preferred":[
+        "Harjavalta"
+    ],
+    "name:pol_x_preferred":[
+        "Harjavalta"
+    ],
+    "name:por_x_preferred":[
+        "Harjavalta"
+    ],
+    "name:ron_x_preferred":[
+        "Harjavalta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u044c\u044f\u0432\u0430\u043b\u0442\u0430"
+    ],
+    "name:sme_x_preferred":[
+        "Harjavalta"
+    ],
+    "name:spa_x_preferred":[
+        "Harjavalta"
+    ],
+    "name:sqi_x_preferred":[
+        "Harjavalta"
+    ],
     "name:swe_x_preferred":[
         "Harjavalta"
+    ],
+    "name:tur_x_preferred":[
+        "Harjavalta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0440'\u044f\u0432\u0430\u043b\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0627\u0631\u06cc\u0627\u0648\u0627\u0644\u062a\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u723e\u4e9e\u74e6\u723e\u5854"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -71,7 +137,7 @@
         }
     ],
     "wof:id":907198927,
-    "wof:lastmodified":1544224784,
+    "wof:lastmodified":1564100337,
     "wof:name":"Harjavalta",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

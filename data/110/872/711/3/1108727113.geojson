@@ -25,18 +25,74 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u062a\u064a\u0644\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Marttila"
+    ],
+    "name:deu_x_preferred":[
+        "Marttila"
+    ],
+    "name:est_x_preferred":[
+        "Marttila vald"
+    ],
     "name:fin_x_preferred":[
+        "Marttila"
+    ],
+    "name:fra_x_preferred":[
+        "Marttila"
+    ],
+    "name:glg_x_preferred":[
+        "Marttila"
+    ],
+    "name:ita_x_preferred":[
+        "Marttila"
+    ],
+    "name:koi_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0442\u0438\u043b\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Marttila"
+    ],
+    "name:nor_x_preferred":[
+        "Marttila"
+    ],
+    "name:pol_x_preferred":[
+        "Marttila"
+    ],
+    "name:ron_x_preferred":[
+        "Marttila"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0442\u0438\u043b\u0430"
+    ],
+    "name:sme_x_preferred":[
+        "Marttila"
+    ],
+    "name:sqi_x_preferred":[
         "Marttila"
     ],
     "name:swe_x_preferred":[
         "Martas"
+    ],
+    "name:swe_x_variant":[
+        "S:t M\u00e5rtens"
+    ],
+    "name:tur_x_preferred":[
+        "Marttila"
+    ],
+    "name:vie_x_preferred":[
+        "Marttila"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u723e\u8482\u62c9"
     ],
     "reversegeo:latitude":60.228024,
     "reversegeo:longitude":24.867318,
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537259,
         907199715,
@@ -45,7 +101,8 @@
         101748417,
         136253047,
         890536889,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +125,7 @@
         }
     ],
     "wof:id":1108727113,
-    "wof:lastmodified":1529714731,
+    "wof:lastmodified":1564101510,
     "wof:name":"Marttila",
     "wof:parent_id":890537259,
     "wof:placetype":"neighbourhood",

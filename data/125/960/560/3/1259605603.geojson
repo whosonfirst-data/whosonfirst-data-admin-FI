@@ -27,6 +27,12 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Nappa"
+    ],
+    "name:ita_x_preferred":[
+        "Nappa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683081,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1259605603,
-    "wof:lastmodified":1537562787,
+    "wof:lastmodified":1564102417,
     "wof:name":"Nappa",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

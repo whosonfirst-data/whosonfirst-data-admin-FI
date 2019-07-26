@@ -29,6 +29,9 @@
     "lbl:longitude":28.085872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Taipalsaari"
+    ],
     "name:deu_x_preferred":[
         "Taipalsaari"
     ],
@@ -38,13 +41,31 @@
     "name:est_x_preferred":[
         "Taipalsaari"
     ],
+    "name:est_x_variant":[
+        "Taipalsaari vald"
+    ],
     "name:fin_x_preferred":[
         "Taipalsaari"
     ],
     "name:fra_x_preferred":[
         "Taipalsaari"
     ],
+    "name:glg_x_preferred":[
+        "Taipalsaari"
+    ],
+    "name:ita_x_preferred":[
+        "Taipalsaari"
+    ],
     "name:nld_x_preferred":[
+        "Taipalsaari"
+    ],
+    "name:nor_x_preferred":[
+        "Taipalsaari"
+    ],
+    "name:pol_x_preferred":[
+        "Taipalsaari"
+    ],
+    "name:por_x_preferred":[
         "Taipalsaari"
     ],
     "name:ron_x_preferred":[
@@ -53,8 +74,23 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0439\u043f\u0430\u043b\u0441\u0430\u0430\u0440\u0438"
     ],
+    "name:sme_x_preferred":[
+        "Taipalsaari"
+    ],
+    "name:spa_x_preferred":[
+        "Taipalsaari"
+    ],
+    "name:sqi_x_preferred":[
+        "Taipalsaari"
+    ],
     "name:swe_x_preferred":[
         "Taipalsaari"
+    ],
+    "name:tur_x_preferred":[
+        "Taipalsaari"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u5e15\u723e\u85a9\u91cc"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -89,7 +125,7 @@
         }
     ],
     "wof:id":907198779,
-    "wof:lastmodified":1544224774,
+    "wof:lastmodified":1564100296,
     "wof:name":"Taipalsaari",
     "wof:parent_id":1159321547,
     "wof:placetype":"localadmin",

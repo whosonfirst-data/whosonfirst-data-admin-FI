@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
-    "geom:area_square_m":1630357.529378,
+    "geom:area_square_m":1630357.52938,
     "geom:bbox":"24.9166471275,60.1426497175,24.9385789921,60.1607332645",
     "geom:latitude":60.149519,
     "geom:longitude":24.928531,
@@ -28,15 +28,23 @@
     "name:fin_x_preferred":[
         "Hernesaari"
     ],
+    "name:fin_x_variant":[
+        "Munkkisaari"
+    ],
+    "name:fra_x_preferred":[
+        "Munkkisaari"
+    ],
     "name:swe_x_preferred":[
         "\u00c4rtholmen"
+    ],
+    "name:swe_x_variant":[
+        "Munkholmen"
     ],
     "reversegeo:latitude":60.149401,
     "reversegeo:longitude":24.929418,
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727335,
         907199715,
@@ -45,7 +53,8 @@
         101748417,
         136253047,
         890536879,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108726995,
-    "wof:lastmodified":1529714726,
+    "wof:lastmodified":1564101485,
     "wof:name":"Hernesaari",
     "wof:parent_id":-3,
     "wof:placetype":"neighbourhood",

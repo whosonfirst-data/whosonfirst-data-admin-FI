@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000508,
-    "geom:area_square_m":3116122.758049,
+    "geom:area_square_m":3116122.758048,
     "geom:bbox":"25.180194142,60.2291949409,25.2266305506,60.2471081106",
     "geom:latitude":60.23972,
     "geom:longitude":25.203453,
@@ -28,6 +28,9 @@
     "name:fin_x_preferred":[
         "Talosaari"
     ],
+    "name:fra_x_preferred":[
+        "Talosaari"
+    ],
     "name:swe_x_preferred":[
         "Hus\u00f6"
     ],
@@ -36,7 +39,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727375,
         907199715,
@@ -46,6 +48,7 @@
         136253047,
         890536893,
         1159321633,
+        85683067,
         101748417
     ],
     "wof:breaches":[],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108727207,
-    "wof:lastmodified":1529714735,
+    "wof:lastmodified":1564101512,
     "wof:name":"Talosaari",
     "wof:parent_id":1108727375,
     "wof:placetype":"neighbourhood",

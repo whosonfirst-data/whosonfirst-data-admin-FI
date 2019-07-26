@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Pakarinen"
+    ],
+    "name:fin_x_preferred":[
+        "Pakarinen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043a\u0430\u0440\u0438\u043d\u0435\u043d"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1126013367,
-    "wof:lastmodified":1529714459,
+    "wof:lastmodified":1564101966,
     "wof:name":"Pakarinen",
     "wof:parent_id":907199027,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:fin_x_preferred":[
         "Nurmi"
     ],
+    "name:fra_x_preferred":[
+        "Nurmi"
+    ],
+    "name:mkd_x_preferred":[
+        "Nurmi"
+    ],
     "reversegeo:latitude":61.541055,
     "reversegeo:longitude":23.944311,
     "src:geom":"tmpgov",
@@ -30,14 +36,14 @@
     "tmpgov:id":"717080",
     "tmpgov:name":"Nurmi",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108728419,
-    "wof:lastmodified":1529711331,
+    "wof:lastmodified":1564101473,
     "wof:name":"Nurmi",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

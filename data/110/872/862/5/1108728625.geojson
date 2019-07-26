@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000356,
-    "geom:area_square_m":2168262.176135,
+    "geom:area_square_m":2168262.176136,
     "geom:bbox":"22.3031470771,60.4625349851,22.34050575,60.4806234178",
     "geom:latitude":60.470191,
     "geom:longitude":22.321763,
@@ -23,6 +23,12 @@
     "name:fin_x_preferred":[
         "Halinen"
     ],
+    "name:koi_x_preferred":[
+        "\u0425\u0430\u043b\u0438\u043d\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u0438\u043d\u0435\u043d"
+    ],
     "name:swe_x_preferred":[
         "Hallis"
     ],
@@ -33,14 +39,14 @@
     "tkugov:NIMI":"Halinen",
     "tkugov:PIENALUE":"853531093",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108728625,
-    "wof:lastmodified":1529706501,
+    "wof:lastmodified":1564101488,
     "wof:name":"Halinen",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

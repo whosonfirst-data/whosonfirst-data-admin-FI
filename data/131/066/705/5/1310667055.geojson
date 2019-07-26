@@ -27,6 +27,66 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:deu_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:est_x_preferred":[
+        "Ruokolahti vald"
+    ],
+    "name:fin_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:fra_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:glg_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:ita_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30aa\u30b3\u30e9\u30cf\u30c6\u30a3"
+    ],
+    "name:nld_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:nor_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:pol_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:por_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:ron_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u043e\u043a\u043e\u043b\u0430\u0445\u0442\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:spa_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:sqi_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:swe_x_preferred":[
+        "Ruokolax"
+    ],
+    "name:tur_x_preferred":[
+        "Ruokolahti"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u5967\u79d1\u62c9\u8d6b\u8482"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683137,
@@ -56,7 +116,7 @@
         }
     ],
     "wof:id":1310667055,
-    "wof:lastmodified":1536683865,
+    "wof:lastmodified":1564101623,
     "wof:name":"Ruokolahti",
     "wof:parent_id":907199319,
     "wof:placetype":"locality",

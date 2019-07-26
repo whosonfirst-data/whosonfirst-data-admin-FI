@@ -30,8 +30,26 @@
     "name:eng_x_preferred":[
         "Pispala"
     ],
+    "name:est_x_preferred":[
+        "Pispala"
+    ],
+    "name:fin_x_preferred":[
+        "Pispala"
+    ],
+    "name:fra_x_preferred":[
+        "Pispala"
+    ],
+    "name:pol_x_preferred":[
+        "Pispala"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u0441\u043f\u0430\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Pispala"
+    ],
+    "name:swe_x_preferred":[
+        "Pispala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1225966255,
-    "wof:lastmodified":1537622187,
+    "wof:lastmodified":1564102560,
     "wof:name":"Pispala",
     "wof:parent_id":907199185,
     "wof:placetype":"locality",

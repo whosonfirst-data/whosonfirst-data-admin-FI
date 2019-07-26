@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00054,
-    "geom:area_square_m":3316013.915772,
+    "geom:area_square_m":3316013.915771,
     "geom:bbox":"24.9931972315,60.2306460863,25.04065107,60.2590256511",
     "geom:latitude":60.245066,
     "geom:longitude":25.020463,
@@ -25,7 +25,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Ala-Malmi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627-\u0645\u0627\u0644\u0645\u06cc"
+    ],
     "name:fin_x_preferred":[
+        "Ala-Malmi"
+    ],
+    "name:fra_x_preferred":[
         "Ala-Malmi"
     ],
     "name:swe_x_preferred":[
@@ -36,7 +45,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537239,
         907199715,
@@ -45,7 +53,8 @@
         101748417,
         136253047,
         890536891,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":1108726967,
-    "wof:lastmodified":1529714724,
+    "wof:lastmodified":1564101492,
     "wof:name":"Ala-Malmi",
     "wof:parent_id":890537239,
     "wof:placetype":"neighbourhood",

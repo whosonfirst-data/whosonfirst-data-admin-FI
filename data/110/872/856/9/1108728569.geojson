@@ -23,6 +23,12 @@
     "name:fin_x_preferred":[
         "Moikoinen"
     ],
+    "name:koi_x_preferred":[
+        "\u041c\u043e\u0439\u043a\u043e\u0439\u043d\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0439\u043a\u043e\u0439\u043d\u0435\u043d"
+    ],
     "name:swe_x_preferred":[
         "Moikois"
     ],
@@ -33,14 +39,14 @@
     "tkugov:NIMI":"Moikoinen",
     "tkugov:PIENALUE":"853217051",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108728569,
-    "wof:lastmodified":1529706498,
+    "wof:lastmodified":1564101436,
     "wof:name":"Moikoinen",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

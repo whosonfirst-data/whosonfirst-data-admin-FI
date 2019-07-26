@@ -27,6 +27,42 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kuivaniemi"
+    ],
+    "name:ces_x_preferred":[
+        "Kuivaniemi"
+    ],
+    "name:deu_x_preferred":[
+        "Kuivaniemi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03b9\u03b2\u03b1\u03bd\u03b9\u03b5\u03bc\u03b9"
+    ],
+    "name:fin_x_preferred":[
+        "Kuivaniemi"
+    ],
+    "name:fra_x_preferred":[
+        "Kuivaniemi"
+    ],
+    "name:nld_x_preferred":[
+        "Kuivaniemi"
+    ],
+    "name:nor_x_preferred":[
+        "Kuivaniemi"
+    ],
+    "name:ron_x_preferred":[
+        "Kuivaniemi"
+    ],
+    "name:sme_x_preferred":[
+        "Kuivaniemi"
+    ],
+    "name:swe_x_preferred":[
+        "Kuivaniemi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u4f0a\u74e6\u6d85\u7c73"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683117,
@@ -56,7 +92,7 @@
         }
     ],
     "wof:id":1326509633,
-    "wof:lastmodified":1537015931,
+    "wof:lastmodified":1564100010,
     "wof:name":"Kuivaniemi",
     "wof:parent_id":907199147,
     "wof:placetype":"locality",

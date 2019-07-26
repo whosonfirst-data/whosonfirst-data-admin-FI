@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
-    "geom:area_square_m":264596.649736,
+    "geom:area_square_m":264596.649735,
     "geom:bbox":"27.9782484864,62.7682122252,27.9959417724,62.7742390651",
     "geom:latitude":62.771179,
     "geom:longitude":27.986787,
@@ -22,18 +22,39 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Vehmersalmi"
+    ],
+    "name:epo_x_preferred":[
+        "Vehmersalmi"
+    ],
+    "name:fin_x_preferred":[
+        "Vehmersalmi"
+    ],
+    "name:nld_x_preferred":[
+        "Vehmersalmi"
+    ],
+    "name:nor_x_preferred":[
+        "Vehmersalmi"
+    ],
+    "name:ron_x_preferred":[
+        "Vehmersalmi"
+    ],
+    "name:swe_x_preferred":[
+        "Vehmersalmi"
+    ],
     "reversegeo:latitude":62.771495,
     "reversegeo:longitude":27.985916,
     "src:geom":"kuogov",
     "wof:belongsto":[
-        85683131,
         102191581,
         907199673,
         85633143,
         404227407,
         101748439,
         136253047,
-        1159321597
+        1159321597,
+        85683131
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1108729183,
-    "wof:lastmodified":1529708978,
+    "wof:lastmodified":1564101501,
     "wof:name":"Vehmersalmi",
     "wof:parent_id":101748439,
     "wof:placetype":"neighbourhood",

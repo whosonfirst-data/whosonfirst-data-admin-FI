@@ -28,6 +28,30 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Korhonen"
+    ],
+    "name:fin_x_preferred":[
+        "Korhonen"
+    ],
+    "name:fra_x_preferred":[
+        "Korhonen"
+    ],
+    "name:ita_x_preferred":[
+        "Korhonen"
+    ],
+    "name:pol_x_preferred":[
+        "Korhonen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0445\u043e\u043d\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Korhonen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0445\u043e\u043d\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Korhoset",
         "Korhonen"
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1226506013,
-    "wof:lastmodified":1537622243,
+    "wof:lastmodified":1564102549,
     "wof:name":"Korhonen",
     "wof:parent_id":907199519,
     "wof:placetype":"locality",

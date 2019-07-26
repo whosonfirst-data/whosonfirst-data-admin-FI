@@ -29,8 +29,20 @@
     "lbl:longitude":26.315512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Keitele"
+    ],
+    "name:deu_x_preferred":[
+        "Keitele"
+    ],
     "name:eng_x_preferred":[
         "Keitele"
+    ],
+    "name:epo_x_preferred":[
+        "Keitele"
+    ],
+    "name:est_x_preferred":[
+        "Keitele vald"
     ],
     "name:fin_x_preferred":[
         "Keitele"
@@ -38,8 +50,44 @@
     "name:fin_x_variant":[
         "Keiteleen Kunta"
     ],
+    "name:fra_x_preferred":[
+        "Keitele"
+    ],
+    "name:glg_x_preferred":[
+        "Keitele"
+    ],
+    "name:ita_x_preferred":[
+        "Keitele"
+    ],
+    "name:nld_x_preferred":[
+        "Keitele"
+    ],
+    "name:nor_x_preferred":[
+        "Keitele"
+    ],
+    "name:pol_x_preferred":[
+        "Keitele"
+    ],
+    "name:ron_x_preferred":[
+        "Keitele"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0439\u0442\u0435\u043b\u0435"
+    ],
+    "name:sme_x_preferred":[
+        "Keitele"
+    ],
+    "name:sqi_x_preferred":[
+        "Keitele"
+    ],
     "name:swe_x_preferred":[
         "Keitele"
+    ],
+    "name:tur_x_preferred":[
+        "Keitele"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u6cf0\u840a"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -74,7 +122,7 @@
         }
     ],
     "wof:id":907199277,
-    "wof:lastmodified":1544224808,
+    "wof:lastmodified":1564100431,
     "wof:name":"Keitele",
     "wof:parent_id":1159321601,
     "wof:placetype":"localadmin",

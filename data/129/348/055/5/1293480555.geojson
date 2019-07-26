@@ -27,6 +27,60 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lautaro"
+    ],
+    "name:deu_x_preferred":[
+        "Lautaro"
+    ],
+    "name:epo_x_preferred":[
+        "Lautaro"
+    ],
+    "name:fin_x_preferred":[
+        "Lautaro"
+    ],
+    "name:fra_x_preferred":[
+        "Lautaro"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d5\u05d8\u05d0\u05e8\u05d5"
+    ],
+    "name:ind_x_preferred":[
+        "Lautaro"
+    ],
+    "name:ita_x_preferred":[
+        "Lautaro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a6\u30bf\u30ed"
+    ],
+    "name:msa_x_preferred":[
+        "Lautaro"
+    ],
+    "name:nor_x_preferred":[
+        "Lautaro"
+    ],
+    "name:oci_x_preferred":[
+        "Lautaro"
+    ],
+    "name:por_x_preferred":[
+        "Lautaro"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0443\u0442\u0430\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Lautaro"
+    ],
+    "name:swe_x_preferred":[
+        "Lautaro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u043b\u0456\u043f\u0435 \u041b\u0430\u0443\u0442\u0430\u0440\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u592b\u624e\u8339"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683081,
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1293480555,
-    "wof:lastmodified":1536797265,
+    "wof:lastmodified":1564100744,
     "wof:name":"Lautaro",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

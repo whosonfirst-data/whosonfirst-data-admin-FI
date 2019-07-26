@@ -30,6 +30,12 @@
     "name:eng_x_preferred":[
         "Viitaniemi"
     ],
+    "name:fin_x_preferred":[
+        "Viitaniemi"
+    ],
+    "name:fra_x_preferred":[
+        "Viitaniemi"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u0442\u0430\u043d\u0438\u0435\u043c\u0438"
     ],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1293677137,
-    "wof:lastmodified":1537622133,
+    "wof:lastmodified":1564100802,
     "wof:name":"Viitaniemi",
     "wof:parent_id":907199339,
     "wof:placetype":"locality",

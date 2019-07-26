@@ -29,8 +29,38 @@
     "lbl:longitude":23.949417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0647\u064a\u0627"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u043e\u0445\u044c\u044f"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u043e\u0445\u2019\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Lohja"
+    ],
+    "name:ceb_x_preferred":[
+        "Lohja"
+    ],
+    "name:cor_x_preferred":[
+        "Lohja"
+    ],
+    "name:dan_x_preferred":[
+        "Lohja"
+    ],
+    "name:deu_x_preferred":[
+        "Lohja"
+    ],
     "name:eng_x_preferred":[
         "Lohja"
+    ],
+    "name:est_x_preferred":[
+        "Lohja linn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0647\u06cc\u0627"
     ],
     "name:fin_x_historical":[
         "Lohjan maalaiskunta"
@@ -42,8 +72,74 @@
         "Lohjan maalaiskunta",
         "Lohjan kaupunki"
     ],
+    "name:fra_x_preferred":[
+        "Lohja"
+    ],
+    "name:glg_x_preferred":[
+        "Lohja"
+    ],
+    "name:ind_x_preferred":[
+        "Lohja"
+    ],
+    "name:ita_x_preferred":[
+        "Lohja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30db\u30e4"
+    ],
+    "name:kal_x_preferred":[
+        "Lohja"
+    ],
+    "name:koi_x_preferred":[
+        "\u041b\u043e\u0445\u044c\u044f"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ud750\uc57c"
+    ],
+    "name:lit_x_preferred":[
+        "Lohja"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041b\u043e\u0445\u044c\u044f"
+    ],
+    "name:nld_x_preferred":[
+        "Lohja"
+    ],
+    "name:nno_x_preferred":[
+        "Lohja"
+    ],
+    "name:nor_x_preferred":[
+        "Lojo"
+    ],
+    "name:pol_x_preferred":[
+        "Lohja"
+    ],
+    "name:por_x_preferred":[
+        "Lohja"
+    ],
+    "name:ron_x_preferred":[
+        "Lohja"
+    ],
     "name:rus_x_preferred":[
         "Lokh\u2019ya"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u043e\u0445\u044c\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Lohja"
+    ],
+    "name:sme_x_preferred":[
+        "Lohja"
+    ],
+    "name:spa_x_preferred":[
+        "Lohja"
+    ],
+    "name:sqi_x_preferred":[
+        "Lohja"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0445\u0458\u0430"
     ],
     "name:swe_x_preferred":[
         "Lojo"
@@ -51,6 +147,24 @@
     "name:swe_x_variant":[
         "Lojo landskommun",
         "Lojo stad"
+    ],
+    "name:tur_x_preferred":[
+        "Lohja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0433'\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u06c1 \u06cc\u0627"
+    ],
+    "name:vep_x_preferred":[
+        "Lohj"
+    ],
+    "name:vie_x_preferred":[
+        "Lohja"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u8d6b\u4e9e"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -85,7 +199,7 @@
         }
     ],
     "wof:id":907198655,
-    "wof:lastmodified":1544224765,
+    "wof:lastmodified":1564100323,
     "wof:name":"Lohja",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

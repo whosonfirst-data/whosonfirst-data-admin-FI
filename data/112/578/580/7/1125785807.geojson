@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Nurmi"
+    ],
+    "name:mkd_x_preferred":[
+        "Nurmi"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1125785807,
-    "wof:lastmodified":1529711312,
+    "wof:lastmodified":1564101998,
     "wof:name":"Nurmi",
     "wof:parent_id":907199231,
     "wof:placetype":"locality",

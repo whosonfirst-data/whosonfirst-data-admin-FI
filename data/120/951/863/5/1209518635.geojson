@@ -27,8 +27,47 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Askainen"
+    ],
+    "name:deu_x_preferred":[
+        "Askainen"
+    ],
+    "name:est_x_preferred":[
+        "Askaineni vald"
+    ],
+    "name:fin_x_preferred":[
+        "Askainen"
+    ],
+    "name:fra_x_preferred":[
+        "Askainen"
+    ],
+    "name:ita_x_preferred":[
+        "Askainen"
+    ],
+    "name:nld_x_preferred":[
+        "Askainen"
+    ],
+    "name:nor_x_preferred":[
+        "Villn\u00e4s"
+    ],
+    "name:ron_x_preferred":[
+        "Askainen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u043a\u0430\u0439\u043d\u0435\u043d"
+    ],
+    "name:sme_x_preferred":[
+        "Askainen"
+    ],
+    "name:swe_x_preferred":[
+        "Villn\u00e4s"
+    ],
     "name:und_x_variant":[
         "Askas"
+    ],
+    "name:vie_x_preferred":[
+        "Askainen"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -49,7 +88,7 @@
         }
     ],
     "wof:id":1209518635,
-    "wof:lastmodified":1537622301,
+    "wof:lastmodified":1564101195,
     "wof:name":"Askainen",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

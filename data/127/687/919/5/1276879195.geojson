@@ -27,6 +27,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Santala"
+    ],
     "name:fin_x_preferred":[
         "Santala"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1276879195,
-    "wof:lastmodified":1537622319,
+    "wof:lastmodified":1564100927,
     "wof:name":"Santala",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

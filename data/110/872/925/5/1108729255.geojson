@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000803,
-    "geom:area_square_m":4939171.731827,
+    "geom:area_square_m":4939171.731822,
     "geom:bbox":"24.6937248804,60.1615319991,24.7558288174,60.1834403394",
     "geom:latitude":60.172086,
     "geom:longitude":24.726215,
@@ -28,7 +28,37 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Olari"
+    ],
+    "name:deu_x_preferred":[
+        "Olari"
+    ],
     "name:fin_x_preferred":[
+        "Olari"
+    ],
+    "name:fra_x_preferred":[
+        "Olari"
+    ],
+    "name:hrv_x_preferred":[
+        "Olari"
+    ],
+    "name:hun_x_preferred":[
+        "Olari"
+    ],
+    "name:ita_x_preferred":[
+        "Olari"
+    ],
+    "name:ron_x_preferred":[
+        "Olari"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043b\u0430\u0440\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "Olari"
+    ],
+    "name:vol_x_preferred":[
         "Olari"
     ],
     "reversegeo:latitude":60.169504,
@@ -64,7 +94,7 @@
         }
     ],
     "wof:id":1108729255,
-    "wof:lastmodified":1529714719,
+    "wof:lastmodified":1564101458,
     "wof:name":"Olari",
     "wof:parent_id":1108729221,
     "wof:placetype":"macrohood",

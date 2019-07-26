@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000181,
-    "geom:area_square_m":1068952.212009,
+    "geom:area_square_m":1068952.212008,
     "geom:bbox":"23.8466886659,61.4703114895,23.8678413882,61.4831220648",
     "geom:latitude":61.475996,
     "geom:longitude":23.856427,
@@ -20,7 +20,34 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Viiala"
+    ],
+    "name:deu_x_preferred":[
+        "Viiala"
+    ],
     "name:fin_x_preferred":[
+        "Viiala"
+    ],
+    "name:fra_x_preferred":[
+        "Viiala"
+    ],
+    "name:nld_x_preferred":[
+        "Viiala"
+    ],
+    "name:nor_x_preferred":[
+        "Viiala"
+    ],
+    "name:ron_x_preferred":[
+        "Viiala"
+    ],
+    "name:swe_x_preferred":[
+        "Viiala"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc \u0622\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Viiala"
     ],
     "reversegeo:latitude":61.476025,
@@ -30,14 +57,14 @@
     "tmpgov:id":"307055",
     "tmpgov:name":"Viiala",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1108728335,
-    "wof:lastmodified":1529711325,
+    "wof:lastmodified":1564101442,
     "wof:name":"Viiala",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

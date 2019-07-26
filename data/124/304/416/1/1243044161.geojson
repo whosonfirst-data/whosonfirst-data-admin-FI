@@ -27,6 +27,108 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pohjola"
+    ],
+    "name:ces_x_preferred":[
+        "Pohjola"
+    ],
+    "name:deu_x_preferred":[
+        "Pohjola"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03b3\u03b9\u03bf\u03bb\u03b1"
+    ],
+    "name:est_x_preferred":[
+        "P\u00f5hjala"
+    ],
+    "name:fin_x_preferred":[
+        "Pohjola"
+    ],
+    "name:fra_x_preferred":[
+        "Pohjola"
+    ],
+    "name:fry_x_preferred":[
+        "Pojola"
+    ],
+    "name:gle_x_preferred":[
+        "Pohjola"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d4\u05d9\u05d5\u05dc\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Pohjola"
+    ],
+    "name:jbo_x_preferred":[
+        "poxiol"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30db\u30e8\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ud750\uc69c\ub77c"
+    ],
+    "name:lat_x_preferred":[
+        "Pohjola"
+    ],
+    "name:lit_x_preferred":[
+        "Pohjola"
+    ],
+    "name:ltz_x_preferred":[
+        "Pohjola"
+    ],
+    "name:msa_x_preferred":[
+        "Pohjola"
+    ],
+    "name:nld_x_preferred":[
+        "Pohjola"
+    ],
+    "name:nno_x_preferred":[
+        "Pohjola"
+    ],
+    "name:nor_x_preferred":[
+        "Pohjola"
+    ],
+    "name:pol_x_preferred":[
+        "Pohjola"
+    ],
+    "name:por_x_preferred":[
+        "Pohjola"
+    ],
+    "name:ron_x_preferred":[
+        "Pohjola"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0445\u044c\u0451\u043b\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Pohjola"
+    ],
+    "name:spa_x_preferred":[
+        "Pohjola"
+    ],
+    "name:swe_x_preferred":[
+        "Pohjola"
+    ],
+    "name:tat_x_preferred":[
+        "Pohyola"
+    ],
+    "name:tgl_x_preferred":[
+        "Pohjola"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e1b\u0e2b\u0e4c\u0e42\u0e22\u0e25\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Pohjola"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6ce2\u8d6b\u7ea6\u62c9"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u8d6b\u7ea6\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683143,
@@ -56,7 +158,7 @@
         }
     ],
     "wof:id":1243044161,
-    "wof:lastmodified":1536888090,
+    "wof:lastmodified":1564102218,
     "wof:name":"Pohjola",
     "wof:parent_id":907199519,
     "wof:placetype":"locality",

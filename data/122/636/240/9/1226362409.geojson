@@ -33,6 +33,15 @@
     "name:fin_x_preferred":[
         "Puistola"
     ],
+    "name:fin_x_variant":[
+        "Katariina"
+    ],
+    "name:koi_x_preferred":[
+        "\u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0430\u0440\u0438\u0439\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1226362409,
-    "wof:lastmodified":1537622319,
+    "wof:lastmodified":1564102641,
     "wof:name":"Katariina",
     "wof:parent_id":907198683,
     "wof:placetype":"locality",

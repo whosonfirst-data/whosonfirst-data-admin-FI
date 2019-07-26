@@ -22,18 +22,33 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Puijo"
+    ],
+    "name:fin_x_preferred":[
+        "Puijo"
+    ],
+    "name:fra_x_preferred":[
+        "Puijo"
+    ],
+    "name:ita_x_preferred":[
+        "Puijo"
+    ],
+    "name:swe_x_preferred":[
+        "Puijo"
+    ],
     "reversegeo:latitude":62.916238,
     "reversegeo:longitude":27.660076,
     "src:geom":"kuogov",
     "wof:belongsto":[
-        85683131,
         102191581,
         907199673,
         85633143,
         404227407,
         101748439,
         136253047,
-        1159321597
+        1159321597,
+        85683131
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1108729153,
-    "wof:lastmodified":1529708977,
+    "wof:lastmodified":1564101449,
     "wof:name":"Puijo",
     "wof:parent_id":101748439,
     "wof:placetype":"neighbourhood",

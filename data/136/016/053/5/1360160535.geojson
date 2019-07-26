@@ -28,6 +28,24 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Halla"
+    ],
+    "name:deu_x_preferred":[
+        "Halla"
+    ],
+    "name:fin_x_preferred":[
+        "Halla"
+    ],
+    "name:fra_x_preferred":[
+        "Halla"
+    ],
+    "name:lat_x_preferred":[
+        "Halla"
+    ],
+    "name:swe_x_preferred":[
+        "Halla"
+    ],
     "name:und_x_variant":[
         "Hallavaara",
         "Halla"
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1360160535,
-    "wof:lastmodified":1537622291,
+    "wof:lastmodified":1564101691,
     "wof:name":"Halla",
     "wof:parent_id":907199531,
     "wof:placetype":"locality",

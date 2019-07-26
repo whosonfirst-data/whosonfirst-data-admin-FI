@@ -27,6 +27,15 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Tapanila"
+    ],
+    "name:fra_x_preferred":[
+        "Tapanila"
+    ],
+    "name:swe_x_preferred":[
+        "Mosabacka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683137,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1343833809,
-    "wof:lastmodified":1536705386,
+    "wof:lastmodified":1564100552,
     "wof:name":"Tapanila",
     "wof:parent_id":907199319,
     "wof:placetype":"locality",

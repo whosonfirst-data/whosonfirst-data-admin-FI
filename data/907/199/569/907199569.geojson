@@ -29,6 +29,15 @@
     "lbl:longitude":24.779916,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bak_x_preferred":[
+        "\u041a\u0435\u043c\u0438\u043d\u043c\u0430\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Keminmaa"
+    ],
+    "name:ces_x_preferred":[
+        "Keminmaa"
+    ],
     "name:deu_x_preferred":[
         "Keminmaa"
     ],
@@ -38,26 +47,71 @@
     "name:epo_x_preferred":[
         "Keminmaa"
     ],
+    "name:est_x_preferred":[
+        "Keminmaa vald"
+    ],
+    "name:eus_x_preferred":[
+        "Keminmaa"
+    ],
     "name:fin_x_preferred":[
         "Keminmaa"
     ],
     "name:fra_x_preferred":[
         "Keminmaa"
     ],
+    "name:glg_x_preferred":[
+        "Keminmaa"
+    ],
+    "name:ita_x_preferred":[
+        "Keminmaa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30df\u30f3\u30de\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf00\ubbfc\ub9c8"
+    ],
+    "name:lat_x_preferred":[
+        "Keminmaa"
+    ],
     "name:nld_x_preferred":[
+        "Keminmaa"
+    ],
+    "name:nor_x_preferred":[
+        "Keminmaa"
+    ],
+    "name:pol_x_preferred":[
         "Keminmaa"
     ],
     "name:ron_x_preferred":[
         "Keminmaa"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043c\u0438\u043d\u043c\u0430\u0430"
+    ],
     "name:sme_x_preferred":[
+        "Keminmaa"
+    ],
+    "name:spa_x_preferred":[
+        "Keminmaa"
+    ],
+    "name:sqi_x_preferred":[
         "Keminmaa"
     ],
     "name:swe_x_preferred":[
         "Keminmaa"
     ],
+    "name:tur_x_preferred":[
+        "Keminmaa"
+    ],
     "name:unk_x_variant":[
         "Kemi"
+    ],
+    "name:vie_x_preferred":[
+        "Keminmaa"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u660e\u9a6c"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -92,7 +146,7 @@
         }
     ],
     "wof:id":907199569,
-    "wof:lastmodified":1544224831,
+    "wof:lastmodified":1564100349,
     "wof:name":"Keminmaa",
     "wof:parent_id":1159321559,
     "wof:placetype":"localadmin",

@@ -27,6 +27,21 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0646\u062a\u0648\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Lentua"
+    ],
+    "name:deu_x_preferred":[
+        "Lentua"
+    ],
+    "name:fin_x_preferred":[
+        "Lentua"
+    ],
+    "name:swe_x_preferred":[
+        "Lentua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683137,
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1243326809,
-    "wof:lastmodified":1536977607,
+    "wof:lastmodified":1564102220,
     "wof:name":"Lentua",
     "wof:parent_id":907199507,
     "wof:placetype":"locality",

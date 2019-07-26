@@ -16,6 +16,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Talma"
+    ],
+    "name:fin_x_preferred":[
+        "Talma"
+    ],
+    "name:fra_x_preferred":[
+        "Talma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u044c\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Talma"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Talma",
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1125872627,
-    "wof:lastmodified":1529714688,
+    "wof:lastmodified":1564101917,
     "wof:name":"Talma",
     "wof:parent_id":907198521,
     "wof:placetype":"locality",

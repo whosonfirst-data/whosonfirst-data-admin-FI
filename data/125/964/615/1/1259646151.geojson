@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Rajala"
     ],
+    "name:est_x_preferred":[
+        "Rajala"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u044f\u043b\u0430"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1259646151,
-    "wof:lastmodified":1537622179,
+    "wof:lastmodified":1564102342,
     "wof:name":"Rajala",
     "wof:parent_id":907199561,
     "wof:placetype":"locality",

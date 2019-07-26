@@ -28,6 +28,18 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kouri"
+    ],
+    "name:deu_x_preferred":[
+        "Kouri"
+    ],
+    "name:fra_x_preferred":[
+        "Kouri"
+    ],
+    "name:swe_x_preferred":[
+        "Kouri"
+    ],
     "name:und_x_variant":[
         "Vanha-Kouri",
         "Kouri"
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1259465195,
-    "wof:lastmodified":1537622239,
+    "wof:lastmodified":1564102361,
     "wof:name":"Kouri",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

@@ -27,7 +27,16 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hietalahti"
+    ],
     "name:fin_x_preferred":[
+        "Hietalahti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0435\u0442\u0430\u043b\u0430\u0445\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
         "Hietalahti"
     ],
     "src:geom":"geonames",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1327297093,
-    "wof:lastmodified":1537622337,
+    "wof:lastmodified":1564100250,
     "wof:name":"Hietalahti",
     "wof:parent_id":907199507,
     "wof:placetype":"locality",

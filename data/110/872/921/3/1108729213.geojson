@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00448,
-    "geom:area_square_m":27534956.796025,
+    "geom:area_square_m":27534956.79602,
     "geom:bbox":"24.5025871854,60.1637696396,24.6428145019,60.2310212822",
     "geom:latitude":60.197643,
     "geom:longitude":24.57415,
@@ -29,6 +29,12 @@
     "mz:min_zoom":10.0,
     "name:fin_x_preferred":[
         "Suur-Kauklahti"
+    ],
+    "name:fra_x_preferred":[
+        "Suur-Kauklahti"
+    ],
+    "name:swe_x_preferred":[
+        "Stor-K\u00f6klax"
     ],
     "reversegeo:latitude":60.197267,
     "reversegeo:longitude":24.57419,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1108729213,
-    "wof:lastmodified":1529714711,
+    "wof:lastmodified":1564101507,
     "wof:name":"Suur-Kauklahti",
     "wof:parent_id":101748415,
     "wof:placetype":"borough",

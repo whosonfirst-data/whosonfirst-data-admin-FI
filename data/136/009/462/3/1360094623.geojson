@@ -30,17 +30,65 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0641\u064a\u0646\u0643\u0627"
     ],
+    "name:bak_x_preferred":[
+        "\u0425\u044e\u0432\u0438\u043d\u043a\u044f\u0430"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u044e\u0432\u0456\u043d\u043a\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:ceb_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:ces_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
     "name:dan_x_preferred":[
         "Hyvinge"
+    ],
+    "name:deu_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:epo_x_preferred":[
+        "Hyvink\u00e4\u00e4"
     ],
     "name:est_x_preferred":[
         "Hyvink\u00e4\u00e4 linn"
     ],
+    "name:eus_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0648\u06cc\u0646\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:fra_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:glg_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:ind_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:ita_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
     "name:jpn_x_preferred":[
         "\u30d2\u30e5\u30f4\u30a3\u30f3\u30ab\u30fc"
     ],
+    "name:kal_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
     "name:kor_x_preferred":[
         "\ud718\ube48\uce90"
+    ],
+    "name:kor_x_variant":[
+        "\ud718\ube59\uce90"
     ],
     "name:lav_x_preferred":[
         "Hivink\u0113"
@@ -48,20 +96,47 @@
     "name:lit_x_preferred":[
         "Hiuvink\u0117"
     ],
+    "name:nld_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
     "name:nno_x_preferred":[
         "Hyvinge"
     ],
     "name:nor_x_preferred":[
         "Hyvinge"
     ],
+    "name:pol_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:por_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:ron_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u044e\u0432\u0438\u043d\u043a\u044f\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:sme_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:spa_x_preferred":[
+        "Hyvink\u00e4\u00e4"
+    ],
+    "name:sqi_x_preferred":[
+        "Hyvink\u00e4\u00e4"
     ],
     "name:srp_x_preferred":[
         "\u0425\u0438\u0432\u0438\u043d\u043a\u0435"
     ],
     "name:swe_x_preferred":[
         "Hyvinge"
+    ],
+    "name:tur_x_preferred":[
+        "Hyvink\u00e4\u00e4"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u044e\u0432\u0456\u043d\u043a\u044f\u0430"
@@ -71,6 +146,9 @@
     ],
     "name:vep_x_preferred":[
         "H\u00fcvink\u00e4"
+    ],
+    "name:vie_x_preferred":[
+        "Hyvink\u00e4\u00e4"
     ],
     "name:zho_x_preferred":[
         "\u8a31\u6eab\u51f1"
@@ -105,7 +183,7 @@
         }
     ],
     "wof:id":1360094623,
-    "wof:lastmodified":1537622319,
+    "wof:lastmodified":1564101671,
     "wof:name":"Hyvinkaeae",
     "wof:parent_id":907198603,
     "wof:placetype":"locality",

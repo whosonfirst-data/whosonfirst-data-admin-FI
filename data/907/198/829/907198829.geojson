@@ -33,7 +33,19 @@
     "lbl:longitude":23.360582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Humppila"
+    ],
+    "name:deu_x_preferred":[
+        "Humppila"
+    ],
     "name:eng_x_preferred":[
+        "Humppila"
+    ],
+    "name:est_x_preferred":[
+        "Humppila vald"
+    ],
+    "name:eus_x_preferred":[
         "Humppila"
     ],
     "name:fin_x_preferred":[
@@ -42,8 +54,44 @@
     "name:fin_x_variant":[
         "Humppilan Kunta"
     ],
+    "name:fra_x_preferred":[
+        "Humppila"
+    ],
+    "name:glg_x_preferred":[
+        "Humppila"
+    ],
+    "name:ita_x_preferred":[
+        "Humppila"
+    ],
+    "name:nld_x_preferred":[
+        "Humppila"
+    ],
+    "name:nor_x_preferred":[
+        "Humppila"
+    ],
+    "name:pol_x_preferred":[
+        "Humppila"
+    ],
+    "name:ron_x_preferred":[
+        "Humppila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u043c\u043f\u043f\u0438\u043b\u0430"
+    ],
+    "name:sme_x_preferred":[
+        "Humppila"
+    ],
+    "name:sqi_x_preferred":[
+        "Humppila"
+    ],
     "name:swe_x_preferred":[
         "Humppila"
+    ],
+    "name:tur_x_preferred":[
+        "Humppila"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d2a\u76ae\u62c9"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -103,7 +151,7 @@
         }
     ],
     "wof:id":907198829,
-    "wof:lastmodified":1544224777,
+    "wof:lastmodified":1564100271,
     "wof:name":"Humppila",
     "wof:parent_id":1159321511,
     "wof:placetype":"localadmin",

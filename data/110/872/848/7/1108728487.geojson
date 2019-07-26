@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000357,
-    "geom:area_square_m":2106934.513143,
+    "geom:area_square_m":2106934.513144,
     "geom:bbox":"23.5799864026,61.5012117659,23.6189701251,61.5174223215",
     "geom:latitude":61.510457,
     "geom:longitude":23.597098,
@@ -23,6 +23,9 @@
     "name:fin_x_preferred":[
         "Ikuri"
     ],
+    "name:fra_x_preferred":[
+        "Ikuri"
+    ],
     "reversegeo:latitude":61.510197,
     "reversegeo:longitude":23.597093,
     "src:geom":"tmpgov",
@@ -30,14 +33,14 @@
     "tmpgov:id":"514237",
     "tmpgov:name":"Ikuri",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108728487,
-    "wof:lastmodified":1529711335,
+    "wof:lastmodified":1564101479,
     "wof:name":"Ikuri",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

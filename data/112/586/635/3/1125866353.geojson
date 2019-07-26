@@ -16,6 +16,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0631\u0633 \u062c\u064a\u0631\u0641\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Jerisj\u00e4rvi"
+    ],
+    "name:fin_x_preferred":[
+        "Jerisj\u00e4rvi"
+    ],
+    "name:swe_x_preferred":[
+        "Jerisj\u00e4rvi"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Jerisj\u00e4rvi",
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":1125866353,
-    "wof:lastmodified":1529708138,
+    "wof:lastmodified":1564101885,
     "wof:name":"Jerisj\u00e4rvi",
     "wof:parent_id":907199587,
     "wof:placetype":"locality",

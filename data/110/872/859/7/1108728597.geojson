@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000635,
-    "geom:area_square_m":3880082.33872,
+    "geom:area_square_m":3880082.338718,
     "geom:bbox":"22.1880616988,60.3830730829,22.2350458938,60.4030732365",
     "geom:latitude":60.391929,
     "geom:longitude":22.209376,
@@ -23,6 +23,12 @@
     "name:fin_x_preferred":[
         "Haarla"
     ],
+    "name:koi_x_preferred":[
+        "\u0425\u0430\u0440\u043b\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0430\u0440\u043b\u0430"
+    ],
     "name:swe_x_preferred":[
         "Harlax"
     ],
@@ -33,14 +39,14 @@
     "tkugov:NIMI":"Haarla",
     "tkugov:PIENALUE":"853216049",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108728597,
-    "wof:lastmodified":1529706499,
+    "wof:lastmodified":1564101427,
     "wof:name":"Haarla",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

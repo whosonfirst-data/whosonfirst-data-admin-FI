@@ -20,7 +20,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Toppilansaari"
+    ],
     "name:fin_x_preferred":[
+        "Toppilansaari"
+    ],
+    "name:swe_x_preferred":[
         "Toppilansaari"
     ],
     "oulugov:AJ_KAUPU00":"Toppilansaari",
@@ -31,14 +37,14 @@
     "reversegeo:longitude":25.420749,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1108728965,
-    "wof:lastmodified":1529709459,
+    "wof:lastmodified":1564101487,
     "wof:name":"Toppilansaari",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

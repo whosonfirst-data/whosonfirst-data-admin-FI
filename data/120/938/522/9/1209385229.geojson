@@ -27,6 +27,90 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u09ad\u09bf\u0995"
+    ],
+    "name:cat_x_preferred":[
+        "Vik"
+    ],
+    "name:ceb_x_preferred":[
+        "Vik"
+    ],
+    "name:dan_x_preferred":[
+        "Vik"
+    ],
+    "name:deu_x_preferred":[
+        "Vik"
+    ],
+    "name:epo_x_preferred":[
+        "Vik"
+    ],
+    "name:est_x_preferred":[
+        "Viki vald"
+    ],
+    "name:eus_x_preferred":[
+        "Vik"
+    ],
+    "name:fin_x_preferred":[
+        "Vik"
+    ],
+    "name:ita_x_preferred":[
+        "Vik"
+    ],
+    "name:lat_x_preferred":[
+        "Vik"
+    ],
+    "name:lim_x_preferred":[
+        "Vik"
+    ],
+    "name:msa_x_preferred":[
+        "Vik"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Vik"
+    ],
+    "name:nld_x_preferred":[
+        "Vik"
+    ],
+    "name:nno_x_preferred":[
+        "Vik kommune"
+    ],
+    "name:nor_x_preferred":[
+        "Vik"
+    ],
+    "name:pol_x_preferred":[
+        "Vik"
+    ],
+    "name:por_x_preferred":[
+        "Vik"
+    ],
+    "name:ron_x_preferred":[
+        "Vik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Vik"
+    ],
+    "name:sme_x_preferred":[
+        "Vik"
+    ],
+    "name:spa_x_preferred":[
+        "Vik"
+    ],
+    "name:sqi_x_preferred":[
+        "Vik"
+    ],
+    "name:swe_x_preferred":[
+        "Viks kommun"
+    ],
+    "name:war_x_preferred":[
+        "Vik"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u514b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633143
@@ -36,7 +120,7 @@
         "gn:id":631542
     },
     "wof:country":"FI",
-    "wof:geomhash":"687fe40b208f4f9ea753bf3fa61b0a5b",
+    "wof:geomhash":"19b63b152cd02d517e267e9c83c1010d",
     "wof:hierarchy":[
         {
             "country_id":85633143,
@@ -44,7 +128,7 @@
         }
     ],
     "wof:id":1209385229,
-    "wof:lastmodified":1536288648,
+    "wof:lastmodified":1564101079,
     "wof:name":"Vik",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",
@@ -55,9 +139,9 @@
 },
   "bbox": [
     22.61519,
-    63.581480000000006,
+    63.58148000000001,
     22.61519,
-    63.581480000000006
+    63.58148000000001
 ],
   "geometry": {"coordinates":[22.61519,63.58148000000001],"type":"Point"}
 }

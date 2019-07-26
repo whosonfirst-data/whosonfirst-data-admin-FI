@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
-    "geom:area_square_m":1633749.136839,
+    "geom:area_square_m":1633749.13684,
     "geom:bbox":"22.1709338718,60.4460049737,22.1989566606,60.4631321323",
     "geom:latitude":60.454383,
     "geom:longitude":22.184497,
@@ -23,6 +23,12 @@
     "name:fin_x_preferred":[
         "Artukainen"
     ],
+    "name:koi_x_preferred":[
+        "\u0410\u0440\u0442\u0443\u043a\u0430\u0439\u043d\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0442\u0443\u043a\u0430\u0439\u043d\u0435\u043d"
+    ],
     "name:swe_x_preferred":[
         "Artukais"
     ],
@@ -33,14 +39,14 @@
     "tkugov:NIMI":"Artukainen",
     "tkugov:PIENALUE":"853839123",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108728719,
-    "wof:lastmodified":1529706505,
+    "wof:lastmodified":1564101482,
     "wof:name":"Artukainen",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

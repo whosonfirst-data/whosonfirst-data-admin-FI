@@ -30,8 +30,23 @@
     "name:eng_x_preferred":[
         "Kaamanen"
     ],
+    "name:eus_x_preferred":[
+        "Kaamanen"
+    ],
+    "name:fin_x_preferred":[
+        "Kaamanen"
+    ],
+    "name:nld_x_preferred":[
+        "Kaamanen"
+    ],
+    "name:nor_x_preferred":[
+        "Kaamanen"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043c\u0430\u043d\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kaamanen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1226204933,
-    "wof:lastmodified":1537622267,
+    "wof:lastmodified":1564102503,
     "wof:name":"Kaamanen",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

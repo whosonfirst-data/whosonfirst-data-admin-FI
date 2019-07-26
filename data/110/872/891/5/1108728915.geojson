@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015068,
-    "geom:area_square_m":78605675.27763,
+    "geom:area_square_m":78605675.277628,
     "geom:bbox":"25.8617167465,64.9878605208,26.1117008185,65.1114806441",
     "geom:latitude":65.045329,
     "geom:longitude":26.00612,
@@ -20,8 +20,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:est_x_preferred":[
+        "Vesala"
+    ],
     "name:fin_x_preferred":[
         "Vesala"
+    ],
+    "name:fra_x_preferred":[
+        "Vesala"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c4rvings"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0441\u0430\u043b\u0430"
     ],
     "oulugov:AJ_KAUPU00":"Vesala",
     "oulugov:AJ_KAUPUNG":"41",
@@ -31,14 +43,14 @@
     "reversegeo:longitude":26.026918,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1108728915,
-    "wof:lastmodified":1529709454,
+    "wof:lastmodified":1564101490,
     "wof:name":"Vesala",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

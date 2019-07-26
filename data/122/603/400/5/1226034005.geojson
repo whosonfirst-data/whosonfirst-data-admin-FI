@@ -28,6 +28,15 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Pihlajaniemi"
+    ],
+    "name:koi_x_preferred":[
+        "\u041f\u0438\u0445\u043b\u0430\u044f\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0445\u043b\u0430\u044f\u043d\u0438\u0435\u043c\u0438"
+    ],
     "name:und_x_variant":[
         "Pihlajanniemi",
         "Pihlajaniemi"
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1226034005,
-    "wof:lastmodified":1537622188,
+    "wof:lastmodified":1564102532,
     "wof:name":"Pihlajaniemi",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

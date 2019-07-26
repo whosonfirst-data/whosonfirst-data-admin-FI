@@ -29,8 +29,29 @@
     "lbl:longitude":24.876242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041e\u045e\u043b\u0430\u0439\u043d\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Oulainen"
+    ],
+    "name:deu_x_preferred":[
+        "Oulainen"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03bf\u03c5\u03bb\u03b1\u03ca\u03bd\u03b5\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Oulainen"
+    ],
+    "name:epo_x_preferred":[
+        "Oulainen"
+    ],
+    "name:est_x_preferred":[
+        "Oulaineni linn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u06cc\u0646\u0646"
     ],
     "name:fin_x_preferred":[
         "Oulainen"
@@ -38,12 +59,63 @@
     "name:fin_x_variant":[
         "Oulaisten Kaupunki"
     ],
+    "name:fra_x_preferred":[
+        "Oulainen"
+    ],
+    "name:glg_x_preferred":[
+        "Oulainen"
+    ],
+    "name:ita_x_preferred":[
+        "Oulainen"
+    ],
+    "name:nld_x_preferred":[
+        "Oulainen"
+    ],
+    "name:nno_x_preferred":[
+        "Oulainen"
+    ],
+    "name:nor_x_preferred":[
+        "Oulainen"
+    ],
+    "name:pol_x_preferred":[
+        "Oulainen"
+    ],
+    "name:ron_x_preferred":[
+        "Oulainen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0443\u043b\u0430\u0439\u043d\u0435\u043d"
+    ],
+    "name:sme_x_preferred":[
+        "Oulainen"
+    ],
+    "name:spa_x_preferred":[
+        "Oulainen"
+    ],
+    "name:sqi_x_preferred":[
+        "Oulainen"
+    ],
     "name:swe_x_preferred":[
         "Oulainen"
     ],
     "name:swe_x_variant":[
         "Oulais",
         "Oulais Stad"
+    ],
+    "name:tur_x_preferred":[
+        "Oulainen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0443\u043b\u0430\u0439\u043d\u0435\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u0626\u0646\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Oulainen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u62c9\u4f0a\u5be7"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -78,7 +150,7 @@
         }
     ],
     "wof:id":907199517,
-    "wof:lastmodified":1544224827,
+    "wof:lastmodified":1564100398,
     "wof:name":"Oulainen",
     "wof:parent_id":1159321569,
     "wof:placetype":"localadmin",

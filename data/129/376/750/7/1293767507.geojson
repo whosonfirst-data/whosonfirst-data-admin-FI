@@ -27,6 +27,21 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "S\u00e4\u00e4minki"
+    ],
+    "name:fin_x_preferred":[
+        "S\u00e4\u00e4minki"
+    ],
+    "name:nor_x_preferred":[
+        "S\u00e4\u00e4minki"
+    ],
+    "name:olo_x_preferred":[
+        "Si\u00e4minki"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e4minge"
+    ],
     "name:und_x_variant":[
         "S\u00e4\u00e4minge",
         "S\u00e4\u00e4minki"
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1293767507,
-    "wof:lastmodified":1537622171,
+    "wof:lastmodified":1564100754,
     "wof:name":"Saeaeminki",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

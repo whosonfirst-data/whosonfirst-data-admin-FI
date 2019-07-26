@@ -28,14 +28,31 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Mikkola"
+    ],
     "name:fin_x_preferred":[
+        "Mikkola"
+    ],
+    "name:fra_x_preferred":[
+        "Mikkola"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30c3\u30b3\u30e9"
+    ],
+    "name:nds_x_preferred":[
+        "Mikkola"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043a\u043a\u043e\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Mikkola"
     ],
     "reversegeo:latitude":60.339944,
     "reversegeo:longitude":25.10341,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -43,7 +60,8 @@
         101748419,
         136253047,
         1108729497,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -64,7 +82,7 @@
         }
     ],
     "wof:id":1108729573,
-    "wof:lastmodified":1529714755,
+    "wof:lastmodified":1564101461,
     "wof:name":"Mikkola",
     "wof:parent_id":1108729497,
     "wof:placetype":"neighbourhood",

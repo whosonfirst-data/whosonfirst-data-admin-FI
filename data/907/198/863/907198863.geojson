@@ -29,11 +29,26 @@
     "lbl:longitude":29.382861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Liperi"
+    ],
+    "name:ceb_x_preferred":[
+        "Liperi"
+    ],
     "name:dan_x_preferred":[
         "Libelits"
     ],
+    "name:deu_x_preferred":[
+        "Liperi"
+    ],
     "name:eng_x_preferred":[
         "Liperi"
+    ],
+    "name:epo_x_preferred":[
+        "Liperi"
+    ],
+    "name:est_x_preferred":[
+        "Liperi vald"
     ],
     "name:fin_x_preferred":[
         "Liperi"
@@ -41,17 +56,53 @@
     "name:fin_x_variant":[
         "Liperin Kunta"
     ],
+    "name:fra_x_preferred":[
+        "Liperi"
+    ],
+    "name:glg_x_preferred":[
+        "Liperi"
+    ],
     "name:isl_x_preferred":[
         "Libelits"
     ],
+    "name:ita_x_preferred":[
+        "Liperi"
+    ],
+    "name:nld_x_preferred":[
+        "Liperi"
+    ],
     "name:nor_x_preferred":[
         "Libelits"
+    ],
+    "name:pol_x_preferred":[
+        "Liperi"
+    ],
+    "name:ron_x_preferred":[
+        "Liperi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u0435\u0440\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Liperi"
+    ],
+    "name:spa_x_preferred":[
+        "Liperi"
+    ],
+    "name:sqi_x_preferred":[
+        "Liperi"
     ],
     "name:swe_x_preferred":[
         "Liperi"
     ],
     "name:swe_x_variant":[
         "Libelits"
+    ],
+    "name:tur_x_preferred":[
+        "Liperi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u4f69\u91cc"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -86,7 +137,7 @@
         }
     ],
     "wof:id":907198863,
-    "wof:lastmodified":1544224779,
+    "wof:lastmodified":1564100332,
     "wof:name":"Liperi",
     "wof:parent_id":1159321551,
     "wof:placetype":"localadmin",

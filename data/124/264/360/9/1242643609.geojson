@@ -28,6 +28,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Jormas"
+    ],
     "name:und_x_variant":[
         "Jarmujokisuu",
         "Jormaskyl\u00e4",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1242643609,
-    "wof:lastmodified":1537622270,
+    "wof:lastmodified":1564102278,
     "wof:name":"Jormas",
     "wof:parent_id":907199319,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "lbl:longitude":24.235428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Soini"
+    ],
     "name:eng_x_preferred":[
         "Soini"
     ],
@@ -37,6 +40,12 @@
     ],
     "name:fin_x_variant":[
         "Soinin Kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Soini"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0439\u043d\u0438"
     ],
     "name:swe_x_preferred":[
         "Soini"
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":907199079,
-    "wof:lastmodified":1544224795,
+    "wof:lastmodified":1564100365,
     "wof:name":"Soini",
     "wof:parent_id":1159321567,
     "wof:placetype":"localadmin",

@@ -27,6 +27,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0648\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683103,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1309895461,
-    "wof:lastmodified":1536801837,
+    "wof:lastmodified":1564101814,
     "wof:name":"Anola",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

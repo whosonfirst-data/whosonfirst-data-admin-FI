@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002656,
-    "geom:area_square_m":14801550.279843,
+    "geom:area_square_m":14801550.279842,
     "geom:bbox":"28.0352003031,63.1814346557,28.1771902668,63.2339669593",
     "geom:latitude":63.207538,
     "geom:longitude":28.092002,
@@ -22,18 +22,78 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:deu_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:est_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0644\u0633\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:fra_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:ind_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:ita_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:nld_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:nor_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:pol_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:ron_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043b\u044c\u0441\u0438\u044f"
+    ],
+    "name:sme_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:sqi_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:swe_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:tur_x_preferred":[
+        "Nilsi\u00e4"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u043b\u044c\u0441\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0644\u0633\u06cc\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u723e\u897f\u827e"
+    ],
     "reversegeo:latitude":63.215287,
     "reversegeo:longitude":28.073185,
     "src:geom":"kuogov",
     "wof:belongsto":[
-        85683131,
         102191581,
         907199673,
         85633143,
         404227407,
         101748439,
         136253047,
-        1159321597
+        1159321597,
+        85683131
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,7 +113,7 @@
         }
     ],
     "wof:id":1108729139,
-    "wof:lastmodified":1529708976,
+    "wof:lastmodified":1564101458,
     "wof:name":"Nilsi\u00e4",
     "wof:parent_id":101748439,
     "wof:placetype":"neighbourhood",

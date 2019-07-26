@@ -30,6 +30,12 @@
     "name:fin_x_preferred":[
         "Suur-Tapiola"
     ],
+    "name:fra_x_preferred":[
+        "Suur-Tapiola"
+    ],
+    "name:swe_x_preferred":[
+        "Stor-Hagalund"
+    ],
     "reversegeo:latitude":60.17832,
     "reversegeo:longitude":24.799368,
     "src:geom":"hkigis",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1108729225,
-    "wof:lastmodified":1529714712,
+    "wof:lastmodified":1564101457,
     "wof:name":"Suur-Tapiola",
     "wof:parent_id":101748415,
     "wof:placetype":"borough",

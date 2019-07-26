@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000831,
-    "geom:area_square_m":5108244.18935,
+    "geom:area_square_m":5108244.189348,
     "geom:bbox":"24.8058743171,60.165979081,24.8443596042,60.198600247",
     "geom:latitude":60.185384,
     "geom:longitude":24.828213,
@@ -28,7 +28,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Otaniemi"
+    ],
+    "name:ces_x_preferred":[
+        "Otaniemi"
+    ],
+    "name:est_x_preferred":[
+        "Otaniemi"
+    ],
     "name:fin_x_preferred":[
+        "Otaniemi"
+    ],
+    "name:fra_x_preferred":[
+        "Otaniemi"
+    ],
+    "name:spa_x_preferred":[
+        "Otaniemi"
+    ],
+    "name:swe_x_preferred":[
+        "Otn\u00e4s"
+    ],
+    "name:tur_x_preferred":[
         "Otaniemi"
     ],
     "reversegeo:latitude":60.187937,
@@ -64,7 +85,7 @@
         }
     ],
     "wof:id":1108729273,
-    "wof:lastmodified":1529714720,
+    "wof:lastmodified":1564101500,
     "wof:name":"Otaniemi",
     "wof:parent_id":1108729225,
     "wof:placetype":"macrohood",

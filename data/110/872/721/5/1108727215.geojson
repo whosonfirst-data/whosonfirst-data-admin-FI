@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000084,
-    "geom:area_square_m":512803.28136,
+    "geom:area_square_m":512803.281361,
     "geom:bbox":"25.0384324704,60.2401039195,25.0619408802,60.2509671196",
     "geom:latitude":60.244617,
     "geom:longitude":25.049226,
@@ -28,6 +28,9 @@
     "name:fin_x_preferred":[
         "Tattariharju"
     ],
+    "name:fra_x_preferred":[
+        "Tattariharju"
+    ],
     "name:swe_x_preferred":[
         "Tattar\u00e5sen"
     ],
@@ -36,7 +39,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537239,
         907199715,
@@ -45,7 +47,8 @@
         101748417,
         136253047,
         890536891,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108727215,
-    "wof:lastmodified":1529714735,
+    "wof:lastmodified":1564101502,
     "wof:name":"Tattariharju",
     "wof:parent_id":890537239,
     "wof:placetype":"neighbourhood",

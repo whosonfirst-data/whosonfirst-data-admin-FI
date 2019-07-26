@@ -29,14 +29,77 @@
     "lbl:longitude":23.137278,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:deu_x_preferred":[
+        "Koski Tl"
+    ],
     "name:eng_x_preferred":[
         "Koski Tl"
+    ],
+    "name:est_x_preferred":[
+        "Koski Tl vald"
     ],
     "name:fin_x_preferred":[
         "Koski Tl"
     ],
+    "name:fra_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:glg_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:ita_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:koi_x_preferred":[
+        "\u041a\u043e\u0441\u043a\u0438 \u0422\u043b"
+    ],
+    "name:lat_x_preferred":[
+        "Forsia Finnorum"
+    ],
+    "name:nld_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:nor_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:pol_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:por_x_preferred":[
+        "Kosti Tl"
+    ],
+    "name:ron_x_preferred":[
+        "Koski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u043a\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:sme_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:sqi_x_preferred":[
+        "Koski Tl"
+    ],
     "name:swe_x_preferred":[
         "Koski Tl"
+    ],
+    "name:swe_x_variant":[
+        "Koskis"
+    ],
+    "name:tur_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:vie_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u65af\u57fa"
     ],
     "src:geom":"figov",
     "src:lbl:centroid":"mapshaper",
@@ -64,7 +127,7 @@
         }
     ],
     "wof:id":907199647,
-    "wof:lastmodified":1544224835,
+    "wof:lastmodified":1564100436,
     "wof:name":"Koski Tl",
     "wof:parent_id":1159321505,
     "wof:placetype":"localadmin",

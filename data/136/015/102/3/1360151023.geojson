@@ -30,6 +30,12 @@
     "name:eng_x_preferred":[
         "Koivula"
     ],
+    "name:fin_x_preferred":[
+        "Koivula"
+    ],
+    "name:koi_x_preferred":[
+        "\u041a\u043e\u0439\u0432\u0443\u043b\u0430"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0439\u0432\u0443\u043b\u0430"
     ],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1360151023,
-    "wof:lastmodified":1537622246,
+    "wof:lastmodified":1564101659,
     "wof:name":"Koivula",
     "wof:parent_id":907199501,
     "wof:placetype":"locality",

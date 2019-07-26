@@ -28,6 +28,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Harakka"
+    ],
     "name:und_x_variant":[
         "Harakkala"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1276654759,
-    "wof:lastmodified":1537622289,
+    "wof:lastmodified":1564097274,
     "wof:name":"Harakka",
     "wof:parent_id":907199295,
     "wof:placetype":"locality",

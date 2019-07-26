@@ -27,11 +27,20 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Oravisalo"
+    ],
     "name:eng_x_preferred":[
+        "Oravisalo"
+    ],
+    "name:fin_x_preferred":[
         "Oravisalo"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u0430\u0432\u0438\u0441\u0430\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Oravisalo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1310382751,
-    "wof:lastmodified":1537622199,
+    "wof:lastmodified":1564101546,
     "wof:name":"Oravisalo",
     "wof:parent_id":907198891,
     "wof:placetype":"locality",

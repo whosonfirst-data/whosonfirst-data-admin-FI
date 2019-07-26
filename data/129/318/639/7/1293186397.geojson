@@ -30,6 +30,12 @@
     "name:dan_x_preferred":[
         "Veckelax"
     ],
+    "name:est_x_preferred":[
+        "Vehkalahti vald"
+    ],
+    "name:fin_x_preferred":[
+        "Vehkalahti"
+    ],
     "name:isl_x_preferred":[
         "Veckelax"
     ],
@@ -37,6 +43,9 @@
         "Veckelax"
     ],
     "name:nob_x_preferred":[
+        "Veckelax"
+    ],
+    "name:nor_x_preferred":[
         "Veckelax"
     ],
     "name:swe_x_preferred":[
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":1293186397,
-    "wof:lastmodified":1537622136,
+    "wof:lastmodified":1564100830,
     "wof:name":"Vehkalahti",
     "wof:parent_id":907199723,
     "wof:placetype":"locality",

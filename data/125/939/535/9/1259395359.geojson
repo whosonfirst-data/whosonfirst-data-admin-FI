@@ -27,6 +27,18 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Bolax"
+    ],
+    "name:spa_x_preferred":[
+        "Bolax"
+    ],
+    "name:swe_x_preferred":[
+        "Bolax"
+    ],
+    "name:vie_x_preferred":[
+        "Bolax"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683073,
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1259395359,
-    "wof:lastmodified":1536984355,
+    "wof:lastmodified":1564102333,
     "wof:name":"Bolax",
     "wof:parent_id":907199735,
     "wof:placetype":"locality",

@@ -29,17 +29,37 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:dan_x_preferred":[
+        "Westend"
+    ],
+    "name:deu_x_preferred":[
+        "Westend"
+    ],
     "name:fin_x_preferred":[
         "Westend"
     ],
+    "name:fra_x_preferred":[
+        "Westend"
+    ],
+    "name:ita_x_preferred":[
+        "Westend"
+    ],
+    "name:nld_x_preferred":[
+        "Westend"
+    ],
+    "name:pol_x_preferred":[
+        "Westend"
+    ],
     "name:swe_x_preferred":[
+        "Westend"
+    ],
+    "name:tur_x_preferred":[
         "Westend"
     ],
     "reversegeo:latitude":60.154802,
     "reversegeo:longitude":24.822274,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729271,
         907198517,
@@ -48,7 +68,8 @@
         101748415,
         136253047,
         1108729225,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -70,7 +91,7 @@
         }
     ],
     "wof:id":1108729437,
-    "wof:lastmodified":1529714748,
+    "wof:lastmodified":1564101512,
     "wof:name":"Westend",
     "wof:parent_id":1108729271,
     "wof:placetype":"neighbourhood",

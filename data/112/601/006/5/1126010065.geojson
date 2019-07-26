@@ -21,6 +21,9 @@
     "name:fin_x_preferred":[
         "Lippaj\u00e4rvi"
     ],
+    "name:fra_x_preferred":[
+        "Viherlaakso-Lippaj\u00e4rvi"
+    ],
     "name:swe_x_preferred":[
         "Klapptr\u00e4sk"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1126010065,
-    "wof:lastmodified":1529714680,
+    "wof:lastmodified":1564101968,
     "wof:name":"Lippaj\u00e4rvi",
     "wof:parent_id":907198517,
     "wof:placetype":"locality",

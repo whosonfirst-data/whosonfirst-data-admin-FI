@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026498,
-    "geom:area_square_m":138335774.158097,
+    "geom:area_square_m":138335774.158094,
     "geom:bbox":"26.0140303968,64.9439334927,26.4166312199,65.1072524912",
     "geom:latitude":65.023954,
     "geom:longitude":26.18763,
@@ -20,7 +20,43 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ces_x_preferred":[
+        "Ylikiiminki"
+    ],
+    "name:deu_x_preferred":[
+        "Ylikiiminki"
+    ],
+    "name:ell_x_preferred":[
+        "\u038e\u03bb\u03b9\u03ba\u03b9\u03b9\u03bc\u03b9\u03bd\u03ba\u03b9"
+    ],
+    "name:epo_x_preferred":[
+        "Ylikiiminki"
+    ],
     "name:fin_x_preferred":[
+        "Ylikiiminki"
+    ],
+    "name:fra_x_preferred":[
+        "Ylikiiminki"
+    ],
+    "name:ita_x_preferred":[
+        "Ylikiiminki"
+    ],
+    "name:nld_x_preferred":[
+        "Ylikiiminki"
+    ],
+    "name:nor_x_preferred":[
+        "Ylikiiminki"
+    ],
+    "name:ron_x_preferred":[
+        "Ylikiiminki"
+    ],
+    "name:sme_x_preferred":[
+        "Ylikiiminki"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d6verkiminge"
+    ],
+    "name:vie_x_preferred":[
         "Ylikiiminki"
     ],
     "oulugov:AJ_KAUPU00":"Ylikiiminki",
@@ -31,14 +67,14 @@
     "reversegeo:longitude":26.221217,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +94,7 @@
         }
     ],
     "wof:id":1108728953,
-    "wof:lastmodified":1529709458,
+    "wof:lastmodified":1564101430,
     "wof:name":"Ylikiiminki",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

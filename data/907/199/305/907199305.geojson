@@ -29,8 +29,17 @@
     "lbl:longitude":23.747076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kaustinen"
+    ],
+    "name:deu_x_preferred":[
+        "Kaustinen"
+    ],
     "name:eng_x_preferred":[
         "Kaustinen"
+    ],
+    "name:est_x_preferred":[
+        "Kaustineni vald"
     ],
     "name:fin_x_preferred":[
         "Kaustinen"
@@ -39,11 +48,47 @@
         "Kaustisen Kunta",
         "Kaustisten Kunta"
     ],
+    "name:fra_x_preferred":[
+        "Kaustinen"
+    ],
+    "name:glg_x_preferred":[
+        "Kaustinen"
+    ],
+    "name:ita_x_preferred":[
+        "Kaustinen"
+    ],
+    "name:nld_x_preferred":[
+        "Kaustinen"
+    ],
+    "name:nor_x_preferred":[
+        "Kaustby"
+    ],
+    "name:pol_x_preferred":[
+        "Kaustinen"
+    ],
+    "name:ron_x_preferred":[
+        "Kaustinen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0443\u0441\u0442\u0438\u043d\u0435\u043d"
+    ],
+    "name:sme_x_preferred":[
+        "Kaustinen"
+    ],
+    "name:sqi_x_preferred":[
+        "Kaustinen"
+    ],
     "name:swe_x_preferred":[
         "Kaustby"
     ],
+    "name:tur_x_preferred":[
+        "Kaustinen"
+    ],
     "name:unk_x_variant":[
         "Kaustby"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u65af\u8482\u5be7"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -77,7 +122,7 @@
         }
     ],
     "wof:id":907199305,
-    "wof:lastmodified":1544224811,
+    "wof:lastmodified":1564100429,
     "wof:name":"Kaustinen",
     "wof:parent_id":1159321595,
     "wof:placetype":"localadmin",

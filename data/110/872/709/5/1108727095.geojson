@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
-    "geom:area_square_m":640536.452142,
+    "geom:area_square_m":640536.452141,
     "geom:bbox":"24.9006240892,60.1646305023,24.9209602013,60.1732862617",
     "geom:latitude":60.168986,
     "geom:longitude":24.911888,
@@ -25,18 +25,68 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:dan_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:deu_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:est_x_preferred":[
+        "Lapinlahti vald"
+    ],
     "name:fin_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:fra_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:glg_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:ita_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:nld_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:nor_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:pol_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:ron_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043f\u0438\u043d\u043b\u0430\u0445\u0442\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:sqi_x_preferred":[
         "Lapinlahti"
     ],
     "name:swe_x_preferred":[
         "Lappviken"
+    ],
+    "name:swe_x_variant":[
+        "Lapinlax"
+    ],
+    "name:tur_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e73\u62c9\u8d6b\u8482"
     ],
     "reversegeo:latitude":60.169293,
     "reversegeo:longitude":24.911695,
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727337,
         907199715,
@@ -45,7 +95,8 @@
         101748417,
         136253047,
         890536879,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -71,7 +122,7 @@
         }
     ],
     "wof:id":1108727095,
-    "wof:lastmodified":1529714730,
+    "wof:lastmodified":1564101413,
     "wof:name":"Lapinlahti",
     "wof:parent_id":-3,
     "wof:placetype":"neighbourhood",

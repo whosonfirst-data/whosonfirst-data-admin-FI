@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:swe_x_preferred":[
+        "Norrby"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1125981965,
-    "wof:lastmodified":1529709683,
+    "wof:lastmodified":1564101959,
     "wof:name":"Norrby",
     "wof:parent_id":907199669,
     "wof:placetype":"locality",

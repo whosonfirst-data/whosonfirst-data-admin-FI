@@ -27,6 +27,30 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lappi"
+    ],
+    "name:deu_x_preferred":[
+        "Lappi"
+    ],
+    "name:fin_x_preferred":[
+        "Lappi"
+    ],
+    "name:fra_x_preferred":[
+        "Lappi"
+    ],
+    "name:isl_x_preferred":[
+        "Lappi"
+    ],
+    "name:nds_x_preferred":[
+        "Lappi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043f\u043f\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Lappi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683143,
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1327297441,
-    "wof:lastmodified":1536874885,
+    "wof:lastmodified":1564100251,
     "wof:name":"Lappi",
     "wof:parent_id":907199705,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Huuhtasenkyl\u00e4"
     ],
+    "name:fin_x_preferred":[
+        "Huhtanen"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0443\u0445\u0442\u0430\u043d\u0435\u043d"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1310299935,
-    "wof:lastmodified":1537622277,
+    "wof:lastmodified":1564101601,
     "wof:name":"Huhtanen",
     "wof:parent_id":907198977,
     "wof:placetype":"locality",

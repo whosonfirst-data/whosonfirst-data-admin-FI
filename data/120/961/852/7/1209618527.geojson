@@ -27,6 +27,18 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Martti"
+    ],
+    "name:fra_x_preferred":[
+        "Martti"
+    ],
+    "name:koi_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0442\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "IV \u0440\u0430\u0439\u043e\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633143
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1209618527,
-    "wof:lastmodified":1537562801,
+    "wof:lastmodified":1564101168,
     "wof:name":"Martti",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000237,
-    "geom:area_square_m":1337865.814685,
+    "geom:area_square_m":1337865.814683,
     "geom:bbox":"27.4769873701,62.7698104183,27.5265889544,62.7844473486",
     "geom:latitude":62.777961,
     "geom:longitude":27.503354,
@@ -22,18 +22,33 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Kurkim\u00e4ki"
+    ],
+    "name:fin_x_preferred":[
+        "Kurkim\u00e4ki"
+    ],
+    "name:fra_x_preferred":[
+        "Kurkim\u00e4ki"
+    ],
+    "name:swe_x_preferred":[
+        "Tranbacka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0440\u043a\u0456\u043c\u044f\u043a\u0456"
+    ],
     "reversegeo:latitude":62.778146,
     "reversegeo:longitude":27.505042,
     "src:geom":"kuogov",
     "wof:belongsto":[
-        85683131,
         102191581,
         907199673,
         85633143,
         404227407,
         101748439,
         136253047,
-        1159321597
+        1159321597,
+        85683131
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1108729105,
-    "wof:lastmodified":1529708973,
+    "wof:lastmodified":1564101509,
     "wof:name":"Kurkim\u00e4ki",
     "wof:parent_id":101748439,
     "wof:placetype":"neighbourhood",

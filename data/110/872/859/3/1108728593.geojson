@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
-    "geom:area_square_m":1072043.339311,
+    "geom:area_square_m":1072043.339309,
     "geom:bbox":"22.2584376855,60.3893089062,22.2837748723,60.3991107031",
     "geom:latitude":60.393892,
     "geom:longitude":22.272194,
@@ -20,11 +20,23 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Papinsaari"
+    ],
     "name:fin_x_preferred":[
         "Papinsaari"
     ],
+    "name:koi_x_preferred":[
+        "\u041f\u0430\u043f\u0438\u043d\u0441\u0430\u0440\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043f\u0438\u043d\u0441\u0430\u0430\u0440\u0438"
+    ],
     "name:swe_x_preferred":[
         "Pr\u00e4stholm"
+    ],
+    "name:swe_x_variant":[
+        "Pr\u00e4stholmen"
     ],
     "reversegeo:latitude":60.394113,
     "reversegeo:longitude":22.272435,
@@ -33,14 +45,14 @@
     "tkugov:NIMI":"Papinsaari",
     "tkugov:PIENALUE":"853217053",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1108728593,
-    "wof:lastmodified":1529706499,
+    "wof:lastmodified":1564101428,
     "wof:name":"Papinsaari",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

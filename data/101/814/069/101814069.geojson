@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000428,
-    "geom:area_square_m":2515252.650836,
+    "geom:area_square_m":2515252.650835,
     "geom:bbox":"27.0563560654,61.6368740208,27.1077233879,61.6601417228",
     "geom:latitude":61.648194,
     "geom:longitude":27.077768,
@@ -18,6 +18,9 @@
     "mz:is_current":1,
     "name:bel_x_preferred":[
         "\u0410\u0442\u0430\u0432\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Otava"
     ],
     "name:ces_x_preferred":[
         "Otava"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101814069,
-    "wof:lastmodified":1529714452,
+    "wof:lastmodified":1564101746,
     "wof:name":"Otava",
     "wof:parent_id":907198765,
     "wof:placetype":"locality",

@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Niittykumpu"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c4ngskulla"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Niittykumpu",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1125786921,
-    "wof:lastmodified":1529714700,
+    "wof:lastmodified":1564101996,
     "wof:name":"Niittykumpu",
     "wof:parent_id":907198517,
     "wof:placetype":"locality",

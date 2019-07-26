@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Vehkalahti"
     ],
+    "name:est_x_preferred":[
+        "Vehkalahti vald"
+    ],
     "name:fin_x_preferred":[
         "Vehkalahti"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1310693113,
-    "wof:lastmodified":1537622136,
+    "wof:lastmodified":1564101646,
     "wof:name":"Vehkalahti",
     "wof:parent_id":907198739,
     "wof:placetype":"locality",

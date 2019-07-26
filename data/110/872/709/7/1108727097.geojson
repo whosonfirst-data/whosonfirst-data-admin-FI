@@ -28,6 +28,12 @@
     "name:fin_x_preferred":[
         "Lassila"
     ],
+    "name:fra_x_preferred":[
+        "Lassila"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441\u0441\u0438\u043b\u0430"
+    ],
     "name:swe_x_preferred":[
         "Lassas"
     ],
@@ -36,7 +42,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537273,
         907199715,
@@ -45,7 +50,8 @@
         101748417,
         136253047,
         890536889,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108727097,
-    "wof:lastmodified":1529714730,
+    "wof:lastmodified":1564101413,
     "wof:name":"Lassila",
     "wof:parent_id":890537273,
     "wof:placetype":"neighbourhood",

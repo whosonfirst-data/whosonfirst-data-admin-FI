@@ -28,11 +28,17 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Raivio"
+    ],
     "name:fin_x_preferred":[
         "Raivio"
     ],
     "name:swe_x_preferred":[
         "R\u00f6djan"
+    ],
+    "name:swe_x_variant":[
+        "Raivio"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1209725131,
-    "wof:lastmodified":1537622307,
+    "wof:lastmodified":1564101254,
     "wof:name":"Raivio",
     "wof:parent_id":907198709,
     "wof:placetype":"locality",

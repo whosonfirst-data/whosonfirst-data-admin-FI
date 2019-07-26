@@ -27,6 +27,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pit\u00e4j\u00e4nm\u00e4ki"
+    ],
     "name:fin_x_colloquial":[
         "Pitsku"
     ],
@@ -35,6 +38,12 @@
     ],
     "name:fin_x_variant":[
         "Pitsku"
+    ],
+    "name:fra_x_preferred":[
+        "Pit\u00e4j\u00e4nm\u00e4ki"
+    ],
+    "name:nor_x_preferred":[
+        "Sockenbacka"
     ],
     "name:swe_x_preferred":[
         "Sockenbacka"
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1343578785,
-    "wof:lastmodified":1537622187,
+    "wof:lastmodified":1564100591,
     "wof:name":"Pitaejaenmaeki",
     "wof:parent_id":907199715,
     "wof:placetype":"locality",

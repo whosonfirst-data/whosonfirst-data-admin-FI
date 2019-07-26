@@ -30,8 +30,14 @@
     "name:fin_x_preferred":[
         "Kivihaka"
     ],
+    "name:fra_x_preferred":[
+        "Kivihaka"
+    ],
     "name:swe_x_preferred":[
         "Stenhaga"
+    ],
+    "name:swe_x_variant":[
+        "Stenhagen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1310375725,
-    "wof:lastmodified":1537622341,
+    "wof:lastmodified":1564101574,
     "wof:name":"Kivihaka",
     "wof:parent_id":907199149,
     "wof:placetype":"locality",

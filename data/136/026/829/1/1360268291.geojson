@@ -31,6 +31,9 @@
         "Kenkonen",
         "Kengonen"
     ],
+    "name:vie_x_preferred":[
+        "Kengo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683119,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1360268291,
-    "wof:lastmodified":1537622254,
+    "wof:lastmodified":1564101706,
     "wof:name":"Kengo",
     "wof:parent_id":907199045,
     "wof:placetype":"locality",

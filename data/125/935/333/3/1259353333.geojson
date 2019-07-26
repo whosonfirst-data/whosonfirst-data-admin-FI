@@ -27,7 +27,25 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koski"
+    ],
+    "name:deu_x_preferred":[
+        "Koski"
+    ],
     "name:fin_x_preferred":[
+        "Koski"
+    ],
+    "name:fra_x_preferred":[
+        "Koski"
+    ],
+    "name:ita_x_preferred":[
+        "Koski"
+    ],
+    "name:pol_x_preferred":[
+        "Koski"
+    ],
+    "name:swe_x_preferred":[
         "Koski"
     ],
     "src:geom":"geonames",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1259353333,
-    "wof:lastmodified":1537622350,
+    "wof:lastmodified":1564102409,
     "wof:name":"Koski",
     "wof:parent_id":907199075,
     "wof:placetype":"locality",

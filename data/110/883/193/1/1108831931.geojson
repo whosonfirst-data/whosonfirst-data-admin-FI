@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
-    "geom:area_square_m":479600.019482,
+    "geom:area_square_m":479600.019481,
     "geom:bbox":"24.8786285172,60.1759763462,24.8908982532,60.1863633227",
     "geom:latitude":60.180959,
     "geom:longitude":24.884543,
@@ -20,11 +20,38 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Seurasaari"
+    ],
+    "name:deu_x_preferred":[
+        "Seurasaari"
+    ],
     "name:fin_x_preferred":[
+        "Seurasaari"
+    ],
+    "name:fra_x_preferred":[
+        "Seurasaari"
+    ],
+    "name:nld_x_preferred":[
+        "Seurasaari"
+    ],
+    "name:nor_x_preferred":[
+        "F\u00f6lis\u00f6n"
+    ],
+    "name:pol_x_preferred":[
+        "Seurasaari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0443\u0440\u0430\u0441\u0430\u0430\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
         "Seurasaari"
     ],
     "name:swe_x_preferred":[
         "F\u00f6lis\u00f6n"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f34\u4fa3\u5c9b"
     ],
     "reversegeo:latitude":60.18156,
     "reversegeo:longitude":24.88454,
@@ -63,7 +90,7 @@
         }
     ],
     "wof:id":1108831931,
-    "wof:lastmodified":1529714765,
+    "wof:lastmodified":1564101516,
     "wof:name":"Seurasaari",
     "wof:parent_id":1108727121,
     "wof:placetype":"microhood",

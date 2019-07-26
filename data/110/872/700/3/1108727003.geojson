@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
-    "geom:area_square_m":1069130.089395,
+    "geom:area_square_m":1069130.089396,
     "geom:bbox":"25.0320774633,60.1578310545,25.0585474902,60.1684275313",
     "geom:latitude":60.162174,
     "geom:longitude":25.046078,
@@ -28,6 +28,9 @@
     "name:fin_x_preferred":[
         "Hevossalmi"
     ],
+    "name:fra_x_preferred":[
+        "Hevossalmi"
+    ],
     "name:swe_x_preferred":[
         "H\u00e4stn\u00e4ssund"
     ],
@@ -36,7 +39,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537275,
         907199715,
@@ -45,7 +47,8 @@
         101748417,
         136253047,
         890536883,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108727003,
-    "wof:lastmodified":1529714726,
+    "wof:lastmodified":1564101417,
     "wof:name":"Hevossalmi",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",

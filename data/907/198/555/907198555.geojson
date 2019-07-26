@@ -29,14 +29,44 @@
     "lbl:longitude":20.896459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Brando"
+    ],
+    "name:ceb_x_preferred":[
+        "Brando"
+    ],
+    "name:deu_x_preferred":[
+        "Brando"
+    ],
     "name:eng_x_preferred":[
         "Brando"
     ],
     "name:fin_x_preferred":[
         "Br\u00e4nd\u00f6"
     ],
+    "name:fra_x_preferred":[
+        "Brando"
+    ],
+    "name:ita_x_preferred":[
+        "Brando"
+    ],
+    "name:nld_x_preferred":[
+        "Brando"
+    ],
+    "name:pol_x_preferred":[
+        "Brando"
+    ],
+    "name:por_x_preferred":[
+        "Brando"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0434\u043e"
+    ],
     "name:swe_x_preferred":[
         "Br\u00e4nd\u00f6"
+    ],
+    "name:swe_x_variant":[
+        "Brando"
     ],
     "src:geom":"figov",
     "src:lbl:centroid":"mapshaper",
@@ -62,7 +92,7 @@
         }
     ],
     "wof:id":907198555,
-    "wof:lastmodified":1544224759,
+    "wof:lastmodified":1564100300,
     "wof:name":"Brando",
     "wof:parent_id":1159321503,
     "wof:placetype":"localadmin",

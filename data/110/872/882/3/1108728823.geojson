@@ -23,6 +23,12 @@
     "name:fin_x_preferred":[
         "Huhkola"
     ],
+    "name:koi_x_preferred":[
+        "\u0425\u0443\u0445\u043a\u043e\u043b\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0445\u043a\u043e\u043b\u0430"
+    ],
     "name:swe_x_preferred":[
         "Huhkola"
     ],
@@ -33,7 +39,6 @@
     "tkugov:NIMI":"Huhkola",
     "tkugov:PIENALUE":"853424074",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
@@ -41,6 +46,7 @@
         101748421,
         136253047,
         1159321603,
+        85683073,
         907198993,
         101753899
     ],
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108728823,
-    "wof:lastmodified":1529706510,
+    "wof:lastmodified":1564101480,
     "wof:name":"Huhkola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

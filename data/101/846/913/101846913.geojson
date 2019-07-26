@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":626195.912021,
+    "geom:area_square_m":626195.91202,
     "geom:bbox":"23.0829278396,62.7128127441,23.1032182354,62.724958199",
     "geom:latitude":62.717903,
     "geom:longitude":23.093459,
@@ -16,10 +16,16 @@
     "mps:longitude":23.093613,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Koura"
+    ],
     "name:fin_x_preferred":[
         "Koura"
     ],
     "name:fra_x_preferred":[
+        "Koura"
+    ],
+    "name:swe_x_preferred":[
         "Koura"
     ],
     "qs:a0":"Suomi#Finland",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":101846913,
-    "wof:lastmodified":1529709635,
+    "wof:lastmodified":1564101729,
     "wof:name":"Koura",
     "wof:parent_id":907199285,
     "wof:placetype":"locality",

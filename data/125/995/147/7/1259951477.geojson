@@ -27,6 +27,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "K\u00e4rp\u00e4nkyl\u00e4"
+    ],
     "name:und_x_variant":[
         "K\u00e4rpp\u00e4",
         "K\u00e4rp\u00e4nkyl\u00e4"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259951477,
-    "wof:lastmodified":1537622259,
+    "wof:lastmodified":1564102399,
     "wof:name":"Kaerpaenkylae",
     "wof:parent_id":907199519,
     "wof:placetype":"locality",

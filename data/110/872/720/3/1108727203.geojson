@@ -25,8 +25,29 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Tali"
+    ],
+    "name:deu_x_preferred":[
+        "Tali"
+    ],
     "name:fin_x_preferred":[
         "Tali"
+    ],
+    "name:fra_x_preferred":[
+        "Tali"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05dc\u05d9"
+    ],
+    "name:nld_x_preferred":[
+        "Tali"
+    ],
+    "name:ron_x_preferred":[
+        "Tali"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0438"
     ],
     "name:swe_x_preferred":[
         "Tali"
@@ -36,7 +57,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537259,
         907199715,
@@ -45,7 +65,8 @@
         101748417,
         136253047,
         890536889,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +89,7 @@
         }
     ],
     "wof:id":1108727203,
-    "wof:lastmodified":1529714734,
+    "wof:lastmodified":1564101512,
     "wof:name":"Tali",
     "wof:parent_id":890537259,
     "wof:placetype":"neighbourhood",

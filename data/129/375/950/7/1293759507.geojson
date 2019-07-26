@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Iivantiira"
     ],
+    "name:fin_x_preferred":[
+        "Iivantiira"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0432\u0430\u043d\u0442\u0438\u0440\u0430"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293759507,
-    "wof:lastmodified":1537622276,
+    "wof:lastmodified":1564100872,
     "wof:name":"Iivantiira",
     "wof:parent_id":907199507,
     "wof:placetype":"locality",

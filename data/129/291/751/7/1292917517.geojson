@@ -28,6 +28,18 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kannelm\u00e4ki"
+    ],
+    "name:est_x_preferred":[
+        "Kannelm\u00e4ki"
+    ],
+    "name:fin_x_preferred":[
+        "Kannelm\u00e4ki"
+    ],
+    "name:fra_x_preferred":[
+        "Kannelm\u00e4ki"
+    ],
     "name:swe_x_preferred":[
         "Gamlas"
     ],
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1292917517,
-    "wof:lastmodified":1537622312,
+    "wof:lastmodified":1564100814,
     "wof:name":"Kannelmaeki",
     "wof:parent_id":907199715,
     "wof:placetype":"locality",

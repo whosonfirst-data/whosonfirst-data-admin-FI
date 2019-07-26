@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
-    "geom:area_square_m":499467.174945,
+    "geom:area_square_m":499467.174944,
     "geom:bbox":"25.4614853169,65.0384011028,25.4803570626,65.0481845072",
     "geom:latitude":65.044214,
     "geom:longitude":25.47224,
@@ -23,6 +23,9 @@
     "name:fin_x_preferred":[
         "Isko"
     ],
+    "name:ita_x_preferred":[
+        "Isko"
+    ],
     "oulugov:AJ_KAUPU00":"Isko",
     "oulugov:AJ_KAUPUNG":"62",
     "oulugov:ID":"47",
@@ -31,14 +34,14 @@
     "reversegeo:longitude":25.472877,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108728913,
-    "wof:lastmodified":1529709454,
+    "wof:lastmodified":1564101490,
     "wof:name":"Isko",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

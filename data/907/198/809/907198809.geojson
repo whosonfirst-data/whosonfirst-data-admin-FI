@@ -29,8 +29,14 @@
     "lbl:longitude":21.889179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Siikainen"
+    ],
     "name:dan_x_preferred":[
         "Siikais"
+    ],
+    "name:deu_x_preferred":[
+        "Siikainen"
     ],
     "name:eng_x_preferred":[
         "Siikainen"
@@ -38,17 +44,62 @@
     "name:fin_x_preferred":[
         "Siikainen"
     ],
+    "name:fra_x_preferred":[
+        "Siikainen"
+    ],
+    "name:glg_x_preferred":[
+        "Siikainen"
+    ],
     "name:isl_x_preferred":[
         "Siikais"
     ],
+    "name:ita_x_preferred":[
+        "Siikainen"
+    ],
+    "name:nld_x_preferred":[
+        "Siikainen"
+    ],
     "name:nor_x_preferred":[
         "Siikais"
+    ],
+    "name:nor_x_variant":[
+        "Siikainen"
+    ],
+    "name:pol_x_preferred":[
+        "Siikainen"
+    ],
+    "name:ron_x_preferred":[
+        "Siikainen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0439\u043a\u0430\u0439\u043d\u0435\u043d"
+    ],
+    "name:sme_x_preferred":[
+        "Siikainen"
+    ],
+    "name:spa_x_preferred":[
+        "Siikainen"
+    ],
+    "name:sqi_x_preferred":[
+        "Siikainen"
     ],
     "name:swe_x_preferred":[
         "Siikainen"
     ],
     "name:swe_x_variant":[
         "Siikais"
+    ],
+    "name:tur_x_preferred":[
+        "Siikainen"
+    ],
+    "name:vie_x_preferred":[
+        "Siikainen"
+    ],
+    "name:war_x_preferred":[
+        "Siikainen"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u51f1\u5be7"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -83,7 +134,7 @@
         }
     ],
     "wof:id":907198809,
-    "wof:lastmodified":1544224776,
+    "wof:lastmodified":1564100327,
     "wof:name":"Siikainen",
     "wof:parent_id":1159321519,
     "wof:placetype":"localadmin",

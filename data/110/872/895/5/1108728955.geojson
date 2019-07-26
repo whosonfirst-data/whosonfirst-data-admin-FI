@@ -20,8 +20,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:dan_x_preferred":[
+        "Alppila"
+    ],
+    "name:est_x_preferred":[
+        "Alppila"
+    ],
     "name:fin_x_preferred":[
         "Alppila"
+    ],
+    "name:fra_x_preferred":[
+        "Alppila"
+    ],
+    "name:swe_x_preferred":[
+        "Alphyddan"
     ],
     "oulugov:AJ_KAUPU00":"Alppila",
     "oulugov:AJ_KAUPUNG":"58",
@@ -31,14 +43,14 @@
     "reversegeo:longitude":25.461396,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1108728955,
-    "wof:lastmodified":1529709458,
+    "wof:lastmodified":1564101430,
     "wof:name":"Alppila",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

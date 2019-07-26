@@ -27,6 +27,30 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kasari"
+    ],
+    "name:est_x_preferred":[
+        "Kasari"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057d\u0561\u057c\u056b"
+    ],
+    "name:nld_x_preferred":[
+        "Kasari"
+    ],
+    "name:pol_x_preferred":[
+        "Kasari"
+    ],
+    "name:spa_x_preferred":[
+        "Kasari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0440\u0456"
+    ],
+    "name:vol_x_preferred":[
+        "Kasari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683103,
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1344047071,
-    "wof:lastmodified":1536894705,
+    "wof:lastmodified":1564100633,
     "wof:name":"Kasari",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",
