@@ -28,6 +28,12 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tiri"
+    ],
+    "name:swe_x_preferred":[
+        "Tiri"
+    ],
     "name:und_x_variant":[
         "Tirinkyla",
         "Tiri"
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1326506361,
-    "wof:lastmodified":1537622149,
+    "wof:lastmodified":1564100013,
     "wof:name":"Tiri",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

@@ -27,6 +27,15 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Luolavuori"
+    ],
+    "name:koi_x_preferred":[
+        "\u041b\u0443\u043e\u043b\u0430\u0432\u0443\u043e\u0440\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043e\u043b\u0430\u0432\u0443\u043e\u0440\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683073,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1293601883,
-    "wof:lastmodified":1537562798,
+    "wof:lastmodified":1564100804,
     "wof:name":"Luolavuori",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

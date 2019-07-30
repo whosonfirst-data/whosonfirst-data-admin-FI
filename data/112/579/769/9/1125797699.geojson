@@ -18,7 +18,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0633 \u062c\u064a\u0631\u0641\u064a"
+    ],
     "name:eng_x_preferred":[
+        "Tuusj\u00e4rvi"
+    ],
+    "name:fin_x_preferred":[
         "Tuusj\u00e4rvi"
     ],
     "name:rus_x_preferred":[
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1125797699,
-    "wof:lastmodified":1529708962,
+    "wof:lastmodified":1564102007,
     "wof:name":"Tuusj\u00e4rvi",
     "wof:parent_id":907199053,
     "wof:placetype":"locality",

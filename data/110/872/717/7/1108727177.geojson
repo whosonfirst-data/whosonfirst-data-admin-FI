@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00067,
-    "geom:area_square_m":4110085.365184,
+    "geom:area_square_m":4110085.365187,
     "geom:bbox":"25.1389867276,60.2269339646,25.1986835997,60.2501912481",
     "geom:latitude":60.23849,
     "geom:longitude":25.169348,
@@ -26,6 +26,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "name:fin_x_preferred":[
+        "Salmenkallio"
+    ],
+    "name:fra_x_preferred":[
         "Salmenkallio"
     ],
     "name:swe_x_preferred":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108727177,
-    "wof:lastmodified":1534379301,
+    "wof:lastmodified":1564101503,
     "wof:name":"Salmenkallio",
     "wof:parent_id":1108727375,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,12 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Laurila"
+    ],
+    "name:fin_x_preferred":[
+        "Laurila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683147,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1242743471,
-    "wof:lastmodified":1537562790,
+    "wof:lastmodified":1564102136,
     "wof:name":"Laurila",
     "wof:parent_id":907199569,
     "wof:placetype":"locality",

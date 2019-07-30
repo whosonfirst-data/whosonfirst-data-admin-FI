@@ -30,6 +30,12 @@
     "name:fin_x_preferred":[
         "Puistom\u00e4ki"
     ],
+    "name:koi_x_preferred":[
+        "\u041f\u0443\u0439\u0441\u0442\u043e\u043c\u044f\u043a\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0439\u0441\u0442\u043e\u043c\u044f\u043a\u0438"
+    ],
     "name:swe_x_preferred":[
         "Parkbacken"
     ],
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1209917057,
-    "wof:lastmodified":1537622308,
+    "wof:lastmodified":1564101087,
     "wof:name":"Puistomaeki",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

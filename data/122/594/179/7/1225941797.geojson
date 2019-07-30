@@ -27,6 +27,15 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Koria"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\ub9ac\uc544"
+    ],
+    "name:swe_x_preferred":[
+        "Koria"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683081,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1225941797,
-    "wof:lastmodified":1537562791,
+    "wof:lastmodified":1564102454,
     "wof:name":"Koria",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

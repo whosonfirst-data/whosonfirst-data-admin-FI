@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Sotunki"
+    ],
     "name:swe_x_preferred":[
         "Sottungsby"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1125841467,
-    "wof:lastmodified":1529714683,
+    "wof:lastmodified":1564102015,
     "wof:name":"Sotunki",
     "wof:parent_id":907199651,
     "wof:placetype":"locality",

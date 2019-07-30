@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000622,
-    "geom:area_square_m":3250589.237548,
+    "geom:area_square_m":3250589.237545,
     "geom:bbox":"25.5632211695,64.9745321239,25.6275473011,65.0058988097",
     "geom:latitude":64.99041,
     "geom:longitude":25.593445,
@@ -23,6 +23,12 @@
     "name:fin_x_preferred":[
         "Saarela"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0430\u0440\u0435\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0430\u0440\u0435\u043b\u0430"
+    ],
     "oulugov:AJ_KAUPU00":"Saarela",
     "oulugov:AJ_KAUPUNG":"89",
     "oulugov:ID":"103",
@@ -31,14 +37,14 @@
     "reversegeo:longitude":25.579567,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1108729037,
-    "wof:lastmodified":1529709465,
+    "wof:lastmodified":1564101465,
     "wof:name":"Saarela",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

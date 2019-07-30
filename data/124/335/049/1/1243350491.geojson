@@ -28,6 +28,12 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Takala"
+    ],
+    "name:ton_x_preferred":[
+        "Takala"
+    ],
     "name:und_x_variant":[
         "M\u00e4kel\u00e4",
         "Takala"
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1243350491,
-    "wof:lastmodified":1537622153,
+    "wof:lastmodified":1564102222,
     "wof:name":"Takala",
     "wof:parent_id":907199525,
     "wof:placetype":"locality",

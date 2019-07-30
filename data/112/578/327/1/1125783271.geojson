@@ -21,6 +21,12 @@
     "name:fin_x_preferred":[
         "Lauste"
     ],
+    "name:koi_x_preferred":[
+        "\u041b\u0430\u0432\u0441\u0442\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0443\u0441\u0442\u0435"
+    ],
     "name:swe_x_preferred":[
         "Laustis"
     ],
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1125783271,
-    "wof:lastmodified":1529706483,
+    "wof:lastmodified":1564102001,
     "wof:name":"Lauste",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

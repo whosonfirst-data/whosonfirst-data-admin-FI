@@ -34,11 +34,32 @@
     "mps:longitude":22.00375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Suupohja"
+    ],
     "name:eng_x_preferred":[
         "Suupohja"
     ],
     "name:fin_x_preferred":[
         "Suupohja"
+    ],
+    "name:fin_x_variant":[
+        "Suupohjan seutukunta"
+    ],
+    "name:fra_x_preferred":[
+        "Suupohja"
+    ],
+    "name:glg_x_preferred":[
+        "Suupohja"
+    ],
+    "name:nor_x_preferred":[
+        "Suupohja"
+    ],
+    "name:pol_x_preferred":[
+        "Podregion Suupohja"
+    ],
+    "name:sme_x_preferred":[
+        "Suupohja guovlugielda"
     ],
     "src:geom":"fivgov",
     "src:geom_alt":[],
@@ -66,7 +87,7 @@
         }
     ],
     "wof:id":1159321543,
-    "wof:lastmodified":1554325342,
+    "wof:lastmodified":1564102064,
     "wof:name":"Suupohja",
     "wof:parent_id":85683113,
     "wof:placetype":"county",

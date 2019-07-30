@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005873,
-    "geom:area_square_m":36000580.813767,
+    "geom:area_square_m":36000580.813772,
     "geom:bbox":"25.0824229116,60.2372155411,25.1930752393,60.3286828001",
     "geom:latitude":60.282055,
     "geom:longitude":25.13123,
@@ -27,8 +27,17 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":13.0,
     "mz:min_zoom":10.0,
+    "name:ceb_x_preferred":[
+        "Hakunila"
+    ],
     "name:fin_x_preferred":[
         "Hakunila"
+    ],
+    "name:fra_x_preferred":[
+        "Hakunila"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00e5kansb\u00f6le"
     ],
     "reversegeo:latitude":60.29016,
     "reversegeo:longitude":25.122846,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1108729495,
-    "wof:lastmodified":1529714713,
+    "wof:lastmodified":1564101455,
     "wof:name":"Hakunila",
     "wof:parent_id":101748419,
     "wof:placetype":"borough",

@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Simuna"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d1 \u05e1\u05d9\u05de\u05d5\u05e0\u05d0"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043c\u0443\u043d\u0430"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1326516415,
-    "wof:lastmodified":1537622162,
+    "wof:lastmodified":1564096241,
     "wof:name":"Simuna",
     "wof:parent_id":907199203,
     "wof:placetype":"locality",

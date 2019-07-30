@@ -29,8 +29,29 @@
     "lbl:longitude":29.952603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bak_x_preferred":[
+        "\u041b\u0438\u0435\u043a\u0441\u0430"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u0435\u043a\u0441\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Lieksa"
+    ],
+    "name:deu_x_preferred":[
+        "Lieksa"
+    ],
     "name:eng_x_preferred":[
         "Lieksa"
+    ],
+    "name:epo_x_preferred":[
+        "Lieksa"
+    ],
+    "name:est_x_preferred":[
+        "Lieksa linn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0633\u06a9\u0627"
     ],
     "name:fin_x_preferred":[
         "Lieksa"
@@ -38,11 +59,68 @@
     "name:fin_x_variant":[
         "Lieksan Kaupunki"
     ],
+    "name:fra_x_preferred":[
+        "Lieksa"
+    ],
+    "name:glg_x_preferred":[
+        "Lieksa"
+    ],
+    "name:ita_x_preferred":[
+        "Lieksa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30a8\u30af\u30b5"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc5d1\uc0ac"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041b\u0438\u0435\u043a\u0441\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Lieksa"
+    ],
+    "name:nor_x_preferred":[
+        "Lieksa"
+    ],
+    "name:olo_x_preferred":[
+        "Lieksa"
+    ],
+    "name:pol_x_preferred":[
+        "Lieksa"
+    ],
+    "name:ron_x_preferred":[
+        "Lieksa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0435\u043a\u0441\u0430"
+    ],
+    "name:sme_x_preferred":[
+        "Lieksa"
+    ],
+    "name:spa_x_preferred":[
+        "Lieksa"
+    ],
+    "name:sqi_x_preferred":[
+        "Lieksa"
+    ],
     "name:swe_x_preferred":[
         "Lieksa"
     ],
+    "name:tur_x_preferred":[
+        "Lieksa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0435\u043a\u0441\u0430"
+    ],
     "name:unk_x_variant":[
         "L\u2019yeksa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc \u0627\u06cc\u0633\u06a9\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5217\u514b\u85a9"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -77,7 +155,7 @@
         }
     ],
     "wof:id":907199605,
-    "wof:lastmodified":1544224832,
+    "wof:lastmodified":1564100385,
     "wof:name":"Lieksa",
     "wof:parent_id":1159321575,
     "wof:placetype":"localadmin",

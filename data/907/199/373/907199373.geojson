@@ -29,8 +29,20 @@
     "lbl:longitude":27.511397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:dan_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:deu_x_preferred":[
+        "Lapinlahti"
+    ],
     "name:eng_x_preferred":[
         "Lapinlahti"
+    ],
+    "name:est_x_preferred":[
+        "Lapinlahti vald"
     ],
     "name:fin_x_preferred":[
         "Lapinlahti"
@@ -38,11 +50,47 @@
     "name:fin_x_variant":[
         "Lapinlahden Kunta"
     ],
+    "name:fra_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:glg_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:ita_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:nld_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:nor_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:pol_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:ron_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043f\u0438\u043d\u043b\u0430\u0445\u0442\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:sqi_x_preferred":[
+        "Lapinlahti"
+    ],
     "name:swe_x_preferred":[
         "Lapinlahti"
     ],
     "name:swe_x_variant":[
         "Lapinlax"
+    ],
+    "name:tur_x_preferred":[
+        "Lapinlahti"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e73\u62c9\u8d6b\u8482"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -77,7 +125,7 @@
         }
     ],
     "wof:id":907199373,
-    "wof:lastmodified":1544224817,
+    "wof:lastmodified":1564100466,
     "wof:name":"Lapinlahti",
     "wof:parent_id":1159321601,
     "wof:placetype":"localadmin",

@@ -30,6 +30,12 @@
     "name:eng_x_preferred":[
         "Ilmola"
     ],
+    "name:eus_x_preferred":[
+        "Ilmola"
+    ],
+    "name:fin_x_preferred":[
+        "Ilmola"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u043b\u044c\u043c\u043e\u043b\u0430"
     ],
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1343527033,
-    "wof:lastmodified":1537622276,
+    "wof:lastmodified":1564100499,
     "wof:name":"Ilmola",
     "wof:parent_id":907199569,
     "wof:placetype":"locality",

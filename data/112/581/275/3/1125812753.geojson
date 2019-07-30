@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Myllyoja"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Myllyoja",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1125812753,
-    "wof:lastmodified":1529709434,
+    "wof:lastmodified":1564101892,
     "wof:name":"Myllyoja",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

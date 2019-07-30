@@ -29,14 +29,86 @@
     "lbl:longitude":19.438309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Hammarland"
+    ],
+    "name:dan_x_preferred":[
+        "Hammarland"
+    ],
+    "name:deu_x_preferred":[
+        "Hammarland"
+    ],
     "name:eng_x_preferred":[
         "Hammarland"
+    ],
+    "name:epo_x_preferred":[
+        "Hammarland"
+    ],
+    "name:est_x_preferred":[
+        "Hammarlandi vald"
+    ],
+    "name:eus_x_preferred":[
+        "Hammarland"
+    ],
+    "name:fao_x_preferred":[
+        "Hammarland"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0645\u0627\u0631\u0644\u0646\u062f"
     ],
     "name:fin_x_preferred":[
         "Hammarland"
     ],
+    "name:fra_x_preferred":[
+        "Hammarland"
+    ],
+    "name:glg_x_preferred":[
+        "Hammarland"
+    ],
+    "name:ind_x_preferred":[
+        "Hammarland"
+    ],
+    "name:ita_x_preferred":[
+        "Hammarland"
+    ],
+    "name:msa_x_preferred":[
+        "Hammarland"
+    ],
+    "name:nld_x_preferred":[
+        "Hammarland"
+    ],
+    "name:nor_x_preferred":[
+        "Hammarland"
+    ],
+    "name:pol_x_preferred":[
+        "Hammarland"
+    ],
+    "name:ron_x_preferred":[
+        "Hammarland"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043c\u043c\u0430\u0440\u043b\u0430\u043d\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Hammarland"
+    ],
+    "name:spa_x_preferred":[
+        "Hammarland"
+    ],
+    "name:sqi_x_preferred":[
+        "Hammarland"
+    ],
     "name:swe_x_preferred":[
         "Hammarland"
+    ],
+    "name:tur_x_preferred":[
+        "Hammarland"
+    ],
+    "name:vie_x_preferred":[
+        "Hammarland"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u99ac\u862d"
     ],
     "src:geom":"figov",
     "src:lbl:centroid":"mapshaper",
@@ -62,7 +134,7 @@
         }
     ],
     "wof:id":907198477,
-    "wof:lastmodified":1544224754,
+    "wof:lastmodified":1564100276,
     "wof:name":"Hammarland",
     "wof:parent_id":1159321611,
     "wof:placetype":"localadmin",

@@ -30,6 +30,9 @@
     "name:dan_x_preferred":[
         "K\u00e4geludden"
     ],
+    "name:fin_x_preferred":[
+        "Keilaniemi"
+    ],
     "name:isl_x_preferred":[
         "K\u00e4geludden"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1310009911,
-    "wof:lastmodified":1537622314,
+    "wof:lastmodified":1564101554,
     "wof:name":"Keilaniemi",
     "wof:parent_id":907198517,
     "wof:placetype":"locality",

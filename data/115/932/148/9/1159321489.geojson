@@ -40,6 +40,18 @@
     "name:fin_x_preferred":[
         "Koillismaa"
     ],
+    "name:fin_x_variant":[
+        "Koillismaan seutukunta"
+    ],
+    "name:nor_x_preferred":[
+        "Koillismaa"
+    ],
+    "name:pol_x_preferred":[
+        "Podregion Koillismaa"
+    ],
+    "name:sme_x_preferred":[
+        "Koillismaa guovlogielda"
+    ],
     "src:geom":"fivgov",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1159321489,
-    "wof:lastmodified":1554325328,
+    "wof:lastmodified":1564102090,
     "wof:name":"Koillismaa",
     "wof:parent_id":85683143,
     "wof:placetype":"county",

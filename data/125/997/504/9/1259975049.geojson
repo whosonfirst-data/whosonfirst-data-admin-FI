@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Ruonala"
     ],
+    "name:fin_x_preferred":[
+        "Ruonala"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u043e\u043d\u0430\u043b\u0430"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1259975049,
-    "wof:lastmodified":1537622172,
+    "wof:lastmodified":1564102338,
     "wof:name":"Ruonala",
     "wof:parent_id":907198683,
     "wof:placetype":"locality",

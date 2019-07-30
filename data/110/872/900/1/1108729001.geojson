@@ -23,6 +23,15 @@
     "name:fin_x_preferred":[
         "Pikisaari"
     ],
+    "name:fra_x_preferred":[
+        "Pikisaari"
+    ],
+    "name:koi_x_preferred":[
+        "\u041f\u0438\u043a\u0438\u0441\u0430\u0440\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043a\u0438\u0441\u0430\u0430\u0440\u0438"
+    ],
     "oulugov:AJ_KAUPU00":"Pikisaari",
     "oulugov:AJ_KAUPUNG":"50",
     "oulugov:ID":"87",
@@ -31,14 +40,14 @@
     "reversegeo:longitude":25.450904,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1108729001,
-    "wof:lastmodified":1529709462,
+    "wof:lastmodified":1564101405,
     "wof:name":"Pikisaari",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

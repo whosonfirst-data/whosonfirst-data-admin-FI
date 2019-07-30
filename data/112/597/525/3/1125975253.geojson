@@ -21,8 +21,17 @@
     "name:eng_x_preferred":[
         "Tammij\u00e4rvi"
     ],
+    "name:fin_x_preferred":[
+        "Tammij\u00e4rvi"
+    ],
+    "name:fra_x_preferred":[
+        "Tammij\u00e4rvi"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043c\u043c\u0438\u044f\u0440\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Tammij\u00e4rvi"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":1125975253,
-    "wof:lastmodified":1529706354,
+    "wof:lastmodified":1564101939,
     "wof:name":"Tammij\u00e4rvi",
     "wof:parent_id":907198699,
     "wof:placetype":"locality",

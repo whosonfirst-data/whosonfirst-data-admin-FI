@@ -16,6 +16,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0631\u0641\u0627\u062c\u064a\u0631\u0641\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Norvaj\u00e4rvi"
+    ],
+    "name:fin_x_preferred":[
+        "Norvaj\u00e4rvi"
+    ],
+    "name:swe_x_preferred":[
+        "Norvaj\u00e4rvi"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Norvaj\u00e4rvi",
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":1125785235,
-    "wof:lastmodified":1529708136,
+    "wof:lastmodified":1564102001,
     "wof:name":"Norvaj\u00e4rvi",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

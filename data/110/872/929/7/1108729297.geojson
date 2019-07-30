@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025712,
-    "geom:area_square_m":158911006.176972,
+    "geom:area_square_m":158911006.176965,
     "geom:bbox":"24.6446424411,59.9014033851,24.9425927607,60.1149716494",
     "geom:latitude":60.012926,
     "geom:longitude":24.794061,
@@ -32,11 +32,16 @@
     "name:fin_x_preferred":[
         "Ulkosaaret"
     ],
+    "name:fra_x_preferred":[
+        "Ulkosaaret"
+    ],
+    "name:swe_x_preferred":[
+        "Ut\u00f6arna"
+    ],
     "reversegeo:latitude":60.09969,
     "reversegeo:longitude":24.72804,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729229,
         907198517,
@@ -45,7 +50,8 @@
         101748415,
         136253047,
         1108729211,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108729297,
-    "wof:lastmodified":1529714738,
+    "wof:lastmodified":1564101499,
     "wof:name":"Ulkosaaret",
     "wof:parent_id":1108729229,
     "wof:placetype":"neighbourhood",

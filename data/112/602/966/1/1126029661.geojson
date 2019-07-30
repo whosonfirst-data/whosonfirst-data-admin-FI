@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "M\u00e4ntym\u00e4ki"
+    ],
+    "name:koi_x_preferred":[
+        "\u041c\u044f\u043d\u0442\u044e\u043c\u044f\u043a\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044f\u043d\u0442\u044e\u043c\u044f\u043a\u0438"
+    ],
     "name:swe_x_preferred":[
         "Tallbacka"
     ],
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":1126029661,
-    "wof:lastmodified":1529706495,
+    "wof:lastmodified":1564101859,
     "wof:name":"M\u00e4ntym\u00e4ki",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

@@ -29,8 +29,26 @@
     "lbl:longitude":24.02168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043d\u0443\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Kannus"
+    ],
+    "name:ceb_x_preferred":[
+        "Kannus"
+    ],
+    "name:deu_x_preferred":[
+        "Kannus"
+    ],
     "name:eng_x_preferred":[
         "Kannus"
+    ],
+    "name:est_x_preferred":[
+        "Kannus"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0646\u0648\u0633"
     ],
     "name:fin_x_preferred":[
         "Kannus"
@@ -38,8 +56,56 @@
     "name:fin_x_variant":[
         "Kannuksen Kaupunki"
     ],
+    "name:fra_x_preferred":[
+        "Kannus"
+    ],
+    "name:glg_x_preferred":[
+        "Kannus"
+    ],
+    "name:ita_x_preferred":[
+        "Kannus"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041a\u0430\u043d\u043d\u0443\u0441"
+    ],
+    "name:nld_x_preferred":[
+        "Kannus"
+    ],
+    "name:nor_x_preferred":[
+        "Kannus"
+    ],
+    "name:pol_x_preferred":[
+        "Kannus"
+    ],
+    "name:ron_x_preferred":[
+        "Kannus"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u043d\u0443\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Kannus"
+    ],
+    "name:sme_x_preferred":[
+        "Kannus"
+    ],
+    "name:sqi_x_preferred":[
+        "Kannus"
+    ],
     "name:swe_x_preferred":[
         "Kannus"
+    ],
+    "name:tur_x_preferred":[
+        "Kannus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u043d\u0443\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0646\u0648\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u52aa\u65af"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -74,7 +140,7 @@
         }
     ],
     "wof:id":907198997,
-    "wof:lastmodified":1544224789,
+    "wof:lastmodified":1564100266,
     "wof:name":"Kannus",
     "wof:parent_id":1159321609,
     "wof:placetype":"localadmin",

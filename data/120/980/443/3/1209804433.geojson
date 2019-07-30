@@ -31,6 +31,12 @@
     "name:eng_x_preferred":[
         "Lohikoski"
     ],
+    "name:fin_x_preferred":[
+        "Lohikoski"
+    ],
+    "name:fra_x_preferred":[
+        "Lohikoski"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u0445\u0438\u043a\u043e\u0441\u043a\u0438"
     ],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1209804433,
-    "wof:lastmodified":1537622220,
+    "wof:lastmodified":1564101217,
     "wof:name":"Lohikoski",
     "wof:parent_id":907198787,
     "wof:placetype":"locality",

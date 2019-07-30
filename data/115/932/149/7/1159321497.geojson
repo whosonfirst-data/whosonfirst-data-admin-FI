@@ -34,10 +34,31 @@
     "mps:longitude":27.415354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Oulunkaari"
+    ],
     "name:eng_x_preferred":[
         "Oulunkaari"
     ],
     "name:fin_x_preferred":[
+        "Oulunkaari"
+    ],
+    "name:fin_x_variant":[
+        "Oulunkaaren seutukunta"
+    ],
+    "name:fra_x_preferred":[
+        "Sous-r\u00e9gion d'Oulunkaari"
+    ],
+    "name:nor_x_preferred":[
+        "Ule\u00e5borgsb\u00e5gen"
+    ],
+    "name:pol_x_preferred":[
+        "Podregion Oulunkaari"
+    ],
+    "name:sme_x_preferred":[
+        "Oulunkaari guovlogielda"
+    ],
+    "name:swe_x_preferred":[
         "Oulunkaari"
     ],
     "src:geom":"fivgov",
@@ -66,7 +87,7 @@
         }
     ],
     "wof:id":1159321497,
-    "wof:lastmodified":1554325330,
+    "wof:lastmodified":1564102101,
     "wof:name":"Oulunkaari",
     "wof:parent_id":85683143,
     "wof:placetype":"county",

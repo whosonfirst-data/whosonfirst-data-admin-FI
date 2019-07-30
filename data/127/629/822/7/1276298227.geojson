@@ -30,11 +30,17 @@
     "name:eng_x_preferred":[
         "Kivesj\u00e4rvi"
     ],
+    "name:fin_x_preferred":[
+        "Kivesj\u00e4rvi"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0432\u0435\u0441\u044c\u044f\u0440\u0432\u0438"
     ],
     "name:und_x_variant":[
         "Kivesj\u00e4rvi"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u97cb\u65af\u8036\u723e\u7dad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1276298227,
-    "wof:lastmodified":1537622250,
+    "wof:lastmodified":1564100935,
     "wof:name":"Kivesjaervi",
     "wof:parent_id":907199475,
     "wof:placetype":"locality",

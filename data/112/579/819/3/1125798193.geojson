@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Kortepohja"
+    ],
+    "name:fra_x_preferred":[
+        "Kortepohja"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1125798193,
-    "wof:lastmodified":1529706358,
+    "wof:lastmodified":1564102004,
     "wof:name":"Kortepohja",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

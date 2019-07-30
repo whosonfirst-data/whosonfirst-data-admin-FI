@@ -25,18 +25,29 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:eus_x_preferred":[
+        "Kivikko"
+    ],
     "name:fin_x_preferred":[
         "Kivikko"
     ],
+    "name:fra_x_preferred":[
+        "Kivikko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0432\u0438\u043a\u043a\u043e"
+    ],
     "name:swe_x_preferred":[
         "Stensb\u00f6le"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0432\u0456\u043a\u043a\u043e"
     ],
     "reversegeo:latitude":60.238234,
     "reversegeo:longitude":25.058296,
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537253,
         907199715,
@@ -45,7 +56,8 @@
         101748417,
         136253047,
         890536881,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +80,7 @@
         }
     ],
     "wof:id":1108727049,
-    "wof:lastmodified":1529714728,
+    "wof:lastmodified":1564101469,
     "wof:name":"Kivikko",
     "wof:parent_id":890537253,
     "wof:placetype":"neighbourhood",

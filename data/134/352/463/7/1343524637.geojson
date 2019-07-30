@@ -28,15 +28,159 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0643\u0648\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Kokkola"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u043e\u043a\u0430\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Kokkola"
+    ],
+    "name:ceb_x_preferred":[
+        "Kokkola"
+    ],
+    "name:ces_x_preferred":[
+        "Kokkola"
+    ],
+    "name:cor_x_preferred":[
+        "Kokkola"
+    ],
+    "name:dan_x_preferred":[
+        "Karleby"
+    ],
+    "name:deu_x_preferred":[
+        "Kokkola"
+    ],
     "name:eng_x_preferred":[
+        "Kokkola"
+    ],
+    "name:epo_x_preferred":[
+        "Kokkola"
+    ],
+    "name:est_x_preferred":[
+        "Kokkola linn"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06a9\u0648\u0644\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Kokkola"
+    ],
+    "name:fra_x_preferred":[
+        "Kokkola"
+    ],
+    "name:fry_x_preferred":[
+        "Kokkola"
+    ],
+    "name:glg_x_preferred":[
+        "Kokkola"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e7\u05d5\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Kokkola"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u056f\u0578\u056c\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Kokkola"
+    ],
+    "name:ita_x_preferred":[
+        "Kokkola"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30c3\u30b3\u30e9"
+    ],
+    "name:kal_x_preferred":[
+        "Kokkola"
+    ],
+    "name:koi_x_preferred":[
+        "\u041a\u043e\u043a\u043a\u043e\u043b\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\ucf5c\ub77c"
+    ],
+    "name:lat_x_preferred":[
+        "Carolina Vetus"
+    ],
+    "name:lit_x_preferred":[
+        "Kokola"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041a\u043e\u043a\u043a\u043e\u043b\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Kokkola"
+    ],
+    "name:nor_x_preferred":[
+        "Karleby"
+    ],
+    "name:olo_x_preferred":[
+        "Kokkola"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0648\u06a9\u0648\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Kokkola"
+    ],
+    "name:por_x_preferred":[
+        "Kokkola"
+    ],
+    "name:ron_x_preferred":[
         "Kokkola"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043a\u043a\u043e\u043d\u0438\u0435\u043c\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043a\u043a\u043e\u043b\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Kokkola"
+    ],
+    "name:sme_x_preferred":[
+        "Kokkola"
+    ],
+    "name:spa_x_preferred":[
+        "Kokkola"
+    ],
+    "name:sqi_x_preferred":[
+        "Kokkola"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043a\u043e\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Karleby"
+    ],
+    "name:szl_x_preferred":[
+        "Kokkola"
+    ],
+    "name:tur_x_preferred":[
+        "Kokkola"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043a\u043a\u043e\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Kokkoniemi",
         "Kokkola"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u06a9\u0648\u0644\u0627"
+    ],
+    "name:vep_x_preferred":[
+        "Kokkol"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u79d1\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +211,7 @@
         }
     ],
     "wof:id":1343524637,
-    "wof:lastmodified":1537622246,
+    "wof:lastmodified":1564100498,
     "wof:name":"Kokkola",
     "wof:parent_id":907199501,
     "wof:placetype":"locality",

@@ -27,7 +27,16 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sunila"
+    ],
     "name:fin_x_preferred":[
+        "Sunila"
+    ],
+    "name:fra_x_preferred":[
+        "Sunila"
+    ],
+    "name:nds_x_preferred":[
         "Sunila"
     ],
     "name:swe_x_preferred":[
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1360270929,
-    "wof:lastmodified":1537550064,
+    "wof:lastmodified":1564101686,
     "wof:name":"Sunila",
     "wof:parent_id":907198683,
     "wof:placetype":"locality",

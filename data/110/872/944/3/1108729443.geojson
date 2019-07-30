@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000831,
-    "geom:area_square_m":5108250.255368,
+    "geom:area_square_m":5108250.255367,
     "geom:bbox":"24.8058743841,60.1659790707,24.8443596422,60.1986002122",
     "geom:latitude":60.185384,
     "geom:longitude":24.828213,
@@ -29,11 +29,29 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Otaniemi"
+    ],
+    "name:ces_x_preferred":[
+        "Otaniemi"
+    ],
+    "name:est_x_preferred":[
+        "Otaniemi"
+    ],
     "name:fin_x_preferred":[
+        "Otaniemi"
+    ],
+    "name:fra_x_preferred":[
+        "Otaniemi"
+    ],
+    "name:spa_x_preferred":[
         "Otaniemi"
     ],
     "name:swe_x_preferred":[
         "Otn\u00e4s"
+    ],
+    "name:tur_x_preferred":[
+        "Otaniemi"
     ],
     "reversegeo:latitude":60.187937,
     "reversegeo:longitude":24.828596,
@@ -42,7 +60,6 @@
         "quattroshapes_pg"
     ],
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729273,
         907198517,
@@ -51,7 +68,8 @@
         101748415,
         136253047,
         1108729225,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +94,7 @@
         }
     ],
     "wof:id":1108729443,
-    "wof:lastmodified":1529714748,
+    "wof:lastmodified":1564101511,
     "wof:name":"Otaniemi",
     "wof:parent_id":1108729273,
     "wof:placetype":"neighbourhood",

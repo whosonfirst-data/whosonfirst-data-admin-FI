@@ -27,6 +27,18 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tammi"
+    ],
+    "name:fin_x_preferred":[
+        "Tammi"
+    ],
+    "name:ita_x_preferred":[
+        "Tammi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u043c\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683073,
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1343871077,
-    "wof:lastmodified":1536651035,
+    "wof:lastmodified":1564100649,
     "wof:name":"Tammi",
     "wof:parent_id":907198635,
     "wof:placetype":"locality",

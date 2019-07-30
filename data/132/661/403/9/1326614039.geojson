@@ -27,6 +27,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Vanaja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683109,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1326614039,
-    "wof:lastmodified":1536864784,
+    "wof:lastmodified":1564096261,
     "wof:name":"Vanaja",
     "wof:parent_id":907199013,
     "wof:placetype":"locality",

@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Viro"
+    ],
+    "name:pol_x_preferred":[
+        "Viro"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Viro",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1125870569,
-    "wof:lastmodified":1529714679,
+    "wof:lastmodified":1564101917,
     "wof:name":"Viro",
     "wof:parent_id":907198631,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000652,
-    "geom:area_square_m":4008253.855643,
+    "geom:area_square_m":4008253.855642,
     "geom:bbox":"24.9320820987,60.1625769851,25.0044758811,60.1800456626",
     "geom:latitude":60.169947,
     "geom:longitude":24.96538,
@@ -33,11 +33,32 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
+    "name:dan_x_preferred":[
+        "Vironniemi"
+    ],
     "name:fin_x_preferred":[
+        "Vironniemi"
+    ],
+    "name:fra_x_preferred":[
+        "Vironniemi"
+    ],
+    "name:ind_x_preferred":[
+        "Vironniemi"
+    ],
+    "name:nno_x_preferred":[
+        "Estn\u00e4s"
+    ],
+    "name:nor_x_preferred":[
+        "Estn\u00e4s"
+    ],
+    "name:sco_x_preferred":[
         "Vironniemi"
     ],
     "name:swe_x_preferred":[
         "Estn\u00e4s"
+    ],
+    "name:swe_x_variant":[
+        "Estn\u00e4s distrikt"
     ],
     "reversegeo:latitude":60.16954,
     "reversegeo:longitude":24.964839,
@@ -73,7 +94,7 @@
         }
     ],
     "wof:id":1108727331,
-    "wof:lastmodified":1529714715,
+    "wof:lastmodified":1564101462,
     "wof:name":"Vironniemi",
     "wof:parent_id":890536879,
     "wof:placetype":"macrohood",

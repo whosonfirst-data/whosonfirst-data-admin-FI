@@ -29,8 +29,23 @@
     "lbl:longitude":28.751156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0644\u062a\u064a\u0645\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Valtimo"
+    ],
+    "name:deu_x_preferred":[
+        "Valtimo"
+    ],
     "name:eng_x_preferred":[
         "Valtimo"
+    ],
+    "name:epo_x_preferred":[
+        "Valtimo"
+    ],
+    "name:est_x_preferred":[
+        "Valtimo vald"
     ],
     "name:fin_x_preferred":[
         "Valtimo"
@@ -38,8 +53,53 @@
     "name:fin_x_variant":[
         "Valtimon Kunta"
     ],
+    "name:fra_x_preferred":[
+        "Valtimo"
+    ],
+    "name:gle_x_preferred":[
+        "Valtimo"
+    ],
+    "name:glg_x_preferred":[
+        "Valtimo"
+    ],
+    "name:ita_x_preferred":[
+        "Valtimo"
+    ],
+    "name:nld_x_preferred":[
+        "Valtimo"
+    ],
+    "name:nor_x_preferred":[
+        "Valtimo"
+    ],
+    "name:olo_x_preferred":[
+        "Valdimo"
+    ],
+    "name:pol_x_preferred":[
+        "Valtimo"
+    ],
+    "name:ron_x_preferred":[
+        "Valtimo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0442\u0438\u043c\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Valtimo"
+    ],
+    "name:sme_x_preferred":[
+        "Valtimo"
+    ],
+    "name:sqi_x_preferred":[
+        "Valtimo"
+    ],
     "name:swe_x_preferred":[
         "Valtimo"
+    ],
+    "name:tur_x_preferred":[
+        "Valtimo"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u723e\u8482\u83ab"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -74,7 +134,7 @@
         }
     ],
     "wof:id":907199405,
-    "wof:lastmodified":1544224819,
+    "wof:lastmodified":1564100449,
     "wof:name":"Valtimo",
     "wof:parent_id":1159321575,
     "wof:placetype":"localadmin",

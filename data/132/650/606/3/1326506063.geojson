@@ -27,6 +27,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Heikka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683137,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1326506063,
-    "wof:lastmodified":1537020885,
+    "wof:lastmodified":1564096267,
     "wof:name":"Heikka",
     "wof:parent_id":907199455,
     "wof:placetype":"locality",

@@ -27,11 +27,23 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Haapasalo"
+    ],
     "name:eng_x_preferred":[
+        "Haapasalo"
+    ],
+    "name:fin_x_preferred":[
         "Haapasalo"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043f\u0430\u0441\u0430\u043b\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u0430\u0430\u043f\u0430\u0441\u0430\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Haapasalo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1360067545,
-    "wof:lastmodified":1537622292,
+    "wof:lastmodified":1564101679,
     "wof:name":"Haapasalo",
     "wof:parent_id":907199293,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02787,
-    "geom:area_square_m":172208005.974054,
+    "geom:area_square_m":172208005.974058,
     "geom:bbox":"24.6446425498,59.9014033761,24.9425928014,60.1369443779",
     "geom:latitude":60.021178,
     "geom:longitude":24.788601,
@@ -30,6 +30,12 @@
     "mz:min_zoom":13.0,
     "name:fin_x_preferred":[
         "Suvisaaristo"
+    ],
+    "name:fra_x_preferred":[
+        "Suvisaaristo"
+    ],
+    "name:swe_x_preferred":[
+        "Sommar\u00f6arna"
     ],
     "reversegeo:latitude":60.11744,
     "reversegeo:longitude":24.71442,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108729229,
-    "wof:lastmodified":1529714718,
+    "wof:lastmodified":1564101456,
     "wof:name":"Suvisaaristo",
     "wof:parent_id":1108729211,
     "wof:placetype":"macrohood",

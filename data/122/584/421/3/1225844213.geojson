@@ -30,8 +30,20 @@
     "name:eng_x_preferred":[
         "Mierola"
     ],
+    "name:fin_x_preferred":[
+        "Parola"
+    ],
+    "name:por_x_preferred":[
+        "Parola"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u043e\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Parola"
+    ],
+    "name:tgl_x_preferred":[
+        "Parola"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1225844213,
-    "wof:lastmodified":1537622211,
+    "wof:lastmodified":1564102652,
     "wof:name":"Mierola",
     "wof:parent_id":907199219,
     "wof:placetype":"locality",

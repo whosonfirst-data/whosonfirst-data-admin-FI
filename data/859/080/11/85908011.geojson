@@ -33,8 +33,17 @@
     "name:fin_x_preferred":[
         "Roihupelto"
     ],
+    "name:fra_x_preferred":[
+        "Roihupellon teollisuusalue"
+    ],
     "name:swe_x_preferred":[
         "Kas\u00e5kern"
+    ],
+    "name:swe_x_variant":[
+        "Kas\u00e5kers industriomr\u00e5de"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0457\u0445\u0443\u043f\u0435\u043b\u044c\u0442\u043e"
     ],
     "name:unk_x_variant":[
         "Roihupelto"
@@ -70,7 +79,6 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85683067,
         102191581,
         890537287,
         907199715,
@@ -79,7 +87,8 @@
         101748417,
         136253047,
         890536881,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +118,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529714760,
+    "wof:lastmodified":1564100678,
     "wof:name":"Roihupelto",
     "wof:parent_id":890537287,
     "wof:placetype":"neighbourhood",

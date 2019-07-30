@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006162,
-    "geom:area_square_m":37751246.229747,
+    "geom:area_square_m":37751246.229734,
     "geom:bbox":"24.8633702307,60.264437626,24.9965386721,60.3384471629",
     "geom:latitude":60.302041,
     "geom:longitude":24.93555,
@@ -28,6 +28,9 @@
     "mz:max_zoom":13.0,
     "mz:min_zoom":10.0,
     "name:fin_x_preferred":[
+        "Aviapolis"
+    ],
+    "name:swe_x_preferred":[
         "Aviapolis"
     ],
     "reversegeo:latitude":60.302959,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108729489,
-    "wof:lastmodified":1529714712,
+    "wof:lastmodified":1564101443,
     "wof:name":"Aviapolis",
     "wof:parent_id":101748419,
     "wof:placetype":"borough",

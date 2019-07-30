@@ -21,6 +21,15 @@
     "name:dan_x_preferred":[
         "Esbo centrum"
     ],
+    "name:deu_x_preferred":[
+        "Espoon keskus"
+    ],
+    "name:fin_x_preferred":[
+        "Espoon keskus"
+    ],
+    "name:fra_x_preferred":[
+        "Espoon keskus"
+    ],
     "name:isl_x_preferred":[
         "Esbo centrum"
     ],
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1125789025,
-    "wof:lastmodified":1529714708,
+    "wof:lastmodified":1564101998,
     "wof:name":"Espoon keskus",
     "wof:parent_id":907198517,
     "wof:placetype":"locality",

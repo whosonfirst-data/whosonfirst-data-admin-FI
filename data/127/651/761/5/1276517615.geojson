@@ -27,6 +27,36 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arz_x_preferred":[
+        "\u0631\u0646\u0643"
+    ],
+    "name:deu_x_preferred":[
+        "Rank"
+    ],
+    "name:epo_x_preferred":[
+        "Rank"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u062a\u0628\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Rank"
+    ],
+    "name:hun_x_preferred":[
+        "Rang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30af"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043d\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Rank"
+    ],
+    "name:swe_x_preferred":[
+        "Rank"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683119,
@@ -56,7 +86,7 @@
         }
     ],
     "wof:id":1276517615,
-    "wof:lastmodified":1537028047,
+    "wof:lastmodified":1564100945,
     "wof:name":"Rank",
     "wof:parent_id":907199045,
     "wof:placetype":"locality",

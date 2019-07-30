@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00074,
-    "geom:area_square_m":3859854.224128,
+    "geom:area_square_m":3859854.224126,
     "geom:bbox":"25.5211417528,65.037835258,25.569723973,65.0656997976",
     "geom:latitude":65.052325,
     "geom:longitude":25.545884,
@@ -20,8 +20,65 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Rusko"
+    ],
+    "name:deu_x_preferred":[
+        "Rusko"
+    ],
     "name:fin_x_preferred":[
         "Rusko"
+    ],
+    "name:fra_x_preferred":[
+        "Rusko"
+    ],
+    "name:glg_x_preferred":[
+        "Rusko"
+    ],
+    "name:ita_x_preferred":[
+        "Rusko"
+    ],
+    "name:koi_x_preferred":[
+        "\u0420\u0443\u0441\u043a\u043e"
+    ],
+    "name:lat_x_preferred":[
+        "Rusko"
+    ],
+    "name:nld_x_preferred":[
+        "Rusko"
+    ],
+    "name:nor_x_preferred":[
+        "Rusko"
+    ],
+    "name:pol_x_preferred":[
+        "Rusko"
+    ],
+    "name:ron_x_preferred":[
+        "Rusko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u043a\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Rusko"
+    ],
+    "name:sme_x_preferred":[
+        "Rusko"
+    ],
+    "name:sqi_x_preferred":[
+        "Rusko"
+    ],
+    "name:swe_x_preferred":[
+        "Rusko"
+    ],
+    "name:tur_x_preferred":[
+        "Rusko"
+    ],
+    "name:vie_x_preferred":[
+        "Rusko"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u65af\u79d1"
     ],
     "oulugov:AJ_KAUPU00":"Rusko",
     "oulugov:AJ_KAUPUNG":"83",
@@ -31,14 +88,14 @@
     "reversegeo:longitude":25.546242,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +115,7 @@
         }
     ],
     "wof:id":1108728935,
-    "wof:lastmodified":1529709456,
+    "wof:lastmodified":1564101440,
     "wof:name":"Rusko",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

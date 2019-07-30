@@ -27,6 +27,15 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Pekkala"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043a\u043a\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Pekkala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683133,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1259570193,
-    "wof:lastmodified":1536734221,
+    "wof:lastmodified":1564102392,
     "wof:name":"Pekkala",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

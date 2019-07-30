@@ -27,6 +27,60 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tervo"
+    ],
+    "name:deu_x_preferred":[
+        "Tervo"
+    ],
+    "name:est_x_preferred":[
+        "Tervo vald"
+    ],
+    "name:fin_x_preferred":[
+        "Tervo"
+    ],
+    "name:fra_x_preferred":[
+        "Tervo"
+    ],
+    "name:glg_x_preferred":[
+        "Tervo"
+    ],
+    "name:ita_x_preferred":[
+        "Tervo"
+    ],
+    "name:nld_x_preferred":[
+        "Tervo"
+    ],
+    "name:nor_x_preferred":[
+        "Tervo"
+    ],
+    "name:pol_x_preferred":[
+        "Tervo"
+    ],
+    "name:por_x_preferred":[
+        "Tervo"
+    ],
+    "name:ron_x_preferred":[
+        "Tervo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0432\u043e"
+    ],
+    "name:sme_x_preferred":[
+        "Tervo"
+    ],
+    "name:sqi_x_preferred":[
+        "Tervo"
+    ],
+    "name:swe_x_preferred":[
+        "Tervo"
+    ],
+    "name:tur_x_preferred":[
+        "Tervo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u723e\u6c83"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683147,
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1326905633,
-    "wof:lastmodified":1536943676,
+    "wof:lastmodified":1564100209,
     "wof:name":"Tervo",
     "wof:parent_id":907199571,
     "wof:placetype":"locality",

@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Harittu"
+    ],
+    "name:koi_x_preferred":[
+        "\u0425\u0430\u0440\u0438\u0442\u0442\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0438\u0442\u0442\u0443"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1125810569,
-    "wof:lastmodified":1529706472,
+    "wof:lastmodified":1564101894,
     "wof:name":"Harittu",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

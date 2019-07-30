@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":1489414.435631,
+    "geom:area_square_m":1489414.435632,
     "geom:bbox":"25.0307995415,60.2990484288,25.0538179075,60.3169252041",
     "geom:latitude":60.307216,
     "geom:longitude":25.042779,
@@ -28,7 +28,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Hiekkaharju"
+    ],
+    "name:est_x_preferred":[
+        "Hiekkaharju"
+    ],
     "name:fin_x_preferred":[
+        "Hiekkaharju"
+    ],
+    "name:fra_x_preferred":[
         "Hiekkaharju"
     ],
     "name:swe_x_preferred":[
@@ -38,7 +47,6 @@
     "reversegeo:longitude":25.042998,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -46,7 +54,8 @@
         101748419,
         136253047,
         1108729491,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":1108729519,
-    "wof:lastmodified":1529714753,
+    "wof:lastmodified":1564101469,
     "wof:name":"Hiekkaharju",
     "wof:parent_id":1108729491,
     "wof:placetype":"neighbourhood",

@@ -27,8 +27,14 @@
     "name:isl_x_preferred":[
         "Korpolaisbacken"
     ],
+    "name:koi_x_preferred":[
+        "\u041a\u043e\u0440\u043f\u043f\u043e\u043b\u0430\u0439\u0441\u043c\u044f\u043a\u0438"
+    ],
     "name:nor_x_preferred":[
         "Korpolaisbacken"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043f\u043f\u043e\u043b\u0430\u0439\u0441\u043c\u044f\u043a\u0438"
     ],
     "name:swe_x_preferred":[
         "Korpolaisbacken"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125862117,
-    "wof:lastmodified":1529706481,
+    "wof:lastmodified":1564101883,
     "wof:name":"Korppolaism\u00e4ki",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

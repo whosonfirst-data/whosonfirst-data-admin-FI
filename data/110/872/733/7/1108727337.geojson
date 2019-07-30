@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001223,
-    "geom:area_square_m":7526530.998346,
+    "geom:area_square_m":7526530.998347,
     "geom:bbox":"24.882226739,60.1426407291,24.9434648379,60.1817397586",
     "geom:latitude":60.163643,
     "geom:longitude":24.91183,
@@ -36,8 +36,20 @@
     "name:fin_x_preferred":[
         "Kampinmalmi"
     ],
+    "name:fra_x_preferred":[
+        "Kampinmalmi"
+    ],
+    "name:nno_x_preferred":[
+        "Kampmalmen"
+    ],
+    "name:nor_x_preferred":[
+        "Kampmalmen"
+    ],
     "name:swe_x_preferred":[
         "Kampmalmen"
+    ],
+    "name:swe_x_variant":[
+        "Kampmalmens distrikt"
     ],
     "reversegeo:latitude":60.162282,
     "reversegeo:longitude":24.911362,
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":1108727337,
-    "wof:lastmodified":1529714715,
+    "wof:lastmodified":1564101462,
     "wof:name":"Kampinmalmi",
     "wof:parent_id":890536879,
     "wof:placetype":"macrohood",

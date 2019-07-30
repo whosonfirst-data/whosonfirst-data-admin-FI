@@ -32,6 +32,21 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0627\u0641\u0648\u0633"
     ],
+    "name:aze_x_preferred":[
+        "Alavus"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043b\u0430\u0432\u0443\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Alavus"
+    ],
+    "name:ces_x_preferred":[
+        "Alavus"
+    ],
+    "name:deu_x_preferred":[
+        "Alavus"
+    ],
     "name:eng_x_preferred":[
         "Alavus"
     ],
@@ -41,19 +56,67 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u0627\u0648\u0627\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u0622\u0644\u0627\u0648\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Alavus"
     ],
     "name:fin_x_variant":[
         "Alavuden Kaupunki"
     ],
+    "name:fra_x_preferred":[
+        "Alavus"
+    ],
+    "name:glg_x_preferred":[
+        "Alavus"
+    ],
+    "name:ita_x_preferred":[
+        "Alavus"
+    ],
     "name:mrj_x_preferred":[
         "\u0410\u043b\u0430\u0432\u0443\u0441"
+    ],
+    "name:nld_x_preferred":[
+        "Alavus"
+    ],
+    "name:nor_x_preferred":[
+        "Alavus"
+    ],
+    "name:oci_x_preferred":[
+        "Alavus"
+    ],
+    "name:pol_x_preferred":[
+        "Alavus"
+    ],
+    "name:por_x_preferred":[
+        "Alavus"
+    ],
+    "name:ron_x_preferred":[
+        "Alavus"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0430\u0432\u0443\u0441"
     ],
+    "name:slk_x_preferred":[
+        "Alavus"
+    ],
+    "name:sme_x_preferred":[
+        "Alavus"
+    ],
+    "name:spa_x_preferred":[
+        "Alavus"
+    ],
+    "name:sqi_x_preferred":[
+        "Alavus"
+    ],
     "name:swe_x_preferred":[
+        "Alavus"
+    ],
+    "name:swe_x_variant":[
+        "Alavo"
+    ],
+    "name:tur_x_preferred":[
         "Alavus"
     ],
     "name:ukr_x_preferred":[
@@ -64,6 +127,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0627\u0648\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Alavus"
     ],
     "name:zho_x_preferred":[
         "\u963f\u62c9\u6b66\u65af"
@@ -101,7 +167,7 @@
         }
     ],
     "wof:id":907199157,
-    "wof:lastmodified":1544224800,
+    "wof:lastmodified":1564100354,
     "wof:name":"Alavus",
     "wof:parent_id":1159321555,
     "wof:placetype":"localadmin",

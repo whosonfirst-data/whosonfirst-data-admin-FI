@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Hollihaka"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Hollihaka",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1126034425,
-    "wof:lastmodified":1529706411,
+    "wof:lastmodified":1564101880,
     "wof:name":"Hollihaka",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

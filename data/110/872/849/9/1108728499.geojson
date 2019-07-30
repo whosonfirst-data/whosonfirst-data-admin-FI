@@ -20,7 +20,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Tulli"
+    ],
     "name:fin_x_preferred":[
+        "Tulli"
+    ],
+    "name:fra_x_preferred":[
+        "Tulli"
+    ],
+    "name:ita_x_preferred":[
+        "Tulli"
+    ],
+    "name:nds_x_preferred":[
         "Tulli"
     ],
     "reversegeo:latitude":61.496753,
@@ -30,14 +42,14 @@
     "tmpgov:id":"101117",
     "tmpgov:name":"Tulli",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1108728499,
-    "wof:lastmodified":1529711336,
+    "wof:lastmodified":1564101481,
     "wof:name":"Tulli",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

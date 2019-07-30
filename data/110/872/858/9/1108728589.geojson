@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000413,
-    "geom:area_square_m":2521037.146375,
+    "geom:area_square_m":2521037.146374,
     "geom:bbox":"22.2356721333,60.3945059254,22.2791662504,60.4112974675",
     "geom:latitude":60.4032,
     "geom:longitude":22.255329,
@@ -23,6 +23,12 @@
     "name:fin_x_preferred":[
         "Kaistarniemi"
     ],
+    "name:koi_x_preferred":[
+        "\u041a\u0430\u0439\u0441\u0442\u0430\u0440\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u0441\u0442\u0430\u0440\u043d\u0438\u0435\u043c\u0438"
+    ],
     "name:swe_x_preferred":[
         "Kaistarudden"
     ],
@@ -33,14 +39,14 @@
     "tkugov:NIMI":"Kaistarniemi",
     "tkugov:PIENALUE":"853217052",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108728589,
-    "wof:lastmodified":1529706499,
+    "wof:lastmodified":1564101439,
     "wof:name":"Kaistarniemi",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

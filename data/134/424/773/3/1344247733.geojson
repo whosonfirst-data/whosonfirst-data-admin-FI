@@ -27,11 +27,29 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kiviniemi"
+    ],
+    "name:deu_x_preferred":[
+        "Kiviniemi"
+    ],
     "name:fin_x_preferred":[
+        "Kiviniemi"
+    ],
+    "name:nds_x_preferred":[
+        "Kiviniemi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0432\u0438\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:sco_x_preferred":[
         "Kiviniemi"
     ],
     "name:swe_x_preferred":[
         "Stensn\u00e4s"
+    ],
+    "name:swe_x_variant":[
+        "Kiviniemi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1344247733,
-    "wof:lastmodified":1537622311,
+    "wof:lastmodified":1564100534,
     "wof:name":"Kiviniemi",
     "wof:parent_id":907198651,
     "wof:placetype":"locality",

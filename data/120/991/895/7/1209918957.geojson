@@ -27,6 +27,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kiipu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683077,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1209918957,
-    "wof:lastmodified":1537562792,
+    "wof:lastmodified":1564097309,
     "wof:name":"Kiipu",
     "wof:parent_id":907198951,
     "wof:placetype":"locality",

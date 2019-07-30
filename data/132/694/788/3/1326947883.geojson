@@ -27,6 +27,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Uotila"
+    ],
     "name:swe_x_preferred":[
         "Otby"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1326947883,
-    "wof:lastmodified":1537550112,
+    "wof:lastmodified":1564096246,
     "wof:name":"Uotila",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

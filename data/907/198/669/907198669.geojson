@@ -29,6 +29,12 @@
     "lbl:longitude":21.715519,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Eurajoki"
+    ],
+    "name:deu_x_preferred":[
+        "Eurajoki"
+    ],
     "name:eng_x_preferred":[
         "Eurajoki"
     ],
@@ -38,11 +44,56 @@
     "name:fin_x_variant":[
         "Eurajoen Kunta"
     ],
+    "name:fra_x_preferred":[
+        "Eurajoki"
+    ],
+    "name:glg_x_preferred":[
+        "Eurajoki"
+    ],
+    "name:ita_x_preferred":[
+        "Eurajoki"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30a6\u30e9\u30e8\u30ad"
+    ],
+    "name:nld_x_preferred":[
+        "Eurajoki"
+    ],
+    "name:nor_x_preferred":[
+        "Eura\u00e5minne"
+    ],
+    "name:pol_x_preferred":[
+        "Eurajoki"
+    ],
+    "name:ron_x_preferred":[
+        "Eurajoki"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0443\u0440\u0430\u0439\u043e\u043a\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Eurajoki"
+    ],
+    "name:spa_x_preferred":[
+        "Eurajoki"
+    ],
+    "name:sqi_x_preferred":[
+        "Eurajoki"
+    ],
     "name:swe_x_preferred":[
         "Eura\u00e5minne"
     ],
+    "name:tur_x_preferred":[
+        "Eurajoki"
+    ],
     "name:unk_x_variant":[
         "Eura\u00e5minne"
+    ],
+    "name:vie_x_preferred":[
+        "Eurajoki"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u70cf\u62c9\u7d04\u57fa"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -77,7 +128,7 @@
         }
     ],
     "wof:id":907198669,
-    "wof:lastmodified":1544224766,
+    "wof:lastmodified":1564100282,
     "wof:name":"Eurajoki",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

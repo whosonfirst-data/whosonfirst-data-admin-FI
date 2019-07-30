@@ -28,10 +28,16 @@
     "name:ell_x_preferred":[
         "\u03a0\u03c5\u03c7\u03b1\u03b3\u03b9\u03cc\u03ba\u03b9"
     ],
+    "name:est_x_preferred":[
+        "Pyh\u00e4joki vald"
+    ],
     "name:fin_x_preferred":[
         "Pyh\u00e4joki"
     ],
     "name:fra_x_preferred":[
+        "Pyh\u00e4joki"
+    ],
+    "name:glg_x_preferred":[
         "Pyh\u00e4joki"
     ],
     "name:ita_x_preferred":[
@@ -43,11 +49,41 @@
     "name:nor_x_preferred":[
         "Pyh\u00e4joki"
     ],
+    "name:pol_x_preferred":[
+        "Pyh\u00e4joki"
+    ],
+    "name:ron_x_preferred":[
+        "Pyh\u00e4joki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044e\u0445\u044f\u0439\u043e\u043a\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Pyh\u00e4joki"
+    ],
     "name:spa_x_preferred":[
         "Pyh\u00e4joki"
     ],
+    "name:sqi_x_preferred":[
+        "Pyh\u00e4joki"
+    ],
+    "name:swe_x_preferred":[
+        "Pyh\u00e4joki"
+    ],
+    "name:tur_x_preferred":[
+        "Pyh\u00e4joki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u044e\u0445\u0430\u0439\u043e\u043a\u0456"
+    ],
     "name:unk_x_variant":[
         "Otajoki"
+    ],
+    "name:vie_x_preferred":[
+        "Pyh\u00e4joki"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u6d77\u7d04\u57fa"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Satakunta",
@@ -95,7 +131,7 @@
         }
     ],
     "wof:id":101846833,
-    "wof:lastmodified":1529712495,
+    "wof:lastmodified":1564101727,
     "wof:name":"Pyh\u00e4joki",
     "wof:parent_id":907198925,
     "wof:placetype":"locality",

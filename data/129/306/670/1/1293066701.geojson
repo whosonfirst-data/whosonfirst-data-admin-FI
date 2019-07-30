@@ -30,8 +30,14 @@
     "name:eng_x_preferred":[
         "Pekkala"
     ],
+    "name:nor_x_preferred":[
+        "Pekkala"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u043a\u043a\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Pekkala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1293066701,
-    "wof:lastmodified":1537622192,
+    "wof:lastmodified":1564100718,
     "wof:name":"Pekkala",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

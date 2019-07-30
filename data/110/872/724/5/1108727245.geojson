@@ -25,11 +25,20 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:est_x_preferred":[
+        "Vesala"
+    ],
     "name:fin_x_preferred":[
+        "Vesala"
+    ],
+    "name:fra_x_preferred":[
         "Vesala"
     ],
     "name:swe_x_preferred":[
         "\u00c4rvings"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0441\u0430\u043b\u0430"
     ],
     "reversegeo:latitude":60.236376,
     "reversegeo:longitude":25.10216,
@@ -38,7 +47,6 @@
         "quattroshapes_pg"
     ],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537253,
         907199715,
@@ -47,7 +55,8 @@
         101748417,
         136253047,
         890536881,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1108727245,
-    "wof:lastmodified":1529714736,
+    "wof:lastmodified":1564101454,
     "wof:name":"Vesala",
     "wof:parent_id":890537253,
     "wof:placetype":"neighbourhood",

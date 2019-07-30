@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002581,
-    "geom:area_square_m":15767604.948945,
+    "geom:area_square_m":15767604.948947,
     "geom:bbox":"25.0722695178,60.3660363294,25.1535852051,60.4143584161",
     "geom:latitude":60.389322,
     "geom:longitude":25.114596,
@@ -23,10 +23,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Savio"
+    ],
     "name:deu_x_preferred":[
         "Savio"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0648\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
+        "Savio"
+    ],
+    "name:fra_x_preferred":[
         "Savio"
     ],
     "name:hbs_x_preferred":[
@@ -41,8 +50,14 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u0432\u0438\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Savio"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u0432\u0438\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Savio"
     ],
     "name:unk_x_variant":[
         "Saviolla",
@@ -82,13 +97,13 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":212,
     "wof:belongsto":[
-        85683067,
         102191581,
         907198627,
         85633143,
         404227411,
         136253047,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +131,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529714763,
+    "wof:lastmodified":1564100682,
     "wof:name":"Savio",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

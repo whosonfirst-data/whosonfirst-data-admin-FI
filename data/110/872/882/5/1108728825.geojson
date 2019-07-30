@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000202,
-    "geom:area_square_m":1231254.278616,
+    "geom:area_square_m":1231254.278615,
     "geom:bbox":"22.312430148,60.4174761339,22.3387042467,60.4365324169",
     "geom:latitude":60.42517,
     "geom:longitude":22.32393,
@@ -23,6 +23,12 @@
     "name:fin_x_preferred":[
         "Skanssi"
     ],
+    "name:koi_x_preferred":[
+        "\u0421\u043a\u0430\u043d\u0441\u0441\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0430\u043d\u0441\u0441\u0438"
+    ],
     "name:swe_x_preferred":[
         "Skansen"
     ],
@@ -33,14 +39,14 @@
     "tkugov:NIMI":"Skanssi",
     "tkugov:PIENALUE":"853323072",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108728825,
-    "wof:lastmodified":1529706511,
+    "wof:lastmodified":1564101480,
     "wof:name":"Skanssi",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

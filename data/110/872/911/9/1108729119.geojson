@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0002,
-    "geom:area_square_m":1116217.731252,
+    "geom:area_square_m":1116217.731251,
     "geom:bbox":"27.2912568597,63.1471461202,27.3143355335,63.1646652999",
     "geom:latitude":63.155763,
     "geom:longitude":27.302769,
@@ -22,11 +22,61 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Maaninka"
+    ],
+    "name:deu_x_preferred":[
+        "Maaninka"
+    ],
+    "name:fin_x_preferred":[
+        "Maaninka"
+    ],
+    "name:fra_x_preferred":[
+        "Maaninka"
+    ],
+    "name:hun_x_preferred":[
+        "Maaninka"
+    ],
+    "name:ita_x_preferred":[
+        "Maaninka"
+    ],
+    "name:nld_x_preferred":[
+        "Maaninka"
+    ],
+    "name:nor_x_preferred":[
+        "Maaninka"
+    ],
+    "name:olo_x_preferred":[
+        "Muaninka"
+    ],
+    "name:pol_x_preferred":[
+        "Maaninka"
+    ],
+    "name:ron_x_preferred":[
+        "Maaninka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0430\u043d\u0438\u043d\u043a\u0430"
+    ],
+    "name:sme_x_preferred":[
+        "Maaninka"
+    ],
+    "name:sqi_x_preferred":[
+        "Maaninka"
+    ],
+    "name:swe_x_preferred":[
+        "Maaninka"
+    ],
+    "name:tur_x_preferred":[
+        "Maaninka"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5be7\u5361"
+    ],
     "reversegeo:latitude":63.155887,
     "reversegeo:longitude":27.302772,
     "src:geom":"kuogov",
     "wof:belongsto":[
-        85683131,
         102191581,
         907199673,
         85633143,
@@ -34,6 +84,7 @@
         101814329,
         136253047,
         1159321597,
+        85683131,
         101748439
     ],
     "wof:breaches":[],
@@ -65,7 +116,7 @@
         }
     ],
     "wof:id":1108729119,
-    "wof:lastmodified":1529708974,
+    "wof:lastmodified":1564101498,
     "wof:name":"Maaninka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

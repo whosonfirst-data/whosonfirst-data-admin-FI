@@ -27,6 +27,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kvarnby"
+    ],
     "name:fin_x_preferred":[
         "Myllykyl\u00e4"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1276137067,
-    "wof:lastmodified":1537622232,
+    "wof:lastmodified":1564100989,
     "wof:name":"Kvarnby",
     "wof:parent_id":907198709,
     "wof:placetype":"locality",

@@ -27,7 +27,31 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Jokela"
+    ],
+    "name:deu_x_preferred":[
+        "Jokela"
+    ],
+    "name:epo_x_preferred":[
+        "Jokela"
+    ],
+    "name:est_x_preferred":[
+        "Jokela"
+    ],
     "name:fin_x_preferred":[
+        "Jokela"
+    ],
+    "name:lav_x_preferred":[
+        "Jokela"
+    ],
+    "name:por_x_preferred":[
+        "Jokela"
+    ],
+    "name:ron_x_preferred":[
+        "Jokela"
+    ],
+    "name:swe_x_preferred":[
         "Jokela"
     ],
     "src:geom":"geonames",
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1209686741,
-    "wof:lastmodified":1537622338,
+    "wof:lastmodified":1564101161,
     "wof:name":"Jokela",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001231,
-    "geom:area_square_m":7547988.168862,
+    "geom:area_square_m":7547988.168863,
     "geom:bbox":"25.0080260518,60.2508252255,25.0842236839,60.28931811",
     "geom:latitude":60.270499,
     "geom:longitude":25.047351,
@@ -34,6 +34,9 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
     "name:fin_x_preferred":[
+        "Puistola"
+    ],
+    "name:fra_x_preferred":[
         "Puistola"
     ],
     "name:swe_x_preferred":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108727369,
-    "wof:lastmodified":1529714717,
+    "wof:lastmodified":1564101414,
     "wof:name":"Puistola",
     "wof:parent_id":890536891,
     "wof:placetype":"macrohood",

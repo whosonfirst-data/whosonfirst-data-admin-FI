@@ -27,6 +27,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Honkala"
+    ],
     "name:fin_x_preferred":[
         "Honkala"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1242891727,
-    "wof:lastmodified":1537622335,
+    "wof:lastmodified":1564102140,
     "wof:name":"Honkala",
     "wof:parent_id":907198521,
     "wof:placetype":"locality",

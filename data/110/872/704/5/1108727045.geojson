@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000416,
-    "geom:area_square_m":2555777.160214,
+    "geom:area_square_m":2555777.160213,
     "geom:bbox":"25.1226718929,60.2055614327,25.1585365879,60.2279378644",
     "geom:latitude":60.216387,
     "geom:longitude":25.140251,
@@ -28,15 +28,20 @@
     "name:fin_x_preferred":[
         "Keski-Vuosaari"
     ],
+    "name:fra_x_preferred":[
+        "Keski-Vuosaari"
+    ],
     "name:swe_x_preferred":[
         "Mellersta Nordsj\u00f6"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0441\u043a\u0456-\u0412\u0443\u043e\u0441\u0430\u0430\u0440\u0456"
     ],
     "reversegeo:latitude":60.217094,
     "reversegeo:longitude":25.140251,
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537281,
         907199715,
@@ -45,7 +50,8 @@
         101748417,
         136253047,
         890536881,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108727045,
-    "wof:lastmodified":1529714728,
+    "wof:lastmodified":1564101470,
     "wof:name":"Keski-Vuosaari",
     "wof:parent_id":890537281,
     "wof:placetype":"neighbourhood",

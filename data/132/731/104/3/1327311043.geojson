@@ -27,6 +27,18 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Anttila"
+    ],
+    "name:fin_x_preferred":[
+        "Anttila"
+    ],
+    "name:fra_x_preferred":[
+        "Anttila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u0442\u0438\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "R\u00e4tyl\u00e4"
     ],
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1327311043,
-    "wof:lastmodified":1537622178,
+    "wof:lastmodified":1564099953,
     "wof:name":"Anttila",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

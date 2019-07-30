@@ -28,6 +28,12 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nummela"
+    ],
+    "name:fin_x_preferred":[
+        "Nummela"
+    ],
     "name:und_x_variant":[
         "Nummelanparantola"
     ],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1309813177,
-    "wof:lastmodified":1537622202,
+    "wof:lastmodified":1564101821,
     "wof:name":"Nummela",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

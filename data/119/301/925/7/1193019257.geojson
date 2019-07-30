@@ -28,6 +28,12 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Simola"
+    ],
+    "name:fin_x_preferred":[
+        "Simola"
+    ],
     "name:und_x_variant":[
         "Simala",
         "Simola"
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1193019257,
-    "wof:lastmodified":1537622162,
+    "wof:lastmodified":1564101271,
     "wof:name":"Simola",
     "wof:parent_id":907199259,
     "wof:placetype":"locality",

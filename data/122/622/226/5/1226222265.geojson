@@ -28,8 +28,59 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Selkie"
+    ],
+    "name:deu_x_preferred":[
+        "Selkie"
+    ],
+    "name:fra_x_preferred":[
+        "Selkie"
+    ],
+    "name:gla_x_preferred":[
+        "Maighdeann-r\u00f2in"
+    ],
+    "name:gle_x_preferred":[
+        "Maighdean r\u00f3in"
+    ],
+    "name:ind_x_preferred":[
+        "Selkie"
+    ],
+    "name:ita_x_preferred":[
+        "Selkie"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30eb\u30ad\u30fc"
+    ],
+    "name:nld_x_preferred":[
+        "Selkie"
+    ],
+    "name:nor_x_preferred":[
+        "Selkier"
+    ],
+    "name:pol_x_preferred":[
+        "Selkie"
+    ],
+    "name:por_x_preferred":[
+        "Selkie"
+    ],
+    "name:ron_x_preferred":[
+        "Selkie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043b\u043a\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Selkie fowk"
+    ],
+    "name:spa_x_preferred":[
+        "Selkie"
+    ],
     "name:und_x_variant":[
         "Selkienkyl\u00e4",
+        "Selkie"
+    ],
+    "name:vie_x_preferred":[
         "Selkie"
     ],
     "src:geom":"geonames",
@@ -61,7 +112,7 @@
         }
     ],
     "wof:id":1226222265,
-    "wof:lastmodified":1537622164,
+    "wof:lastmodified":1564102573,
     "wof:name":"Selkie",
     "wof:parent_id":907199445,
     "wof:placetype":"locality",

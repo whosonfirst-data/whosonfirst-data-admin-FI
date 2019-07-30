@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Kaitaa"
+    ],
+    "name:fra_x_preferred":[
+        "Kaitaa"
+    ],
     "name:swe_x_preferred":[
         "Kaitans"
     ],
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1126058983,
-    "wof:lastmodified":1529714707,
+    "wof:lastmodified":1564101871,
     "wof:name":"Kaitaa",
     "wof:parent_id":907198517,
     "wof:placetype":"locality",

@@ -30,6 +30,12 @@
     "name:ara_x_preferred":[
         "\u0644\u0645\u0628\u0627\u0644\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
+    "name:ces_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
     "name:deu_x_preferred":[
         "Lemp\u00e4\u00e4l\u00e4"
     ],
@@ -45,10 +51,31 @@
     "name:fra_x_preferred":[
         "Lemp\u00e4\u00e4l\u00e4"
     ],
+    "name:glg_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
+    "name:hun_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
+    "name:ita_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
+    "name:kor_x_preferred":[
+        "\ub818\ud330\ub798"
+    ],
+    "name:lat_x_preferred":[
+        "Lembois"
+    ],
     "name:nld_x_preferred":[
         "Lemp\u00e4\u00e4l\u00e4"
     ],
     "name:nor_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
+    "name:pol_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
+    "name:por_x_preferred":[
         "Lemp\u00e4\u00e4l\u00e4"
     ],
     "name:ron_x_preferred":[
@@ -57,11 +84,32 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u043c\u043f\u044f\u0430\u043b\u044f"
     ],
+    "name:sco_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
+    "name:sme_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
+    "name:spa_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
+    "name:sqi_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
     "name:swe_x_historical":[
         "Lembois"
     ],
     "name:swe_x_preferred":[
         "Lembois"
+    ],
+    "name:tur_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0645\u067e\u0627\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Lemp\u00e4\u00e4l\u00e4"
     ],
     "name:zho_x_preferred":[
         "\u502b\u6d3e\u840a"
@@ -85,7 +133,7 @@
         }
     ],
     "wof:id":1209098693,
-    "wof:lastmodified":1537622224,
+    "wof:lastmodified":1564101072,
     "wof:name":"Lempaeaelae",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

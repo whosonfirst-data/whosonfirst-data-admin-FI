@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Saario"
     ],
+    "name:fin_x_preferred":[
+        "Saario"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u0438\u043e"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1226419619,
-    "wof:lastmodified":1537622170,
+    "wof:lastmodified":1564102600,
     "wof:name":"Saario",
     "wof:parent_id":907199417,
     "wof:placetype":"locality",

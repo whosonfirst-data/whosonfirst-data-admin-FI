@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000566,
-    "geom:area_square_m":3465047.987345,
+    "geom:area_square_m":3465047.987348,
     "geom:bbox":"24.9379945661,60.2896894608,24.9924027153,60.3126835558",
     "geom:latitude":60.300449,
     "geom:longitude":24.966464,
@@ -28,7 +28,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Veromies"
+    ],
+    "name:est_x_preferred":[
+        "Veromies"
+    ],
     "name:fin_x_preferred":[
+        "Veromies"
+    ],
+    "name:fra_x_preferred":[
         "Veromies"
     ],
     "name:swe_x_preferred":[
@@ -38,7 +47,6 @@
     "reversegeo:longitude":24.96831,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -46,7 +54,8 @@
         101748419,
         136253047,
         1108729489,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":1108729625,
-    "wof:lastmodified":1529714759,
+    "wof:lastmodified":1564101409,
     "wof:name":"Veromies",
     "wof:parent_id":1108729489,
     "wof:placetype":"neighbourhood",

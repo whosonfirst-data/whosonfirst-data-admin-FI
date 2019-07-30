@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0022,
-    "geom:area_square_m":13479159.561832,
+    "geom:area_square_m":13479159.561837,
     "geom:bbox":"25.1244386406,60.2697749069,25.1930786855,60.3193674515",
     "geom:latitude":60.293414,
     "geom:longitude":25.156143,
@@ -31,11 +31,13 @@
     "name:fin_x_preferred":[
         "Sotunki"
     ],
+    "name:swe_x_preferred":[
+        "Sottungsby"
+    ],
     "reversegeo:latitude":60.293946,
     "reversegeo:longitude":25.155499,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -43,7 +45,8 @@
         101748419,
         136253047,
         1108729495,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1108729607,
-    "wof:lastmodified":1529714757,
+    "wof:lastmodified":1564101467,
     "wof:name":"Sotunki",
     "wof:parent_id":1108729495,
     "wof:placetype":"neighbourhood",

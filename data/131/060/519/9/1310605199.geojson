@@ -27,6 +27,18 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Rux"
+    ],
+    "name:deu_x_preferred":[
+        "Rux"
+    ],
+    "name:kor_x_preferred":[
+        "\ub7ed\uc2a4"
+    ],
+    "name:por_x_preferred":[
+        "Rux"
+    ],
     "name:swe_x_preferred":[
         "Rux"
     ],
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1310605199,
-    "wof:lastmodified":1537622335,
+    "wof:lastmodified":1564101657,
     "wof:name":"Rux",
     "wof:parent_id":907198521,
     "wof:placetype":"locality",

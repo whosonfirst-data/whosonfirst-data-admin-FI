@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000168,
-    "geom:area_square_m":1024075.923901,
+    "geom:area_square_m":1024075.923904,
     "geom:bbox":"22.276579405,60.4158334536,22.2940727264,60.4275632891",
     "geom:latitude":60.421736,
     "geom:longitude":22.284949,
@@ -23,6 +23,12 @@
     "name:fin_x_preferred":[
         "Ilpoinen"
     ],
+    "name:koi_x_preferred":[
+        "\u0418\u043b\u043f\u043e\u0439\u043d\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u043f\u043e\u0439\u043d\u0435\u043d"
+    ],
     "name:swe_x_preferred":[
         "Ilpois"
     ],
@@ -33,14 +39,14 @@
     "tkugov:NIMI":"Ilpoinen",
     "tkugov:PIENALUE":"853320065",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108728555,
-    "wof:lastmodified":1529706497,
+    "wof:lastmodified":1564101495,
     "wof:name":"Ilpoinen",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

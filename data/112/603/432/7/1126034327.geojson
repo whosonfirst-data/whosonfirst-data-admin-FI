@@ -18,6 +18,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Pansio"
+    ],
+    "name:koi_x_preferred":[
+        "\u041f\u0430\u043d\u0441\u0438\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u0441\u0438\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Pansio"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":1126034327,
-    "wof:lastmodified":1529706484,
+    "wof:lastmodified":1564101881,
     "wof:name":"Pansio",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

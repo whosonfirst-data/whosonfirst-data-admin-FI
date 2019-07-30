@@ -34,8 +34,17 @@
     "name:fin_x_preferred":[
         "Epoo"
     ],
+    "name:ita_x_preferred":[
+        "Ebbone abate"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0431\u0431\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u042d\u0431\u0431\u043e\u043d \u0420\u0435\u0439\u043c\u0441\u0441\u043a\u0438\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Ebbo"
     ],
     "name:swe_x_preferred":[
         "Ebbo"
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1343867761,
-    "wof:lastmodified":1537622298,
+    "wof:lastmodified":1564100661,
     "wof:name":"Ebbo",
     "wof:parent_id":907198525,
     "wof:placetype":"locality",

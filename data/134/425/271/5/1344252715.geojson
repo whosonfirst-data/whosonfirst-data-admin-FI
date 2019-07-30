@@ -27,6 +27,27 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Erottaja"
+    ],
+    "name:est_x_preferred":[
+        "Erottaja"
+    ],
+    "name:fin_x_preferred":[
+        "Erottaja"
+    ],
+    "name:fra_x_preferred":[
+        "Erottaja"
+    ],
+    "name:pol_x_preferred":[
+        "Erottaja"
+    ],
+    "name:swe_x_preferred":[
+        "Skillnaden"
+    ],
+    "name:tur_x_preferred":[
+        "Erottaja meydan\u0131"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683081,
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1344252715,
-    "wof:lastmodified":1537092196,
+    "wof:lastmodified":1564100516,
     "wof:name":"Erottaja",
     "wof:parent_id":907198619,
     "wof:placetype":"locality",

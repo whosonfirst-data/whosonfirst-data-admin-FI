@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":669028.46698,
+    "geom:area_square_m":669028.466979,
     "geom:bbox":"24.9334540848,60.1797264778,24.9565747169,60.186450215",
     "geom:latitude":60.182971,
     "geom:longitude":24.944011,
@@ -26,6 +26,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "name:fin_x_preferred":[
+        "Linjat"
+    ],
+    "name:fra_x_preferred":[
         "Linjat"
     ],
     "name:swe_x_preferred":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108727103,
-    "wof:lastmodified":1534379299,
+    "wof:lastmodified":1564101504,
     "wof:name":"Linjat",
     "wof:parent_id":890537285,
     "wof:placetype":"neighbourhood",

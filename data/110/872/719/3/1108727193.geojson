@@ -28,6 +28,9 @@
     "name:fin_x_preferred":[
         "Siltasaari"
     ],
+    "name:fra_x_preferred":[
+        "Siltasaari"
+    ],
     "name:swe_x_preferred":[
         "Broholmen"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108727193,
-    "wof:lastmodified":1534379299,
+    "wof:lastmodified":1564101502,
     "wof:name":"Siltasaari",
     "wof:parent_id":890537285,
     "wof:placetype":"neighbourhood",

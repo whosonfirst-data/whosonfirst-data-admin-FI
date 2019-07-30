@@ -28,6 +28,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Exercisheden"
+    ],
     "name:und_x_variant":[
         "Hedkrok",
         "Heden"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1242946151,
-    "wof:lastmodified":1537622286,
+    "wof:lastmodified":1564102170,
     "wof:name":"Heden",
     "wof:parent_id":907198827,
     "wof:placetype":"locality",

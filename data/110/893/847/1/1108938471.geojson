@@ -21,9 +21,32 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:dan_x_preferred":[
+        "Vironniemi"
+    ],
+    "name:fin_x_preferred":[
+        "Vironniemi"
+    ],
+    "name:fra_x_preferred":[
+        "Vironniemi"
+    ],
+    "name:ind_x_preferred":[
+        "Vironniemi"
+    ],
+    "name:nno_x_preferred":[
+        "Estn\u00e4s"
+    ],
+    "name:nor_x_preferred":[
+        "Estn\u00e4s"
+    ],
+    "name:sco_x_preferred":[
+        "Vironniemi"
+    ],
+    "name:swe_x_preferred":[
+        "Estn\u00e4s distrikt"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727331,
         907199715,
@@ -32,7 +55,8 @@
         101748417,
         136253047,
         890536879,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1108938471,
-    "wof:lastmodified":1529714748,
+    "wof:lastmodified":1564101516,
     "wof:name":"Vironniemi",
     "wof:parent_id":1108727331,
     "wof:placetype":"neighbourhood",

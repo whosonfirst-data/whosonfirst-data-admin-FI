@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Lepist\u00f6"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043f\u0438\u0441\u0442\u0451"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1125870015,
-    "wof:lastmodified":1529711989,
+    "wof:lastmodified":1564101913,
     "wof:name":"Lepist\u00f6",
     "wof:parent_id":907198581,
     "wof:placetype":"locality",

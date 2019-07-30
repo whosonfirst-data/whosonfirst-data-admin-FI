@@ -28,6 +28,12 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Jokisuu"
+    ],
+    "name:fin_x_preferred":[
+        "Jokisuu"
+    ],
     "name:und_x_variant":[
         "Joensuu"
     ],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1260355481,
-    "wof:lastmodified":1537622271,
+    "wof:lastmodified":1564101393,
     "wof:name":"Jokisuu",
     "wof:parent_id":907199455,
     "wof:placetype":"locality",

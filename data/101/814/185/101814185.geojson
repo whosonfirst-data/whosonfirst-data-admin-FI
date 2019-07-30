@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000371,
-    "geom:area_square_m":2127230.303042,
+    "geom:area_square_m":2127230.30304,
     "geom:bbox":"25.8845907987,62.3609982044,25.9248626255,62.3792210959",
     "geom:latitude":62.36986,
     "geom:longitude":25.905296,
@@ -19,8 +19,14 @@
     "name:eng_x_preferred":[
         "Vihtavuori"
     ],
+    "name:fin_x_preferred":[
+        "Vihtavuori"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u0445\u0442\u0430\u0432\u0443\u043e\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vihtavuori"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Keski-Suomi#Mellersta Finland",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":101814185,
-    "wof:lastmodified":1529706346,
+    "wof:lastmodified":1564101748,
     "wof:name":"Vihtavuori",
     "wof:parent_id":907199203,
     "wof:placetype":"locality",

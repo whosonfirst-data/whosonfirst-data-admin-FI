@@ -28,6 +28,12 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alskog socken"
+    ],
+    "name:swe_x_preferred":[
+        "Alskogs socken"
+    ],
     "name:und_x_variant":[
         "Ahlskog",
         "Alskog"
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1309776383,
-    "wof:lastmodified":1537622303,
+    "wof:lastmodified":1564101774,
     "wof:name":"Alskog",
     "wof:parent_id":907199669,
     "wof:placetype":"locality",

@@ -29,11 +29,62 @@
     "lbl:longitude":25.840336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0641\u0627\u0646\u064a\u064a\u0645\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:bar_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u043e\u0432\u0430\u043d\u0456\u0435\u043c\u0456"
+    ],
+    "name:bre_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0432\u0430\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:ceb_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:ces_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:cor_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:dan_x_preferred":[
+        "Rovaniemi"
+    ],
     "name:deu_x_preferred":[
         "Rovaniemi"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03b2\u03b1\u03bd\u03b9\u03ad\u03bc\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Rovaniemi"
+    ],
+    "name:epo_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:est_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:eus_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0648\u0627\u0646\u06cc\u0645\u06cc"
     ],
     "name:fin_x_preferred":[
         "Rovaniemi"
@@ -44,11 +95,149 @@
     "name:fra_x_preferred":[
         "Rovaniemi"
     ],
+    "name:gle_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:glg_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d1\u05e0\u05d9\u05d9\u05de\u05d9"
+    ],
+    "name:hrv_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:hun_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:ind_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:isl_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:ita_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30f4\u30a1\u30cb\u30a8\u30df"
+    ],
+    "name:kal_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:koi_x_preferred":[
+        "\u0420\u043e\u0432\u0430\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:kom_x_preferred":[
+        "\u0420\u043e\u0432\u0430\u043d\u0438\u044d\u043c\u0438"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ubc14\ub2c8\uc5d0\ubbf8"
+    ],
+    "name:lat_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:lav_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:lit_x_preferred":[
+        "Rovaniemis"
+    ],
+    "name:lmo_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:ltz_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:mri_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:msa_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:nds_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:nld_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:nno_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:nor_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:oci_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u043e\u0432\u0430\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0631\u0648\u0648\u0627\u0646\u06cc\u0645\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:por_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:ron_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0432\u0430\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:slk_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:slv_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:sme_x_preferred":[
+        "Roavvenj\u00e1rga"
+    ],
+    "name:spa_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:sqi_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0432\u0430\u043d\u0438\u0458\u0435\u043c\u0438"
+    ],
     "name:swe_x_preferred":[
         "Rovaniemi"
     ],
+    "name:szl_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u043e\u0432\u0430\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0432\u0430\u043d\u0456\u0435\u043c\u0456"
+    ],
     "name:unk_x_variant":[
         "Rovaniyemi"
+    ],
+    "name:vep_x_preferred":[
+        "Rovanem'"
+    ],
+    "name:vie_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:war_x_preferred":[
+        "Rovaniemi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u74e6\u6d85\u7c73"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -83,7 +272,7 @@
         }
     ],
     "wof:id":907199591,
-    "wof:lastmodified":1544224832,
+    "wof:lastmodified":1564100428,
     "wof:name":"Rovaniemi",
     "wof:parent_id":1159321523,
     "wof:placetype":"localadmin",

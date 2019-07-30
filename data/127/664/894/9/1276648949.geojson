@@ -27,6 +27,15 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Riku"
+    ],
+    "name:fin_x_preferred":[
+        "Riku"
+    ],
+    "name:pol_x_preferred":[
+        "Riku"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683099,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1276648949,
-    "wof:lastmodified":1536851818,
+    "wof:lastmodified":1564101036,
     "wof:name":"Riku",
     "wof:parent_id":907199185,
     "wof:placetype":"locality",

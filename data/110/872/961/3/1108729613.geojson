@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
-    "geom:area_square_m":970617.510778,
+    "geom:area_square_m":970617.510777,
     "geom:bbox":"25.0305754633,60.284055027,25.0467410977,60.3000075961",
     "geom:latitude":60.292946,
     "geom:longitude":25.038221,
@@ -28,8 +28,29 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Tikkurila"
+    ],
+    "name:deu_x_preferred":[
+        "Tikkurila"
+    ],
+    "name:est_x_preferred":[
+        "Tikkurila"
+    ],
     "name:fin_x_preferred":[
         "Tikkurila"
+    ],
+    "name:fra_x_preferred":[
+        "Tikkurila"
+    ],
+    "name:nno_x_preferred":[
+        "Dickursby"
+    ],
+    "name:ron_x_preferred":[
+        "Tikkurila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043a\u043a\u0443\u0440\u0438\u043b\u0430"
     ],
     "name:swe_x_preferred":[
         "Dickursby"
@@ -38,7 +59,6 @@
     "reversegeo:longitude":25.038374,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -46,7 +66,8 @@
         101748419,
         136253047,
         1108729491,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +88,7 @@
         }
     ],
     "wof:id":1108729613,
-    "wof:lastmodified":1529714757,
+    "wof:lastmodified":1564101462,
     "wof:name":"Tikkurila",
     "wof:parent_id":1108729491,
     "wof:placetype":"neighbourhood",

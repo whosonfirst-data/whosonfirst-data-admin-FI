@@ -30,11 +30,65 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u043d\u0442\u0430\u0441\u0430\u043b\u043c\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:dan_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:deu_x_preferred":[
+        "Rantasalmi"
+    ],
     "name:eng_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:est_x_preferred":[
+        "Rantasalmi vald"
+    ],
+    "name:fin_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:fra_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:glg_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:ita_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:nld_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:nor_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:pol_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:por_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:ron_x_preferred":[
         "Rantasalmi"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u043d\u0442\u0430\u0441\u0430\u043b\u043c\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:spa_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:sqi_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:swe_x_preferred":[
+        "Rantasalmi"
+    ],
+    "name:tur_x_preferred":[
+        "Rantasalmi"
     ],
     "name:und_x_variant":[
         "Rantasalimi",
@@ -74,7 +128,7 @@
         }
     ],
     "wof:id":1259868687,
-    "wof:lastmodified":1537622179,
+    "wof:lastmodified":1564102448,
     "wof:name":"Rantasalmi",
     "wof:parent_id":907198885,
     "wof:placetype":"locality",

@@ -29,8 +29,14 @@
     "lbl:longitude":27.611431,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Virolahti"
+    ],
     "name:eng_x_preferred":[
         "Virolahti"
+    ],
+    "name:est_x_preferred":[
+        "Virolahti vald"
     ],
     "name:fin_x_preferred":[
         "Virolahti"
@@ -38,14 +44,62 @@
     "name:fin_x_variant":[
         "Virolahden Kunta"
     ],
+    "name:fra_x_preferred":[
+        "Virolahti"
+    ],
+    "name:glg_x_preferred":[
+        "Virolahti"
+    ],
+    "name:ita_x_preferred":[
+        "Virolahti"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30ed\u30e9\u30cf\u30c6\u30a3"
+    ],
+    "name:nld_x_preferred":[
+        "Virolahti"
+    ],
+    "name:nno_x_preferred":[
+        "Virolahti"
+    ],
+    "name:nor_x_preferred":[
+        "Virolahti"
+    ],
+    "name:pol_x_preferred":[
+        "Virolahti"
+    ],
+    "name:ron_x_preferred":[
+        "Virolahti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0440\u043e\u043b\u0430\u0445\u0442\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Virolahti"
+    ],
+    "name:spa_x_preferred":[
+        "Virolahti"
+    ],
+    "name:sqi_x_preferred":[
+        "Virolahti"
+    ],
     "name:swe_x_preferred":[
         "Virolahti"
     ],
     "name:swe_x_variant":[
         "Vederlax"
     ],
+    "name:tur_x_preferred":[
+        "Virolahti"
+    ],
     "name:unk_x_variant":[
         "Vederlaks"
+    ],
+    "name:vie_x_preferred":[
+        "Virolahti"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u7f85\u62c9\u8d6b\u8482"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -80,7 +134,7 @@
         }
     ],
     "wof:id":907198719,
-    "wof:lastmodified":1544224768,
+    "wof:lastmodified":1564100338,
     "wof:name":"Virolahti",
     "wof:parent_id":1159321573,
     "wof:placetype":"localadmin",

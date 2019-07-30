@@ -28,6 +28,21 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Polus d'Agrigent"
+    ],
+    "name:fin_x_preferred":[
+        "Polos"
+    ],
+    "name:fra_x_preferred":[
+        "Polos"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3f4\ub93c\uc2a4"
+    ],
+    "name:slk_x_preferred":[
+        "P\u00f3los"
+    ],
     "name:und_x_variant":[
         "Polusj\u00e4rvi",
         "Polus"
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1344029357,
-    "wof:lastmodified":1537622185,
+    "wof:lastmodified":1564100628,
     "wof:name":"Polus",
     "wof:parent_id":907199655,
     "wof:placetype":"locality",

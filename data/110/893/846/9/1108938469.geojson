@@ -21,9 +21,23 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":12.0,
     "mz:tier_metro":30,
+    "name:fin_x_preferred":[
+        "Kampinmalmi"
+    ],
+    "name:fra_x_preferred":[
+        "Kampinmalmi"
+    ],
+    "name:nno_x_preferred":[
+        "Kampmalmen"
+    ],
+    "name:nor_x_preferred":[
+        "Kampmalmen"
+    ],
+    "name:swe_x_preferred":[
+        "Kampmalmens distrikt"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727337,
         907199715,
@@ -32,7 +46,8 @@
         101748417,
         136253047,
         890536879,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1108938469,
-    "wof:lastmodified":1529714747,
+    "wof:lastmodified":1564101515,
     "wof:name":"Kampinmalmi",
     "wof:parent_id":1108727337,
     "wof:placetype":"neighbourhood",

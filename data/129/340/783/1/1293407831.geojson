@@ -27,6 +27,87 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:als_x_preferred":[
+        "Botans"
+    ],
+    "name:cat_x_preferred":[
+        "Botans"
+    ],
+    "name:ceb_x_preferred":[
+        "Botans"
+    ],
+    "name:ces_x_preferred":[
+        "Botans"
+    ],
+    "name:deu_x_preferred":[
+        "Botans"
+    ],
+    "name:eus_x_preferred":[
+        "Botans"
+    ],
+    "name:fra_x_preferred":[
+        "Botans"
+    ],
+    "name:hun_x_preferred":[
+        "Botans"
+    ],
+    "name:ita_x_preferred":[
+        "Botans"
+    ],
+    "name:lat_x_preferred":[
+        "Botans"
+    ],
+    "name:ltz_x_preferred":[
+        "Botans"
+    ],
+    "name:msa_x_preferred":[
+        "Botans"
+    ],
+    "name:nld_x_preferred":[
+        "Botans"
+    ],
+    "name:oci_x_preferred":[
+        "Botans"
+    ],
+    "name:pms_x_preferred":[
+        "Botans"
+    ],
+    "name:pol_x_preferred":[
+        "Botans"
+    ],
+    "name:por_x_preferred":[
+        "Botans"
+    ],
+    "name:slk_x_preferred":[
+        "Botans"
+    ],
+    "name:spa_x_preferred":[
+        "Botans"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0442\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Botans"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0442\u0430\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Botans"
+    ],
+    "name:vie_x_preferred":[
+        "Botans"
+    ],
+    "name:vol_x_preferred":[
+        "Botans"
+    ],
+    "name:war_x_preferred":[
+        "Botans"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5510"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683067,
@@ -56,7 +137,7 @@
         }
     ],
     "wof:id":1293407831,
-    "wof:lastmodified":1536901969,
+    "wof:lastmodified":1564100758,
     "wof:name":"Botans",
     "wof:parent_id":907198509,
     "wof:placetype":"locality",

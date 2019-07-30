@@ -29,8 +29,26 @@
     "lbl:longitude":28.507581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:ceb_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:ces_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:deu_x_preferred":[
+        "Hyrynsalmi"
+    ],
     "name:eng_x_preferred":[
         "Hyrynsalmi"
+    ],
+    "name:epo_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:est_x_preferred":[
+        "Hyrynsalmi vald"
     ],
     "name:fin_x_preferred":[
         "Hyrynsalmi"
@@ -38,8 +56,53 @@
     "name:fin_x_variant":[
         "Hyrynsalmen Kunta"
     ],
+    "name:fra_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:glg_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:ita_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d2\u30e5\u30ea\u30f3\u30b5\u30eb\u30df"
+    ],
+    "name:nld_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:nor_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:pol_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:ron_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u044e\u0440\u044e\u043d\u0441\u0430\u043b\u043c\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:spa_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:sqi_x_preferred":[
+        "Hyrynsalmi"
+    ],
     "name:swe_x_preferred":[
         "Hyrynsalmi"
+    ],
+    "name:tur_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:vie_x_preferred":[
+        "Hyrynsalmi"
+    ],
+    "name:zho_x_preferred":[
+        "\u8a31\u6797\u85a9\u723e\u7c73"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -73,7 +136,7 @@
         }
     ],
     "wof:id":907199531,
-    "wof:lastmodified":1544224828,
+    "wof:lastmodified":1564100425,
     "wof:name":"Hyrynsalmi",
     "wof:parent_id":1159321549,
     "wof:placetype":"localadmin",

@@ -30,6 +30,12 @@
     "name:fin_x_preferred":[
         "Kuusisaari"
     ],
+    "name:fra_x_preferred":[
+        "Kuusisaari"
+    ],
+    "name:swe_x_preferred":[
+        "Gran\u00f6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683067,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1293606619,
-    "wof:lastmodified":1537622335,
+    "wof:lastmodified":1564100804,
     "wof:name":"Kuusisaari",
     "wof:parent_id":907198627,
     "wof:placetype":"locality",

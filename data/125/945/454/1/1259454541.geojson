@@ -27,6 +27,12 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nuha"
+    ],
+    "name:swe_x_preferred":[
+        "Nuha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683143,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1259454541,
-    "wof:lastmodified":1536900505,
+    "wof:lastmodified":1564102438,
     "wof:name":"Nuha",
     "wof:parent_id":907199517,
     "wof:placetype":"locality",

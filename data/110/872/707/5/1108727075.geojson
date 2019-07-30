@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000177,
-    "geom:area_square_m":1084044.315964,
+    "geom:area_square_m":1084044.315963,
     "geom:bbox":"24.87702457,60.2563731863,24.9032220465,60.2689375508",
     "geom:latitude":60.26178,
     "geom:longitude":24.891037,
@@ -28,6 +28,9 @@
     "name:fin_x_preferred":[
         "Kuninkaantammi"
     ],
+    "name:fra_x_preferred":[
+        "Kuninkaantammi"
+    ],
     "name:swe_x_preferred":[
         "Kungseken"
     ],
@@ -36,7 +39,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537241,
         907199715,
@@ -45,7 +47,8 @@
         101748417,
         136253047,
         890536889,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108727075,
-    "wof:lastmodified":1529714729,
+    "wof:lastmodified":1564101416,
     "wof:name":"Kuninkaantammi",
     "wof:parent_id":890537241,
     "wof:placetype":"neighbourhood",

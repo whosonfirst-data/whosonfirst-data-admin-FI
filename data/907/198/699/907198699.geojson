@@ -29,8 +29,20 @@
     "lbl:longitude":25.695924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Luhanka"
+    ],
+    "name:deu_x_preferred":[
+        "Luhanka"
+    ],
     "name:eng_x_preferred":[
         "Luhanka"
+    ],
+    "name:epo_x_preferred":[
+        "Luhanka"
+    ],
+    "name:est_x_preferred":[
+        "Luhanka vald"
     ],
     "name:fin_x_preferred":[
         "Luhanka"
@@ -38,11 +50,56 @@
     "name:fin_x_variant":[
         "Luhangan Kunta"
     ],
+    "name:fra_x_preferred":[
+        "Luhanka"
+    ],
+    "name:glg_x_preferred":[
+        "Luhanka"
+    ],
+    "name:ita_x_preferred":[
+        "Luhanka"
+    ],
+    "name:nld_x_preferred":[
+        "Luhanka"
+    ],
+    "name:nno_x_preferred":[
+        "Luhanka"
+    ],
+    "name:nor_x_preferred":[
+        "Luhanka"
+    ],
+    "name:pol_x_preferred":[
+        "Luhanka"
+    ],
+    "name:ron_x_preferred":[
+        "Luhanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0445\u0430\u043d\u043a\u0430"
+    ],
+    "name:sme_x_preferred":[
+        "Luhanka"
+    ],
+    "name:spa_x_preferred":[
+        "Luhanka"
+    ],
+    "name:sqi_x_preferred":[
+        "Luhanka"
+    ],
     "name:swe_x_preferred":[
         "Luhanka"
     ],
     "name:swe_x_variant":[
         "Luhango"
+    ],
+    "name:tur_x_preferred":[
+        "Luhanka"
+    ],
+    "name:vie_x_preferred":[
+        "Luhanka"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u6f22\u5361"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -77,7 +134,7 @@
         }
     ],
     "wof:id":907198699,
-    "wof:lastmodified":1544224767,
+    "wof:lastmodified":1564100325,
     "wof:name":"Luhanka",
     "wof:parent_id":1159321619,
     "wof:placetype":"localadmin",

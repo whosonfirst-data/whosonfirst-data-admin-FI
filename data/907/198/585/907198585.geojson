@@ -29,17 +29,77 @@
     "lbl:longitude":25.423575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0644\u0648\u0644\u0627"
+    ],
+    "name:bar_x_preferred":[
+        "Hollola"
+    ],
+    "name:ceb_x_preferred":[
+        "Hollola"
+    ],
+    "name:deu_x_preferred":[
+        "Hollola"
+    ],
     "name:eng_x_preferred":[
         "Hollola"
     ],
+    "name:est_x_preferred":[
+        "Hollola vald"
+    ],
     "name:fin_x_preferred":[
+        "Hollola"
+    ],
+    "name:fra_x_preferred":[
+        "Hollola"
+    ],
+    "name:glg_x_preferred":[
+        "Hollola"
+    ],
+    "name:ita_x_preferred":[
+        "Hollola"
+    ],
+    "name:lav_x_preferred":[
+        "Hollola"
+    ],
+    "name:nld_x_preferred":[
+        "Hollola"
+    ],
+    "name:nno_x_preferred":[
+        "Hollola"
+    ],
+    "name:nor_x_preferred":[
+        "Hollola"
+    ],
+    "name:pol_x_preferred":[
+        "Hollola"
+    ],
+    "name:ron_x_preferred":[
         "Hollola"
     ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u043b\u043b\u043e\u043b\u0430"
     ],
+    "name:sme_x_preferred":[
+        "Hollola"
+    ],
+    "name:spa_x_preferred":[
+        "Hollola"
+    ],
+    "name:sqi_x_preferred":[
+        "Hollola"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u043b\u043e\u043b\u0430"
+    ],
     "name:swe_x_preferred":[
         "Hollola"
+    ],
+    "name:tur_x_preferred":[
+        "Hollola"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u6d1b\u62c9"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -74,7 +134,7 @@
         }
     ],
     "wof:id":907198585,
-    "wof:lastmodified":1544224761,
+    "wof:lastmodified":1564100336,
     "wof:name":"Hollola",
     "wof:parent_id":1159321483,
     "wof:placetype":"localadmin",

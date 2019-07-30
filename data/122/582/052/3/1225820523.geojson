@@ -27,6 +27,12 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Hirmula"
+    ],
+    "name:fin_x_preferred":[
+        "Hirmula"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683147,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1225820523,
-    "wof:lastmodified":1537562795,
+    "wof:lastmodified":1564102643,
     "wof:name":"Hirmula",
     "wof:parent_id":907199569,
     "wof:placetype":"locality",

@@ -27,6 +27,24 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Jurmo"
+    ],
+    "name:fin_x_preferred":[
+        "Jurmo"
+    ],
+    "name:fra_x_preferred":[
+        "Jurmo"
+    ],
+    "name:sme_x_preferred":[
+        "Jurmo"
+    ],
+    "name:spa_x_preferred":[
+        "Jurmo"
+    ],
+    "name:swe_x_preferred":[
+        "Jurmo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683073,
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1343861659,
-    "wof:lastmodified":1536664850,
+    "wof:lastmodified":1564100661,
     "wof:name":"Jurmo",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

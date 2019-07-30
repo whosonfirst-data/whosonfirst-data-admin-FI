@@ -28,6 +28,42 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u043d\u0442\u0443\u0440\u044b"
+    ],
+    "name:cat_x_preferred":[
+        "Venturi"
+    ],
+    "name:deu_x_preferred":[
+        "Venturi"
+    ],
+    "name:fra_x_preferred":[
+        "Venturi"
+    ],
+    "name:glg_x_preferred":[
+        "Venturi"
+    ],
+    "name:ita_x_preferred":[
+        "Venturi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30f3\u30c1\u30e5\u30ea"
+    ],
+    "name:nds_x_preferred":[
+        "Venturi"
+    ],
+    "name:nld_x_preferred":[
+        "Venturi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043d\u0442\u0443\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Venturi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043d\u0442\u0443\u0440\u0456"
+    ],
     "name:und_x_variant":[
         "Piim\u00e4lahti",
         "Venturi",
@@ -62,7 +98,7 @@
         }
     ],
     "wof:id":1243243607,
-    "wof:lastmodified":1537622135,
+    "wof:lastmodified":1564102188,
     "wof:name":"Venturi",
     "wof:parent_id":907198891,
     "wof:placetype":"locality",

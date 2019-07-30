@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Lohikoski"
+    ],
+    "name:fra_x_preferred":[
+        "Lohikoski"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Lohikoski",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1126050751,
-    "wof:lastmodified":1529706351,
+    "wof:lastmodified":1564101870,
     "wof:name":"Lohikoski",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

@@ -28,15 +28,20 @@
     "name:fin_x_preferred":[
         "Kallahti"
     ],
+    "name:fra_x_preferred":[
+        "Kallahti"
+    ],
     "name:swe_x_preferred":[
         "Kallvik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u043b\u0430\u0445\u0442\u0456"
     ],
     "reversegeo:latitude":60.182291,
     "reversegeo:longitude":25.140505,
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537281,
         907199715,
@@ -45,7 +50,8 @@
         101748417,
         136253047,
         890536881,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108727029,
-    "wof:lastmodified":1529714727,
+    "wof:lastmodified":1564101461,
     "wof:name":"Kallahti",
     "wof:parent_id":890537281,
     "wof:placetype":"neighbourhood",

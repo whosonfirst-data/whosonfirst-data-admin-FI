@@ -36,6 +36,9 @@
     "name:nor_x_preferred":[
         "Fallet"
     ],
+    "name:spa_x_preferred":[
+        "Murro"
+    ],
     "name:swe_x_preferred":[
         "Fallet"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1326963157,
-    "wof:lastmodified":1537550115,
+    "wof:lastmodified":1564096353,
     "wof:name":"Murro",
     "wof:parent_id":907199643,
     "wof:placetype":"locality",

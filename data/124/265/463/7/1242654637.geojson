@@ -30,6 +30,12 @@
     "name:eng_x_preferred":[
         "Vieki"
     ],
+    "name:est_x_preferred":[
+        "Vieki"
+    ],
+    "name:fin_x_preferred":[
+        "Vieki"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u0435\u043a\u0438"
     ],
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1242654637,
-    "wof:lastmodified":1537622134,
+    "wof:lastmodified":1564102271,
     "wof:name":"Vieki",
     "wof:parent_id":907199605,
     "wof:placetype":"locality",

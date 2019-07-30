@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017013,
-    "geom:area_square_m":104379197.73397,
+    "geom:area_square_m":104379197.733964,
     "geom:bbox":"24.4992911102,60.1821848106,24.7298889212,60.3262861801",
     "geom:latitude":60.252533,
     "geom:longitude":24.604007,
@@ -29,6 +29,12 @@
     "mz:min_zoom":10.0,
     "name:fin_x_preferred":[
         "Vanha-Espoo"
+    ],
+    "name:fra_x_preferred":[
+        "Vanha-Espoo"
+    ],
+    "name:swe_x_preferred":[
+        "Gamla Esbo"
     ],
     "reversegeo:latitude":60.259658,
     "reversegeo:longitude":24.592649,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1108729217,
-    "wof:lastmodified":1529714711,
+    "wof:lastmodified":1564101506,
     "wof:name":"Vanha-Espoo",
     "wof:parent_id":101748415,
     "wof:placetype":"borough",

@@ -28,6 +28,9 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Myllyoja"
+    ],
     "name:und_x_variant":[
         "Nyn\u00e4s"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1243168889,
-    "wof:lastmodified":1537622201,
+    "wof:lastmodified":1564102290,
     "wof:name":"Myllyoja",
     "wof:parent_id":907198689,
     "wof:placetype":"locality",

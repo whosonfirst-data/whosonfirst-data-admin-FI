@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000317,
-    "geom:area_square_m":1947733.865734,
+    "geom:area_square_m":1947733.865732,
     "geom:bbox":"24.8433862772,60.1688706661,24.8822267349,60.1854253324",
     "geom:latitude":60.176217,
     "geom:longitude":24.859472,
@@ -25,7 +25,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Lehtisaari"
+    ],
     "name:fin_x_preferred":[
+        "Lehtisaari"
+    ],
+    "name:nld_x_preferred":[
         "Lehtisaari"
     ],
     "name:swe_x_preferred":[
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108727101,
-    "wof:lastmodified":1507246021,
+    "wof:lastmodified":1564101504,
     "wof:name":"Lehtisaari",
     "wof:parent_id":890537261,
     "wof:placetype":"neighbourhood",

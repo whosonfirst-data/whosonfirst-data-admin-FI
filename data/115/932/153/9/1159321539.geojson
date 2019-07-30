@@ -34,11 +34,170 @@
     "mps:longitude":27.056286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0643\u064a\u0644\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u043a\u0435\u043b\u0456"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043a\u0435\u043b\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:ceb_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:ces_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:cor_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:dan_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:deu_x_preferred":[
+        "Mikkeli"
+    ],
     "name:eng_x_preferred":[
         "Mikkeli"
     ],
+    "name:epo_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:est_x_preferred":[
+        "Mikkeli linn"
+    ],
+    "name:eus_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u06a9\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Mikkeli"
+    ],
+    "name:fra_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:glg_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e7\u05dc\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:ind_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:ita_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30c3\u30b1\u30ea"
+    ],
+    "name:kal_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:koi_x_preferred":[
+        "\u041c\u0438\u043a\u043a\u0435\u043b\u0438"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\ucf08\ub9ac"
+    ],
+    "name:lav_x_preferred":[
+        "Mikeli"
+    ],
+    "name:lit_x_preferred":[
+        "Mikelis"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u0438\u043a\u043a\u0435\u043b\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:myv_x_preferred":[
+        "\u041c\u0438\u043a\u043a\u0435\u043b\u0438 \u043e\u0448"
+    ],
+    "name:nld_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:nno_x_preferred":[
+        "Sankt Michel"
+    ],
+    "name:nor_x_preferred":[
+        "Sankt Michel"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u06a9\u06cc\u0644\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:por_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:ron_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043a\u043a\u0435\u043b\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:slk_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:sme_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:spa_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:sqi_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043a\u0435\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "S:t Michel"
+    ],
+    "name:szl_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u043a\u043a\u0435\u043b\u0438"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e34\u0e01\u0e40\u0e01\u0e25\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043a\u043a\u0435\u043b\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u06cc\u0644\u06cc"
+    ],
+    "name:vep_x_preferred":[
+        "Mikoi"
+    ],
+    "name:vie_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u51f1\u5229"
     ],
     "src:geom":"fivgov",
     "src:geom_alt":[],
@@ -66,7 +225,7 @@
         }
     ],
     "wof:id":1159321539,
-    "wof:lastmodified":1554325340,
+    "wof:lastmodified":1564102057,
     "wof:name":"Mikkeli",
     "wof:parent_id":85683109,
     "wof:placetype":"county",

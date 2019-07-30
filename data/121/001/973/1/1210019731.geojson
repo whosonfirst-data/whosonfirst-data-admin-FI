@@ -27,6 +27,15 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Ter\u00e4srautela"
+    ],
+    "name:koi_x_preferred":[
+        "\u0422\u0435\u0440\u044f\u0441\u0440\u0430\u0432\u0442\u0435\u043b\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u044f\u0441\u0440\u0430\u0443\u0442\u0435\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Ter\u00e4srautela"
     ],
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1210019731,
-    "wof:lastmodified":1537622309,
+    "wof:lastmodified":1564101260,
     "wof:name":"Teraesrautela",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

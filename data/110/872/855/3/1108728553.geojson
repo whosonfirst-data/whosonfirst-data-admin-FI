@@ -23,6 +23,12 @@
     "name:fin_x_preferred":[
         "Lauttaranta"
     ],
+    "name:koi_x_preferred":[
+        "\u041b\u0430\u0432\u0442\u0442\u0430\u0440\u0430\u043d\u0442\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0443\u0442\u0442\u0430\u0440\u0430\u043d\u0442\u0430"
+    ],
     "name:swe_x_preferred":[
         "F\u00e4rjstranden"
     ],
@@ -33,14 +39,14 @@
     "tkugov:NIMI":"Lauttaranta",
     "tkugov:PIENALUE":"853215043",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108728553,
-    "wof:lastmodified":1529706497,
+    "wof:lastmodified":1564101495,
     "wof:name":"Lauttaranta",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

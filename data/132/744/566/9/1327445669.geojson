@@ -28,6 +28,24 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Jakom\u00e4ki"
+    ],
+    "name:fin_x_preferred":[
+        "Jakom\u00e4ki"
+    ],
+    "name:fra_x_preferred":[
+        "Jakom\u00e4ki"
+    ],
+    "name:nno_x_preferred":[
+        "Jakobacka"
+    ],
+    "name:nor_x_preferred":[
+        "Jakobacka"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043a\u043e\u043c\u044f\u043a\u0438"
+    ],
     "name:swe_x_preferred":[
         "Jakobacka"
     ],
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1327445669,
-    "wof:lastmodified":1537622313,
+    "wof:lastmodified":1564100225,
     "wof:name":"Jakomaeki",
     "wof:parent_id":907199715,
     "wof:placetype":"locality",

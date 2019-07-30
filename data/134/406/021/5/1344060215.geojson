@@ -28,6 +28,30 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Gytje"
+    ],
+    "name:deu_x_preferred":[
+        "Gyttja"
+    ],
+    "name:fra_x_preferred":[
+        "Gyttja"
+    ],
+    "name:nld_x_preferred":[
+        "Gyttja"
+    ],
+    "name:nno_x_preferred":[
+        "Gytje"
+    ],
+    "name:nor_x_preferred":[
+        "Gytje"
+    ],
+    "name:pol_x_preferred":[
+        "Gytia"
+    ],
+    "name:swe_x_preferred":[
+        "Gyttja"
+    ],
     "name:und_x_variant":[
         "Gyutya",
         "Gyttja"
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1344060215,
-    "wof:lastmodified":1537622293,
+    "wof:lastmodified":1564100542,
     "wof:name":"Gyttja",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

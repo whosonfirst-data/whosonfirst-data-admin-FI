@@ -28,6 +28,18 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cym_x_preferred":[
+        "Makila"
+    ],
+    "name:eus_x_preferred":[
+        "Euskal makila"
+    ],
+    "name:fra_x_preferred":[
+        "Makila"
+    ],
+    "name:spa_x_preferred":[
+        "Makila"
+    ],
     "name:und_x_variant":[
         "Maakila",
         "Makila"
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1226552729,
-    "wof:lastmodified":1537622216,
+    "wof:lastmodified":1564102606,
     "wof:name":"Makila",
     "wof:parent_id":907199735,
     "wof:placetype":"locality",

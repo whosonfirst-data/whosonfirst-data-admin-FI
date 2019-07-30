@@ -29,11 +29,26 @@
     "lbl:longitude":24.223276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0627\u0646\u062a\u064a\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u0443\u043d\u0442\u0438\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Siuntio"
+    ],
     "name:deu_x_preferred":[
         "Siuntio"
     ],
     "name:eng_x_preferred":[
         "Siuntio"
+    ],
+    "name:est_x_preferred":[
+        "Siuntio vald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0648\u0646\u062a\u06cc\u0648"
     ],
     "name:fin_x_preferred":[
         "Siuntio"
@@ -41,11 +56,23 @@
     "name:fra_x_preferred":[
         "Siuntio"
     ],
+    "name:glg_x_preferred":[
+        "Siuntio"
+    ],
+    "name:ita_x_preferred":[
+        "Siuntio"
+    ],
     "name:nld_x_preferred":[
         "Siuntio"
     ],
+    "name:nno_x_preferred":[
+        "Sjunde\u00e5"
+    ],
     "name:nor_x_preferred":[
         "Sjunde\u00e5"
+    ],
+    "name:pol_x_preferred":[
+        "Siuntio"
     ],
     "name:ron_x_preferred":[
         "Siuntio"
@@ -53,11 +80,35 @@
     "name:rus_x_preferred":[
         "\u0428\u0443\u043d\u0434\u0435\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0438\u0443\u043d\u0442\u0438\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Siuntio"
+    ],
+    "name:sme_x_preferred":[
+        "Siuntio"
+    ],
+    "name:sqi_x_preferred":[
+        "Siuntio"
+    ],
     "name:swe_x_preferred":[
         "Sjunde\u00e5"
     ],
+    "name:tur_x_preferred":[
+        "Siuntio"
+    ],
     "name:unk_x_variant":[
         "Siunlia"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0648\u0646\u062a\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Siuntio"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u6eab\u8482\u5967"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -92,7 +143,7 @@
         }
     ],
     "wof:id":907198709,
-    "wof:lastmodified":1544224768,
+    "wof:lastmodified":1564100265,
     "wof:name":"Siuntio",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

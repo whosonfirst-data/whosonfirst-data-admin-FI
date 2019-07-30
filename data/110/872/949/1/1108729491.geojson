@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003746,
-    "geom:area_square_m":22952514.802612,
+    "geom:area_square_m":22952514.80261,
     "geom:bbox":"24.975215266,60.2724847558,25.0975941434,60.3246813046",
     "geom:latitude":60.29804,
     "geom:longitude":25.03931,
@@ -27,8 +27,32 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":13.0,
     "mz:min_zoom":10.0,
+    "name:ceb_x_preferred":[
+        "Tikkurila"
+    ],
+    "name:deu_x_preferred":[
+        "Tikkurila"
+    ],
+    "name:est_x_preferred":[
+        "Tikkurila"
+    ],
     "name:fin_x_preferred":[
         "Tikkurila"
+    ],
+    "name:fra_x_preferred":[
+        "Tikkurila"
+    ],
+    "name:nno_x_preferred":[
+        "Dickursby"
+    ],
+    "name:ron_x_preferred":[
+        "Tikkurila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043a\u043a\u0443\u0440\u0438\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dickursby"
     ],
     "reversegeo:latitude":60.303353,
     "reversegeo:longitude":25.035142,
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1108729491,
-    "wof:lastmodified":1529714712,
+    "wof:lastmodified":1564101455,
     "wof:name":"Tikkurila",
     "wof:parent_id":101748419,
     "wof:placetype":"borough",

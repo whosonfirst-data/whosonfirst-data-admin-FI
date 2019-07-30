@@ -29,8 +29,29 @@
     "lbl:longitude":25.811649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Viytasaari"
+    ],
+    "name:cat_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:ceb_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:deu_x_preferred":[
+        "Viitasaari"
+    ],
     "name:eng_x_preferred":[
         "Viitasaari"
+    ],
+    "name:epo_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:est_x_preferred":[
+        "Viitasaari linn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u062a\u0627\u0633\u0627\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Viitasaari"
@@ -38,8 +59,62 @@
     "name:fin_x_variant":[
         "Viitasaaren Kaupunki"
     ],
+    "name:fra_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:glg_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:ita_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:nau_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:nld_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:nno_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:nor_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:pol_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:ron_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0439\u0442\u0430\u0441\u0430\u0430\u0440\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:spa_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:sqi_x_preferred":[
+        "Viitasaari"
+    ],
     "name:swe_x_preferred":[
         "Viitasaari"
+    ],
+    "name:tur_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0439\u0442\u0430\u0441\u0430\u0430\u0440\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u062a\u0627\u0633\u0627\u0631\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Viitasaari"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u5854\u85a9\u91cc"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -74,7 +149,7 @@
         }
     ],
     "wof:id":907199223,
-    "wof:lastmodified":1544224804,
+    "wof:lastmodified":1564100438,
     "wof:name":"Viitasaari",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",

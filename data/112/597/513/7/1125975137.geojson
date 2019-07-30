@@ -21,6 +21,9 @@
     "name:dan_x_preferred":[
         "Kymmeneborg"
     ],
+    "name:fin_x_preferred":[
+        "Kyminlinna"
+    ],
     "name:isl_x_preferred":[
         "Kymmeneborg"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:nob_x_preferred":[
         "Kymmeneborg"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044e\u043c\u0438\u043d\u043b\u0438\u043d\u043d\u0430"
     ],
     "name:swe_x_preferred":[
         "Kymmeneborg"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125975137,
-    "wof:lastmodified":1529707617,
+    "wof:lastmodified":1564101939,
     "wof:name":"Kyminlinna",
     "wof:parent_id":907198683,
     "wof:placetype":"locality",

@@ -29,8 +29,29 @@
     "lbl:longitude":24.310069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Alavieska"
+    ],
+    "name:ces_x_preferred":[
+        "Alavieska"
+    ],
+    "name:deu_x_preferred":[
+        "Alavieska"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bb\u03b1\u03b2\u03b9\u03b5\u03c3\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Alavieska"
+    ],
+    "name:epo_x_preferred":[
+        "Alavieska"
+    ],
+    "name:est_x_preferred":[
+        "Alavieska vald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u0648\u06cc\u0633\u06a9\u0627"
     ],
     "name:fin_x_preferred":[
         "Alavieska"
@@ -38,8 +59,53 @@
     "name:fin_x_variant":[
         "Alavieskan Kunta"
     ],
+    "name:fra_x_preferred":[
+        "Alavieska"
+    ],
+    "name:glg_x_preferred":[
+        "Alavieska"
+    ],
+    "name:ita_x_preferred":[
+        "Alavieska"
+    ],
+    "name:nld_x_preferred":[
+        "Alavieska"
+    ],
+    "name:nor_x_preferred":[
+        "Alavieska"
+    ],
+    "name:pms_x_preferred":[
+        "Alavieska"
+    ],
+    "name:pol_x_preferred":[
+        "Alavieska"
+    ],
+    "name:ron_x_preferred":[
+        "Alavieska"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u0432\u0438\u0435\u0441\u043a\u0430"
+    ],
+    "name:sme_x_preferred":[
+        "Alavieska"
+    ],
+    "name:spa_x_preferred":[
+        "Alavieska"
+    ],
+    "name:sqi_x_preferred":[
+        "Alavieska"
+    ],
     "name:swe_x_preferred":[
         "Alavieska"
+    ],
+    "name:tur_x_preferred":[
+        "Alavieska"
+    ],
+    "name:vie_x_preferred":[
+        "Alavieska"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u62c9\u7dad\u8036\u65af\u5361"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
@@ -74,7 +140,7 @@
         }
     ],
     "wof:id":907199429,
-    "wof:lastmodified":1544224820,
+    "wof:lastmodified":1564100440,
     "wof:name":"Alavieska",
     "wof:parent_id":1159321569,
     "wof:placetype":"localadmin",

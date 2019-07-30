@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fin_x_preferred":[
+        "Muotkavaara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043e\u0442\u043a\u0430\u0432\u0430\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Krokfjell"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Muotkavaara",
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1125866461,
-    "wof:lastmodified":1529708138,
+    "wof:lastmodified":1564101889,
     "wof:name":"Muotkavaara",
     "wof:parent_id":907199587,
     "wof:placetype":"locality",

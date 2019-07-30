@@ -28,11 +28,17 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rasti"
+    ],
     "name:eng_x_preferred":[
         "Rastinniemi"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0441\u0442\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Rasti"
     ],
     "name:und_x_variant":[
         "Rastinniemi"
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1242764645,
-    "wof:lastmodified":1537622178,
+    "wof:lastmodified":1564102260,
     "wof:name":"Rasti",
     "wof:parent_id":907198727,
     "wof:placetype":"locality",

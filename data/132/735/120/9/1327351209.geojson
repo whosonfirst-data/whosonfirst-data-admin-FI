@@ -30,6 +30,9 @@
     "name:fin_x_preferred":[
         "Hallila"
     ],
+    "name:fra_x_preferred":[
+        "Hallila"
+    ],
     "name:swe_x_preferred":[
         "Skomarb\u00f6le"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1327351209,
-    "wof:lastmodified":1537622291,
+    "wof:lastmodified":1564096308,
     "wof:name":"Hallila",
     "wof:parent_id":907198681,
     "wof:placetype":"locality",

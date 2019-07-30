@@ -27,7 +27,13 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Tammela"
+    ],
     "name:fin_x_preferred":[
+        "Tammela"
+    ],
+    "name:pol_x_preferred":[
         "Tammela"
     ],
     "src:geom":"geonames",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1243346295,
-    "wof:lastmodified":1537622344,
+    "wof:lastmodified":1564102230,
     "wof:name":"Tammela",
     "wof:parent_id":907198989,
     "wof:placetype":"locality",

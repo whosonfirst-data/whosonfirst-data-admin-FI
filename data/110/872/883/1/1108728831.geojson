@@ -23,6 +23,15 @@
     "name:fin_x_preferred":[
         "Pikisaari"
     ],
+    "name:fra_x_preferred":[
+        "Pikisaari"
+    ],
+    "name:koi_x_preferred":[
+        "\u041f\u0438\u043a\u0438\u0441\u0430\u0440\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043a\u0438\u0441\u0430\u0430\u0440\u0438"
+    ],
     "name:swe_x_preferred":[
         "Beckholmen"
     ],
@@ -33,14 +42,14 @@
     "tkugov:NIMI":"Pikisaari",
     "tkugov:PIENALUE":"853214040",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1108728831,
-    "wof:lastmodified":1529706511,
+    "wof:lastmodified":1564101479,
     "wof:name":"Pikisaari",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

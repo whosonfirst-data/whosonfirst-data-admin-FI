@@ -27,6 +27,21 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kumpula"
+    ],
+    "name:fin_x_preferred":[
+        "Kumpula"
+    ],
+    "name:fra_x_preferred":[
+        "Kumpula"
+    ],
+    "name:nor_x_preferred":[
+        "Gumt\u00e4kt"
+    ],
+    "name:swe_x_preferred":[
+        "Gumt\u00e4kt"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85683147,
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1276845587,
-    "wof:lastmodified":1537083913,
+    "wof:lastmodified":1564101018,
     "wof:name":"Kumpula",
     "wof:parent_id":907199539,
     "wof:placetype":"locality",

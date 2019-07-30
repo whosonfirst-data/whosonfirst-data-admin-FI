@@ -21,6 +21,15 @@
     "name:dan_x_preferred":[
         "Tallholmen"
     ],
+    "name:deu_x_preferred":[
+        "M\u00e4ntyluoto"
+    ],
+    "name:fin_x_preferred":[
+        "M\u00e4ntyluoto"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00e4ntyluoto"
+    ],
     "name:isl_x_preferred":[
         "Tallholmen"
     ],
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1125965201,
-    "wof:lastmodified":1529712500,
+    "wof:lastmodified":1564101945,
     "wof:name":"M\u00e4ntyluoto",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

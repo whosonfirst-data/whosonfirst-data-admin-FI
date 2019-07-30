@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000239,
-    "geom:area_square_m":1453912.662767,
+    "geom:area_square_m":1453912.662766,
     "geom:bbox":"22.3030195292,60.4744643371,22.3348716869,60.4892707258",
     "geom:latitude":60.481994,
     "geom:longitude":22.317309,
@@ -20,8 +20,14 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:est_x_preferred":[
+        "Oriketo"
+    ],
     "name:fin_x_preferred":[
         "Oriketo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0438\u043a\u0435\u0442\u043e"
     ],
     "name:swe_x_preferred":[
         "Oriketo"
@@ -33,14 +39,14 @@
     "tkugov:NIMI":"Oriketo",
     "tkugov:PIENALUE":"853530092",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108728607,
-    "wof:lastmodified":1529706500,
+    "wof:lastmodified":1564101437,
     "wof:name":"Oriketo",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

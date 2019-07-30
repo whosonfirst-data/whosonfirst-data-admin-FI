@@ -18,11 +18,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u064a\u0646 \u0641\u064a\u0633\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Lannevesi"
+    ],
     "name:eng_x_preferred":[
+        "Lannevesi"
+    ],
+    "name:fin_x_preferred":[
         "Lannevesi"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u043d\u043d\u0435\u0432\u0435\u0441\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Lannevesi"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -77,7 +89,7 @@
         }
     ],
     "wof:id":1126051231,
-    "wof:lastmodified":1529706349,
+    "wof:lastmodified":1564101872,
     "wof:name":"Lannevesi",
     "wof:parent_id":907199213,
     "wof:placetype":"locality",
