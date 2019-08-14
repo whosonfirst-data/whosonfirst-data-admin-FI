@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Northern Ostrobothnia Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NO"
+    ],
     "lbl:latitude":64.631833,
     "lbl:longitude":25.612497,
     "mps:latitude":64.645731,
@@ -314,6 +317,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"35,236",
+    "statoids:area_mi":"13,605",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Oulu",
+    "statoids:country":"FI",
+    "statoids:gec":"FI31",
+    "statoids:hasc":"FI.NO",
+    "statoids:iso":"14",
+    "statoids:population":"386,144",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-14",
     "wd:wordcount":234,
     "wof:belongsto":[
@@ -327,7 +343,7 @@
         "fips:code":"",
         "gn:id":830667,
         "gp:id":29389265,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.NO",
         "unlc:id":"FI-14",
         "wd:id":"Q5704"
     },
@@ -351,11 +367,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282638,
+    "wof:lastmodified":1565823286,
     "wof:name":"Northern Ostrobothnia",
     "wof:parent_id":404227415,
     "wof:placetype":"region",
+    "wof:population":386144,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"NO",
     "wof:subdivision":"FI-14",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -15,6 +15,9 @@
     "itu:country_code":[
         "358"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AX"
+    ],
     "lbl:latitude":60.15205,
     "lbl:longitude":20.291594,
     "mps:latitude":60.15205,
@@ -745,7 +748,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563282669,
+    "wof:lastmodified":1565709933,
     "wof:name":"Aland",
     "wof:parent_id":136253047,
     "wof:placetype":"dependency",

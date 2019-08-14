@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Southwest Finland Region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SF"
+    ],
     "lbl:latitude":60.2014,
     "lbl:longitude":22.011269,
     "mps:latitude":60.204152,
@@ -299,6 +302,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"10,663",
+    "statoids:area_mi":"4,117",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Turku",
+    "statoids:country":"FI",
+    "statoids:gec":"FI34",
+    "statoids:hasc":"FI.SF",
+    "statoids:iso":"19",
+    "statoids:population":"461,177",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-19",
     "wd:wordcount":778,
     "wof:belongsto":[
@@ -312,7 +328,7 @@
         "fips:code":"",
         "gn:id":830708,
         "gp:id":29389250,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.SF",
         "unlc:id":"FI-19",
         "wd:id":"Q5712"
     },
@@ -336,11 +352,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282658,
+    "wof:lastmodified":1565823295,
     "wof:name":"Southwest Finland",
     "wof:parent_id":404227405,
     "wof:placetype":"region",
+    "wof:population":461177,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"SF",
     "wof:subdivision":"FI-19",
     "wof:superseded_by":[],
     "wof:supersedes":[],

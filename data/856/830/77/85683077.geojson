@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Tavastia Proper Region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KH"
+    ],
     "lbl:latitude":60.908442,
     "lbl:longitude":24.414319,
     "mps:latitude":60.909474,
@@ -303,6 +306,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"5,200",
+    "statoids:area_mi":"2,008",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"H\u00e4meenlinna",
+    "statoids:country":"FI",
+    "statoids:gec":"FI20",
+    "statoids:hasc":"FI.KH",
+    "statoids:iso":"06",
+    "statoids:population":"173,041",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-06",
     "wd:wordcount":352,
     "wof:belongsto":[
@@ -316,7 +332,7 @@
         "fips:code":"",
         "gn:id":830705,
         "gp:id":29389249,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.KH",
         "unlc:id":"FI-06",
         "wd:id":"Q5695"
     },
@@ -340,11 +356,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282667,
+    "wof:lastmodified":1565823299,
     "wof:name":"Tavastia Proper",
     "wof:parent_id":404227411,
     "wof:placetype":"region",
+    "wof:population":173041,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"KH",
     "wof:subdivision":"FI-06",
     "wof:superseded_by":[],
     "wof:supersedes":[],

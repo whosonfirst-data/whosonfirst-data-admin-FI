@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Southern Ostrobothnia Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SO"
+    ],
     "lbl:latitude":62.837066,
     "lbl:longitude":23.078909,
     "mps:latitude":62.851437,
@@ -299,6 +302,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"13,444",
+    "statoids:area_mi":"5,191",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Sein\u00e4joki",
+    "statoids:country":"FI",
+    "statoids:gec":"FI18",
+    "statoids:hasc":"FI.SO",
+    "statoids:iso":"03",
+    "statoids:population":"193,511",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-03",
     "wd:wordcount":257,
     "wof:belongsto":[
@@ -312,7 +328,7 @@
         "fips:code":"",
         "gn:id":830682,
         "gp:id":29389256,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.SO",
         "unlc:id":"FI-03",
         "wd:id":"Q5692"
     },
@@ -336,11 +352,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282651,
+    "wof:lastmodified":1565823292,
     "wof:name":"Southern Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",
+    "wof:population":193511,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"SO",
     "wof:subdivision":"FI-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],

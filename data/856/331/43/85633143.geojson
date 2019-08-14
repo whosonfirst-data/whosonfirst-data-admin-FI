@@ -14,6 +14,9 @@
     "itu:country_code":[
         "358"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FI"
+    ],
     "lbl:latitude":63.252357,
     "lbl:longitude":27.276469,
     "mps:latitude":63.252357,
@@ -1244,9 +1247,6 @@
         }
     ],
     "wof:id":85633143,
-    "wof:lang":[
-        "fin"
-    ],
     "wof:lang_x_official":[
         "fin",
         "swe"
@@ -1255,7 +1255,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282627,
+    "wof:lastmodified":1565709931,
     "wof:name":"Finland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

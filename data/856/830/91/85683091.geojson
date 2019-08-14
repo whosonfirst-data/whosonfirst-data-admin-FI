@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Paijanne Tavastia Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PH"
+    ],
     "lbl:latitude":61.207691,
     "lbl:longitude":25.690159,
     "mps:latitude":61.20953,
@@ -233,6 +236,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"5,127",
+    "statoids:area_mi":"1,979",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Lahti",
+    "statoids:country":"FI",
+    "statoids:gec":"FI27",
+    "statoids:hasc":"FI.PH",
+    "statoids:iso":"16",
+    "statoids:population":"200,847",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "wd:wordcount":322,
     "wof:belongsto":[
         102191581,
@@ -243,6 +259,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29389255,
+        "hasc:id":"FI.PH",
         "wd:id":"Q5708"
     },
     "wof:country":"FI",
@@ -265,11 +282,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282662,
+    "wof:lastmodified":1565823297,
     "wof:name":"Paijanne Tavastia",
     "wof:parent_id":404227411,
     "wof:placetype":"region",
+    "wof:population":200847,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"PH",
     "wof:superseded_by":[],
     "wof:supersedes":[
         85683085

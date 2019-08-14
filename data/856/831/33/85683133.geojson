@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "North Karelen Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NK"
+    ],
     "lbl:latitude":62.780693,
     "lbl:longitude":30.049511,
     "mps:latitude":62.779431,
@@ -313,6 +316,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"17,763",
+    "statoids:area_mi":"6,858",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Joensuu",
+    "statoids:country":"FI",
+    "statoids:gec":"FI30",
+    "statoids:hasc":"FI.NK",
+    "statoids:iso":"13",
+    "statoids:population":"166,129",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-13",
     "wd:wordcount":760,
     "wof:belongsto":[
@@ -326,7 +342,7 @@
         "fips:code":"",
         "gn:id":830686,
         "gp:id":29389261,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.NK",
         "unlc:id":"FI-13",
         "wd:id":"Q5703"
     },
@@ -350,11 +366,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282632,
+    "wof:lastmodified":1565823284,
     "wof:name":"North Karelen",
     "wof:parent_id":404227407,
     "wof:placetype":"region",
+    "wof:population":166129,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"NK",
     "wof:subdivision":"FI-13",
     "wof:superseded_by":[],
     "wof:supersedes":[],
