@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Northern Savonia Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NS"
+    ],
     "lbl:latitude":63.20821,
     "lbl:longitude":27.509305,
     "mps:latitude":63.207416,
@@ -312,6 +315,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"16,771",
+    "statoids:area_mi":"6,475",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Kuopio",
+    "statoids:country":"FI",
+    "statoids:gec":"FI33",
+    "statoids:hasc":"FI.NS",
+    "statoids:iso":"15",
+    "statoids:population":"248,423",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-15",
     "wd:wordcount":296,
     "wof:belongsto":[
@@ -325,7 +341,7 @@
         "fips:code":"",
         "gn:id":830690,
         "gp:id":29389262,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.NS",
         "unlc:id":"FI-15",
         "wd:id":"Q5706"
     },
@@ -349,11 +365,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282644,
+    "wof:lastmodified":1565823289,
     "wof:name":"Northern Savonia",
     "wof:parent_id":404227407,
     "wof:placetype":"region",
+    "wof:population":248423,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"NS",
     "wof:subdivision":"FI-15",
     "wof:superseded_by":[],
     "wof:supersedes":[],

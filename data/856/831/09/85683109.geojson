@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Southern Savonia Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SS"
+    ],
     "lbl:latitude":61.859012,
     "lbl:longitude":27.362508,
     "mps:latitude":61.819144,
@@ -284,6 +287,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"13,986",
+    "statoids:area_mi":"5,400",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Mikkeli",
+    "statoids:country":"FI",
+    "statoids:gec":"FI19",
+    "statoids:hasc":"FI.SS",
+    "statoids:iso":"04",
+    "statoids:population":"156,632",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-04",
     "wd:wordcount":262,
     "wof:belongsto":[
@@ -297,7 +313,7 @@
         "fips:code":"",
         "gn:id":830695,
         "gp:id":29389260,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.SS",
         "unlc:id":"FI-04",
         "wd:id":"Q5693"
     },
@@ -321,11 +337,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282640,
+    "wof:lastmodified":1565823287,
     "wof:name":"Southern Savonia",
     "wof:parent_id":404227407,
     "wof:placetype":"region",
+    "wof:population":156632,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"SS",
     "wof:subdivision":"FI-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],

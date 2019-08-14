@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Pirkanmaa Region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TR"
+    ],
     "lbl:latitude":61.708766,
     "lbl:longitude":23.673573,
     "mps:latitude":61.711602,
@@ -308,6 +311,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"12,447",
+    "statoids:area_mi":"4,806",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Tampere",
+    "statoids:country":"FI",
+    "statoids:gec":"FI28",
+    "statoids:hasc":"FI.TR",
+    "statoids:iso":"11",
+    "statoids:population":"480,705",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-11",
     "wd:wordcount":352,
     "wof:belongsto":[
@@ -321,7 +337,7 @@
         "fips:code":"",
         "gn:id":830704,
         "gp:id":29389248,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.TR",
         "unlc:id":"FI-11",
         "wd:id":"Q5701"
     },
@@ -345,11 +361,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282665,
+    "wof:lastmodified":1565823298,
     "wof:name":"Pirkanmaa",
     "wof:parent_id":404227417,
     "wof:placetype":"region",
+    "wof:population":480705,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"TR",
     "wof:subdivision":"FI-11",
     "wof:superseded_by":[],
     "wof:supersedes":[],

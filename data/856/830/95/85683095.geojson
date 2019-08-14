@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Satakunta Region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":61.522116,
     "lbl:longitude":21.785369,
     "mps:latitude":61.52143,
@@ -307,6 +310,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"7,957",
+    "statoids:area_mi":"3,072",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Pori",
+    "statoids:country":"FI",
+    "statoids:gec":"FI32",
+    "statoids:hasc":"FI.SA",
+    "statoids:iso":"17",
+    "statoids:population":"227,652",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-17",
     "wd:wordcount":1273,
     "wof:belongsto":[
@@ -320,7 +336,7 @@
         "fips:code":"",
         "gn:id":831041,
         "gp:id":29389252,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.SA",
         "unlc:id":"FI-17",
         "wd:id":"Q5709"
     },
@@ -344,11 +360,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282655,
+    "wof:lastmodified":1565823293,
     "wof:name":"Satakunta",
     "wof:parent_id":404227405,
     "wof:placetype":"region",
+    "wof:population":227652,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"SA",
     "wof:subdivision":"FI-17",
     "wof:superseded_by":[],
     "wof:supersedes":[],

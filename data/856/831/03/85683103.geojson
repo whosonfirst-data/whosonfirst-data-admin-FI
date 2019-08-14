@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "South Karelia Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SK"
+    ],
     "lbl:latitude":61.013798,
     "lbl:longitude":28.00138,
     "mps:latitude":61.071615,
@@ -310,6 +313,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"5,613",
+    "statoids:area_mi":"2,167",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Lapeenranta",
+    "statoids:country":"FI",
+    "statoids:gec":"FI17",
+    "statoids:hasc":"FI.SK",
+    "statoids:iso":"02",
+    "statoids:population":"134,448",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-02",
     "wd:wordcount":1296,
     "wof:belongsto":[
@@ -323,7 +339,7 @@
         "fips:code":"",
         "gn:id":830699,
         "gp:id":29389253,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.SK",
         "unlc:id":"FI-02",
         "wd:id":"Q5691"
     },
@@ -347,11 +363,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282630,
+    "wof:lastmodified":1565823283,
     "wof:name":"South Karelia",
     "wof:parent_id":404227411,
     "wof:placetype":"region",
+    "wof:population":134448,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"SK",
     "wof:subdivision":"FI-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],

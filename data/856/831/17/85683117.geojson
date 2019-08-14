@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Central Finland Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CF"
+    ],
     "lbl:latitude":62.460613,
     "lbl:longitude":25.403161,
     "mps:latitude":62.460653,
@@ -297,6 +300,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"16,707",
+    "statoids:area_mi":"6,450",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Jyv\u00e4skyl\u00e4",
+    "statoids:country":"FI",
+    "statoids:gec":"FI24",
+    "statoids:hasc":"FI.CF",
+    "statoids:iso":"08",
+    "statoids:population":"271,747",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "wd:wordcount":264,
     "wof:belongsto":[
         102191581,
@@ -309,7 +325,7 @@
         "fips:code":"",
         "gn:id":830685,
         "gp:id":29389258,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.CF",
         "wd:id":"Q5697"
     },
     "wof:country":"FI",
@@ -332,11 +348,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282634,
+    "wof:lastmodified":1565823285,
     "wof:name":"Central Finland",
     "wof:parent_id":404227417,
     "wof:placetype":"region",
+    "wof:population":271747,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"CF",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

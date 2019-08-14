@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Kainuu Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KA"
+    ],
     "lbl:latitude":64.642133,
     "lbl:longitude":28.939827,
     "mps:latitude":64.577614,
@@ -310,6 +313,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"21,504",
+    "statoids:area_mi":"8,303",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Kajaani",
+    "statoids:country":"FI",
+    "statoids:gec":"FI22",
+    "statoids:hasc":"FI.KA",
+    "statoids:iso":"05",
+    "statoids:population":"83,160",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-05",
     "wd:wordcount":4437,
     "wof:belongsto":[
@@ -323,7 +339,7 @@
         "fips:code":"",
         "gn:id":830664,
         "gp:id":29389264,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.KA",
         "unlc:id":"FI-05",
         "wd:id":"Q5694"
     },
@@ -347,11 +363,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282647,
+    "wof:lastmodified":1565823290,
     "wof:name":"Kainuu",
     "wof:parent_id":404227415,
     "wof:placetype":"region",
+    "wof:population":83160,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"KA",
     "wof:subdivision":"FI-05",
     "wof:superseded_by":[],
     "wof:supersedes":[],

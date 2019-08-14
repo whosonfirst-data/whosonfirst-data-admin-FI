@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Kymenlaakso Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KY"
+    ],
     "lbl:latitude":60.598743,
     "lbl:longitude":26.94614,
     "mps:latitude":60.598003,
@@ -285,6 +288,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"5,112",
+    "statoids:area_mi":"1,974",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Kotka",
+    "statoids:country":"FI",
+    "statoids:gec":"FI25",
+    "statoids:hasc":"FI.KY",
+    "statoids:iso":"09",
+    "statoids:population":"182,754",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-09",
     "wd:wordcount":345,
     "wof:belongsto":[
@@ -298,7 +314,7 @@
         "fips:code":"",
         "gn:id":830703,
         "gp:id":-29389251,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.KY",
         "unlc:id":"FI-09",
         "wd:id":"Q5698"
     },
@@ -322,11 +338,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282660,
+    "wof:lastmodified":1565823295,
     "wof:name":"Kymenlaakso",
     "wof:parent_id":404227411,
     "wof:placetype":"region",
+    "wof:population":182754,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"KY",
     "wof:subdivision":"FI-09",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Central Ostrobothnia Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CO"
+    ],
     "lbl:latitude":63.569551,
     "lbl:longitude":24.186836,
     "mps:latitude":63.569406,
@@ -303,6 +306,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"5,273",
+    "statoids:area_mi":"2,036",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Kokkola",
+    "statoids:country":"FI",
+    "statoids:gec":"FI23",
+    "statoids:hasc":"FI.CO",
+    "statoids:iso":"07",
+    "statoids:population":"71,029",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-07",
     "wd:wordcount":178,
     "wof:belongsto":[
@@ -316,7 +332,7 @@
         "fips:code":"",
         "gn:id":830675,
         "gp:id":29389257,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.CO",
         "unlc:id":"FI-07",
         "wd:id":"Q5696"
     },
@@ -340,11 +356,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282653,
+    "wof:lastmodified":1565823293,
     "wof:name":"Central Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",
+    "wof:population":71029,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"CO",
     "wof:subdivision":"FI-07",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Ostrobothnia Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OS"
+    ],
     "lbl:latitude":62.906168,
     "lbl:longitude":21.073023,
     "mps:latitude":62.902204,
@@ -270,6 +273,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"7,749",
+    "statoids:area_mi":"2,992",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Vaasa",
+    "statoids:country":"FI",
+    "statoids:gec":"FI29",
+    "statoids:hasc":"FI.OS",
+    "statoids:iso":"12",
+    "statoids:population":"175,985",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191581,
@@ -282,7 +298,7 @@
         "fips:code":"",
         "gn:id":830676,
         "gp:id":29389259,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.OS",
         "wd:id":"Q5702"
     },
     "wof:country":"FI",
@@ -305,11 +321,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282636,
+    "wof:lastmodified":1565823286,
     "wof:name":"Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",
+    "wof:population":175985,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"OS",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Lapland Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LA"
+    ],
     "lbl:latitude":67.613744,
     "lbl:longitude":26.765912,
     "mps:latitude":67.616229,
@@ -300,6 +303,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"92,664",
+    "statoids:area_mi":"35,778",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Rovaniemi",
+    "statoids:country":"FI",
+    "statoids:gec":"FI26",
+    "statoids:hasc":"FI.LA",
+    "statoids:iso":"10",
+    "statoids:population":"183,963",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-10",
     "wd:wordcount":183,
     "wof:belongsto":[
@@ -313,7 +329,7 @@
         "fips:code":"",
         "gn:id":830603,
         "gp:id":12577870,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.LA",
         "unlc:id":"FI-10",
         "wd:id":"Q5700"
     },
@@ -337,11 +353,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282648,
+    "wof:lastmodified":1565823291,
     "wof:name":"Lapland",
     "wof:parent_id":404227409,
     "wof:placetype":"region",
+    "wof:population":183963,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"LA",
     "wof:subdivision":"FI-10",
     "wof:superseded_by":[],
     "wof:supersedes":[],

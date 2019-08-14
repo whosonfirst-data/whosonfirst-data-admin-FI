@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Uusimaa Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "US"
+    ],
     "lbl:latitude":60.276941,
     "lbl:longitude":24.790343,
     "mps:latitude":60.280446,
@@ -332,6 +335,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-12-31",
+    "statoids:area_km":"9,131",
+    "statoids:area_mi":"3,526",
+    "statoids:as_of_date":"2008-12-31",
+    "statoids:capital":"Helsinki",
+    "statoids:country":"FI",
+    "statoids:gec":"FI35",
+    "statoids:hasc":"FI.US",
+    "statoids:iso":"18",
+    "statoids:population":"1,501,511",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
     "unlc:subdivision":"FI-18",
     "wd:wordcount":878,
     "wof:belongsto":[
@@ -345,7 +361,7 @@
         "fips:code":"",
         "gn:id":830709,
         "gp:id":29389247,
-        "hasc:id":"FI.",
+        "hasc:id":"FI.US",
         "unlc:id":"FI-18",
         "wd:id":"Q5711"
     },
@@ -369,11 +385,14 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282657,
+    "wof:lastmodified":1565823294,
     "wof:name":"Uusimaa",
     "wof:parent_id":404227411,
     "wof:placetype":"region",
+    "wof:population":1501511,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:shortcode":"US",
     "wof:subdivision":"FI-18",
     "wof:superseded_by":[],
     "wof:supersedes":[],
