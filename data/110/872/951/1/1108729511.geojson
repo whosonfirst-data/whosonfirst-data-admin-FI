@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000467,
-    "geom:area_square_m":2866393.929451,
+    "geom:area_square_m":2866393.929452,
     "geom:bbox":"24.7785957928,60.253979701,24.822479745,60.2744647827",
     "geom:latitude":60.264274,
     "geom:longitude":24.798173,
@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.264116,
     "lbl:longitude":24.797846,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.264116,
     "mps:longitude":24.797846,
     "mz:hierarchy_label":1,
@@ -38,7 +39,6 @@
     "reversegeo:longitude":24.797846,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -46,7 +46,8 @@
         101748419,
         136253047,
         1108729499,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729511,
-    "wof:lastmodified":1529714752,
+    "wof:lastmodified":1566594979,
     "wof:name":"Hameenkyla",
     "wof:parent_id":1108729499,
     "wof:placetype":"neighbourhood",

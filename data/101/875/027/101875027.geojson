@@ -10,12 +10,16 @@
     "geom:latitude":60.964291,
     "geom:longitude":24.523534,
     "iso:country":"FI",
+    "lbl:bbox":"24.503534,60.944291,24.543534,60.984291",
     "lbl:latitude":60.964291,
     "lbl:longitude":24.523534,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.964291,
     "mps:longitude":24.523534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Vanaja"
     ],
@@ -54,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":60,
     "wof:belongsto":[
         85683077,
@@ -71,7 +75,6 @@
     "wof:concordances":{
         "gn:id":632536,
         "gp:id":574600,
-        "qs:id":1156465,
         "qs_pg:id":1156465,
         "wd:id":"Q3366125"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101875027,
-    "wof:lastmodified":1563283701,
+    "wof:lastmodified":1566595166,
     "wof:name":"Vanaja",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

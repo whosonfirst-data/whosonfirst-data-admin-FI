@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":60.398886,
     "lbl:longitude":25.115053,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0627\u0641\u0627"
     ],
@@ -134,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0440\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Keravan"
     ],
     "name:urd_x_preferred":[
@@ -153,7 +156,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":907198627,
-    "wof:lastmodified":1564100280,
+    "wof:lastmodified":1566594012,
     "wof:name":"Kerava",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

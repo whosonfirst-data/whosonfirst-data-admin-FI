@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.44667,64.09667,28.48667,64.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Saidanlahti",
         "Saijanlahti"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259746331,
-    "wof:lastmodified":1537622169,
+    "wof:lastmodified":1566595782,
     "wof:name":"Saijanlahti",
     "wof:parent_id":907199319,
     "wof:placetype":"locality",

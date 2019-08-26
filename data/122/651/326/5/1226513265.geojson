@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.97274,62.93977,23.01274,62.97977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683113,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226513265,
-    "wof:lastmodified":1537043194,
+    "wof:lastmodified":1566595839,
     "wof:name":"Keisala",
     "wof:parent_id":907199241,
     "wof:placetype":"locality",

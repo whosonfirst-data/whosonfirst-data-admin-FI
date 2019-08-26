@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.22646,60.38373,26.26646,60.42373",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683067,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327449037,
-    "wof:lastmodified":1536656827,
+    "wof:lastmodified":1566593966,
     "wof:name":"Valkolampi",
     "wof:parent_id":907198469,
     "wof:placetype":"locality",

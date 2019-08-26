@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.17705,60.60411,26.21705,60.64411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Kirkonkyl\u00e4"
     ],
@@ -35,8 +39,7 @@
         "Kapellby"
     ],
     "name:und_x_variant":[
-        "Kapelby",
-        "Kapellby"
+        "Kapelby"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1326634039,
-    "wof:lastmodified":1537622261,
+    "wof:lastmodified":1566593957,
     "wof:name":"Kapellby",
     "wof:parent_id":907198607,
     "wof:placetype":"locality",

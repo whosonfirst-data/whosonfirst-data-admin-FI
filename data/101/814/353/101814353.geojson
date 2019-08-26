@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.482681,
     "lbl:longitude":30.623292,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.482681,
     "mps:longitude":30.623292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0443\u043f\u043e\u0432\u0430\u0440\u0430"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":84,
     "wof:belongsto":[
@@ -91,7 +94,6 @@
     "wof:concordances":{
         "gn:id":633611,
         "gp:id":574254,
-        "qs:id":81298,
         "qs_pg:id":81298,
         "wd:id":"Q255065",
         "wk:page":"Tuupovaara"
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101814353,
-    "wof:lastmodified":1561830283,
+    "wof:lastmodified":1566595220,
     "wof:name":"Tuupovaara",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.338525,
     "lbl:longitude":24.495153,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.338525,
     "mps:longitude":24.495153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aitoo"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683099,
         102191581,
@@ -56,7 +59,6 @@
     "wof:concordances":{
         "gn:id":661726,
         "gp:id":564036,
-        "qs:id":182848,
         "qs_pg:id":182848,
         "wd:id":"Q11850238"
     },
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":101814013,
-    "wof:lastmodified":1529711292,
+    "wof:lastmodified":1566595225,
     "wof:name":"Aitoo",
     "wof:parent_id":907199187,
     "wof:placetype":"locality",

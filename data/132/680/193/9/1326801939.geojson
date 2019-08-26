@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.46827,64.09034,24.50827,64.13034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Niemel\u00e4nkyl\u00e4"
     ],
@@ -34,8 +38,7 @@
         "\u041d\u0438\u0435"
     ],
     "name:und_x_variant":[
-        "Niemel\u00e4",
-        "Niemel\u00e4nkyl\u00e4"
+        "Niemel\u00e4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1326801939,
-    "wof:lastmodified":1537622205,
+    "wof:lastmodified":1566593885,
     "wof:name":"Niemelaenkylae",
     "wof:parent_id":907199437,
     "wof:placetype":"locality",

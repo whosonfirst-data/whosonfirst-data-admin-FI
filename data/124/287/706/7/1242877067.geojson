@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.40477,59.94142,22.44477,59.98142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kaxela",
         "Kaxsk\u00e4la"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242877067,
-    "wof:lastmodified":1537622255,
+    "wof:lastmodified":1566595612,
     "wof:name":"Kaxskaela",
     "wof:parent_id":907199735,
     "wof:placetype":"locality",

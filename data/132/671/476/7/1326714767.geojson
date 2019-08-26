@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.50274,61.07946,28.54274,61.11946",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683103,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326714767,
-    "wof:lastmodified":1536721311,
+    "wof:lastmodified":1566593941,
     "wof:name":"Eiskola",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

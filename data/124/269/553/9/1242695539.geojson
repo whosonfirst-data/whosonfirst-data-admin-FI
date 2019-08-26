@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.37905,60.35041,24.41905,60.39041",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Ojakkala"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1242695539,
-    "wof:lastmodified":1564102182,
+    "wof:lastmodified":1566595635,
     "wof:name":"Ojakkala",
     "wof:parent_id":907198595,
     "wof:placetype":"locality",

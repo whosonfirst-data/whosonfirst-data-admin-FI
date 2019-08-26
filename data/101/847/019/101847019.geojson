@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.313188,
     "lbl:longitude":27.859919,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":62.313188,
     "mps:longitude":27.859919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0643\u0627\u0648\u0633"
     ],
@@ -162,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":62.316667,
     "wd:longitude":27.883333,
@@ -180,10 +183,12 @@
     "wof:concordances":{
         "gn:id":632370,
         "gp:id":574657,
-        "qs:id":953622,
-        "qs_pg:id":1079802,
+        "qs_pg:id":953622,
         "wd:id":"Q683525",
         "wk:page":"Varkaus"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079802
     },
     "wof:country":"FI",
     "wof:geomhash":"f61abb0fb7d739934af0147300bfb8ca",
@@ -200,7 +205,7 @@
         }
     ],
     "wof:id":101847019,
-    "wof:lastmodified":1563283851,
+    "wof:lastmodified":1566595217,
     "wof:name":"Varkaus",
     "wof:parent_id":907199707,
     "wof:placetype":"locality",

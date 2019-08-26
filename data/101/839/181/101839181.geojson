@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":65.804342,
     "lbl:longitude":24.544198,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":65.804341,
     "mps:longitude":24.544198,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Keminmaa"
     ],
@@ -101,7 +104,7 @@
     "name:tur_x_preferred":[
         "Keminmaa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kemi"
     ],
     "name:vie_x_preferred":[
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":324,
     "wof:belongsto":[
@@ -142,9 +145,11 @@
     "wof:concordances":{
         "gn:id":653280,
         "gp:id":567208,
-        "qs:id":260236,
-        "qs_pg:id":1059730,
+        "qs_pg:id":260236,
         "wd:id":"Q859608"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1059730
     },
     "wof:country":"FI",
     "wof:geomhash":"03aabf8769cbaf02f09fdb73fed77da9",
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":101839181,
-    "wof:lastmodified":1563283982,
+    "wof:lastmodified":1566595257,
     "wof:name":"Keminmaa",
     "wof:parent_id":907199569,
     "wof:placetype":"locality",

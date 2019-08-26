@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.370884,
     "lbl:longitude":22.002615,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":61.370884,
     "mps:longitude":22.002615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Nakkila"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":298,
     "wof:belongsto":[
@@ -124,10 +127,12 @@
     "wof:concordances":{
         "gn:id":854829,
         "gp:id":570150,
-        "qs:id":211757,
-        "qs_pg:id":1115919,
+        "qs_pg:id":211757,
         "wd:id":"Q1009109",
         "wk:page":"Nakkila"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1115919
     },
     "wof:country":"FI",
     "wof:geomhash":"e5e0f070af1e4d746c692d2a0b9a5a60",
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":101815471,
-    "wof:lastmodified":1563283782,
+    "wof:lastmodified":1566595196,
     "wof:name":"Nakkila",
     "wof:parent_id":907198705,
     "wof:placetype":"locality",

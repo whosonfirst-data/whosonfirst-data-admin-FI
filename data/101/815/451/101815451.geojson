@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.940091,
     "lbl:longitude":25.94662,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.940091,
     "mps:longitude":25.94662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:aze_x_preferred":[
         "Nastola"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":242,
     "wof:belongsto":[
@@ -136,10 +139,12 @@
     "wof:concordances":{
         "gn:id":645035,
         "gp:id":570190,
-        "qs:id":890466,
         "qs_pg:id":44526,
         "wd:id":"Q369576",
         "wk:page":"Nastola"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":890466
     },
     "wof:country":"FI",
     "wof:geomhash":"20c25216f3df278ab7801d6965b54fcc",
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":101815451,
-    "wof:lastmodified":1563283826,
+    "wof:lastmodified":1566595208,
     "wof:name":"Nastola",
     "wof:parent_id":907198647,
     "wof:placetype":"locality",

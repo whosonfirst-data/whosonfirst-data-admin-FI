@@ -18,6 +18,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.195354,
     "lbl:longitude":24.954566,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.19249,
     "mps:longitude":24.957049,
     "mz:hierarchy_label":1,
@@ -72,9 +73,6 @@
     "name:swe_x_preferred":[
         "Vallg\u00e5rd"
     ],
-    "name:unk_x_variant":[
-        "Vallg\u00e5rd"
-    ],
     "qs:gn_adm0_cc":"FI",
     "qs:gn_id":0,
     "qs:gn_local":658225,
@@ -104,7 +102,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108727355,
@@ -120,7 +118,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":574579,
-        "qs:id":1140634,
         "qs_pg:id":1140634,
         "wd:id":"Q1973972"
     },
@@ -146,7 +143,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1563282670,
+    "wof:lastmodified":1566594459,
     "wof:name":"Vallila",
     "wof:parent_id":1108727355,
     "wof:placetype":"neighbourhood",

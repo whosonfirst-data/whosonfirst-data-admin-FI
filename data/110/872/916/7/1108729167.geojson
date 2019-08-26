@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000242,
-    "geom:area_square_m":1361523.168901,
+    "geom:area_square_m":1361523.168902,
     "geom:bbox":"27.6240040422,62.868388109,27.6565326982,62.8841818704",
     "geom:latitude":62.875825,
     "geom:longitude":27.640928,
@@ -14,6 +14,7 @@
     "kuogov:NIMI":"S\u00e4rkiniemi",
     "lbl:latitude":62.876542,
     "lbl:longitude":27.640928,
+    "lbl:max_zoom":18.0,
     "mps:latitude":62.876542,
     "mps:longitude":27.640928,
     "mz:hierarchy_label":1,
@@ -26,14 +27,14 @@
     "reversegeo:longitude":27.640928,
     "src:geom":"kuogov",
     "wof:belongsto":[
-        85683131,
         102191581,
         907199673,
         85633143,
         404227407,
         101748439,
         136253047,
-        1159321597
+        1159321597,
+        85683131
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1108729167,
-    "wof:lastmodified":1529708978,
+    "wof:lastmodified":1566595009,
     "wof:name":"S\u00e4rkiniemi",
     "wof:parent_id":101748439,
     "wof:placetype":"neighbourhood",

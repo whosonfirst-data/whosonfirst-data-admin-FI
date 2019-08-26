@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.84067,60.26993,22.88067,60.30993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Iggn\u00e4s"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1260185615,
-    "wof:lastmodified":1537622275,
+    "wof:lastmodified":1566594895,
     "wof:name":"Inkiniemi",
     "wof:parent_id":907198941,
     "wof:placetype":"locality",

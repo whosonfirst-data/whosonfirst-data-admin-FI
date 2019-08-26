@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.74365,60.60416,27.78365,60.64416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kotala"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293086689,
-    "wof:lastmodified":1537622239,
+    "wof:lastmodified":1566594484,
     "wof:name":"Kotola",
     "wof:parent_id":907198719,
     "wof:placetype":"locality",

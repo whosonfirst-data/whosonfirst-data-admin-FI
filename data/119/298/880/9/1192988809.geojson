@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.99347,62.97476,22.03347,63.01476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "M\u00e4ntym\u00e4ki"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1192988809,
-    "wof:lastmodified":1537622344,
+    "wof:lastmodified":1566594859,
     "wof:name":"Maentymaeki",
     "wof:parent_id":907198989,
     "wof:placetype":"locality",

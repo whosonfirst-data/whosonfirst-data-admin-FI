@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.24383,61.62381,23.28383,61.66381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0438\u043c\u0438"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1226745195,
-    "wof:lastmodified":1564102497,
+    "wof:lastmodified":1566595819,
     "wof:name":"Timi",
     "wof:parent_id":907199131,
     "wof:placetype":"locality",

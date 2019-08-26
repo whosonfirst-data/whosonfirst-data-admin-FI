@@ -9,15 +9,18 @@
     "geom:bbox":"23.7431098207,67.3107338641,23.8424902218,67.3553911622",
     "geom:latitude":67.333321,
     "geom:longitude":23.790757,
-    "geonames:id":"651889,605084",
+    "gn:id":"651889,605084",
     "gn:population":3908,
     "iso:country":"FI",
     "lbl:latitude":67.331193,
     "lbl:longitude":23.794145,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":67.331193,
     "mps:longitude":23.794145,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kolari"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":262,
     "wof:belongsto":[
@@ -140,7 +143,6 @@
     "wof:concordances":{
         "gn:id":651889,
         "gp:id":567708,
-        "qs:id":681655,
         "qs_pg:id":681655,
         "wd:id":"Q543882",
         "wk:page":"Kolari"
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101845585,
-    "wof:lastmodified":1563283684,
+    "wof:lastmodified":1566595159,
     "wof:name":"Kolari",
     "wof:parent_id":907199583,
     "wof:placetype":"locality",

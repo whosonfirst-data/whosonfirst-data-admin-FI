@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.746514,
     "lbl:longitude":26.120945,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":61.746514,
     "mps:longitude":26.120946,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u0648\u062a\u0633\u0627"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":357,
     "wof:belongsto":[
@@ -127,10 +130,12 @@
     "wof:concordances":{
         "gn:id":655581,
         "gp:id":566328,
-        "qs:id":22380,
-        "qs_pg:id":1078632,
+        "qs_pg:id":22380,
         "wd:id":"Q993058",
         "wk:page":"Joutsa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078632
     },
     "wof:country":"FI",
     "wof:geomhash":"00b0616ab5e872c2e050e0f07114c86b",
@@ -147,7 +152,7 @@
         }
     ],
     "wof:id":101814225,
-    "wof:lastmodified":1563283938,
+    "wof:lastmodified":1566595245,
     "wof:name":"Joutsa",
     "wof:parent_id":907198751,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.84667,61.81333,29.88667,61.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633143
@@ -36,7 +40,7 @@
         "gn:id":643110
     },
     "wof:country":"FI",
-    "wof:geomhash":"d2edf73e6d0c9d49ed238342c75e71ce",
+    "wof:geomhash":"ce405ca6dfd8060e697be5e062406d6b",
     "wof:hierarchy":[
         {
             "country_id":85633143,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209194471,
-    "wof:lastmodified":1536294820,
+    "wof:lastmodified":1566594817,
     "wof:name":"Pajamaeki",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.866670000000006,
+    29.86667000000001,
     61.83333,
-    29.866670000000006,
+    29.86667000000001,
     61.83333
 ],
   "geometry": {"coordinates":[29.86667000000001,61.83333],"type":"Point"}

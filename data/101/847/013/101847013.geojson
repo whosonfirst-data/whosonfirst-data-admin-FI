@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000193,
-    "geom:area_square_m":1073379.699992,
+    "geom:area_square_m":1073379.699993,
     "geom:bbox":"27.5322224113,63.190321836,27.5550405224,63.2092775067",
     "geom:latitude":63.200551,
     "geom:longitude":27.542677,
     "iso:country":"FI",
     "lbl:latitude":63.201468,
     "lbl:longitude":27.542504,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.201468,
     "mps:longitude":27.542504,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alapitk\u00e4"
     ],
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683131,
         102191581,
@@ -52,7 +55,6 @@
     "wof:concordances":{
         "gn:id":661443,
         "gp:id":564122,
-        "qs:id":1043432,
         "qs_pg:id":1043432
     },
     "wof:country":"FI",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":101847013,
-    "wof:lastmodified":1529708941,
+    "wof:lastmodified":1566595214,
     "wof:name":"Alapitk\u00e4",
     "wof:parent_id":907199373,
     "wof:placetype":"locality",

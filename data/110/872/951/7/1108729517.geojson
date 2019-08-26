@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00012,
-    "geom:area_square_m":736075.555959,
+    "geom:area_square_m":736075.555957,
     "geom:bbox":"24.9784887762,60.279004966,25.0069124925,60.2869251966",
     "geom:latitude":60.28338,
     "geom:longitude":24.989014,
@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.283164,
     "lbl:longitude":24.989014,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.283164,
     "mps:longitude":24.989014,
     "mz:hierarchy_label":1,
@@ -35,7 +36,6 @@
     "reversegeo:longitude":24.989014,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -43,7 +43,8 @@
         101748419,
         136253047,
         1108729491,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1108729517,
-    "wof:lastmodified":1529714752,
+    "wof:lastmodified":1566594979,
     "wof:name":"Helsingin Pitajan Kirkonkyla",
     "wof:parent_id":1108729491,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.75861,60.51185,21.79861,60.55185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Kaamanen"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1292912353,
-    "wof:lastmodified":1564100813,
+    "wof:lastmodified":1566594551,
     "wof:name":"Kaamanen",
     "wof:parent_id":907198913,
     "wof:placetype":"locality",

@@ -9,23 +9,24 @@
     "geom:bbox":"27.0,61.45,27.0,61.45",
     "geom:latitude":61.45,
     "geom:longitude":27.0,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FI",
+    "lbl:bbox":"26.98,61.43,27.02,61.47",
     "lbl:latitude":61.45,
     "lbl:longitude":27.0,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ollikkala"
     ],
     "name:rus_x_preferred":[
         "\u041e\u043b\u043b\u0438\u043a\u043a\u0430\u043b\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Ollikkala"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -44,7 +45,7 @@
     "qs_pg:woe_adm0":23424812,
     "qs_pg:woe_id":25945974,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424812,
     "woe:name_adm0":"Suomi",
     "woe:name_adm1":"Kymeenlaakson maakunta",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1125855727,
-    "wof:lastmodified":1529714463,
+    "wof:lastmodified":1566595441,
     "wof:name":"Kolkkala",
     "wof:parent_id":907198721,
     "wof:placetype":"locality",

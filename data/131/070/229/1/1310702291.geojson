@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.87738,61.45129,21.91738,61.49129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_historical":[
         "Svartsmark"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1310702291,
-    "wof:lastmodified":1537550063,
+    "wof:lastmodified":1566595033,
     "wof:name":"Suosmeri",
     "wof:parent_id":907198905,
     "wof:placetype":"locality",

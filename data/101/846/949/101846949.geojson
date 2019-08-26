@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.70101,
     "lbl:longitude":23.351037,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.70101,
     "mps:longitude":23.351037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nedervetil"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683119,
         102191581,
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":644994,
         "gp:id":573817,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q3366117"
     },
     "wof:country":"FI",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101846949,
-    "wof:lastmodified":1561830275,
+    "wof:lastmodified":1566595184,
     "wof:name":"Alaveteli",
     "wof:parent_id":907199669,
     "wof:placetype":"locality",

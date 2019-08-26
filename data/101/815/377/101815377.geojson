@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001808,
-    "geom:area_square_m":11078010.315518,
+    "geom:area_square_m":11078010.315513,
     "geom:bbox":"22.2536055919,60.2741008465,22.3437286712,60.325124078",
     "geom:latitude":60.302981,
     "geom:longitude":22.296622,
@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.305731,
     "lbl:longitude":22.304133,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.30573,
     "mps:longitude":22.304133,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Pargas"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85683073,
@@ -63,7 +66,9 @@
     "wof:concordances":{
         "gn:id":643050,
         "gp:id":571048,
-        "qs:id":349798,
+        "qs_pg:id":349798
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1080468
     },
     "wof:country":"FI",
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":101815377,
-    "wof:lastmodified":1529706470,
+    "wof:lastmodified":1566595202,
     "wof:name":"Parainen",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

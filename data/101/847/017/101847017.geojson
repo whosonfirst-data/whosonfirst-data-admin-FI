@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.761419,
     "lbl:longitude":28.034827,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":62.761418,
     "mps:longitude":28.034827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u0445\u043c\u0435\u0440\u0441\u0430\u043b\u043c\u0438"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":109,
     "wof:belongsto":[
@@ -88,7 +91,6 @@
     "wof:concordances":{
         "gn:id":632041,
         "gp:id":574804,
-        "qs:id":1235221,
         "qs_pg:id":1235221,
         "wd:id":"Q2787288",
         "wk:page":"Vehmersalmi"
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101847017,
-    "wof:lastmodified":1561830283,
+    "wof:lastmodified":1566595217,
     "wof:name":"Vehmersalmi",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

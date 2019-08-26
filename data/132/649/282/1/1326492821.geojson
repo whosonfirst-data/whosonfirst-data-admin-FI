@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.40088,67.14909,24.44088,67.18909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ruokorova"
     ],
@@ -35,8 +39,7 @@
         "\u0420\u0443\u043e\u043a\u043e\u044f\u0440\u0432\u0438"
     ],
     "name:und_x_variant":[
-        "Ruokoj\u00e4rvi",
-        "Ruokorova"
+        "Ruokoj\u00e4rvi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1326492821,
-    "wof:lastmodified":1537622172,
+    "wof:lastmodified":1566593939,
     "wof:name":"Ruokojaervi",
     "wof:parent_id":907199583,
     "wof:placetype":"locality",

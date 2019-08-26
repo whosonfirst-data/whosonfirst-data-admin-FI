@@ -10,12 +10,16 @@
     "geom:latitude":60.931095,
     "geom:longitude":26.812761,
     "iso:country":"FI",
+    "lbl:bbox":"26.792761,60.911095,26.832761,60.951095",
     "lbl:latitude":60.931095,
     "lbl:longitude":26.812761,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.931095,
     "mps:longitude":26.812761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Valkeala"
     ],
@@ -87,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":183,
     "wof:belongsto":[
         85683081,
@@ -102,7 +106,6 @@
     "wof:concordances":{
         "gn:id":632669,
         "gp:id":574552,
-        "qs:id":262464,
         "qs_pg:id":262464,
         "wd:id":"Q999217",
         "wk:page":"Valkeala"
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101872799,
-    "wof:lastmodified":1561830266,
+    "wof:lastmodified":1566595160,
     "wof:name":"Valkeala",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

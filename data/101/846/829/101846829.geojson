@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":994242.85685,
+    "geom:area_square_m":994242.856849,
     "geom:bbox":"21.5745527281,61.2662978189,21.6112346979,61.2841663571",
     "geom:latitude":61.273914,
     "geom:longitude":21.589195,
     "iso:country":"FI",
     "lbl:latitude":61.271611,
     "lbl:longitude":21.591974,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.271611,
     "mps:longitude":21.591974,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:isl_x_preferred":[
         "Kvivlax"
     ],
@@ -28,7 +31,7 @@
     "name:swe_x_preferred":[
         "Kvivlax"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuivalakhti"
     ],
     "qs:a0":"Suomi#Finland",
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683095,
         102191581,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":650641,
         "gp:id":568163,
-        "qs:id":1155943,
         "qs_pg:id":1155943
     },
     "wof:country":"FI",
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101846829,
-    "wof:lastmodified":1529712495,
+    "wof:lastmodified":1566595178,
     "wof:name":"Kuivalahti",
     "wof:parent_id":907198669,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Piikaj\u00e4rvi Airfield"
     ],
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":102553385,
-    "wof:lastmodified":1563282419,
+    "wof:lastmodified":1566594280,
     "wof:name":"Piikajarvi lentokentt\u00e4",
     "wof:parent_id":85683095,
     "wof:placetype":"campus",

@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Halli Airport"
     ],
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":102553323,
-    "wof:lastmodified":1563282418,
+    "wof:lastmodified":1566594280,
     "wof:name":"Halli lentokentt\u00e4",
     "wof:parent_id":101814217,
     "wof:placetype":"campus",

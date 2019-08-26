@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.223042,
     "lbl:longitude":24.938521,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.223042,
     "mps:longitude":24.938521,
     "mz:hierarchy_label":1,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108727131,
-    "wof:lastmodified":1561830250,
+    "wof:lastmodified":1566594956,
     "wof:name":"Metsala",
     "wof:parent_id":1108727377,
     "wof:placetype":"neighbourhood",

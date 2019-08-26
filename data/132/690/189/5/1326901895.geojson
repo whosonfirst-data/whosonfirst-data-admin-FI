@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.57987,64.63771,24.61987,64.67771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Saarelanper\u00e4",
         "Saarela"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1326901895,
-    "wof:lastmodified":1537622170,
+    "wof:lastmodified":1566593955,
     "wof:name":"Saarelanperae",
     "wof:parent_id":907199449,
     "wof:placetype":"locality",

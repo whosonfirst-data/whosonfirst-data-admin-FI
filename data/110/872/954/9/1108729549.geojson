@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000812,
-    "geom:area_square_m":4973081.836179,
+    "geom:area_square_m":4973081.836176,
     "geom:bbox":"25.0947404298,60.2968144943,25.1398726155,60.3286828623",
     "geom:latitude":60.309792,
     "geom:longitude":25.117433,
@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.309481,
     "lbl:longitude":25.118972,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.309481,
     "mps:longitude":25.118972,
     "mz:hierarchy_label":1,
@@ -35,7 +36,6 @@
     "reversegeo:longitude":25.118972,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -43,7 +43,8 @@
         101748419,
         136253047,
         1108729495,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1108729549,
-    "wof:lastmodified":1529714754,
+    "wof:lastmodified":1566594918,
     "wof:name":"Kuninkaanmaki",
     "wof:parent_id":1108729495,
     "wof:placetype":"neighbourhood",

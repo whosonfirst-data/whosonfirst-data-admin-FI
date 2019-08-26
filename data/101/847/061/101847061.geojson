@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":65.089728,
     "lbl:longitude":25.686543,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.089728,
     "mps:longitude":25.686543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "J\u00e4\u00e4li"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u042f\u044f\u043b\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "J\u00e4\u00e4linkyl\u00e4"
     ],
     "qs:a0":"Suomi#Finland",
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":656176,
         "gp:id":566107,
-        "qs:id":1077374,
         "qs_pg:id":1077374,
         "wd:id":"Q3736219"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101847061,
-    "wof:lastmodified":1561830283,
+    "wof:lastmodified":1566595217,
     "wof:name":"J\u00e4\u00e4li",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

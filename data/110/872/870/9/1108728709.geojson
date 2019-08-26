@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.451569,
     "lbl:longitude":22.313793,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.451569,
     "mps:longitude":22.313793,
     "mz:hierarchy_label":1,
@@ -33,14 +34,14 @@
     "tkugov:NIMI":"It\u00e4harju",
     "tkugov:PIENALUE":"853526081",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108728709,
-    "wof:lastmodified":1529706505,
+    "wof:lastmodified":1566594987,
     "wof:name":"Itaharju",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

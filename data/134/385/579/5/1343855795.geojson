@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.00196,61.43304,24.04196,61.47304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sundinm\u00e4ki"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343855795,
-    "wof:lastmodified":1537622156,
+    "wof:lastmodified":1566594343,
     "wof:name":"Suntinmaeki",
     "wof:parent_id":907199185,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.62492,60.2965,23.66492,60.3365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_historical":[
         "Britsb\u00f6le"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1327143147,
-    "wof:lastmodified":1537622301,
+    "wof:lastmodified":1566593914,
     "wof:name":"Arpalahti",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

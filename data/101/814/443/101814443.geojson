@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000238,
-    "geom:area_square_m":1271868.873027,
+    "geom:area_square_m":1271868.873024,
     "geom:bbox":"24.076238706,64.3995491613,24.1199911003,64.4113377854",
     "geom:latitude":64.405497,
     "geom:longitude":24.099338,
     "iso:country":"FI",
     "lbl:latitude":64.407482,
     "lbl:longitude":24.099669,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.407482,
     "mps:longitude":24.099669,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ypp\u00e4ri"
     ],
     "name:rus_x_preferred":[
         "\u0418\u043f\u043f\u044f\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Upperi"
     ],
     "qs:a0":"Suomi#Finland",
@@ -39,7 +42,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":630734,
         "gp:id":575288,
-        "qs:id":928216
+        "qs_pg:id":928216
     },
     "wof:country":"FI",
     "wof:geomhash":"5ad52a4fc0f06a203f514468c409f85c",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101814443,
-    "wof:lastmodified":1529709425,
+    "wof:lastmodified":1566595243,
     "wof:name":"Ypp\u00e4ri",
     "wof:parent_id":907199655,
     "wof:placetype":"locality",

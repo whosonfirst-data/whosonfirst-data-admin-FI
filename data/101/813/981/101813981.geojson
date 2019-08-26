@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.031951,
     "lbl:longitude":24.621485,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":62.031951,
     "mps:longitude":24.621485,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "M\u00e4ntt\u00e4"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":62.029167,
     "wd:longitude":24.623611,
@@ -108,10 +111,12 @@
     "wof:concordances":{
         "gn:id":646705,
         "gp:id":569542,
-        "qs:id":1327545,
         "qs_pg:id":126508,
         "wd:id":"Q1001762",
         "wk:page":"M\u00e4ntt\u00e4"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327545
     },
     "wof:country":"FI",
     "wof:geomhash":"9fac7aeba00c6c1de8917c89b4e9b866",
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":101813981,
-    "wof:lastmodified":1563283979,
+    "wof:lastmodified":1566595256,
     "wof:name":"M\u00e4ntt\u00e4",
     "wof:parent_id":907199743,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000366,
-    "geom:area_square_m":2248285.466597,
+    "geom:area_square_m":2248285.466599,
     "geom:bbox":"24.6437866854,60.16989499,24.6764075787,60.1880036293",
     "geom:latitude":60.17805,
     "geom:longitude":24.65912,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.178298,
     "lbl:longitude":24.659442,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.178298,
     "mps:longitude":24.659442,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "reversegeo:longitude":24.659442,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729245,
         907198517,
@@ -45,7 +45,8 @@
         101748415,
         136253047,
         1108729211,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729333,
-    "wof:lastmodified":1529714740,
+    "wof:lastmodified":1566594983,
     "wof:name":"Latokaskenmaki",
     "wof:parent_id":1108729245,
     "wof:placetype":"neighbourhood",

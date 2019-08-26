@@ -9,15 +9,18 @@
     "geom:bbox":"22.6505181485,63.635042701,22.7736725037,63.73358264",
     "geom:latitude":63.681469,
     "geom:longitude":22.715068,
-    "geonames:id":"642455,656130",
+    "gn:id":"642455,656130",
     "gn:population":19238,
     "iso:country":"FI",
     "lbl:latitude":63.674485,
     "lbl:longitude":22.71102,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":63.674485,
     "mps:longitude":22.71102,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Pietarsaari"
     ],
@@ -138,7 +141,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043a\u043e\u0431\u0441\u0442\u0430\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pietasaari"
     ],
     "name:urd_x_preferred":[
@@ -164,7 +167,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85683119,
@@ -180,7 +183,6 @@
         "gn:id":656130,
         "gp:id":566126,
         "loc:id":"n82010903",
-        "qs:id":226868,
         "qs_pg:id":226868,
         "wd:id":"Q1679567",
         "wk:page":"Jakobstad"
@@ -200,7 +202,7 @@
         }
     ],
     "wof:id":101814241,
-    "wof:lastmodified":1563283930,
+    "wof:lastmodified":1566595242,
     "wof:name":"Pietarsaari",
     "wof:parent_id":907199069,
     "wof:placetype":"locality",

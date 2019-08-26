@@ -13,6 +13,8 @@
     "iso:country":"FI",
     "lbl:latitude":61.62611,
     "lbl:longitude":23.88146,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":61.487002,
     "mps:longitude":23.790636,
     "mz:hierarchy_label":1,
@@ -319,9 +321,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043c\u043f\u0435\u0440\u0435"
     ],
-    "name:unk_x_variant":[
-        "Tammerfors"
-    ],
     "name:urd_x_preferred":[
         "\u0679\u06cc\u0645\u067e\u06cc\u0631"
     ],
@@ -458,7 +457,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":61.498056,
     "wd:longitude":23.760833,
@@ -477,10 +476,12 @@
     "wof:concordances":{
         "gn:id":634963,
         "gp:id":573760,
-        "qs:id":230160,
-        "qs_pg:id":780766,
+        "qs_pg:id":230160,
         "wd:id":"Q40840",
         "wk:page":"Tampere"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":780766
     },
     "wof:country":"FI",
     "wof:geomhash":"877bae6403e837c430f04f0b3b99b9f4",
@@ -497,7 +498,7 @@
         }
     ],
     "wof:id":101748431,
-    "wof:lastmodified":1563283713,
+    "wof:lastmodified":1566595169,
     "wof:name":"Tampere",
     "wof:parent_id":907199231,
     "wof:placetype":"locality",

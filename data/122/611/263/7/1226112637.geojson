@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.23191,62.79529,21.27191,62.83529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683119,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226112637,
-    "wof:lastmodified":1536626857,
+    "wof:lastmodified":1566595826,
     "wof:name":"Haeggvik",
     "wof:parent_id":907199033,
     "wof:placetype":"locality",

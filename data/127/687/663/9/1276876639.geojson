@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.99129,60.52916,26.03129,60.56916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683067,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276876639,
-    "wof:lastmodified":1537043633,
+    "wof:lastmodified":1566594624,
     "wof:name":"Garpom",
     "wof:parent_id":907198469,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.48552,60.89498,23.52552,60.93498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683077,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260084909,
-    "wof:lastmodified":1536985097,
+    "wof:lastmodified":1566594886,
     "wof:name":"Kuuma",
     "wof:parent_id":907198951,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.874515,
     "lbl:longitude":24.208439,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.874515,
     "mps:longitude":24.208439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Soini"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":228,
     "wof:belongsto":[
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":636393,
         "gp:id":573255,
-        "qs:id":987304,
         "qs_pg:id":987304,
         "wd:id":"Q6164"
     },
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101814097,
-    "wof:lastmodified":1563283897,
+    "wof:lastmodified":1566595231,
     "wof:name":"Soini",
     "wof:parent_id":907199079,
     "wof:placetype":"locality",

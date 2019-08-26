@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.451379,
     "lbl:longitude":22.578054,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":61.451379,
     "mps:longitude":22.578054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u043a\u043e\u0438\u043d\u0435\u043d"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":165,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":652878,
         "gp:id":567368,
-        "qs:id":182898,
         "qs_pg:id":182898,
         "wd:id":"Q999298",
         "wk:page":"Kiikoinen"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101813973,
-    "wof:lastmodified":1561830291,
+    "wof:lastmodified":1566595255,
     "wof:name":"Kiikoinen",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

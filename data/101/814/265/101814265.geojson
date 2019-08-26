@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":616208.200148,
+    "geom:area_square_m":616208.200149,
     "geom:bbox":"21.7143415036,63.1811856354,21.7347234535,63.1942003024",
     "geom:latitude":63.187339,
     "geom:longitude":21.724039,
     "iso:country":"FI",
     "lbl:latitude":63.188762,
     "lbl:longitude":21.723036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.188762,
     "mps:longitude":21.723036,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjanmaa#\u00d6sterbotten",
     "qs:a1r":"0L\u00e4nsi- ja Sis\u00e4-Suomen AVI#V\u00e4stra och Inre Finlands RFV",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683119,
         102191581,
@@ -47,7 +50,6 @@
     "wof:concordances":{
         "gn:id":651048,
         "gp:id":568023,
-        "qs:id":490208,
         "qs_pg:id":490208
     },
     "wof:country":"FI",
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":101814265,
-    "wof:lastmodified":1529709678,
+    "wof:lastmodified":1566595247,
     "wof:name":"Kosk\u00f6",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

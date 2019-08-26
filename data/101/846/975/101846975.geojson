@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.520823,
     "lbl:longitude":24.671345,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":63.520823,
     "mps:longitude":24.671345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Lestij\u00e4rvi"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":216,
     "wof:belongsto":[
@@ -112,10 +115,12 @@
     "wof:concordances":{
         "gn:id":648178,
         "gp:id":569035,
-        "qs:id":1027234,
         "qs_pg:id":477923,
         "wd:id":"Q1009103",
         "wk:page":"Lestij\u00e4rvi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1027234
     },
     "wof:country":"FI",
     "wof:geomhash":"85fdd6db20d437b147e2c20dcb1a78f2",
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":101846975,
-    "wof:lastmodified":1563283775,
+    "wof:lastmodified":1566595194,
     "wof:name":"Lestij\u00e4rvi",
     "wof:parent_id":907199175,
     "wof:placetype":"locality",

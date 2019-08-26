@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.96266,60.32862,22.00266,60.36862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paavas",
         "Paavainen",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1293101803,
-    "wof:lastmodified":1537622197,
+    "wof:lastmodified":1566594582,
     "wof:name":"Paavaistenkulma",
     "wof:parent_id":907198913,
     "wof:placetype":"locality",

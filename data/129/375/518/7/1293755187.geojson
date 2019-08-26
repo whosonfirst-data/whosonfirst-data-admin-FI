@@ -25,16 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.30892,65.77901,27.34892,65.81901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saraj\u00e4rvi"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u0430\u044f\u0440\u0432\u0438"
-    ],
-    "name:und_x_variant":[
-        "Saraj\u00e4rvi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1293755187,
-    "wof:lastmodified":1537622167,
+    "wof:lastmodified":1566594590,
     "wof:name":"Sarajaervi",
     "wof:parent_id":907199499,
     "wof:placetype":"locality",

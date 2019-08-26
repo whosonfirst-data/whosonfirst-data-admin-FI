@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.809234,
     "lbl:longitude":28.498322,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.809234,
     "mps:longitude":28.498322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tuusniemi"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":209,
     "wof:belongsto":[
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":640477,
         "gp:id":574261,
-        "qs:id":221208,
-        "qs_pg:id":1329486,
+        "qs_pg:id":221208,
         "wd:id":"Q736486",
         "wk:page":"Tuusniemi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1329486
     },
     "wof:country":"FI",
     "wof:geomhash":"0aca0866f6f8f44d225454a7b1fac599",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":101814331,
-    "wof:lastmodified":1563283857,
+    "wof:lastmodified":1566595219,
     "wof:name":"Tuusniemi",
     "wof:parent_id":907199053,
     "wof:placetype":"locality",

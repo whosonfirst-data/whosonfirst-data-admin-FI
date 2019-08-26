@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.28372,63.23397,24.32372,63.27397",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Okskoski"
     ],
@@ -35,8 +39,7 @@
         "\u041e\u043a\u0441\u0430\u043a\u043e\u0441\u043a\u0438"
     ],
     "name:und_x_variant":[
-        "Oksakangas",
-        "Okskoski"
+        "Oksakangas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209384551,
-    "wof:lastmodified":1537622200,
+    "wof:lastmodified":1566594723,
     "wof:name":"Oksakoski",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

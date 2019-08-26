@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.82309,61.44504,21.86309,61.48504",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swa_x_preferred":[
         "F\u00e4viken"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260104261,
-    "wof:lastmodified":1537550113,
+    "wof:lastmodified":1566594903,
     "wof:name":"Sampola",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Stockholm",
     "iso:country":"FI",
+    "lbl:bbox":"23.63638,67.08729,23.67638,67.12729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Hietanen"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310566903,
-    "wof:lastmodified":1537622284,
+    "wof:lastmodified":1566595108,
     "wof:name":"Hietanen",
     "wof:parent_id":907199583,
     "wof:placetype":"locality",

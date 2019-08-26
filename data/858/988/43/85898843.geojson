@@ -15,6 +15,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.163631,
     "lbl:longitude":25.075544,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.162767,
     "mps:longitude":25.09356,
     "mz:hierarchy_label":1,
@@ -71,7 +72,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         890537275,
@@ -88,7 +89,6 @@
     "wof:concordances":{
         "gn:id":655661,
         "gp:id":566300,
-        "qs:id":243375,
         "qs_pg:id":243375,
         "wd:id":"Q3070542",
         "wk:page":"Jollas, Helsinki"
@@ -115,7 +115,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1563282674,
+    "wof:lastmodified":1566594463,
     "wof:name":"Jollas",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",

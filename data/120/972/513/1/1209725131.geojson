@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.26216,60.17848,24.30216,60.21848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Raivio"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1209725131,
-    "wof:lastmodified":1564101254,
+    "wof:lastmodified":1566594835,
     "wof:name":"Raivio",
     "wof:parent_id":907198709,
     "wof:placetype":"locality",

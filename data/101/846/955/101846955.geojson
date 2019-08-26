@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.523215,
     "lbl:longitude":22.530669,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":63.523215,
     "mps:longitude":22.530669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Uusikaarlepyy"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u044e\u043a\u0430\u0440\u043b\u0435\u0431\u044e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nyukarlebyu"
     ],
     "name:urd_x_preferred":[
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85683119,
@@ -141,7 +144,6 @@
     "wof:concordances":{
         "gn:id":644100,
         "gp:id":570518,
-        "qs:id":1323714,
         "qs_pg:id":1323714,
         "wd:id":"Q664599",
         "wk:page":"Nykarleby"
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":101846955,
-    "wof:lastmodified":1563283735,
+    "wof:lastmodified":1566595178,
     "wof:name":"Uusikaarlepyy",
     "wof:parent_id":907199045,
     "wof:placetype":"locality",

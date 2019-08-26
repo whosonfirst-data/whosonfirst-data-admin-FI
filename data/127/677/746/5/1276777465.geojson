@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.45136,59.91639,23.49136,59.95639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683067,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276777465,
-    "wof:lastmodified":1536680673,
+    "wof:lastmodified":1566594689,
     "wof:name":"Jomalvik",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

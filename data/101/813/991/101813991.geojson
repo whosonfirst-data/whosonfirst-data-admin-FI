@@ -9,15 +9,18 @@
     "geom:bbox":"23.6942898447,61.8584232053,23.7580095332,61.8973541794",
     "geom:latitude":61.879923,
     "geom:longitude":23.726414,
-    "geonames:id":"650013,650014",
+    "gn:id":"650013,650014",
     "gn:population":2701,
     "iso:country":"FI",
     "lbl:latitude":61.88027,
     "lbl:longitude":23.725931,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":61.880271,
     "mps:longitude":23.725932,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kuru"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":338,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":650014,
         "gp:id":568377,
-        "qs:id":968376,
         "qs_pg:id":968376,
         "wd:id":"Q1025732",
         "wk:page":"Kuru, Finland"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101813991,
-    "wof:lastmodified":1561830291,
+    "wof:lastmodified":1566595253,
     "wof:name":"Kuru",
     "wof:parent_id":907199275,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000702,
-    "geom:area_square_m":3961708.530213,
+    "geom:area_square_m":3961708.530212,
     "geom:bbox":"27.6223795368,62.8448248423,27.6837249409,62.8666445557",
     "geom:latitude":62.854654,
     "geom:longitude":27.655821,
@@ -14,6 +14,7 @@
     "kuogov:NIMI":"Jynkk\u00e4",
     "lbl:latitude":62.858159,
     "lbl:longitude":27.665579,
+    "lbl:max_zoom":18.0,
     "mps:latitude":62.858159,
     "mps:longitude":27.665579,
     "mz:hierarchy_label":1,
@@ -26,14 +27,14 @@
     "reversegeo:longitude":27.665579,
     "src:geom":"kuogov",
     "wof:belongsto":[
-        85683131,
         102191581,
         907199673,
         85633143,
         404227407,
         101748439,
         136253047,
-        1159321597
+        1159321597,
+        85683131
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1108729087,
-    "wof:lastmodified":1529708972,
+    "wof:lastmodified":1566594924,
     "wof:name":"Jynkk\u00e4",
     "wof:parent_id":101748439,
     "wof:placetype":"neighbourhood",

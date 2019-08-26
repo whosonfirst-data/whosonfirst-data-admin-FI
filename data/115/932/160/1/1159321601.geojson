@@ -30,10 +30,13 @@
     ],
     "lbl:latitude":63.528951,
     "lbl:longitude":26.724329,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":63.528951,
     "mps:longitude":26.724329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Yla-Savo"
     ],
@@ -42,7 +45,7 @@
     ],
     "src:geom":"fivgov",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683131,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1159321601,
-    "wof:lastmodified":1554325357,
+    "wof:lastmodified":1566595497,
     "wof:name":"Yla-Savo",
     "wof:parent_id":85683131,
     "wof:placetype":"county",

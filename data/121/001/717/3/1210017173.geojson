@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.90074,61.40054,21.94074,61.44054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_historical":[
         "Ragvaldsby"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1210017173,
-    "wof:lastmodified":1537550071,
+    "wof:lastmodified":1566594838,
     "wof:name":"Ravani",
     "wof:parent_id":907198905,
     "wof:placetype":"locality",

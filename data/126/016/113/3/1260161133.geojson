@@ -25,16 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"30.06943,63.40168,30.10943,63.44168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pankaj\u00e4rvi"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043d\u043a\u0430\u044f\u0440\u0432\u0438"
-    ],
-    "name:und_x_variant":[
-        "Pankaj\u00e4rvi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1260161133,
-    "wof:lastmodified":1537622194,
+    "wof:lastmodified":1566594899,
     "wof:name":"Pankajaervi",
     "wof:parent_id":907199605,
     "wof:placetype":"locality",

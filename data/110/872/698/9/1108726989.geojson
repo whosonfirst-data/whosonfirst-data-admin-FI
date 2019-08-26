@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.269146,
     "lbl:longitude":25.070902,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.269146,
     "mps:longitude":25.070902,
     "mz:hierarchy_label":1,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108726989,
-    "wof:lastmodified":1564101493,
+    "wof:lastmodified":1566595003,
     "wof:name":"Heikinlaakso",
     "wof:parent_id":1108727369,
     "wof:placetype":"neighbourhood",

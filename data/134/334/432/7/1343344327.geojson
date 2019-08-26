@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.05245,62.89627,22.09245,62.93627",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683119,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343344327,
-    "wof:lastmodified":1536914368,
+    "wof:lastmodified":1566594368,
     "wof:name":"Torstila",
     "wof:parent_id":907198989,
     "wof:placetype":"locality",

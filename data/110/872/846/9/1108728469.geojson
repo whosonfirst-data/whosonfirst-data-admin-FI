@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":61.498975,
     "lbl:longitude":23.756977,
+    "lbl:max_zoom":18.0,
     "mps:latitude":61.498975,
     "mps:longitude":23.756977,
     "mz:hierarchy_label":1,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108728469,
-    "wof:lastmodified":1561830253,
+    "wof:lastmodified":1566594984,
     "wof:name":"Tammerkoski",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":65.364259,
     "lbl:longitude":26.996281,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":65.364259,
     "mps:longitude":26.996281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Pudasj\u00e4rvi"
     ],
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":65.358333,
     "wd:longitude":27.0,
@@ -145,10 +148,12 @@
     "wof:concordances":{
         "gn:id":640803,
         "gp:id":571679,
-        "qs:id":953654,
-        "qs_pg:id":1079793,
+        "qs_pg:id":953654,
         "wd:id":"Q912952",
         "wk:page":"Pudasj\u00e4rvi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079793
     },
     "wof:country":"FI",
     "wof:geomhash":"925da0809c13059545a8743555c5a51b",
@@ -165,7 +170,7 @@
         }
     ],
     "wof:id":101814409,
-    "wof:lastmodified":1563283893,
+    "wof:lastmodified":1566595230,
     "wof:name":"Pudasj\u00e4rvi",
     "wof:parent_id":907199499,
     "wof:placetype":"locality",

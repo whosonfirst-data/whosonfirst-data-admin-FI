@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.2031,64.66576,29.2431,64.70576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tiikkajanvaara"
     ],
@@ -35,8 +39,7 @@
         "\u0420\u0438\u043a\u043a\u0430\u044f\u0432\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Tiikaja",
-        "Tiikkajanvaara"
+        "Tiikaja"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1309972349,
-    "wof:lastmodified":1537622150,
+    "wof:lastmodified":1566595269,
     "wof:name":"Tiikkajavaara",
     "wof:parent_id":907199501,
     "wof:placetype":"locality",

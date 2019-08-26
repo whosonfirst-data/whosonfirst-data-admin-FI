@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000195,
-    "geom:area_square_m":1143281.846608,
+    "geom:area_square_m":1143281.846605,
     "geom:bbox":"22.1050881804,61.745214271,22.1379374197,61.763761372",
     "geom:latitude":61.755452,
     "geom:longitude":22.12255,
     "iso:country":"FI",
     "lbl:latitude":61.757483,
     "lbl:longitude":22.128273,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.757483,
     "mps:longitude":22.128273,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Satakunta",
     "qs:a1r":"0Lounais-Suomen AVI#Sydv\u00e4stra Finlands RFV",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683095,
         102191581,
@@ -45,7 +48,7 @@
     "wof:concordances":{
         "gn:id":657476,
         "gp:id":565631,
-        "qs:id":319040
+        "qs_pg:id":319040
     },
     "wof:country":"FI",
     "wof:geomhash":"c6662b4246f66e2e2c47729802179a64",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101846821,
-    "wof:lastmodified":1529712494,
+    "wof:lastmodified":1566595179,
     "wof:name":"Honkakoski",
     "wof:parent_id":907198823,
     "wof:placetype":"locality",

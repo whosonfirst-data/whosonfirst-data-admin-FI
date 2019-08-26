@@ -19,6 +19,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.204115,
     "lbl:longitude":24.976209,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.207865,
     "mps:longitude":24.994579,
     "mz:hierarchy_label":1,
@@ -67,9 +68,6 @@
     "name:swe_x_preferred":[
         "Arabiastranden"
     ],
-    "name:unk_x_variant":[
-        "Arabianranta"
-    ],
     "name:zho_x_preferred":[
         "\u963f\u62c9\u6bd4\u963f"
     ],
@@ -104,7 +102,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1137,
     "wof:belongsto":[
         102191581,
@@ -122,7 +120,6 @@
     "wof:concordances":{
         "gn:id":6945765,
         "gp:id":25945237,
-        "qs:id":1184114,
         "qs_pg:id":1184114,
         "wd:id":"Q2655652",
         "wk:page":"Arabianranta"
@@ -149,7 +146,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1563282618,
+    "wof:lastmodified":1566594414,
     "wof:name":"Arabianranta",
     "wof:parent_id":1108727357,
     "wof:placetype":"neighbourhood",

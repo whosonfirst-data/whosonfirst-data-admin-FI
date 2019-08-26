@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.90725,61.07913,27.94725,61.11913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683103,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327318267,
-    "wof:lastmodified":1536844614,
+    "wof:lastmodified":1566593871,
     "wof:name":"Hyvaerilae",
     "wof:parent_id":907198959,
     "wof:placetype":"locality",

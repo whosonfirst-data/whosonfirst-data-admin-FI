@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.03512,62.75253,23.07512,62.79253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683113,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1193001871,
-    "wof:lastmodified":1536369662,
+    "wof:lastmodified":1566594842,
     "wof:name":"Veneskoski",
     "wof:parent_id":907199285,
     "wof:placetype":"locality",

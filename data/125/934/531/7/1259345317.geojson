@@ -25,16 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.26236,66.71005,26.30236,66.75005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nampa"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0430-\u041d\u0430\u043c\u043f\u0430"
-    ],
-    "name:und_x_variant":[
-        "Nampa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1259345317,
-    "wof:lastmodified":1537622206,
+    "wof:lastmodified":1566595780,
     "wof:name":"Ala-Nampa",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

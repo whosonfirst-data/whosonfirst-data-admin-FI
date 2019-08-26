@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.33846,60.48038,25.37846,60.52038",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Laha"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209419189,
-    "wof:lastmodified":1564097358,
+    "wof:lastmodified":1566594762,
     "wof:name":"Laha",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"22.6444393489,60.4208296716,22.7390995836,60.4885919573",
     "geom:latitude":60.454719,
     "geom:longitude":22.702444,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":10126,
+    "gn:country":"FI",
+    "gn:fcode":"PPLA3",
     "gn:population":10126,
     "iso:country":"FI",
     "lbl:latitude":60.449752,
     "lbl:longitude":22.6985,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.449751,
     "mps:longitude":22.6985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Paimio"
     ],
@@ -143,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.456944,
     "wd:longitude":22.686111,
@@ -162,12 +164,11 @@
     "wof:concordances":{
         "gn:id":643153,
         "gp:id":570874,
-        "qs:id":275162,
-        "qs_pg:id":1192630,
+        "qs_pg:id":275162,
         "wd:id":"Q1017129"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":275162
+        "qs_pg:id":1192630
     },
     "wof:country":"FI",
     "wof:geomhash":"9f33937c5c4121834b555ff28e573ffa",
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":101815363,
-    "wof:lastmodified":1563283781,
+    "wof:lastmodified":1566595195,
     "wof:name":"Paimio",
     "wof:parent_id":907199209,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":7246,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.31869,60.87488,26.35869,60.91488",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Iitti"
     ],
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":1259576551,
-    "wof:lastmodified":1564102392,
+    "wof:lastmodified":1566595758,
     "wof:name":"Iitti",
     "wof:parent_id":907198619,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.32558,60.49309,22.36558,60.53309",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Paimala"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1209922931,
-    "wof:lastmodified":1564101170,
+    "wof:lastmodified":1566594783,
     "wof:name":"Paimala",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

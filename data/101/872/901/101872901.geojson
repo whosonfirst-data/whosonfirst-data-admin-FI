@@ -9,14 +9,18 @@
     "geom:bbox":"24.150232,65.922104,24.150232,65.922104",
     "geom:latitude":65.922104,
     "geom:longitude":24.150232,
-    "geonames:id":"661360,631267",
+    "gn:id":"661360,631267",
     "iso:country":"FI",
+    "lbl:bbox":"24.130232,65.902104,24.170232,65.942104",
     "lbl:latitude":65.922104,
     "lbl:longitude":24.150232,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.922104,
     "mps:longitude":24.150233,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Vojakkala"
     ],
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":299,
     "wof:belongsto":[
         85683147,
@@ -77,7 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":564152,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q7939819"
     },
     "wof:country":"FI",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":101872901,
-    "wof:lastmodified":1563283686,
+    "wof:lastmodified":1566595160,
     "wof:name":"Vojakkala",
     "wof:parent_id":907199557,
     "wof:placetype":"locality",

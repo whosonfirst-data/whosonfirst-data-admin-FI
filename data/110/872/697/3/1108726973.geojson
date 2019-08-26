@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.155538,
     "lbl:longitude":24.938913,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.155538,
     "mps:longitude":24.938913,
     "mz:hierarchy_label":1,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108726973,
-    "wof:lastmodified":1563283441,
+    "wof:lastmodified":1566594997,
     "wof:name":"Eira",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

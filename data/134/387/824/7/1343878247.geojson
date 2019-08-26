@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.08113,60.56314,27.12113,60.60314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09b6\u09bf"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1343878247,
-    "wof:lastmodified":1564100649,
+    "wof:lastmodified":1566594393,
     "wof:name":"Rasi",
     "wof:parent_id":907199723,
     "wof:placetype":"locality",

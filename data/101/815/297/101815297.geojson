@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.122757,
     "lbl:longitude":24.435803,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":60.122757,
     "mps:longitude":24.435803,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0643\u0648\u0646\u0648\u0645\u064a"
     ],
@@ -156,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":585,
     "wof:belongsto":[
@@ -172,9 +175,11 @@
     "wof:concordances":{
         "gn:id":649630,
         "gp:id":568521,
-        "qs:id":248709,
-        "qs_pg:id":1079085,
+        "qs_pg:id":248709,
         "wd:id":"Q748092"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079085
     },
     "wof:country":"FI",
     "wof:geomhash":"817373118bcf7f3820ec362f564ac65f",
@@ -191,7 +196,7 @@
         }
     ],
     "wof:id":101815297,
-    "wof:lastmodified":1563283832,
+    "wof:lastmodified":1566595210,
     "wof:name":"Kirkkonummi",
     "wof:parent_id":907198511,
     "wof:placetype":"locality",

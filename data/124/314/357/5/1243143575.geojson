@@ -25,8 +25,12 @@
     "gn:population":2966,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.74667,63.94667,25.78667,63.98667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":1243143575,
-    "wof:lastmodified":1564102204,
+    "wof:lastmodified":1566595646,
     "wof:name":"Kaersaemaeki",
     "wof:parent_id":907199465,
     "wof:placetype":"locality",

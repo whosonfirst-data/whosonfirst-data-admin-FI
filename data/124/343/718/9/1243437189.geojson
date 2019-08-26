@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.4762,62.29665,21.5162,62.33665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "P\u00e5skmark"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1243437189,
-    "wof:lastmodified":1537550075,
+    "wof:lastmodified":1566595708,
     "wof:name":"Paskmark",
     "wof:parent_id":907198827,
     "wof:placetype":"locality",

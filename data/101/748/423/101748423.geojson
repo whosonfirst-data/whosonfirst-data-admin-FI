@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.5225,
     "lbl:longitude":26.909494,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":60.5225,
     "mps:longitude":26.909494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0643\u0627"
     ],
@@ -188,7 +191,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0442\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Svensksund"
     ],
     "name:urd_x_preferred":[
@@ -225,7 +228,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.466667,
     "wd:longitude":26.945833,
@@ -244,10 +247,12 @@
     "wof:concordances":{
         "gn:id":650946,
         "gp:id":568057,
-        "qs:id":834851,
-        "qs_pg:id":1079082,
+        "qs_pg:id":834851,
         "wd:id":"Q192155",
         "wk:page":"Kotka"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079082
     },
     "wof:country":"FI",
     "wof:geomhash":"614180838574a7325f70e2accce3816d",
@@ -264,7 +269,7 @@
         }
     ],
     "wof:id":101748423,
-    "wof:lastmodified":1563283708,
+    "wof:lastmodified":1566595168,
     "wof:name":"Kotka",
     "wof:parent_id":907198683,
     "wof:placetype":"locality",

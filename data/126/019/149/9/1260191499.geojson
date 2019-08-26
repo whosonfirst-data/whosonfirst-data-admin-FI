@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.89056,60.54056,21.93056,60.58056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683073,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260191499,
-    "wof:lastmodified":1536835837,
+    "wof:lastmodified":1566594907,
     "wof:name":"Tenhola",
     "wof:parent_id":907198919,
     "wof:placetype":"locality",

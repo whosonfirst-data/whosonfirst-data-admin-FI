@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.33433,62.59572,29.37433,62.63572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kiiessalo"
     ],
@@ -35,8 +39,7 @@
         "\u041a\u0438\u0435\u0441\u0441\u0430\u043b\u043e"
     ],
     "name:und_x_variant":[
-        "Kiijessalo",
-        "Kiiessalo"
+        "Kiijessalo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1310588187,
-    "wof:lastmodified":1537622252,
+    "wof:lastmodified":1566595113,
     "wof:name":"Kiiessalo",
     "wof:parent_id":907198863,
     "wof:placetype":"locality",

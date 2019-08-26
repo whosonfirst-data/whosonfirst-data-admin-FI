@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.20769,65.65652,29.24769,65.69652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633143
@@ -36,7 +40,7 @@
         "gn:id":653790
     },
     "wof:country":"FI",
-    "wof:geomhash":"3cec36cd4db8c83ab70fa27ee9d07cc0",
+    "wof:geomhash":"434fb7ed2ecc8cf986dd4ecffdc46105",
     "wof:hierarchy":[
         {
             "country_id":85633143,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209579085,
-    "wof:lastmodified":1536282845,
+    "wof:lastmodified":1566594777,
     "wof:name":"Karvonen",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.227690000000006,
+    29.22769000000001,
     65.67652,
-    29.227690000000006,
+    29.22769000000001,
     65.67652
 ],
   "geometry": {"coordinates":[29.22769000000001,65.67652],"type":"Point"}

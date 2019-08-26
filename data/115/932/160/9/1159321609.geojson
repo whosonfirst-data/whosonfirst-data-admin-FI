@@ -30,10 +30,13 @@
     ],
     "lbl:latitude":63.931955,
     "lbl:longitude":23.204314,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":63.931955,
     "mps:longitude":23.204314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0648\u0644\u0627"
     ],
@@ -183,7 +186,7 @@
     ],
     "src:geom":"fivgov",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683125,
         102191581,
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":1159321609,
-    "wof:lastmodified":1564102042,
+    "wof:lastmodified":1566595493,
     "wof:name":"Kokkola",
     "wof:parent_id":85683125,
     "wof:placetype":"county",

@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.670608,
     "lbl:longitude":27.522391,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.670607,
     "mps:longitude":27.522391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sonkaj\u00e4rvi"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":537,
     "wof:belongsto":[
@@ -109,10 +112,12 @@
     "wof:concordances":{
         "gn:id":636301,
         "gp:id":573293,
-        "qs:id":211001,
-        "qs_pg:id":1192671,
+        "qs_pg:id":211001,
         "wd:id":"Q1010042",
         "wk:page":"Sonkaj\u00e4rvi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1192671
     },
     "wof:country":"FI",
     "wof:geomhash":"971e59088be3841b75ef19f220d51e9a",
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":101847005,
-    "wof:lastmodified":1563283854,
+    "wof:lastmodified":1566595218,
     "wof:name":"Sonkaj\u00e4rvi",
     "wof:parent_id":907199331,
     "wof:placetype":"locality",

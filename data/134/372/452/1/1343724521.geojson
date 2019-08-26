@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.54667,67.03,27.58667,67.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Arvola"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1343724521,
-    "wof:lastmodified":1564100664,
+    "wof:lastmodified":1566594404,
     "wof:name":"Arvola",
     "wof:parent_id":907199571,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":61.491016,
     "lbl:longitude":23.725924,
+    "lbl:max_zoom":18.0,
     "mps:latitude":61.491016,
     "mps:longitude":23.725924,
     "mz:hierarchy_label":1,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1108728403,
-    "wof:lastmodified":1561830253,
+    "wof:lastmodified":1566594994,
     "wof:name":"Pyynikki",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

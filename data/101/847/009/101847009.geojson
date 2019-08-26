@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.36006,
     "lbl:longitude":27.388536,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":63.36006,
     "mps:longitude":27.388536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Lapinlahti"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":251,
     "wof:belongsto":[
@@ -127,10 +130,12 @@
     "wof:concordances":{
         "gn:id":648953,
         "gp:id":568764,
-        "qs:id":22403,
-        "qs_pg:id":1327522,
+        "qs_pg:id":22403,
         "wd:id":"Q519763",
         "wk:page":"Lapinlahti"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327522
     },
     "wof:country":"FI",
     "wof:geomhash":"8be0dd766656c0d2767c544671a2a19b",
@@ -147,7 +152,7 @@
         }
     ],
     "wof:id":101847009,
-    "wof:lastmodified":1563283844,
+    "wof:lastmodified":1566595215,
     "wof:name":"Lapinlahti",
     "wof:parent_id":907199373,
     "wof:placetype":"locality",

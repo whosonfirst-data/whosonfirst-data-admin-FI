@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.88153,61.46376,21.92153,61.50376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Sonnaes"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1260290731,
-    "wof:lastmodified":1537622156,
+    "wof:lastmodified":1566594900,
     "wof:name":"Sunniemi",
     "wof:parent_id":907198905,
     "wof:placetype":"locality",

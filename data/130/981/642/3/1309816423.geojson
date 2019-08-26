@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.57878,61.00305,21.61878,61.04305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lahdenvaino"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1309816423,
-    "wof:lastmodified":1537622229,
+    "wof:lastmodified":1566595301,
     "wof:name":"Lahdenvainio",
     "wof:parent_id":907198675,
     "wof:placetype":"locality",

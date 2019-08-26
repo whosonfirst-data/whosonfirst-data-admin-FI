@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":65.13616,
     "lbl:longitude":25.34112,
+    "lbl:max_zoom":18.0,
     "mps:latitude":65.13616,
     "mps:longitude":25.34112,
     "mz:hierarchy_label":1,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108728867,
-    "wof:lastmodified":1561830249,
+    "wof:lastmodified":1566594936,
     "wof:name":"Kello",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

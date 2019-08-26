@@ -25,8 +25,12 @@
     "gn:population":2833,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.48,62.79667,28.52,62.83667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tuusniemi"
     ],
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":1225826449,
-    "wof:lastmodified":1564102642,
+    "wof:lastmodified":1566595912,
     "wof:name":"Tuusniemi",
     "wof:parent_id":907199053,
     "wof:placetype":"locality",

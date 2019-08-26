@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.43961,62.24272,21.47961,62.28272",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "L\u00e5lby"
     ],
     "name:und_x_variant":[
-        "L\u00e5hlby",
-        "L\u00e5lby"
+        "L\u00e5hlby"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1243336603,
-    "wof:lastmodified":1537622228,
+    "wof:lastmodified":1566595664,
     "wof:name":"Lalby",
     "wof:parent_id":907198827,
     "wof:placetype":"locality",

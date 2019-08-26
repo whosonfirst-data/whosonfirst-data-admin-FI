@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.668233,
     "lbl:longitude":30.937777,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":62.668233,
     "mps:longitude":30.937777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ilomantsi"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":450,
     "wof:belongsto":[
@@ -127,10 +130,12 @@
     "wof:concordances":{
         "gn:id":656709,
         "gp:id":565966,
-        "qs:id":225394,
-        "qs_pg:id":476736,
+        "qs_pg:id":225394,
         "wd:id":"Q283599",
         "wk:page":"Ilomantsi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":476736
     },
     "wof:country":"FI",
     "wof:geomhash":"01d0389710cfa0b8633ed372e5e016c8",
@@ -147,7 +152,7 @@
         }
     ],
     "wof:id":101814371,
-    "wof:lastmodified":1563283907,
+    "wof:lastmodified":1566595235,
     "wof:name":"Ilomantsi",
     "wof:parent_id":907199525,
     "wof:placetype":"locality",

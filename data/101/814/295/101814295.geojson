@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.549243,
     "lbl:longitude":23.702324,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.549243,
     "mps:longitude":23.702324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kaustinen"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":250,
     "wof:belongsto":[
@@ -116,7 +119,6 @@
     "wof:concordances":{
         "gn:id":653482,
         "gp:id":567124,
-        "qs:id":1060491,
         "qs_pg:id":1060491,
         "wd:id":"Q1009345"
     },
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":101814295,
-    "wof:lastmodified":1563283888,
+    "wof:lastmodified":1566595228,
     "wof:name":"Kaustinen",
     "wof:parent_id":907199305,
     "wof:placetype":"locality",

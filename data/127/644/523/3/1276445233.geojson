@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.08476,60.12569,23.12476,60.16569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Gesterby"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1276445233,
-    "wof:lastmodified":1537622354,
+    "wof:lastmodified":1566594610,
     "wof:name":"Kestrikki",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

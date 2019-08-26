@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.276973,
     "lbl:longitude":25.027602,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.276973,
     "mps:longitude":25.027602,
     "mz:hierarchy_label":1,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108727213,
-    "wof:lastmodified":1564101502,
+    "wof:lastmodified":1566595013,
     "wof:name":"Tapulikaupunki",
     "wof:parent_id":1108727369,
     "wof:placetype":"neighbourhood",

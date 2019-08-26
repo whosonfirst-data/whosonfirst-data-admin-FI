@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.674076,
     "lbl:longitude":27.701672,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.674076,
     "mps:longitude":27.701672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Miehikk\u00e4l\u00e4"
     ],
@@ -86,7 +89,7 @@
     "name:tur_x_preferred":[
         "Miehikk\u00e4l\u00e4"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Michikkala"
     ],
     "name:vep_x_preferred":[
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":198,
     "wof:belongsto":[
@@ -131,10 +134,12 @@
     "wof:concordances":{
         "gn:id":646079,
         "gp:id":569779,
-        "qs:id":953625,
-        "qs_pg:id":977328,
+        "qs_pg:id":953625,
         "wd:id":"Q999203",
         "wk:page":"Miehikk\u00e4l\u00e4"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977328
     },
     "wof:country":"FI",
     "wof:geomhash":"3d544add3ef6e9ef4dc7fdff041a97af",
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":101815435,
-    "wof:lastmodified":1563283833,
+    "wof:lastmodified":1566595210,
     "wof:name":"Miehikk\u00e4l\u00e4",
     "wof:parent_id":907198737,
     "wof:placetype":"locality",

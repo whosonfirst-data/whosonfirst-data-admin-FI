@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":68.658875,
     "lbl:longitude":27.549005,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":68.658875,
     "mps:longitude":27.549005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Ivalo"
     ],
@@ -110,7 +113,7 @@
     "name:tur_x_preferred":[
         "Ivalo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kyr\u00f6"
     ],
     "name:zho_x_preferred":[
@@ -132,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":68.652686,
     "wd:longitude":27.546397,
@@ -150,7 +153,6 @@
     "wof:concordances":{
         "gn:id":656220,
         "gp:id":566096,
-        "qs:id":1336995,
         "qs_pg:id":1336995,
         "wd:id":"Q539767",
         "wk:page":"Ivalo"
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":101814511,
-    "wof:lastmodified":1563283909,
+    "wof:lastmodified":1566595236,
     "wof:name":"Ivalo",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

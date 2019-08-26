@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.3103,60.34866,25.3503,60.38866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683067,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326934517,
-    "wof:lastmodified":1536901495,
+    "wof:lastmodified":1566593901,
     "wof:name":"Savijaervi",
     "wof:parent_id":907198521,
     "wof:placetype":"locality",

@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.129905,
     "lbl:longitude":24.783056,
+    "lbl:max_zoom":15.0,
     "mps:latitude":60.129905,
     "mps:longitude":24.783056,
     "mz:hierarchy_label":1,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108729235,
-    "wof:lastmodified":1563283399,
+    "wof:lastmodified":1566594962,
     "wof:name":"Matinkyla",
     "wof:parent_id":1108729221,
     "wof:placetype":"macrohood",

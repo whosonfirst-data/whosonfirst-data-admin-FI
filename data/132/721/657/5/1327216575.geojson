@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.47654,62.24057,21.51654,62.28057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sandan"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1327216575,
-    "wof:lastmodified":1564100234,
+    "wof:lastmodified":1566593971,
     "wof:name":"Sandan",
     "wof:parent_id":907198827,
     "wof:placetype":"locality",

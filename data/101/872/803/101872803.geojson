@@ -11,12 +11,16 @@
     "geom:longitude":25.289415,
     "gn:population":3473,
     "iso:country":"FI",
+    "lbl:bbox":"25.269415,61.328942,25.309415,61.368942",
     "lbl:latitude":61.348942,
     "lbl:longitude":25.289415,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":61.348942,
     "mps:longitude":25.289416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Padasjoki"
     ],
@@ -109,7 +113,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":269,
     "wof:belongsto":[
@@ -125,9 +129,11 @@
     "wof:concordances":{
         "gn:id":642531,
         "gp:id":570837,
-        "qs:id":189494,
-        "qs_pg:id":928106,
+        "qs_pg:id":189494,
         "wd:id":"Q1025720"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":928106
     },
     "wof:country":"FI",
     "wof:geomhash":"7b7386cb57d9c26266a99f5e3a4df372",
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":101872803,
-    "wof:lastmodified":1563283691,
+    "wof:lastmodified":1566595161,
     "wof:name":"Padasjoki",
     "wof:parent_id":907198715,
     "wof:placetype":"locality",

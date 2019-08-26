@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.73456,62.59875,24.77456,62.63875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kukko"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1310281489,
-    "wof:lastmodified":1564101609,
+    "wof:lastmodified":1566595086,
     "wof:name":"Kukko",
     "wof:parent_id":907199213,
     "wof:placetype":"locality",

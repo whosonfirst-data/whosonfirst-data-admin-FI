@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.33075,
     "lbl:longitude":22.92767,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":61.33075,
     "mps:longitude":22.92767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0645\u0644\u0627"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":152,
     "wof:belongsto":[
@@ -128,10 +131,12 @@
     "wof:concordances":{
         "gn:id":632543,
         "gp:id":574595,
-        "qs:id":1027203,
         "qs_pg:id":216741,
         "wd:id":"Q996067",
         "wk:page":"Vammala"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1027203
     },
     "wof:country":"FI",
     "wof:geomhash":"1281d173ed879350af1936665f8ceeb1",
@@ -148,7 +153,7 @@
         }
     ],
     "wof:id":101815493,
-    "wof:lastmodified":1563283824,
+    "wof:lastmodified":1566595207,
     "wof:name":"Vammala",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

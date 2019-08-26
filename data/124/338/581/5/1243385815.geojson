@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.9125,61.67965,23.9525,61.71965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683099,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243385815,
-    "wof:lastmodified":1536892764,
+    "wof:lastmodified":1566595597,
     "wof:name":"Niemenkylae",
     "wof:parent_id":907199231,
     "wof:placetype":"locality",

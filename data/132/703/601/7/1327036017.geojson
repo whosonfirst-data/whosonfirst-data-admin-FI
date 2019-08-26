@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.57692,61.41556,21.61692,61.45556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Spj\u00e4lkholm"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1327036017,
-    "wof:lastmodified":1537622353,
+    "wof:lastmodified":1566593936,
     "wof:name":"Spjaelkholm",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

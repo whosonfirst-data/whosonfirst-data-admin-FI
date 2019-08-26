@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.41884,60.8545,25.45884,60.8945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683091,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1210037721,
-    "wof:lastmodified":1536385740,
+    "wof:lastmodified":1566594840,
     "wof:name":"Naesaekkae",
     "wof:parent_id":907198585,
     "wof:placetype":"locality",

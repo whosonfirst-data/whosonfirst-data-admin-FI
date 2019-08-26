@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.38012,61.67541,24.42012,61.71541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Holma"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1259681407,
-    "wof:lastmodified":1564102395,
+    "wof:lastmodified":1566595760,
     "wof:name":"Holma",
     "wof:parent_id":907199393,
     "wof:placetype":"locality",

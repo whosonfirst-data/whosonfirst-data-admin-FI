@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.263144,
     "lbl:longitude":23.446324,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.263144,
     "mps:longitude":23.446323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kisko"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":108,
     "wof:belongsto":[
@@ -91,7 +94,6 @@
     "wof:concordances":{
         "gn:id":652629,
         "gp:id":574003,
-        "qs:id":276105,
         "qs_pg:id":276105,
         "wd:id":"Q668748",
         "wk:page":"Kisko"
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101815379,
-    "wof:lastmodified":1561830279,
+    "wof:lastmodified":1566595201,
     "wof:name":"Kisko",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

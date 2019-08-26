@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000293,
-    "geom:area_square_m":1648028.580996,
+    "geom:area_square_m":1648028.580994,
     "geom:bbox":"27.6745500223,62.8973789674,27.7066273885,62.9129524467",
     "geom:latitude":62.903997,
     "geom:longitude":27.692654,
@@ -14,6 +14,7 @@
     "kuogov:NIMI":"Linnanpelto",
     "lbl:latitude":62.903644,
     "lbl:longitude":27.692886,
+    "lbl:max_zoom":18.0,
     "mps:latitude":62.903644,
     "mps:longitude":27.692886,
     "mz:hierarchy_label":1,
@@ -26,14 +27,14 @@
     "reversegeo:longitude":27.692886,
     "src:geom":"kuogov",
     "wof:belongsto":[
-        85683131,
         102191581,
         907199673,
         85633143,
         404227407,
         101748439,
         136253047,
-        1159321597
+        1159321597,
+        85683131
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1108729115,
-    "wof:lastmodified":1529708974,
+    "wof:lastmodified":1566595009,
     "wof:name":"Linnanpelto",
     "wof:parent_id":101748439,
     "wof:placetype":"neighbourhood",

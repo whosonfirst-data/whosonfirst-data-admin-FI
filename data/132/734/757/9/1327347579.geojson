@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.57466,60.09939,23.61466,60.13939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683067,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327347579,
-    "wof:lastmodified":1536803173,
+    "wof:lastmodified":1566593929,
     "wof:name":"Boele",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

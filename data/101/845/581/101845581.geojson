@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":67.480716,
     "lbl:longitude":24.904835,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":67.480716,
     "mps:longitude":24.904835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kaukonen"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -56,7 +59,7 @@
     "wof:concordances":{
         "gn:id":653577,
         "gp:id":567084,
-        "qs:id":252276,
+        "qs_pg:id":252276,
         "wd:id":"Q18681966"
     },
     "wof:country":"FI",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101845581,
-    "wof:lastmodified":1529708126,
+    "wof:lastmodified":1566595158,
     "wof:name":"Kaukonen",
     "wof:parent_id":907199565,
     "wof:placetype":"locality",

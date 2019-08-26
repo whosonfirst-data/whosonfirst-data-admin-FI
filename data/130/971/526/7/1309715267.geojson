@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.84684,60.91774,22.88684,60.95774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683073,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1309715267,
-    "wof:lastmodified":1537059050,
+    "wof:lastmodified":1566595284,
     "wof:name":"Niinijoensuu",
     "wof:parent_id":907198963,
     "wof:placetype":"locality",

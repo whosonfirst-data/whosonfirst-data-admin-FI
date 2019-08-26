@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.706269,
     "lbl:longitude":23.89391,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.706269,
     "mps:longitude":23.89391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ullava"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":101,
     "wof:belongsto":[
         85683125,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":633412,
         "gp:id":574328,
-        "qs:id":265676,
         "qs_pg:id":265676,
         "wd:id":"Q1851589",
         "wk:page":"Ullava"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101814293,
-    "wof:lastmodified":1561830286,
+    "wof:lastmodified":1566595230,
     "wof:name":"Ullava",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

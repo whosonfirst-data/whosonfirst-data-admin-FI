@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.51875,61.7533,21.55875,61.7933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_historical":[
         "G\u00f6rdb\u00f6le"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1243560741,
-    "wof:lastmodified":1537622244,
+    "wof:lastmodified":1566595659,
     "wof:name":"Koeoertilae",
     "wof:parent_id":907198797,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.65835,60.00883,23.69835,60.04883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683067,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209928403,
-    "wof:lastmodified":1536393838,
+    "wof:lastmodified":1566594784,
     "wof:name":"Finby",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

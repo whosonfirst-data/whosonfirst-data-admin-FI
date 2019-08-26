@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
-    "geom:area_square_m":151874.046721,
+    "geom:area_square_m":151874.04672,
     "geom:bbox":"24.7267096027,60.2117480236,24.7379527501,60.2150703799",
     "geom:latitude":60.213399,
     "geom:longitude":24.732261,
@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.213521,
     "lbl:longitude":24.731806,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.213521,
     "mps:longitude":24.731806,
     "mz:hierarchy_label":1,
@@ -32,7 +33,6 @@
     "reversegeo:longitude":24.731806,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729911,
         907199633,
@@ -40,7 +40,8 @@
         404227411,
         101753897,
         136253047,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1108729839,
-    "wof:lastmodified":1529714758,
+    "wof:lastmodified":1566594954,
     "wof:name":"",
     "wof:parent_id":1108729911,
     "wof:placetype":"neighbourhood",

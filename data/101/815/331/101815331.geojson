@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.802669,
     "lbl:longitude":21.420568,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.802669,
     "mps:longitude":21.420568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u064a\u0643\u0627\u0648\u0628\u0648\u0646\u0643\u064a"
     ],
@@ -155,7 +158,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0443\u0441\u0456\u043a\u0430\u0443\u043f\u0443\u043d\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Usikaupunki"
     ],
     "name:urd_x_preferred":[
@@ -186,7 +189,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.783333,
     "wd:longitude":21.416667,
@@ -205,7 +208,6 @@
     "wof:concordances":{
         "gn:id":633221,
         "gp:id":574390,
-        "qs:id":1140631,
         "qs_pg:id":1140631,
         "wd:id":"Q207295",
         "wk:page":"Uusikaupunki"
@@ -225,7 +227,7 @@
         }
     ],
     "wof:id":101815331,
-    "wof:lastmodified":1563283777,
+    "wof:lastmodified":1566595194,
     "wof:name":"Uusikaupunki",
     "wof:parent_id":907198615,
     "wof:placetype":"locality",

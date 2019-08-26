@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.232779,
     "lbl:longitude":24.997462,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.22481,
     "mps:longitude":25.001409,
     "mz:hierarchy_label":1,
@@ -46,9 +47,6 @@
     ],
     "name:swe_x_preferred":[
         "R\u00f6nninge"
-    ],
-    "name:unk_x_variant":[
-        "Pihlajisto"
     ],
     "qs:gn_adm0_cc":"FI",
     "qs:gn_fcode":"PPLX",
@@ -81,7 +79,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191581,
@@ -99,7 +97,6 @@
     "wof:concordances":{
         "gn:id":6947061,
         "gp:id":25945253,
-        "qs:id":221222,
         "qs_pg:id":221222,
         "wd:id":"Q3069705"
     },
@@ -125,7 +122,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1563282622,
+    "wof:lastmodified":1566594416,
     "wof:name":"Pihlajisto",
     "wof:parent_id":1108727359,
     "wof:placetype":"neighbourhood",

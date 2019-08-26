@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.821099,
     "lbl:longitude":22.196398,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.821099,
     "mps:longitude":22.196399,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Satakunta",
     "qs:a1r":"0Lounais-Suomen AVI#Sydv\u00e4stra Finlands RFV",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683095,
         102191581,
@@ -46,7 +49,6 @@
     "wof:concordances":{
         "gn:id":631959,
         "gp:id":574834,
-        "qs:id":1199726,
         "qs_pg:id":1199726
     },
     "wof:country":"FI",
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":101813959,
-    "wof:lastmodified":1529712496,
+    "wof:lastmodified":1566595255,
     "wof:name":"Venesj\u00e4rvi",
     "wof:parent_id":907199299,
     "wof:placetype":"locality",

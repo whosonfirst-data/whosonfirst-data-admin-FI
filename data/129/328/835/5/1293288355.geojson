@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.01252,61.39664,28.05252,61.43664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683109,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293288355,
-    "wof:lastmodified":1537071036,
+    "wof:lastmodified":1566594578,
     "wof:name":"Kauppila",
     "wof:parent_id":907198757,
     "wof:placetype":"locality",

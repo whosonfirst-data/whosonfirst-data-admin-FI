@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.431069,
     "lbl:longitude":22.252057,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.431069,
     "mps:longitude":22.252057,
     "mz:hierarchy_label":1,
@@ -30,14 +31,14 @@
     "tkugov:NIMI":"V\u00e4h\u00e4heikkil\u00e4 lounainen",
     "tkugov:PIENALUE":"853311058",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1108728537,
-    "wof:lastmodified":1529706496,
+    "wof:lastmodified":1566595000,
     "wof:name":"Vahaheikkila lounainen",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

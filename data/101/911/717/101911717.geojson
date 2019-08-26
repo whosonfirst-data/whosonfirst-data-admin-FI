@@ -14,10 +14,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.356834,
     "lbl:longitude":23.286734,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.356834,
     "mps:longitude":23.286734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0443\u0440\u043b\u0430"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":108,
     "wof:belongsto":[
@@ -91,10 +94,12 @@
     "wof:concordances":{
         "gn:id":645370,
         "gp:id":570054,
-        "qs:id":203547,
         "qs_pg:id":44529,
         "wd:id":"Q1641664",
         "wk:page":"Muurla"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":203547
     },
     "wof:country":"FI",
     "wof:geomhash":"e81fd5f05fbd55ae87da115963fe05e9",
@@ -114,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283991,
+    "wof:lastmodified":1566595261,
     "wof:name":"Muurla",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

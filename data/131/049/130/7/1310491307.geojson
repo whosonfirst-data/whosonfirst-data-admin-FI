@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.78337,61.07761,28.82337,61.11761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683103,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310491307,
-    "wof:lastmodified":1536938163,
+    "wof:lastmodified":1566595039,
     "wof:name":"Kiurula",
     "wof:parent_id":907198977,
     "wof:placetype":"locality",

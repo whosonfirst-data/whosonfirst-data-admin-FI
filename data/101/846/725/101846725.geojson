@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.780377,
     "lbl:longitude":22.924629,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.780377,
     "mps:longitude":22.924629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mellil\u00e4"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":117,
     "wof:belongsto":[
@@ -91,7 +94,6 @@
     "wof:concordances":{
         "gn:id":646220,
         "gp:id":569697,
-        "qs:id":126506,
         "qs_pg:id":126506,
         "wd:id":"Q1641630",
         "wk:page":"Mellil\u00e4"
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101846725,
-    "wof:lastmodified":1561830274,
+    "wof:lastmodified":1566595183,
     "wof:name":"Mellil\u00e4",
     "wof:parent_id":907198963,
     "wof:placetype":"locality",

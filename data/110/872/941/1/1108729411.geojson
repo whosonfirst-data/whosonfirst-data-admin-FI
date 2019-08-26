@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000359,
-    "geom:area_square_m":2202240.110259,
+    "geom:area_square_m":2202240.110258,
     "geom:bbox":"24.6902624894,60.2214651504,24.7317605963,60.239125273",
     "geom:latitude":60.230106,
     "geom:longitude":24.71245,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.231636,
     "lbl:longitude":24.715588,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.231636,
     "mps:longitude":24.715588,
     "mz:hierarchy_label":1,
@@ -39,7 +40,6 @@
     "reversegeo:longitude":24.715588,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729263,
         907198517,
@@ -48,7 +48,8 @@
         101748415,
         136253047,
         1108729223,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108729411,
-    "wof:lastmodified":1529714745,
+    "wof:lastmodified":1566594958,
     "wof:name":"Lippajarvi",
     "wof:parent_id":1108729263,
     "wof:placetype":"neighbourhood",

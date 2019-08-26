@@ -10,12 +10,16 @@
     "geom:latitude":63.139576,
     "geom:longitude":27.613096,
     "iso:country":"FI",
+    "lbl:bbox":"27.593096,63.119576,27.633096,63.159576",
     "lbl:latitude":63.139576,
     "lbl:longitude":27.613096,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.139576,
     "mps:longitude":27.613096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "P\u00f6lj\u00e4"
     ],
@@ -39,7 +43,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683131,
         102191581,
@@ -53,7 +57,6 @@
     "wof:concordances":{
         "gn:id":641105,
         "gp:id":571568,
-        "qs:id":902324,
         "qs_pg:id":902324,
         "wd:id":"Q18682493"
     },
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101872843,
-    "wof:lastmodified":1544751353,
+    "wof:lastmodified":1566595161,
     "wof:name":"P\u00f6lj\u00e4",
     "wof:parent_id":907199425,
     "wof:placetype":"locality",

@@ -15,9 +15,8 @@
     "geom:bbox":"25.4256935836,64.842475908,25.7292256443,64.948263722",
     "geom:latitude":64.898536,
     "geom:longitude":25.573408,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":15864,
+    "gn:country":"FI",
+    "gn:fcode":"ADM3",
     "gn:population":15864,
     "iso:country":"FI",
     "label:eng_x_preferred_placetype":[
@@ -31,8 +30,11 @@
     ],
     "lbl:latitude":64.892831,
     "lbl:longitude":25.585613,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Kempele"
     ],
@@ -105,7 +107,7 @@
     "name:tur_x_preferred":[
         "Kempele"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kempelen"
     ],
     "name:vie_x_preferred":[
@@ -129,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85683143,
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":907199479,
-    "wof:lastmodified":1564100373,
+    "wof:lastmodified":1566594143,
     "wof:name":"Kempele",
     "wof:parent_id":1159321529,
     "wof:placetype":"localadmin",

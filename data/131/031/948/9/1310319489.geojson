@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.76048,59.97003,23.80048,60.01003",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Basa"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1310319489,
-    "wof:lastmodified":1564101561,
+    "wof:lastmodified":1566595054,
     "wof:name":"Basa",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Orip\u00e4\u00e4 Airfield"
     ],
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":102553315,
-    "wof:lastmodified":1563282419,
+    "wof:lastmodified":1566594280,
     "wof:name":"Oripaa lentokentt\u00e4",
     "wof:parent_id":85683073,
     "wof:placetype":"campus",

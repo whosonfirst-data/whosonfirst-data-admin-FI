@@ -31,6 +31,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.210905,
     "lbl:longitude":25.095077,
+    "lbl:max_zoom":15.0,
     "mps:latitude":60.210905,
     "mps:longitude":25.095077,
     "mz:hierarchy_label":1,
@@ -70,7 +71,7 @@
     "reversegeo:longitude":25.095077,
     "src:geom":"hkigis",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":890537287,
-    "wof:lastmodified":1563284057,
+    "wof:lastmodified":1566595305,
     "wof:name":"Vartiokyla",
     "wof:parent_id":890536881,
     "wof:placetype":"macrohood",

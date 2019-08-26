@@ -19,6 +19,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.205197,
     "lbl:longitude":25.153414,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.196387,
     "mps:longitude":25.143264,
     "mz:hierarchy_label":1,
@@ -61,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0443\u0440\u0456\u043d\u043a\u043e\u043b\u0430\u0445\u0442\u0456"
     ],
-    "name:unk_x_variant":[
-        "Aurinkolahti"
-    ],
     "qs:gn_adm0_cc":"FI",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":658225,
@@ -95,7 +93,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":253,
     "wof:belongsto":[
         102191581,
@@ -113,7 +111,6 @@
     "wof:concordances":{
         "gn:id":6690942,
         "gp:id":25945259,
-        "qs:id":905119,
         "qs_pg:id":905119,
         "wd:id":"Q2871913",
         "wk:page":"Aurinkolahti"
@@ -140,7 +137,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1563282622,
+    "wof:lastmodified":1566594416,
     "wof:name":"Aurinkolahti",
     "wof:parent_id":890537281,
     "wof:placetype":"neighbourhood",

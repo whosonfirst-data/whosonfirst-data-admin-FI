@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":61.141941,
     "lbl:longitude":27.532989,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Savitaipale"
     ],
@@ -86,7 +89,7 @@
     "name:tur_x_preferred":[
         "Savitaipale"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Savitaypole"
     ],
     "name:zho_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683103,
         102191581,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":907198759,
-    "wof:lastmodified":1564100310,
+    "wof:lastmodified":1566594047,
     "wof:name":"Savitaipale",
     "wof:parent_id":1159321547,
     "wof:placetype":"localadmin",

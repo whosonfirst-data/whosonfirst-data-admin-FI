@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.00949,66.84789,28.04949,66.88789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u00e4l\u00e4aapa",
         "M\u00e4l\u00e4vaara"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1260354679,
-    "wof:lastmodified":1537622216,
+    "wof:lastmodified":1566594909,
     "wof:name":"Maelaevaara",
     "wof:parent_id":907199555,
     "wof:placetype":"locality",

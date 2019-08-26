@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.63749,61.1398,26.67749,61.1798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683081,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226362505,
-    "wof:lastmodified":1536765828,
+    "wof:lastmodified":1566595911,
     "wof:name":"Maekelae",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

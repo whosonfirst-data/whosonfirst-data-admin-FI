@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.094658,
     "lbl:longitude":24.145899,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.094658,
     "mps:longitude":24.145899,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Iittala"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":4234,
     "wof:belongsto":[
         85683077,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":656810,
         "gp:id":565923,
-        "qs:id":1263256,
         "qs_pg:id":1263256,
         "wd:id":"Q1658018",
         "wk:page":"Iittala"
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":101846761,
-    "wof:lastmodified":1563283757,
+    "wof:lastmodified":1566595188,
     "wof:name":"Iittala",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

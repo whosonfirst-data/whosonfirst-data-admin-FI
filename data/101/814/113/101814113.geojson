@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
-    "geom:area_square_m":1530780.98496,
+    "geom:area_square_m":1530780.984962,
     "geom:bbox":"21.5880152226,62.4482064786,21.6237803748,62.4649057089",
     "geom:latitude":62.457841,
     "geom:longitude":21.604195,
     "iso:country":"FI",
     "lbl:latitude":62.457446,
     "lbl:longitude":21.602433,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.457446,
     "mps:longitude":21.602433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Per\u00e4l\u00e4"
     ],
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         85683113,
@@ -50,7 +53,9 @@
     "wof:concordances":{
         "gn:id":641904,
         "gp:id":25947912,
-        "qs:id":320568,
+        "qs_pg:id":320568
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1020086
     },
     "wof:country":"FI",
@@ -68,7 +73,7 @@
         }
     ],
     "wof:id":101814113,
-    "wof:lastmodified":1529709630,
+    "wof:lastmodified":1566595252,
     "wof:name":"Per\u00e4l\u00e4",
     "wof:parent_id":907199665,
     "wof:placetype":"locality",

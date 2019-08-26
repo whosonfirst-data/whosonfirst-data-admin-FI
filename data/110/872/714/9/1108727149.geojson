@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.256034,
     "lbl:longitude":25.190067,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.256034,
     "mps:longitude":25.190067,
     "mz:hierarchy_label":1,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108727149,
-    "wof:lastmodified":1563283395,
+    "wof:lastmodified":1566594957,
     "wof:name":"Ostersundom",
     "wof:parent_id":1108727375,
     "wof:placetype":"neighbourhood",

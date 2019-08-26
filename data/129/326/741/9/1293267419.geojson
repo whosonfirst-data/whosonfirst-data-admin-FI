@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.01191,68.26019,24.05191,68.30019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ketomella"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1293267419,
-    "wof:lastmodified":1537622253,
+    "wof:lastmodified":1566594586,
     "wof:name":"Ketomella",
     "wof:parent_id":907199599,
     "wof:placetype":"locality",

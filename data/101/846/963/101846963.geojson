@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.23051,
     "lbl:longitude":21.413283,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.23051,
     "mps:longitude":21.413282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Replot"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85683119,
@@ -91,7 +94,7 @@
     "wof:concordances":{
         "gn:id":639522,
         "gp:id":572165,
-        "qs:id":1232095,
+        "qs_pg:id":1232095,
         "wd:id":"Q732856"
     },
     "wof:country":"FI",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101846963,
-    "wof:lastmodified":1563283733,
+    "wof:lastmodified":1566595178,
     "wof:name":"Raippaluoto",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

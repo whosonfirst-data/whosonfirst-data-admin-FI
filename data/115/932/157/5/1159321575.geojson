@@ -30,10 +30,13 @@
     ],
     "lbl:latitude":63.397321,
     "lbl:longitude":29.966261,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":63.397321,
     "mps:longitude":29.966261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Pielisen Karjala"
     ],
@@ -42,7 +45,7 @@
     ],
     "src:geom":"fivgov",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683133,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1159321575,
-    "wof:lastmodified":1554325350,
+    "wof:lastmodified":1566595471,
     "wof:name":"Pielisen Karjala",
     "wof:parent_id":85683133,
     "wof:placetype":"county",

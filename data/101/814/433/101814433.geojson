@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.606216,
     "lbl:longitude":25.202926,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.606216,
     "mps:longitude":25.202926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u0648\u0644\u0627"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         85683143,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":643270,
         "gp:id":570833,
-        "qs:id":382813,
         "qs_pg:id":382813,
         "wd:id":"Q3365627"
     },
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101814433,
-    "wof:lastmodified":1563283949,
+    "wof:lastmodified":1566595248,
     "wof:name":"Paavola",
     "wof:parent_id":907199705,
     "wof:placetype":"locality",

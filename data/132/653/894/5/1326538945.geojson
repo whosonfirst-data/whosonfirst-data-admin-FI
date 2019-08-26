@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.24663,60.44132,22.28663,60.48132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Raunistula porten"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1326538945,
-    "wof:lastmodified":1537622316,
+    "wof:lastmodified":1566593962,
     "wof:name":"Raunistulanportti",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":30655048.945511,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.77119,62.59385,29.77119,62.59385",
     "geom:latitude":62.59385,
     "geom:longitude":29.77119,
     "iso:country":"FI",
+    "lbl:bbox":"29.76619,62.58885,29.77619,62.59885",
     "lbl:latitude":62.59385,
     "lbl:longitude":29.77119,
+    "lbl:max_zoom":18.0,
     "mps:latitude":62.59385,
     "mps:longitude":29.77119,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:fin_x_preferred":[
-        "Niinivaara"
-    ],
-    "name:unk_x_variant":[
         "Niinivaara"
     ],
     "qs:gn_adm0_cc":"FI",
@@ -59,22 +58,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85683133,
         102191581,
         907199609,
         85633143,
         404227407,
         101748441,
         136253047,
-        1159321551
+        1159321551,
+        85683133
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7731804,
         "gp:id":570297,
-        "qs:id":1200740,
         "qs_pg:id":1200740
     },
     "wof:country":"FI",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1531932117,
+    "wof:lastmodified":1566594463,
     "wof:name":"Niinivaara",
     "wof:parent_id":101748441,
     "wof:placetype":"neighbourhood",

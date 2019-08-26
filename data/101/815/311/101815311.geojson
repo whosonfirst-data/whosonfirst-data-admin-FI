@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":59.901522,
     "lbl:longitude":23.247034,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.901522,
     "mps:longitude":23.247034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lappohja"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -59,7 +62,6 @@
     "wof:concordances":{
         "gn:id":648859,
         "gp:id":568801,
-        "qs:id":243421,
         "qs_pg:id":243421,
         "wd:id":"Q3442170"
     },
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":101815311,
-    "wof:lastmodified":1529714675,
+    "wof:lastmodified":1566595211,
     "wof:name":"Lappohja",
     "wof:parent_id":907198505,
     "wof:placetype":"locality",

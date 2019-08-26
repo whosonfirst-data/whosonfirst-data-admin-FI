@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":672451.262229,
+    "geom:area_square_m":672451.262228,
     "geom:bbox":"24.962273963,60.1886433248,24.9782037414,60.2010258288",
     "geom:latitude":60.194091,
     "geom:longitude":24.969168,
@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.193904,
     "lbl:longitude":24.969047,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.193904,
     "mps:longitude":24.969047,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727355,
         907199715,
@@ -45,7 +45,8 @@
         101748417,
         136253047,
         890536885,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1108726991,
-    "wof:lastmodified":1529714726,
+    "wof:lastmodified":1566594994,
     "wof:name":"Hermanninmaki",
     "wof:parent_id":1108727355,
     "wof:placetype":"neighbourhood",

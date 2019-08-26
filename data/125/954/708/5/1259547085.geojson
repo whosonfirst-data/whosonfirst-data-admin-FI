@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.73958,64.16592,24.77958,64.20592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683143,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259547085,
-    "wof:lastmodified":1536767880,
+    "wof:lastmodified":1566595712,
     "wof:name":"Nikkari",
     "wof:parent_id":907199517,
     "wof:placetype":"locality",

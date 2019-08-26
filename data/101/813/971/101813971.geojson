@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.552848,
     "lbl:longitude":21.628717,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.552848,
     "mps:longitude":21.628717,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_historical":[
         "Svinhamn"
     ],
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683095,
         102191581,
@@ -52,8 +55,10 @@
     "wof:concordances":{
         "gn:id":641672,
         "gp:id":571393,
-        "qs:id":1012356,
         "qs_pg:id":502875
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1012356
     },
     "wof:country":"FI",
     "wof:geomhash":"af3bc06874afd769dab1c88dbcde7f32",
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":101813971,
-    "wof:lastmodified":1529712497,
+    "wof:lastmodified":1566595254,
     "wof:name":"Pihlava",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

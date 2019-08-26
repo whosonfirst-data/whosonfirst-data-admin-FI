@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.89031,62.40031,26.93031,62.44031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683109,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242991171,
-    "wof:lastmodified":1536964793,
+    "wof:lastmodified":1566595690,
     "wof:name":"Mataramaeki",
     "wof:parent_id":907199013,
     "wof:placetype":"locality",

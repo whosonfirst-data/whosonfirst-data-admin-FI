@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.86262,61.39479,21.90262,61.43479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:isl_x_preferred":[
         "L\u00e5ngstrand"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1209949503,
-    "wof:lastmodified":1537622355,
+    "wof:lastmodified":1566594794,
     "wof:name":"Rantala",
     "wof:parent_id":907198905,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.447136,
     "lbl:longitude":26.777134,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.447137,
     "mps:longitude":26.777134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "S\u00e4r\u00e4isniemi"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683137,
         102191581,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":637720,
         "gp:id":572793,
-        "qs:id":322804,
         "qs_pg:id":322804,
         "wd:id":"Q11895753"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101847043,
-    "wof:lastmodified":1563283850,
+    "wof:lastmodified":1566595217,
     "wof:name":"S\u00e4r\u00e4isniemi",
     "wof:parent_id":907199621,
     "wof:placetype":"locality",

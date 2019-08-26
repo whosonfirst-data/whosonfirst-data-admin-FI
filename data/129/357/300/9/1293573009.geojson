@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.58206,62.30438,28.62206,62.34438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u00e4yn\u00e4tkoski",
         "S\u00e4ynelahti",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1293573009,
-    "wof:lastmodified":1537622164,
+    "wof:lastmodified":1566594531,
     "wof:name":"Saeynelahti",
     "wof:parent_id":907199027,
     "wof:placetype":"locality",

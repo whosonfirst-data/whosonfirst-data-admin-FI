@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.59144,60.27422,22.63144,60.31422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "K\u00e4rkn\u00e4s"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1243175325,
-    "wof:lastmodified":1537622259,
+    "wof:lastmodified":1566595700,
     "wof:name":"Kaerkniemi",
     "wof:parent_id":907198941,
     "wof:placetype":"locality",

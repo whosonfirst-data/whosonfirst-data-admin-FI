@@ -13,6 +13,8 @@
     "iso:country":"FI",
     "lbl:latitude":66.723327,
     "lbl:longitude":27.395747,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":66.723326,
     "mps:longitude":27.395748,
     "mz:hierarchy_label":1,
@@ -235,7 +237,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":66.716667,
     "wd:longitude":27.433333,
@@ -254,7 +256,7 @@
     "wof:concordances":{
         "gn:id":653272,
         "gp:id":567214,
-        "qs:id":265239,
+        "qs_pg:id":265239,
         "wd:id":"Q744704"
     },
     "wof:country":"FI",
@@ -272,7 +274,7 @@
         }
     ],
     "wof:id":101814517,
-    "wof:lastmodified":1563283902,
+    "wof:lastmodified":1566595233,
     "wof:name":"Kemij\u00e4rvi",
     "wof:parent_id":907199539,
     "wof:placetype":"locality",

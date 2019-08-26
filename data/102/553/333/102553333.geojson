@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Kauhava Airport"
     ],
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":102553333,
-    "wof:lastmodified":1563282421,
+    "wof:lastmodified":1566594280,
     "wof:name":"Kauhava lentokentt\u00e4",
     "wof:parent_id":85683113,
     "wof:placetype":"campus",

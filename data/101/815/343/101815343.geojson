@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.654819,
     "lbl:longitude":23.13756,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.654819,
     "mps:longitude":23.13756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Koski Tl"
     ],
@@ -120,7 +123,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":110,
     "wof:belongsto":[
         85683073,
@@ -135,7 +138,7 @@
     "wof:concordances":{
         "gn:id":651077,
         "gp:id":25946767,
-        "qs:id":1060761,
+        "qs_pg:id":1060761,
         "wd:id":"Q1017142"
     },
     "wof:country":"FI",
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101815343,
-    "wof:lastmodified":1563283839,
+    "wof:lastmodified":1566595212,
     "wof:name":"Koski",
     "wof:parent_id":907199647,
     "wof:placetype":"locality",

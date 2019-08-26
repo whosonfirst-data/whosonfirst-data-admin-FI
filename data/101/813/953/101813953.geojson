@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.877173,
     "lbl:longitude":21.82149,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":61.877173,
     "mps:longitude":21.821491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Siikainen"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":218,
     "wof:belongsto":[
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gn:id":637020,
         "gp:id":12590973,
-        "qs:id":202557,
+        "qs_pg:id":202557,
         "wd:id":"Q999264"
     },
     "wof:country":"FI",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101813953,
-    "wof:lastmodified":1563283967,
+    "wof:lastmodified":1566595252,
     "wof:name":"Siikainen",
     "wof:parent_id":907198809,
     "wof:placetype":"locality",

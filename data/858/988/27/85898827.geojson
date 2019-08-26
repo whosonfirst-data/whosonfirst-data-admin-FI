@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000618,
-    "geom:area_square_m":3481362.588922,
+    "geom:area_square_m":3481362.588926,
     "geom:bbox":"27.6401678951,62.8682604624,27.6918185861,62.8900106037",
     "geom:latitude":62.878443,
     "geom:longitude":27.669465,
@@ -14,6 +14,7 @@
     "kuogov:NIMI":"Haapaniemi",
     "lbl:latitude":62.880473,
     "lbl:longitude":27.669466,
+    "lbl:max_zoom":18.0,
     "mps:latitude":62.885935,
     "mps:longitude":27.665357,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
     ],
     "name:swe_x_preferred":[
         "Er\u00e4j\u00e4rvi"
-    ],
-    "name:unk_x_variant":[
-        "Haapaniemi"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -70,22 +68,21 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85683131,
         102191581,
         907199673,
         85633143,
         404227407,
         101748439,
         136253047,
-        1159321597
+        1159321597,
+        85683131
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":659590,
         "gp:id":564827,
-        "qs:id":1136203,
         "qs_pg:id":1136203
     },
     "wof:country":"FI",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529708979,
+    "wof:lastmodified":1566594462,
     "wof:name":"Haapaniemi",
     "wof:parent_id":101748439,
     "wof:placetype":"neighbourhood",

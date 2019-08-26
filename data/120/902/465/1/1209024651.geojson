@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.13997,61.42997,28.17997,61.46997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Niinisaari"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1209024651,
-    "wof:lastmodified":1564101196,
+    "wof:lastmodified":1566594799,
     "wof:name":"Niinisaari",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

@@ -25,16 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.32335,62.4328,27.36335,62.4728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hietakyl\u00e4"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0438\u0435\u0442\u0430\u043a\u044e\u043b\u044f"
-    ],
-    "name:und_x_variant":[
-        "Hietakyl\u00e4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1226028401,
-    "wof:lastmodified":1537622284,
+    "wof:lastmodified":1566595833,
     "wof:name":"Hietakylae",
     "wof:parent_id":907199013,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.06396,59.85961,23.10396,59.89961",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Santala"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1344071265,
-    "wof:lastmodified":1564100543,
+    "wof:lastmodified":1566594324,
     "wof:name":"Santala",
     "wof:parent_id":907198505,
     "wof:placetype":"locality",

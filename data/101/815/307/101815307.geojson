@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.048623,
     "lbl:longitude":24.00678,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.048624,
     "mps:longitude":24.00678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Inkoo"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85683067,
@@ -132,10 +135,12 @@
     "wof:concordances":{
         "gn:id":656652,
         "gp:id":565994,
-        "qs:id":226867,
-        "qs_pg:id":977276,
+        "qs_pg:id":226867,
         "wd:id":"Q986331",
         "wk:page":"Ing\u00e5"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977276
     },
     "wof:country":"FI",
     "wof:geomhash":"dc13a45a3b676e318cc210a7e47babe2",
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":101815307,
-    "wof:lastmodified":1563283776,
+    "wof:lastmodified":1566595194,
     "wof:name":"Inkoo",
     "wof:parent_id":907198509,
     "wof:placetype":"locality",

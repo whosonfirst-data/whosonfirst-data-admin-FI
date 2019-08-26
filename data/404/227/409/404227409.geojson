@@ -12,9 +12,12 @@
     "iso:country":"FI",
     "lbl:latitude":67.616229,
     "lbl:longitude":26.761877,
+    "lbl:max_zoom":7.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":3.0,
     "name:bos_x_preferred":[
         "Laponija"
     ],
@@ -80,7 +83,7 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"Aluehallintovirasto#Regionf\u00f6rvaltningsverken",
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633143,
@@ -107,7 +110,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1564101827,
+    "wof:lastmodified":1566595310,
     "wof:name":"Lapland",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.6343,63.56967,22.6743,63.60967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "N\u00e4sebacka",
         "N\u00e4sibacka"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1259553803,
-    "wof:lastmodified":1537622206,
+    "wof:lastmodified":1566595731,
     "wof:name":"Naesibacka",
     "wof:parent_id":907199161,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.12579,61.05839,26.16579,61.09839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vuelenkoski",
         "Vuolenkoski"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1343681927,
-    "wof:lastmodified":1537622131,
+    "wof:lastmodified":1566594353,
     "wof:name":"Vuolenkoski",
     "wof:parent_id":907198619,
     "wof:placetype":"locality",

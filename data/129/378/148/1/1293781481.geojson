@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.57348,61.13019,23.61348,61.17019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Taipale"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1293781481,
-    "wof:lastmodified":1564100768,
+    "wof:lastmodified":1566594521,
     "wof:name":"Taipale",
     "wof:parent_id":907199731,
     "wof:placetype":"locality",

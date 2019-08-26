@@ -9,14 +9,17 @@
     "geom:bbox":"24.1477253769,65.7964248763,24.244700037,65.8787077896",
     "geom:latitude":65.837277,
     "geom:longitude":24.182616,
-    "geonames:id":"661372,634093",
+    "gn:id":"661372,634093",
     "iso:country":"FI",
     "lbl:latitude":65.843148,
     "lbl:longitude":24.176292,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.843147,
     "mps:longitude":24.176292,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0646\u064a\u0648"
     ],
@@ -152,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0440\u043d\u0456\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nedre Torne\u00e5"
     ],
     "name:urd_x_preferred":[
@@ -177,7 +180,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -191,9 +194,11 @@
     "wof:concordances":{
         "gn:id":634093,
         "gp:id":574093,
-        "qs:id":1082948,
         "qs_pg:id":1027214,
         "wd:id":"Q214021"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1082948
     },
     "wof:country":"FI",
     "wof:geomhash":"1d1bc058cfeecef858d47f6d3da6cb93",
@@ -210,7 +215,7 @@
         }
     ],
     "wof:id":101839179,
-    "wof:lastmodified":1563283987,
+    "wof:lastmodified":1566595258,
     "wof:name":"Tornio",
     "wof:parent_id":907199557,
     "wof:placetype":"locality",

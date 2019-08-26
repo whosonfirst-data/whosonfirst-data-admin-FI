@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.430811,
     "lbl:longitude":29.359456,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.430811,
     "mps:longitude":29.359456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Simpele"
     ],
@@ -261,7 +264,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683103,
         102191581,
@@ -275,7 +278,6 @@
     "wof:concordances":{
         "gn:id":636777,
         "gp:id":573105,
-        "qs:id":1029981,
         "qs_pg:id":1029981,
         "wd:id":"Q3433979"
     },
@@ -294,7 +296,7 @@
         }
     ],
     "wof:id":101814033,
-    "wof:lastmodified":1561830289,
+    "wof:lastmodified":1566595248,
     "wof:name":"Simpele",
     "wof:parent_id":907198805,
     "wof:placetype":"locality",

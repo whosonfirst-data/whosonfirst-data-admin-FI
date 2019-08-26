@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":61.349858,
     "lbl:longitude":22.170765,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0425\u0430\u0440\u2019\u044f\u0432\u0430\u043b\u0442\u0430"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683095,
         102191581,
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":907198927,
-    "wof:lastmodified":1564100337,
+    "wof:lastmodified":1566594078,
     "wof:name":"Harjavalta",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

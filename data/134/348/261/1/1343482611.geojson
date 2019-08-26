@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.59586,61.13,25.63586,61.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vehko"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343482611,
-    "wof:lastmodified":1537622136,
+    "wof:lastmodified":1566594331,
     "wof:name":"Vehkoo",
     "wof:parent_id":907198691,
     "wof:placetype":"locality",

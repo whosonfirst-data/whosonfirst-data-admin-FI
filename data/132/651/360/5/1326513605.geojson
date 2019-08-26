@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.36761,62.75083,22.40761,62.79083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lampiskyl\u00e4",
         "Lampinen"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1326513605,
-    "wof:lastmodified":1537622228,
+    "wof:lastmodified":1566593893,
     "wof:name":"Lampiskylae",
     "wof:parent_id":907199003,
     "wof:placetype":"locality",

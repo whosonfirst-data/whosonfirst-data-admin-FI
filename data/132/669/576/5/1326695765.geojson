@@ -25,16 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.36263,67.08197,24.40263,67.12197",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pasmaj\u00e4rvi"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0441\u043c\u0430\u044f\u0440\u0432\u0438"
-    ],
-    "name:und_x_variant":[
-        "Pasmaj\u00e4rvi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1326695765,
-    "wof:lastmodified":1537622193,
+    "wof:lastmodified":1566593895,
     "wof:name":"Pasmajaervi",
     "wof:parent_id":907199583,
     "wof:placetype":"locality",

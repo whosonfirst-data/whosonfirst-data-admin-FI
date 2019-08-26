@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1004273.581756,
+    "geom:area_square_m":1004273.581755,
     "geom:bbox":"25.1457430244,60.8424870902,25.1893478734,60.8505885116",
     "geom:latitude":60.847097,
     "geom:longitude":25.166602,
     "iso:country":"FI",
     "lbl:latitude":60.847019,
     "lbl:longitude":25.159665,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.847019,
     "mps:longitude":25.159665,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lappila"
     ],
@@ -51,7 +54,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683091,
         102191581,
@@ -65,7 +68,7 @@
     "wof:concordances":{
         "gn:id":648877,
         "gp:id":568796,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"FI",
     "wof:geomhash":"1491a5fd57e66636aafe7254c98922a2",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101846803,
-    "wof:lastmodified":1529710021,
+    "wof:lastmodified":1566595181,
     "wof:name":"Lappila",
     "wof:parent_id":907198567,
     "wof:placetype":"locality",

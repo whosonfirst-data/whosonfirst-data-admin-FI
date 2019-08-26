@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.5643,60.46516,24.6043,60.50516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lepp\u00e4lampi",
         "Lepp\u00e4lammi"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1193030095,
-    "wof:lastmodified":1537622223,
+    "wof:lastmodified":1566594857,
     "wof:name":"Leppaelampi",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

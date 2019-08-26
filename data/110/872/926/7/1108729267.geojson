@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.243809,
     "lbl:longitude":24.75781,
+    "lbl:max_zoom":15.0,
     "mps:latitude":60.243809,
     "mps:longitude":24.75781,
     "mz:hierarchy_label":1,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1108729267,
-    "wof:lastmodified":1564101506,
+    "wof:lastmodified":1566595016,
     "wof:name":"Laaksolahti",
     "wof:parent_id":1108729223,
     "wof:placetype":"macrohood",

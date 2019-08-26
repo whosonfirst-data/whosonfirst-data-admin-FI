@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.135868,
     "lbl:longitude":28.401824,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":64.135868,
     "mps:longitude":28.401824,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Sotkamo"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":481,
     "wof:belongsto":[
@@ -139,10 +142,12 @@
     "wof:concordances":{
         "gn:id":630808,
         "gp:id":573334,
-        "qs:id":988711,
         "qs_pg:id":232508,
         "wd:id":"Q738472",
         "wk:page":"Sotkamo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":988711
     },
     "wof:country":"FI",
     "wof:geomhash":"c38f8f2a63d8387120130821354f374e",
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":101847053,
-    "wof:lastmodified":1563283843,
+    "wof:lastmodified":1566595215,
     "wof:name":"Sotkamo",
     "wof:parent_id":907199319,
     "wof:placetype":"locality",

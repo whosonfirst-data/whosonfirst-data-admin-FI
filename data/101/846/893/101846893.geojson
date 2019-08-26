@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.488167,
     "lbl:longitude":22.758375,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":62.488167,
     "mps:longitude":22.758375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Jalasj\u00e4rvi"
     ],
@@ -77,7 +80,7 @@
     "name:tur_x_preferred":[
         "Jalasj\u00e4rvi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yalas'yarvi"
     ],
     "name:urd_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":177,
     "wof:belongsto":[
@@ -124,9 +127,11 @@
     "wof:concordances":{
         "gn:id":656117,
         "gp:id":566131,
-        "qs:id":276268,
-        "qs_pg:id":1327463,
+        "qs_pg:id":276268,
         "wd:id":"Q5988"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327463
     },
     "wof:country":"FI",
     "wof:geomhash":"ae58e3313cb044c9a8ba8ec67a3d711e",
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":101846893,
-    "wof:lastmodified":1563283742,
+    "wof:lastmodified":1566595181,
     "wof:name":"Jalasj\u00e4rvi",
     "wof:parent_id":907199007,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.82297,61.47265,21.86297,61.51265",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "\u00c4lvstranden"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1360286087,
-    "wof:lastmodified":1537622318,
+    "wof:lastmodified":1566595144,
     "wof:name":"Isojoenranta",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

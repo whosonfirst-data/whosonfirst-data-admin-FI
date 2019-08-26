@@ -10,12 +10,16 @@
     "geom:latitude":64.08065,
     "geom:longitude":25.312309,
     "iso:country":"FI",
+    "lbl:bbox":"25.292309,64.06065,25.332309,64.10065",
     "lbl:latitude":64.08065,
     "lbl:longitude":25.312309,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.080651,
     "mps:longitude":25.31231,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjois-Pohjanmaa#Norra \u00d6sterbotten",
     "qs:a1r":"0Pohjois-Suomen AVI#Norra Finlands RFV",
@@ -33,7 +37,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":632168,
         "gp:id":574744,
-        "qs:id":38433,
         "qs_pg:id":38433
     },
     "wof:country":"FI",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101872875,
-    "wof:lastmodified":1544751369,
+    "wof:lastmodified":1566595161,
     "wof:name":"Vatjusj\u00e4rvi",
     "wof:parent_id":907199471,
     "wof:placetype":"locality",

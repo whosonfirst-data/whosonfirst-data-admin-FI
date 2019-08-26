@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.338895,
     "lbl:longitude":23.761851,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":61.338895,
     "mps:longitude":23.761851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0644\u0645\u0628\u0627\u0644\u0627"
     ],
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":404,
     "wof:belongsto":[
@@ -149,10 +152,12 @@
     "wof:concordances":{
         "gn:id":660217,
         "gp:id":568960,
-        "qs:id":1008249,
-        "qs_pg:id":1301855,
+        "qs_pg:id":1008249,
         "wd:id":"Q838821",
         "wk:page":"Lemp\u00e4\u00e4l\u00e4"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1301855
     },
     "wof:country":"FI",
     "wof:geomhash":"329049a8723a2bff2a12ca43610867e2",
@@ -169,7 +174,7 @@
         }
     ],
     "wof:id":101753049,
-    "wof:lastmodified":1563283667,
+    "wof:lastmodified":1566595154,
     "wof:name":"Lemp\u00e4\u00e4l\u00e4",
     "wof:parent_id":907199279,
     "wof:placetype":"locality",

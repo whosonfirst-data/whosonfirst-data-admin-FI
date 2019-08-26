@@ -10,12 +10,16 @@
     "geom:latitude":62.720131,
     "geom:longitude":27.56918,
     "iso:country":"FI",
+    "lbl:bbox":"27.54918,62.700131,27.58918,62.740131",
     "lbl:latitude":62.720131,
     "lbl:longitude":27.56918,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.720131,
     "mps:longitude":27.569179,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vehmasm\u00e4ki"
     ],
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         85683131,
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":632045,
         "gp:id":91935821,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q7918624"
     },
     "wof:country":"FI",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":101872855,
-    "wof:lastmodified":1544751359,
+    "wof:lastmodified":1566595165,
     "wof:name":"Vehmasm\u00e4ki",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

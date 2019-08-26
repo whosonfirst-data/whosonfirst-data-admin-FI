@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.992818,
     "lbl:longitude":21.988465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.992817,
     "mps:longitude":21.988465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hinnerjoki"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683095,
         102191581,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":657820,
         "gp:id":565503,
-        "qs:id":959545,
         "qs_pg:id":959545,
         "wd:id":"Q3432796"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101846837,
-    "wof:lastmodified":1561830277,
+    "wof:lastmodified":1566595191,
     "wof:name":"Hinnerjoki",
     "wof:parent_id":907198915,
     "wof:placetype":"locality",

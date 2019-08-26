@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.91492,61.34724,28.95492,61.38724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683103,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1210000917,
-    "wof:lastmodified":1536378814,
+    "wof:lastmodified":1566594835,
     "wof:name":"Rintakylae",
     "wof:parent_id":907198791,
     "wof:placetype":"locality",

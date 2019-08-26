@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.318867,
     "lbl:longitude":22.143816,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":61.318868,
     "mps:longitude":22.143816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Harjavalta"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":38.0,
     "wd:latitude":61.313889,
@@ -140,9 +143,11 @@
     "wof:concordances":{
         "gn:id":658751,
         "gp:id":565091,
-        "qs:id":337788,
-        "qs_pg:id":993196,
+        "qs_pg:id":337788,
         "wd:id":"Q986578"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":993196
     },
     "wof:country":"FI",
     "wof:geomhash":"5c1c317f02ec38c44cb330ca9e1c2ba3",
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":101815477,
-    "wof:lastmodified":1563283785,
+    "wof:lastmodified":1566595197,
     "wof:name":"Harjavalta",
     "wof:parent_id":907198927,
     "wof:placetype":"locality",

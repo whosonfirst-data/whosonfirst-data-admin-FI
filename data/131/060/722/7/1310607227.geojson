@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.37591,61.25654,22.41591,61.29654",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hartola",
         "Herola",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1310607227,
-    "wof:lastmodified":1537622288,
+    "wof:lastmodified":1566595116,
     "wof:name":"Harola",
     "wof:parent_id":907198937,
     "wof:placetype":"locality",

@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":63.139341,
     "lbl:longitude":25.027528,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kivijarvi"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683117,
         102191581,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":907199147,
-    "wof:lastmodified":1544224799,
+    "wof:lastmodified":1566594276,
     "wof:name":"Kivijarvi",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",

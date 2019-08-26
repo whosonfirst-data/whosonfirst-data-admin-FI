@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000217,
-    "geom:area_square_m":1322558.149377,
+    "geom:area_square_m":1322558.149378,
     "geom:bbox":"24.4715579342,60.4513475957,24.5119796473,60.4662362867",
     "geom:latitude":60.458367,
     "geom:longitude":24.491703,
     "iso:country":"FI",
     "lbl:latitude":60.45783,
     "lbl:longitude":24.493387,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.45783,
     "mps:longitude":24.493387,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Uusimaa#Nyland",
     "qs:a1r":"0Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -46,7 +49,6 @@
     "wof:concordances":{
         "gn:id":659428,
         "gp:id":564897,
-        "qs:id":1156702,
         "qs_pg:id":1156702
     },
     "wof:country":"FI",
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":101846703,
-    "wof:lastmodified":1529714677,
+    "wof:lastmodified":1566595187,
     "wof:name":"Haimoo",
     "wof:parent_id":907198595,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00036,
-    "geom:area_square_m":2203788.906917,
+    "geom:area_square_m":2203788.906918,
     "geom:bbox":"25.0924375523,60.2836066016,25.1290476724,60.2980434406",
     "geom:latitude":60.291703,
     "geom:longitude":25.10975,
@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.291456,
     "lbl:longitude":25.107614,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.291456,
     "mps:longitude":25.107614,
     "mz:hierarchy_label":1,
@@ -35,7 +36,6 @@
     "reversegeo:longitude":25.107614,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -43,7 +43,8 @@
         101748419,
         136253047,
         1108729495,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1108729525,
-    "wof:lastmodified":1529714753,
+    "wof:lastmodified":1566594927,
     "wof:name":"Ita-Hakkila",
     "wof:parent_id":1108729495,
     "wof:placetype":"neighbourhood",

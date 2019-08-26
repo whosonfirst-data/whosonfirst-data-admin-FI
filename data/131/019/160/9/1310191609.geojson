@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.28752,61.82221,26.32752,61.86221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683117,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310191609,
-    "wof:lastmodified":1536871273,
+    "wof:lastmodified":1566595090,
     "wof:name":"Mieskonmaeki",
     "wof:parent_id":907198751,
     "wof:placetype":"locality",

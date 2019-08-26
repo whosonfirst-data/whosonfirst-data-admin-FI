@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Kitee Airport"
     ],
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":102553387,
-    "wof:lastmodified":1563282421,
+    "wof:lastmodified":1566594280,
     "wof:name":"Kitee lentokentt\u00e4",
     "wof:parent_id":85683133,
     "wof:placetype":"campus",

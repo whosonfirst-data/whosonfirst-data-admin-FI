@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.87892,63.7878,22.91892,63.8278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683125,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293472059,
-    "wof:lastmodified":1536808999,
+    "wof:lastmodified":1566594517,
     "wof:name":"Langoe",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

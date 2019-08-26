@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":1062964.433873,
+    "geom:area_square_m":1062964.433874,
     "geom:bbox":"24.896337175,65.6476753392,24.9268545808,65.6614350255",
     "geom:latitude":65.655165,
     "geom:longitude":24.909582,
     "iso:country":"FI",
     "lbl:latitude":65.652991,
     "lbl:longitude":24.90727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.65299,
     "mps:longitude":24.90727,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Jimmy L\u00f3pez"
     ],
@@ -25,7 +28,7 @@
     "name:spa_x_preferred":[
         "Jimmy L\u00f3pez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Simonniemi"
     ],
     "qs:a0":"Suomi#Finland",
@@ -42,7 +45,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -56,7 +59,7 @@
     "wof:concordances":{
         "gn:id":636784,
         "gp:id":573102,
-        "qs:id":34735
+        "qs_pg:id":34735
     },
     "wof:country":"FI",
     "wof:geomhash":"393ee389fd3fb703e743192f551123e3",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101845607,
-    "wof:lastmodified":1529708128,
+    "wof:lastmodified":1566595159,
     "wof:name":"Simon kirkko",
     "wof:parent_id":907199485,
     "wof:placetype":"locality",

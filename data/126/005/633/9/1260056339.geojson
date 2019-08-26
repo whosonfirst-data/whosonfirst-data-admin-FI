@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.99776,64.21226,24.03776,64.25226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pitk\u00e4senkyl\u00e4"
     ],
@@ -34,8 +38,7 @@
         "\u041f\u0438\u0442\u043a\u044f\u0441\u0435\u043d\u043a\u044e\u043b\u044f"
     ],
     "name:und_x_variant":[
-        "Pitk\u00e4istenkyl\u00e4",
-        "Pitk\u00e4senkyl\u00e4"
+        "Pitk\u00e4istenkyl\u00e4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1260056339,
-    "wof:lastmodified":1537622186,
+    "wof:lastmodified":1566594910,
     "wof:name":"Pitkaesenkylae",
     "wof:parent_id":907199617,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.28436,60.45981,26.32436,60.49981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Torparbacken"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293214793,
-    "wof:lastmodified":1537622311,
+    "wof:lastmodified":1566594587,
     "wof:name":"Torpparinmaeki",
     "wof:parent_id":907198469,
     "wof:placetype":"locality",

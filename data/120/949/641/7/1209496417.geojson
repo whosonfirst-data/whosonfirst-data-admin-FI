@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.26581,62.67639,28.30581,62.71639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mustinlahti"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209496417,
-    "wof:lastmodified":1537622208,
+    "wof:lastmodified":1566594771,
     "wof:name":"Mustinlahti",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

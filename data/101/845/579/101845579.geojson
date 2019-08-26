@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":67.954617,
     "lbl:longitude":23.672273,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":67.954617,
     "mps:longitude":23.672273,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Muonio"
     ],
@@ -107,7 +110,7 @@
     "name:tur_x_preferred":[
         "Muonio"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muonioniska"
     ],
     "name:vie_x_preferred":[
@@ -132,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":408,
     "wof:belongsto":[
@@ -148,10 +151,12 @@
     "wof:concordances":{
         "gn:id":630855,
         "gp:id":569951,
-        "qs:id":1317350,
         "qs_pg:id":1114365,
         "wd:id":"Q302717",
         "wk:page":"Muonio"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1317350
     },
     "wof:country":"FI",
     "wof:geomhash":"a89e538bc5bc570261386ca443e0b3d7",
@@ -168,7 +173,7 @@
         }
     ],
     "wof:id":101845579,
-    "wof:lastmodified":1563283685,
+    "wof:lastmodified":1566595159,
     "wof:name":"Muonio",
     "wof:parent_id":907199587,
     "wof:placetype":"locality",

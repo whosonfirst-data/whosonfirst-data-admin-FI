@@ -31,6 +31,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.225289,
     "lbl:longitude":24.861122,
+    "lbl:max_zoom":15.0,
     "mps:latitude":60.225289,
     "mps:longitude":24.861122,
     "mz:hierarchy_label":1,
@@ -64,7 +65,7 @@
     "reversegeo:longitude":24.861122,
     "src:geom":"hkigis",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":890537259,
-    "wof:lastmodified":1563284059,
+    "wof:lastmodified":1566595306,
     "wof:name":"Pitajanmaki",
     "wof:parent_id":890536889,
     "wof:placetype":"macrohood",

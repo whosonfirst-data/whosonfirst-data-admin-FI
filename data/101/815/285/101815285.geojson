@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.386588,
     "lbl:longitude":24.743215,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.386588,
     "mps:longitude":24.743215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0648\u0643\u0627\u0644\u0627"
     ],
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":60.383333,
     "wd:longitude":24.75,
     "wd:wordcount":242,
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":652305,
         "gp:id":567550,
-        "qs:id":1032410,
         "qs_pg:id":1032410,
         "wd:id":"Q6419813",
         "wk:page":"Klaukkala"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101815285,
-    "wof:lastmodified":1563283821,
+    "wof:lastmodified":1566595206,
     "wof:name":"Klaukkala",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

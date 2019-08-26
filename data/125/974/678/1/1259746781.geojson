@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.4765,65.23006,27.5165,65.27006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pelttarinharju",
         "Pelttari"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259746781,
-    "wof:lastmodified":1537622191,
+    "wof:lastmodified":1566595782,
     "wof:name":"Pelttari",
     "wof:parent_id":907199499,
     "wof:placetype":"locality",

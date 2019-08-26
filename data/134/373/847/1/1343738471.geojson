@@ -25,16 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.64823,64.0459,24.68823,64.0859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "V\u00e4h\u00e4kangas"
     ],
     "name:rus_x_preferred":[
         "\u0412\u044f\u0445\u044f\u043a\u0430\u043d\u0433\u0430\u0441"
-    ],
-    "name:und_x_variant":[
-        "V\u00e4h\u00e4kangas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1343738471,
-    "wof:lastmodified":1537622143,
+    "wof:lastmodified":1566594391,
     "wof:name":"Vaehaekangas",
     "wof:parent_id":907199437,
     "wof:placetype":"locality",

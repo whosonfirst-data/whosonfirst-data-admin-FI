@@ -10,12 +10,16 @@
     "geom:latitude":66.638962,
     "geom:longitude":23.893076,
     "iso:country":"FI",
+    "lbl:bbox":"23.873076,66.618962,23.913076,66.658962",
     "lbl:latitude":66.638962,
     "lbl:longitude":23.893076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":66.638962,
     "mps:longitude":23.893076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Turtola"
     ],
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -59,7 +63,6 @@
     "wof:concordances":{
         "gn:id":633663,
         "gp:id":574234,
-        "qs:id":993220,
         "qs_pg:id":993220,
         "wd:id":"Q10706627"
     },
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101872895,
-    "wof:lastmodified":1561830267,
+    "wof:lastmodified":1566595161,
     "wof:name":"Turtola",
     "wof:parent_id":907199553,
     "wof:placetype":"locality",

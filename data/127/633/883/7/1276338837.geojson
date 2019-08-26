@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.98134,60.21102,25.02134,60.25102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pihlajisto"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1276338837,
-    "wof:lastmodified":1564100938,
+    "wof:lastmodified":1566594631,
     "wof:name":"Pihlajisto",
     "wof:parent_id":907199715,
     "wof:placetype":"locality",

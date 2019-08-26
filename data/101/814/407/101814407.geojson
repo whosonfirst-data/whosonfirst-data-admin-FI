@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":65.602744,
     "lbl:longitude":25.198919,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":65.602744,
     "mps:longitude":25.198919,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kuivaniemi"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":145,
     "wof:belongsto":[
@@ -94,10 +97,12 @@
     "wof:concordances":{
         "gn:id":650628,
         "gp:id":568165,
-        "qs:id":905135,
         "qs_pg:id":470711,
         "wd:id":"Q201835",
         "wk:page":"Kuivaniemi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":905135
     },
     "wof:country":"FI",
     "wof:geomhash":"942ffb33cb8162c222712bc17e6067b2",
@@ -114,7 +119,7 @@
         }
     ],
     "wof:id":101814407,
-    "wof:lastmodified":1563283895,
+    "wof:lastmodified":1566595231,
     "wof:name":"Kuivaniemi",
     "wof:parent_id":907199699,
     "wof:placetype":"locality",

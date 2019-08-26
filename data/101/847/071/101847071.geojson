@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000489,
-    "geom:area_square_m":2573347.087663,
+    "geom:area_square_m":2573347.08766,
     "geom:bbox":"24.7318021847,64.8074676294,24.7834093664,64.8289584846",
     "geom:latitude":64.816883,
     "geom:longitude":24.755698,
     "iso:country":"FI",
     "lbl:latitude":64.818613,
     "lbl:longitude":24.753157,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.818613,
     "mps:longitude":24.753157,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjois-Pohjanmaa#Norra \u00d6sterbotten",
     "qs:a1r":"0Pohjois-Suomen AVI#Norra Finlands RFV",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":653097,
         "gp:id":12590870,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"FI",
     "wof:geomhash":"ee433b2c0dbf4c4fe45d68ece354a747",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101847071,
-    "wof:lastmodified":1529709421,
+    "wof:lastmodified":1566595214,
     "wof:name":"Keskikyl\u00e4",
     "wof:parent_id":907199705,
     "wof:placetype":"locality",

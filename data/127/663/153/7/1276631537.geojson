@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.64418,65.55274,27.68418,65.59274",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naamangankyl\u00e4",
         "Naamanka"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1276631537,
-    "wof:lastmodified":1537622207,
+    "wof:lastmodified":1566594698,
     "wof:name":"Naamanka",
     "wof:parent_id":907199499,
     "wof:placetype":"locality",

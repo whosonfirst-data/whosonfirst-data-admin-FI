@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000225,
-    "geom:area_square_m":1382291.114445,
+    "geom:area_square_m":1382291.114443,
     "geom:bbox":"22.9450823194,60.2502588486,22.9744081605,60.2700612333",
     "geom:latitude":60.259999,
     "geom:longitude":22.960665,
     "iso:country":"FI",
     "lbl:latitude":60.265319,
     "lbl:longitude":22.961665,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.265319,
     "mps:longitude":22.961665,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Tyk\u00f6"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683073,
         102191581,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":634770,
         "gp:id":573844,
-        "qs:id":895165,
         "qs_pg:id":895165
     },
     "wof:country":"FI",
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":101846753,
-    "wof:lastmodified":1529706474,
+    "wof:lastmodified":1566595177,
     "wof:name":"Teijo",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

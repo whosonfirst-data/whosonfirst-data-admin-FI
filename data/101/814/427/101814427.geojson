@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.762001,
     "lbl:longitude":26.414586,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":64.762001,
     "mps:longitude":26.414586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Utaj\u00e4rvi"
     ],
@@ -83,7 +86,7 @@
     "name:tur_x_preferred":[
         "Utaj\u00e4rvi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Utayarvi"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":229,
     "wof:belongsto":[
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":633295,
         "gp:id":12590876,
-        "qs:id":1207060,
+        "qs_pg:id":1207060,
         "wd:id":"Q985447"
     },
     "wof:country":"FI",
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":101814427,
-    "wof:lastmodified":1563283937,
+    "wof:lastmodified":1566595245,
     "wof:name":"Utaj\u00e4rvi",
     "wof:parent_id":907199509,
     "wof:placetype":"locality",

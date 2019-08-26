@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.197946,
     "lbl:longitude":27.686456,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":61.197946,
     "mps:longitude":27.686456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Savitaipale"
     ],
@@ -86,7 +89,7 @@
     "name:tur_x_preferred":[
         "Savitaipale"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Savitaypole"
     ],
     "name:zho_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":197,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
     "wof:concordances":{
         "gn:id":637312,
         "gp:id":572919,
-        "qs:id":1079798,
         "qs_pg:id":1079798,
         "wd:id":"Q1025694",
         "wk:page":"Savitaipale"
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101814017,
-    "wof:lastmodified":1563283939,
+    "wof:lastmodified":1566595245,
     "wof:name":"Savitaipale",
     "wof:parent_id":907198759,
     "wof:placetype":"locality",

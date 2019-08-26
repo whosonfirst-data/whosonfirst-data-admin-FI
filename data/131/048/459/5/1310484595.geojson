@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.21675,63.15999,21.25675,63.19999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kalvholm",
         "Kalvholmarna"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310484595,
-    "wof:lastmodified":1537622263,
+    "wof:lastmodified":1566595032,
     "wof:name":"Kalvholmarna",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

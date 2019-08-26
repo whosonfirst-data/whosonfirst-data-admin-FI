@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":62.296919,
     "lbl:longitude":20.99324,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0441\u043a\u0456\u043d\u0435\u043d"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683119,
         102191581,
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":907199039,
-    "wof:lastmodified":1564100397,
+    "wof:lastmodified":1566594172,
     "wof:name":"Kaskinen",
     "wof:parent_id":1159321495,
     "wof:placetype":"localadmin",

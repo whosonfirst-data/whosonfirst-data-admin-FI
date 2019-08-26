@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.83366,63.42499,22.87366,63.46499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Marken"
     ],
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1310187927,
-    "wof:lastmodified":1564101593,
+    "wof:lastmodified":1566595075,
     "wof:name":"Marken",
     "wof:parent_id":907199045,
     "wof:placetype":"locality",

@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.20074,
     "lbl:longitude":24.930128,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.20074,
     "mps:longitude":24.930128,
     "mz:hierarchy_label":1,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1108727043,
-    "wof:lastmodified":1564101470,
+    "wof:lastmodified":1566594980,
     "wof:name":"Keski-Pasila",
     "wof:parent_id":890537255,
     "wof:placetype":"neighbourhood",

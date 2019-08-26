@@ -14,6 +14,7 @@
     "kuogov:NIMI":"Rautaniemi",
     "lbl:latitude":62.835636,
     "lbl:longitude":27.742619,
+    "lbl:max_zoom":18.0,
     "mps:latitude":62.835636,
     "mps:longitude":27.742619,
     "mz:hierarchy_label":1,
@@ -26,14 +27,14 @@
     "reversegeo:longitude":27.742619,
     "src:geom":"kuogov",
     "wof:belongsto":[
-        85683131,
         102191581,
         907199673,
         85633143,
         404227407,
         101748439,
         136253047,
-        1159321597
+        1159321597,
+        85683131
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1108729159,
-    "wof:lastmodified":1529708977,
+    "wof:lastmodified":1566594959,
     "wof:name":"Rautaniemi",
     "wof:parent_id":101748439,
     "wof:placetype":"neighbourhood",

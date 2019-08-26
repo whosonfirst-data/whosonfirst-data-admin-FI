@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.993405,
     "lbl:longitude":22.261992,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.993405,
     "mps:longitude":22.261993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Honkajoki"
     ],
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043d\u043a\u0430\u0439\u043e\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hongonjoki"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":198,
     "wof:belongsto":[
         85683095,
@@ -122,9 +125,11 @@
     "wof:concordances":{
         "gn:id":661600,
         "gp:id":565630,
-        "qs:id":7,
-        "qs_pg:id":38262,
+        "qs_pg:id":7,
         "wd:id":"Q579149"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":38262
     },
     "wof:country":"FI",
     "wof:geomhash":"9bb65d648048a5eceb4461f141b0d659",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":101813951,
-    "wof:lastmodified":1563283976,
+    "wof:lastmodified":1566595255,
     "wof:name":"Honkajoki",
     "wof:parent_id":907198873,
     "wof:placetype":"locality",

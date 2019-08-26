@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00097,
-    "geom:area_square_m":5836668.205695,
+    "geom:area_square_m":5836668.205698,
     "geom:bbox":"26.2833308338,60.8708302798,26.4013851571,60.9026719848",
     "geom:latitude":60.886941,
     "geom:longitude":26.342307,
     "iso:country":"FI",
     "lbl:latitude":60.891742,
     "lbl:longitude":26.337388,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.891743,
     "mps:longitude":26.337388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kausala"
     ],
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":97,
     "wof:belongsto":[
         85683081,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":653492,
         "gp:id":567120,
-        "qs:id":1165841,
         "qs_pg:id":1165841,
         "wd:id":"Q11870657"
     },
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":101815421,
-    "wof:lastmodified":1529707607,
+    "wof:lastmodified":1566595205,
     "wof:name":"Kausala",
     "wof:parent_id":907198619,
     "wof:placetype":"locality",

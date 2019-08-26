@@ -9,23 +9,24 @@
     "geom:bbox":"24.61667,61.01667,24.61667,61.01667",
     "geom:latitude":61.01667,
     "geom:longitude":24.61667,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FI",
+    "lbl:bbox":"24.59667,60.99667,24.63667,61.03667",
     "lbl:latitude":61.01667,
     "lbl:longitude":24.61667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kankainen"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u043a\u0430\u0439\u043d\u0435\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Kankainen"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -48,7 +49,7 @@
     "qs_pg:woe_adm0":23424812,
     "qs_pg:woe_id":29305256,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424812,
     "woe:name_adm0":"Suomi",
     "woe:name_adm1":"Uudenmaan maakunta",
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1125886525,
-    "wof:lastmodified":1529711995,
+    "wof:lastmodified":1566595379,
     "wof:name":"Karnainen",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

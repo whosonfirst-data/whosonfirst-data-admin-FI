@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.204511,
     "lbl:longitude":24.884091,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.204511,
     "mps:longitude":24.884091,
     "mz:hierarchy_label":1,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108727141,
-    "wof:lastmodified":1561830251,
+    "wof:lastmodified":1566594957,
     "wof:name":"Niemenmaki",
     "wof:parent_id":890537235,
     "wof:placetype":"neighbourhood",

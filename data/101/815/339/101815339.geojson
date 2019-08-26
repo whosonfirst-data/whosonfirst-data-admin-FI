@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.682684,
     "lbl:longitude":21.466026,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.682684,
     "mps:longitude":21.466026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lokalahti"
     ],
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Lokalax"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lokala"
     ],
     "qs:a0":"Suomi#Finland",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683073,
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":647721,
         "gp:id":569189,
-        "qs:id":490211,
         "qs_pg:id":490211,
         "wd:id":"Q3366495"
     },
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101815339,
-    "wof:lastmodified":1563283779,
+    "wof:lastmodified":1566595195,
     "wof:name":"Lokalahti",
     "wof:parent_id":907198615,
     "wof:placetype":"locality",

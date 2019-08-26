@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.92097,62.62797,24.96097,62.66797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Soijinm\u00e4ki",
         "Soidinm\u00e4ki"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293860191,
-    "wof:lastmodified":1537622159,
+    "wof:lastmodified":1566594593,
     "wof:name":"Soidinmaeki",
     "wof:parent_id":907199213,
     "wof:placetype":"locality",

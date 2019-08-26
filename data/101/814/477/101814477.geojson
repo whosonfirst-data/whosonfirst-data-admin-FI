@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.752363,
     "lbl:longitude":25.327518,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":63.752363,
     "mps:longitude":25.327518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Haapaj\u00e4rvi"
     ],
@@ -113,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0430\u043f\u0430\u044f\u0440\u0432\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khapayarvi"
     ],
     "name:urd_x_preferred":[
@@ -144,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":63.748611,
     "wd:longitude":25.318056,
@@ -163,9 +166,11 @@
     "wof:concordances":{
         "gn:id":659684,
         "gp:id":564795,
-        "qs:id":126577,
-        "qs_pg:id":322729,
+        "qs_pg:id":126577,
         "wd:id":"Q316211"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":322729
     },
     "wof:country":"FI",
     "wof:geomhash":"2d7e62fe2084c312dcde8db6db643385",
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":101814477,
-    "wof:lastmodified":1563283878,
+    "wof:lastmodified":1566595225,
     "wof:name":"Haapaj\u00e4rvi",
     "wof:parent_id":907199639,
     "wof:placetype":"locality",

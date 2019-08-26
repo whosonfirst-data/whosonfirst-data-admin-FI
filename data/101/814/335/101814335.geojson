@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.625358,
     "lbl:longitude":27.114447,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":62.625358,
     "mps:longitude":27.114447,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Suonenjoki"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":62.625,
     "wd:longitude":27.122222,
@@ -136,10 +139,12 @@
     "wof:concordances":{
         "gn:id":635595,
         "gp:id":573479,
-        "qs:id":22413,
-        "qs_pg:id":992414,
+        "qs_pg:id":22413,
         "wd:id":"Q259636",
         "wk:page":"Suonenjoki"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":992414
     },
     "wof:country":"FI",
     "wof:geomhash":"77981a9638d811080d375f3c074a6b85",
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":101814335,
-    "wof:lastmodified":1563283918,
+    "wof:lastmodified":1566595239,
     "wof:name":"Suonenjoki",
     "wof:parent_id":907198847,
     "wof:placetype":"locality",

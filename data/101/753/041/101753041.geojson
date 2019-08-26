@@ -9,14 +9,17 @@
     "geom:bbox":"25.4543000137,60.974457712,25.5632607987,61.0183922549",
     "geom:latitude":60.992171,
     "geom:longitude":25.516886,
-    "geonames:id":"657530,657531",
+    "gn:id":"657530,657531",
     "iso:country":"FI",
     "lbl:latitude":60.988466,
     "lbl:longitude":25.533752,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.988466,
     "mps:longitude":25.533751,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0648\u0644\u0627"
     ],
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":269,
     "wof:belongsto":[
         85683091,
@@ -144,7 +147,6 @@
     "wof:concordances":{
         "gn:id":657531,
         "gp:id":565611,
-        "qs:id":265234,
         "qs_pg:id":265234,
         "wd:id":"Q990578"
     },
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":101753041,
-    "wof:lastmodified":1563283666,
+    "wof:lastmodified":1566595154,
     "wof:name":"Hollola",
     "wof:parent_id":907198585,
     "wof:placetype":"locality",

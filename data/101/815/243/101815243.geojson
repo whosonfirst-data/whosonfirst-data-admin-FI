@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.526556,
     "lbl:longitude":24.760482,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.526556,
     "mps:longitude":24.760482,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u062c\u0627\u0645\u0627\u0643\u0649"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":60.525,
     "wd:longitude":24.761389,
     "wd:wordcount":226,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":640055,
         "gp:id":571949,
-        "qs:id":944842,
         "qs_pg:id":944842,
         "wd:id":"Q4349550",
         "wk:page":"Rajam\u00e4ki"
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101815243,
-    "wof:lastmodified":1561830278,
+    "wof:lastmodified":1566595197,
     "wof:name":"Rajam\u00e4ki",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

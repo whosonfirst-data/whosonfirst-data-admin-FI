@@ -9,14 +9,18 @@
     "geom:bbox":"27.88333,66.18333,27.88333,66.18333",
     "geom:latitude":66.18333,
     "geom:longitude":27.88333,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FI",
+    "lbl:bbox":"27.86333,66.16333,27.90333,66.20333",
     "lbl:latitude":66.18333,
     "lbl:longitude":27.88333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Posio"
@@ -111,9 +115,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0441\u0456\u043e"
     ],
-    "name:unk_x_variant":[
-        "Posio"
-    ],
     "name:vie_x_preferred":[
         "Posio"
     ],
@@ -139,7 +140,7 @@
     "qs_pg:woe_adm0":23424812,
     "qs_pg:woe_id":571258,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424812,
     "woe:name_adm0":"Suomi",
     "woe:name_adm1":"Lapin maakunta",
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1125766283,
-    "wof:lastmodified":1563284274,
+    "wof:lastmodified":1566595439,
     "wof:name":"Per\u00e4posio",
     "wof:parent_id":907199533,
     "wof:placetype":"locality",

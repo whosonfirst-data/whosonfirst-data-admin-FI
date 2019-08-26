@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":62.780693,
     "lbl:longitude":30.049511,
+    "lbl:min_zoom":8.0,
     "mps:latitude":62.779431,
     "mps:longitude":30.049545,
     "mz:hierarchy_label":1,
@@ -216,7 +217,7 @@
         "Landskapet Norra Karelen"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1   \u0b95\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe"
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0b95\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c30\u0c4d\u0c24\u0c4d \u0c15\u0c30\u0c47\u0c32\u0c3f\u0c2f\u0c3e"
@@ -312,7 +313,7 @@
     "qs:type":"Maakunta#Landskap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"FI-13",
     "wd:wordcount":760,
     "wof:belongsto":[
@@ -350,7 +351,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282632,
+    "wof:lastmodified":1566594422,
     "wof:name":"North Karelen",
     "wof:parent_id":404227407,
     "wof:placetype":"region",

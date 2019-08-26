@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.346015,
     "lbl:longitude":22.693576,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.346015,
     "mps:longitude":22.693576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sauvo"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":293,
     "wof:belongsto":[
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":637400,
         "gp:id":572884,
-        "qs:id":1078844,
         "qs_pg:id":126480,
         "wd:id":"Q1017136",
         "wk:page":"Sauvo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078844
     },
     "wof:country":"FI",
     "wof:geomhash":"5d17cfd0c6013f648b699880df3cdd41",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":101815375,
-    "wof:lastmodified":1563283838,
+    "wof:lastmodified":1566595212,
     "wof:name":"Sauvo",
     "wof:parent_id":907198941,
     "wof:placetype":"locality",

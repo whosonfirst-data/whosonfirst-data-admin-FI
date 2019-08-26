@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.47877,64.3394,29.51877,64.3794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Haukilahti"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1293067273,
-    "wof:lastmodified":1564100719,
+    "wof:lastmodified":1566594490,
     "wof:name":"Haukilahti",
     "wof:parent_id":907199507,
     "wof:placetype":"locality",

@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000218,
-    "geom:area_square_m":1252498.013687,
+    "geom:area_square_m":1252498.013689,
     "geom:bbox":"26.3228241594,62.2758181085,26.3620649499,62.2895273261",
     "geom:latitude":62.283209,
     "geom:longitude":26.343805,
     "iso:country":"FI",
     "lbl:latitude":62.281441,
     "lbl:longitude":26.34544,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.281441,
     "mps:longitude":26.34544,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Niemisjoki"
     ],
     "qs:a0":"Suomi#Finland",
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683117,
         102191581,
@@ -49,7 +52,9 @@
     "wof:concordances":{
         "gn:id":644796,
         "gp:id":25947827,
-        "qs:id":8,
+        "qs_pg:id":8
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":206425
     },
     "wof:country":"FI",
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":101814187,
-    "wof:lastmodified":1529706346,
+    "wof:lastmodified":1566595232,
     "wof:name":"Niemisj\u00e4rvi",
     "wof:parent_id":907198817,
     "wof:placetype":"locality",

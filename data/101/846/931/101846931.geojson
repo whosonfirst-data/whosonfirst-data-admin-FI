@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000323,
-    "geom:area_square_m":1858864.686931,
+    "geom:area_square_m":1858864.68693,
     "geom:bbox":"26.4697820786,62.2860654471,26.4973347332,62.3080388108",
     "geom:latitude":62.298318,
     "geom:longitude":26.482825,
     "iso:country":"FI",
     "lbl:latitude":62.299302,
     "lbl:longitude":26.481468,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.299302,
     "mps:longitude":26.481468,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Keski-Suomi#Mellersta Finland",
     "qs:a1r":"0L\u00e4nsi- ja Sis\u00e4-Suomen AVI#V\u00e4stra och Inre Finlands RFV",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683117,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":25947821,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"FI",
     "wof:geomhash":"3c6bcf62b507eaec3d06891d7f1e4bd0",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101846931,
-    "wof:lastmodified":1529706350,
+    "wof:lastmodified":1566595175,
     "wof:name":"Hankasalmen as.",
     "wof:parent_id":907198817,
     "wof:placetype":"locality",

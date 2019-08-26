@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.67284,64.25381,25.71284,64.29381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hyv\u00e4rinen",
         "Hyv\u00e4ril\u00e4"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343333131,
-    "wof:lastmodified":1537622277,
+    "wof:lastmodified":1566594370,
     "wof:name":"Hyvaerilae",
     "wof:parent_id":907199755,
     "wof:placetype":"locality",

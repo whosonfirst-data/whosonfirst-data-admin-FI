@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000267,
-    "geom:area_square_m":1540772.806725,
+    "geom:area_square_m":1540772.806726,
     "geom:bbox":"21.7798491916,62.1808729499,21.8189654892,62.2042282294",
     "geom:latitude":62.191137,
     "geom:longitude":21.797759,
     "iso:country":"FI",
     "lbl:latitude":62.184229,
     "lbl:longitude":21.804278,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.184229,
     "mps:longitude":21.804278,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Gamla Stor\u00e5"
     ],
@@ -31,7 +34,7 @@
     "name:swe_x_variant":[
         "Gammelby"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vanha-Ulvila"
     ],
     "qs:a0":"Suomi#Finland",
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683113,
         102191581,
@@ -64,7 +67,9 @@
     "wof:concordances":{
         "gn:id":632514,
         "gp:id":574617,
-        "qs:id":8,
+        "qs_pg:id":8
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1014162
     },
     "wof:country":"FI",
@@ -82,7 +87,7 @@
         }
     ],
     "wof:id":101814143,
-    "wof:lastmodified":1529709632,
+    "wof:lastmodified":1566595235,
     "wof:name":"Vanhakyl\u00e4",
     "wof:parent_id":907198871,
     "wof:placetype":"locality",

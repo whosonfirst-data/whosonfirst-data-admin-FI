@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.814021,
     "lbl:longitude":24.626079,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.814021,
     "mps:longitude":24.626079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u0440\u0432\u0430\u043a\u043e\u0441\u043a\u0438"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":60.814,
     "wd:longitude":24.626,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":634651,
         "gp:id":573879,
-        "qs:id":1337670,
         "qs_pg:id":1337670,
         "wd:id":"Q17524288",
         "wk:page":"Tervakoski"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101815405,
-    "wof:lastmodified":1561830281,
+    "wof:lastmodified":1566595208,
     "wof:name":"Tervakoski",
     "wof:parent_id":907199113,
     "wof:placetype":"locality",

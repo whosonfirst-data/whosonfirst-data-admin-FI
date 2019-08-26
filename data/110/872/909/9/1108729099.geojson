@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002787,
-    "geom:area_square_m":15741819.433125,
+    "geom:area_square_m":15741819.433126,
     "geom:bbox":"27.497372328,62.7915443233,27.594787718,62.8496315482",
     "geom:latitude":62.824124,
     "geom:longitude":27.540305,
@@ -14,6 +14,7 @@
     "kuogov:NIMI":"Kiviharju",
     "lbl:latitude":62.82713,
     "lbl:longitude":27.536245,
+    "lbl:max_zoom":18.0,
     "mps:latitude":62.82713,
     "mps:longitude":27.536245,
     "mz:hierarchy_label":1,
@@ -26,14 +27,14 @@
     "reversegeo:longitude":27.536245,
     "src:geom":"kuogov",
     "wof:belongsto":[
-        85683131,
         102191581,
         907199673,
         85633143,
         404227407,
         101748439,
         136253047,
-        1159321597
+        1159321597,
+        85683131
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1108729099,
-    "wof:lastmodified":1529708973,
+    "wof:lastmodified":1566594914,
     "wof:name":"Kiviharju",
     "wof:parent_id":101748439,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.02337,62.88963,22.06337,62.92963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Hoppam\u00e4ki"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293756757,
-    "wof:lastmodified":1537622326,
+    "wof:lastmodified":1566594589,
     "wof:name":"Hoppamaeki",
     "wof:parent_id":907198989,
     "wof:placetype":"locality",

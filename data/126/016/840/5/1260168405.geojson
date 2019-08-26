@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"31.10059,62.42711,31.14059,62.46711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683133,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260168405,
-    "wof:lastmodified":1536867484,
+    "wof:lastmodified":1566594898,
     "wof:name":"Mutalahti",
     "wof:parent_id":907199525,
     "wof:placetype":"locality",

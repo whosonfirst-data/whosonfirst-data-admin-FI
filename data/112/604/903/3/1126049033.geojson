@@ -9,14 +9,18 @@
     "geom:bbox":"26.2,60.85,26.2,60.85",
     "geom:latitude":60.85,
     "geom:longitude":26.2,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FI",
+    "lbl:bbox":"26.18,60.83,26.22,60.87",
     "lbl:latitude":60.85,
     "lbl:longitude":26.2,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Perheniemi"
@@ -24,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0445\u0435\u043d\u0438\u0435\u043c\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00e4rh\u00e4niemi"
     ],
     "qs_pg:aaroncc":"FI",
@@ -46,7 +50,7 @@
     "qs_pg:woe_adm0":23424812,
     "qs_pg:woe_id":571261,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424812,
     "woe:name_adm0":"Suomi",
     "woe:name_adm1":"Kymeenlaakson maakunta",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1126049033,
-    "wof:lastmodified":1529707621,
+    "wof:lastmodified":1566595362,
     "wof:name":"Perheniemi",
     "wof:parent_id":907198619,
     "wof:placetype":"locality",

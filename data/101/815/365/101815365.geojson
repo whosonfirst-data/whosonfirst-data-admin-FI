@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.438471,
     "lbl:longitude":23.042382,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.438471,
     "mps:longitude":23.042381,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Varsinais-Suomi#Egentliga Finland",
     "qs:a1r":"0Lounais-Suomen AVI#Sydv\u00e4stra Finlands RFV",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683073,
         102191581,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":646499,
         "gp:id":569612,
-        "qs:id":977318
+        "qs_pg:id":977318
     },
     "wof:country":"FI",
     "wof:geomhash":"3a5d10a45f5acd1238c8bb4523cfd568",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101815365,
-    "wof:lastmodified":1529706470,
+    "wof:lastmodified":1566595195,
     "wof:name":"M\u00e4ry",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

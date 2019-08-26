@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.895757,
     "lbl:longitude":26.970297,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.895757,
     "mps:longitude":26.970298,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0442\u0443\u043b\u0430"
     ],
@@ -65,7 +68,7 @@
     "name:swe_x_preferred":[
         "Karttula"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vapaakirkko"
     ],
     "qs:a0":"Suomi#Finland",
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":245,
     "wof:belongsto":[
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":653841,
         "gp:id":566960,
-        "qs:id":949854,
         "qs_pg:id":949854,
         "wd:id":"Q1734675",
         "wk:page":"Karttula"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101846999,
-    "wof:lastmodified":1563283734,
+    "wof:lastmodified":1566595178,
     "wof:name":"Karttula",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

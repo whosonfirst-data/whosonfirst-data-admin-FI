@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.201928,
     "lbl:longitude":23.129269,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.201928,
     "mps:longitude":23.129269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Perni\u00f6"
     ],
@@ -62,7 +65,7 @@
     "name:swe_x_preferred":[
         "Bj\u00e4rn\u00e5"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bjerno"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":113,
     "wof:belongsto":[
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":642113,
         "gp:id":571272,
-        "qs:id":492743,
         "qs_pg:id":492743,
         "wd:id":"Q1641596",
         "wk:page":"Perni\u00f6"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101815381,
-    "wof:lastmodified":1561830282,
+    "wof:lastmodified":1566595212,
     "wof:name":"Perni\u00f6",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

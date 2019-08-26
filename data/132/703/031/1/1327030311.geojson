@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.24667,61.96333,22.28667,62.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Honkajoki"
     ],
@@ -80,8 +84,7 @@
         "\u0413\u043e\u043d\u043a\u0430\u0439\u043e\u043a\u0456"
     ],
     "name:und_x_variant":[
-        "Hongonjoki",
-        "Honkajoki"
+        "Hongonjoki"
     ],
     "name:vie_x_preferred":[
         "Honkajoki"
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1327030311,
-    "wof:lastmodified":1564100176,
+    "wof:lastmodified":1566593935,
     "wof:name":"Honkajoki",
     "wof:parent_id":907198873,
     "wof:placetype":"locality",

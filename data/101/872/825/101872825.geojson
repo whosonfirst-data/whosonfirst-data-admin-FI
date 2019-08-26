@@ -10,12 +10,16 @@
     "geom:latitude":62.362,
     "geom:longitude":22.8449,
     "iso:country":"FI",
+    "lbl:bbox":"22.8249,62.342,22.8649,62.382",
     "lbl:latitude":62.362,
     "lbl:longitude":22.8449,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":62.362,
     "mps:longitude":22.8449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0633\u0643\u0627\u0648"
     ],
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":62.35,
     "wd:longitude":22.85,
@@ -64,7 +68,6 @@
     "wof:concordances":{
         "gn:id":651047,
         "gp:id":568024,
-        "qs:id":342946,
         "qs_pg:id":342946,
         "wd:id":"Q6433234",
         "wk:page":"Koskue"
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101872825,
-    "wof:lastmodified":1561830268,
+    "wof:lastmodified":1566595165,
     "wof:name":"Koskue",
     "wof:parent_id":907199007,
     "wof:placetype":"locality",

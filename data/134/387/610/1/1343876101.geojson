@@ -26,16 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.22988,60.56464,26.26988,60.60464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Heikinkyl\u00e4"
     ],
     "name:swe_x_preferred":[
-        "Hindersby"
-    ],
-    "name:und_x_variant":[
-        "Heikinkyl\u00e4",
         "Hindersby"
     ],
     "src:geom":"geonames",
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1343876101,
-    "wof:lastmodified":1537622283,
+    "wof:lastmodified":1566594392,
     "wof:name":"Hindersby",
     "wof:parent_id":907198607,
     "wof:placetype":"locality",

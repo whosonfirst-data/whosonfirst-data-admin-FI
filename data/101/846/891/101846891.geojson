@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000225,
-    "geom:area_square_m":1282260.080206,
+    "geom:area_square_m":1282260.080207,
     "geom:bbox":"24.2664001252,62.5156757871,24.3057322017,62.5357169335",
     "geom:latitude":62.52527,
     "geom:longitude":24.282993,
     "iso:country":"FI",
     "lbl:latitude":62.524784,
     "lbl:longitude":24.279715,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.524784,
     "mps:longitude":24.279715,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Lauri Ala-Myllym\u00e4ki"
     ],
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683113,
         102191581,
@@ -49,8 +52,10 @@
     "wof:concordances":{
         "gn:id":645269,
         "gp:id":25945281,
-        "qs:id":1197347,
         "qs_pg:id":1015372
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1197347
     },
     "wof:country":"FI",
     "wof:geomhash":"026b6b83b8436ab16d5e0a24e693239d",
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":101846891,
-    "wof:lastmodified":1529709634,
+    "wof:lastmodified":1566595190,
     "wof:name":"Myllym\u00e4ki",
     "wof:parent_id":907199089,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.50161,62.32109,29.54161,62.36109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oravisalo"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310382751,
-    "wof:lastmodified":1564101546,
+    "wof:lastmodified":1566595045,
     "wof:name":"Oravisalo",
     "wof:parent_id":907198891,
     "wof:placetype":"locality",

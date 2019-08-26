@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.531111,
     "lbl:longitude":29.385708,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":62.531111,
     "mps:longitude":29.385708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Liperi"
     ],
@@ -83,9 +86,6 @@
     "name:tur_x_preferred":[
         "Liperi"
     ],
-    "name:unk_x_variant":[
-        "Libelits"
-    ],
     "name:zho_x_preferred":[
         "\u5229\u4f69\u91cc"
     ],
@@ -106,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1281,
     "wof:belongsto":[
@@ -122,7 +122,6 @@
     "wof:concordances":{
         "gn:id":647851,
         "gp:id":569147,
-        "qs:id":1060502,
         "qs_pg:id":1060502,
         "wd:id":"Q608803",
         "wk:page":"Liperi"
@@ -142,7 +141,7 @@
         }
     ],
     "wof:id":101847021,
-    "wof:lastmodified":1563283851,
+    "wof:lastmodified":1566595217,
     "wof:name":"Liperi",
     "wof:parent_id":907198863,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.53268,62.88529,21.57268,62.92529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683119,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293559459,
-    "wof:lastmodified":1536683412,
+    "wof:lastmodified":1566594494,
     "wof:name":"Bertlasmossa",
     "wof:parent_id":907199043,
     "wof:placetype":"locality",

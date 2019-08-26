@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.834051,
     "lbl:longitude":25.192025,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":64.834051,
     "mps:longitude":25.192025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Lumijoki"
     ],
@@ -86,7 +89,7 @@
     "name:tur_x_preferred":[
         "Lumijoki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lymelki"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":213,
     "wof:belongsto":[
@@ -128,9 +131,11 @@
     "wof:concordances":{
         "gn:id":647303,
         "gp:id":569258,
-        "qs:id":22462,
-        "qs_pg:id":1165990,
+        "qs_pg:id":22462,
         "wd:id":"Q992376"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1165990
     },
     "wof:country":"FI",
     "wof:geomhash":"2454ec14812e442ef61619cb46e52923",
@@ -147,7 +152,7 @@
         }
     ],
     "wof:id":101847067,
-    "wof:lastmodified":1563283854,
+    "wof:lastmodified":1566595218,
     "wof:name":"Lumijoki",
     "wof:parent_id":907199537,
     "wof:placetype":"locality",

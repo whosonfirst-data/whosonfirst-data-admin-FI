@@ -9,14 +9,17 @@
     "geom:bbox":"27.6365369993,62.4390763758,27.6757735062,62.4613611954",
     "geom:latitude":62.449898,
     "geom:longitude":27.659424,
-    "geonames:id":"636226,636227",
+    "gn:id":"636226,636227",
     "iso:country":"FI",
     "lbl:latitude":62.449057,
     "lbl:longitude":27.659721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.449057,
     "mps:longitude":27.659722,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Topi Sorsakoski"
     ],
@@ -65,7 +68,7 @@
     "name:swe_x_preferred":[
         "Topi Sorsakoski"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sorsakoskentehdas"
     ],
     "qs:a0":"Suomi#Finland",
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":298,
     "wof:belongsto":[
         85683131,
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":636227,
         "gp:id":573322,
-        "qs:id":211670,
         "qs_pg:id":211670,
         "wd:id":"Q1364561"
     },
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101814339,
-    "wof:lastmodified":1563283863,
+    "wof:lastmodified":1566595221,
     "wof:name":"Sorsakoski",
     "wof:parent_id":907198899,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.290985,
     "lbl:longitude":28.822573,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":61.290985,
     "mps:longitude":28.822573,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ruokolahti"
     ],
@@ -89,7 +92,7 @@
     "name:tur_x_preferred":[
         "Ruokolahti"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ruokolakhti"
     ],
     "name:zho_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":290,
     "wof:belongsto":[
@@ -127,10 +130,12 @@
     "wof:concordances":{
         "gn:id":638802,
         "gp:id":572423,
-        "qs:id":189519,
         "qs_pg:id":38301,
         "wd:id":"Q1009622",
         "wk:page":"Ruokolahti"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":189519
     },
     "wof:country":"FI",
     "wof:geomhash":"453c7dc55c4e36c4eb2f10120200f2a7",
@@ -147,7 +152,7 @@
         }
     ],
     "wof:id":101814035,
-    "wof:lastmodified":1563283945,
+    "wof:lastmodified":1566595246,
     "wof:name":"Ruokolahti",
     "wof:parent_id":907198791,
     "wof:placetype":"locality",

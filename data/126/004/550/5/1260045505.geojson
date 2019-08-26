@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.02753,67.90798,25.06753,67.94798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hanhivaara",
         "Hanhimaa"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1260045505,
-    "wof:lastmodified":1537622290,
+    "wof:lastmodified":1566594907,
     "wof:name":"Hanhimaa",
     "wof:parent_id":907199565,
     "wof:placetype":"locality",

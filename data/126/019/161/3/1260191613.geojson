@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.04667,60.44667,22.08667,60.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tapavouri",
         "Tupavuori"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1260191613,
-    "wof:lastmodified":1537622146,
+    "wof:lastmodified":1566594905,
     "wof:name":"Tupavuori",
     "wof:parent_id":907198913,
     "wof:placetype":"locality",

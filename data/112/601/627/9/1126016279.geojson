@@ -9,19 +9,23 @@
     "geom:bbox":"21.67122,61.18232,21.67122,61.18232",
     "geom:latitude":61.18232,
     "geom:longitude":21.67122,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FI",
+    "lbl:bbox":"21.65122,61.16232,21.69122,61.20232",
     "lbl:latitude":61.18232,
     "lbl:longitude":21.67122,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:sme_x_preferred":[
         "Lappjoki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lappijoki"
     ],
     "qs_pg:aaroncc":"FI",
@@ -43,7 +47,7 @@
     "qs_pg:woe_adm0":23424812,
     "qs_pg:woe_id":568795,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424812,
     "woe:name_adm0":"Suomi",
     "woe:name_adm1":"Satakunnan maakunta",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1126016279,
-    "wof:lastmodified":1529712500,
+    "wof:lastmodified":1566595428,
     "wof:name":"Lapijoki",
     "wof:parent_id":907198669,
     "wof:placetype":"locality",

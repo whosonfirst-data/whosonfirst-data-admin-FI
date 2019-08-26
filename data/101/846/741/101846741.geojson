@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.54677,
     "lbl:longitude":21.354226,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":60.54677,
     "mps:longitude":21.354226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kustavi"
     ],
@@ -92,7 +95,7 @@
     "name:tur_x_preferred":[
         "Kustavi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gustaf"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":286,
     "wof:belongsto":[
@@ -133,7 +136,6 @@
     "wof:concordances":{
         "gn:id":649998,
         "gp:id":568385,
-        "qs:id":1060492,
         "qs_pg:id":1060492,
         "wd:id":"Q807900"
     },
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":101846741,
-    "wof:lastmodified":1563283750,
+    "wof:lastmodified":1566595185,
     "wof:name":"Kustavi",
     "wof:parent_id":907198611,
     "wof:placetype":"locality",

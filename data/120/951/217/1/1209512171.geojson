@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.84668,60.48857,26.88668,60.52857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633143
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209512171,
-    "wof:lastmodified":1536284848,
+    "wof:lastmodified":1566594798,
     "wof:name":"Kaukola",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

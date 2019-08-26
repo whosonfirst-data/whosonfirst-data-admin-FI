@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.12153,61.69542,25.16153,61.73542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Puukkoinen"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226828453,
-    "wof:lastmodified":1537622181,
+    "wof:lastmodified":1566595872,
     "wof:name":"Puukkonen",
     "wof:parent_id":907198799,
     "wof:placetype":"locality",

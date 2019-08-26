@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.24015,63.21973,28.28015,63.25973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Majalahti"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1343539603,
-    "wof:lastmodified":1537622216,
+    "wof:lastmodified":1566594292,
     "wof:name":"Majalahti",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

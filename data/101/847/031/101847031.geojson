@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.31106,
     "lbl:longitude":29.629403,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.31106,
     "mps:longitude":29.629403,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "R\u00e4\u00e4kkyl\u00e4"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":294,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
     "wof:concordances":{
         "gn:id":640271,
         "gp:id":571864,
-        "qs:id":1003341,
         "qs_pg:id":1003341,
         "wd:id":"Q674583"
     },
@@ -143,7 +145,7 @@
         }
     ],
     "wof:id":101847031,
-    "wof:lastmodified":1563283845,
+    "wof:lastmodified":1566595215,
     "wof:name":"R\u00e4\u00e4kkyl\u00e4",
     "wof:parent_id":907198891,
     "wof:placetype":"locality",

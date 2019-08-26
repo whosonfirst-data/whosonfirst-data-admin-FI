@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.83671,61.53602,25.87671,61.57602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Koivisto"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1293683795,
-    "wof:lastmodified":1564100782,
+    "wof:lastmodified":1566594530,
     "wof:name":"Koivisto",
     "wof:parent_id":907198701,
     "wof:placetype":"locality",

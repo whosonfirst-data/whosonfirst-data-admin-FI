@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.29432,64.58848,28.33432,64.62848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karpinvaara"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276725203,
-    "wof:lastmodified":1537622259,
+    "wof:lastmodified":1566594604,
     "wof:name":"Karpinvaara",
     "wof:parent_id":907199531,
     "wof:placetype":"locality",

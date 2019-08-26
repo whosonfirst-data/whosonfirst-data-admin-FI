@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":65.928475,
     "lbl:longitude":26.518541,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":65.928475,
     "mps:longitude":26.518541,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ranua"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":325,
     "wof:belongsto":[
@@ -139,10 +142,12 @@
     "wof:concordances":{
         "gn:id":639889,
         "gp:id":572013,
-        "qs:id":1008267,
         "qs_pg:id":247457,
         "wd:id":"Q485776",
         "wk:page":"Ranua"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1008267
     },
     "wof:country":"FI",
     "wof:geomhash":"7acbf96a2574d7ea8dd5808dc0885e4d",
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":101814519,
-    "wof:lastmodified":1563283904,
+    "wof:lastmodified":1566595234,
     "wof:name":"Ranua",
     "wof:parent_id":907199493,
     "wof:placetype":"locality",

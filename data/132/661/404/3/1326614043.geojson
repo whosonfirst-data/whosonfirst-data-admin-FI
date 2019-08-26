@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.08,62.24667,27.12,62.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Karjala"
     ],
@@ -41,8 +45,7 @@
         "Karjala"
     ],
     "name:und_x_variant":[
-        "Kariola",
-        "Karjala"
+        "Kariola"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1326614043,
-    "wof:lastmodified":1564100006,
+    "wof:lastmodified":1566593905,
     "wof:name":"Karjala",
     "wof:parent_id":907199013,
     "wof:placetype":"locality",

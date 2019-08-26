@@ -31,6 +31,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.199013,
     "lbl:longitude":25.038021,
+    "lbl:max_zoom":15.0,
     "mps:latitude":60.199013,
     "mps:longitude":25.038021,
     "mz:hierarchy_label":1,
@@ -69,14 +70,14 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u0442\u0442\u043e\u043d\u0456\u0435\u043c\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Herttuaniemi"
     ],
     "reversegeo:latitude":60.199013,
     "reversegeo:longitude":25.038021,
     "src:geom":"hkigis",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":890537227,
-    "wof:lastmodified":1563284056,
+    "wof:lastmodified":1566595305,
     "wof:name":"Herttoniemi",
     "wof:parent_id":890536883,
     "wof:placetype":"macrohood",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.14667,60.23,22.18667,60.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "V\u00e4stermal\u00f6",
         "Vesterm\u00e4l\u00f6",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1343665051,
-    "wof:lastmodified":1537622138,
+    "wof:lastmodified":1566594351,
     "wof:name":"Vaester Meloe",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

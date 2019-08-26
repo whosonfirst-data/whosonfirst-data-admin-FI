@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.012843,
     "lbl:longitude":22.398075,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.012844,
     "mps:longitude":22.398075,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pyh\u00e4joki"
     ],
@@ -76,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u044e\u0445\u0430\u0439\u043e\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Otajoki"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":265,
     "wof:belongsto":[
         85683095,
@@ -114,7 +117,7 @@
     "wof:concordances":{
         "gn:id":640438,
         "gp:id":571808,
-        "qs:id":1020536
+        "qs_pg:id":1020536
     },
     "wof:country":"FI",
     "wof:geomhash":"b193793449f6b86e36b494dd73af4b5e",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101846833,
-    "wof:lastmodified":1564101727,
+    "wof:lastmodified":1566595182,
     "wof:name":"Pyh\u00e4joki",
     "wof:parent_id":907198925,
     "wof:placetype":"locality",

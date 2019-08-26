@@ -10,8 +10,10 @@
     "geom:latitude":60.231884,
     "geom:longitude":24.853094,
     "iso:country":"FI",
+    "lbl:bbox":"24.8480942865,60.2268840834,24.8580942865,60.2368840834",
     "lbl:latitude":60.231884,
     "lbl:longitude":24.853094,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -42,7 +44,7 @@
     "name:swe_x_preferred":[
         "Sockenbacka"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         890537259,
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1108938451,
-    "wof:lastmodified":1563283472,
+    "wof:lastmodified":1566595022,
     "wof:name":"Pitajanmaki",
     "wof:parent_id":890537259,
     "wof:placetype":"neighbourhood",

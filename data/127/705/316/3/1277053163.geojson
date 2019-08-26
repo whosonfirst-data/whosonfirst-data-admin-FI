@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"30.33847,62.0353,30.37847,62.0753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683133,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1277053163,
-    "wof:lastmodified":1536808503,
+    "wof:lastmodified":1566594659,
     "wof:name":"Korkeakangas",
     "wof:parent_id":907198727,
     "wof:placetype":"locality",

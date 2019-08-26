@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.70601,62.87198,21.74601,62.91198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "L\u00e5ng\u00e5mine",
         "L\u00e5ng\u00e5minne"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1344040455,
-    "wof:lastmodified":1537622227,
+    "wof:lastmodified":1566594384,
     "wof:name":"Langaminne",
     "wof:parent_id":907199043,
     "wof:placetype":"locality",

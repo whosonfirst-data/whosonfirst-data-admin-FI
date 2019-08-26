@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.846824,
     "lbl:longitude":26.588819,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.846824,
     "mps:longitude":26.588819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Koria"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":76,
     "wof:belongsto":[
         85683081,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":651515,
         "gp:id":567854,
-        "qs:id":290147,
         "qs_pg:id":290147,
         "wd:id":"Q11275993"
     },
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":101815423,
-    "wof:lastmodified":1561830278,
+    "wof:lastmodified":1566595198,
     "wof:name":"Koria",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

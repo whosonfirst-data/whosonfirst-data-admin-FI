@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.182291,
     "lbl:longitude":25.140505,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.182291,
     "mps:longitude":25.140505,
     "mz:hierarchy_label":1,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1108727029,
-    "wof:lastmodified":1564101461,
+    "wof:lastmodified":1566594971,
     "wof:name":"Kallahti",
     "wof:parent_id":890537281,
     "wof:placetype":"neighbourhood",

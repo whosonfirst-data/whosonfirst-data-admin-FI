@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.04784,62.86269,29.08784,62.90269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633143
@@ -36,7 +40,7 @@
         "gn:id":638259
     },
     "wof:country":"FI",
-    "wof:geomhash":"f973ccbe99e9b6f4a4447ab7b741d021",
+    "wof:geomhash":"c9868d6e05deda590d681100ce7fab9d",
     "wof:hierarchy":[
         {
             "country_id":85633143,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209392023,
-    "wof:lastmodified":1536288428,
+    "wof:lastmodified":1566594735,
     "wof:name":"Saarivaara",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.067840000000004,
+    29.06784,
     62.88269,
-    29.067840000000004,
+    29.06784,
     62.88269
 ],
   "geometry": {"coordinates":[29.06784,62.88269],"type":"Point"}

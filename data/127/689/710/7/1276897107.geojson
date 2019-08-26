@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.45103,60.8493,23.49103,60.8893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683077,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276897107,
-    "wof:lastmodified":1537017376,
+    "wof:lastmodified":1566594618,
     "wof:name":"Jaenhijoki",
     "wof:parent_id":907198951,
     "wof:placetype":"locality",

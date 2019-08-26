@@ -25,16 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.19634,61.27795,29.23634,61.31795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Miettil\u00e4"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0435\u0442\u0442\u0438\u043b\u044f"
-    ],
-    "name:und_x_variant":[
-        "Miettil\u00e4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1276430695,
-    "wof:lastmodified":1537622211,
+    "wof:lastmodified":1566594608,
     "wof:name":"Miettilae",
     "wof:parent_id":907198805,
     "wof:placetype":"locality",

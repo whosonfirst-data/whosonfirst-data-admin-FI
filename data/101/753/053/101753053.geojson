@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.1115,
     "lbl:longitude":21.688095,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":63.1115,
     "mps:longitude":21.688095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Mustasaari"
     ],
@@ -98,7 +101,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85683119,
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gn:id":651299,
         "gp:id":25952585,
-        "qs:id":259765,
+        "qs_pg:id":259765,
         "wd:id":"Q1784789",
         "wk:page":"Korsholm"
     },
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101753053,
-    "wof:lastmodified":1563283669,
+    "wof:lastmodified":1566595154,
     "wof:name":"Mustasaari",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

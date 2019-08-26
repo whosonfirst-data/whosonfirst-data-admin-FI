@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":66.643859,
     "lbl:longitude":25.484373,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":66.643858,
     "mps:longitude":25.484373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sinett\u00e4"
     ],
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":636752,
         "gp:id":573110,
-        "qs:id":244222,
         "qs_pg:id":244222,
         "wd:id":"Q11893597"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101814509,
-    "wof:lastmodified":1563283923,
+    "wof:lastmodified":1566595240,
     "wof:name":"Sinett\u00e4",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

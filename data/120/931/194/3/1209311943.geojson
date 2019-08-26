@@ -25,16 +25,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.99425,61.94215,24.03425,61.98215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "R\u00e4minki"
     ],
     "name:fin_x_variant":[
-        "Tyrninkyl\u00e4"
-    ],
-    "name:und_x_variant":[
-        "R\u00e4minki",
         "Tyrninkyl\u00e4"
     ],
     "src:geom":"geonames",
@@ -54,7 +54,7 @@
         }
     ],
     "wof:id":1209311943,
-    "wof:lastmodified":1537622145,
+    "wof:lastmodified":1566594722,
     "wof:name":"Tyrninkylae",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

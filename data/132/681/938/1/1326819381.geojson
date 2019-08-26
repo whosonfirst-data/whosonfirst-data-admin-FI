@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.13902,61.26257,27.17902,61.30257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hietala",
         "Tommola"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1326819381,
-    "wof:lastmodified":1537622284,
+    "wof:lastmodified":1566593880,
     "wof:name":"Tommola",
     "wof:parent_id":907198721,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"23.932273434,62.8101407302,23.9607904149,62.8418455262",
     "geom:latitude":62.825508,
     "geom:longitude":23.94723,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":1924,
+    "gn:country":"FI",
+    "gn:fcode":"PPLA3",
     "gn:population":1924,
     "iso:country":"FI",
     "lbl:latitude":62.817381,
     "lbl:longitude":23.946258,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":62.817381,
     "mps:longitude":23.946258,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lehtim\u00e4ki"
     ],
@@ -89,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":119,
     "wof:belongsto":[
@@ -105,13 +107,12 @@
     "wof:concordances":{
         "gn:id":648554,
         "gp:id":25945286,
-        "qs:id":276101,
-        "qs_pg:id":1198062,
+        "qs_pg:id":276101,
         "wd:id":"Q1641563",
         "wk:page":"Lehtim\u00e4ki"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":276101
+        "qs_pg:id":1198062
     },
     "wof:country":"FI",
     "wof:geomhash":"dce2b39fea6c70e27a2d8a80be7c156f",
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":101814121,
-    "wof:lastmodified":1563283911,
+    "wof:lastmodified":1566595236,
     "wof:name":"Lehtim\u00e4ki",
     "wof:parent_id":907199105,
     "wof:placetype":"locality",

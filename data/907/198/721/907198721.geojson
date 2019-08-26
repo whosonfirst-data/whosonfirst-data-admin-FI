@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":61.396926,
     "lbl:longitude":26.738301,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mantyharju"
     ],
@@ -38,14 +41,14 @@
     "name:swe_x_preferred":[
         "M\u00e4ntyharju"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00e4ntyharja"
     ],
     "src:geom":"figov",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683109,
         102191581,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":907198721,
-    "wof:lastmodified":1544224768,
+    "wof:lastmodified":1566594079,
     "wof:name":"Mantyharju",
     "wof:parent_id":1159321539,
     "wof:placetype":"localadmin",

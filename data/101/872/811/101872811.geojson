@@ -11,12 +11,16 @@
     "geom:longitude":23.193671,
     "gn:population":2305,
     "iso:country":"FI",
+    "lbl:bbox":"23.173671,62.186978,23.213671,62.226978",
     "lbl:latitude":62.206978,
     "lbl:longitude":23.193671,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.206978,
     "mps:longitude":23.19367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kihni\u00f6"
     ],
@@ -103,7 +107,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":240,
     "wof:belongsto":[
@@ -119,9 +123,11 @@
     "wof:concordances":{
         "gn:id":652896,
         "gp:id":567355,
-        "qs:id":896233,
-        "qs_pg:id":1078678,
+        "qs_pg:id":896233,
         "wd:id":"Q990563"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078678
     },
     "wof:country":"FI",
     "wof:geomhash":"ef651ad18ab252f42c5f9689d1058061",
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":101872811,
-    "wof:lastmodified":1563283687,
+    "wof:lastmodified":1566595160,
     "wof:name":"Kihni\u00f6",
     "wof:parent_id":907199155,
     "wof:placetype":"locality",

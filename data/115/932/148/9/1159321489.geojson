@@ -30,10 +30,13 @@
     ],
     "lbl:latitude":65.94925,
     "lbl:longitude":29.190733,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":65.94925,
     "mps:longitude":29.190733,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Koillismaa"
     ],
@@ -54,7 +57,7 @@
     ],
     "src:geom":"fivgov",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1159321489,
-    "wof:lastmodified":1564102090,
+    "wof:lastmodified":1566595577,
     "wof:name":"Koillismaa",
     "wof:parent_id":85683143,
     "wof:placetype":"county",

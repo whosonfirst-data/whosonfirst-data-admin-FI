@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.69111,62.77188,21.73111,62.81188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Granholm"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1192991539,
-    "wof:lastmodified":1564101305,
+    "wof:lastmodified":1566594862,
     "wof:name":"Granholm",
     "wof:parent_id":907199043,
     "wof:placetype":"locality",

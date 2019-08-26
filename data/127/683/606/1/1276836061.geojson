@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.13,64.84667,28.17,64.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vasikkuvaara",
         "Vasikkavaara"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1276836061,
-    "wof:lastmodified":1537622138,
+    "wof:lastmodified":1566594687,
     "wof:name":"Vasikkavaara",
     "wof:parent_id":907199513,
     "wof:placetype":"locality",

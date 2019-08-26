@@ -31,6 +31,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.254858,
     "lbl:longitude":25.022977,
+    "lbl:max_zoom":15.0,
     "mps:latitude":60.254858,
     "mps:longitude":25.022977,
     "mz:hierarchy_label":1,
@@ -76,7 +77,7 @@
     "reversegeo:longitude":25.022977,
     "src:geom":"hkigis",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":890537239,
-    "wof:lastmodified":1563284062,
+    "wof:lastmodified":1566595308,
     "wof:name":"Malmi",
     "wof:parent_id":890536891,
     "wof:placetype":"macrohood",

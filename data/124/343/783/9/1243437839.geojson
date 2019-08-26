@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.64098,62.9919,23.68098,63.0319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Sissala"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243437839,
-    "wof:lastmodified":1564102311,
+    "wof:lastmodified":1566595706,
     "wof:name":"Sissala",
     "wof:parent_id":907199105,
     "wof:placetype":"locality",

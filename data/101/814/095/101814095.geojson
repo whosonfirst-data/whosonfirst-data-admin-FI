@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.941542,
     "lbl:longitude":22.522795,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":62.941542,
     "mps:longitude":22.522795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0419\u043b\u0438\u0441\u0442\u0430\u0440\u043e"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":128,
     "wof:belongsto":[
@@ -94,7 +97,6 @@
     "wof:concordances":{
         "gn:id":630805,
         "gp:id":575263,
-        "qs:id":1337743,
         "qs_pg:id":1337743,
         "wd:id":"Q653167",
         "wk:page":"Ylistaro"
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101814095,
-    "wof:lastmodified":1561830289,
+    "wof:lastmodified":1566595247,
     "wof:name":"Ylistaro",
     "wof:parent_id":907199285,
     "wof:placetype":"locality",

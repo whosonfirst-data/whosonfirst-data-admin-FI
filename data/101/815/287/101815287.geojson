@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.332519,
     "lbl:longitude":24.310149,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.332518,
     "mps:longitude":24.310149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nummela"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         85683067,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":644300,
         "gp:id":570441,
-        "qs:id":1032402,
         "qs_pg:id":1032402,
         "wd:id":"Q1280623"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101815287,
-    "wof:lastmodified":1561830278,
+    "wof:lastmodified":1566595197,
     "wof:name":"Nummela",
     "wof:parent_id":907198595,
     "wof:placetype":"locality",

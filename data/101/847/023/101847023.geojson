@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000587,
-    "geom:area_square_m":3349768.252722,
+    "geom:area_square_m":3349768.252716,
     "geom:bbox":"29.8202066093,62.5059826387,29.8979450737,62.5551356595",
     "geom:latitude":62.532515,
     "geom:longitude":29.847021,
     "iso:country":"FI",
     "lbl:latitude":62.527638,
     "lbl:longitude":29.846433,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.527638,
     "mps:longitude":29.846432,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjois-Karjala#Norra Karelen",
     "qs:a1r":"0It\u00e4-Suomen AVI#\u00d6stra Finlands RFV",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683133,
         102191581,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":644701,
         "gp:id":25951376,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"FI",
     "wof:geomhash":"2a9afbcc39494ad44dfba9673065775f",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101847023,
-    "wof:lastmodified":1529706705,
+    "wof:lastmodified":1566595213,
     "wof:name":"Niittylahti",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

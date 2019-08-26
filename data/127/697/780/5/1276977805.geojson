@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.21759,62.1103,24.25759,62.1503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Innala"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276977805,
-    "wof:lastmodified":1537622275,
+    "wof:lastmodified":1566594696,
     "wof:name":"Innala",
     "wof:parent_id":907199743,
     "wof:placetype":"locality",

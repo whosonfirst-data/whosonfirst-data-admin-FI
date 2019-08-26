@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":68.421958,
     "lbl:longitude":27.416708,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":68.421959,
     "mps:longitude":27.416708,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Khrebet Sariselyantunturit"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":314,
     "wof:belongsto":[
         85683147,
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":7116868,
         "gp:id":15000137,
-        "qs:id":1163752,
         "qs_pg:id":1163752,
         "wd:id":"Q1815690"
     },
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101814485,
-    "wof:lastmodified":1563283871,
+    "wof:lastmodified":1566595223,
     "wof:name":"Saariselk\u00e4",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

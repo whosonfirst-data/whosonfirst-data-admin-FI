@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000359,
-    "geom:area_square_m":2208389.976841,
+    "geom:area_square_m":2208389.976838,
     "geom:bbox":"24.7745891034,60.1803938328,24.8097618952,60.1988824645",
     "geom:latitude":60.18926,
     "geom:longitude":24.793715,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.190436,
     "lbl:longitude":24.796385,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.190436,
     "mps:longitude":24.796385,
     "mz:hierarchy_label":1,
@@ -39,7 +40,6 @@
     "reversegeo:longitude":24.796385,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729275,
         907198517,
@@ -48,7 +48,8 @@
         101748415,
         136253047,
         1108729225,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108729445,
-    "wof:lastmodified":1529714749,
+    "wof:lastmodified":1566595020,
     "wof:name":"Pohjois-Tapiola",
     "wof:parent_id":1108729275,
     "wof:placetype":"neighbourhood",

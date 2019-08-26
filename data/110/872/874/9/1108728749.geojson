@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.447888,
     "lbl:longitude":22.245711,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.447888,
     "mps:longitude":22.245711,
     "mz:hierarchy_label":1,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108728749,
-    "wof:lastmodified":1564101419,
+    "wof:lastmodified":1566594931,
     "wof:name":"Port Arthur",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

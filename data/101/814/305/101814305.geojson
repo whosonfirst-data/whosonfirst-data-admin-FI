@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.494907,
     "lbl:longitude":27.776158,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":62.494907,
     "mps:longitude":27.776159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Lepp\u00e4virta"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":264,
     "wof:belongsto":[
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":648227,
         "gp:id":569018,
-        "qs:id":1309918,
         "qs_pg:id":1060499,
         "wd:id":"Q614088",
         "wk:page":"Lepp\u00e4virta"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1309918
     },
     "wof:country":"FI",
     "wof:geomhash":"0beedc3e865169743359e632d0efa6bf",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":101814305,
-    "wof:lastmodified":1563283926,
+    "wof:lastmodified":1566595241,
     "wof:name":"Lepp\u00e4virta",
     "wof:parent_id":907198899,
     "wof:placetype":"locality",

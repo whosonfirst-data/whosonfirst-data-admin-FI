@@ -9,15 +9,18 @@
     "geom:bbox":"23.9194458003,66.761046287,24.013126042,66.8286697948",
     "geom:latitude":66.789243,
     "geom:longitude":23.974537,
-    "geonames:id":"642367,603664",
+    "gn:id":"642367,603664",
     "gn:population":193,
     "iso:country":"FI",
     "lbl:latitude":66.793566,
     "lbl:longitude":23.986957,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":66.793566,
     "mps:longitude":23.986957,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pello"
     ],
@@ -68,7 +71,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85683147,
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":603664,
         "gp:id":571178,
-        "qs:id":1136280,
+        "qs_pg:id":1136280,
         "wd:id":"Q1993599",
         "wk:page":"Pello, \u00d6vertorne\u00e5"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101845595,
-    "wof:lastmodified":1563283678,
+    "wof:lastmodified":1566595157,
     "wof:name":"Pello",
     "wof:parent_id":907199553,
     "wof:placetype":"locality",

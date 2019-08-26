@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.69979,62.09766,22.73979,62.13766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683095,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243460803,
-    "wof:lastmodified":1536785277,
+    "wof:lastmodified":1566595636,
     "wof:name":"Tuulenkylae",
     "wof:parent_id":907199119,
     "wof:placetype":"locality",

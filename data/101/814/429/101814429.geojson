@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.682772,
     "lbl:longitude":24.505992,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.682772,
     "mps:longitude":24.505992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pattijoki"
     ],
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Pattijoki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Patioki"
     ],
     "qs:a0":"Suomi#Finland",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":642498,
         "gp:id":571127,
-        "qs:id":1014125,
         "qs_pg:id":1014125,
         "wd:id":"Q3444921"
     },
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101814429,
-    "wof:lastmodified":1563283935,
+    "wof:lastmodified":1566595244,
     "wof:name":"Pattijoki",
     "wof:parent_id":907199449,
     "wof:placetype":"locality",

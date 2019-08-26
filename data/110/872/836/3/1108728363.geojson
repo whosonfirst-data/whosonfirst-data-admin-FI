@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":61.498418,
     "lbl:longitude":23.791275,
+    "lbl:max_zoom":18.0,
     "mps:latitude":61.498418,
     "mps:longitude":23.791275,
     "mz:hierarchy_label":1,
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108728363,
-    "wof:lastmodified":1561830254,
+    "wof:lastmodified":1566594996,
     "wof:name":"Liisankallio",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

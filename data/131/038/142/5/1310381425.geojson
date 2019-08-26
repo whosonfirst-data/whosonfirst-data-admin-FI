@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.12189,64.17649,29.16189,64.21649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hietaper\u00e4"
     ],
@@ -34,8 +38,7 @@
         "\u0425\u0438\u0435\u0442\u0430\u043f\u0435\u0440\u044f"
     ],
     "name:und_x_variant":[
-        "Heilapra",
-        "Hietaper\u00e4"
+        "Heilapra"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1310381425,
-    "wof:lastmodified":1537622283,
+    "wof:lastmodified":1566595046,
     "wof:name":"Hietaperae",
     "wof:parent_id":907199507,
     "wof:placetype":"locality",

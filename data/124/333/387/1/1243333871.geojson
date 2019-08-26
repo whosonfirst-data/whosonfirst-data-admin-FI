@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.45928,63.29662,22.49928,63.33662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0410\u043d\u0433\u043b\u0438\u0430"
     ],
@@ -638,7 +642,7 @@
         }
     ],
     "wof:id":1243333871,
-    "wof:lastmodified":1564102242,
+    "wof:lastmodified":1566595666,
     "wof:name":"England",
     "wof:parent_id":907199763,
     "wof:placetype":"locality",

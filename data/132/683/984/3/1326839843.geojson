@@ -25,8 +25,12 @@
     "gn:population":4515,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.58,60.51333,25.62,60.55333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Askola"
     ],
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":1326839843,
-    "wof:lastmodified":1564100198,
+    "wof:lastmodified":1566593949,
     "wof:name":"Askola",
     "wof:parent_id":907198543,
     "wof:placetype":"locality",

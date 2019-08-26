@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00063,
-    "geom:area_square_m":3873847.950784,
+    "geom:area_square_m":3873847.950786,
     "geom:bbox":"24.5904443075,60.1725633317,24.6428145019,60.1979400365",
     "geom:latitude":60.185567,
     "geom:longitude":24.620721,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.18548,
     "lbl:longitude":24.620702,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.18548,
     "mps:longitude":24.620702,
     "mz:hierarchy_label":1,
@@ -39,7 +40,6 @@
     "reversegeo:longitude":24.620702,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729241,
         907198517,
@@ -48,7 +48,8 @@
         101748415,
         136253047,
         1108729213,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108729329,
-    "wof:lastmodified":1529714740,
+    "wof:lastmodified":1566594973,
     "wof:name":"Vanttila",
     "wof:parent_id":1108729241,
     "wof:placetype":"neighbourhood",

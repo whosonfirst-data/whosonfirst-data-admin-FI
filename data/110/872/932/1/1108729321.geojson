@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000311,
-    "geom:area_square_m":1911026.190875,
+    "geom:area_square_m":1911026.190877,
     "geom:bbox":"24.609290642,60.1459236735,24.6568654026,60.1594164875",
     "geom:latitude":60.153257,
     "geom:longitude":24.632292,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.151884,
     "lbl:longitude":24.632292,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.151884,
     "mps:longitude":24.632292,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "reversegeo:longitude":24.632292,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729227,
         907198517,
@@ -45,7 +45,8 @@
         101748415,
         136253047,
         1108729211,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729321,
-    "wof:lastmodified":1529714739,
+    "wof:lastmodified":1566594973,
     "wof:name":"Kivenlahti",
     "wof:parent_id":1108729227,
     "wof:placetype":"neighbourhood",

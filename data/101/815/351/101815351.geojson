@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.616147,
     "lbl:longitude":22.310896,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.616147,
     "mps:longitude":22.310896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u0445\u0442\u043e"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":179,
     "wof:belongsto":[
@@ -94,10 +97,12 @@
     "wof:concordances":{
         "gn:id":632860,
         "gp:id":574492,
-        "qs:id":1242905,
         "qs_pg:id":976964,
         "wd:id":"Q386061",
         "wk:page":"Vahto"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1242905
     },
     "wof:country":"FI",
     "wof:geomhash":"918077f172853e43187ea930c285d289",
@@ -114,7 +119,7 @@
         }
     ],
     "wof:id":101815351,
-    "wof:lastmodified":1561830280,
+    "wof:lastmodified":1566595204,
     "wof:name":"Vahto",
     "wof:parent_id":907198981,
     "wof:placetype":"locality",

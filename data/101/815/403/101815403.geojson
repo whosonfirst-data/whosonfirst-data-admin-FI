@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000376,
-    "geom:area_square_m":2267076.129474,
+    "geom:area_square_m":2267076.129472,
     "geom:bbox":"24.7386099729,60.8076202107,24.7826622087,60.8260982046",
     "geom:latitude":60.817636,
     "geom:longitude":24.759865,
     "iso:country":"FI",
     "lbl:latitude":60.817906,
     "lbl:longitude":24.759865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.817906,
     "mps:longitude":24.759865,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Kanta-H\u00e4me#Egentliga Tavastland",
     "qs:a1r":"0Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683077,
         102191581,
@@ -46,7 +49,6 @@
     "wof:concordances":{
         "gn:id":638531,
         "gp:id":572530,
-        "qs:id":1077377,
         "qs_pg:id":1077377
     },
     "wof:country":"FI",
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":101815403,
-    "wof:lastmodified":1529711986,
+    "wof:lastmodified":1566595211,
     "wof:name":"Ryttyl\u00e4",
     "wof:parent_id":907198561,
     "wof:placetype":"locality",

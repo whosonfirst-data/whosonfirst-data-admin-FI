@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.149401,
     "lbl:longitude":24.929418,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.149401,
     "mps:longitude":24.929418,
     "mz:hierarchy_label":1,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108726995,
-    "wof:lastmodified":1564101485,
+    "wof:lastmodified":1566594994,
     "wof:name":"Hernesaari",
     "wof:parent_id":-3,
     "wof:placetype":"neighbourhood",

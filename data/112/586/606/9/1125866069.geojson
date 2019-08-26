@@ -9,14 +9,18 @@
     "geom:bbox":"26.2,66.61667,26.2,66.61667",
     "geom:latitude":66.61667,
     "geom:longitude":26.2,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FI",
+    "lbl:bbox":"26.18,66.59667,26.22,66.63667",
     "lbl:latitude":66.61667,
     "lbl:longitude":26.2,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Vikaj\u00e4rvi"
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Vikaj\u00e4rvi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vikak\u00f6ng\u00e4s"
     ],
     "qs_pg:aaroncc":"FI",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424812,
     "qs_pg:woe_id":574992,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424812,
     "woe:name_adm0":"Suomi",
     "woe:name_adm1":"Lapin maakunta",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1125866069,
-    "wof:lastmodified":1563284143,
+    "wof:lastmodified":1566595372,
     "wof:name":"Vikaj\u00e4rvi",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

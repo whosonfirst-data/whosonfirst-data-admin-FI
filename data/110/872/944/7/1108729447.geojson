@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000467,
-    "geom:area_square_m":2869106.209585,
+    "geom:area_square_m":2869106.209586,
     "geom:bbox":"24.7716578307,60.1912447581,24.8159010686,60.2090248495",
     "geom:latitude":60.201924,
     "geom:longitude":24.792245,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.202798,
     "lbl:longitude":24.792249,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.202798,
     "mps:longitude":24.792249,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "reversegeo:longitude":24.792249,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729277,
         907198517,
@@ -45,7 +45,8 @@
         101748415,
         136253047,
         1108729225,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729447,
-    "wof:lastmodified":1529714749,
+    "wof:lastmodified":1566595020,
     "wof:name":"Pohjois-Laajalahti",
     "wof:parent_id":1108729277,
     "wof:placetype":"neighbourhood",

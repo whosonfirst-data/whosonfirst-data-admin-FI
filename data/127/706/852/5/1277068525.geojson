@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.23617,61.34528,26.27617,61.38528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683091,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1277068525,
-    "wof:lastmodified":1536788589,
+    "wof:lastmodified":1566594598,
     "wof:name":"Paaso",
     "wof:parent_id":907198689,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.08738,63.60729,24.12738,63.64729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683125,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1193119283,
-    "wof:lastmodified":1536365475,
+    "wof:lastmodified":1566594866,
     "wof:name":"Laenttae",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

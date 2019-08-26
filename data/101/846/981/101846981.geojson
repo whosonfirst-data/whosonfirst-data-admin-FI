@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.213177,
     "lbl:longitude":24.421005,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.213177,
     "mps:longitude":24.421005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Perho"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":215,
     "wof:belongsto":[
@@ -109,9 +112,11 @@
     "wof:concordances":{
         "gn:id":642139,
         "gp:id":571262,
-        "qs:id":349583,
-        "qs_pg:id":1070966,
+        "qs_pg:id":349583,
         "wd:id":"Q1009347"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1070966
     },
     "wof:country":"FI",
     "wof:geomhash":"21d2bc2f42c9b18bc666ef995a872738",
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":101846981,
-    "wof:lastmodified":1563283775,
+    "wof:lastmodified":1566595194,
     "wof:name":"Perho",
     "wof:parent_id":907199111,
     "wof:placetype":"locality",

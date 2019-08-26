@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.220012,
     "lbl:longitude":24.873739,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.220012,
     "mps:longitude":24.873739,
     "mz:hierarchy_label":1,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108727155,
-    "wof:lastmodified":1561830251,
+    "wof:lastmodified":1566594963,
     "wof:name":"Pitajanmaen yritysalue",
     "wof:parent_id":890537259,
     "wof:placetype":"neighbourhood",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.62127,60.17462,21.66127,60.21462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vottkast",
         "Vattkast"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1225848369,
-    "wof:lastmodified":1537622137,
+    "wof:lastmodified":1566595918,
     "wof:name":"Vattkast",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

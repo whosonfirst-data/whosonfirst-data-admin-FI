@@ -9,14 +9,17 @@
     "geom:bbox":"22.8406166425,60.9364264446,22.872769022,60.9619602504",
     "geom:latitude":60.950501,
     "geom:longitude":22.858302,
-    "geonames:id":"661410,661411",
+    "gn:id":"661410,661411",
     "iso:country":"FI",
     "lbl:latitude":60.95071,
     "lbl:longitude":22.858058,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.95071,
     "mps:longitude":22.858058,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Alastaro"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":133,
     "wof:belongsto":[
         85683073,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":661410,
         "gp:id":564132,
-        "qs:id":1327437,
         "qs_pg:id":1327437,
         "wd:id":"Q206601"
     },
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101815329,
-    "wof:lastmodified":1561830282,
+    "wof:lastmodified":1566595211,
     "wof:name":"Alastaro",
     "wof:parent_id":907198963,
     "wof:placetype":"locality",

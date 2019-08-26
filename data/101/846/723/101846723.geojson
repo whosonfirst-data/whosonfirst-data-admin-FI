@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.950155,
     "lbl:longitude":21.444172,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.950155,
     "mps:longitude":21.444172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Pyh\u00e4ranta"
     ],
@@ -80,7 +83,7 @@
     "name:tur_x_preferred":[
         "Pyh\u00e4ranta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pith\u00e4ranta"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":201,
     "wof:belongsto":[
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":640405,
         "gp:id":12590964,
-        "qs:id":202558,
+        "qs_pg:id":202558,
         "wd:id":"Q807902",
         "wk:page":"Pyh\u00e4ranta"
     },
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101846723,
-    "wof:lastmodified":1563283748,
+    "wof:lastmodified":1566595184,
     "wof:name":"Pyh\u00e4ranta",
     "wof:parent_id":907198675,
     "wof:placetype":"locality",

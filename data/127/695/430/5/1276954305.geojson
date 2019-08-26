@@ -25,16 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.44359,64.41706,26.48359,64.45706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Knuutila"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0443\u0442\u0438\u043b\u044f"
-    ],
-    "name:und_x_variant":[
-        "Knuutila"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1276954305,
-    "wof:lastmodified":1537622248,
+    "wof:lastmodified":1566594649,
     "wof:name":"Nuutila",
     "wof:parent_id":907199621,
     "wof:placetype":"locality",

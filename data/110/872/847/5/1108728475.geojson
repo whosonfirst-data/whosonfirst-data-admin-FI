@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":61.506598,
     "lbl:longitude":23.667953,
+    "lbl:max_zoom":18.0,
     "mps:latitude":61.506598,
     "mps:longitude":23.667953,
     "mz:hierarchy_label":1,
@@ -30,14 +31,14 @@
     "tmpgov:id":"513201",
     "tmpgov:name":"Epil\u00e4",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1108728475,
-    "wof:lastmodified":1529711335,
+    "wof:lastmodified":1566594993,
     "wof:name":"Epila",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

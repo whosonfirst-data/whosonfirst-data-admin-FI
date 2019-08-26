@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.053146,
     "lbl:longitude":26.476086,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":61.053146,
     "mps:longitude":26.476085,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jaala"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":128,
     "wof:belongsto":[
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":656183,
         "gp:id":566104,
-        "qs:id":858216,
         "qs_pg:id":858216,
         "wd:id":"Q1011082",
         "wk:page":"Jaala"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101846783,
-    "wof:lastmodified":1561830275,
+    "wof:lastmodified":1566595184,
     "wof:name":"Jaala",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

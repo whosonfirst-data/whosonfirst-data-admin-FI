@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.20844,60.27946,22.24844,60.31946",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Vallis"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276765773,
-    "wof:lastmodified":1564100997,
+    "wof:lastmodified":1566594669,
     "wof:name":"Vallis",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

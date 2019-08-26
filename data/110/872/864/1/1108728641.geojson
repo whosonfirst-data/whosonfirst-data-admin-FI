@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.467162,
     "lbl:longitude":22.28209,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.467162,
     "mps:longitude":22.28209,
     "mz:hierarchy_label":1,
@@ -30,14 +31,14 @@
     "tkugov:NIMI":"Virusm\u00e4ki-Raunistula",
     "tkugov:PIENALUE":"853632094",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1108728641,
-    "wof:lastmodified":1529706501,
+    "wof:lastmodified":1566595007,
     "wof:name":"Virusmaki-Raunistula",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

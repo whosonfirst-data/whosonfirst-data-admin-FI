@@ -18,6 +18,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.211023,
     "lbl:longitude":25.056665,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.212531,
     "mps:longitude":25.045164,
     "mz:hierarchy_label":1,
@@ -44,9 +45,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0457\u0445\u0443\u043f\u0435\u043b\u044c\u0442\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Roihupelto"
     ],
     "qs:gn_adm0_cc":"FI",
     "qs:gn_id":0,
@@ -77,7 +75,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         890537287,
@@ -93,7 +91,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":25945252,
-        "qs:id":1086341,
         "qs_pg:id":1086341
     },
     "wof:controlled":[],
@@ -118,7 +115,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1564100678,
+    "wof:lastmodified":1566594415,
     "wof:name":"Roihupelto",
     "wof:parent_id":890537287,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00225,
-    "geom:area_square_m":13808019.87717,
+    "geom:area_square_m":13808019.877166,
     "geom:bbox":"24.5537708706,60.2156739596,24.6301737873,60.2624843743",
     "geom:latitude":60.240078,
     "geom:longitude":24.593979,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.24052,
     "lbl:longitude":24.593261,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.24052,
     "mps:longitude":24.593261,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "reversegeo:longitude":24.593261,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729239,
         907198517,
@@ -45,7 +45,8 @@
         101748415,
         136253047,
         1108729217,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729317,
-    "wof:lastmodified":1529714739,
+    "wof:lastmodified":1566594915,
     "wof:name":"Vanha-Nuuksio-Nupuri",
     "wof:parent_id":1108729239,
     "wof:placetype":"neighbourhood",

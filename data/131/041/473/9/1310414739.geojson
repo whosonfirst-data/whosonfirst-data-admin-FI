@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.92546,60.11937,22.96546,60.15937",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Finnarv"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310414739,
-    "wof:lastmodified":1537622352,
+    "wof:lastmodified":1566595030,
     "wof:name":"Finnari",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

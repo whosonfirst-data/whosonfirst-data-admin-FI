@@ -10,12 +10,16 @@
     "geom:latitude":62.825237,
     "geom:longitude":21.810562,
     "iso:country":"FI",
+    "lbl:bbox":"21.790562,62.805237,21.830562,62.845237",
     "lbl:latitude":62.825237,
     "lbl:longitude":21.810562,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.825237,
     "mps:longitude":21.810562,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Etel\u00e4-Pohjanmaa#S\u00f6dra \u00d6sterbotten",
     "qs:a1r":"0L\u00e4nsi- ja Sis\u00e4-Suomen AVI#V\u00e4stra och Inre Finlands RFV",
@@ -32,7 +36,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683113,
         102191581,
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":637537,
         "gp:id":572841,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"FI",
     "wof:geomhash":"f2ec49686f22e8fef0307760a8253bc3",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101872823,
-    "wof:lastmodified":1544751343,
+    "wof:lastmodified":1566595164,
     "wof:name":"Sarvijoki",
     "wof:parent_id":907199007,
     "wof:placetype":"locality",

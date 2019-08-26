@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.264562,
     "lbl:longitude":25.546069,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.264562,
     "mps:longitude":25.546069,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vesanka"
     ],
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683117,
         102191581,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":631878,
         "gp:id":574857,
-        "qs:id":345500,
         "qs_pg:id":345500
     },
     "wof:country":"FI",
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":101814191,
-    "wof:lastmodified":1529706346,
+    "wof:lastmodified":1566595238,
     "wof:name":"Vesanka",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

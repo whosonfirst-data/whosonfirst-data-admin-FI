@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.58278,63.76,22.62278,63.8",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Juvarpet",
         "Jovarpet"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259962663,
-    "wof:lastmodified":1537622306,
+    "wof:lastmodified":1566595719,
     "wof:name":"Jovarpet",
     "wof:parent_id":907199167,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.63959,60.19891,24.67959,60.23891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Gloms"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1326644209,
-    "wof:lastmodified":1537622308,
+    "wof:lastmodified":1566593954,
     "wof:name":"Lommila",
     "wof:parent_id":907198517,
     "wof:placetype":"locality",

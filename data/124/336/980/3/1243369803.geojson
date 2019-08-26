@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.06022,61.18807,22.10022,61.22807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683095,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243369803,
-    "wof:lastmodified":1536916575,
+    "wof:lastmodified":1566595599,
     "wof:name":"Eurakoski",
     "wof:parent_id":907198915,
     "wof:placetype":"locality",

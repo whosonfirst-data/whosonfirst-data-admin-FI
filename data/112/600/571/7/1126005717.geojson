@@ -9,14 +9,18 @@
     "geom:bbox":"24.53917,60.52613,24.53917,60.52613",
     "geom:latitude":60.52613,
     "geom:longitude":24.53917,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FI",
+    "lbl:bbox":"24.51917,60.50613,24.55917,60.54613",
     "lbl:latitude":60.52613,
     "lbl:longitude":24.53917,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vihtij\u00e4rvi"
@@ -24,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0438\u0445\u0442\u0438\u044f\u0440\u0432\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vihtj\u00e4rvi"
     ],
     "qs_pg:aaroncc":"FI",
@@ -48,7 +52,7 @@
     "qs_pg:woe_adm0":23424812,
     "qs_pg:woe_id":574928,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424812,
     "woe:name_adm0":"Suomi",
     "woe:name_adm1":"Uudenmaan maakunta",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1126005717,
-    "wof:lastmodified":1529714696,
+    "wof:lastmodified":1566595435,
     "wof:name":"Vihtij\u00e4rvi",
     "wof:parent_id":907198595,
     "wof:placetype":"locality",

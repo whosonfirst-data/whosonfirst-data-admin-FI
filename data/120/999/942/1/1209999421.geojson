@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.52944,63.44036,22.56944,63.48036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Lev\u00e4l\u00e4"
     ],
@@ -34,7 +38,6 @@
         "L\u00f6vas"
     ],
     "name:und_x_variant":[
-        "Lev\u00e4l\u00e4",
         "Levil\u00e4"
     ],
     "src:geom":"geonames",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1209999421,
-    "wof:lastmodified":1537622222,
+    "wof:lastmodified":1566594749,
     "wof:name":"Levaelae",
     "wof:parent_id":907199045,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.155982,
     "lbl:longitude":23.68891,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":61.155981,
     "mps:longitude":23.68891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kylm\u00e4koski"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"rural hamlet near local_admin match geoplanet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":202,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":649728,
         "gp:id":568484,
-        "qs:id":977302,
         "qs_pg:id":977302,
         "wd:id":"Q1641581",
         "wk:page":"Kylm\u00e4koski"
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":1175611485,
-    "wof:lastmodified":1563283479,
+    "wof:lastmodified":1566595025,
     "wof:name":"Kylm\u00e4koski",
     "wof:parent_id":907199731,
     "wof:placetype":"locality",

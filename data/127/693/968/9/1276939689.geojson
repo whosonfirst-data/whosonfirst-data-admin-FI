@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.71333,69.39667,27.75333,69.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Kola"
     ],
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":1276939689,
-    "wof:lastmodified":1564100955,
+    "wof:lastmodified":1566594642,
     "wof:name":"Kola",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

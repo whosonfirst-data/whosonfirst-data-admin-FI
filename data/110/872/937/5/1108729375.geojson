@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000394,
-    "geom:area_square_m":2424101.515523,
+    "geom:area_square_m":2424101.515524,
     "geom:bbox":"24.6937248831,60.161531993,24.7336097631,60.1834403169",
     "geom:latitude":60.172016,
     "geom:longitude":24.71273,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.172443,
     "lbl:longitude":24.712432,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.172443,
     "mps:longitude":24.712432,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "reversegeo:longitude":24.712432,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729255,
         907198517,
@@ -45,7 +45,8 @@
         101748415,
         136253047,
         1108729221,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729375,
-    "wof:lastmodified":1529714742,
+    "wof:lastmodified":1566594925,
     "wof:name":"Friisila",
     "wof:parent_id":1108729255,
     "wof:placetype":"neighbourhood",

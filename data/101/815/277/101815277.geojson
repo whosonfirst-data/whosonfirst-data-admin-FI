@@ -13,6 +13,8 @@
     "iso:country":"FI",
     "lbl:latitude":60.399938,
     "lbl:longitude":25.673681,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":60.399938,
     "mps:longitude":25.673681,
     "mz:hierarchy_label":1,
@@ -195,7 +197,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0432\u043e\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Borgo"
     ],
     "name:urd_x_preferred":[
@@ -318,7 +320,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.393056,
     "wd:longitude":25.663889,
@@ -337,10 +339,12 @@
     "wof:concordances":{
         "gn:id":660561,
         "gp:id":564449,
-        "qs:id":248346,
-        "qs_pg:id":1059629,
+        "qs_pg:id":248346,
         "wd:id":"Q193367",
         "wk:page":"Porvoo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1059629
     },
     "wof:country":"FI",
     "wof:geomhash":"a89b730f6c077ded4acbd282981612da",
@@ -357,7 +361,7 @@
         }
     ],
     "wof:id":101815277,
-    "wof:lastmodified":1563283816,
+    "wof:lastmodified":1566595205,
     "wof:name":"Porvoo",
     "wof:parent_id":907198525,
     "wof:placetype":"locality",

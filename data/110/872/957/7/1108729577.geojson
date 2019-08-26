@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000557,
-    "geom:area_square_m":3413226.914906,
+    "geom:area_square_m":3413226.914905,
     "geom:bbox":"24.8124574643,60.2845382879,24.8549965945,60.3081383266",
     "geom:latitude":60.29823,
     "geom:longitude":24.833146,
@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.298243,
     "lbl:longitude":24.8317,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.298243,
     "mps:longitude":24.8317,
     "mz:hierarchy_label":1,
@@ -38,7 +39,6 @@
     "reversegeo:longitude":24.8317,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -46,7 +46,8 @@
         101748419,
         136253047,
         1108729481,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729577,
-    "wof:lastmodified":1529714755,
+    "wof:lastmodified":1566594971,
     "wof:name":"Myllymaki",
     "wof:parent_id":1108729481,
     "wof:placetype":"neighbourhood",

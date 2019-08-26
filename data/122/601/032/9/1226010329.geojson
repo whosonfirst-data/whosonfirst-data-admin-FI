@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.28,66.94667,25.32,66.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tolosenkyl\u00e4"
     ],
@@ -34,8 +38,7 @@
         "\u0422\u043e\u043b\u043e\u043d\u0435\u043d"
     ],
     "name:und_x_variant":[
-        "Tolonen",
-        "Tolosenkyl\u00e4"
+        "Tolonen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1226010329,
-    "wof:lastmodified":1537622152,
+    "wof:lastmodified":1566595899,
     "wof:name":"Tolosenkylae",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

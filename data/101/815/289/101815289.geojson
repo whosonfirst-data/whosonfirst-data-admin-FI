@@ -9,14 +9,17 @@
     "geom:bbox":"24.3667151634,60.2213998596,24.4734840064,60.2959433037",
     "geom:latitude":60.26261,
     "geom:longitude":24.421446,
-    "geonames:id":"632024,632025",
+    "gn:id":"632024,632025",
     "iso:country":"FI",
     "lbl:latitude":60.27794,
     "lbl:longitude":24.421753,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.27794,
     "mps:longitude":24.421753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Veikkola"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":632025,
         "gp:id":574814,
-        "qs:id":55303,
         "qs_pg:id":55303,
         "wd:id":"Q11900804"
     },
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":101815289,
-    "wof:lastmodified":1563283785,
+    "wof:lastmodified":1566595197,
     "wof:name":"Veikkola",
     "wof:parent_id":907198511,
     "wof:placetype":"locality",

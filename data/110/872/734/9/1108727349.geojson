@@ -25,6 +25,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.186131,
     "lbl:longitude":25.001711,
+    "lbl:max_zoom":15.0,
     "mps:latitude":60.186131,
     "mps:longitude":25.001711,
     "mz:hierarchy_label":1,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108727349,
-    "wof:lastmodified":1563283411,
+    "wof:lastmodified":1566594972,
     "wof:name":"Kulosaari",
     "wof:parent_id":890536883,
     "wof:placetype":"macrohood",

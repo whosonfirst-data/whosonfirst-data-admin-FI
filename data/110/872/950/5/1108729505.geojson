@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.334124,
     "lbl:longitude":25.055577,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.334124,
     "mps:longitude":25.055577,
     "mz:hierarchy_label":1,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108729505,
-    "wof:lastmodified":1564101460,
+    "wof:lastmodified":1566594970,
     "wof:name":"Asola",
     "wof:parent_id":1108729493,
     "wof:placetype":"neighbourhood",

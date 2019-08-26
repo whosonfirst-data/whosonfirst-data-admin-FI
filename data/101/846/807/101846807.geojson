@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000822,
-    "geom:area_square_m":4891706.50939,
+    "geom:area_square_m":4891706.509391,
     "geom:bbox":"26.0325103242,61.2324498099,26.0859723082,61.2644905542",
     "geom:latitude":61.248144,
     "geom:longitude":26.05838,
     "iso:country":"FI",
     "lbl:latitude":61.246757,
     "lbl:longitude":26.057975,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.246757,
     "mps:longitude":26.057975,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*P\u00e4ij\u00e4t-H\u00e4me#P\u00e4ij\u00e4nne-Tavastland",
     "qs:a1r":"0Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683091,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":25945516,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"FI",
     "wof:geomhash":"7c7ca2bf742f7877e0ab46ff3e472ce3",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101846807,
-    "wof:lastmodified":1529710022,
+    "wof:lastmodified":1566595190,
     "wof:name":"Heinolan kk.",
     "wof:parent_id":907198689,
     "wof:placetype":"locality",

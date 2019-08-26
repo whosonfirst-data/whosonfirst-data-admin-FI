@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.4325,60.97169,27.4725,61.01169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683103,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1360282177,
-    "wof:lastmodified":1536661361,
+    "wof:lastmodified":1566595141,
     "wof:name":"Ellola",
     "wof:parent_id":907198953,
     "wof:placetype":"locality",

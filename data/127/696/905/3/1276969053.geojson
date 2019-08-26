@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.11333,60.73,28.15333,60.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Myllyl\u00e4",
         "Haikala"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1276969053,
-    "wof:lastmodified":1537622207,
+    "wof:lastmodified":1566594706,
     "wof:name":"Haikala",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

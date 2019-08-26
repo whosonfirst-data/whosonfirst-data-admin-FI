@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011891,
-    "geom:area_square_m":73262905.792465,
+    "geom:area_square_m":73262905.792449,
     "geom:bbox":"24.9691504799,60.0537270573,25.2195380518,60.2005953252",
     "geom:latitude":60.1148,
     "geom:longitude":25.103058,
@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.101,
     "lbl:longitude":25.04911,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.101,
     "mps:longitude":25.04911,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537275,
         907199715,
@@ -45,7 +45,8 @@
         101748417,
         136253047,
         890536883,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1108727009,
-    "wof:lastmodified":1529714726,
+    "wof:lastmodified":1566594929,
     "wof:name":"Itasaaret",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",

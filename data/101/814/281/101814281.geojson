@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.024484,
     "lbl:longitude":23.503229,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":64.024484,
     "mps:longitude":23.503229,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lohtaja"
     ],
@@ -62,7 +65,7 @@
     "name:swe_x_preferred":[
         "Lochte\u00e5"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lokhteo"
     ],
     "qs:a0":"Suomi#Finland",
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":147,
     "wof:belongsto":[
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":647741,
         "gp:id":569179,
-        "qs:id":28029,
         "qs_pg:id":28029,
         "wd:id":"Q1641609",
         "wk:page":"Lohtaja"
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101814281,
-    "wof:lastmodified":1561830285,
+    "wof:lastmodified":1566595227,
     "wof:name":"Lohtaja",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

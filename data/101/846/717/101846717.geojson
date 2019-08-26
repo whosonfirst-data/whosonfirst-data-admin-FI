@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.253271,
     "lbl:longitude":23.746263,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.253271,
     "mps:longitude":23.746263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Karjalohja"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":223,
     "wof:belongsto":[
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":654012,
         "gp:id":566879,
-        "qs:id":355757,
         "qs_pg:id":355757,
         "wd:id":"Q990572",
         "wk:page":"Karjalohja"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101846717,
-    "wof:lastmodified":1563283771,
+    "wof:lastmodified":1566595193,
     "wof:name":"Karjalohja",
     "wof:parent_id":907198655,
     "wof:placetype":"locality",

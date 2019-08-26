@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":65.968607,
     "lbl:longitude":29.175564,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":65.968607,
     "mps:longitude":29.175564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Kuusamo"
     ],
@@ -180,7 +183,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":65.966667,
     "wd:longitude":29.166667,
@@ -199,7 +202,6 @@
     "wof:concordances":{
         "gn:id":649924,
         "gp:id":568417,
-        "qs:id":477699,
         "qs_pg:id":477699,
         "wd:id":"Q207999",
         "wk:page":"Kuusamo"
@@ -219,7 +221,7 @@
         }
     ],
     "wof:id":101814405,
-    "wof:lastmodified":1563283947,
+    "wof:lastmodified":1566595247,
     "wof:name":"Kuusamo",
     "wof:parent_id":907199519,
     "wof:placetype":"locality",

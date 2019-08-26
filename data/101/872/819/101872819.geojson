@@ -10,12 +10,16 @@
     "geom:latitude":62.524517,
     "geom:longitude":22.701477,
     "iso:country":"FI",
+    "lbl:bbox":"22.681477,62.504517,22.721477,62.544517",
     "lbl:latitude":62.524517,
     "lbl:longitude":22.701477,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.524517,
     "mps:longitude":22.701477,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Etel\u00e4-Pohjanmaa#S\u00f6dra \u00d6sterbotten",
     "qs:a1r":"0L\u00e4nsi- ja Sis\u00e4-Suomen AVI#V\u00e4stra och Inre Finlands RFV",
@@ -33,7 +37,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683113,
         102191581,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":655686,
         "gp:id":566287,
-        "qs:id":1070295,
         "qs_pg:id":1070295
     },
     "wof:country":"FI",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101872819,
-    "wof:lastmodified":1544751341,
+    "wof:lastmodified":1566595161,
     "wof:name":"Jokipii",
     "wof:parent_id":907199007,
     "wof:placetype":"locality",

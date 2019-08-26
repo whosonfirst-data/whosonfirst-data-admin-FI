@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.262191,
     "lbl:longitude":22.352814,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":61.26219,
     "mps:longitude":22.352814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kokem\u00e4ki"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":61.255556,
     "wd:longitude":22.348611,
@@ -142,9 +145,11 @@
     "wof:concordances":{
         "gn:id":651980,
         "gp:id":567671,
-        "qs:id":470701,
-        "qs_pg:id":1242926,
+        "qs_pg:id":470701,
         "wd:id":"Q986409"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1242926
     },
     "wof:country":"FI",
     "wof:geomhash":"afd4fb62930111dcb0cab5321c6e7079",
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":101815481,
-    "wof:lastmodified":1563283818,
+    "wof:lastmodified":1566595206,
     "wof:name":"Kokem\u00e4ki",
     "wof:parent_id":907198937,
     "wof:placetype":"locality",

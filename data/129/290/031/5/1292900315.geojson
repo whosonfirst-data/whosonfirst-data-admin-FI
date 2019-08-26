@@ -25,8 +25,12 @@
     "gn:population":3473,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.26333,61.33,25.30333,61.37",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Padasjoki"
     ],
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":1292900315,
-    "wof:lastmodified":1564100816,
+    "wof:lastmodified":1566594553,
     "wof:name":"Padasjoki",
     "wof:parent_id":907198715,
     "wof:placetype":"locality",

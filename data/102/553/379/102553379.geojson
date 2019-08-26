@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Menkij\u00e4rvi Airfield"
     ],
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":102553379,
-    "wof:lastmodified":1563282418,
+    "wof:lastmodified":1566594280,
     "wof:name":"Menkijarvi lentokentt\u00e4",
     "wof:parent_id":85683113,
     "wof:placetype":"campus",

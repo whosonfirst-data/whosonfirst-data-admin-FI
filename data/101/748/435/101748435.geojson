@@ -13,6 +13,8 @@
     "iso:country":"FI",
     "lbl:latitude":62.232328,
     "lbl:longitude":25.718094,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":62.232328,
     "mps:longitude":25.718094,
     "mz:hierarchy_label":1,
@@ -415,7 +417,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":62.233333,
     "wd:longitude":25.733333,
@@ -434,10 +436,12 @@
     "wof:concordances":{
         "gn:id":655194,
         "gp:id":566473,
-        "qs:id":273811,
-        "qs_pg:id":479026,
+        "qs_pg:id":273811,
         "wd:id":"Q134620",
         "wk:page":"Jyv\u00e4skyl\u00e4"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":479026
     },
     "wof:country":"FI",
     "wof:geomhash":"a971a62a425346a4bfe25b7f6d1e1161",
@@ -454,7 +458,7 @@
         }
     ],
     "wof:id":101748435,
-    "wof:lastmodified":1563283724,
+    "wof:lastmodified":1566595173,
     "wof:name":"Jyv\u00e4skyl\u00e4",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

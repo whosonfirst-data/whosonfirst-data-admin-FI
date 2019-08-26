@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":65.569184,
     "lbl:longitude":28.22255,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":65.569184,
     "mps:longitude":28.222551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Taivalkoski"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":273,
     "wof:belongsto":[
@@ -124,9 +127,11 @@
     "wof:concordances":{
         "gn:id":635141,
         "gp:id":573689,
-        "qs:id":189534,
-        "qs_pg:id":1139183,
+        "qs_pg:id":189534,
         "wd:id":"Q985456"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1139183
     },
     "wof:country":"FI",
     "wof:geomhash":"f3010118862498e7becba91e98166bb8",
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":101845569,
-    "wof:lastmodified":1563283678,
+    "wof:lastmodified":1566595157,
     "wof:name":"Taivalkoski",
     "wof:parent_id":907199503,
     "wof:placetype":"locality",

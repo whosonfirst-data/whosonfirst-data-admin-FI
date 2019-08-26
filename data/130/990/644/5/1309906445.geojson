@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.64197,61.51948,21.68197,61.55948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Inder\u00f6"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1309906445,
-    "wof:lastmodified":1537622231,
+    "wof:lastmodified":1566595271,
     "wof:name":"Kylaesaari",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

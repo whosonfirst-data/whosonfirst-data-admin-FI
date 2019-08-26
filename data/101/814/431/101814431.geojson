@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.663948,
     "lbl:longitude":25.105897,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":64.663948,
     "mps:longitude":25.105897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0443\u043a\u0438"
     ],
@@ -56,7 +59,7 @@
     "name:swe_x_preferred":[
         "Ruukki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rukki"
     ],
     "qs:a0":"Suomi#Finland",
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":149,
     "wof:belongsto":[
@@ -91,10 +94,12 @@
     "wof:concordances":{
         "gn:id":638622,
         "gp:id":572497,
-        "qs:id":1139143,
         "qs_pg:id":369835,
         "wd:id":"Q2177972",
         "wk:page":"Ruukki"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1139143
     },
     "wof:country":"FI",
     "wof:geomhash":"9fe797fef1372b4958b18067e2df3934",
@@ -111,7 +116,7 @@
         }
     ],
     "wof:id":101814431,
-    "wof:lastmodified":1563283894,
+    "wof:lastmodified":1566595230,
     "wof:name":"Ruukki",
     "wof:parent_id":907199705,
     "wof:placetype":"locality",

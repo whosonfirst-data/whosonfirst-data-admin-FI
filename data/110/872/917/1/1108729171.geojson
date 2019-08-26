@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003086,
-    "geom:area_square_m":17351287.234484,
+    "geom:area_square_m":17351287.234488,
     "geom:bbox":"27.6332419456,62.9285796651,27.7549445658,62.9775181612",
     "geom:latitude":62.951379,
     "geom:longitude":27.692414,
@@ -14,6 +14,7 @@
     "kuogov:NIMI":"Sorsasalo",
     "lbl:latitude":62.953471,
     "lbl:longitude":27.686425,
+    "lbl:max_zoom":18.0,
     "mps:latitude":62.953471,
     "mps:longitude":27.686425,
     "mz:hierarchy_label":1,
@@ -26,7 +27,6 @@
     "reversegeo:longitude":27.686425,
     "src:geom":"kuogov",
     "wof:belongsto":[
-        85683131,
         102191581,
         907199673,
         85633143,
@@ -34,6 +34,7 @@
         101748439,
         136253047,
         1159321597,
+        85683131,
         907199425,
         101846987
     ],
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108729171,
-    "wof:lastmodified":1529708975,
+    "wof:lastmodified":1566595017,
     "wof:name":"Sorsasalo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.57767,61.00393,23.61767,61.04393",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683099,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276789001,
-    "wof:lastmodified":1536665427,
+    "wof:lastmodified":1566594674,
     "wof:name":"Hanhisuo",
     "wof:parent_id":907198841,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.06333,61.99667,22.10333,62.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pes\u00e4m\u00e4ki",
         "Koivuluoma"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1242583577,
-    "wof:lastmodified":1537622246,
+    "wof:lastmodified":1566595631,
     "wof:name":"Koivuluoma",
     "wof:parent_id":907198873,
     "wof:placetype":"locality",

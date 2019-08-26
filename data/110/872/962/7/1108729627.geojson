@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000853,
-    "geom:area_square_m":5221152.88654,
+    "geom:area_square_m":5221152.886539,
     "geom:bbox":"24.7461842355,60.3222746291,24.7885167804,60.3617913211",
     "geom:latitude":60.340487,
     "geom:longitude":24.766364,
@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.336339,
     "lbl:longitude":24.761393,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.336339,
     "mps:longitude":24.761393,
     "mz:hierarchy_label":1,
@@ -38,7 +39,6 @@
     "reversegeo:longitude":24.761393,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -46,7 +46,8 @@
         101748419,
         136253047,
         1108729481,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729627,
-    "wof:lastmodified":1529714759,
+    "wof:lastmodified":1566594921,
     "wof:name":"Vestra",
     "wof:parent_id":1108729481,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.675478,
     "lbl:longitude":28.488667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":64.675478,
     "mps:longitude":28.488667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Hyrynsalmi"
     ],
@@ -92,7 +95,7 @@
     "name:tur_x_preferred":[
         "Hyrynsalmi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khyuryunsalmi"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":204,
     "wof:belongsto":[
@@ -133,7 +136,6 @@
     "wof:concordances":{
         "gn:id":656949,
         "gp:id":91930230,
-        "qs:id":1242927,
         "qs_pg:id":1242927,
         "wd:id":"Q984934",
         "wk:page":"Hyrynsalmi"
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":101847039,
-    "wof:lastmodified":1563283847,
+    "wof:lastmodified":1566595216,
     "wof:name":"Hyrynsalmi",
     "wof:parent_id":907199531,
     "wof:placetype":"locality",

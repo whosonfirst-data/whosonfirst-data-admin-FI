@@ -26,16 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.15181,60.82981,28.19181,60.86981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rumpunen"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u043c\u043f\u0443"
-    ],
-    "name:und_x_variant":[
-        "Rumpunen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1193267999,
-    "wof:lastmodified":1537622173,
+    "wof:lastmodified":1566594869,
     "wof:name":"Rumpu",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",
