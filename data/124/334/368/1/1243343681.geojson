@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"30.34667,62.46333,30.38667,62.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683133,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243343681,
-    "wof:lastmodified":1536953868,
+    "wof:lastmodified":1566595663,
     "wof:name":"Toerroelae",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

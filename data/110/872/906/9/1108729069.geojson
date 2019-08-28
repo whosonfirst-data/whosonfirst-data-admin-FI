@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002277,
-    "geom:area_square_m":11935059.978567,
+    "geom:area_square_m":11935059.978564,
     "geom:bbox":"25.7087836086,64.8918734874,25.8192119905,64.9417551187",
     "geom:latitude":64.91708,
     "geom:longitude":25.772067,
     "iso:country":"FI",
     "lbl:latitude":64.917552,
     "lbl:longitude":25.772884,
+    "lbl:max_zoom":18.0,
     "mps:latitude":64.917552,
     "mps:longitude":25.772884,
     "mz:hierarchy_label":1,
@@ -37,14 +38,14 @@
     "reversegeo:longitude":25.772884,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108729069,
-    "wof:lastmodified":1529709468,
+    "wof:lastmodified":1566594923,
     "wof:name":"Pikkarala",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

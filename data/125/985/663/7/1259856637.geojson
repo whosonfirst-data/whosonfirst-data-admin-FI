@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"31.05864,63.01382,31.09864,63.05382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Naarva"
     ],
@@ -35,8 +39,7 @@
         "\u041d\u0430\u0440\u0432\u0430"
     ],
     "name:und_x_variant":[
-        "Naarvansalo",
-        "Naarva"
+        "Naarvansalo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1259856637,
-    "wof:lastmodified":1537622207,
+    "wof:lastmodified":1566595748,
     "wof:name":"Naarva",
     "wof:parent_id":907199525,
     "wof:placetype":"locality",

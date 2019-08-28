@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":1371637.598594,
+    "geom:area_square_m":1371637.598596,
     "geom:bbox":"21.4051368899,62.8324423509,21.442692227,62.8481109663",
     "geom:latitude":62.840588,
     "geom:longitude":21.424894,
     "iso:country":"FI",
     "lbl:latitude":62.841102,
     "lbl:longitude":21.423613,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.841102,
     "mps:longitude":21.423613,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Petolahti"
     ],
     "name:swe_x_preferred":[
         "Petalax"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petalaks"
     ],
     "qs:a0":"Suomi#Finland",
@@ -40,7 +43,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683119,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101846941,
-    "wof:lastmodified":1529709680,
+    "wof:lastmodified":1566595183,
     "wof:name":"Petolahti",
     "wof:parent_id":907199043,
     "wof:placetype":"locality",

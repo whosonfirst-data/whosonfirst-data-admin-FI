@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.815452,
     "lbl:longitude":23.62749,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.815452,
     "mps:longitude":23.62749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Forssa"
     ],
@@ -147,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.816667,
     "wd:longitude":23.616667,
@@ -166,10 +169,12 @@
     "wof:concordances":{
         "gn:id":659935,
         "gp:id":564696,
-        "qs:id":450662,
-        "qs_pg:id":1060473,
+        "qs_pg:id":450662,
         "wd:id":"Q829842",
         "wk:page":"Forssa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060473
     },
     "wof:country":"FI",
     "wof:geomhash":"e542213ec5ec5e39d281ddcaa4f00818",
@@ -186,7 +191,7 @@
         }
     ],
     "wof:id":101815401,
-    "wof:lastmodified":1563283790,
+    "wof:lastmodified":1566595198,
     "wof:name":"Forssa",
     "wof:parent_id":907199441,
     "wof:placetype":"locality",

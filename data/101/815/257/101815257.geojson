@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.480111,
     "lbl:longitude":25.096625,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":60.480111,
     "mps:longitude":25.096625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0631\u0641\u0646\u0628\u0627"
     ],
@@ -180,7 +183,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.472222,
     "wd:longitude":25.088889,
@@ -199,7 +202,6 @@
     "wof:concordances":{
         "gn:id":655958,
         "gp:id":566191,
-        "qs:id":126558,
         "qs_pg:id":126558,
         "wd:id":"Q208293",
         "wk:page":"J\u00e4rvenp\u00e4\u00e4"
@@ -219,7 +221,7 @@
         }
     ],
     "wof:id":101815257,
-    "wof:lastmodified":1563283789,
+    "wof:lastmodified":1566595198,
     "wof:name":"J\u00e4rvenp\u00e4\u00e4",
     "wof:parent_id":907198639,
     "wof:placetype":"locality",

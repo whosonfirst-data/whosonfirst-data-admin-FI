@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
-    "geom:area_square_m":545603.274372,
+    "geom:area_square_m":545603.274371,
     "geom:bbox":"24.7358566301,60.1476767824,24.7518225232,60.1599340151",
     "geom:latitude":60.153002,
     "geom:longitude":24.743074,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.151187,
     "lbl:longitude":24.744525,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.151187,
     "mps:longitude":24.744525,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "reversegeo:longitude":24.744525,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729235,
         907198517,
@@ -45,7 +45,8 @@
         101748415,
         136253047,
         1108729221,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729387,
-    "wof:lastmodified":1529714743,
+    "wof:lastmodified":1566594916,
     "wof:name":"Matinmetsa",
     "wof:parent_id":1108729235,
     "wof:placetype":"neighbourhood",

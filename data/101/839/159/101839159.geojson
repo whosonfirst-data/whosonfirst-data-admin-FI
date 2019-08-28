@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.390114,
     "lbl:longitude":23.128589,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":60.390113,
     "mps:longitude":23.128589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0648"
     ],
@@ -161,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salo Kapell"
     ],
     "name:urd_x_preferred":[
@@ -195,7 +198,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.383056,
     "wd:longitude":23.133056,
@@ -214,7 +217,6 @@
     "wof:concordances":{
         "gn:id":637948,
         "gp:id":572706,
-        "qs:id":1079797,
         "qs_pg:id":1079797,
         "wd:id":"Q210987",
         "wk:page":"Salo, Finland"
@@ -234,7 +236,7 @@
         }
     ],
     "wof:id":101839159,
-    "wof:lastmodified":1563283981,
+    "wof:lastmodified":1566595256,
     "wof:name":"Salo",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

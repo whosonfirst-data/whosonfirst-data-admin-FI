@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.72201,60.40915,26.76201,60.44915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Koukkusaari"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1293086615,
-    "wof:lastmodified":1537622353,
+    "wof:lastmodified":1566594484,
     "wof:name":"Stensnaes Krokoe",
     "wof:parent_id":907198651,
     "wof:placetype":"locality",

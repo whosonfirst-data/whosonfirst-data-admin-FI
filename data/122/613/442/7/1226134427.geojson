@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.44373,60.96368,25.48373,61.00368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Vesala"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226134427,
-    "wof:lastmodified":1564102569,
+    "wof:lastmodified":1566595866,
     "wof:name":"Vesala",
     "wof:parent_id":907198585,
     "wof:placetype":"locality",

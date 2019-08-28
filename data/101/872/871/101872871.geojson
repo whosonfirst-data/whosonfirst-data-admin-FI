@@ -10,12 +10,16 @@
     "geom:latitude":64.11081,
     "geom:longitude":25.510845,
     "iso:country":"FI",
+    "lbl:bbox":"25.490845,64.09081,25.530845,64.13081",
     "lbl:latitude":64.11081,
     "lbl:longitude":25.510845,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.11081,
     "mps:longitude":25.510845,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjois-Pohjanmaa#Norra \u00d6sterbotten",
     "qs:a1r":"0Pohjois-Suomen AVI#Norra Finlands RFV",
@@ -33,7 +37,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":649601,
         "gp:id":568534,
-        "qs:id":494603,
         "qs_pg:id":494603
     },
     "wof:country":"FI",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101872871,
-    "wof:lastmodified":1544751367,
+    "wof:lastmodified":1566595164,
     "wof:name":"Kyt\u00f6kyl\u00e4",
     "wof:parent_id":907199471,
     "wof:placetype":"locality",

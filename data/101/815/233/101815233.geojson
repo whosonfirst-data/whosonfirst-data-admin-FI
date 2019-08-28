@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.646948,
     "lbl:longitude":25.581489,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.646948,
     "mps:longitude":25.58149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u064a\u0644\u0627"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":393,
     "wof:belongsto":[
@@ -127,7 +130,6 @@
     "wof:concordances":{
         "gn:id":640749,
         "gp:id":571703,
-        "qs:id":81344,
         "qs_pg:id":81344,
         "wd:id":"Q599159",
         "wk:page":"Pukkila"
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":101815233,
-    "wof:lastmodified":1563283800,
+    "wof:lastmodified":1566595201,
     "wof:name":"Pukkila",
     "wof:parent_id":907198663,
     "wof:placetype":"locality",

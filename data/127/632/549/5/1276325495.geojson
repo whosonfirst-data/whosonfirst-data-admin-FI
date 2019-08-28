@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.21171,61.48083,26.25171,61.52083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683091,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276325495,
-    "wof:lastmodified":1536789630,
+    "wof:lastmodified":1566594644,
     "wof:name":"Koitti",
     "wof:parent_id":907198739,
     "wof:placetype":"locality",

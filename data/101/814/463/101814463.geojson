@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.075343,
     "lbl:longitude":24.542889,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":64.075343,
     "mps:longitude":24.542889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Ylivieska"
     ],
@@ -159,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":64.072222,
     "wd:longitude":24.5375,
@@ -178,9 +181,11 @@
     "wof:concordances":{
         "gn:id":630768,
         "gp:id":575273,
-        "qs:id":474375,
         "qs_pg:id":466338,
         "wd:id":"Q735583"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":474375
     },
     "wof:country":"FI",
     "wof:geomhash":"a885a70975ff668a8199c8ccc7e009fd",
@@ -197,7 +202,7 @@
         }
     ],
     "wof:id":101814463,
-    "wof:lastmodified":1563283889,
+    "wof:lastmodified":1566595228,
     "wof:name":"Ylivieska",
     "wof:parent_id":907199437,
     "wof:placetype":"locality",

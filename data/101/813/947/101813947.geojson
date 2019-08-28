@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.504909,
     "lbl:longitude":25.681131,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":61.504909,
     "mps:longitude":25.681131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sysm\u00e4"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":301,
     "wof:belongsto":[
@@ -133,9 +136,11 @@
     "wof:concordances":{
         "gn:id":635336,
         "gp:id":573613,
-        "qs:id":189530,
-        "qs_pg:id":1189240,
+        "qs_pg:id":189530,
         "wd:id":"Q988280"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1189240
     },
     "wof:country":"FI",
     "wof:geomhash":"1a036e7bf2ee4940a9d5d880edc3dc4e",
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":101813947,
-    "wof:lastmodified":1563283973,
+    "wof:lastmodified":1566595254,
     "wof:name":"Sysm\u00e4",
     "wof:parent_id":907198701,
     "wof:placetype":"locality",

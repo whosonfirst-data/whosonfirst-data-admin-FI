@@ -13,6 +13,8 @@
     "iso:country":"FI",
     "lbl:latitude":66.507491,
     "lbl:longitude":25.696927,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":66.507492,
     "mps:longitude":25.696927,
     "mz:hierarchy_label":1,
@@ -222,7 +224,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0432\u0430\u043d\u0456\u0435\u043c\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rovanieni"
     ],
     "name:urd_x_preferred":[
@@ -351,7 +353,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":66.501389,
     "wd:longitude":25.734722,
@@ -370,10 +372,12 @@
     "wof:concordances":{
         "gn:id":638936,
         "gp:id":572369,
-        "qs:id":349782,
-        "qs_pg:id":1070968,
+        "qs_pg:id":349782,
         "wd:id":"Q103717",
         "wk:page":"Rovaniemi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1070968
     },
     "wof:country":"FI",
     "wof:geomhash":"7c7b0e4b3b23dd7721f812aeaedc581b",
@@ -390,7 +394,7 @@
         }
     ],
     "wof:id":101845609,
-    "wof:lastmodified":1563283683,
+    "wof:lastmodified":1566595159,
     "wof:name":"Rovaniemi",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

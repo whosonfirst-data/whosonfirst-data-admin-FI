@@ -13,6 +13,8 @@
     "iso:country":"FI",
     "lbl:latitude":63.838403,
     "lbl:longitude":23.121252,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":63.838403,
     "mps:longitude":23.121252,
     "mz:hierarchy_label":1,
@@ -177,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043a\u043a\u043e\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gamla-Kargabyu"
     ],
     "name:urd_x_preferred":[
@@ -297,7 +299,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":63.833333,
     "wd:longitude":23.133333,
@@ -316,10 +318,12 @@
     "wof:concordances":{
         "gn:id":654186,
         "gp:id":566917,
-        "qs:id":126531,
-        "qs_pg:id":319379,
+        "qs_pg:id":126531,
         "wd:id":"Q207891",
         "wk:page":"Kokkola"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":319379
     },
     "wof:country":"FI",
     "wof:geomhash":"51c50890972be6299c5bda117c8d75e5",
@@ -336,7 +340,7 @@
         }
     ],
     "wof:id":101814287,
-    "wof:lastmodified":1563283874,
+    "wof:lastmodified":1566595224,
     "wof:name":"Kokkola",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000286,
-    "geom:area_square_m":1758457.669202,
+    "geom:area_square_m":1758457.669203,
     "geom:bbox":"24.8725432652,60.1545355125,24.8972195941,60.1721116939",
     "geom:latitude":60.162919,
     "geom:longitude":24.884923,
@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.163877,
     "lbl:longitude":24.883453,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.163877,
     "mps:longitude":24.883453,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537261,
         907199715,
@@ -45,7 +45,8 @@
         101748417,
         136253047,
         890536879,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1108727063,
-    "wof:lastmodified":1529714729,
+    "wof:lastmodified":1566594919,
     "wof:name":"Kotkavuori",
     "wof:parent_id":890537261,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.380296,
     "lbl:longitude":21.552099,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.380296,
     "mps:longitude":21.552099,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "M\u00f6rtmark"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683113,
         102191581,
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":645821,
         "gp:id":25949304,
-        "qs:id":61015
+        "qs_pg:id":61015
     },
     "wof:country":"FI",
     "wof:geomhash":"1af7013228a92b0cb7fa7b1482da603e",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101814141,
-    "wof:lastmodified":1529709632,
+    "wof:lastmodified":1566595251,
     "wof:name":"Myrkky",
     "wof:parent_id":907199065,
     "wof:placetype":"locality",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000073,
-    "geom:area_square_m":437477.406661,
+    "geom:area_square_m":437477.40666,
     "geom:bbox":"28.2267184633,61.155920884,28.2407779792,61.1657236948",
     "geom:latitude":61.160333,
     "geom:longitude":28.233844,
     "iso:country":"FI",
     "lbl:latitude":61.15926,
     "lbl:longitude":28.23443,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.15926,
     "mps:longitude":28.23443,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Etel\u00e4-Karjala#S\u00f6dra Karelen",
     "qs:a1r":"0Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683103,
         102191581,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":632073,
         "gp:id":574787,
-        "qs:id":958431
+        "qs_pg:id":958431
     },
     "wof:country":"FI",
     "wof:geomhash":"af9380fb2645cacfedbf3c53aad1f529",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101814025,
-    "wof:lastmodified":1529707142,
+    "wof:lastmodified":1566595226,
     "wof:name":"Vehkataipale",
     "wof:parent_id":907198779,
     "wof:placetype":"locality",

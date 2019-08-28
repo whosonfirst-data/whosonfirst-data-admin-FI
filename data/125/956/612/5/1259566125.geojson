@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.25826,63.12459,22.29826,63.16459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Pytarbacken"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259566125,
-    "wof:lastmodified":1537622349,
+    "wof:lastmodified":1566595777,
     "wof:name":"Pytarbacken",
     "wof:parent_id":907199763,
     "wof:placetype":"locality",

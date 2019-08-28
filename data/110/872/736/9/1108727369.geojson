@@ -25,6 +25,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.263912,
     "lbl:longitude":25.056843,
+    "lbl:max_zoom":15.0,
     "mps:latitude":60.263912,
     "mps:longitude":25.056843,
     "mz:hierarchy_label":1,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108727369,
-    "wof:lastmodified":1564101414,
+    "wof:lastmodified":1566594926,
     "wof:name":"Puistola",
     "wof:parent_id":890536891,
     "wof:placetype":"macrohood",

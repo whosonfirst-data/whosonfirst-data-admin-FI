@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"30.22596,64.00565,30.26596,64.04565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kiekinkoski"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1293164101,
-    "wof:lastmodified":1537622252,
+    "wof:lastmodified":1566594568,
     "wof:name":"Kiekinkoski",
     "wof:parent_id":907199507,
     "wof:placetype":"locality",

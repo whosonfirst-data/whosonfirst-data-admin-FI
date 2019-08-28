@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.72012,62.79241,21.76012,62.83241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683113,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1360264069,
-    "wof:lastmodified":1536687531,
+    "wof:lastmodified":1566595147,
     "wof:name":"Murtoinen",
     "wof:parent_id":907199007,
     "wof:placetype":"locality",

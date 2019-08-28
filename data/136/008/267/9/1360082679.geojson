@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.68853,60.47065,26.72853,60.51065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "K\u00e4rril\u00e4nm\u00e4ki"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1360082679,
-    "wof:lastmodified":1537622312,
+    "wof:lastmodified":1566595128,
     "wof:name":"Kaerrilaenmaeki",
     "wof:parent_id":907198651,
     "wof:placetype":"locality",

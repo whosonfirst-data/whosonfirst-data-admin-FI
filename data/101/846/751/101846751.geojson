@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.450905,
     "lbl:longitude":23.237713,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.450905,
     "mps:longitude":23.237713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u0442\u0435\u043b\u0438"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":127,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":642093,
         "gp:id":23416101,
-        "qs:id":1027221,
         "qs_pg:id":1027221,
         "wd:id":"Q121715",
         "wk:page":"Pertteli"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101846751,
-    "wof:lastmodified":1563283753,
+    "wof:lastmodified":1566595186,
     "wof:name":"Pertteli",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

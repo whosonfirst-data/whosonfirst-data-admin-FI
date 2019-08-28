@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.38194,61.65051,29.42194,61.69051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Laakkee",
         "Laakkii"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1293379049,
-    "wof:lastmodified":1537622230,
+    "wof:lastmodified":1566594482,
     "wof:name":"Laakkii",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

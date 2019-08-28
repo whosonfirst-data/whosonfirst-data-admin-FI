@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.89808,
     "lbl:longitude":27.113738,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.89808,
     "mps:longitude":27.113738,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kaipiainen"
     ],
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683081,
         102191581,
@@ -52,7 +55,6 @@
     "wof:concordances":{
         "gn:id":654987,
         "gp:id":566550,
-        "qs:id":1014528,
         "qs_pg:id":1014528
     },
     "wof:country":"FI",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":101846785,
-    "wof:lastmodified":1529707610,
+    "wof:lastmodified":1566595183,
     "wof:name":"Kaipiainen",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

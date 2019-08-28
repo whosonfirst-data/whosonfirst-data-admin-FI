@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.387962,
     "lbl:longitude":23.88795,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.387962,
     "mps:longitude":23.88795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nummi"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":644289,
         "gp:id":570448,
-        "qs:id":1165840,
         "qs_pg:id":1165840,
         "wd:id":"Q690454"
     },
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":1175611475,
-    "wof:lastmodified":1563283482,
+    "wof:lastmodified":1566595026,
     "wof:name":"Nummi",
     "wof:parent_id":907198655,
     "wof:placetype":"locality",

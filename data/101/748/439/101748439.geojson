@@ -13,6 +13,8 @@
     "iso:country":"FI",
     "lbl:latitude":62.856937,
     "lbl:longitude":27.648468,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":62.906755,
     "mps:longitude":27.663774,
     "mz:hierarchy_label":1,
@@ -386,7 +388,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":62.8925,
     "wd:longitude":27.678333,
@@ -405,10 +407,12 @@
     "wof:concordances":{
         "gn:id":650224,
         "gp:id":568301,
-        "qs:id":560768,
-        "qs_pg:id":1079084,
+        "qs_pg:id":560768,
         "wd:id":"Q162279",
         "wk:page":"Kuopio"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079084
     },
     "wof:country":"FI",
     "wof:geomhash":"f78e5708252ccbd851bc11d6698fd7df",
@@ -425,7 +429,7 @@
         }
     ],
     "wof:id":101748439,
-    "wof:lastmodified":1563283710,
+    "wof:lastmodified":1566595168,
     "wof:name":"Kuopio",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

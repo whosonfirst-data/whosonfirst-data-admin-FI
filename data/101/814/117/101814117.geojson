@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.159134,
     "lbl:longitude":23.836019,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.159134,
     "mps:longitude":23.836019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Vimpeli"
     ],
@@ -83,7 +86,7 @@
     "name:tur_x_preferred":[
         "Vimpeli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wimpeli"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":267,
     "wof:belongsto":[
@@ -125,7 +128,6 @@
     "wof:concordances":{
         "gn:id":631448,
         "gp:id":575034,
-        "qs:id":1189278,
         "qs_pg:id":1189278,
         "wd:id":"Q6171"
     },
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101814117,
-    "wof:lastmodified":1563283912,
+    "wof:lastmodified":1566595237,
     "wof:name":"Vimpeli",
     "wof:parent_id":907199273,
     "wof:placetype":"locality",

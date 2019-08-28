@@ -10,8 +10,10 @@
     "geom:latitude":61.50212,
     "geom:longitude":23.78703,
     "iso:country":"FI",
+    "lbl:bbox":"23.78203,61.49712,23.79203,61.50712",
     "lbl:latitude":61.50212,
     "lbl:longitude":23.78703,
+    "lbl:max_zoom":18.0,
     "mps:latitude":61.50212,
     "mps:longitude":23.78703,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
         "Tampella"
     ],
     "name:rus_x_preferred":[
-        "Tampella"
-    ],
-    "name:unk_x_variant":[
         "Tampella"
     ],
     "qs:gn_adm0_cc":"FI",
@@ -73,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":605,
     "wof:belongsto":[
         102191581,
@@ -89,7 +88,6 @@
     "wof:concordances":{
         "gn:id":634965,
         "gp:id":573759,
-        "qs:id":861919,
         "qs_pg:id":861919,
         "wd:id":"Q5395070"
     },
@@ -112,7 +110,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830221,
+    "wof:lastmodified":1566594460,
     "wof:name":"Tampella",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

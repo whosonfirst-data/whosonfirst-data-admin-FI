@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.901993,
     "lbl:longitude":29.003867,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":64.901993,
     "mps:longitude":29.003867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Suomussalmi"
     ],
@@ -113,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043e\u043c\u0443\u0441\u0441\u0430\u043b\u043c\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Suomussahni"
     ],
     "name:vie_x_preferred":[
@@ -138,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":352,
     "wof:belongsto":[
@@ -154,10 +157,12 @@
     "wof:concordances":{
         "gn:id":635696,
         "gp:id":573478,
-        "qs:id":1207061,
         "qs_pg:id":1192673,
         "wd:id":"Q214054",
         "wk:page":"Suomussalmi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1207061
     },
     "wof:country":"FI",
     "wof:geomhash":"d34698dc8e43ac73e8c4bce802ccd983",
@@ -174,7 +179,7 @@
         }
     ],
     "wof:id":101814389,
-    "wof:lastmodified":1563283959,
+    "wof:lastmodified":1566595250,
     "wof:name":"Suomussalmi",
     "wof:parent_id":907199501,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.13161,61.08349,23.17161,61.12349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Talala"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1326752627,
-    "wof:lastmodified":1564099966,
+    "wof:lastmodified":1566593880,
     "wof:name":"Talala",
     "wof:parent_id":907198835,
     "wof:placetype":"locality",

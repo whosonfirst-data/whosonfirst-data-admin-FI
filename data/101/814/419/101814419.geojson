@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.907469,
     "lbl:longitude":25.520412,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":64.907469,
     "mps:longitude":25.520412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Kempele"
     ],
@@ -95,7 +98,7 @@
     "name:tur_x_preferred":[
         "Kempele"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kempelen"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":475,
     "wof:belongsto":[
@@ -136,10 +139,12 @@
     "wof:concordances":{
         "gn:id":653252,
         "gp:id":567221,
-        "qs:id":337776,
-        "qs_pg:id":1079079,
+        "qs_pg:id":337776,
         "wd:id":"Q985451",
         "wk:page":"Kempele"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079079
     },
     "wof:country":"FI",
     "wof:geomhash":"082a0829aaca4cd2fb44bbe42d08c301",
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":101814419,
-    "wof:lastmodified":1563283926,
+    "wof:lastmodified":1566595241,
     "wof:name":"Kempele",
     "wof:parent_id":907199479,
     "wof:placetype":"locality",

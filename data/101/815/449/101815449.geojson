@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.023531,
     "lbl:longitude":25.152781,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":61.023531,
     "mps:longitude":25.152781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0425\u044f\u043c\u0435\u044d\u043d\u043a\u0430\u0441\u043a\u0456"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":184,
     "wof:belongsto":[
@@ -124,10 +127,12 @@
     "wof:concordances":{
         "gn:id":651073,
         "gp:id":568012,
-        "qs:id":897615,
-        "qs_pg:id":977294,
+        "qs_pg:id":897615,
         "wd:id":"Q1025738",
         "wk:page":"H\u00e4meenkoski"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977294
     },
     "wof:country":"FI",
     "wof:geomhash":"eca0aaeef0956b770655d0cd22b9010e",
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":101815449,
-    "wof:lastmodified":1563283783,
+    "wof:lastmodified":1566595196,
     "wof:name":"H\u00e4meenkoski",
     "wof:parent_id":907198585,
     "wof:placetype":"locality",

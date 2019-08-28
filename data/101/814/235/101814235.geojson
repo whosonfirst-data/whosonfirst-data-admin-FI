@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000323,
-    "geom:area_square_m":1818910.380369,
+    "geom:area_square_m":1818910.380368,
     "geom:bbox":"21.2588979739,62.8526320747,21.3124588936,62.870862255",
     "geom:latitude":62.864537,
     "geom:longitude":21.285507,
     "iso:country":"FI",
     "lbl:latitude":62.864784,
     "lbl:longitude":21.285507,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.864784,
     "mps:longitude":21.285507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moikip\u00e4\u00e4"
     ],
@@ -39,7 +42,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683119,
         102191581,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":645887,
         "gp:id":569855,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q10587831"
     },
     "wof:country":"FI",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101814235,
-    "wof:lastmodified":1529709676,
+    "wof:lastmodified":1566595229,
     "wof:name":"Moikip\u00e4\u00e4",
     "wof:parent_id":907199033,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000504,
-    "geom:area_square_m":3096126.640317,
+    "geom:area_square_m":3096126.640318,
     "geom:bbox":"24.7533595913,60.2234158898,24.7969966156,60.2446989206",
     "geom:latitude":60.232306,
     "geom:longitude":24.78016,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.232464,
     "lbl:longitude":24.783464,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.232464,
     "mps:longitude":24.783464,
     "mz:hierarchy_label":1,
@@ -39,7 +40,6 @@
     "reversegeo:longitude":24.783464,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729265,
         907198517,
@@ -48,7 +48,8 @@
         101748415,
         136253047,
         1108729223,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108729427,
-    "wof:lastmodified":1529714747,
+    "wof:lastmodified":1566595014,
     "wof:name":"Karakallio",
     "wof:parent_id":1108729265,
     "wof:placetype":"neighbourhood",

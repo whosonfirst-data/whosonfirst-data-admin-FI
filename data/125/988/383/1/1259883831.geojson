@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.31516,60.25005,25.35516,60.29005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hiit\u00e5"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1259883831,
-    "wof:lastmodified":1537622281,
+    "wof:lastmodified":1566595788,
     "wof:name":"Hita",
     "wof:parent_id":907198521,
     "wof:placetype":"locality",

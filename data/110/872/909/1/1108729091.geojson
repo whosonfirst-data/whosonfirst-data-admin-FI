@@ -14,6 +14,7 @@
     "kuogov:NIMI":"Karttula",
     "lbl:latitude":62.895749,
     "lbl:longitude":26.968798,
+    "lbl:max_zoom":18.0,
     "mps:latitude":62.895749,
     "mps:longitude":26.968798,
     "mz:hierarchy_label":1,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108729091,
-    "wof:lastmodified":1564101402,
+    "wof:lastmodified":1566594914,
     "wof:name":"Karttula",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

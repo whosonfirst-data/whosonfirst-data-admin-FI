@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000114,
-    "geom:area_square_m":616084.547246,
+    "geom:area_square_m":616084.547245,
     "geom:bbox":"24.0537357654,64.2010209987,24.083801388,64.2085866692",
     "geom:latitude":64.204967,
     "geom:longitude":24.068402,
     "iso:country":"FI",
     "lbl:latitude":64.203944,
     "lbl:longitude":24.064416,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.203944,
     "mps:longitude":24.064416,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Tyng\u00e4nkyl\u00e4"
     ],
     "qs:a0":"Suomi#Finland",
@@ -34,7 +37,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":633570,
         "gp:id":574272,
-        "qs:id":321460
+        "qs_pg:id":321460
     },
     "wof:country":"FI",
     "wof:geomhash":"46bc3321e99911434d924886090bbb8a",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101847085,
-    "wof:lastmodified":1529709422,
+    "wof:lastmodified":1566595214,
     "wof:name":"Tynk\u00e4",
     "wof:parent_id":907199617,
     "wof:placetype":"locality",

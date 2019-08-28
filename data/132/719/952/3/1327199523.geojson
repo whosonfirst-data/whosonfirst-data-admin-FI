@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.12717,66.12108,25.16717,66.16108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koivu"
     ],
@@ -35,8 +39,7 @@
         "\u041a\u043e\u0439\u0432\u0443"
     ],
     "name:und_x_variant":[
-        "Koivukyl\u00e4",
-        "Koivu"
+        "Koivukyl\u00e4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1327199523,
-    "wof:lastmodified":1537622247,
+    "wof:lastmodified":1566593969,
     "wof:name":"Koivukylae",
     "wof:parent_id":907199545,
     "wof:placetype":"locality",

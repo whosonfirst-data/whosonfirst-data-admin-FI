@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.73604,59.97291,23.77604,60.01291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683067,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259893879,
-    "wof:lastmodified":1536764434,
+    "wof:lastmodified":1566595784,
     "wof:name":"Bredaeng",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

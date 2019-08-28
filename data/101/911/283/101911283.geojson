@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000749,
-    "geom:area_square_m":4304207.829197,
+    "geom:area_square_m":4304207.829198,
     "geom:bbox":"27.0274849145,62.2779020434,27.0971773311,62.3072474636",
     "geom:latitude":62.290357,
     "geom:longitude":27.065234,
     "iso:country":"FI",
     "lbl:latitude":62.296766,
     "lbl:longitude":27.068665,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.296766,
     "mps:longitude":27.068665,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Suomen Palloliiton It\u00e4-Suomen piiri"
     ],
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683109,
         102191581,
@@ -48,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":25947607,
-        "qs:id":975499,
         "qs_pg:id":975499
     },
     "wof:country":"FI",
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":101911283,
-    "wof:lastmodified":1529714455,
+    "wof:lastmodified":1566595260,
     "wof:name":"Naaraj\u00e4rvi",
     "wof:parent_id":907199013,
     "wof:placetype":"locality",

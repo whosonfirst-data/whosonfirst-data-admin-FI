@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.59632,60.34185,22.63632,60.38185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Paddais"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1343970885,
-    "wof:lastmodified":1537622196,
+    "wof:lastmodified":1566594297,
     "wof:name":"Paddais",
     "wof:parent_id":907198941,
     "wof:placetype":"locality",

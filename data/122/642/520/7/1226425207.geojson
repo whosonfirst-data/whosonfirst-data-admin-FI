@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.91172,63.51969,22.95172,63.55969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683119,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226425207,
-    "wof:lastmodified":1536675072,
+    "wof:lastmodified":1566595817,
     "wof:name":"Klavus",
     "wof:parent_id":907199161,
     "wof:placetype":"locality",

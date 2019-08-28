@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.64654,60.16843,24.68654,60.20843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Suvimets\u00e4"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226757305,
-    "wof:lastmodified":1537550112,
+    "wof:lastmodified":1566595804,
     "wof:name":"Soederskog",
     "wof:parent_id":907198517,
     "wof:placetype":"locality",

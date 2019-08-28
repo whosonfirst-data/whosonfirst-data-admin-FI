@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.83134,61.21477,28.87134,61.25477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683103,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293085655,
-    "wof:lastmodified":1536868261,
+    "wof:lastmodified":1566594485,
     "wof:name":"Tienhaara",
     "wof:parent_id":907198977,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Enonteki\u00f6 Airport"
     ],
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":102553381,
-    "wof:lastmodified":1563282422,
+    "wof:lastmodified":1566594281,
     "wof:name":"Enonteki\u00f6n lentoasema",
     "wof:parent_id":85683147,
     "wof:placetype":"campus",

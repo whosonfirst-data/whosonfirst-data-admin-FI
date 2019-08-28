@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.674486,
     "lbl:longitude":21.619508,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.674486,
     "mps:longitude":21.619509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ahlainen"
     ],
@@ -58,7 +61,7 @@
     "name:swe_x_variant":[
         "Hvittisbofj\u00e4rd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vittisbufierd"
     ],
     "qs:a0":"Suomi#Finland",
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         85683095,
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":662025,
         "gp:id":563948,
-        "qs:id":182833,
         "qs_pg:id":182833,
         "wd:id":"Q400342"
     },
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101846823,
-    "wof:lastmodified":1563283760,
+    "wof:lastmodified":1566595189,
     "wof:name":"Ahlainen",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

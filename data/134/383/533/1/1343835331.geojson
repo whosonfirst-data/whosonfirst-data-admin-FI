@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"30.23088,61.97056,30.27088,62.01056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u00e4yneenkyl\u00e4",
         "S\u00e4ynej\u00e4rvi"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343835331,
-    "wof:lastmodified":1537622164,
+    "wof:lastmodified":1566594327,
     "wof:name":"Saeyneenkylae",
     "wof:parent_id":907198727,
     "wof:placetype":"locality",

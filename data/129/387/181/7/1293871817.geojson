@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.26952,63.80165,26.30952,63.84165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lahnamaa",
         "Lahnanen"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1293871817,
-    "wof:lastmodified":1537622229,
+    "wof:lastmodified":1566594572,
     "wof:name":"Lahnanen",
     "wof:parent_id":907199481,
     "wof:placetype":"locality",

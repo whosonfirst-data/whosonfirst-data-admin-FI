@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.21717,60.45664,22.25717,60.49664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Ter\u00e4srautela"
     ],
@@ -35,9 +39,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0440\u044f\u0441\u0440\u0430\u0443\u0442\u0435\u043b\u0430"
-    ],
-    "name:und_x_variant":[
-        "Ter\u00e4srautela"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1210019731,
-    "wof:lastmodified":1564101260,
+    "wof:lastmodified":1566594838,
     "wof:name":"Teraesrautela",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

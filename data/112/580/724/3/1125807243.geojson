@@ -9,14 +9,18 @@
     "geom:bbox":"25.54716,61.17379,25.54716,61.17379",
     "geom:latitude":61.17379,
     "geom:longitude":25.54716,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FI",
+    "lbl:bbox":"25.52716,61.15379,25.56716,61.19379",
     "lbl:latitude":61.17379,
     "lbl:longitude":25.54716,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "V\u00e4\u00e4ksy"
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "V\u00e4\u00e4ksy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zaaksy"
     ],
     "qs_pg:aaroncc":"FI",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424812,
     "qs_pg:woe_id":574421,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424812,
     "woe:name_adm0":"Suomi",
     "woe:name_adm1":"P\u00e4ijat-H\u00e4meen maakunta",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1125807243,
-    "wof:lastmodified":1561830307,
+    "wof:lastmodified":1566595387,
     "wof:name":"V\u00e4\u00e4ksy",
     "wof:parent_id":907198691,
     "wof:placetype":"locality",

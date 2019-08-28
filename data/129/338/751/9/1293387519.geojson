@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.54833,61.528,24.58833,61.568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hietalahti"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1293387519,
-    "wof:lastmodified":1564100688,
+    "wof:lastmodified":1566594469,
     "wof:name":"Hietalahti",
     "wof:parent_id":907199393,
     "wof:placetype":"locality",

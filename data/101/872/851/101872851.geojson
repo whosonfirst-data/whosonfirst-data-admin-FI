@@ -10,12 +10,16 @@
     "geom:latitude":63.191826,
     "geom:longitude":26.688143,
     "iso:country":"FI",
+    "lbl:bbox":"26.668143,63.171826,26.708143,63.211826",
     "lbl:latitude":63.191826,
     "lbl:longitude":26.688143,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.191827,
     "mps:longitude":26.688143,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjois-Savo#Norra Savolax",
     "qs:a1r":"0It\u00e4-Suomen AVI#\u00d6stra Finlands RFV",
@@ -32,7 +36,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683131,
         102191581,
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":637375,
         "gp:id":572891,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"FI",
     "wof:geomhash":"22c77480f7776fae0b16470b0a117b23",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101872851,
-    "wof:lastmodified":1544751357,
+    "wof:lastmodified":1566595162,
     "wof:name":"S\u00e4vi\u00e4",
     "wof:parent_id":907199287,
     "wof:placetype":"locality",

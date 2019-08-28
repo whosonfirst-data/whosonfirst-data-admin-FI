@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.59791,63.04916,24.63791,63.08916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683117,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326706759,
-    "wof:lastmodified":1536732763,
+    "wof:lastmodified":1566593944,
     "wof:name":"Suokanta",
     "wof:parent_id":907199107,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001094,
-    "geom:area_square_m":6691418.779314,
+    "geom:area_square_m":6691418.779312,
     "geom:bbox":"24.7821799251,60.34247486,24.8318768104,60.3836430667",
     "geom:latitude":60.358533,
     "geom:longitude":24.805868,
@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.357454,
     "lbl:longitude":24.803421,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.357454,
     "mps:longitude":24.803421,
     "mz:hierarchy_label":1,
@@ -38,7 +39,6 @@
     "reversegeo:longitude":24.803421,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -46,7 +46,8 @@
         101748419,
         136253047,
         1108729481,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729565,
-    "wof:lastmodified":1529714755,
+    "wof:lastmodified":1566594978,
     "wof:name":"Luhtaanmaki",
     "wof:parent_id":1108729481,
     "wof:placetype":"neighbourhood",

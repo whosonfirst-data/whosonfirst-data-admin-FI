@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.923846,
     "lbl:longitude":25.170681,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":61.923846,
     "mps:longitude":25.170681,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "J\u00e4ms\u00e4nkoski"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":169,
     "wof:belongsto":[
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":656076,
         "gp:id":566147,
-        "qs:id":977279,
         "qs_pg:id":977279,
         "wd:id":"Q992990",
         "wk:page":"J\u00e4ms\u00e4nkoski"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101814213,
-    "wof:lastmodified":1563283941,
+    "wof:lastmodified":1566595246,
     "wof:name":"J\u00e4ms\u00e4nkoski",
     "wof:parent_id":907199101,
     "wof:placetype":"locality",

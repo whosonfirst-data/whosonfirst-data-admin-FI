@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":2176190.043986,
+    "geom:area_square_m":2176190.043987,
     "geom:bbox":"24.6507955387,60.1921653673,24.6886676868,60.2076764782",
     "geom:latitude":60.199833,
     "geom:longitude":24.669998,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.200014,
     "lbl:longitude":24.669637,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.200014,
     "mps:longitude":24.669637,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "reversegeo:longitude":24.669637,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729247,
         907198517,
@@ -45,7 +45,8 @@
         101748415,
         136253047,
         1108729217,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729343,
-    "wof:lastmodified":1529714740,
+    "wof:lastmodified":1566594983,
     "wof:name":"Suvela",
     "wof:parent_id":1108729247,
     "wof:placetype":"neighbourhood",

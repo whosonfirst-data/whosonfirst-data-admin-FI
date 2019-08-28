@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.16333,60.13,23.20333,60.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Storbaggb\u00f6le"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310704877,
-    "wof:lastmodified":1537622274,
+    "wof:lastmodified":1566595034,
     "wof:name":"Isopakapyoeli",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

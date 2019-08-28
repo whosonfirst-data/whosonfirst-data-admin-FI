@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.17983,60.97218,22.21983,61.01218",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Alhonkulma"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327035881,
-    "wof:lastmodified":1537622324,
+    "wof:lastmodified":1566593935,
     "wof:name":"Alhonkulma",
     "wof:parent_id":907198915,
     "wof:placetype":"locality",

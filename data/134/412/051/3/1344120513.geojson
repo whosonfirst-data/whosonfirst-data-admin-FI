@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.21333,65.24667,27.25333,65.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "H\u00e4yrymen",
         "H\u00e4yrynen"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1344120513,
-    "wof:lastmodified":1537622286,
+    "wof:lastmodified":1566594316,
     "wof:name":"Haeyrynen",
     "wof:parent_id":907199499,
     "wof:placetype":"locality",

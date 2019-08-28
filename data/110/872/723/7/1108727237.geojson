@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.220591,
     "lbl:longitude":25.108077,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.220591,
     "mps:longitude":25.108077,
     "mz:hierarchy_label":1,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108727237,
-    "wof:lastmodified":1563283404,
+    "wof:lastmodified":1566594966,
     "wof:name":"Vartioharju",
     "wof:parent_id":890537287,
     "wof:placetype":"neighbourhood",

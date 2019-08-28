@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.345242,
     "lbl:longitude":21.32582,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.345242,
     "mps:longitude":21.32582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bj\u00f6rk\u00f6by"
     ],
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Bj\u00f6rk\u00f6by"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bj\u00f6rk\u00f6"
     ],
     "qs:a0":"Suomi#Finland",
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":66,
     "wof:belongsto":[
         85683119,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":660652,
         "gp:id":564412,
-        "qs:id":1165977,
         "qs_pg:id":1165977,
         "wd:id":"Q15199541",
         "wk:page":"Bj\u00f6rk\u00f6by"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101846969,
-    "wof:lastmodified":1563283756,
+    "wof:lastmodified":1566595187,
     "wof:name":"Bj\u00f6rk\u00f6by",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

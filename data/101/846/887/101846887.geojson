@@ -12,11 +12,14 @@
     "iso:country":"FI",
     "lbl:latitude":62.907766,
     "lbl:longitude":23.228899,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.907766,
     "mps:longitude":23.228899,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Tiis"
     ],
     "qs:a0":"Suomi#Finland",
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683113,
         102191581,
@@ -49,7 +52,6 @@
     "wof:concordances":{
         "gn:id":634473,
         "gp:id":573939,
-        "qs:id":382818,
         "qs_pg:id":382818
     },
     "wof:country":"FI",
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":101846887,
-    "wof:lastmodified":1529709634,
+    "wof:lastmodified":1566595179,
     "wof:name":"Tiistenjoki",
     "wof:parent_id":907199241,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.36525,62.55022,25.40525,62.59022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683117,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1344034093,
-    "wof:lastmodified":1536914213,
+    "wof:lastmodified":1566594381,
     "wof:name":"Maekikylae",
     "wof:parent_id":907199213,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"31.06828,62.64719,31.10828,62.68719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kettulu",
         "Kettala",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1209996773,
-    "wof:lastmodified":1537622252,
+    "wof:lastmodified":1566594748,
     "wof:name":"Viitaranta",
     "wof:parent_id":907199525,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":60.245915,
     "geom:longitude":24.88159,
     "iso:country":"FI",
+    "lbl:bbox":"24.8765900894,60.2409153501,24.8865900894,60.2509153501",
     "lbl:latitude":60.245915,
     "lbl:longitude":24.88159,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -45,7 +47,7 @@
     "name:swe_x_preferred":[
         "K\u00e5rb\u00f6le"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         890537241,
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":1108938449,
-    "wof:lastmodified":1563283474,
+    "wof:lastmodified":1566595023,
     "wof:name":"Kaarela",
     "wof:parent_id":890537241,
     "wof:placetype":"neighbourhood",

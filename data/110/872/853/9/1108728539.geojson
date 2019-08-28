@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.462363,
     "lbl:longitude":22.272146,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.462363,
     "mps:longitude":22.272146,
     "mz:hierarchy_label":1,
@@ -30,14 +31,14 @@
     "tkugov:NIMI":"Raunistula et",
     "tkugov:PIENALUE":"853608098",
     "wof:belongsto":[
-        85683073,
         102191581,
         907198909,
         85633143,
         404227405,
         101748421,
         136253047,
-        1159321603
+        1159321603,
+        85683073
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1108728539,
-    "wof:lastmodified":1529706496,
+    "wof:lastmodified":1566595000,
     "wof:name":"Raunistula et",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

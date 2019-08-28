@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.39667,63.66333,27.43667,63.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683131,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1309993889,
-    "wof:lastmodified":1536660120,
+    "wof:lastmodified":1566595275,
     "wof:name":"Aittomaeki",
     "wof:parent_id":907199331,
     "wof:placetype":"locality",

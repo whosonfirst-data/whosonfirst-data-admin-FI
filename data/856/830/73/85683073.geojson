@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":60.2014,
     "lbl:longitude":22.011269,
+    "lbl:min_zoom":8.0,
     "mps:latitude":60.204152,
     "mps:longitude":22.01037,
     "mz:hierarchy_label":1,
@@ -202,7 +203,7 @@
         "Egentliga Finland"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0ba9\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1  \u0baa\u0bcd\u0bb0\u0bca\u0baa\u0bc7\u0bb0\u0bcd"
+        "\u0baa\u0bbf\u0ba9\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bcd\u0bb0\u0bca\u0baa\u0bc7\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c3f\u0c28\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c2a\u0c30\u0c4d"
@@ -298,7 +299,7 @@
     "qs:type":"Maakunta#Landskap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"FI-19",
     "wd:wordcount":778,
     "wof:belongsto":[
@@ -336,7 +337,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282658,
+    "wof:lastmodified":1566594447,
     "wof:name":"Southwest Finland",
     "wof:parent_id":404227405,
     "wof:placetype":"region",

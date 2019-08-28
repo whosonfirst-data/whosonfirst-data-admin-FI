@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":60.556615,
     "lbl:longitude":20.896459,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Brando"
     ],
@@ -69,7 +72,7 @@
         "Brando"
     ],
     "src:geom":"figov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85632789,
         102191581,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":907198555,
-    "wof:lastmodified":1564100300,
+    "wof:lastmodified":1566594032,
     "wof:name":"Brando",
     "wof:parent_id":1159321503,
     "wof:placetype":"localadmin",

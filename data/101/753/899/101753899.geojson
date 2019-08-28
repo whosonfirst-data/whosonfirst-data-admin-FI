@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.403519,
     "lbl:longitude":22.370807,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.403519,
     "mps:longitude":22.370807,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0622\u0631\u064a\u0646\u0627"
     ],
@@ -137,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0430\u0440\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint Karin"
     ],
     "name:urd_x_preferred":[
@@ -165,7 +168,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.406944,
     "wd:longitude":22.372222,
@@ -184,9 +187,11 @@
     "wof:concordances":{
         "gn:id":841891,
         "gp:id":566494,
-        "qs:id":953668,
-        "qs_pg:id":1115917,
+        "qs_pg:id":953668,
         "wd:id":"Q735563"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1115917
     },
     "wof:country":"FI",
     "wof:geomhash":"33fed6120d868f5c7eba762d7b3ae991",
@@ -203,7 +208,7 @@
         }
     ],
     "wof:id":101753899,
-    "wof:lastmodified":1563283675,
+    "wof:lastmodified":1566595156,
     "wof:name":"Kaarina",
     "wof:parent_id":907198993,
     "wof:placetype":"locality",

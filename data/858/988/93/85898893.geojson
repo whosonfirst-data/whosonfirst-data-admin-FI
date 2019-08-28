@@ -13,6 +13,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.386016,
     "lbl:longitude":25.059981,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.397426,
     "mps:longitude":25.069633,
     "mz:hierarchy_label":0,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:fin_x_preferred":[
-        "Saviolla"
-    ],
-    "name:unk_x_variant":[
         "Saviolla"
     ],
     "qs:gn_adm0_cc":"FI",
@@ -61,20 +59,19 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85683067,
         102191581,
         907198631,
         85633143,
         404227411,
         136253047,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":572915,
-        "qs:id":1139165,
         "qs_pg:id":1139165
     },
     "wof:country":"FI",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1529714764,
+    "wof:lastmodified":1566594462,
     "wof:name":"Saviolla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

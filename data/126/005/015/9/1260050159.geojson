@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.53646,62.66919,21.57646,62.70919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u00f6rtmossa",
         "P\u00f6rtfors"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1260050159,
-    "wof:lastmodified":1537622184,
+    "wof:lastmodified":1566594910,
     "wof:name":"Poertbaecken",
     "wof:parent_id":907199661,
     "wof:placetype":"locality",

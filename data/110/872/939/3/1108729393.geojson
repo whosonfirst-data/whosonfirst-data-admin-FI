@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
-    "geom:area_square_m":1813658.994381,
+    "geom:area_square_m":1813658.994382,
     "geom:bbox":"24.7291173126,60.1639002791,24.7558287734,60.1820568356",
     "geom:latitude":60.172695,
     "geom:longitude":24.743424,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.172018,
     "lbl:longitude":24.743675,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.172018,
     "mps:longitude":24.743675,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "reversegeo:longitude":24.743675,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729255,
         907198517,
@@ -45,7 +45,8 @@
         101748415,
         136253047,
         1108729221,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729393,
-    "wof:lastmodified":1529714743,
+    "wof:lastmodified":1566594923,
     "wof:name":"Olarinmaki",
     "wof:parent_id":1108729255,
     "wof:placetype":"neighbourhood",

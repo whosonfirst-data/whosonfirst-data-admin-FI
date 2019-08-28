@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":64.267959,
     "lbl:longitude":24.876242,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041e\u045e\u043b\u0430\u0439\u043d\u0435\u043d"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":907199517,
-    "wof:lastmodified":1564100398,
+    "wof:lastmodified":1566594174,
     "wof:name":"Oulainen",
     "wof:parent_id":1159321569,
     "wof:placetype":"localadmin",

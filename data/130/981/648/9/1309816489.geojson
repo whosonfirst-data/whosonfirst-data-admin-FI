@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.84357,60.1222,21.88357,60.1622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khersor",
         "H\u00f6gsar"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1309816489,
-    "wof:lastmodified":1537622281,
+    "wof:lastmodified":1566595302,
     "wof:name":"Hoegsar",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

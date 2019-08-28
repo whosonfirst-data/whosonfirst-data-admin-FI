@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.95118,60.70754,25.99118,60.74754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683091,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326621779,
-    "wof:lastmodified":1536853816,
+    "wof:lastmodified":1566593958,
     "wof:name":"Hiitelae",
     "wof:parent_id":907198577,
     "wof:placetype":"locality",

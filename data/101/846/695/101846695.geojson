@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.624168,
     "lbl:longitude":26.200182,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.624169,
     "mps:longitude":26.200182,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lapinj\u00e4rvi"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":18,
     "wof:belongsto":[
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":648965,
         "gp:id":568762,
-        "qs:id":1027238,
         "qs_pg:id":1027238,
         "wd:id":"Q20999555"
     },
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101846695,
-    "wof:lastmodified":1563283743,
+    "wof:lastmodified":1566595182,
     "wof:name":"Lapinj\u00e4rvi",
     "wof:parent_id":907198607,
     "wof:placetype":"locality",

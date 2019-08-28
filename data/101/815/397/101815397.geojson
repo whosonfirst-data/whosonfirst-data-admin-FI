@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001254,
-    "geom:area_square_m":7536884.298431,
+    "geom:area_square_m":7536884.298435,
     "geom:bbox":"24.6109820174,60.9070023792,24.6937794443,60.9484068506",
     "geom:latitude":60.924855,
     "geom:longitude":24.648888,
     "iso:country":"FI",
     "lbl:latitude":60.921821,
     "lbl:longitude":24.648261,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.921821,
     "mps:longitude":24.648261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Turenki"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":60.9167,
     "wd:longitude":24.6333,
     "wd:wordcount":87,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":633700,
         "gp:id":566148,
-        "qs:id":1026782,
         "qs_pg:id":1026782,
         "wd:id":"Q7854844",
         "wk:page":"Turenki"
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":101815397,
-    "wof:lastmodified":1529711985,
+    "wof:lastmodified":1566595195,
     "wof:name":"Turenki",
     "wof:parent_id":907199113,
     "wof:placetype":"locality",

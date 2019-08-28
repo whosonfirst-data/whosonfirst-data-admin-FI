@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.899623,
     "lbl:longitude":27.856583,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":61.899623,
     "mps:longitude":27.856582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Juva"
     ],
@@ -89,9 +92,6 @@
     "name:tur_x_preferred":[
         "Juva"
     ],
-    "name:unk_x_variant":[
-        "Jockas"
-    ],
     "name:zho_x_preferred":[
         "\u5c24\u74e6"
     ],
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":337,
     "wof:belongsto":[
@@ -127,9 +127,11 @@
     "wof:concordances":{
         "gn:id":655253,
         "gp:id":566441,
-        "qs:id":189532,
-        "qs_pg:id":977288,
+        "qs_pg:id":189532,
         "wd:id":"Q1000117"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977288
     },
     "wof:country":"FI",
     "wof:geomhash":"52ecc3b43ed1d612d70fa9e39664f9e8",
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":101814061,
-    "wof:lastmodified":1563283948,
+    "wof:lastmodified":1566595247,
     "wof:name":"Juva",
     "wof:parent_id":907198761,
     "wof:placetype":"locality",

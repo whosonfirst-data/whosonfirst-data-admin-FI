@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.5298,60.45304,25.5698,60.49304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Kaarenkyl\u00e4"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209228819,
-    "wof:lastmodified":1537622311,
+    "wof:lastmodified":1566594774,
     "wof:name":"Kaarenkylae",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

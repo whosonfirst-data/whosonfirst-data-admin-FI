@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.563017,
     "lbl:longitude":23.061884,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.563017,
     "mps:longitude":23.061884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Per\u00e4sein\u00e4joki"
     ],
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Per\u00e4sein\u00e4joki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pereseynyayoki"
     ],
     "qs:a0":"Suomi#Finland",
@@ -63,7 +66,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":267,
     "wof:belongsto":[
         85683113,
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":642149,
         "gp:id":572948,
-        "qs:id":243455,
+        "qs_pg:id":243455,
         "wd:id":"Q2371138",
         "wk:page":"Per\u00e4sein\u00e4joki"
     },
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101814105,
-    "wof:lastmodified":1561830284,
+    "wof:lastmodified":1566595220,
     "wof:name":"Per\u00e4sein\u00e4joki",
     "wof:parent_id":907199285,
     "wof:placetype":"locality",

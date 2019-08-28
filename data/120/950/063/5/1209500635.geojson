@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.83716,60.71084,27.87716,60.75084",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kaitainen",
         "Joussaari",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209500635,
-    "wof:lastmodified":1537622265,
+    "wof:lastmodified":1566594776,
     "wof:name":"Kaitai",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

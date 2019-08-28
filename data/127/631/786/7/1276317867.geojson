@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.48,61.13,27.52,61.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vinmaj\u00e4rvi",
         "Virmaj\u00e4rvi"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276317867,
-    "wof:lastmodified":1537622132,
+    "wof:lastmodified":1566594717,
     "wof:name":"Virmajaervi",
     "wof:parent_id":907198759,
     "wof:placetype":"locality",

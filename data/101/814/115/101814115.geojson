@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.21454,
     "lbl:longitude":23.629726,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.21454,
     "mps:longitude":23.629726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Lappaj\u00e4rvi"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":283,
     "wof:belongsto":[
@@ -127,9 +130,11 @@
     "wof:concordances":{
         "gn:id":648919,
         "gp:id":568775,
-        "qs:id":1207077,
-        "qs_pg:id":1327520,
+        "qs_pg:id":1207077,
         "wd:id":"Q6020"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327520
     },
     "wof:country":"FI",
     "wof:geomhash":"f1eb4e33a5bd278c73cc71bdf54e82bf",
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":101814115,
-    "wof:lastmodified":1563283956,
+    "wof:lastmodified":1566595250,
     "wof:name":"Lappaj\u00e4rvi",
     "wof:parent_id":907199255,
     "wof:placetype":"locality",

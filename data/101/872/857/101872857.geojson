@@ -11,12 +11,16 @@
     "geom:longitude":28.269676,
     "gn:population":1596,
     "iso:country":"FI",
+    "lbl:bbox":"28.249676,62.271462,28.289676,62.311462",
     "lbl:latitude":62.291462,
     "lbl:longitude":28.269676,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":62.291462,
     "mps:longitude":28.269676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Kangaslampi"
     ],
@@ -268,7 +272,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":98,
     "wof:belongsto":[
@@ -284,7 +288,6 @@
     "wof:concordances":{
         "gn:id":654413,
         "gp:id":566717,
-        "qs:id":126555,
         "qs_pg:id":126555,
         "wd:id":"Q1580024",
         "wk:page":"Kangaslampi"
@@ -304,7 +307,7 @@
         }
     ],
     "wof:id":101872857,
-    "wof:lastmodified":1561830267,
+    "wof:lastmodified":1566595161,
     "wof:name":"Kangaslampi",
     "wof:parent_id":907199707,
     "wof:placetype":"locality",

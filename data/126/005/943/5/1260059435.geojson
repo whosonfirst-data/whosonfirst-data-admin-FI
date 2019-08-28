@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.01371,62.59201,26.05371,62.63201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683117,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260059435,
-    "wof:lastmodified":1537021758,
+    "wof:lastmodified":1566594914,
     "wof:name":"Saarikas",
     "wof:parent_id":907199205,
     "wof:placetype":"locality",

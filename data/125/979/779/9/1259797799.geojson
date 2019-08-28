@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.99832,60.2965,25.03832,60.3365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Simonsilta"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1259797799,
-    "wof:lastmodified":1537622333,
+    "wof:lastmodified":1566595737,
     "wof:name":"Simonsbro",
     "wof:parent_id":907199651,
     "wof:placetype":"locality",

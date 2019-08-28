@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.33882,63.36989,22.37882,63.40989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u043e\u043d\u0430"
     ],
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":1293854261,
-    "wof:lastmodified":1564100751,
+    "wof:lastmodified":1566594509,
     "wof:name":"Mona",
     "wof:parent_id":907199045,
     "wof:placetype":"locality",

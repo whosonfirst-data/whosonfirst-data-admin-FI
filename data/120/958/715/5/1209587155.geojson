@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.96333,64.39667,25.00333,64.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Anttila"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209587155,
-    "wof:lastmodified":1564101183,
+    "wof:lastmodified":1566594792,
     "wof:name":"Anttila",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

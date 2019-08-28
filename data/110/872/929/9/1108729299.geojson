@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000653,
-    "geom:area_square_m":4016590.094712,
+    "geom:area_square_m":4016590.094716,
     "geom:bbox":"24.6811658736,60.1358971028,24.7403156645,60.1553518243",
     "geom:latitude":60.145104,
     "geom:longitude":24.707929,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.147003,
     "lbl:longitude":24.707488,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.147003,
     "mps:longitude":24.707488,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "reversegeo:longitude":24.707488,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729231,
         907198517,
@@ -45,7 +45,8 @@
         101748415,
         136253047,
         1108729211,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729299,
-    "wof:lastmodified":1529714738,
+    "wof:lastmodified":1566595010,
     "wof:name":"Iivisniemi",
     "wof:parent_id":1108729231,
     "wof:placetype":"neighbourhood",

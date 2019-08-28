@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":66.121573,
     "lbl:longitude":28.057082,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041f\u043e\u0441\u0438\u043e"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":907199533,
-    "wof:lastmodified":1564100353,
+    "wof:lastmodified":1566594103,
     "wof:name":"Posio",
     "wof:parent_id":1159321535,
     "wof:placetype":"localadmin",

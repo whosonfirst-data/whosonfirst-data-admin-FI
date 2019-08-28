@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.33964,60.2266,23.37964,60.2666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Metsola",
         "Metola"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1226548805,
-    "wof:lastmodified":1537622212,
+    "wof:lastmodified":1566595907,
     "wof:name":"Metola",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.66804,61.92321,22.70804,61.96321",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Saukonkyl\u00e4",
         "Saukkokoski"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1344179201,
-    "wof:lastmodified":1537622166,
+    "wof:lastmodified":1566594374,
     "wof:name":"Saukonkylae",
     "wof:parent_id":907199125,
     "wof:placetype":"locality",

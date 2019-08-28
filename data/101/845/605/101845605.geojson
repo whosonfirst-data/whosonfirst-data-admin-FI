@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00072,
-    "geom:area_square_m":3665722.828822,
+    "geom:area_square_m":3665722.82882,
     "geom:bbox":"24.6069354591,65.6764470505,24.6814966105,65.7016561161",
     "geom:latitude":65.688135,
     "geom:longitude":24.642432,
     "iso:country":"FI",
     "lbl:latitude":65.689821,
     "lbl:longitude":24.630549,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.689821,
     "mps:longitude":24.630549,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Veitsiluoto"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":632020,
         "gp:id":574816,
-        "qs:id":321604
+        "qs_pg:id":321604
     },
     "wof:country":"FI",
     "wof:geomhash":"a0ffe2f1afbafa84a81e21ade2737aac",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101845605,
-    "wof:lastmodified":1529708128,
+    "wof:lastmodified":1566595158,
     "wof:name":"Veitsiluoto",
     "wof:parent_id":907199597,
     "wof:placetype":"locality",

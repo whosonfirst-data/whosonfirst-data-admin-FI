@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":59.933931,
     "lbl:longitude":23.509855,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Raasepori"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":907199747,
-    "wof:lastmodified":1544224842,
+    "wof:lastmodified":1566594179,
     "wof:name":"Raasepori",
     "wof:parent_id":1159321627,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.681014,
     "lbl:longitude":24.358524,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":61.681014,
     "mps:longitude":24.358524,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Orivesi"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0456\u0432\u0435\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orihvesi"
     ],
     "name:urd_x_preferred":[
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":61.677778,
     "wd:longitude":24.356944,
@@ -148,10 +151,12 @@
     "wof:concordances":{
         "gn:id":634301,
         "gp:id":570697,
-        "qs:id":474326,
         "qs_pg:id":23924,
         "wd:id":"Q953081",
         "wk:page":"Orivesi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":474326
     },
     "wof:country":"FI",
     "wof:geomhash":"49ef23726b633a4685e98f73598a3535",
@@ -168,7 +173,7 @@
         }
     ],
     "wof:id":101814001,
-    "wof:lastmodified":1563283898,
+    "wof:lastmodified":1566595232,
     "wof:name":"Orivesi",
     "wof:parent_id":907199393,
     "wof:placetype":"locality",

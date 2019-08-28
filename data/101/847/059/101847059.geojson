@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000073,
-    "geom:area_square_m":377529.196989,
+    "geom:area_square_m":377529.196988,
     "geom:bbox":"25.3338663729,65.2445540865,25.3587014845,65.2512866495",
     "geom:latitude":65.247936,
     "geom:longitude":25.34671,
     "iso:country":"FI",
     "lbl:latitude":65.248168,
     "lbl:longitude":25.350661,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.248168,
     "mps:longitude":25.35066,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Halonen"
     ],
     "qs:a0":"Suomi#Finland",
@@ -33,7 +36,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":659253,
         "gp:id":564970,
-        "qs:id":318825
+        "qs_pg:id":318825
     },
     "wof:country":"FI",
     "wof:geomhash":"98bec77d1570406775d044334bfa7241",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101847059,
-    "wof:lastmodified":1529709419,
+    "wof:lastmodified":1566595218,
     "wof:name":"Halosenniemi",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.021652,
     "lbl:longitude":24.505426,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":62.021652,
     "mps:longitude":24.505426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u043f\u0443\u043b\u0430"
     ],
@@ -65,7 +68,7 @@
     "name:swe_x_preferred":[
         "Filpula"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Val'ppu"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":167,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
     "wof:concordances":{
         "gn:id":631459,
         "gp:id":575026,
-        "qs:id":1189277,
         "qs_pg:id":1189277,
         "wd:id":"Q1264422",
         "wk:page":"Vilppula"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101813983,
-    "wof:lastmodified":1561830291,
+    "wof:lastmodified":1566595254,
     "wof:name":"Vilppula",
     "wof:parent_id":907199743,
     "wof:placetype":"locality",

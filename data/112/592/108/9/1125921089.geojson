@@ -9,14 +9,18 @@
     "geom:bbox":"24.68988,60.5045,24.68988,60.5045",
     "geom:latitude":60.5045,
     "geom:longitude":24.68988,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FI",
+    "lbl:bbox":"24.66988,60.4845,24.70988,60.5245",
     "lbl:latitude":60.5045,
     "lbl:longitude":24.68988,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kiljava"
@@ -30,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u044c\u044f\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kiljavan Nummi"
     ],
     "qs_pg:aaroncc":"FI",
@@ -54,7 +58,7 @@
     "qs_pg:woe_adm0":23424812,
     "qs_pg:woe_id":567388,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424812,
     "woe:name_adm0":"Suomi",
     "woe:name_adm1":"Uudenmaan maakunta",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1125921089,
-    "wof:lastmodified":1563284093,
+    "wof:lastmodified":1566595343,
     "wof:name":"Kiljava",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

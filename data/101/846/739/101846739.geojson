@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.56117,
     "lbl:longitude":21.611445,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.561171,
     "mps:longitude":21.611446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Taivassalo"
     ],
@@ -80,7 +83,7 @@
     "name:tur_x_preferred":[
         "Taivassalo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u00f6fsala"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":202,
     "wof:belongsto":[
@@ -124,9 +127,11 @@
     "wof:concordances":{
         "gn:id":660967,
         "gp:id":573693,
-        "qs:id":1242907,
         "qs_pg:id":321303,
         "wd:id":"Q807904"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1242907
     },
     "wof:country":"FI",
     "wof:geomhash":"f94d567088feb119b3a267f55105573e",
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":101846739,
-    "wof:lastmodified":1563283729,
+    "wof:lastmodified":1566595176,
     "wof:name":"Taivassalo",
     "wof:parent_id":907198635,
     "wof:placetype":"locality",

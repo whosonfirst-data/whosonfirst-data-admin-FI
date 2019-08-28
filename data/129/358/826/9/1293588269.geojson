@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.85054,60.77185,23.89054,60.81185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683077,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293588269,
-    "wof:lastmodified":1536640978,
+    "wof:lastmodified":1566594539,
     "wof:name":"Hykkilae",
     "wof:parent_id":907198581,
     "wof:placetype":"locality",

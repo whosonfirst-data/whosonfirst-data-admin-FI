@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000245,
-    "geom:area_square_m":1450046.341239,
+    "geom:area_square_m":1450046.34124,
     "geom:bbox":"23.7208264897,61.4444376152,23.7503927771,61.4634971867",
     "geom:latitude":61.455923,
     "geom:longitude":23.734932,
     "iso:country":"FI",
     "lbl:latitude":61.455878,
     "lbl:longitude":23.734937,
+    "lbl:max_zoom":18.0,
     "mps:latitude":61.455878,
     "mps:longitude":23.734937,
     "mz:hierarchy_label":1,
@@ -33,14 +34,14 @@
     "tmpgov:id":"409302",
     "tmpgov:name":"Sarankulma",
     "wof:belongsto":[
-        85683099,
         102191581,
         907199231,
         85633143,
         404227417,
         101748431,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1108728325,
-    "wof:lastmodified":1529711325,
+    "wof:lastmodified":1566594947,
     "wof:name":"Sarankulma",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

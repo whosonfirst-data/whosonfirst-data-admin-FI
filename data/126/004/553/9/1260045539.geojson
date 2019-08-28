@@ -26,16 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.3843,66.66227,24.4243,66.70227",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sirkka"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u0440\u043a\u043a\u0430\u043a\u043e\u0441\u043a\u0438"
-    ],
-    "name:und_x_variant":[
-        "Sirkka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1260045539,
-    "wof:lastmodified":1537622161,
+    "wof:lastmodified":1566594907,
     "wof:name":"Sirkkakoski",
     "wof:parent_id":907199553,
     "wof:placetype":"locality",

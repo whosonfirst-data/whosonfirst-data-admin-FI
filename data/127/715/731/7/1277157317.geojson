@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"30.03,62.49667,30.07,62.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683133,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1277157317,
-    "wof:lastmodified":1536660264,
+    "wof:lastmodified":1566594655,
     "wof:name":"Haemaelae",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

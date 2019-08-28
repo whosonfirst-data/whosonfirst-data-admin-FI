@@ -30,10 +30,13 @@
     ],
     "lbl:latitude":62.663932,
     "lbl:longitude":23.549437,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":62.663932,
     "mps:longitude":23.549437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kuusiokunnat"
     ],
@@ -66,7 +69,7 @@
     ],
     "src:geom":"fivgov",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683113,
         102191581,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1159321555,
-    "wof:lastmodified":1564102081,
+    "wof:lastmodified":1566595570,
     "wof:name":"Kuusiokunnat",
     "wof:parent_id":85683113,
     "wof:placetype":"county",

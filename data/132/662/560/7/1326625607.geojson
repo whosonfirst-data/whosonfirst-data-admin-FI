@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.95224,62.0149,28.99224,62.0549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Simanala"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1326625607,
-    "wof:lastmodified":1537622162,
+    "wof:lastmodified":1566593958,
     "wof:name":"Simanala",
     "wof:parent_id":907199021,
     "wof:placetype":"locality",

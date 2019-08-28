@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000528,
-    "geom:area_square_m":2931853.77341,
+    "geom:area_square_m":2931853.773409,
     "geom:bbox":"30.118101633,63.3094798209,30.1731138762,63.3349437713",
     "geom:latitude":63.322851,
     "geom:longitude":30.146369,
     "iso:country":"FI",
     "lbl:latitude":63.326681,
     "lbl:longitude":30.15137,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.326681,
     "mps:longitude":30.15137,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pankakoski"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683133,
         102191581,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":642714,
         "gp:id":571025,
-        "qs:id":197521
+        "qs_pg:id":197521
     },
     "wof:country":"FI",
     "wof:geomhash":"c00ad44f62210608026a570b667ca957",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101814361,
-    "wof:lastmodified":1529706707,
+    "wof:lastmodified":1566595237,
     "wof:name":"Pankakoski",
     "wof:parent_id":907199605,
     "wof:placetype":"locality",

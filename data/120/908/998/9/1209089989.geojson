@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.26004,61.676,29.30004,61.716",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633143
@@ -36,7 +40,7 @@
         "gn:id":633282
     },
     "wof:country":"FI",
-    "wof:geomhash":"7f1305edf7da766d02441c1c08221a83",
+    "wof:geomhash":"5a7f6d9021e631c8ff60ae909e388921",
     "wof:hierarchy":[
         {
             "country_id":85633143,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209089989,
-    "wof:lastmodified":1536298065,
+    "wof:lastmodified":1566594739,
     "wof:name":"Utrasniemi",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.280040000000003,
+    29.28004,
     61.69600000000001,
-    29.280040000000003,
+    29.28004,
     61.69600000000001
 ],
   "geometry": {"coordinates":[29.28004,61.69600000000001],"type":"Point"}

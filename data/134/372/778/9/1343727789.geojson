@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.19881,67.26146,24.23881,67.30146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Venej\u00e4rvi"
     ],
@@ -34,8 +38,7 @@
         "\u0412\u0435\u043d\u0435\u044f\u0440\u0432\u0438"
     ],
     "name:und_x_variant":[
-        "Venej\u00e4rvenkyl\u00e4",
-        "Venej\u00e4rvi"
+        "Venej\u00e4rvenkyl\u00e4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1343727789,
-    "wof:lastmodified":1537622136,
+    "wof:lastmodified":1566594404,
     "wof:name":"Venejaervi",
     "wof:parent_id":907199583,
     "wof:placetype":"locality",

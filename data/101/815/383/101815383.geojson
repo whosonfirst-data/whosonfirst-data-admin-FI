@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000505,
-    "geom:area_square_m":3122683.859791,
+    "geom:area_square_m":3122683.859789,
     "geom:bbox":"22.4722651796,60.0111581845,22.530435231,60.0388635289",
     "geom:latitude":60.023055,
     "geom:longitude":22.495325,
     "iso:country":"FI",
     "lbl:latitude":60.023107,
     "lbl:longitude":22.495325,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.023107,
     "mps:longitude":22.495325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dalsbruk"
     ],
@@ -39,7 +42,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683073,
         102191581,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":660423,
         "gp:id":564499,
-        "qs:id":1263222,
+        "qs_pg:id":1263222,
         "wd:id":"Q10466256"
     },
     "wof:country":"FI",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101815383,
-    "wof:lastmodified":1529706471,
+    "wof:lastmodified":1566595201,
     "wof:name":"Taalintehdas",
     "wof:parent_id":907199735,
     "wof:placetype":"locality",

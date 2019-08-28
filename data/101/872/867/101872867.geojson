@@ -10,19 +10,23 @@
     "geom:latitude":64.200288,
     "geom:longitude":23.748722,
     "iso:country":"FI",
+    "lbl:bbox":"23.728722,64.180288,23.768722,64.220288",
     "lbl:latitude":64.200288,
     "lbl:longitude":23.748722,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.200288,
     "mps:longitude":23.748722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rahja"
     ],
     "name:fin_x_preferred":[
         "Rahja"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rahjankyl\u00e4"
     ],
     "qs:a0":"Suomi#Finland",
@@ -42,7 +46,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         85683143,
@@ -57,7 +61,6 @@
     "wof:concordances":{
         "gn:id":640180,
         "gp:id":571897,
-        "qs:id":772414,
         "qs_pg:id":772414,
         "wd:id":"Q11889730"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101872867,
-    "wof:lastmodified":1544751365,
+    "wof:lastmodified":1566595162,
     "wof:name":"Rahja",
     "wof:parent_id":907199617,
     "wof:placetype":"locality",

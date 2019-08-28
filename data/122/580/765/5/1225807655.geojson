@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.38324,69.84811,26.42324,69.88811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Baadus"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1225807655,
-    "wof:lastmodified":1537622197,
+    "wof:lastmodified":1566595856,
     "wof:name":"Baadus",
     "wof:parent_id":907199575,
     "wof:placetype":"locality",

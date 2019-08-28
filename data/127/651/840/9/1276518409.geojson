@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.83355,62.14824,21.87355,62.18824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Sep\u00e4nkyl\u00e4"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276518409,
-    "wof:lastmodified":1537622337,
+    "wof:lastmodified":1566594636,
     "wof:name":"Sepaenkylae",
     "wof:parent_id":907198871,
     "wof:placetype":"locality",

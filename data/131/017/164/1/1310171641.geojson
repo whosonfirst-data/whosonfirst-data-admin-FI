@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.68,64.91333,27.72,64.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Alatalo"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1310171641,
-    "wof:lastmodified":1564101605,
+    "wof:lastmodified":1566595082,
     "wof:name":"Alatalo",
     "wof:parent_id":907199513,
     "wof:placetype":"locality",

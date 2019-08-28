@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.49667,60.73,27.53667,60.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683081,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260065699,
-    "wof:lastmodified":1537012982,
+    "wof:lastmodified":1566594890,
     "wof:name":"Sillanmaeki",
     "wof:parent_id":907198737,
     "wof:placetype":"locality",

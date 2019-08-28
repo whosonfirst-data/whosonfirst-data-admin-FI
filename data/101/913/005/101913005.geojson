@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
-    "geom:area_square_m":389577.667463,
+    "geom:area_square_m":389577.667462,
     "geom:bbox":"24.3129731256,61.0245250773,24.3296379974,61.0306355896",
     "geom:latitude":61.027345,
     "geom:longitude":24.320295,
     "iso:country":"FI",
     "lbl:latitude":61.027786,
     "lbl:longitude":24.319621,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.027786,
     "mps:longitude":24.319621,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Kanta-H\u00e4me#Egentliga Tavastland",
     "qs:a1r":"5Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683077,
         102191581,
@@ -45,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":25952595,
-        "qs:id":11348,
         "qs_pg:id":11348
     },
     "wof:country":"FI",
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":101913005,
-    "wof:lastmodified":1529711987,
+    "wof:lastmodified":1566595174,
     "wof:name":"Parolannummi",
     "wof:parent_id":907199219,
     "wof:placetype":"locality",

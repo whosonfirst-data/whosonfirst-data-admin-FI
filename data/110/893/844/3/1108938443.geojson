@@ -10,8 +10,10 @@
     "geom:latitude":60.262268,
     "geom:longitude":24.933317,
     "iso:country":"FI",
+    "lbl:bbox":"24.9283174104,60.2572681064,24.9383174104,60.2672681064",
     "lbl:latitude":60.262268,
     "lbl:longitude":24.933317,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,9 +26,8 @@
     "name:fin_x_preferred":[
         "Tuomarinkyl\u00e4"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85683067,
         102191581,
         890537257,
         907199715,
@@ -35,7 +36,8 @@
         101748417,
         136253047,
         890536895,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1108938443,
-    "wof:lastmodified":1529714745,
+    "wof:lastmodified":1566595023,
     "wof:name":"Tuomarinkyla",
     "wof:parent_id":890537257,
     "wof:placetype":"neighbourhood",

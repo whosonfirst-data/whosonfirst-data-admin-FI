@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.44123,60.4906,21.48123,60.5306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:vie_x_preferred":[
         "Koila"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326743341,
-    "wof:lastmodified":1564096234,
+    "wof:lastmodified":1566593889,
     "wof:name":"Koila",
     "wof:parent_id":907198611,
     "wof:placetype":"locality",

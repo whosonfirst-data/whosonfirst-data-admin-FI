@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.998969,
     "lbl:longitude":23.812703,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":62.998969,
     "mps:longitude":23.812703,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Alaj\u00e4rvi"
     ],
@@ -110,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0430\u044f\u0440\u0432\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alayarvi"
     ],
     "name:urd_x_preferred":[
@@ -138,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":63.0,
     "wd:longitude":23.816667,
@@ -157,10 +160,12 @@
     "wof:concordances":{
         "gn:id":661576,
         "gp:id":29305420,
-        "qs:id":1327430,
         "qs_pg:id":1314564,
         "wd:id":"Q5980",
         "wk:page":"Alaj\u00e4rvi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327430
     },
     "wof:country":"FI",
     "wof:geomhash":"8d36f1591bf90c79410c51001c78ec4c",
@@ -177,7 +182,7 @@
         }
     ],
     "wof:id":101814091,
-    "wof:lastmodified":1563283886,
+    "wof:lastmodified":1566595227,
     "wof:name":"Alaj\u00e4rvi",
     "wof:parent_id":907199105,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.68498,62.17016,27.72498,62.21016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683109,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1210000393,
-    "wof:lastmodified":1536379335,
+    "wof:lastmodified":1566594836,
     "wof:name":"Ruokoniemi",
     "wof:parent_id":907198879,
     "wof:placetype":"locality",

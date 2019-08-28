@@ -9,14 +9,18 @@
     "geom:bbox":"22.7,63.7,22.7,63.7",
     "geom:latitude":63.7,
     "geom:longitude":22.7,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FI",
+    "lbl:bbox":"22.68,63.68,22.72,63.72",
     "lbl:latitude":63.7,
     "lbl:longitude":22.7,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fin_x_preferred":[
         "Lepp\u00e4luoto"
@@ -27,7 +31,7 @@
     "name:swe_x_preferred":[
         "Alholmen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alholm"
     ],
     "qs_pg:aaroncc":"FI",
@@ -51,7 +55,7 @@
     "qs_pg:woe_adm0":23424812,
     "qs_pg:woe_id":564164,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424812,
     "woe:name_adm0":"Suomi",
     "woe:name_adm1":"Pohjanmaan maakunta",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1126054019,
-    "wof:lastmodified":1529709684,
+    "wof:lastmodified":1566595354,
     "wof:name":"Alholmen",
     "wof:parent_id":907199069,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":1004,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.84667,60.54667,21.88667,60.58667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Askainen"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1209518635,
-    "wof:lastmodified":1564101195,
+    "wof:lastmodified":1566594799,
     "wof:name":"Askainen",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

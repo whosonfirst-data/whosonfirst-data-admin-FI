@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.36539,65.23812,27.40539,65.27812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paukkeri"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293263743,
-    "wof:lastmodified":1537622192,
+    "wof:lastmodified":1566594586,
     "wof:name":"Paukkerinharju",
     "wof:parent_id":907199499,
     "wof:placetype":"locality",

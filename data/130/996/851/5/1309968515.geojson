@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.87126,66.36884,23.91126,66.40884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683147,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1309968515,
-    "wof:lastmodified":1536696940,
+    "wof:lastmodified":1566595268,
     "wof:name":"Portimojaervi",
     "wof:parent_id":907199549,
     "wof:placetype":"locality",

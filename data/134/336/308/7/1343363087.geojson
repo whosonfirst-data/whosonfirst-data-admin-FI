@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.41581,60.35091,25.45581,60.39091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Ali-Vekkoski"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1343363087,
-    "wof:lastmodified":1537622159,
+    "wof:lastmodified":1566594281,
     "wof:name":"Ali-Vekkoski",
     "wof:parent_id":907198525,
     "wof:placetype":"locality",

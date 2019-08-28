@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.78769,
     "lbl:longitude":21.188256,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.787689,
     "mps:longitude":21.188256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0633\u0646\u0627\u0633"
     ],
@@ -77,7 +80,7 @@
     "name:tur_x_preferred":[
         "Korsn\u00e4s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Korsnes"
     ],
     "name:zho_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":585,
     "wof:belongsto":[
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":651294,
         "gp:id":567924,
-        "qs:id":265241,
         "qs_pg:id":265241,
         "wd:id":"Q1498986",
         "wk:page":"Korsn\u00e4s"
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":101814269,
-    "wof:lastmodified":1563283897,
+    "wof:lastmodified":1566595231,
     "wof:name":"Korsn\u00e4s",
     "wof:parent_id":907199033,
     "wof:placetype":"locality",

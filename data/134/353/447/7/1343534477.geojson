@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.99292,63.1575,22.03292,63.1975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Laggen"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343534477,
-    "wof:lastmodified":1537622346,
+    "wof:lastmodified":1566594291,
     "wof:name":"Laggen",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

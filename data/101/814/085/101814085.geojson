@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000199,
-    "geom:area_square_m":1113150.628346,
+    "geom:area_square_m":1113150.628349,
     "geom:bbox":"23.5340646149,63.1265993991,23.5539554137,63.1526563308",
     "geom:latitude":63.141071,
     "geom:longitude":23.543403,
     "iso:country":"FI",
     "lbl:latitude":63.144417,
     "lbl:longitude":23.540917,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.144417,
     "mps:longitude":23.540917,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Etel\u00e4-Pohjanmaa#S\u00f6dra \u00d6sterbotten",
     "qs:a1r":"0L\u00e4nsi- ja Sis\u00e4-Suomen AVI#V\u00e4stra och Inre Finlands RFV",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683113,
         102191581,
@@ -45,7 +48,7 @@
     "wof:concordances":{
         "gn:id":653826,
         "gp:id":566965,
-        "qs:id":928002
+        "qs_pg:id":928002
     },
     "wof:country":"FI",
     "wof:geomhash":"a2740597fdeaf4892ba618c71dc93677",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101814085,
-    "wof:lastmodified":1529709628,
+    "wof:lastmodified":1566595226,
     "wof:name":"Karvala",
     "wof:parent_id":907199255,
     "wof:placetype":"locality",

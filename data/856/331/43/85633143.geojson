@@ -16,6 +16,8 @@
     ],
     "lbl:latitude":63.252357,
     "lbl:longitude":27.276469,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":63.252357,
     "mps:longitude":27.276469,
     "mz:hierarchy_label":1,
@@ -1007,17 +1009,10 @@
     "name:ukr_x_preferred":[
         "\u0424\u0456\u043d\u043b\u044f\u043d\u0434\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Finsko",
-        "F\u00ednsko"
-    ],
     "name:und_x_variant":[
         "Finland\u00eda",
         "Finljandija",
         "Finrando"
-    ],
-    "name:unk_x_variant":[
-        "Finlandia"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0646 \u0644\u06cc\u0646\u0688"
@@ -1183,7 +1178,7 @@
         "naturalearth"
     ],
     "src:geom_via":"us-dshiu",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"358",
     "statoids:ds":"FIN",
@@ -1228,7 +1223,7 @@
         "mzb:id":"finland",
         "ne:adm0_a3":"FIN",
         "nyt:id":"66705302046967300161",
-        "qs:id":1030142,
+        "qs_pg:id":1030142,
         "uncrt:id":"FIN",
         "wd:id":"Q33",
         "wmo:id":"FI"
@@ -1244,9 +1239,6 @@
         }
     ],
     "wof:id":85633143,
-    "wof:lang":[
-        "fin"
-    ],
     "wof:lang_x_official":[
         "fin",
         "swe"
@@ -1255,7 +1247,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282627,
+    "wof:lastmodified":1566594417,
     "wof:name":"Finland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

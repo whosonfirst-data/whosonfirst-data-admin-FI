@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.79709,67.06889,28.83709,67.10889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saija"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209377459,
-    "wof:lastmodified":1537622170,
+    "wof:lastmodified":1566594741,
     "wof:name":"Saija",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

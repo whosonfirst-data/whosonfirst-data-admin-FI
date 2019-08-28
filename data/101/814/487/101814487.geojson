@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":66.37569,
     "lbl:longitude":25.384117,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":66.37569,
     "mps:longitude":25.384117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Muurola"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":645367,
         "gp:id":570056,
-        "qs:id":1048101,
         "qs_pg:id":1048101,
         "wd:id":"Q5403254"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101814487,
-    "wof:lastmodified":1529708124,
+    "wof:lastmodified":1566595245,
     "wof:name":"Muurola",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

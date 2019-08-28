@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.9343,60.22624,22.9743,60.26624",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Bondtyk\u00f6"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209327609,
-    "wof:lastmodified":1537622354,
+    "wof:lastmodified":1566594788,
     "wof:name":"Talonpojan Teijo",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.16938,60.82411,26.20938,60.86411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Erottaja"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1344252715,
-    "wof:lastmodified":1564100516,
+    "wof:lastmodified":1566594305,
     "wof:name":"Erottaja",
     "wof:parent_id":907198619,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.03919,60.14803,23.07919,60.18803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "FInn\u00e4ng"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1276666381,
-    "wof:lastmodified":1537622354,
+    "wof:lastmodified":1566594646,
     "wof:name":"Suomennittu",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

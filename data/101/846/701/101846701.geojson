@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00017,
-    "geom:area_square_m":1034168.254536,
+    "geom:area_square_m":1034168.254537,
     "geom:bbox":"24.8996010337,60.5215446098,24.9260372441,60.5354483059",
     "geom:latitude":60.529229,
     "geom:longitude":24.914593,
     "iso:country":"FI",
     "lbl:latitude":60.530003,
     "lbl:longitude":24.914793,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.530003,
     "mps:longitude":24.914794,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nukari"
     ],
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -52,7 +55,6 @@
     "wof:concordances":{
         "gn:id":644304,
         "gp:id":570437,
-        "qs:id":1165832,
         "qs_pg:id":1165832
     },
     "wof:country":"FI",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":101846701,
-    "wof:lastmodified":1529714677,
+    "wof:lastmodified":1566595176,
     "wof:name":"Nukari",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

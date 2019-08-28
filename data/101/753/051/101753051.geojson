@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.245393,
     "lbl:longitude":25.864206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.245393,
     "mps:longitude":25.864206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Vaajakoski"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":62.2483,
     "wd:longitude":25.8711,
     "wd:wordcount":176,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":633116,
         "gp:id":574416,
-        "qs:id":345513,
         "qs_pg:id":345513,
         "wd:id":"Q7907801",
         "wk:page":"Vaajakoski"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101753051,
-    "wof:lastmodified":1563283676,
+    "wof:lastmodified":1566595156,
     "wof:name":"Vaajakoski",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.86327,61.30346,22.90327,61.34346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Tyrvis"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1343356851,
-    "wof:lastmodified":1537622145,
+    "wof:lastmodified":1566594356,
     "wof:name":"Tyrvaeae",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

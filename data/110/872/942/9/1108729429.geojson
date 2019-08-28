@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000585,
-    "geom:area_square_m":3587277.348097,
+    "geom:area_square_m":3587277.348096,
     "geom:bbox":"24.7175038822,60.2428268082,24.7699633087,60.2691954732",
     "geom:latitude":60.256567,
     "geom:longitude":24.740532,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.255928,
     "lbl:longitude":24.740534,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.255928,
     "mps:longitude":24.740534,
     "mz:hierarchy_label":1,
@@ -39,7 +40,6 @@
     "reversegeo:longitude":24.740534,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729281,
         907198517,
@@ -48,7 +48,8 @@
         101748415,
         136253047,
         1108729219,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108729429,
-    "wof:lastmodified":1529714747,
+    "wof:lastmodified":1566595014,
     "wof:name":"Vanhakartano",
     "wof:parent_id":1108729281,
     "wof:placetype":"neighbourhood",

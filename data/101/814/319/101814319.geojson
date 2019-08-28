@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.361481,
     "lbl:longitude":27.744787,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.361481,
     "mps:longitude":27.744787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Varpaisj\u00e4rvi"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":203,
     "wof:belongsto":[
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":632361,
         "gp:id":574663,
-        "qs:id":1234214,
         "qs_pg:id":1234214,
         "wd:id":"Q1641558",
         "wk:page":"Varpaisj\u00e4rvi"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101814319,
-    "wof:lastmodified":1563283963,
+    "wof:lastmodified":1566595251,
     "wof:name":"Varpaisj\u00e4rvi",
     "wof:parent_id":907199373,
     "wof:placetype":"locality",

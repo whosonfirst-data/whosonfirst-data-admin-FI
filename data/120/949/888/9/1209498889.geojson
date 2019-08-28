@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.18513,61.82028,29.22513,61.86028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kulennoinen"
     ],
@@ -35,8 +39,7 @@
         "\u041a\u0443\u043b\u0435\u043d\u043d\u043e\u0439\u043d\u0435\u043d"
     ],
     "name:und_x_variant":[
-        "Kulenhoinen",
-        "Kulennoinen"
+        "Kulenhoinen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209498889,
-    "wof:lastmodified":1537622236,
+    "wof:lastmodified":1566594770,
     "wof:name":"Kulennoinen",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

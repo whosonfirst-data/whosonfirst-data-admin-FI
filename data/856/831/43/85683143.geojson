@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":64.631833,
     "lbl:longitude":25.612497,
+    "lbl:min_zoom":8.0,
     "mps:latitude":64.645731,
     "mps:longitude":25.332732,
     "mz:hierarchy_label":1,
@@ -105,7 +106,7 @@
         "\u05d0\u05d5\u05e1\u05d8\u05e8\u05d5\u05d1\u05d5\u05d8\u05e0\u05d9\u05d4 \u05d4\u05e6\u05e4\u05d5\u05e0\u05d9\u05ea"
     ],
     "name:hin_x_preferred":[
-        "\u0909\u0924\u094d\u0924\u0930\u0940  \u0913\u0938\u094d\u091f\u094d\u0930\u094b\u092c\u094b\u0925\u0928\u093f\u092f\u093e"
+        "\u0909\u0924\u094d\u0924\u0930\u0940 \u0913\u0938\u094d\u091f\u094d\u0930\u094b\u092c\u094b\u0925\u0928\u093f\u092f\u093e"
     ],
     "name:hun_x_preferred":[
         "\u00c9szak-Pohjanmaa"
@@ -313,7 +314,7 @@
     "qs:type":"Maakunta#Landskap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"FI-14",
     "wd:wordcount":234,
     "wof:belongsto":[
@@ -351,7 +352,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282638,
+    "wof:lastmodified":1566594429,
     "wof:name":"Northern Ostrobothnia",
     "wof:parent_id":404227415,
     "wof:placetype":"region",

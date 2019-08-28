@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001576,
-    "geom:area_square_m":8244321.208935,
+    "geom:area_square_m":8244321.208941,
     "geom:bbox":"25.422625768,64.9484026191,25.5141082808,64.9797583158",
     "geom:latitude":64.966928,
     "geom:longitude":25.477578,
     "iso:country":"FI",
     "lbl:latitude":64.9656,
     "lbl:longitude":25.49825,
+    "lbl:max_zoom":18.0,
     "mps:latitude":64.9656,
     "mps:longitude":25.49825,
     "mz:hierarchy_label":1,
@@ -37,14 +38,14 @@
     "reversegeo:longitude":25.49825,
     "src:geom":"oulugov",
     "wof:belongsto":[
-        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
         101748443,
         136253047,
-        1159321529
+        1159321529,
+        85683143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108729047,
-    "wof:lastmodified":1529709466,
+    "wof:lastmodified":1566594975,
     "wof:name":"Kiviniemi",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

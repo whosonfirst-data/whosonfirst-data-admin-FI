@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.96333,61.73,27.00333,61.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683109,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310389055,
-    "wof:lastmodified":1537081789,
+    "wof:lastmodified":1566595046,
     "wof:name":"Komppa",
     "wof:parent_id":907198765,
     "wof:placetype":"locality",

@@ -25,16 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.73352,62.08187,26.77352,62.12187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kutemaj\u00e4rvi"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0442\u0435\u043c\u0430\u044f\u0440\u0432\u0438"
-    ],
-    "name:und_x_variant":[
-        "Kutemaj\u00e4rvi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1225829105,
-    "wof:lastmodified":1537622233,
+    "wof:lastmodified":1566595914,
     "wof:name":"Kutemajaervi",
     "wof:parent_id":907198773,
     "wof:placetype":"locality",

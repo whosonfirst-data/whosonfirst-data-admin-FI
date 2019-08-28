@@ -18,6 +18,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.221749,
     "lbl:longitude":25.062745,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.22697,
     "mps:longitude":25.064236,
     "mz:hierarchy_label":1,
@@ -54,9 +55,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u044e\u043b\u043b\u044e\u043f\u0443\u0440\u043e"
     ],
-    "name:unk_x_variant":[
-        "Kvarnb\u00e4cken"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0644\u06cc\u067e\u0648\u0631\u0648"
     ],
@@ -89,7 +87,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108727347,
@@ -105,7 +103,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":25945246,
-        "qs:id":1086338,
         "qs_pg:id":1086338,
         "wd:id":"Q3070009"
     },
@@ -131,7 +128,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1563282620,
+    "wof:lastmodified":1566594415,
     "wof:name":"Myllypuro",
     "wof:parent_id":1108727347,
     "wof:placetype":"neighbourhood",

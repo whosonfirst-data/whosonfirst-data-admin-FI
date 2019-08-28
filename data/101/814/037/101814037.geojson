@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":745737.50182,
+    "geom:area_square_m":745737.501821,
     "geom:bbox":"28.1452628747,60.9551850941,28.1684701462,60.9753194166",
     "geom:latitude":60.965282,
     "geom:longitude":28.159739,
     "iso:country":"FI",
     "lbl:latitude":60.966952,
     "lbl:longitude":28.162815,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.966952,
     "mps:longitude":28.162815,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Etel\u00e4-Karjala#S\u00f6dra Karelen",
     "qs:a1r":"0Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683103,
         102191581,
@@ -45,7 +48,7 @@
     "wof:concordances":{
         "gn:id":656943,
         "gp:id":565863,
-        "qs:id":172391
+        "qs_pg:id":172391
     },
     "wof:country":"FI",
     "wof:geomhash":"638eeff23625e2e7e1c07b3796ca4a4e",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101814037,
-    "wof:lastmodified":1529707142,
+    "wof:lastmodified":1566595231,
     "wof:name":"Hytti",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

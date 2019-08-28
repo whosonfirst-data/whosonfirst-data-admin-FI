@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.692763,
     "lbl:longitude":29.679648,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":61.692763,
     "mps:longitude":29.679648,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Saari"
     ],
@@ -50,7 +53,7 @@
     "name:swe_x_preferred":[
         "Saari"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saarentaus"
     ],
     "qs:a0":"Suomi#Finland",
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":137,
     "wof:belongsto":[
@@ -85,10 +88,12 @@
     "wof:concordances":{
         "gn:id":638402,
         "gp:id":572570,
-        "qs:id":244217,
-        "qs_pg:id":1062465,
+        "qs_pg:id":244217,
         "wd:id":"Q4129009",
         "wk:page":"Saari"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1062465
     },
     "wof:country":"FI",
     "wof:geomhash":"57d6ab13b982d200b3d28c140e88680f",
@@ -105,7 +110,7 @@
         }
     ],
     "wof:id":101846867,
-    "wof:lastmodified":1561830273,
+    "wof:lastmodified":1566595182,
     "wof:name":"Saari",
     "wof:parent_id":907198853,
     "wof:placetype":"locality",

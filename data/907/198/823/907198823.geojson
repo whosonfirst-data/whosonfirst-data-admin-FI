@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":61.701486,
     "lbl:longitude":22.098978,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pomarkku"
     ],
@@ -86,9 +89,6 @@
     "name:tur_x_preferred":[
         "Pomarkku"
     ],
-    "name:unk_x_variant":[
-        "P\u00e5mark"
-    ],
     "name:vie_x_preferred":[
         "Pomarkku"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683095,
         102191581,
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":907198823,
-    "wof:lastmodified":1564100313,
+    "wof:lastmodified":1566594050,
     "wof:name":"Pomarkku",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

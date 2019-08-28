@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":60.065472,
     "lbl:longitude":20.728697,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sottunga"
     ],
@@ -108,7 +111,7 @@
         "\u7d22\u901a\u963f"
     ],
     "src:geom":"figov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85632789,
         102191581,
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":907198465,
-    "wof:lastmodified":1564100287,
+    "wof:lastmodified":1566594022,
     "wof:name":"Sottunga",
     "wof:parent_id":1159321503,
     "wof:placetype":"localadmin",

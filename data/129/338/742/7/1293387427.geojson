@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.22921,61.6914,23.26921,61.7314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Haveri"
     ],
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1293387427,
-    "wof:lastmodified":1564100690,
+    "wof:lastmodified":1566594470,
     "wof:name":"Haveri",
     "wof:parent_id":907199275,
     "wof:placetype":"locality",

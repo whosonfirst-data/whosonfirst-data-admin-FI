@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.68235,63.43314,25.72235,63.47314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Penninginranta"
     ],
@@ -35,8 +39,7 @@
         "\u041f\u0435\u043d\u0438\u043d\u043a\u0438"
     ],
     "name:und_x_variant":[
-        "Penninki",
-        "Penninginranta"
+        "Penninki"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1259369263,
-    "wof:lastmodified":1537622191,
+    "wof:lastmodified":1566595710,
     "wof:name":"Peninki",
     "wof:parent_id":907199135,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.82541,68.36564,22.86541,68.40564",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Kuttanen"
     ],
@@ -35,8 +39,7 @@
         "Guhtt\u00e1s"
     ],
     "name:und_x_variant":[
-        "Kuttana",
-        "Kuttanen"
+        "Kuttana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1292976121,
-    "wof:lastmodified":1537622233,
+    "wof:lastmodified":1566594555,
     "wof:name":"Kuttanen",
     "wof:parent_id":907199599,
     "wof:placetype":"locality",

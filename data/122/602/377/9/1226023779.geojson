@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.82402,62.7435,22.86402,62.7835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683113,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226023779,
-    "wof:lastmodified":1536756999,
+    "wof:lastmodified":1566595831,
     "wof:name":"Toernaevae",
     "wof:parent_id":907199285,
     "wof:placetype":"locality",

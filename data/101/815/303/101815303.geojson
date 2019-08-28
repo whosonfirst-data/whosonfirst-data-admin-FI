@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.073027,
     "lbl:longitude":23.664413,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.073027,
     "mps:longitude":23.664413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Karis"
     ],
@@ -83,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0439\u0430\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karja"
     ],
     "name:urd_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85683067,
@@ -126,10 +129,12 @@
     "wof:concordances":{
         "gn:id":654895,
         "gp:id":566862,
-        "qs:id":1027250,
         "qs_pg:id":232502,
         "wd:id":"Q990581",
         "wk:page":"Karis"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1027250
     },
     "wof:country":"FI",
     "wof:geomhash":"b0ddb4e0477d64792d151f3eae6fe565",
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":101815303,
-    "wof:lastmodified":1563283810,
+    "wof:lastmodified":1566595203,
     "wof:name":"Karjaa",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

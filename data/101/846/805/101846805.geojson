@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.301576,
     "lbl:longitude":25.077926,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":61.301576,
     "mps:longitude":25.077926,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Auttoinen"
     ],
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85683091,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":660838,
         "gp:id":564338,
-        "qs:id":343238,
         "qs_pg:id":343238
     },
     "wof:country":"FI",
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":101846805,
-    "wof:lastmodified":1529710021,
+    "wof:lastmodified":1566595182,
     "wof:name":"Auttoinen",
     "wof:parent_id":907198715,
     "wof:placetype":"locality",

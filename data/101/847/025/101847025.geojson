@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.794405,
     "lbl:longitude":30.148053,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":62.794405,
     "mps:longitude":30.148053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Eno"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":122,
     "wof:belongsto":[
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":660242,
         "gp:id":564580,
-        "qs:id":182852,
         "qs_pg:id":182852,
         "wd:id":"Q1010490",
         "wk:page":"Eno, Finland"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101847025,
-    "wof:lastmodified":1563283841,
+    "wof:lastmodified":1566595214,
     "wof:name":"Eno",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

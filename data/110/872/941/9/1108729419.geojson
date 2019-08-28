@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.22735,
     "lbl:longitude":24.74172,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.22735,
     "mps:longitude":24.74172,
     "mz:hierarchy_label":1,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108729419,
-    "wof:lastmodified":1564101448,
+    "wof:lastmodified":1566594958,
     "wof:name":"Viherlaakso",
     "wof:parent_id":1108729263,
     "wof:placetype":"neighbourhood",

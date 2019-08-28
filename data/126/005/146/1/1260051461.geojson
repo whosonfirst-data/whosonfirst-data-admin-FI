@@ -25,8 +25,12 @@
     "gn:population":1871,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.16607,64.81744,25.20607,64.85744",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lumijoki"
     ],
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":1260051461,
-    "wof:lastmodified":1564101400,
+    "wof:lastmodified":1566594913,
     "wof:name":"Lumijoki",
     "wof:parent_id":907199537,
     "wof:placetype":"locality",

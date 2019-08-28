@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.86531,66.34125,27.90531,66.38125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aittaniemi"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1327199529,
-    "wof:lastmodified":1537622305,
+    "wof:lastmodified":1566593968,
     "wof:name":"Aittaniemi",
     "wof:parent_id":907199533,
     "wof:placetype":"locality",

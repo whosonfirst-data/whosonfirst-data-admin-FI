@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000279,
-    "geom:area_square_m":1708013.986955,
+    "geom:area_square_m":1708013.986953,
     "geom:bbox":"24.9542225273,60.264437626,24.9823987446,60.2822185253",
     "geom:latitude":60.273416,
     "geom:longitude":24.969143,
@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.272081,
     "lbl:longitude":24.969141,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.272081,
     "mps:longitude":24.969141,
     "mz:hierarchy_label":1,
@@ -38,7 +39,6 @@
     "reversegeo:longitude":24.969141,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -46,7 +46,8 @@
         101748419,
         136253047,
         1108729489,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729609,
-    "wof:lastmodified":1529714757,
+    "wof:lastmodified":1566594976,
     "wof:name":"Tammisto",
     "wof:parent_id":1108729489,
     "wof:placetype":"neighbourhood",

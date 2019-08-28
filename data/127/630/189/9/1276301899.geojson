@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.07707,63.83921,23.11707,63.87921",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Sannanranta"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276301899,
-    "wof:lastmodified":1537622306,
+    "wof:lastmodified":1566594702,
     "wof:name":"Sannanranta",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

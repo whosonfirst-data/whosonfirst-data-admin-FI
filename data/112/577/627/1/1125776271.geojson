@@ -9,15 +9,18 @@
     "geom:bbox":"21.86667,60.48333,21.86667,60.48333",
     "geom:latitude":60.48333,
     "geom:longitude":21.86667,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":1538,
+    "gn:country":"FI",
+    "gn:fcode":"PPLA3",
     "gn:population":1538,
     "iso:country":"FI",
+    "lbl:bbox":"21.84667,60.46333,21.88667,60.50333",
     "lbl:latitude":60.48333,
     "lbl:longitude":21.86667,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041c\u0435\u0440\u0438\u043c\u0430\u0441\u043a\u0443"
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Merimasku"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Merimasko"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +88,7 @@
     "qs_pg:woe_adm0":23424812,
     "qs_pg:woe_id":569720,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85683073,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1125776271,
-    "wof:lastmodified":1563284312,
+    "wof:lastmodified":1566595457,
     "wof:name":"Merimasku",
     "wof:parent_id":907198913,
     "wof:placetype":"locality",

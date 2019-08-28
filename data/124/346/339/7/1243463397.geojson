@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.08802,60.1327,23.12802,60.1727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "L\u00f6vb\u00f6le"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1243463397,
-    "wof:lastmodified":1537622354,
+    "wof:lastmodified":1566595635,
     "wof:name":"Leipyoeli",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

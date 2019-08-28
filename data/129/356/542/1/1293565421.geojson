@@ -25,16 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.51638,64.41875,24.55638,64.45875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Keskikyl\u00e4"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0441\u043a\u0438\u043a\u044e\u043b\u044f"
-    ],
-    "name:und_x_variant":[
-        "Keskikyl\u00e4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1293565421,
-    "wof:lastmodified":1537622253,
+    "wof:lastmodified":1566594537,
     "wof:name":"Keskikylae",
     "wof:parent_id":907199655,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.02173,63.65174,26.06173,63.69174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ruotainen",
         "Ruotanen"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259943601,
-    "wof:lastmodified":1537622172,
+    "wof:lastmodified":1566595775,
     "wof:name":"Ruotanen",
     "wof:parent_id":907199151,
     "wof:placetype":"locality",

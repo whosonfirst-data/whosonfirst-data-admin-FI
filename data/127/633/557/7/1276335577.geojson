@@ -25,8 +25,12 @@
     "gn:population":5792,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.98,61.34667,22.02,61.38667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nakkila"
     ],
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1276335577,
-    "wof:lastmodified":1564100936,
+    "wof:lastmodified":1566594630,
     "wof:name":"Nakkila",
     "wof:parent_id":907198705,
     "wof:placetype":"locality",

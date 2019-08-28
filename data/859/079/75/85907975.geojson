@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.165844,
     "lbl:longitude":24.950294,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.165286,
     "mps:longitude":24.969473,
     "mz:hierarchy_label":1,
@@ -65,9 +66,6 @@
     "name:swe_x_preferred":[
         "Gardesstaden"
     ],
-    "name:unk_x_variant":[
-        "Kaartinkaupunki"
-    ],
     "name:zho_x_preferred":[
         "\u7231\u65af\u666e\u62c9\u7eb3\u5730\u8857"
     ],
@@ -102,7 +100,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":664,
     "wof:belongsto":[
         102191581,
@@ -120,7 +118,6 @@
     "wof:concordances":{
         "gn:id":6545253,
         "gp:id":25945233,
-        "qs:id":203434,
         "qs_pg:id":203434,
         "wd:id":"Q1017793",
         "wk:page":"Kaartinkaupunki"
@@ -147,7 +144,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1563282616,
+    "wof:lastmodified":1566594413,
     "wof:name":"Kaartinkaupunki",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

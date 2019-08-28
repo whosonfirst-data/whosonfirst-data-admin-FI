@@ -30,10 +30,13 @@
     ],
     "lbl:latitude":62.719862,
     "lbl:longitude":30.062003,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":62.719862,
     "mps:longitude":30.062003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u064a\u0646\u0633\u0648"
     ],
@@ -228,7 +231,7 @@
     ],
     "src:geom":"fivgov",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683133,
         102191581,
@@ -252,7 +255,7 @@
         }
     ],
     "wof:id":1159321551,
-    "wof:lastmodified":1564102078,
+    "wof:lastmodified":1566595566,
     "wof:name":"Joensuu",
     "wof:parent_id":85683133,
     "wof:placetype":"county",

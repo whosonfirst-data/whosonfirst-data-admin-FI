@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.14846,60.30724,22.18846,60.34724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rodn\u00f6s",
         "Bodn\u00e4s"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310313765,
-    "wof:lastmodified":1537622299,
+    "wof:lastmodified":1566595055,
     "wof:name":"Bodnaes",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

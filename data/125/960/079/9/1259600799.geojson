@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.78764,60.22842,24.82764,60.26842",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "H\u00e4mevaara"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1259600799,
-    "wof:lastmodified":1564102418,
+    "wof:lastmodified":1566595773,
     "wof:name":"Haemevaara",
     "wof:parent_id":907199651,
     "wof:placetype":"locality",

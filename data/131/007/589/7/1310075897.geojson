@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.94715,62.8967,21.98715,62.9367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Tojala"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310075897,
-    "wof:lastmodified":1537622326,
+    "wof:lastmodified":1566595049,
     "wof:name":"Tojala",
     "wof:parent_id":907198989,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.97545,61.02617,28.01545,61.06617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Iti\u00e4",
         "Iiti\u00e4"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1344246635,
-    "wof:lastmodified":1537622276,
+    "wof:lastmodified":1566594318,
     "wof:name":"Iitiae",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.17847,
     "lbl:longitude":25.030544,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.17847,
     "mps:longitude":25.030544,
     "mz:hierarchy_label":1,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108727223,
-    "wof:lastmodified":1561830250,
+    "wof:lastmodified":1566594953,
     "wof:name":"Tullisaari",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",

@@ -11,12 +11,16 @@
     "geom:longitude":25.198139,
     "gn:population":542,
     "iso:country":"FI",
+    "lbl:bbox":"25.178139,60.23486,25.218139,60.27486",
     "lbl:latitude":60.25486,
     "lbl:longitude":25.198139,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":60.25486,
     "mps:longitude":25.198139,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00d6stersundom"
     ],
@@ -54,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":30,
     "wof:belongsto":[
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":643541,
         "gp:id":25945296,
-        "qs:id":60915,
+        "qs_pg:id":60915,
         "wd:id":"Q678399",
         "wk:page":"\u00d6stersundom"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":101872781,
-    "wof:lastmodified":1561830268,
+    "wof:lastmodified":1566595165,
     "wof:name":"\u00d6stersundom",
     "wof:parent_id":1159321633,
     "wof:placetype":"locality",

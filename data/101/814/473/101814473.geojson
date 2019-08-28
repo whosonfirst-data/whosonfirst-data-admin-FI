@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.92502,
     "lbl:longitude":24.969034,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":63.92502,
     "mps:longitude":24.969034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Nivala"
     ],
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":63.929167,
     "wd:longitude":24.977778,
@@ -145,10 +148,12 @@
     "wof:concordances":{
         "gn:id":644499,
         "gp:id":570372,
-        "qs:id":1139067,
         "qs_pg:id":81390,
         "wd:id":"Q985458",
         "wk:page":"Nivala"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1139067
     },
     "wof:country":"FI",
     "wof:geomhash":"f83f02e48e46a45f46a5065d5fca884b",
@@ -165,7 +170,7 @@
         }
     ],
     "wof:id":101814473,
-    "wof:lastmodified":1563283939,
+    "wof:lastmodified":1566595245,
     "wof:name":"Nivala",
     "wof:parent_id":907199629,
     "wof:placetype":"locality",

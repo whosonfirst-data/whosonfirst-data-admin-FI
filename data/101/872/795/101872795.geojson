@@ -10,12 +10,16 @@
     "geom:latitude":61.070973,
     "geom:longitude":24.699219,
     "iso:country":"FI",
+    "lbl:bbox":"24.679219,61.050973,24.719219,61.090973",
     "lbl:latitude":61.070973,
     "lbl:longitude":24.699219,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.070973,
     "mps:longitude":24.699218,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Etel\u00e4inen"
     ],
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683077,
         102191581,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":660118,
         "gp:id":570078,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"FI",
     "wof:geomhash":"f38a83828fc77ac395c8d8dc9534d82f",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101872795,
-    "wof:lastmodified":1544751329,
+    "wof:lastmodified":1566595163,
     "wof:name":"Etel\u00e4inen",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

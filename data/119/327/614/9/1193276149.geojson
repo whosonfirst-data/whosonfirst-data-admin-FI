@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.46374,60.95013,22.50374,60.99013",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Syd\u00e4nmaa"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193276149,
-    "wof:lastmodified":1537622325,
+    "wof:lastmodified":1566594864,
     "wof:name":"Sydaenmaa",
     "wof:parent_id":907198925,
     "wof:placetype":"locality",

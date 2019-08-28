@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.18783,
     "lbl:longitude":22.689476,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":61.18783,
     "mps:longitude":22.689476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Huittinen"
     ],
@@ -150,7 +153,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":61.176389,
     "wd:longitude":22.698611,
@@ -169,7 +172,6 @@
     "wof:concordances":{
         "gn:id":657180,
         "gp:id":565753,
-        "qs:id":265237,
         "qs_pg:id":265237,
         "wd:id":"Q165285"
     },
@@ -188,7 +190,7 @@
         }
     ],
     "wof:id":101815463,
-    "wof:lastmodified":1563283793,
+    "wof:lastmodified":1566595199,
     "wof:name":"Huittinen",
     "wof:parent_id":907198933,
     "wof:placetype":"locality",

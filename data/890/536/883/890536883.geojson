@@ -7,13 +7,14 @@
     "fsgov:ajo_pvm":"2015/03/31",
     "fsgov:aluejako":"KAUPUNGINOSA",
     "geom:area":0.058398,
-    "geom:area_square_m":360511181.721133,
+    "geom:area_square_m":360511181.721141,
     "geom:bbox":"24.8480890648,59.9224907198,25.2195380556,60.219342954",
     "geom:latitude":60.051526,
     "geom:longitude":25.053187,
     "iso:country":"FI",
     "lbl:latitude":60.17559,
     "lbl:longitude":25.04545,
+    "lbl:max_zoom":13.0,
     "mps:latitude":60.17559,
     "mps:longitude":25.04545,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
         "figov",
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890536883,
-    "wof:lastmodified":1529714713,
+    "wof:lastmodified":1566595309,
     "wof:name":"Kaakkoinen",
     "wof:parent_id":101748417,
     "wof:placetype":"borough",

@@ -12,11 +12,14 @@
     "iso:country":"FI",
     "lbl:latitude":62.392367,
     "lbl:longitude":21.371504,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.392367,
     "mps:longitude":21.371504,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Pielax"
     ],
     "qs:a0":"Suomi#Finland",
@@ -33,7 +36,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683119,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":641245,
         "gp:id":571509,
-        "qs:id":320643
+        "qs_pg:id":320643
     },
     "wof:country":"FI",
     "wof:geomhash":"c8a16ee4f4234247e778b3c94e03c2c6",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101846971,
-    "wof:lastmodified":1529709682,
+    "wof:lastmodified":1566595184,
     "wof:name":"Pjelax",
     "wof:parent_id":907199661,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":65.230489,
     "lbl:longitude":25.30955,
+    "lbl:max_zoom":18.0,
     "mps:latitude":65.230489,
     "mps:longitude":25.30955,
     "mz:hierarchy_label":1,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108728835,
-    "wof:lastmodified":1563283432,
+    "wof:lastmodified":1566594988,
     "wof:name":"Martinniemi",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

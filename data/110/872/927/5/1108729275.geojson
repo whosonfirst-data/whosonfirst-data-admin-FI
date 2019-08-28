@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.179815,
     "lbl:longitude":24.792052,
+    "lbl:max_zoom":15.0,
     "mps:latitude":60.179815,
     "mps:longitude":24.792052,
     "mz:hierarchy_label":1,
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1108729275,
-    "wof:lastmodified":1529714720,
+    "wof:lastmodified":1566595012,
     "wof:name":"Kanta-Tapiola",
     "wof:parent_id":1108729225,
     "wof:placetype":"macrohood",

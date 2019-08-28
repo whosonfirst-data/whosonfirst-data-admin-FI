@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.97788,60.66579,28.01788,60.70579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "V\u00e4kev\u00e4l\u00e4",
         "V\u00e4kev\u00e4"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293119723,
-    "wof:lastmodified":1537622142,
+    "wof:lastmodified":1566594566,
     "wof:name":"Vaekevae",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

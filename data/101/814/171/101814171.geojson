@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.694369,
     "lbl:longitude":25.289481,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":62.69437,
     "mps:longitude":25.289481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Saarij\u00e4rvi"
     ],
@@ -98,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0430\u0440\u0456\u044f\u0440\u0432\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saaij\u00e4rvi"
     ],
     "name:urd_x_preferred":[
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":62.705556,
     "wd:longitude":25.256944,
@@ -142,10 +145,12 @@
     "wof:concordances":{
         "gn:id":638321,
         "gp:id":572577,
-        "qs:id":1291727,
         "qs_pg:id":1079796,
         "wd:id":"Q984858",
         "wk:page":"Saarij\u00e4rvi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1291727
     },
     "wof:country":"FI",
     "wof:geomhash":"3cd87ac0c1e96f0003ce552bef03a69b",
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":101814171,
-    "wof:lastmodified":1563283966,
+    "wof:lastmodified":1566595252,
     "wof:name":"Saarij\u00e4rvi",
     "wof:parent_id":907199213,
     "wof:placetype":"locality",

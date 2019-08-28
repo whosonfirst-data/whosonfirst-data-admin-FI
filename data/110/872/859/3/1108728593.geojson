@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.394113,
     "lbl:longitude":22.272435,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.394113,
     "mps:longitude":22.272435,
     "mz:hierarchy_label":1,
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1108728593,
-    "wof:lastmodified":1564101428,
+    "wof:lastmodified":1566594940,
     "wof:name":"Papinsaari",
     "wof:parent_id":101748421,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,18 @@
     "geom:bbox":"28.5194370631,60.9573361227,28.5496903754,60.9664433482",
     "geom:latitude":60.961173,
     "geom:longitude":28.536366,
-    "geonames:id":"644307,516673",
+    "gn:id":"644307,516673",
     "gn:population":1199,
     "iso:country":"FI",
     "lbl:latitude":60.961502,
     "lbl:longitude":28.538658,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.961502,
     "mps:longitude":28.538658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ozero Nuyyamayarvi"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":41,
     "wof:belongsto":[
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":644307,
         "gp:id":570435,
-        "qs:id":1060313,
         "qs_pg:id":1060313,
         "wd:id":"Q2004537"
     },
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101814041,
-    "wof:lastmodified":1563283872,
+    "wof:lastmodified":1566595223,
     "wof:name":"Nuijamaa",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

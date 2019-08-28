@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.70608,63.77981,22.74608,63.81981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683119,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243050875,
-    "wof:lastmodified":1536877999,
+    "wof:lastmodified":1566595668,
     "wof:name":"Finnaes",
     "wof:parent_id":907199167,
     "wof:placetype":"locality",

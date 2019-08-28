@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.5936,60.36217,25.6336,60.40217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Eestinm\u00e4ki"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1310115361,
-    "wof:lastmodified":1537622310,
+    "wof:lastmodified":1566595077,
     "wof:name":"Eestinmaeki",
     "wof:parent_id":907198525,
     "wof:placetype":"locality",

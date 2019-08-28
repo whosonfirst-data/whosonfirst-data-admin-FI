@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":68.287377,
     "lbl:longitude":23.080868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":68.287378,
     "mps:longitude":23.080868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Palojoensuu"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":642895,
         "gp:id":570970,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q997775"
     },
     "wof:country":"FI",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101845573,
-    "wof:lastmodified":1563283679,
+    "wof:lastmodified":1566595158,
     "wof:name":"Palojoensuu",
     "wof:parent_id":907199599,
     "wof:placetype":"locality",

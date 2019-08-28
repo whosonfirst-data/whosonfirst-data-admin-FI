@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.259238,
     "lbl:longitude":23.950479,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":64.259238,
     "mps:longitude":23.950479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Kalajoki"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":64.259722,
     "wd:longitude":23.948611,
@@ -142,10 +145,12 @@
     "wof:concordances":{
         "gn:id":843739,
         "gp:id":566595,
-        "qs:id":953657,
         "qs_pg:id":232505,
         "wd:id":"Q939758",
         "wk:page":"Kalajoki"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":953657
     },
     "wof:country":"FI",
     "wof:geomhash":"c7df512725710f4af73ab645c84b8aa2",
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":101814451,
-    "wof:lastmodified":1563283944,
+    "wof:lastmodified":1566595246,
     "wof:name":"Kalajoki",
     "wof:parent_id":907199617,
     "wof:placetype":"locality",

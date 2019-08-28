@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00033,
-    "geom:area_square_m":2027118.321206,
+    "geom:area_square_m":2027118.321205,
     "geom:bbox":"24.7417619286,60.1915714618,24.7745163387,60.20686559",
     "geom:latitude":60.200414,
     "geom:longitude":24.757386,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.200284,
     "lbl:longitude":24.757382,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.200284,
     "mps:longitude":24.757382,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "reversegeo:longitude":24.757382,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729261,
         907198517,
@@ -45,7 +45,8 @@
         101748415,
         136253047,
         1108729225,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729405,
-    "wof:lastmodified":1529714745,
+    "wof:lastmodified":1566594964,
     "wof:name":"Taavinkyla",
     "wof:parent_id":1108729261,
     "wof:placetype":"neighbourhood",

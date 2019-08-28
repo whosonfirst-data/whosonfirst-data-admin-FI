@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.08,64.91333,27.12,64.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jurva"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1293755199,
-    "wof:lastmodified":1564100872,
+    "wof:lastmodified":1566594589,
     "wof:name":"Jurva",
     "wof:parent_id":907199509,
     "wof:placetype":"locality",

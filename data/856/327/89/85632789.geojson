@@ -17,6 +17,8 @@
     ],
     "lbl:latitude":60.15205,
     "lbl:longitude":20.291594,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":60.15205,
     "mps:longitude":20.291594,
     "mz:hierarchy_label":1,
@@ -560,9 +562,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
     ],
-    "name:unk_x_variant":[
-        "Ahvenanmaa"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0644\u06cc\u0646\u0688 \u0622\u0626\u0644\u06cc\u0646\u0688\u0632"
     ],
@@ -691,7 +690,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"358",
     "statoids:ds":"FIN",
@@ -708,11 +707,6 @@
     "statoids:name":"Aland",
     "statoids:wmo":"",
     "wd:wordcount":2936,
-    "wof:belongs":[
-        85633143,
-        136253047
-    ],
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191581,
         136253047
@@ -724,7 +718,7 @@
         "gn:id":661882,
         "gp:id":12577865,
         "m49:code":"248",
-        "qs:id":550574,
+        "qs_pg:id":550574,
         "uncrt:id":"FIN",
         "wd:id":"Q5689"
     },
@@ -745,7 +739,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1563282669,
+    "wof:lastmodified":1566594458,
     "wof:name":"Aland",
     "wof:parent_id":136253047,
     "wof:placetype":"dependency",

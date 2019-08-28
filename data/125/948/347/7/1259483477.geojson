@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.58,60.99667,22.62,61.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Riiti\u00e4",
         "Riitti\u00f6"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1259483477,
-    "wof:lastmodified":1537622175,
+    "wof:lastmodified":1566595732,
     "wof:name":"Riittioe",
     "wof:parent_id":907198933,
     "wof:placetype":"locality",

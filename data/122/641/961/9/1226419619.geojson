@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"30.46693,62.23484,30.50693,62.27484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saario"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1226419619,
-    "wof:lastmodified":1564102600,
+    "wof:lastmodified":1566595885,
     "wof:name":"Saario",
     "wof:parent_id":907199417,
     "wof:placetype":"locality",

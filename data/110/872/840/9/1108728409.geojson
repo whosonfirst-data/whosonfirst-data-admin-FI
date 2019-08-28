@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":61.462098,
     "lbl:longitude":23.822834,
+    "lbl:max_zoom":18.0,
     "mps:latitude":61.462098,
     "mps:longitude":23.822834,
     "mz:hierarchy_label":1,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108728409,
-    "wof:lastmodified":1563283437,
+    "wof:lastmodified":1566594993,
     "wof:name":"Hallila",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001224,
-    "geom:area_square_m":7468001.348647,
+    "geom:area_square_m":7468001.348642,
     "geom:bbox":"26.8586157865,60.4212024329,26.9282076892,60.4684659463",
     "geom:latitude":60.444682,
     "geom:longitude":26.891858,
     "iso:country":"FI",
     "lbl:latitude":60.455205,
     "lbl:longitude":26.878353,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.455204,
     "mps:longitude":26.878353,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Kotkan merikaapeli"
     ],
@@ -33,7 +36,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683081,
         102191581,
@@ -46,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":25945946,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"FI",
     "wof:geomhash":"1f0ff03f028a011c0000fbfb764bf43b",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101815441,
-    "wof:lastmodified":1529707609,
+    "wof:lastmodified":1566595197,
     "wof:name":"Mussalo",
     "wof:parent_id":907198683,
     "wof:placetype":"locality",

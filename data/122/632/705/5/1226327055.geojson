@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.77708,61.72497,29.81708,61.76497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ukko-Juhonkyl\u00e4",
         "Ukko-Juhonsalo"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1226327055,
-    "wof:lastmodified":1537622145,
+    "wof:lastmodified":1566595847,
     "wof:name":"Ukko-Juhon salo",
     "wof:parent_id":907198853,
     "wof:placetype":"locality",

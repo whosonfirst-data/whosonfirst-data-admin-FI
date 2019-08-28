@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":63.20821,
     "lbl:longitude":27.509305,
+    "lbl:min_zoom":8.0,
     "mps:latitude":63.207416,
     "mps:longitude":27.509697,
     "mz:hierarchy_label":1,
@@ -226,9 +227,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u0421\u0430\u0432\u043e\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Norra Savolax"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0645\u0627\u0644\u06cc \u0633\u0627\u0648\u0648\u0646\u06cc\u0627"
     ],
@@ -311,7 +309,7 @@
     "qs:type":"Maakunta#Landskap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"FI-15",
     "wd:wordcount":296,
     "wof:belongsto":[
@@ -349,7 +347,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282644,
+    "wof:lastmodified":1566594435,
     "wof:name":"Northern Savonia",
     "wof:parent_id":404227407,
     "wof:placetype":"region",

@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.912747,
     "lbl:longitude":26.124195,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":61.912747,
     "mps:longitude":26.124195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Leivonm\u00e4ki"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":152,
     "wof:belongsto":[
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":648397,
         "gp:id":568944,
-        "qs:id":172446,
         "qs_pg:id":172446,
         "wd:id":"Q1025712",
         "wk:page":"Leivonm\u00e4ki"
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101814215,
-    "wof:lastmodified":1561830288,
+    "wof:lastmodified":1566595242,
     "wof:name":"Leivonm\u00e4ki",
     "wof:parent_id":907198751,
     "wof:placetype":"locality",

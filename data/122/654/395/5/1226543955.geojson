@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.43951,60.56217,26.47951,60.60217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Viiril\u00e4"
     ],
@@ -40,8 +44,7 @@
         "Virb\u00f6le"
     ],
     "name:und_x_variant":[
-        "Virby",
-        "Viiril\u00e4"
+        "Virby"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1226543955,
-    "wof:lastmodified":1537622133,
+    "wof:lastmodified":1566595907,
     "wof:name":"Viirilae",
     "wof:parent_id":907198469,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":21.853382,
     "gn:population":1004,
     "iso:country":"FI",
+    "lbl:bbox":"21.833382,60.55595,21.873382,60.59595",
     "lbl:latitude":60.57595,
     "lbl:longitude":21.853382,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.575951,
     "mps:longitude":21.853382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0410\u0441\u043a\u0430\u0439\u043d\u0435\u043d"
     ],
@@ -92,7 +96,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u043a\u0430\u0439\u043d\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Askas"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +119,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":119,
     "wof:belongsto":[
@@ -131,10 +135,12 @@
     "wof:concordances":{
         "gn:id":854930,
         "gp:id":564304,
-        "qs:id":369931,
-        "qs_pg:id":963887,
+        "qs_pg:id":369931,
         "wd:id":"Q730954",
         "wk:page":"Askainen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":963887
     },
     "wof:country":"FI",
     "wof:geomhash":"6ef5ca866c8e7ab82f3faf171fb37c1d",
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":101872787,
-    "wof:lastmodified":1563283700,
+    "wof:lastmodified":1566595166,
     "wof:name":"Askainen",
     "wof:parent_id":907198919,
     "wof:placetype":"locality",

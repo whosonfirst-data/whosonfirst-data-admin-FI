@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.786627,
     "lbl:longitude":28.365565,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":61.786627,
     "mps:longitude":28.365565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sulkava"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":243,
     "wof:belongsto":[
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":635844,
         "gp:id":573421,
-        "qs:id":968390,
         "qs_pg:id":968390,
         "wd:id":"Q368997"
     },
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":101814065,
-    "wof:lastmodified":1563283884,
+    "wof:lastmodified":1566595227,
     "wof:name":"Sulkava",
     "wof:parent_id":907198787,
     "wof:placetype":"locality",

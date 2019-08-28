@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.67547,63.13719,21.71547,63.17719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Holmen"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1243142463,
-    "wof:lastmodified":1564102205,
+    "wof:lastmodified":1566595646,
     "wof:name":"Holmen",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

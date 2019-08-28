@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.140786,
     "lbl:longitude":25.767034,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.140786,
     "mps:longitude":25.767034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "S\u00e4yn\u00e4tsalo"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":62.140278,
     "wd:longitude":25.769167,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":637247,
         "gp:id":572938,
-        "qs:id":1337645,
         "qs_pg:id":1337645,
         "wd:id":"Q1511769"
     },
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101814203,
-    "wof:lastmodified":1563283892,
+    "wof:lastmodified":1566595230,
     "wof:name":"S\u00e4yn\u00e4tsalo",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

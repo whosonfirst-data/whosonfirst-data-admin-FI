@@ -25,8 +25,12 @@
     "gn:population":8403,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.67765,60.85575,21.71765,60.89575",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041b\u0430\u0439\u0446\u0456\u043b\u0430"
     ],
@@ -96,9 +100,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0439\u0442\u0456\u043b\u0430"
     ],
-    "name:und_x_variant":[
-        "Letala"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0626\u06cc\u062a\u06cc\u0644\u0627"
     ],
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1326933571,
-    "wof:lastmodified":1564099999,
+    "wof:lastmodified":1566593901,
     "wof:name":"Laitila",
     "wof:parent_id":907198671,
     "wof:placetype":"locality",

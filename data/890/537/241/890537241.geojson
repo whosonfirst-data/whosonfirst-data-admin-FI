@@ -31,6 +31,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.249488,
     "lbl:longitude":24.886377,
+    "lbl:max_zoom":15.0,
     "mps:latitude":60.249488,
     "mps:longitude":24.886377,
     "mz:hierarchy_label":1,
@@ -67,7 +68,7 @@
     "reversegeo:longitude":24.886377,
     "src:geom":"hkigis",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":890537241,
-    "wof:lastmodified":1563284061,
+    "wof:lastmodified":1566595307,
     "wof:name":"Kaarela",
     "wof:parent_id":890536889,
     "wof:placetype":"macrohood",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000872,
-    "geom:area_square_m":4400703.769488,
+    "geom:area_square_m":4400703.76949,
     "geom:bbox":"24.6322143305,65.8819748744,24.7220645434,65.918280182",
     "geom:latitude":65.898992,
     "geom:longitude":24.681806,
     "iso:country":"FI",
     "lbl:latitude":65.896593,
     "lbl:longitude":24.696781,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.896593,
     "mps:longitude":24.696781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0648\u0644\u0627"
     ],
@@ -39,7 +42,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":66.866667,
     "wd:longitude":24.666667,
     "wd:wordcount":25,
@@ -55,7 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":25952176,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"FI",
     "wof:geomhash":"e7b940331e716a76222957dd0336ff72",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101814521,
-    "wof:lastmodified":1529708127,
+    "wof:lastmodified":1566595234,
     "wof:name":"Maula",
     "wof:parent_id":907199569,
     "wof:placetype":"locality",

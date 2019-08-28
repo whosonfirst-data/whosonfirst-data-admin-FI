@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.04096,63.16467,26.08096,63.20467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683117,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242763953,
-    "wof:lastmodified":1536795539,
+    "wof:lastmodified":1566595677,
     "wof:name":"Kumpumaeki",
     "wof:parent_id":907199223,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.68884,63.00719,29.72884,63.04719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kopravaara"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1310681261,
-    "wof:lastmodified":1537622243,
+    "wof:lastmodified":1566595103,
     "wof:name":"Kopravaara",
     "wof:parent_id":907199389,
     "wof:placetype":"locality",

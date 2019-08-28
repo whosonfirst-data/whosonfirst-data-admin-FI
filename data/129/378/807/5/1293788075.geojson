@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.81333,60.33,24.85333,60.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683067,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293788075,
-    "wof:lastmodified":1536849661,
+    "wof:lastmodified":1566594521,
     "wof:name":"Ripukylae",
     "wof:parent_id":907199651,
     "wof:placetype":"locality",

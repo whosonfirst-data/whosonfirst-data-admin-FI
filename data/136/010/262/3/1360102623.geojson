@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.64651,60.0421,23.68651,60.0821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kila"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1360102623,
-    "wof:lastmodified":1564101705,
+    "wof:lastmodified":1566595145,
     "wof:name":"Kila",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

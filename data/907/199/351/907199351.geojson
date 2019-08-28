@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":63.526836,
     "lbl:longitude":27.111914,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u0644\u0645\u064a"
     ],
@@ -125,9 +128,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0439\u0441\u0430\u043b\u043c\u0456"
     ],
-    "name:unk_x_variant":[
-        "Idensalmi"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc \u0633\u0627\u0644\u0645\u06cc"
     ],
@@ -138,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683131,
         102191581,
@@ -167,7 +167,7 @@
         }
     ],
     "wof:id":907199351,
-    "wof:lastmodified":1564100421,
+    "wof:lastmodified":1566594202,
     "wof:name":"Iisalmi",
     "wof:parent_id":1159321601,
     "wof:placetype":"localadmin",

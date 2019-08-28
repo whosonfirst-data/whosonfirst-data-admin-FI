@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.386272,
     "lbl:longitude":26.435363,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":62.386272,
     "mps:longitude":26.435363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Hankasalmi"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":337,
     "wof:belongsto":[
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":659024,
         "gp:id":565050,
-        "qs:id":22381,
-        "qs_pg:id":1060480,
+        "qs_pg:id":22381,
         "wd:id":"Q543717",
         "wk:page":"Hankasalmi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060480
     },
     "wof:country":"FI",
     "wof:geomhash":"9aa9286c36e04f7ef4d0c9c3a865044c",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":101814181,
-    "wof:lastmodified":1563283908,
+    "wof:lastmodified":1566595235,
     "wof:name":"Hankasalmi",
     "wof:parent_id":907198817,
     "wof:placetype":"locality",

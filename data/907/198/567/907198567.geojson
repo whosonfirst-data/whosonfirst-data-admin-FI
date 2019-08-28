@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":60.855295,
     "lbl:longitude":25.270952,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karkola"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683091,
         102191581,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":907198567,
-    "wof:lastmodified":1544224760,
+    "wof:lastmodified":1566593987,
     "wof:name":"Karkola",
     "wof:parent_id":1159321483,
     "wof:placetype":"localadmin",

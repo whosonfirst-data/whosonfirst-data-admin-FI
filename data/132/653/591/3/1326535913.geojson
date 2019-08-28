@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.85703,61.52143,21.89703,61.56143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Vidk\u00e4rr"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1326535913,
-    "wof:lastmodified":1537622355,
+    "wof:lastmodified":1566593963,
     "wof:name":"Viikeri",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

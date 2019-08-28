@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000195,
-    "geom:area_square_m":1043315.637239,
+    "geom:area_square_m":1043315.637237,
     "geom:bbox":"25.1983234902,64.4163034781,25.2391790794,64.4300491026",
     "geom:latitude":64.422702,
     "geom:longitude":25.21906,
     "iso:country":"FI",
     "lbl:latitude":64.422457,
     "lbl:longitude":25.220452,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.422458,
     "mps:longitude":25.220451,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alpua"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":661285,
         "gp:id":564175,
-        "qs:id":1222837
+        "qs_pg:id":1222837
     },
     "wof:country":"FI",
     "wof:geomhash":"3c109857578989d7652adcbae12cc65f",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101814441,
-    "wof:lastmodified":1529709425,
+    "wof:lastmodified":1566595226,
     "wof:name":"Alpua",
     "wof:parent_id":907199449,
     "wof:placetype":"locality",

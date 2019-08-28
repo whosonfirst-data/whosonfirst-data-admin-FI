@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.221234,
     "lbl:longitude":23.970826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.221234,
     "mps:longitude":23.970826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "S\u00e4\u00e4ksj\u00e4rvi"
     ],
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "S\u00e4\u00e4ksj\u00e4rvi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e4\u00e4ksvesi"
     ],
     "qs:a0":"Suomi#Finland",
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":138,
     "wof:belongsto":[
         85683113,
@@ -71,8 +74,10 @@
     "wof:concordances":{
         "gn:id":638502,
         "gp:id":572538,
-        "qs:id":928135,
         "qs_pg:id":473459
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":928135
     },
     "wof:country":"FI",
     "wof:geomhash":"34697dc412b28d718168f41190cfcc7b",
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":101846909,
-    "wof:lastmodified":1529709635,
+    "wof:lastmodified":1566595175,
     "wof:name":"S\u00e4\u00e4ksj\u00e4rvi",
     "wof:parent_id":907199273,
     "wof:placetype":"locality",

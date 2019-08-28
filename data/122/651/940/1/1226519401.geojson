@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"30.0553,61.97691,30.0953,62.01691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Juurikkaj\u00e4rvi",
         "Jurikkaj\u00e4rvi",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1226519401,
-    "wof:lastmodified":1537622268,
+    "wof:lastmodified":1566595837,
     "wof:name":"Juurikka",
     "wof:parent_id":907198727,
     "wof:placetype":"locality",

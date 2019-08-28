@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":61.700843,
     "lbl:longitude":26.746994,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hirvensalmi"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683109,
         102191581,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":907198755,
-    "wof:lastmodified":1564100258,
+    "wof:lastmodified":1566593986,
     "wof:name":"Hirvensalmi",
     "wof:parent_id":1159321539,
     "wof:placetype":"localadmin",

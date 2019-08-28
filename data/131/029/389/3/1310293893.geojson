@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.63,61.59667,26.67,61.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683109,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310293893,
-    "wof:lastmodified":1536725044,
+    "wof:lastmodified":1566595081,
     "wof:name":"Heintaipale",
     "wof:parent_id":907198755,
     "wof:placetype":"locality",

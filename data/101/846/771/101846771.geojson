@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000166,
-    "geom:area_square_m":994302.749212,
+    "geom:area_square_m":994302.74921,
     "geom:bbox":"23.4927512837,60.9544394779,23.5216808946,60.9664059895",
     "geom:latitude":60.959456,
     "geom:longitude":23.507436,
     "iso:country":"FI",
     "lbl:latitude":60.959719,
     "lbl:longitude":23.507656,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.959719,
     "mps:longitude":23.507656,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Kanta-H\u00e4me#Egentliga Tavastland",
     "qs:a1r":"0Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683077,
         102191581,
@@ -46,7 +49,6 @@
     "wof:concordances":{
         "gn:id":646402,
         "gp:id":569636,
-        "qs:id":182948,
         "qs_pg:id":182948
     },
     "wof:country":"FI",
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":101846771,
-    "wof:lastmodified":1529711988,
+    "wof:lastmodified":1566595183,
     "wof:name":"Matku",
     "wof:parent_id":907199441,
     "wof:placetype":"locality",

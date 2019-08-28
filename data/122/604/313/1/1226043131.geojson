@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.76436,61.61442,21.80436,61.65442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Poikeltr\u00e4sk"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226043131,
-    "wof:lastmodified":1537550114,
+    "wof:lastmodified":1566595841,
     "wof:name":"Poikeljaervi",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

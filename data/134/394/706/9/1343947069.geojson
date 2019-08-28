@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.07826,61.17951,27.11826,61.21951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u00e4\u00e4p\u00e4",
         "K\u00e4\u00e4v\u00e4nkyl\u00e4"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343947069,
-    "wof:lastmodified":1537622267,
+    "wof:lastmodified":1566594364,
     "wof:name":"Kaeaevaenkylae",
     "wof:parent_id":907198721,
     "wof:placetype":"locality",

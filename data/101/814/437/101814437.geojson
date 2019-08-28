@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.485674,
     "lbl:longitude":24.995037,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":64.485674,
     "mps:longitude":24.995037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u0445\u0430\u043d\u0442\u0438"
     ],
@@ -74,7 +77,7 @@
     "name:tur_x_preferred":[
         "Vihanti"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wihanti"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":229,
     "wof:belongsto":[
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":631758,
         "gp:id":574902,
-        "qs:id":1232090,
         "qs_pg:id":1232090,
         "wd:id":"Q992240",
         "wk:page":"Vihanti"
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":101814437,
-    "wof:lastmodified":1563283887,
+    "wof:lastmodified":1566595228,
     "wof:name":"Vihanti",
     "wof:parent_id":907199449,
     "wof:placetype":"locality",

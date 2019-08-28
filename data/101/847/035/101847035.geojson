@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.198747,
     "lbl:longitude":30.614922,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.198746,
     "mps:longitude":30.614922,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0627\u0631\u062a\u0633\u064a\u0644\u064a\u0627"
     ],
@@ -74,9 +77,6 @@
     "name:swe_x_preferred":[
         "V\u00e4rtsil\u00e4"
     ],
-    "name:unk_x_variant":[
-        "Vyartsilya"
-    ],
     "name:war_x_preferred":[
         "Vyartsilya"
     ],
@@ -94,7 +94,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85683133,
@@ -109,7 +109,7 @@
     "wof:concordances":{
         "gn:id":470762,
         "gp:id":574686,
-        "qs:id":124718,
+        "qs_pg:id":124718,
         "wd:id":"Q370550",
         "wk:page":"Vyartsilya"
     },
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":101847035,
-    "wof:lastmodified":1563283852,
+    "wof:lastmodified":1566595217,
     "wof:name":"V\u00e4rtsil\u00e4",
     "wof:parent_id":907199417,
     "wof:placetype":"locality",

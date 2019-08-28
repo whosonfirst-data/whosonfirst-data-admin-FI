@@ -13,6 +13,8 @@
     "iso:country":"FI",
     "lbl:latitude":61.477527,
     "lbl:longitude":21.811598,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":61.477527,
     "mps:longitude":21.811598,
     "mz:hierarchy_label":1,
@@ -240,7 +242,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00ebrneborg"
     ],
     "name:urd_x_preferred":[
@@ -370,7 +372,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":61.484722,
     "wd:longitude":21.797222,
@@ -389,10 +391,12 @@
     "wof:concordances":{
         "gn:id":640999,
         "gp:id":571609,
-        "qs:id":1192607,
         "qs_pg:id":1139118,
         "wd:id":"Q180233",
         "wk:page":"Pori"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1192607
     },
     "wof:country":"FI",
     "wof:geomhash":"aa020fced65f6ad4505600901529d331",
@@ -409,7 +413,7 @@
         }
     ],
     "wof:id":101748427,
-    "wof:lastmodified":1563283722,
+    "wof:lastmodified":1566595172,
     "wof:name":"Pori",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

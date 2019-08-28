@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.154644,
     "lbl:longitude":24.820101,
+    "lbl:max_zoom":15.0,
     "mps:latitude":60.154644,
     "mps:longitude":24.820101,
     "mz:hierarchy_label":1,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108729271,
-    "wof:lastmodified":1563283459,
+    "wof:lastmodified":1566595011,
     "wof:name":"Haukilahti-Westend",
     "wof:parent_id":1108729225,
     "wof:placetype":"macrohood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000532,
-    "geom:area_square_m":3262896.218202,
+    "geom:area_square_m":3262896.2182,
     "geom:bbox":"24.7463578414,60.2364145949,24.7847663894,60.2656369001",
     "geom:latitude":60.2497,
     "geom:longitude":24.766878,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.250756,
     "lbl:longitude":24.766876,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.250756,
     "mps:longitude":24.766876,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "reversegeo:longitude":24.766876,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729267,
         907198517,
@@ -45,7 +45,8 @@
         101748415,
         136253047,
         1108729223,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729433,
-    "wof:lastmodified":1529714747,
+    "wof:lastmodified":1566595021,
     "wof:name":"Jupperi",
     "wof:parent_id":1108729267,
     "wof:placetype":"neighbourhood",

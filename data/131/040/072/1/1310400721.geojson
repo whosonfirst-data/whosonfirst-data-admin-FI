@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.51198,61.37345,27.55198,61.41345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Makkola",
         "Mahkola"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310400721,
-    "wof:lastmodified":1537622216,
+    "wof:lastmodified":1566595040,
     "wof:name":"Mahkola",
     "wof:parent_id":907198765,
     "wof:placetype":"locality",

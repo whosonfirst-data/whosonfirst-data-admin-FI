@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.88816,61.10004,23.92816,61.14004",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683099,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226742317,
-    "wof:lastmodified":1536720838,
+    "wof:lastmodified":1566595819,
     "wof:name":"Metsae-Paavola",
     "wof:parent_id":907199731,
     "wof:placetype":"locality",

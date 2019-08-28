@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":66.176861,
     "lbl:longitude":29.130772,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":66.17686,
     "mps:longitude":29.130772,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0443\u043a\u0430\u0442\u0443\u043d\u0442\u0443\u0440\u0438"
     ],
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":529,
     "wof:belongsto":[
         85683143,
@@ -101,7 +104,6 @@
     "wof:concordances":{
         "gn:id":7289327,
         "gp:id":29305501,
-        "qs:id":1314574,
         "qs_pg:id":1314574,
         "wd:id":"Q762945"
     },
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101911303,
-    "wof:lastmodified":1563283989,
+    "wof:lastmodified":1566595260,
     "wof:name":"Rukatunturi",
     "wof:parent_id":907199519,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.37433,64.59682,24.41433,64.63682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siniluoto",
         "Siniluodonper\u00e4"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1326993783,
-    "wof:lastmodified":1537622161,
+    "wof:lastmodified":1566593951,
     "wof:name":"Siniluodonperae",
     "wof:parent_id":907199449,
     "wof:placetype":"locality",

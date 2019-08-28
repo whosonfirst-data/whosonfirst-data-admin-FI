@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":1561296.022707,
+    "geom:area_square_m":1561296.022706,
     "geom:bbox":"24.4807135247,60.3882394821,24.5248696972,60.4111790225",
     "geom:latitude":60.399677,
     "geom:longitude":24.498805,
     "iso:country":"FI",
     "lbl:latitude":60.40335,
     "lbl:longitude":24.491112,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.40335,
     "mps:longitude":24.491112,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Otalampi"
     ],
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -52,7 +55,6 @@
     "wof:concordances":{
         "gn:id":643526,
         "gp:id":570733,
-        "qs:id":243428,
         "qs_pg:id":243428
     },
     "wof:country":"FI",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":101846705,
-    "wof:lastmodified":1529714677,
+    "wof:lastmodified":1566595185,
     "wof:name":"Otalampi",
     "wof:parent_id":907198595,
     "wof:placetype":"locality",

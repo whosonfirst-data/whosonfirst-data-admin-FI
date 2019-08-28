@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000514,
-    "geom:area_square_m":2688491.500308,
+    "geom:area_square_m":2688491.500309,
     "geom:bbox":"25.4864994621,64.9441463892,25.570085784,64.974265012",
     "geom:latitude":64.95797,
     "geom:longitude":25.537208,
     "iso:country":"FI",
     "lbl:latitude":64.961876,
     "lbl:longitude":25.552098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.961876,
     "mps:longitude":25.552098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kaakkuri"
     ],
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":7645542,
         "gp:id":25951663,
-        "qs:id":357811,
         "qs_pg:id":357811,
         "wd:id":"Q18658615"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101911287,
-    "wof:lastmodified":1529709430,
+    "wof:lastmodified":1566595259,
     "wof:name":"Kaakkuri",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

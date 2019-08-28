@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
-    "geom:area_square_m":1155009.631996,
+    "geom:area_square_m":1155009.631994,
     "geom:bbox":"24.7314357649,60.1373426353,24.7611661798,60.1500370885",
     "geom:latitude":60.144459,
     "geom:longitude":24.743017,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.142846,
     "lbl:longitude":24.739524,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.142846,
     "mps:longitude":24.739524,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "reversegeo:longitude":24.739524,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729235,
         907198517,
@@ -45,7 +45,8 @@
         101748415,
         136253047,
         1108729221,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729303,
-    "wof:lastmodified":1529714738,
+    "wof:lastmodified":1566594924,
     "wof:name":"Nuottaniemi",
     "wof:parent_id":1108729235,
     "wof:placetype":"neighbourhood",

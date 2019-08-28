@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.184272,
     "lbl:longitude":24.721627,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.184272,
     "mps:longitude":24.721627,
     "mz:hierarchy_label":1,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1108729385,
-    "wof:lastmodified":1564101405,
+    "wof:lastmodified":1566594916,
     "wof:name":"Henttaa",
     "wof:parent_id":1108729257,
     "wof:placetype":"neighbourhood",

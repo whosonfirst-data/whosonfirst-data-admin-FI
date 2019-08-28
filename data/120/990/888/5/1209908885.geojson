@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.86889,61.35802,24.90889,61.39802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Kelkankyl\u00e4"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1209908885,
-    "wof:lastmodified":1537622142,
+    "wof:lastmodified":1566594744,
     "wof:name":"Vahtermetsae",
     "wof:parent_id":907199187,
     "wof:placetype":"locality",

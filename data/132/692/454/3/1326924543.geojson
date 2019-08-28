@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.80603,61.26479,26.84603,61.30479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683109,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326924543,
-    "wof:lastmodified":1536916400,
+    "wof:lastmodified":1566593903,
     "wof:name":"Mouhu",
     "wof:parent_id":907198721,
     "wof:placetype":"locality",

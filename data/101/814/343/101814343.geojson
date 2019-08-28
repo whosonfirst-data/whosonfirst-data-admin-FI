@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.856996,
     "lbl:longitude":29.36544,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.856996,
     "mps:longitude":29.36544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Polvij\u00e4rvi"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":198,
     "wof:belongsto":[
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":641055,
         "gp:id":12590895,
-        "qs:id":245367,
+        "qs_pg:id":245367,
         "wd:id":"Q1000121"
     },
     "wof:country":"FI",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101814343,
-    "wof:lastmodified":1563283967,
+    "wof:lastmodified":1566595252,
     "wof:name":"Polvij\u00e4rvi",
     "wof:parent_id":907199399,
     "wof:placetype":"locality",

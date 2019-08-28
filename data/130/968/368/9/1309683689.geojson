@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.13,64.28,26.17,64.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pihkala"
     ],
@@ -35,8 +39,7 @@
         "\u041f\u0438\u0445\u043a\u0430\u043b\u0430"
     ],
     "name:und_x_variant":[
-        "Pihkakoski",
-        "Pihkala"
+        "Pihkakoski"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1309683689,
-    "wof:lastmodified":1537622189,
+    "wof:lastmodified":1566595290,
     "wof:name":"Pihkala",
     "wof:parent_id":907199755,
     "wof:placetype":"locality",

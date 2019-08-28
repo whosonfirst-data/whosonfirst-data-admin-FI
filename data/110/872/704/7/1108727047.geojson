@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.212417,
     "lbl:longitude":24.90662,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.212417,
     "mps:longitude":24.90662,
     "mz:hierarchy_label":1,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108727047,
-    "wof:lastmodified":1561830253,
+    "wof:lastmodified":1566594980,
     "wof:name":"Kivihaka",
     "wof:parent_id":890537273,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.88313,61.09237,27.92313,61.13237",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vainikkala"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1276785087,
-    "wof:lastmodified":1564101002,
+    "wof:lastmodified":1566594674,
     "wof:name":"Vainikkala",
     "wof:parent_id":907198959,
     "wof:placetype":"locality",

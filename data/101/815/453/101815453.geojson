@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.809118,
     "lbl:longitude":25.731255,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.809118,
     "mps:longitude":25.731255,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Orimattila"
     ],
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.804167,
     "wd:longitude":25.733333,
@@ -148,9 +151,11 @@
     "wof:concordances":{
         "gn:id":847481,
         "gp:id":570687,
-        "qs:id":688363,
         "qs_pg:id":114700,
         "wd:id":"Q939701"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":688363
     },
     "wof:country":"FI",
     "wof:geomhash":"b9659eafca7ef05d917a3e47f5652d10",
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":101815453,
-    "wof:lastmodified":1563283799,
+    "wof:lastmodified":1566595201,
     "wof:name":"Orimattila",
     "wof:parent_id":907198577,
     "wof:placetype":"locality",

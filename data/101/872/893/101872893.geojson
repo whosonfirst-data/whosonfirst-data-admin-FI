@@ -10,12 +10,16 @@
     "geom:latitude":67.413673,
     "geom:longitude":26.232041,
     "iso:country":"FI",
+    "lbl:bbox":"26.212041,67.393673,26.252041,67.433673",
     "lbl:latitude":67.413673,
     "lbl:longitude":26.232041,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":67.413673,
     "mps:longitude":26.232041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vaalaj\u00e4rvi"
     ],
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         85683147,
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":633093,
         "gp:id":574424,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q11899935"
     },
     "wof:country":"FI",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":101872893,
-    "wof:lastmodified":1544751377,
+    "wof:lastmodified":1566595162,
     "wof:name":"Vaalaj\u00e4rvi",
     "wof:parent_id":907199561,
     "wof:placetype":"locality",

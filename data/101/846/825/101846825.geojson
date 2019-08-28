@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.615493,
     "lbl:longitude":21.436654,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.615493,
     "mps:longitude":21.436653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Reposaari"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":61.613172,
     "wd:longitude":21.445742,
     "wd:wordcount":795,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":639501,
         "gp:id":572171,
-        "qs:id":247458,
         "qs_pg:id":247458,
         "wd:id":"Q7314172"
     },
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101846825,
-    "wof:lastmodified":1563283762,
+    "wof:lastmodified":1566595190,
     "wof:name":"Reposaari",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

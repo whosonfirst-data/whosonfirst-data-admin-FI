@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.92733,61.03892,23.96733,61.07892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683077,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293806495,
-    "wof:lastmodified":1536823400,
+    "wof:lastmodified":1566594575,
     "wof:name":"Ohtinen",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

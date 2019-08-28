@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.955298,
     "lbl:longitude":25.164016,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.955298,
     "mps:longitude":25.164016,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Pohjois-Pohjanmaa#Norra \u00d6sterbotten",
     "qs:a1r":"0Pohjois-Suomen AVI#Norra Finlands RFV",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":646866,
         "gp:id":569476,
-        "qs:id":928057
+        "qs_pg:id":928057
     },
     "wof:country":"FI",
     "wof:geomhash":"3f5e912b1b5f5477a00f33e576cdf07c",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101847093,
-    "wof:lastmodified":1529709422,
+    "wof:lastmodified":1566595218,
     "wof:name":"Maliskyl\u00e4",
     "wof:parent_id":907199629,
     "wof:placetype":"locality",

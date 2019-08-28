@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.29628,62.85233,21.33628,62.89233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683119,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259962701,
-    "wof:lastmodified":1536665130,
+    "wof:lastmodified":1566595719,
     "wof:name":"OEsterholmen",
     "wof:parent_id":907199033,
     "wof:placetype":"locality",

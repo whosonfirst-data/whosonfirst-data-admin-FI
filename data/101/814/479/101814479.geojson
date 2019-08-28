@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.677022,
     "lbl:longitude":25.971174,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.677022,
     "mps:longitude":25.971174,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Pyh\u00e4j\u00e4rvi"
     ],
@@ -103,9 +106,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u044e\u0433\u044f\u044f\u0440\u0432\u0456"
     ],
-    "name:unk_x_variant":[
-        "Pyh\u00e4j\u00e4rvi"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u06c1\u0627 \u06cc\u0627\u0631\u0648\u06cc"
     ],
@@ -128,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -142,9 +142,11 @@
     "wof:concordances":{
         "gn:id":640440,
         "gp:id":571807,
-        "qs:id":31198,
-        "qs_pg:id":320732,
+        "qs_pg:id":31198,
         "wd:id":"Q990573"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":320732
     },
     "wof:country":"FI",
     "wof:geomhash":"f369dadc268414ceefdfd95933446dfa",
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":101814479,
-    "wof:lastmodified":1563283880,
+    "wof:lastmodified":1566595225,
     "wof:name":"Pyh\u00e4salmi",
     "wof:parent_id":907199151,
     "wof:placetype":"locality",

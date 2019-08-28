@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.230548,
     "lbl:longitude":24.723453,
+    "lbl:max_zoom":15.0,
     "mps:latitude":60.230548,
     "mps:longitude":24.723453,
     "mz:hierarchy_label":1,
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1108729263,
-    "wof:lastmodified":1529714720,
+    "wof:lastmodified":1566595016,
     "wof:name":"Viherlaakso-Lippajarvi",
     "wof:parent_id":1108729223,
     "wof:placetype":"macrohood",

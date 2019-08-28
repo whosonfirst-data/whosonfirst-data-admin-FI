@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.78431,
     "lbl:longitude":25.022777,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.78431,
     "mps:longitude":25.022777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Oitti"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":60.78333,
     "wd:longitude":25.03333,
     "wd:wordcount":120,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":644002,
         "gp:id":570560,
-        "qs:id":369883,
         "qs_pg:id":369883,
         "wd:id":"Q2024882",
         "wk:page":"Oitti"
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101815417,
-    "wof:lastmodified":1561830280,
+    "wof:lastmodified":1566595205,
     "wof:name":"Oitti",
     "wof:parent_id":907198561,
     "wof:placetype":"locality",

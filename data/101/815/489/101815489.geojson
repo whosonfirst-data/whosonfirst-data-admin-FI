@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.114019,
     "lbl:longitude":23.108941,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":61.114019,
     "mps:longitude":23.108941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Punkalaidun"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":231,
     "wof:belongsto":[
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":640689,
         "gp:id":571723,
-        "qs:id":21936,
         "qs_pg:id":21936,
         "wd:id":"Q1001932"
     },
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101815489,
-    "wof:lastmodified":1563283823,
+    "wof:lastmodified":1566595207,
     "wof:name":"Punkalaidun",
     "wof:parent_id":907198835,
     "wof:placetype":"locality",

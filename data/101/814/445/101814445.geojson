@@ -9,15 +9,18 @@
     "geom:bbox":"26.2578658792,64.3400612212,26.2964841448,64.3544141294",
     "geom:latitude":64.348936,
     "geom:longitude":26.278092,
-    "geonames:id":"653038,653039",
+    "gn:id":"653038,653039",
     "gn:population":1576,
     "iso:country":"FI",
     "lbl:latitude":64.348226,
     "lbl:longitude":26.281017,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":64.348226,
     "mps:longitude":26.281017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Kestil\u00e4"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":176,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":653039,
         "gp:id":567308,
-        "qs:id":182899,
         "qs_pg:id":182899,
         "wd:id":"Q992303",
         "wk:page":"Kestil\u00e4"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101814445,
-    "wof:lastmodified":1563283941,
+    "wof:lastmodified":1566595246,
     "wof:name":"Kestil\u00e4",
     "wof:parent_id":907199755,
     "wof:placetype":"locality",

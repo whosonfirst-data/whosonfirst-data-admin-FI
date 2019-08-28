@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.622571,
     "lbl:longitude":26.825676,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.622571,
     "mps:longitude":26.825676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Rautalampi"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":236,
     "wof:belongsto":[
@@ -109,10 +112,12 @@
     "wof:concordances":{
         "gn:id":639709,
         "gp:id":572087,
-        "qs:id":953610,
-        "qs_pg:id":1192657,
+        "qs_pg:id":953610,
         "wd:id":"Q987094",
         "wk:page":"Rautalampi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1192657
     },
     "wof:country":"FI",
     "wof:geomhash":"4b6b4138b850f8911ed7318b31b47d6b",
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":101814337,
-    "wof:lastmodified":1563283862,
+    "wof:lastmodified":1566595220,
     "wof:name":"Rautalampi",
     "wof:parent_id":907198897,
     "wof:placetype":"locality",

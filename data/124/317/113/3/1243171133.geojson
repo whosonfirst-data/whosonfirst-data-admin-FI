@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.3752,61.13321,24.4152,61.17321",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lusi"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1243171133,
-    "wof:lastmodified":1564102302,
+    "wof:lastmodified":1566595701,
     "wof:name":"Lusi",
     "wof:parent_id":907199219,
     "wof:placetype":"locality",

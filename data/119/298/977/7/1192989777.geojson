@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.03096,61.97445,25.07096,62.01445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683117,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1192989777,
-    "wof:lastmodified":1536382159,
+    "wof:lastmodified":1566594860,
     "wof:name":"Hopsu",
     "wof:parent_id":907199101,
     "wof:placetype":"locality",

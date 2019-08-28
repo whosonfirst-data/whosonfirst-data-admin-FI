@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.18,61.63,26.22,61.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kuha"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1309698519,
-    "wof:lastmodified":1564101803,
+    "wof:lastmodified":1566595294,
     "wof:name":"Kuha",
     "wof:parent_id":907198751,
     "wof:placetype":"locality",

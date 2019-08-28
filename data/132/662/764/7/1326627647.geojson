@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.75617,62.33686,23.79617,62.37686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lahti",
         "Lahdenkyl\u00e4"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1326627647,
-    "wof:lastmodified":1537622229,
+    "wof:lastmodified":1566593958,
     "wof:name":"Lahdenkylae",
     "wof:parent_id":907199171,
     "wof:placetype":"locality",

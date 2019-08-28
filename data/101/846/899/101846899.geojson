@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.362769,
     "lbl:longitude":23.454951,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.362769,
     "mps:longitude":23.454951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Evij\u00e4rvi"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":209,
     "wof:belongsto":[
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":660065,
         "gp:id":12591031,
-        "qs:id":1238769,
+        "qs_pg:id":1238769,
         "wd:id":"Q5983"
     },
     "wof:country":"FI",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101846899,
-    "wof:lastmodified":1563283766,
+    "wof:lastmodified":1566595191,
     "wof:name":"Evij\u00e4rvi",
     "wof:parent_id":907199283,
     "wof:placetype":"locality",

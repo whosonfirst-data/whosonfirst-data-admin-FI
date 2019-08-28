@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001226,
-    "geom:area_square_m":7506734.689151,
+    "geom:area_square_m":7506734.689148,
     "geom:bbox":"24.7141345246,60.2870124232,24.7717676081,60.3253849269",
     "geom:latitude":60.305723,
     "geom:longitude":24.748466,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.309609,
     "lbl:longitude":24.751313,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.309609,
     "mps:longitude":24.751313,
     "mz:hierarchy_label":1,
@@ -39,7 +40,6 @@
     "reversegeo:longitude":24.751313,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729253,
         907198517,
@@ -48,7 +48,8 @@
         101748415,
         136253047,
         1108729219,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108729479,
-    "wof:lastmodified":1529714752,
+    "wof:lastmodified":1566594964,
     "wof:name":"Kalajarvi",
     "wof:parent_id":1108729253,
     "wof:placetype":"neighbourhood",

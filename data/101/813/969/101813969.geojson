@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.599069,
     "lbl:longitude":21.857901,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":61.599068,
     "mps:longitude":21.8579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u043e\u0440\u043c\u0430\u0440\u043a\u0443"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":201,
     "wof:belongsto":[
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":644436,
         "gp:id":570390,
-        "qs:id":243434,
         "qs_pg:id":243434,
         "wd:id":"Q1641623",
         "wk:page":"Noormarkku"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101813969,
-    "wof:lastmodified":1561830291,
+    "wof:lastmodified":1566595255,
     "wof:name":"Noormarkku",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

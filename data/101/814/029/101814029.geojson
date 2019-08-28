@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000514,
-    "geom:area_square_m":3022305.867266,
+    "geom:area_square_m":3022305.867268,
     "geom:bbox":"29.4621934894,61.5847736864,29.5201603595,61.6156161257",
     "geom:latitude":61.601925,
     "geom:longitude":29.490392,
     "iso:country":"FI",
     "lbl:latitude":61.606286,
     "lbl:longitude":29.487885,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.606287,
     "mps:longitude":29.487885,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "S\u00e4rkisalmi"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683103,
         102191581,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":637590,
         "gp:id":572824,
-        "qs:id":928149
+        "qs_pg:id":928149
     },
     "wof:country":"FI",
     "wof:geomhash":"b932a8c860a472e6452fd9dea68034b6",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101814029,
-    "wof:lastmodified":1529707142,
+    "wof:lastmodified":1566595243,
     "wof:name":"S\u00e4rkisalmi",
     "wof:parent_id":907198853,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"30.16494,62.94201,30.20494,62.98201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ukkola"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1225921295,
-    "wof:lastmodified":1537622144,
+    "wof:lastmodified":1566595798,
     "wof:name":"Ukkola",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

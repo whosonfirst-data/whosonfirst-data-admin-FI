@@ -9,14 +9,17 @@
     "geom:bbox":"28.4603024324,63.198899412,28.4900177083,63.2108365858",
     "geom:latitude":63.20547,
     "geom:longitude":28.47507,
-    "geonames:id":"637243,637244",
+    "gn:id":"637243,637244",
     "iso:country":"FI",
     "lbl:latitude":63.204986,
     "lbl:longitude":28.477321,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.204986,
     "mps:longitude":28.477321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "S\u00e4yneinen"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683131,
         102191581,
@@ -62,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":572939,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q12004642"
     },
     "wof:country":"FI",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101847011,
-    "wof:lastmodified":1561830283,
+    "wof:lastmodified":1566595216,
     "wof:name":"S\u00e4yneinen",
     "wof:parent_id":907199339,
     "wof:placetype":"locality",

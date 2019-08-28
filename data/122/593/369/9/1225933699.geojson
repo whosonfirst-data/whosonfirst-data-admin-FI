@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.60791,61.04991,28.64791,61.08991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lip\u00e4l\u00e4",
         "Lipi\u00e4l\u00e4"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1225933699,
-    "wof:lastmodified":1537622221,
+    "wof:lastmodified":1566595796,
     "wof:name":"Lipiaelae",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

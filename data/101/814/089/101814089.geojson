@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
-    "geom:area_square_m":536706.457069,
+    "geom:area_square_m":536706.457068,
     "geom:bbox":"22.8234759595,63.0251991685,22.8431673264,63.0393390758",
     "geom:latitude":63.032183,
     "geom:longitude":22.833578,
     "iso:country":"FI",
     "lbl:latitude":63.028791,
     "lbl:longitude":22.829625,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.028791,
     "mps:longitude":22.829625,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Heilanmaa"
     ],
     "qs:a0":"Suomi#Finland",
@@ -33,7 +36,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683113,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":658239,
         "gp:id":565340,
-        "qs:id":253248
+        "qs_pg:id":253248
     },
     "wof:country":"FI",
     "wof:geomhash":"56b9ce1dd5d0aab699951fabe74f768e",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101814089,
-    "wof:lastmodified":1529709629,
+    "wof:lastmodified":1566595241,
     "wof:name":"Hellanmaa",
     "wof:parent_id":907199241,
     "wof:placetype":"locality",

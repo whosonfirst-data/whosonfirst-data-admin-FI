@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.99218,60.36447,25.03218,60.40447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683067,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1225958371,
-    "wof:lastmodified":1536849921,
+    "wof:lastmodified":1566595800,
     "wof:name":"Paehkinaemaeki",
     "wof:parent_id":907198631,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":811482.948558,
+    "geom:area_square_m":811482.948559,
     "geom:bbox":"27.6300655258,62.9115816241,27.6491298272,62.9237633824",
     "geom:latitude":62.918031,
     "geom:longitude":27.640494,
@@ -14,6 +14,7 @@
     "kuogov:NIMI":"Rypysuo",
     "lbl:latitude":62.917981,
     "lbl:longitude":27.640674,
+    "lbl:max_zoom":18.0,
     "mps:latitude":62.917981,
     "mps:longitude":27.640674,
     "mz:hierarchy_label":1,
@@ -26,14 +27,14 @@
     "reversegeo:longitude":27.640674,
     "src:geom":"kuogov",
     "wof:belongsto":[
-        85683131,
         102191581,
         907199673,
         85633143,
         404227407,
         101748439,
         136253047,
-        1159321597
+        1159321597,
+        85683131
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1108729165,
-    "wof:lastmodified":1529708977,
+    "wof:lastmodified":1566595010,
     "wof:name":"Rypysuo",
     "wof:parent_id":101748439,
     "wof:placetype":"neighbourhood",

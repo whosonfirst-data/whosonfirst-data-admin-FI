@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.93459,61.26451,28.97459,61.30451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683103,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293474349,
-    "wof:lastmodified":1536805868,
+    "wof:lastmodified":1566594519,
     "wof:name":"Jaeppisenmaeki",
     "wof:parent_id":907198791,
     "wof:placetype":"locality",

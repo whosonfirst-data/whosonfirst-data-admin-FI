@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.21617,60.16126,24.25617,60.20126",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683067,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293497277,
-    "wof:lastmodified":1536773494,
+    "wof:lastmodified":1566594513,
     "wof:name":"Backa",
     "wof:parent_id":907198709,
     "wof:placetype":"locality",

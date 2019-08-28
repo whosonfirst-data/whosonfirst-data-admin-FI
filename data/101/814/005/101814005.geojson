@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.663826,
     "lbl:longitude":23.194412,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":61.663826,
     "mps:longitude":23.194412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "H\u00e4meenkyr\u00f6"
     ],
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":221,
     "wof:belongsto":[
@@ -145,10 +148,12 @@
     "wof:concordances":{
         "gn:id":659184,
         "gp:id":564996,
-        "qs:id":276115,
-        "qs_pg:id":1327444,
+        "qs_pg:id":276115,
         "wd:id":"Q996656",
         "wk:page":"H\u00e4meenkyr\u00f6"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327444
     },
     "wof:country":"FI",
     "wof:geomhash":"e895fa4379610a55d4497145d029e0b8",
@@ -165,7 +170,7 @@
         }
     ],
     "wof:id":101814005,
-    "wof:lastmodified":1563283952,
+    "wof:lastmodified":1566595248,
     "wof:name":"H\u00e4meenkyr\u00f6",
     "wof:parent_id":907199131,
     "wof:placetype":"locality",

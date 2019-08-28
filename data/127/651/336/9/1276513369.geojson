@@ -25,16 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.1913,64.27308,28.2313,64.31308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Paakinm\u00e4ki"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043a\u0438\u043d\u043c\u044f\u043a\u0438"
-    ],
-    "name:und_x_variant":[
-        "Paakinm\u00e4ki"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1276513369,
-    "wof:lastmodified":1537622197,
+    "wof:lastmodified":1566594634,
     "wof:name":"Paakinmaeki",
     "wof:parent_id":907199319,
     "wof:placetype":"locality",

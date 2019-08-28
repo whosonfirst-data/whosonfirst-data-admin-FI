@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.70187,62.71922,21.74187,62.75922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sane"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1259666605,
-    "wof:lastmodified":1564102401,
+    "wof:lastmodified":1566595763,
     "wof:name":"Sane",
     "wof:parent_id":907199661,
     "wof:placetype":"locality",

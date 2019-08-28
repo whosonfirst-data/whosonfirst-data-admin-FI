@@ -10,12 +10,16 @@
     "geom:latitude":66.417885,
     "geom:longitude":25.495004,
     "iso:country":"FI",
+    "lbl:bbox":"25.475004,66.397885,25.515004,66.437885",
     "lbl:latitude":66.417885,
     "lbl:longitude":25.495004,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":66.417885,
     "mps:longitude":25.495005,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Lappi#Lappland",
     "qs:a1r":"0Lapin AVI#Lapplands RFV",
@@ -32,7 +36,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":25952378,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"FI",
     "wof:geomhash":"e3804408a22d7529defefbb51dad5bc8",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":101872883,
-    "wof:lastmodified":1544751372,
+    "wof:lastmodified":1566595164,
     "wof:name":"Valajaskoski",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.173929,
     "lbl:longitude":23.865286,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":61.173929,
     "mps:longitude":23.865286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Toijala"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":318,
     "wof:belongsto":[
@@ -91,10 +94,12 @@
     "wof:concordances":{
         "gn:id":634316,
         "gp:id":574004,
-        "qs:id":1042265,
         "qs_pg:id":982965,
         "wd:id":"Q1850632",
         "wk:page":"Toijala"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1042265
     },
     "wof:country":"FI",
     "wof:geomhash":"23b813b5f0498dbe00644710797d86a2",
@@ -111,7 +116,7 @@
         }
     ],
     "wof:id":101815487,
-    "wof:lastmodified":1563283822,
+    "wof:lastmodified":1566595207,
     "wof:name":"Toijala",
     "wof:parent_id":907199731,
     "wof:placetype":"locality",

@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.185865,
     "lbl:longitude":24.888859,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.185865,
     "mps:longitude":24.888859,
     "mz:hierarchy_label":1,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108727121,
-    "wof:lastmodified":1563283401,
+    "wof:lastmodified":1566594964,
     "wof:name":"Meilahti",
     "wof:parent_id":1108727373,
     "wof:placetype":"neighbourhood",

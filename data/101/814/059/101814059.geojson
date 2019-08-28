@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.916919,
     "lbl:longitude":29.280235,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":61.916918,
     "mps:longitude":29.280235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Kerim\u00e4ki"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":61.916667,
     "wd:longitude":29.283333,
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":653180,
         "gp:id":567247,
-        "qs:id":1337142,
         "qs_pg:id":1337142,
         "wd:id":"Q1025740",
         "wk:page":"Kerim\u00e4ki"
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101814059,
-    "wof:lastmodified":1563283949,
+    "wof:lastmodified":1566595247,
     "wof:name":"Kerim\u00e4ki",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

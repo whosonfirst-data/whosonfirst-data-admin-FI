@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"30.35626,63.02719,30.39626,63.06719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kuora"
     ],
@@ -35,8 +39,7 @@
         "\u041a\u0443\u043e\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Kuoraj\u00e4rvi",
-        "Kuora"
+        "Kuoraj\u00e4rvi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1242654791,
-    "wof:lastmodified":1537622234,
+    "wof:lastmodified":1566595682,
     "wof:name":"Kuora",
     "wof:parent_id":907199605,
     "wof:placetype":"locality",

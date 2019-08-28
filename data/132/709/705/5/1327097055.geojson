@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Oslo",
     "iso:country":"FI",
+    "lbl:bbox":"25.85618,69.50102,25.89618,69.54102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Piesjoki"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1327097055,
-    "wof:lastmodified":1537622189,
+    "wof:lastmodified":1566593870,
     "wof:name":"Biesjohka",
     "wof:parent_id":907199575,
     "wof:placetype":"locality",

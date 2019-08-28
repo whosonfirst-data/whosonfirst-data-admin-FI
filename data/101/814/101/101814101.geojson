@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.597433,
     "lbl:longitude":21.640538,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.597433,
     "mps:longitude":21.640537,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Svarvar"
     ],
@@ -28,7 +31,7 @@
     "name:swe_x_preferred":[
         "Svarvar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Horo"
     ],
     "qs:a0":"Suomi#Finland",
@@ -45,7 +48,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683113,
         102191581,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":657361,
         "gp:id":91931800,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"FI",
     "wof:geomhash":"eb9ed0c9aa0028949b749aadce898704",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101814101,
-    "wof:lastmodified":1529709629,
+    "wof:lastmodified":1566595240,
     "wof:name":"Horonkyl\u00e4",
     "wof:parent_id":907199665,
     "wof:placetype":"locality",

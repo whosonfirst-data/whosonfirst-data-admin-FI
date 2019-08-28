@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00085,
-    "geom:area_square_m":5215381.465862,
+    "geom:area_square_m":5215381.465865,
     "geom:bbox":"24.5250622477,60.222564359,24.5736744342,60.2497856509",
     "geom:latitude":60.236445,
     "geom:longitude":24.54817,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.236422,
     "lbl:longitude":24.548632,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.236422,
     "mps:longitude":24.548632,
     "mz:hierarchy_label":1,
@@ -39,7 +40,6 @@
     "reversegeo:longitude":24.548632,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729239,
         907198517,
@@ -48,7 +48,8 @@
         101748415,
         136253047,
         1108729217,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108729315,
-    "wof:lastmodified":1529714739,
+    "wof:lastmodified":1566594916,
     "wof:name":"Ammassuo",
     "wof:parent_id":1108729239,
     "wof:placetype":"neighbourhood",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00021,
-    "geom:area_square_m":993112.376197,
+    "geom:area_square_m":993112.376195,
     "geom:bbox":"26.6014906382,67.5000966269,26.6348365489,67.5151353005",
     "geom:latitude":67.506624,
     "geom:longitude":26.617882,
     "iso:country":"FI",
     "lbl:latitude":67.506947,
     "lbl:longitude":26.61624,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":67.506947,
     "mps:longitude":26.616239,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sattanen"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":637492,
         "gp:id":572858,
-        "qs:id":1319835,
         "qs_pg:id":1319835
     },
     "wof:country":"FI",
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101814501,
-    "wof:lastmodified":1529708125,
+    "wof:lastmodified":1566595238,
     "wof:name":"Sattanen",
     "wof:parent_id":907199561,
     "wof:placetype":"locality",

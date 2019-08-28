@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.23581,63.11491,22.27581,63.15491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Miemoisby"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260359905,
-    "wof:lastmodified":1537622348,
+    "wof:lastmodified":1566594908,
     "wof:name":"Miemoisby",
     "wof:parent_id":907199763,
     "wof:placetype":"locality",

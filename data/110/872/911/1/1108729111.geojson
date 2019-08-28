@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000579,
-    "geom:area_square_m":3267179.523095,
+    "geom:area_square_m":3267179.523096,
     "geom:bbox":"27.6189079217,62.8523623356,27.6645637666,62.875799503",
     "geom:latitude":62.864324,
     "geom:longitude":27.636297,
@@ -14,6 +14,7 @@
     "kuogov:NIMI":"Lev\u00e4nen",
     "lbl:latitude":62.864334,
     "lbl:longitude":27.63595,
+    "lbl:max_zoom":18.0,
     "mps:latitude":62.864334,
     "mps:longitude":27.63595,
     "mz:hierarchy_label":1,
@@ -26,14 +27,14 @@
     "reversegeo:longitude":27.63595,
     "src:geom":"kuogov",
     "wof:belongsto":[
-        85683131,
         102191581,
         907199673,
         85633143,
         404227407,
         101748439,
         136253047,
-        1159321597
+        1159321597,
+        85683131
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1108729111,
-    "wof:lastmodified":1529708974,
+    "wof:lastmodified":1566595009,
     "wof:name":"Lev\u00e4nen",
     "wof:parent_id":101748439,
     "wof:placetype":"neighbourhood",

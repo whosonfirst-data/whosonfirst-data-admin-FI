@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.07336,69.70318,26.11336,69.74318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Aittijoki"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1293365535,
-    "wof:lastmodified":1537622219,
+    "wof:lastmodified":1566594472,
     "wof:name":"Aittijoki",
     "wof:parent_id":907199575,
     "wof:placetype":"locality",

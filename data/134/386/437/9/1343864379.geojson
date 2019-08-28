@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.33137,62.09855,22.37137,62.13855",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Per\u00e4maa"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343864379,
-    "wof:lastmodified":1537622339,
+    "wof:lastmodified":1566594401,
     "wof:name":"Peraemaa",
     "wof:parent_id":907198873,
     "wof:placetype":"locality",

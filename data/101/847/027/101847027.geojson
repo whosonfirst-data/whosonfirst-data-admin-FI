@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.657255,
     "lbl:longitude":29.197201,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.657254,
     "mps:longitude":29.197201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u0627\u062c\u064a\u0631\u0641\u064a"
     ],
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Viinij\u00e4rvi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vuoj\u00e4rvi"
     ],
     "qs:a0":"Suomi#Finland",
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":53,
     "wof:belongsto":[
         85683133,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":631663,
         "gp:id":574947,
-        "qs:id":382130,
         "qs_pg:id":382130,
         "wd:id":"Q18682854"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101847027,
-    "wof:lastmodified":1563283848,
+    "wof:lastmodified":1566595216,
     "wof:name":"Viinij\u00e4rvi",
     "wof:parent_id":907198863,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.84667,62.43,28.88667,62.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633143
@@ -36,7 +40,7 @@
         "gn:id":652113
     },
     "wof:country":"FI",
-    "wof:geomhash":"6b84370a99912060d0bc899b6cfb1bb5",
+    "wof:geomhash":"2af7f3454cce8d0a162eeb0054a3d25b",
     "wof:hierarchy":[
         {
             "country_id":85633143,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209101169,
-    "wof:lastmodified":1536297728,
+    "wof:lastmodified":1566594826,
     "wof:name":"Koivuaho",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.866670000000006,
+    28.86667000000001,
     62.45,
-    28.866670000000006,
+    28.86667000000001,
     62.45
 ],
   "geometry": {"coordinates":[28.86667000000001,62.45],"type":"Point"}

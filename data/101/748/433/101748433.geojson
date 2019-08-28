@@ -13,6 +13,8 @@
     "iso:country":"FI",
     "lbl:latitude":61.052855,
     "lbl:longitude":28.208116,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":61.052855,
     "mps:longitude":28.208116,
     "mz:hierarchy_label":1,
@@ -125,7 +127,7 @@
         "Lappeenranta"
     ],
     "name:kan_x_preferred":[
-        "\u0cb2\u0ccd\u0caf\u0cbe\u0caa\u0ccd \u0caa\u0cc0  \u0ca8\u0ccd \u0cb0\u0cbe\u0c82 \u0c9f"
+        "\u0cb2\u0ccd\u0caf\u0cbe\u0caa\u0ccd \u0caa\u0cc0 \u0ca8\u0ccd \u0cb0\u0cbe\u0c82 \u0c9f"
     ],
     "name:kat_x_preferred":[
         "\u10da\u10d0\u10de\u10d4\u10d4\u10dc\u10e0\u10d0\u10dc\u10e2\u10d0"
@@ -243,9 +245,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043f\u043f\u0435\u0435\u043d\u0440\u0430\u043d\u0442\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Villmanstrand"
     ],
     "name:urd_x_preferred":[
         "\u0644\u067e\u06cc\u0646 \u0631\u0646\u062a\u0627"
@@ -373,7 +372,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":61.058333,
     "wd:longitude":28.186111,
@@ -393,10 +392,12 @@
         "gn:id":648900,
         "gp:id":568782,
         "loc:id":"n79061137",
-        "qs:id":1192608,
         "qs_pg:id":1079088,
         "wd:id":"Q181854",
         "wk:page":"Lappeenranta"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1192608
     },
     "wof:country":"FI",
     "wof:geomhash":"6d3afbe7b908c9bfabbf45172f967fbb",
@@ -413,7 +414,7 @@
         }
     ],
     "wof:id":101748433,
-    "wof:lastmodified":1563283723,
+    "wof:lastmodified":1566595172,
     "wof:name":"Lappeenranta",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

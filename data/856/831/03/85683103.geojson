@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":61.013798,
     "lbl:longitude":28.00138,
+    "lbl:min_zoom":8.0,
     "mps:latitude":61.071615,
     "mps:longitude":28.170319,
     "mz:hierarchy_label":1,
@@ -207,7 +208,7 @@
         "Landskapet S\u00f6dra Karelen"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0b95\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe"
     ],
     "name:tat_x_preferred":[
         "\u041a\u04e9\u043d\u044c\u044f\u043a \u041a\u0430\u0440\u0435\u043b\u0438\u044f"
@@ -224,7 +225,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u041a\u0430\u0440\u0435\u043b\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sydkarelens F\u00f6rbund"
     ],
     "name:urd_x_preferred":[
@@ -309,7 +310,7 @@
     "qs:type":"Maakunta#Landskap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"FI-02",
     "wd:wordcount":1296,
     "wof:belongsto":[
@@ -347,7 +348,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282630,
+    "wof:lastmodified":1566594420,
     "wof:name":"South Karelia",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

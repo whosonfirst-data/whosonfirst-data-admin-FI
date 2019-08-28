@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.177417,
     "lbl:longitude":25.961934,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":64.177417,
     "mps:longitude":25.961934,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0438\u043f\u043e\u043b\u0430"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":180,
     "wof:belongsto":[
@@ -109,10 +112,12 @@
     "wof:concordances":{
         "gn:id":641615,
         "gp:id":571411,
-        "qs:id":1027219,
         "qs_pg:id":34716,
         "wd:id":"Q1014303",
         "wk:page":"Piippola"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1027219
     },
     "wof:country":"FI",
     "wof:geomhash":"4de3c5215142ccf9744b25241f158fce",
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":101814457,
-    "wof:lastmodified":1563283950,
+    "wof:lastmodified":1566595248,
     "wof:name":"Piippola",
     "wof:parent_id":907199755,
     "wof:placetype":"locality",

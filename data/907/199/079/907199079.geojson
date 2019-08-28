@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":62.870958,
     "lbl:longitude":24.235428,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Soini"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683113,
         102191581,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":907199079,
-    "wof:lastmodified":1564100365,
+    "wof:lastmodified":1566594123,
     "wof:name":"Soini",
     "wof:parent_id":1159321567,
     "wof:placetype":"localadmin",

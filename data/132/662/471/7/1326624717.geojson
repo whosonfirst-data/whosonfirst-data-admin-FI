@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.75819,60.71629,25.79819,60.75629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Paka\u02bba"
     ],
@@ -47,8 +51,7 @@
         "Backa"
     ],
     "name:und_x_variant":[
-        "Pakaankyl\u00e4",
-        "Pakaa"
+        "Pakaankyl\u00e4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1326624717,
-    "wof:lastmodified":1564100213,
+    "wof:lastmodified":1566593958,
     "wof:name":"Pakaa",
     "wof:parent_id":907198577,
     "wof:placetype":"locality",

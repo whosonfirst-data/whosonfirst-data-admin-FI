@@ -25,16 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.77081,61.75513,25.81081,61.79513",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lemp\u00e4\u00e4"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u043c\u043f\u044f"
-    ],
-    "name:und_x_variant":[
-        "Lemp\u00e4\u00e4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1259559885,
-    "wof:lastmodified":1537622225,
+    "wof:lastmodified":1566595731,
     "wof:name":"Lempaeae",
     "wof:parent_id":907198699,
     "wof:placetype":"locality",

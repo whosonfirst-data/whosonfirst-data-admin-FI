@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.58408,61.06195,26.62408,61.10195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kortej\u00e4rvi"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276652225,
-    "wof:lastmodified":1537622274,
+    "wof:lastmodified":1566594708,
     "wof:name":"Iso Kortejaervi",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

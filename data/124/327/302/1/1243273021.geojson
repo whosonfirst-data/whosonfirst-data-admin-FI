@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.2573,60.44395,22.2973,60.48395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Raunistula"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1243273021,
-    "wof:lastmodified":1564102287,
+    "wof:lastmodified":1566595693,
     "wof:name":"Raunistula",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

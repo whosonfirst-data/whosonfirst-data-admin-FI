@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000999,
-    "geom:area_square_m":6125761.636458,
+    "geom:area_square_m":6125761.63646,
     "geom:bbox":"25.2483896922,60.250323365,25.3247035748,60.2960241448",
     "geom:latitude":60.268231,
     "geom:longitude":25.278853,
     "iso:country":"FI",
     "lbl:latitude":60.261827,
     "lbl:longitude":25.272006,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.261827,
     "mps:longitude":25.272006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "S\u00e4r\u00f6 v\u00e4sterskog"
     ],
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":177,
     "wof:belongsto":[
         85683067,
@@ -50,7 +53,6 @@
     "wof:concordances":{
         "gn:id":847579,
         "gp:id":22762874,
-        "qs:id":1277446,
         "qs_pg:id":1277446
     },
     "wof:country":"FI",
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":101815315,
-    "wof:lastmodified":1529714675,
+    "wof:lastmodified":1566595202,
     "wof:name":"V\u00e4sterskog",
     "wof:parent_id":907198521,
     "wof:placetype":"locality",

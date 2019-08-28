@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.545407,
     "lbl:longitude":22.240902,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.545407,
     "mps:longitude":22.240902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Rusko"
     ],
@@ -86,7 +89,7 @@
     "name:tur_x_preferred":[
         "Rusko"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ruskola"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":240,
     "wof:belongsto":[
@@ -127,9 +130,11 @@
     "wof:concordances":{
         "gn:id":638669,
         "gp:id":572481,
-        "qs:id":988712,
-        "qs_pg:id":993214,
+        "qs_pg:id":988712,
         "wd:id":"Q1017131"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":993214
     },
     "wof:country":"FI",
     "wof:geomhash":"dc6ce40bd803a54df2fdae3ee1a3ea28",
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":101846747,
-    "wof:lastmodified":1563283745,
+    "wof:lastmodified":1566595183,
     "wof:name":"Rusko",
     "wof:parent_id":907198981,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000763,
-    "geom:area_square_m":4672103.331507,
+    "geom:area_square_m":4672103.331508,
     "geom:bbox":"25.0553409416,60.2824581777,25.0975971364,60.3135804038",
     "geom:latitude":60.297213,
     "geom:longitude":25.079978,
@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.298644,
     "lbl:longitude":25.083179,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.298644,
     "mps:longitude":25.083179,
     "mz:hierarchy_label":1,
@@ -38,7 +39,6 @@
     "reversegeo:longitude":25.083179,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -46,7 +46,8 @@
         101748419,
         136253047,
         1108729491,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729507,
-    "wof:lastmodified":1529714752,
+    "wof:lastmodified":1566594969,
     "wof:name":"Hakkila",
     "wof:parent_id":1108729491,
     "wof:placetype":"neighbourhood",

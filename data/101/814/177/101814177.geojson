@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.413066,
     "lbl:longitude":25.949645,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":62.413066,
     "mps:longitude":25.949645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Laukaa"
     ],
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":828,
     "wof:belongsto":[
@@ -145,10 +148,12 @@
     "wof:concordances":{
         "gn:id":648738,
         "gp:id":568839,
-        "qs:id":22402,
-        "qs_pg:id":977314,
+        "qs_pg:id":22402,
         "wd:id":"Q990553",
         "wk:page":"Laukaa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977314
     },
     "wof:country":"FI",
     "wof:geomhash":"d56a367e09aae8b282fb31187d5c6601",
@@ -165,7 +170,7 @@
         }
     ],
     "wof:id":101814177,
-    "wof:lastmodified":1563283960,
+    "wof:lastmodified":1566595250,
     "wof:name":"Laukaa",
     "wof:parent_id":907199203,
     "wof:placetype":"locality",

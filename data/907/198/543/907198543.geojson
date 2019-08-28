@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":60.541697,
     "lbl:longitude":25.618151,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Askola"
     ],
@@ -92,7 +95,7 @@
     "name:tur_x_preferred":[
         "Askola"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Askula"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":907198543,
-    "wof:lastmodified":1564100293,
+    "wof:lastmodified":1566594026,
     "wof:name":"Askola",
     "wof:parent_id":1159321593,
     "wof:placetype":"localadmin",

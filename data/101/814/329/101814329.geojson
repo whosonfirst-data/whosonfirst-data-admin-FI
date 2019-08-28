@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.154502,
     "lbl:longitude":27.304037,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.154502,
     "mps:longitude":27.304037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0438\u043d\u043a\u0430"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":202,
     "wof:belongsto":[
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":647202,
         "gp:id":12590738,
-        "qs:id":894324,
+        "qs_pg:id":894324,
         "wd:id":"Q748064",
         "wk:page":"Maaninka"
     },
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101814329,
-    "wof:lastmodified":1563283958,
+    "wof:lastmodified":1566595250,
     "wof:name":"Maaninka",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

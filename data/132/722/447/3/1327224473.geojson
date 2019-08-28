@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.63657,60.54895,27.67657,60.58895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683081,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327224473,
-    "wof:lastmodified":1536980417,
+    "wof:lastmodified":1566593908,
     "wof:name":"Tupakorpi",
     "wof:parent_id":907198719,
     "wof:placetype":"locality",

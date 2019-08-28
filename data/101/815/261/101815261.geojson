@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.464898,
     "lbl:longitude":24.813311,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":60.464898,
     "mps:longitude":24.813311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u0645\u064a\u0627\u0631\u0641\u064a"
     ],
@@ -147,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.466667,
     "wd:longitude":24.808333,
@@ -166,9 +169,11 @@
     "wof:concordances":{
         "gn:id":644171,
         "gp:id":570490,
-        "qs:id":248708,
         "qs_pg:id":239652,
         "wd:id":"Q597156"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":248708
     },
     "wof:country":"FI",
     "wof:geomhash":"f6e1a1c94f739b1144a6bc71a43a9f7e",
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":101815261,
-    "wof:lastmodified":1563283792,
+    "wof:lastmodified":1566595199,
     "wof:name":"Nurmij\u00e4rvi",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

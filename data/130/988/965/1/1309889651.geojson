@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.88088,62.44679,28.92088,62.48679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mustupohja",
         "Mustanpohja"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1309889651,
-    "wof:lastmodified":1537622209,
+    "wof:lastmodified":1566595299,
     "wof:name":"Mustanpohja",
     "wof:parent_id":907199027,
     "wof:placetype":"locality",

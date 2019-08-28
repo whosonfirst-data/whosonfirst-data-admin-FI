@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.163312,
     "lbl:longitude":21.83909,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.163312,
     "mps:longitude":21.839089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kvevlax"
     ],
@@ -34,7 +37,7 @@
     "name:swe_x_preferred":[
         "Kvevlax"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kvevlaks"
     ],
     "qs:a0":"Suomi#Finland",
@@ -51,7 +54,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683119,
         102191581,
@@ -65,7 +68,7 @@
     "wof:concordances":{
         "gn:id":649787,
         "gp:id":568459,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q3366137",
         "wk:page":"Kvevlax"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101814247,
-    "wof:lastmodified":1563283934,
+    "wof:lastmodified":1566595244,
     "wof:name":"Koivulahti",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

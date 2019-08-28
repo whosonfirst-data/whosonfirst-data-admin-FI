@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
-    "geom:area_square_m":1513398.059092,
+    "geom:area_square_m":1513398.059091,
     "geom:bbox":"24.6290040712,60.1342348437,24.6567386942,60.150022469",
     "geom:latitude":60.141744,
     "geom:longitude":24.643438,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.141692,
     "lbl:longitude":24.643645,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.141692,
     "mps:longitude":24.643645,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "reversegeo:longitude":24.643645,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729227,
         907198517,
@@ -45,7 +45,8 @@
         101748415,
         136253047,
         1108729211,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108729285,
-    "wof:lastmodified":1529714737,
+    "wof:lastmodified":1566595018,
     "wof:name":"Laurinlahti",
     "wof:parent_id":1108729227,
     "wof:placetype":"neighbourhood",

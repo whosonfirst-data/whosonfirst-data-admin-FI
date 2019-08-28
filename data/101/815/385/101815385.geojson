@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.072147,
     "lbl:longitude":22.477926,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.072147,
     "mps:longitude":22.477926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dragsfj\u00e4rd"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":160,
     "wof:belongsto":[
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":660374,
         "gp:id":564526,
-        "qs:id":1060474,
         "qs_pg:id":1060474,
         "wd:id":"Q1009619",
         "wk:page":"Dragsfj\u00e4rd"
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101815385,
-    "wof:lastmodified":1561830280,
+    "wof:lastmodified":1566595202,
     "wof:name":"Dragsfj\u00e4rd",
     "wof:parent_id":907199735,
     "wof:placetype":"locality",

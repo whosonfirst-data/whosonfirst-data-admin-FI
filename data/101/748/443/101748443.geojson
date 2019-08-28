@@ -13,6 +13,8 @@
     "iso:country":"FI",
     "lbl:latitude":65.16051,
     "lbl:longitude":25.786963,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":65.013319,
     "mps:longitude":25.512192,
     "mz:hierarchy_label":1,
@@ -300,7 +302,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0443\u043b\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uleoborg"
     ],
     "name:urd_x_preferred":[
@@ -439,7 +441,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":65.016667,
     "wd:longitude":25.466667,
@@ -458,10 +460,12 @@
     "wof:concordances":{
         "gn:id":643492,
         "gp:id":568568,
-        "qs:id":1079086,
         "qs_pg:id":349800,
         "wd:id":"Q47048",
         "wk:page":"Oulu"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079086
     },
     "wof:country":"FI",
     "wof:geomhash":"4d97d397e2717184ee40e359440f5e86",
@@ -478,7 +482,7 @@
         }
     ],
     "wof:id":101748443,
-    "wof:lastmodified":1563283720,
+    "wof:lastmodified":1566595171,
     "wof:name":"Oulu",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

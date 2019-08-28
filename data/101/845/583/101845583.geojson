@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000113,
-    "geom:area_square_m":536288.398504,
+    "geom:area_square_m":536288.398505,
     "geom:bbox":"24.8720506902,67.3452828493,24.8997595999,67.3576691965",
     "geom:latitude":67.351702,
     "geom:longitude":24.887027,
     "iso:country":"FI",
     "lbl:latitude":67.349789,
     "lbl:longitude":24.891435,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":67.349789,
     "mps:longitude":24.891435,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alakyl\u00e4"
     ],
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -55,8 +58,10 @@
     "wof:concordances":{
         "gn:id":661532,
         "gp:id":564102,
-        "qs:id":1222829,
         "qs_pg:id":978115
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1222829
     },
     "wof:country":"FI",
     "wof:geomhash":"60c02045532931dc185cc67737293b4e",
@@ -73,7 +78,7 @@
         }
     ],
     "wof:id":101845583,
-    "wof:lastmodified":1529708126,
+    "wof:lastmodified":1566595160,
     "wof:name":"Alakyl\u00e4",
     "wof:parent_id":907199565,
     "wof:placetype":"locality",

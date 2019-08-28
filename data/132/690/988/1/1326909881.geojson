@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.54288,61.68503,25.58288,61.72503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Judinsalo"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1326909881,
-    "wof:lastmodified":1537622269,
+    "wof:lastmodified":1566593956,
     "wof:name":"Judinsalo",
     "wof:parent_id":907198699,
     "wof:placetype":"locality",

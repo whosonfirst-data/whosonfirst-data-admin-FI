@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.04308,60.32521,25.08308,60.36521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Br\u00e4nnberga"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276566081,
-    "wof:lastmodified":1537550111,
+    "wof:lastmodified":1566594638,
     "wof:name":"Kulomaeki",
     "wof:parent_id":907199651,
     "wof:placetype":"locality",

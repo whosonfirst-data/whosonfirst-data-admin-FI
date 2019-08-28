@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.335795,
     "lbl:longitude":25.587117,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.335795,
     "mps:longitude":25.587117,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tolkis"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":634246,
         "gp:id":574041,
-        "qs:id":260167,
         "qs_pg:id":260167
     },
     "wof:country":"FI",
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":101846713,
-    "wof:lastmodified":1535390515,
+    "wof:lastmodified":1566595183,
     "wof:name":"Tolkkinen",
     "wof:parent_id":907198525,
     "wof:placetype":"locality",

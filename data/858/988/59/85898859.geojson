@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14598076.481719,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.184206,60.574403,27.184206,60.574403",
     "geom:latitude":60.574403,
     "geom:longitude":27.184206,
     "iso:country":"FI",
+    "lbl:bbox":"27.179206,60.569403,27.189206,60.579403",
     "lbl:latitude":60.574403,
     "lbl:longitude":27.184206,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.574403,
     "mps:longitude":27.184206,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Lepikkoe"
     ],
     "name:fin_x_preferred":[
-        "Lepikk\u00f6"
-    ],
-    "name:unk_x_variant":[
         "Lepikk\u00f6"
     ],
     "qs:gn_fcode":"PPLX",
@@ -61,22 +60,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85683081,
         102191581,
         907199723,
         85633143,
         404227411,
         101839171,
         136253047,
-        1159321573
+        1159321573,
+        85683081
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":648329,
         "gp:id":568976,
-        "qs:id":221911,
         "qs_pg:id":221911
     },
     "wof:country":"FI",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1531932117,
+    "wof:lastmodified":1566594461,
     "wof:name":"Lepikk\u00f6",
     "wof:parent_id":101839171,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001142,
-    "geom:area_square_m":7008417.180708,
+    "geom:area_square_m":7008417.180707,
     "geom:bbox":"24.6061686332,60.2181833923,24.6737999855,60.2474040107",
     "geom:latitude":60.232782,
     "geom:longitude":24.641508,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.232643,
     "lbl:longitude":24.644324,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.232643,
     "mps:longitude":24.644324,
     "mz:hierarchy_label":1,
@@ -39,7 +40,6 @@
     "reversegeo:longitude":24.644324,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729249,
         907198517,
@@ -48,7 +48,8 @@
         101748415,
         136253047,
         1108729217,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108729351,
-    "wof:lastmodified":1529714741,
+    "wof:lastmodified":1566594974,
     "wof:name":"Karhusuo",
     "wof:parent_id":1108729249,
     "wof:placetype":"neighbourhood",

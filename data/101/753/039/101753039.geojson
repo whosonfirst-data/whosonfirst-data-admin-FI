@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.48047,
     "lbl:longitude":22.052754,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.480469,
     "mps:longitude":22.052754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Naantali"
     ],
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0430\u043d\u0442\u0430\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nodendal'"
     ],
     "name:urd_x_preferred":[
@@ -159,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.468056,
     "wd:longitude":22.026389,
@@ -178,9 +181,11 @@
     "wof:concordances":{
         "gn:id":645211,
         "gp:id":570131,
-        "qs:id":81391,
-        "qs_pg:id":1139059,
+        "qs_pg:id":81391,
         "wd:id":"Q503862"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1139059
     },
     "wof:country":"FI",
     "wof:geomhash":"f8873adc74693a2b6dc94648dcf821c8",
@@ -197,7 +202,7 @@
         }
     ],
     "wof:id":101753039,
-    "wof:lastmodified":1563283671,
+    "wof:lastmodified":1566595155,
     "wof:name":"Naantali",
     "wof:parent_id":907198913,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.181226,
     "lbl:longitude":27.002239,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":64.181226,
     "mps:longitude":27.002239,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vuolijoki"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":108,
     "wof:belongsto":[
@@ -94,7 +97,6 @@
     "wof:concordances":{
         "gn:id":631191,
         "gp:id":575127,
-        "qs:id":126450,
         "qs_pg:id":126450,
         "wd:id":"Q610490",
         "wk:page":"Vuolijoki"
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101847047,
-    "wof:lastmodified":1561830282,
+    "wof:lastmodified":1566595214,
     "wof:name":"Vuolijoki",
     "wof:parent_id":907199455,
     "wof:placetype":"locality",

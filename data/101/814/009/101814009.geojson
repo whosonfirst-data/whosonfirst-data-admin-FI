@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.436384,
     "lbl:longitude":23.033079,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.436384,
     "mps:longitude":23.033079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Karkku"
     ],
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Karkku"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karkhu"
     ],
     "qs:a0":"Suomi#Finland",
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683099,
         102191581,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":653958,
         "gp:id":566906,
-        "qs:id":322751,
         "qs_pg:id":322751,
         "wd:id":"Q3432693"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101814009,
-    "wof:lastmodified":1561830285,
+    "wof:lastmodified":1566595229,
     "wof:name":"Karkku",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"26.5,60.5,26.5,60.5",
     "geom:latitude":60.5,
     "geom:longitude":26.5,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FI",
+    "lbl:bbox":"26.48,60.48,26.52,60.52",
     "lbl:latitude":60.5,
     "lbl:longitude":26.5,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Abborrfors"
@@ -40,9 +44,6 @@
         "Stor Abborforsg\u00e5rd",
         "Abborrfors"
     ],
-    "name:unk_x_variant":[
-        "Suur Ahvenkoski"
-    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -64,7 +65,7 @@
     "qs_pg:woe_adm0":23424812,
     "qs_pg:woe_id":564001,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424812,
     "woe:name_adm0":"Suomi",
     "woe:name_adm1":"It\u00e4-Uudenmaan maakunta",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1125916399,
-    "wof:lastmodified":1529707619,
+    "wof:lastmodified":1566595418,
     "wof:name":"Ahvenkoski",
     "wof:parent_id":907198651,
     "wof:placetype":"locality",

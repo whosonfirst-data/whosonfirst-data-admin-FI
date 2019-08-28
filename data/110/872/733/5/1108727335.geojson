@@ -25,6 +25,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.15057,
     "lbl:longitude":24.96478,
+    "lbl:max_zoom":15.0,
     "mps:latitude":60.15057,
     "mps:longitude":24.96478,
     "mz:hierarchy_label":1,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108727335,
-    "wof:lastmodified":1563283413,
+    "wof:lastmodified":1566594972,
     "wof:name":"Ullanlinna",
     "wof:parent_id":890536879,
     "wof:placetype":"macrohood",

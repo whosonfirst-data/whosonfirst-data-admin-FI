@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.54038,60.65606,21.58038,60.69606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Puotila"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226455125,
-    "wof:lastmodified":1564102490,
+    "wof:lastmodified":1566595816,
     "wof:name":"Puotila",
     "wof:parent_id":907198643,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.609685,
     "lbl:longitude":24.920805,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.609685,
     "mps:longitude":24.920805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Reisj\u00e4rvi"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":593,
     "wof:belongsto":[
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":639576,
         "gp:id":572136,
-        "qs:id":1192658,
         "qs_pg:id":126487,
         "wd:id":"Q377049",
         "wk:page":"Reisj\u00e4rvi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1192658
     },
     "wof:country":"FI",
     "wof:geomhash":"2186fa70ce6105a0250bbd258510ff7a",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":101814481,
-    "wof:lastmodified":1563283932,
+    "wof:lastmodified":1566595243,
     "wof:name":"Reisj\u00e4rvi",
     "wof:parent_id":907199141,
     "wof:placetype":"locality",

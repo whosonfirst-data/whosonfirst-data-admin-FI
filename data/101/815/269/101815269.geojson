@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.444558,
     "lbl:longitude":24.705521,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.444558,
     "mps:longitude":24.705521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Perttula"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":60.45,
     "wd:longitude":24.7,
     "wd:wordcount":35,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":642083,
         "gp:id":571279,
-        "qs:id":182971,
         "qs_pg:id":182971,
         "wd:id":"Q11887569",
         "wk:page":"Perttula"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101815269,
-    "wof:lastmodified":1563283799,
+    "wof:lastmodified":1566595200,
     "wof:name":"Perttula",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

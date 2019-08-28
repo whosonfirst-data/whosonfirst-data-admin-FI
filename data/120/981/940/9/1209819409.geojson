@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.14493,60.37418,25.18493,60.41418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Hiekkamalmi"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209819409,
-    "wof:lastmodified":1537622334,
+    "wof:lastmodified":1566594831,
     "wof:name":"Hiekkamalmi",
     "wof:parent_id":907198521,
     "wof:placetype":"locality",

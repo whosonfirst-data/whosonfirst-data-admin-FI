@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.170536,
     "lbl:longitude":24.570589,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":61.170536,
     "mps:longitude":24.570589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u0443\u0445\u043e"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":61.172222,
     "wd:longitude":24.5625,
@@ -102,10 +105,12 @@
     "wof:concordances":{
         "gn:id":659041,
         "gp:id":565181,
-        "qs:id":1242931,
         "qs_pg:id":982956,
         "wd:id":"Q1013639",
         "wk:page":"Hauho"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1242931
     },
     "wof:country":"FI",
     "wof:geomhash":"ff4442795eb0c854f21ba2c42856e14d",
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101815391,
-    "wof:lastmodified":1561830278,
+    "wof:lastmodified":1566595195,
     "wof:name":"Hauho",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

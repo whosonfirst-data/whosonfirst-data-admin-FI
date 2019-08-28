@@ -9,10 +9,12 @@
     "geom:bbox":"24.5068362088,65.7127169055,24.6684532887,65.7983382728",
     "geom:latitude":65.745518,
     "geom:longitude":24.580227,
-    "geonames:id":"653280,653281",
+    "gn:id":"653280,653281",
     "iso:country":"FI",
     "lbl:latitude":65.745001,
     "lbl:longitude":24.580835,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":65.745001,
     "mps:longitude":24.580835,
     "mz:hierarchy_label":1,
@@ -285,7 +287,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":4.0,
     "wd:latitude":65.736111,
@@ -305,7 +307,6 @@
     "wof:concordances":{
         "gn:id":653281,
         "gp:id":567209,
-        "qs:id":1079078,
         "qs_pg:id":1079078,
         "wd:id":"Q203619"
     },
@@ -324,7 +325,7 @@
         }
     ],
     "wof:id":101839183,
-    "wof:lastmodified":1563283986,
+    "wof:lastmodified":1566595258,
     "wof:name":"Kemi",
     "wof:parent_id":907199597,
     "wof:placetype":"locality",

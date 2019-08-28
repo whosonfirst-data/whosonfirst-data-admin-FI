@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":65.862788,
     "lbl:longitude":24.609253,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.862788,
     "mps:longitude":24.609253,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Liedakkala"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":65.866667,
     "wd:longitude":24.6,
     "wd:wordcount":19,
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":648105,
         "gp:id":569058,
-        "qs:id":319959,
+        "qs_pg:id":319959,
         "wd:id":"Q4413402",
         "wk:page":"Liedakkala"
     },
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101839177,
-    "wof:lastmodified":1561830292,
+    "wof:lastmodified":1566595258,
     "wof:name":"Liedakkala",
     "wof:parent_id":907199569,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"FI",
     "lbl:latitude":60.980831,
     "lbl:longitude":25.67325,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":60.980831,
     "mps:longitude":25.67325,
     "mz:hierarchy_label":1,
@@ -398,7 +400,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.983333,
     "wd:longitude":25.655556,
@@ -417,10 +419,12 @@
     "wof:concordances":{
         "gn:id":649360,
         "gp:id":568632,
-        "qs:id":273810,
-        "qs_pg:id":1079087,
+        "qs_pg:id":273810,
         "wd:id":"Q28911",
         "wk:page":"Lahti"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079087
     },
     "wof:country":"FI",
     "wof:geomhash":"b8ff545871e4782fa54dae1a405a3059",
@@ -437,7 +441,7 @@
         }
     ],
     "wof:id":101748425,
-    "wof:lastmodified":1563283704,
+    "wof:lastmodified":1566595167,
     "wof:name":"Lahti",
     "wof:parent_id":907198647,
     "wof:placetype":"locality",

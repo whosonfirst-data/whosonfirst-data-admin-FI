@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.89773,62.77012,29.93773,62.81012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af\u30fb\u30e2\u30c0\u30cb\u30ba\u30e0"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260057351,
-    "wof:lastmodified":1564101397,
+    "wof:lastmodified":1566594911,
     "wof:name":"Romo",
     "wof:parent_id":907199445,
     "wof:placetype":"locality",

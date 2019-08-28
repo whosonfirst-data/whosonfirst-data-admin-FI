@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":64.149856,
     "lbl:longitude":28.256297,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":64.149856,
     "mps:longitude":28.256297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vuokatti"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85683137,
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":631204,
         "gp:id":575122,
-        "qs:id":410356,
         "qs_pg:id":410356,
         "wd:id":"Q1749889"
     },
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101847049,
-    "wof:lastmodified":1563283842,
+    "wof:lastmodified":1566595214,
     "wof:name":"Vuokatti",
     "wof:parent_id":907199319,
     "wof:placetype":"locality",

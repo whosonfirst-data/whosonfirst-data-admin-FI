@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.440246,
     "lbl:longitude":26.042264,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.440246,
     "mps:longitude":26.042264,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Pern\u00e5"
     ],
@@ -83,7 +86,7 @@
     "name:tur_x_preferred":[
         "Pern\u00e5"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pern\u00f6"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85683067,
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":642118,
         "gp:id":571271,
-        "qs:id":1189144,
         "qs_pg:id":1189144,
         "wd:id":"Q1005082",
         "wk:page":"Pern\u00e5"
@@ -143,7 +145,7 @@
         }
     ],
     "wof:id":101815271,
-    "wof:lastmodified":1563283821,
+    "wof:lastmodified":1566595207,
     "wof:name":"Pernaja",
     "wof:parent_id":907198469,
     "wof:placetype":"locality",

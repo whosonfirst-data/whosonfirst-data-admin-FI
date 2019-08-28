@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":65.017357,
     "lbl:longitude":25.484707,
+    "lbl:max_zoom":18.0,
     "mps:latitude":65.017357,
     "mps:longitude":25.484707,
     "mz:hierarchy_label":1,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108728991,
-    "wof:lastmodified":1561830254,
+    "wof:lastmodified":1566595005,
     "wof:name":"Myllytulli",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.15669,
     "lbl:longitude":24.94705,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.145428,
     "mps:longitude":24.958955,
     "mz:hierarchy_label":1,
@@ -56,9 +57,6 @@
     "name:swe_x_preferred":[
         "Ulrikasborg"
     ],
-    "name:unk_x_variant":[
-        "Ullanlinna"
-    ],
     "qs:gn_adm0_cc":"FI",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":658225,
@@ -90,7 +88,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"wk",
     "wd:latitude":60.158333,
     "wd:longitude":24.945833,
@@ -112,7 +110,6 @@
     "wof:concordances":{
         "gn:id":6545259,
         "gp:id":25945232,
-        "qs:id":25405,
         "qs_pg:id":25405,
         "wd:id":"Q1001800",
         "wk:page":"Ullanlinna"
@@ -139,7 +136,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1563282616,
+    "wof:lastmodified":1566594412,
     "wof:name":"Ullanlinna",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

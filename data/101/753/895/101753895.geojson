@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.403452,
     "lbl:longitude":25.095184,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":60.403453,
     "mps:longitude":25.095184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0627\u0641\u0627"
     ],
@@ -159,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.402778,
     "wd:longitude":25.1,
@@ -179,7 +182,6 @@
         "gn:id":653185,
         "gp:id":567246,
         "loc:id":"n81136786",
-        "qs:id":276108,
         "qs_pg:id":276108,
         "wd:id":"Q216900",
         "wk:page":"Kerava"
@@ -199,7 +201,7 @@
         }
     ],
     "wof:id":101753895,
-    "wof:lastmodified":1563283669,
+    "wof:lastmodified":1566595154,
     "wof:name":"Kerava",
     "wof:parent_id":907198627,
     "wof:placetype":"locality",

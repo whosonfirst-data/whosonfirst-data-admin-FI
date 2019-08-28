@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.55473,60.8349,26.59473,60.8749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Nappa"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1259605603,
-    "wof:lastmodified":1564102417,
+    "wof:lastmodified":1566595773,
     "wof:name":"Nappa",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

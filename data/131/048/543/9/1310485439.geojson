@@ -26,16 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.3848,62.07932,29.4248,62.11932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Paasiniemi"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0441\u043d\u0438\u0435\u043c\u0438"
-    ],
-    "name:und_x_variant":[
-        "Paasiniemi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1310485439,
-    "wof:lastmodified":1537622197,
+    "wof:lastmodified":1566595031,
     "wof:name":"Paasniemi",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

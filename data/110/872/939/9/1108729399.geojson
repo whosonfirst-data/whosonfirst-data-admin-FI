@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000413,
-    "geom:area_square_m":2539900.510385,
+    "geom:area_square_m":2539900.510388,
     "geom:bbox":"24.749765857,60.1668182375,24.7852319157,60.1866051466",
     "geom:latitude":60.175257,
     "geom:longitude":24.767677,
@@ -21,6 +21,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.175289,
     "lbl:longitude":24.767681,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.175289,
     "mps:longitude":24.767681,
     "mz:hierarchy_label":1,
@@ -39,7 +40,6 @@
     "reversegeo:longitude":24.767681,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108729275,
         907198517,
@@ -48,7 +48,8 @@
         101748415,
         136253047,
         1108729225,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108729399,
-    "wof:lastmodified":1529714744,
+    "wof:lastmodified":1566594923,
     "wof:name":"Niittykumpu",
     "wof:parent_id":1108729275,
     "wof:placetype":"neighbourhood",

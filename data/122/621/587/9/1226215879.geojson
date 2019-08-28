@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.27511,63.08717,22.31511,63.12717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043c\u0435\u0434\u0435\u0431\u0430\u043a\u0435\u043d"
     ],
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1226215879,
-    "wof:lastmodified":1564102486,
+    "wof:lastmodified":1566595813,
     "wof:name":"Smedjebacken",
     "wof:parent_id":907199763,
     "wof:placetype":"locality",

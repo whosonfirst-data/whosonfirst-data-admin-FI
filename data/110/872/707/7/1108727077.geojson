@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
-    "geom:area_square_m":574723.703845,
+    "geom:area_square_m":574723.703846,
     "geom:bbox":"25.0595761267,60.2269115804,25.080085116,60.2351900482",
     "geom:latitude":60.230994,
     "geom:longitude":25.070827,
@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.231251,
     "lbl:longitude":25.070663,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.231251,
     "mps:longitude":25.070663,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537253,
         907199715,
@@ -45,7 +45,8 @@
         101748417,
         136253047,
         890536881,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1108727077,
-    "wof:lastmodified":1529714729,
+    "wof:lastmodified":1566594928,
     "wof:name":"Kurkimaki",
     "wof:parent_id":890537253,
     "wof:placetype":"neighbourhood",

@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":63.592384,
     "lbl:longitude":23.747076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kaustinen"
     ],
@@ -84,9 +87,6 @@
     "name:tur_x_preferred":[
         "Kaustinen"
     ],
-    "name:unk_x_variant":[
-        "Kaustby"
-    ],
     "name:zho_x_preferred":[
         "\u8003\u65af\u8482\u5be7"
     ],
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683125,
         102191581,
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":907199305,
-    "wof:lastmodified":1564100429,
+    "wof:lastmodified":1566594211,
     "wof:name":"Kaustinen",
     "wof:parent_id":1159321595,
     "wof:placetype":"localadmin",

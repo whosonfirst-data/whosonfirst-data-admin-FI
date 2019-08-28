@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000331,
-    "geom:area_square_m":2023312.676072,
+    "geom:area_square_m":2023312.676069,
     "geom:bbox":"25.104786135,60.3355242739,25.1260942866,60.3638170182",
     "geom:latitude":60.348985,
     "geom:longitude":25.116982,
@@ -20,6 +20,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.348876,
     "lbl:longitude":25.117144,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.348876,
     "mps:longitude":25.117144,
     "mz:hierarchy_label":1,
@@ -35,7 +36,6 @@
     "reversegeo:longitude":25.117144,
     "src:geom":"hkigis",
     "wof:belongsto":[
-        85683067,
         102191581,
         907199651,
         85633143,
@@ -43,7 +43,8 @@
         101748419,
         136253047,
         1108729497,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1108729529,
-    "wof:lastmodified":1529714753,
+    "wof:lastmodified":1566594927,
     "wof:name":"Jokivarsi",
     "wof:parent_id":1108729497,
     "wof:placetype":"neighbourhood",

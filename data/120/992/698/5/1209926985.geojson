@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.96715,60.10054,23.00715,60.14054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Kolsj\u00f6"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1209926985,
-    "wof:lastmodified":1537622256,
+    "wof:lastmodified":1566594784,
     "wof:name":"Kaukassalo",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

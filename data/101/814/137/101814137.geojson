@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":62.618415,
     "lbl:longitude":22.389513,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":62.618414,
     "mps:longitude":22.389513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Kurikka"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":62.616667,
     "wd:longitude":22.4,
@@ -146,7 +149,6 @@
     "wof:concordances":{
         "gn:id":650095,
         "gp:id":568346,
-        "qs:id":1060496,
         "qs_pg:id":1060496,
         "wd:id":"Q6016",
         "wk:page":"Kurikka"
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":101814137,
-    "wof:lastmodified":1563283925,
+    "wof:lastmodified":1566595240,
     "wof:name":"Kurikka",
     "wof:parent_id":907199007,
     "wof:placetype":"locality",

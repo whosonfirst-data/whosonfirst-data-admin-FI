@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.264334,
     "lbl:longitude":25.022774,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.264334,
     "mps:longitude":25.022774,
     "mz:hierarchy_label":1,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108727211,
-    "wof:lastmodified":1561830255,
+    "wof:lastmodified":1566595012,
     "wof:name":"Tapanila",
     "wof:parent_id":890537239,
     "wof:placetype":"neighbourhood",

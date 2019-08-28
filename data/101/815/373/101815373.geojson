@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.37998,
     "lbl:longitude":21.93457,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.379979,
     "mps:longitude":21.93457,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rym\u00e4ttyl\u00e4"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":114,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":638582,
         "gp:id":572515,
-        "qs:id":1189165,
         "qs_pg:id":1189165,
         "wd:id":"Q1641571",
         "wk:page":"Rym\u00e4ttyl\u00e4"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101815373,
-    "wof:lastmodified":1563283836,
+    "wof:lastmodified":1566595211,
     "wof:name":"Rym\u00e4ttyl\u00e4",
     "wof:parent_id":907198913,
     "wof:placetype":"locality",

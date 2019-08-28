@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"31.264,62.91194,31.304,62.95194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hattuvaara"
     ],
@@ -38,8 +42,7 @@
         "\u0425\u0430\u0442\u0442\u0443\u0432\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Hattu",
-        "Hattuvaara"
+        "Hattu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1209291649,
-    "wof:lastmodified":1564101205,
+    "wof:lastmodified":1566594804,
     "wof:name":"Hattuvaara",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

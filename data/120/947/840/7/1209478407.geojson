@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.99151,65.24719,29.03151,65.28719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Haapavaara"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209478407,
-    "wof:lastmodified":1537622292,
+    "wof:lastmodified":1566594767,
     "wof:name":"Haapovaara",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

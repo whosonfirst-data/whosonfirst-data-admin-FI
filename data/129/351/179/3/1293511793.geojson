@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.70633,61.35124,22.74633,61.39124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kiimaj\u00e4rvi"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293511793,
-    "wof:lastmodified":1537622251,
+    "wof:lastmodified":1566594539,
     "wof:name":"Kiimajaervi",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

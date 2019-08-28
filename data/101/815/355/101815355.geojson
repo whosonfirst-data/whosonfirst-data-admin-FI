@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.57824,
     "lbl:longitude":22.763665,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.57824,
     "mps:longitude":22.763665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tarvasjoki"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":198,
     "wof:belongsto":[
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":634851,
         "gp:id":12590978,
-        "qs:id":341986,
+        "qs_pg:id":341986,
         "wd:id":"Q1017111"
     },
     "wof:country":"FI",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101815355,
-    "wof:lastmodified":1563283780,
+    "wof:lastmodified":1566595195,
     "wof:name":"Tarvasjoki",
     "wof:parent_id":907199011,
     "wof:placetype":"locality",

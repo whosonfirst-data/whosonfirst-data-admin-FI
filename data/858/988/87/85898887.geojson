@@ -16,6 +16,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.145432,
     "lbl:longitude":25.049098,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.143748,
     "mps:longitude":25.045401,
     "mz:hierarchy_label":1,
@@ -65,9 +66,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430\u0445\u0430\u043c\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Santahamina"
-    ],
     "qs:gn_adm0_cc":"FI",
     "qs:gn_id":0,
     "qs:gn_local":658225,
@@ -96,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         890537275,
@@ -112,7 +110,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":572778,
-        "qs:id":1189145,
+        "qs_pg:id":1189145,
         "wd:id":"Q2634733"
     },
     "wof:controlled":[],
@@ -137,7 +135,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1563282673,
+    "wof:lastmodified":1566594463,
     "wof:name":"Santahamina",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",

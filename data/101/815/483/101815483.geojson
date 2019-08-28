@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
-    "geom:area_square_m":1262708.82572,
+    "geom:area_square_m":1262708.825721,
     "geom:bbox":"21.750175712,61.2403747015,21.7984539217,61.2507382669",
     "geom:latitude":61.244936,
     "geom:longitude":21.772663,
     "iso:country":"FI",
     "lbl:latitude":61.245904,
     "lbl:longitude":21.774309,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.245904,
     "mps:longitude":21.774309,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Sjundeby"
     ],
     "qs:a0":"Suomi#Finland",
@@ -33,7 +36,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683095,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":656594,
         "gp:id":566024,
-        "qs:id":59204
+        "qs_pg:id":59204
     },
     "wof:country":"FI",
     "wof:geomhash":"256d4220976e5ed6b806d9acec09d14f",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101815483,
-    "wof:lastmodified":1529712493,
+    "wof:lastmodified":1566595197,
     "wof:name":"Irjanne",
     "wof:parent_id":907198669,
     "wof:placetype":"locality",

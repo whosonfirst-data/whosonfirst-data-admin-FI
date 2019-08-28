@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":61.030254,
     "lbl:longitude":21.688145,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":61.030254,
     "mps:longitude":21.688145,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kodisjoki"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":652237,
         "gp:id":567575,
-        "qs:id":1223161,
         "qs_pg:id":1223161,
         "wd:id":"Q425733",
         "wk:page":"Kodisjoki"
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101846831,
-    "wof:lastmodified":1561830277,
+    "wof:lastmodified":1566595190,
     "wof:name":"Kodisjoki",
     "wof:parent_id":907198665,
     "wof:placetype":"locality",

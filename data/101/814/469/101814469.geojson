@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.981715,
     "lbl:longitude":25.762263,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.981716,
     "mps:longitude":25.762263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "K\u00e4rs\u00e4m\u00e4ki"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":268,
     "wof:belongsto":[
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":842054,
         "gp:id":566944,
-        "qs:id":977291,
         "qs_pg:id":977291,
         "wd:id":"Q992393",
         "wk:page":"K\u00e4rs\u00e4m\u00e4ki"
@@ -141,7 +143,7 @@
         }
     ],
     "wof:id":101814469,
-    "wof:lastmodified":1563283943,
+    "wof:lastmodified":1566595246,
     "wof:name":"K\u00e4rs\u00e4m\u00e4ki",
     "wof:parent_id":907199465,
     "wof:placetype":"locality",

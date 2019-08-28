@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.50958,60.42552,22.54958,60.46552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683073,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310408787,
-    "wof:lastmodified":1537054171,
+    "wof:lastmodified":1566595040,
     "wof:name":"Antelmaa",
     "wof:parent_id":907198993,
     "wof:placetype":"locality",

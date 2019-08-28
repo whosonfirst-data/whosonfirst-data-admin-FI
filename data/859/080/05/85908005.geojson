@@ -18,6 +18,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.20088,
     "lbl:longitude":25.118866,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.195832,
     "mps:longitude":25.113604,
     "mz:hierarchy_label":1,
@@ -54,9 +55,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0456-\u0420\u0430\u0441\u0442\u0456\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Havs-Rastb\u00f6le"
-    ],
     "qs:gn_adm0_cc":"FI",
     "qs:gn_id":0,
     "qs:gn_local":658225,
@@ -86,7 +84,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         890537281,
@@ -102,7 +100,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":25945247,
-        "qs:id":1086339,
         "qs_pg:id":1086339,
         "wd:id":"Q3070019"
     },
@@ -128,7 +125,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1563282620,
+    "wof:lastmodified":1566594415,
     "wof:name":"Meri-Rastila",
     "wof:parent_id":890537281,
     "wof:placetype":"neighbourhood",

@@ -15,9 +15,8 @@
     "geom:bbox":"23.1953659522,60.8703644275,23.5025598598,61.0208919483",
     "geom:latitude":60.944296,
     "geom:longitude":23.350126,
-    "gn:gn_country":"FI",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":2559,
+    "gn:country":"FI",
+    "gn:fcode":"PPLA3",
     "gn:population":2559,
     "iso:country":"FI",
     "label:eng_x_preferred_placetype":[
@@ -31,8 +30,11 @@
     ],
     "lbl:latitude":60.928549,
     "lbl:longitude":23.360582,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Humppila"
     ],
@@ -117,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85683077,
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":907198829,
-    "wof:lastmodified":1564100271,
+    "wof:lastmodified":1566594002,
     "wof:name":"Humppila",
     "wof:parent_id":1159321511,
     "wof:placetype":"localadmin",

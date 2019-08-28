@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.05911,63.29315,23.09911,63.33315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fr\u00e4ntil\u00e4",
         "Fr\u00e4nti"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1360068917,
-    "wof:lastmodified":1537622295,
+    "wof:lastmodified":1566595131,
     "wof:name":"Fraentilae",
     "wof:parent_id":907199237,
     "wof:placetype":"locality",

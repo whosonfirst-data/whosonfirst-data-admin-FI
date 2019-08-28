@@ -15,6 +15,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.191018,
     "lbl:longitude":25.063279,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.189328,
     "mps:longitude":25.075273,
     "mz:hierarchy_label":1,
@@ -64,9 +65,6 @@
     "name:swe_x_preferred":[
         "Tammelund"
     ],
-    "name:unk_x_variant":[
-        "Tammisalo"
-    ],
     "qs:gn_adm0_cc":"FI",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":658225,
@@ -98,7 +96,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"wk",
     "wd:latitude":60.191111,
     "wd:longitude":25.063889,
@@ -120,7 +118,6 @@
     "wof:concordances":{
         "gn:id":634973,
         "gp:id":573755,
-        "qs:id":1156457,
         "qs_pg:id":1156457,
         "wd:id":"Q3087991",
         "wk:page":"Tammisalo"
@@ -147,7 +144,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1561830221,
+    "wof:lastmodified":1566594459,
     "wof:name":"Tammisalo",
     "wof:parent_id":890537227,
     "wof:placetype":"neighbourhood",

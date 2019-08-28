@@ -27,8 +27,11 @@
     ],
     "lbl:latitude":61.530635,
     "lbl:longitude":28.23292,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Puumala"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683109,
         102191581,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":907198757,
-    "wof:lastmodified":1564100307,
+    "wof:lastmodified":1566594041,
     "wof:name":"Puumala",
     "wof:parent_id":1159321539,
     "wof:placetype":"localadmin",

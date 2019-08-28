@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.254766,
     "lbl:longitude":25.038075,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.254766,
     "mps:longitude":25.038075,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         890537239,
         907199715,
@@ -45,7 +45,8 @@
         101748417,
         136253047,
         890536891,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1108727105,
-    "wof:lastmodified":1529714730,
+    "wof:lastmodified":1566595015,
     "wof:name":"Malmin lentokentta",
     "wof:parent_id":890537239,
     "wof:placetype":"neighbourhood",

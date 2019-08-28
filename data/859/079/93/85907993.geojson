@@ -19,6 +19,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.259182,
     "lbl:longitude":24.950024,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.268625,
     "mps:longitude":24.947868,
     "mz:hierarchy_label":1,
@@ -45,9 +46,6 @@
     ],
     "name:swe_x_preferred":[
         "Torparbacken"
-    ],
-    "name:unk_x_variant":[
-        "Torpparinm\u00e4ki"
     ],
     "qs:gn_adm0_cc":"FI",
     "qs:gn_fcode":"PPLX",
@@ -80,7 +78,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191581,
@@ -98,7 +96,6 @@
     "wof:concordances":{
         "gn:id":847441,
         "gp:id":25945242,
-        "qs:id":1113473,
         "qs_pg:id":1113473,
         "wd:id":"Q3069698"
     },
@@ -124,7 +121,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1563282615,
+    "wof:lastmodified":1566594412,
     "wof:name":"Torpparinmaki",
     "wof:parent_id":890537257,
     "wof:placetype":"neighbourhood",

@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":64.998367,
     "lbl:longitude":25.579567,
+    "lbl:max_zoom":18.0,
     "mps:latitude":64.998367,
     "mps:longitude":25.579567,
     "mz:hierarchy_label":1,
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1108729037,
-    "wof:lastmodified":1564101465,
+    "wof:lastmodified":1566594974,
     "wof:name":"Saarela",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

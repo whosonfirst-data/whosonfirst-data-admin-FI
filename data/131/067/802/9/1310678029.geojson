@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"30.34093,62.46924,30.38093,62.50924",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Palo"
     ],
@@ -59,8 +63,7 @@
         "Palo"
     ],
     "name:und_x_variant":[
-        "Paloi",
-        "Palo"
+        "Paloi"
     ],
     "name:vol_x_preferred":[
         "Palo"
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1310678029,
-    "wof:lastmodified":1564101650,
+    "wof:lastmodified":1566595111,
     "wof:name":"Palo",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000225,
-    "geom:area_square_m":1222287.408239,
+    "geom:area_square_m":1222287.40824,
     "geom:bbox":"23.4149622204,63.9246855565,23.4462760921,63.950622391",
     "geom:latitude":63.936964,
     "geom:longitude":23.432408,
     "iso:country":"FI",
     "lbl:latitude":63.94411,
     "lbl:longitude":23.433475,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.94411,
     "mps:longitude":23.433475,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Maringais"
     ],
     "qs:a0":"Suomi#Finland",
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683125,
         102191581,
@@ -49,7 +52,6 @@
     "wof:concordances":{
         "gn:id":646623,
         "gp:id":569563,
-        "qs:id":1199598,
         "qs_pg:id":1199598
     },
     "wof:country":"FI",
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":101814283,
-    "wof:lastmodified":1529706409,
+    "wof:lastmodified":1566595241,
     "wof:name":"Marinkainen",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

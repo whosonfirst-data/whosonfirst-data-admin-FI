@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.592049,
     "lbl:longitude":23.053491,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.592049,
     "mps:longitude":23.053491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Esse"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683119,
         102191581,
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":660126,
         "gp:id":564618,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q3352066",
         "wk:page":"Esse"
     },
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101846951,
-    "wof:lastmodified":1561830276,
+    "wof:lastmodified":1566595187,
     "wof:name":"\u00c4ht\u00e4v\u00e4",
     "wof:parent_id":907199161,
     "wof:placetype":"locality",

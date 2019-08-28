@@ -25,6 +25,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.212446,
     "lbl:longitude":24.964254,
+    "lbl:max_zoom":15.0,
     "mps:latitude":60.212446,
     "mps:longitude":24.964254,
     "mz:hierarchy_label":1,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108727357,
-    "wof:lastmodified":1563283418,
+    "wof:lastmodified":1566594977,
     "wof:name":"Vanhakaupunki",
     "wof:parent_id":890536885,
     "wof:placetype":"macrohood",

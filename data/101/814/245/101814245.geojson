@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000431,
-    "geom:area_square_m":2375207.343135,
+    "geom:area_square_m":2375207.343136,
     "geom:bbox":"23.4876303898,63.5352710415,23.5304292624,63.561681004",
     "geom:latitude":63.547245,
     "geom:longitude":23.508546,
     "iso:country":"FI",
     "lbl:latitude":63.549487,
     "lbl:longitude":23.50887,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.549487,
     "mps:longitude":23.50887,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Teerij\u00e4rvi"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683119,
         102191581,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":634701,
         "gp:id":573870,
-        "qs:id":468744
+        "qs_pg:id":468744
     },
     "wof:country":"FI",
     "wof:geomhash":"8d710bee4cc75b592fa2633b03819ecd",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101814245,
-    "wof:lastmodified":1529709677,
+    "wof:lastmodified":1566595224,
     "wof:name":"Teerij\u00e4rvi",
     "wof:parent_id":907199669,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":60.548951,
     "lbl:longitude":24.963065,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.54895,
     "mps:longitude":24.963065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Jokela"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":60.552639,
     "wd:longitude":24.966306,
     "wd:wordcount":502,
@@ -94,7 +97,6 @@
     "wof:concordances":{
         "gn:id":655758,
         "gp:id":566255,
-        "qs:id":1263269,
         "qs_pg:id":1263269,
         "wd:id":"Q1702583",
         "wk:page":"Jokela"
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101815241,
-    "wof:lastmodified":1561830280,
+    "wof:lastmodified":1566595205,
     "wof:name":"Jokela",
     "wof:parent_id":907198631,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.602113,
     "lbl:longitude":22.786087,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.602112,
     "mps:longitude":22.786086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Baennaes"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683119,
         102191581,
@@ -73,10 +76,12 @@
     "wof:concordances":{
         "gn:id":660735,
         "gp:id":25950388,
-        "qs:id":369928,
         "qs_pg:id":230171,
         "wd:id":"Q4890077",
         "wk:page":"Benn\u00e4s"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":369928
     },
     "wof:country":"FI",
     "wof:geomhash":"eb6d6c6c1ac32c787940c799230f2a6e",
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":101814243,
-    "wof:lastmodified":1561830285,
+    "wof:lastmodified":1566595226,
     "wof:name":"P\u00e4nn\u00e4inen",
     "wof:parent_id":907199161,
     "wof:placetype":"locality",

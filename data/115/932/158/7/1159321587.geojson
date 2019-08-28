@@ -30,10 +30,13 @@
     ],
     "lbl:latitude":61.821887,
     "lbl:longitude":25.091436,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":61.821887,
     "mps:longitude":25.091436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Jamsa"
     ],
@@ -42,7 +45,7 @@
     ],
     "src:geom":"fivgov",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683117,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1159321587,
-    "wof:lastmodified":1554325353,
+    "wof:lastmodified":1566595503,
     "wof:name":"Jamsa",
     "wof:parent_id":85683117,
     "wof:placetype":"county",

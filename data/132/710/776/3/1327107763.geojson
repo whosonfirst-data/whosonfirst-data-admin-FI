@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.94571,62.87226,21.98571,62.91226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683119,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327107763,
-    "wof:lastmodified":1536651656,
+    "wof:lastmodified":1566593972,
     "wof:name":"Peltomaa",
     "wof:parent_id":907198989,
     "wof:placetype":"locality",

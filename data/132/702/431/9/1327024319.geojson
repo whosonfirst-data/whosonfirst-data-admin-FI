@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.89787,61.1623,27.93787,61.2023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Vitsai"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1327024319,
-    "wof:lastmodified":1537622131,
+    "wof:lastmodified":1566593927,
     "wof:name":"Vitsai",
     "wof:parent_id":907198779,
     "wof:placetype":"locality",

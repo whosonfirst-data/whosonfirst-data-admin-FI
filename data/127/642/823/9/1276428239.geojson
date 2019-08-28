@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.76243,62.57586,29.80243,62.61586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683133,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276428239,
-    "wof:lastmodified":1536651315,
+    "wof:lastmodified":1566594617,
     "wof:name":"Tonttula",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

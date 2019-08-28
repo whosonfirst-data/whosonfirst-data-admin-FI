@@ -10,8 +10,10 @@
     "geom:latitude":61.171489,
     "geom:longitude":28.781642,
     "iso:country":"FI",
+    "lbl:bbox":"28.776642,61.166489,28.786642,61.176489",
     "lbl:latitude":61.171489,
     "lbl:longitude":28.781642,
+    "lbl:max_zoom":18.0,
     "mps:latitude":61.171489,
     "mps:longitude":28.781642,
     "mz:hierarchy_label":0,
@@ -65,9 +67,6 @@
     "name:rus_x_preferred":[
         "\u0418\u043c\u0430\u0442\u0440\u0430\u043d\u043a\u043e\u0441\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Imatrankoski"
-    ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
     "qs:gn_namadm1":"13",
@@ -96,7 +95,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":232,
     "wof:belongsto":[
         102191581,
@@ -112,7 +111,6 @@
     "wof:concordances":{
         "gn:id":656685,
         "gp:id":565980,
-        "qs:id":1263266,
         "qs_pg:id":1263266,
         "wd:id":"Q1418090"
     },
@@ -135,7 +133,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1563282676,
+    "wof:lastmodified":1566594464,
     "wof:name":"Imatrankoski",
     "wof:parent_id":101814019,
     "wof:placetype":"neighbourhood",

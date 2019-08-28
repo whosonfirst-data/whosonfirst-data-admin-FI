@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.45941,63.81483,26.49941,63.85483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huttulankangas",
         "Huttula"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1327010933,
-    "wof:lastmodified":1537622278,
+    "wof:lastmodified":1566593866,
     "wof:name":"Huttula",
     "wof:parent_id":907199481,
     "wof:placetype":"locality",

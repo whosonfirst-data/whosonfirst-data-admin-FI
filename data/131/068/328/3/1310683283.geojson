@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.46333,63.63,23.50333,63.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "G\u00e5sj\u00e4rv",
         "G\u00e5sjarvi"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310683283,
-    "wof:lastmodified":1537622294,
+    "wof:lastmodified":1566595105,
     "wof:name":"Gasjarvi",
     "wof:parent_id":907199669,
     "wof:placetype":"locality",

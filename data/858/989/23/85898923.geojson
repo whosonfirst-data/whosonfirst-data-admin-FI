@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10032746.922833,
+    "geom:area_square_m":0.0,
     "geom:bbox":"26.029088,61.223513,26.029088,61.223513",
     "geom:latitude":61.223513,
     "geom:longitude":26.029088,
     "iso:country":"FI",
+    "lbl:bbox":"26.024088,61.218513,26.034088,61.228513",
     "lbl:latitude":61.223513,
     "lbl:longitude":26.029088,
+    "lbl:max_zoom":18.0,
     "mps:latitude":61.223861,
     "mps:longitude":26.029697,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Veljeskylae"
     ],
     "name:fin_x_preferred":[
-        "Veljeskyl\u00e4"
-    ],
-    "name:unk_x_variant":[
         "Veljeskyl\u00e4"
     ],
     "qs:gn_fcode":"PPLX",
@@ -60,21 +59,21 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85683091,
         102191581,
         907198689,
         85633143,
         404227411,
         136253047,
-        1159321483
+        1159321483,
+        85683091
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":631998,
         "gp:id":574822,
-        "qs:id":225439
+        "qs_pg:id":225439
     },
     "wof:country":"FI",
     "wof:geomhash":"6a96c56fd050a090b93223341d3ff998",
@@ -95,7 +94,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1531932121,
+    "wof:lastmodified":1566594460,
     "wof:name":"Veljeskyl\u00e4",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

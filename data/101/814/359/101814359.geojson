@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":63.325323,
     "lbl:longitude":30.026639,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":63.325323,
     "mps:longitude":30.026638,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Lieksa"
     ],
@@ -135,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":63.316667,
     "wd:longitude":30.016667,
@@ -154,7 +157,6 @@
     "wof:concordances":{
         "gn:id":648090,
         "gp:id":569062,
-        "qs:id":1078747,
         "qs_pg:id":1078747,
         "wd:id":"Q608752",
         "wk:page":"Lieksa"
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":101814359,
-    "wof:lastmodified":1563283914,
+    "wof:lastmodified":1566595238,
     "wof:name":"Lieksa",
     "wof:parent_id":907199605,
     "wof:placetype":"locality",

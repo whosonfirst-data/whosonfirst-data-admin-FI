@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.08949,62.77643,24.12949,62.81643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kukko"
     ],
@@ -35,8 +39,7 @@
         "\u041a\u0443\u043a\u043a\u043e"
     ],
     "name:und_x_variant":[
-        "Kukonkyl\u00e4",
-        "Kukko"
+        "Kukonkyl\u00e4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1343235889,
-    "wof:lastmodified":1537622236,
+    "wof:lastmodified":1566594338,
     "wof:name":"Kukonkylae",
     "wof:parent_id":907199079,
     "wof:placetype":"locality",

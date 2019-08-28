@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.93812,60.24812,23.97812,60.28812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Lylyis"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259501117,
-    "wof:lastmodified":1537622218,
+    "wof:lastmodified":1566595755,
     "wof:name":"Lylyinen",
     "wof:parent_id":907198655,
     "wof:placetype":"locality",

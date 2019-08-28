@@ -25,16 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.93042,63.87559,26.97042,63.91559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marttisenj\u00e4rvi"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0442\u0438\u0441\u0435\u043d\u0438\u043e\u043a\u0438"
-    ],
-    "name:und_x_variant":[
-        "Marttisenj\u00e4rvi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1209195709,
-    "wof:lastmodified":1537622214,
+    "wof:lastmodified":1566594819,
     "wof:name":"Marttisenjaervi",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",

@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":60.908442,
     "lbl:longitude":24.414319,
+    "lbl:min_zoom":8.0,
     "mps:latitude":60.909474,
     "mps:longitude":24.413848,
     "mz:hierarchy_label":1,
@@ -28,7 +29,7 @@
         "Tavastia Propia"
     ],
     "name:ben_x_preferred":[
-        "\u09a4\u09be\u09b8\u09cd\u09a4\u09bf\u09af\u09bc\u09be  \u09aa\u09cd\u09b0\u09aa\u09be\u09b0"
+        "\u09a4\u09be\u09b8\u09cd\u09a4\u09bf\u09af\u09bc\u09be \u09aa\u09cd\u09b0\u09aa\u09be\u09b0"
     ],
     "name:ben_x_variant":[
         "\u0995\u09be\u09a8\u09cd\u09a4\u09be-\u09b9\u09cd\u09af\u09be\u09ae\u09c7"
@@ -217,9 +218,6 @@
     "name:ukr_x_variant":[
         "\u041a\u0430\u043d\u0442\u0430-\u0413\u044f\u043c\u0435"
     ],
-    "name:unk_x_variant":[
-        "Egentliga Tavastland"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0648\u0627\u0633\u062a\u06cc\u0627 \u067e\u0631\u0648\u067e\u0631"
     ],
@@ -302,7 +300,7 @@
     "qs:type":"Maakunta#Landskap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"FI-06",
     "wd:wordcount":352,
     "wof:belongsto":[
@@ -340,7 +338,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1563282667,
+    "wof:lastmodified":1566594456,
     "wof:name":"Tavastia Proper",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

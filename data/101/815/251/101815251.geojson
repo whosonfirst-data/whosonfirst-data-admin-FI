@@ -9,14 +9,17 @@
     "geom:bbox":"25.5797634474,60.5129972552,25.6135341441,60.5388380292",
     "geom:latitude":60.526076,
     "geom:longitude":25.595722,
-    "geonames:id":"632801,660927",
+    "gn:id":"632801,660927",
     "iso:country":"FI",
     "lbl:latitude":60.5302,
     "lbl:longitude":25.595944,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.530199,
     "mps:longitude":25.595944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Askola"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":266,
     "wof:belongsto":[
         85683067,
@@ -123,9 +126,11 @@
     "wof:concordances":{
         "gn:id":847498,
         "gp:id":564308,
-        "qs:id":1,
-        "qs_pg:id":1199346,
+        "qs_pg:id":1,
         "wd:id":"Q732159"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1199346
     },
     "wof:country":"FI",
     "wof:geomhash":"ef99aac1a75e380bcf77defd087a4da7",
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":101815251,
-    "wof:lastmodified":1563283798,
+    "wof:lastmodified":1566595200,
     "wof:name":"Askola",
     "wof:parent_id":907198543,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.30707,65.87707,28.34707,65.91707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kynsij\u00e4rvi"
     ],
@@ -34,8 +38,7 @@
         "\u041a\u044e\u043d\u0441\u0438\u0432\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Kynsil\u00e4",
-        "Kynsij\u00e4rvi"
+        "Kynsil\u00e4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1343724523,
-    "wof:lastmodified":1537622230,
+    "wof:lastmodified":1566594404,
     "wof:name":"Kynsivaara",
     "wof:parent_id":907199533,
     "wof:placetype":"locality",

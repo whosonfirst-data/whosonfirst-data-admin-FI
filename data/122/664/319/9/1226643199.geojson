@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.61947,60.81732,26.65947,60.85732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vilppula"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1226643199,
-    "wof:lastmodified":1564102613,
+    "wof:lastmodified":1566595893,
     "wof:name":"Vilppula",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

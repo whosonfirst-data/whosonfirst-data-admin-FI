@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9369809.129515,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.762381,64.20915,27.762381,64.20915",
     "geom:latitude":64.20915,
     "geom:longitude":27.762381,
     "iso:country":"FI",
+    "lbl:bbox":"27.757381,64.20415,27.767381,64.21415",
     "lbl:latitude":64.20915,
     "lbl:longitude":27.762381,
+    "lbl:max_zoom":18.0,
     "mps:latitude":64.209149,
     "mps:longitude":27.762381,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:fin_x_preferred":[
-        "Lehtikangas"
-    ],
-    "name:unk_x_variant":[
         "Lehtikangas"
     ],
     "qs:gn_fcode":"PPLX",
@@ -57,22 +56,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85683137,
         102191581,
         907199455,
         85633143,
         404227415,
         101814401,
         136253047,
-        1159321487
+        1159321487,
+        85683137
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":648561,
         "gp:id":568895,
-        "qs:id":537415,
         "qs_pg:id":537415
     },
     "wof:country":"FI",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1531932116,
+    "wof:lastmodified":1566594461,
     "wof:name":"Lehtikangas",
     "wof:parent_id":101814401,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000361,
-    "geom:area_square_m":2219400.920917,
+    "geom:area_square_m":2219400.920916,
     "geom:bbox":"24.9768204445,60.1685581323,25.003712473,60.1860558467",
     "geom:latitude":60.175974,
     "geom:longitude":24.990489,
@@ -17,6 +17,7 @@
     "iso:country":"FI",
     "lbl:latitude":60.176833,
     "lbl:longitude":24.990233,
+    "lbl:max_zoom":18.0,
     "mps:latitude":60.176833,
     "mps:longitude":24.990233,
     "mz:hierarchy_label":1,
@@ -36,7 +37,6 @@
     "src:geom":"hkigis",
     "src:geom_alt":[],
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727349,
         907199715,
@@ -45,7 +45,8 @@
         101748417,
         136253047,
         890536883,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1108727137,
-    "wof:lastmodified":1529714732,
+    "wof:lastmodified":1566594956,
     "wof:name":"Mustikkamaa-Korkeasaari",
     "wof:parent_id":1108727349,
     "wof:placetype":"neighbourhood",

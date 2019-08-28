@@ -13,10 +13,13 @@
     "iso:country":"FI",
     "lbl:latitude":59.829038,
     "lbl:longitude":22.963885,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.829038,
     "mps:longitude":22.963885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0646\u0643\u0648"
     ],
@@ -137,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043d\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khanko"
     ],
     "name:urd_x_preferred":[
@@ -168,7 +171,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":59.823611,
     "wd:longitude":22.968056,
@@ -187,10 +190,12 @@
     "wof:concordances":{
         "gn:id":659101,
         "gp:id":25952576,
-        "qs:id":1086398,
         "qs_pg:id":126576,
         "wd:id":"Q216790",
         "wk:page":"Hanko"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1086398
     },
     "wof:country":"FI",
     "wof:geomhash":"49701e78531403871cc81e4e336c6174",
@@ -207,7 +212,7 @@
         }
     ],
     "wof:id":101815313,
-    "wof:lastmodified":1563283806,
+    "wof:lastmodified":1566595202,
     "wof:name":"Hanko",
     "wof:parent_id":907198505,
     "wof:placetype":"locality",

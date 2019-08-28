@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.16474,61.83687,25.20474,61.87687",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Ekonen"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243533947,
-    "wof:lastmodified":1537622330,
+    "wof:lastmodified":1566595602,
     "wof:name":"Ekonen",
     "wof:parent_id":907199101,
     "wof:placetype":"locality",

@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001682,
-    "geom:area_square_m":10100093.39728,
+    "geom:area_square_m":10100093.397284,
     "geom:bbox":"26.5757270718,60.9230159815,26.6771047864,60.9627320462",
     "geom:latitude":60.937787,
     "geom:longitude":26.618904,
     "iso:country":"FI",
     "lbl:latitude":60.936627,
     "lbl:longitude":26.603543,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.936627,
     "mps:longitude":26.603543,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Voikaa"
     ],
     "qs:a0":"Suomi#Finland",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85683081,
         102191581,
@@ -50,7 +53,6 @@
     "wof:concordances":{
         "gn:id":631282,
         "gp:id":575089,
-        "qs:id":1200762,
         "qs_pg:id":1200762
     },
     "wof:country":"FI",
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":101839161,
-    "wof:lastmodified":1529707606,
+    "wof:lastmodified":1566595257,
     "wof:name":"Voikkaa",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

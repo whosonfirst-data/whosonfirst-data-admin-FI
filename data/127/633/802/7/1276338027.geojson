@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.06966,60.73268,22.10966,60.77268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85683073,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276338027,
-    "wof:lastmodified":1536772763,
+    "wof:lastmodified":1566594630,
     "wof:name":"Nuokola",
     "wof:parent_id":907198907,
     "wof:placetype":"locality",

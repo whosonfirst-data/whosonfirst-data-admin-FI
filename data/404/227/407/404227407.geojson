@@ -5,16 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.700914,
-    "geom:area_square_m":60717311004.301178,
+    "geom:area_square_m":60717311004.300117,
     "geom:bbox":"26.0398377907,61.1513019339,31.5867039408,64.0369738238",
     "geom:latitude":62.683583,
     "geom:longitude":28.469088,
     "iso:country":"FI",
     "lbl:latitude":62.66815,
     "lbl:longitude":28.797239,
+    "lbl:max_zoom":7.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":3.0,
     "name:eng_x_preferred":[
         "Eastern Finland"
     ],
@@ -41,7 +44,7 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"Aluehallintovirasto#Regionf\u00f6rvaltningsverken",
     "src:geom":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633143,
@@ -68,7 +71,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1529539737,
+    "wof:lastmodified":1566595313,
     "wof:name":"Eastern Finland",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",

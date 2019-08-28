@@ -25,16 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.56127,61.27136,28.60127,61.31136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ter\u00e4v\u00e4l\u00e4"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0440\u044f\u0432\u044f\u043b\u044f"
-    ],
-    "name:und_x_variant":[
-        "Ter\u00e4v\u00e4l\u00e4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1293374539,
-    "wof:lastmodified":1537622151,
+    "wof:lastmodified":1566594481,
     "wof:name":"Teraevaelae",
     "wof:parent_id":907198791,
     "wof:placetype":"locality",
