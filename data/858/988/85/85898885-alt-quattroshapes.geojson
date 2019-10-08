@@ -1,11 +1,13 @@
 {
   "id": 85898885,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-fi",
+  "properties": {
+    "src:alt_label":"quattroshapes",
     "src:geom":"quattroshapes",
-    "wof:geomhash":"e72b4ea559b8fa5f5bba80bb14c89adc",
+    "wof:geomhash":"59e8c057e023fa428cef2f17fa1b00cd",
     "wof:id":85898885,
-    "wof:placetype":"neighbourhood"
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-fi"
 },
   "bbox": [
     25.10925292970001,
