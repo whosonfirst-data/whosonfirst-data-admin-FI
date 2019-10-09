@@ -1,11 +1,13 @@
 {
   "id": 890536879,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-fi",
+  "properties": {
+    "src:alt_label":"unknown",
     "src:geom":"unknown",
     "wof:geomhash":"a48d62243066535ace891cbb11f194af",
     "wof:id":890536879,
-    "wof:placetype":"borough"
+    "wof:placetype":"borough",
+    "wof:repo":"whosonfirst-data-admin-fi"
 },
   "bbox": [
     24.7828044415153,
