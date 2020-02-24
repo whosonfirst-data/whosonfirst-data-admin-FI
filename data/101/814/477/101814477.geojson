@@ -173,6 +173,9 @@
         "qs_pg:id":322729
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d7e62fe2084c312dcde8db6db643385",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":101814477,
-    "wof:lastmodified":1566595225,
+    "wof:lastmodified":1582312183,
     "wof:name":"Haapaj\u00e4rvi",
     "wof:parent_id":907199639,
     "wof:placetype":"locality",

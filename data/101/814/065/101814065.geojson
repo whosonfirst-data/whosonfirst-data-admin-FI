@@ -122,6 +122,9 @@
         "wd:id":"Q368997"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9ae067589be0e7d5ee60a294ceef87bf",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101814065,
-    "wof:lastmodified":1566595227,
+    "wof:lastmodified":1582312183,
     "wof:name":"Sulkava",
     "wof:parent_id":907198787,
     "wof:placetype":"locality",

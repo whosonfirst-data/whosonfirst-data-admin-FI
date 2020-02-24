@@ -60,6 +60,9 @@
         "qs_pg:id":1155675
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"66e175e5debb88d1432fe8937b90ce4c",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":907199763,
-    "wof:lastmodified":1566594096,
+    "wof:lastmodified":1582312082,
     "wof:name":"Voyri",
     "wof:parent_id":1159321501,
     "wof:placetype":"localadmin",

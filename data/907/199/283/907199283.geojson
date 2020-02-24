@@ -64,6 +64,9 @@
         "qs_pg:id":1030125
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"99a627f84d31365b45464cd9084fab42",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199283,
-    "wof:lastmodified":1566594213,
+    "wof:lastmodified":1582312123,
     "wof:name":"Evijarvi",
     "wof:parent_id":1159321567,
     "wof:placetype":"localadmin",

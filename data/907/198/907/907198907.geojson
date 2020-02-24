@@ -64,6 +64,9 @@
         "qs_pg:id":1227169
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1199613c80bab4d6d2bd3e3476d0211f",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907198907,
-    "wof:lastmodified":1566593984,
+    "wof:lastmodified":1582312043,
     "wof:name":"Mynamaki",
     "wof:parent_id":1159321603,
     "wof:placetype":"localadmin",

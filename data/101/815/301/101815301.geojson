@@ -123,6 +123,9 @@
         "wk:page":"Pohja"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba15c120949a3a7e88a7cbac6feb8c47",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101815301,
-    "wof:lastmodified":1566595195,
+    "wof:lastmodified":1582312177,
     "wof:name":"Pohja",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

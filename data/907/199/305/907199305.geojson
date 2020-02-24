@@ -109,6 +109,9 @@
         "qs_pg:id":81470
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"55a93aed2ac1741a21fca1698ef178e1",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":907199305,
-    "wof:lastmodified":1566594211,
+    "wof:lastmodified":1582312122,
     "wof:name":"Kaustinen",
     "wof:parent_id":1159321595,
     "wof:placetype":"localadmin",

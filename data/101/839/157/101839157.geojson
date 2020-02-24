@@ -102,6 +102,9 @@
         "wk:page":"Halikko"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6fb0f4c8c029d53939bc04a729d43108",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101839157,
-    "wof:lastmodified":1561830291,
+    "wof:lastmodified":1582312188,
     "wof:name":"Halikko",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

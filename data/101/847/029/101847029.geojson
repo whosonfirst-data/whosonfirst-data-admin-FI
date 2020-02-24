@@ -59,6 +59,9 @@
         "qs_pg:id":772413
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4a90db73f5f211c11100d1381437870f",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101847029,
-    "wof:lastmodified":1566595216,
+    "wof:lastmodified":1582312181,
     "wof:name":"Onttola",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

@@ -65,6 +65,9 @@
         "qs_pg:id":1155942
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"92b92ebeccee020f39582d8dc6b23cb8",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101846913,
-    "wof:lastmodified":1566595185,
+    "wof:lastmodified":1582312175,
     "wof:name":"Koura",
     "wof:parent_id":907199285,
     "wof:placetype":"locality",

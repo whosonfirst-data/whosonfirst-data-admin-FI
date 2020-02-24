@@ -78,6 +78,9 @@
         "wd:id":"Q3366495"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"09571f51826b11a6dac30295f2bec0d9",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101815339,
-    "wof:lastmodified":1566595195,
+    "wof:lastmodified":1582312177,
     "wof:name":"Lokalahti",
     "wof:parent_id":907198615,
     "wof:placetype":"locality",

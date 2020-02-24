@@ -55,6 +55,9 @@
         "qs_pg:id":993218
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"05e6094fb0048f041659b3faa016b3fa",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101814263,
-    "wof:lastmodified":1566595249,
+    "wof:lastmodified":1582312187,
     "wof:name":"S\u00f6dra Vallgrund",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

@@ -122,6 +122,9 @@
         "wd:id":"Q1641672"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"df71cb50b0812c29e505432e43a68d45",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101815061,
-    "wof:lastmodified":1566595208,
+    "wof:lastmodified":1582312180,
     "wof:name":"Joroinen",
     "wof:parent_id":907198879,
     "wof:placetype":"locality",

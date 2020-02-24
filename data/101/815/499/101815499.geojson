@@ -198,6 +198,9 @@
         "wk:page":"Valkeakoski"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"45056d629fbfa7d3b23cecfd3877d17a",
     "wof:hierarchy":[
         {
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":101815499,
-    "wof:lastmodified":1566595199,
+    "wof:lastmodified":1582312178,
     "wof:name":"Valkeakoski",
     "wof:parent_id":907199063,
     "wof:placetype":"locality",

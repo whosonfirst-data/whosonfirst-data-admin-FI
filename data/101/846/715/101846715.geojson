@@ -147,6 +147,9 @@
         "wk:page":"Sammatti"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9fc0d6625b9d732d0872d272f0f903a7",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101846715,
-    "wof:lastmodified":1566595184,
+    "wof:lastmodified":1582312175,
     "wof:name":"Sammatti",
     "wof:parent_id":907198655,
     "wof:placetype":"locality",

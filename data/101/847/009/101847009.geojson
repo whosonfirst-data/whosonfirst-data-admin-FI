@@ -138,6 +138,9 @@
         "qs_pg:id":1327522
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8be0dd766656c0d2767c544671a2a19b",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":101847009,
-    "wof:lastmodified":1566595215,
+    "wof:lastmodified":1582312181,
     "wof:name":"Lapinlahti",
     "wof:parent_id":907199373,
     "wof:placetype":"locality",

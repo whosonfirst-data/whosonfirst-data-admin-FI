@@ -52,6 +52,9 @@
         "gp:id":567209
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ff02b663e00d986f4f0c69e6c4082747",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101872903,
-    "wof:lastmodified":1566595163,
+    "wof:lastmodified":1582312170,
     "wof:name":"Ajos",
     "wof:parent_id":907199597,
     "wof:placetype":"locality",

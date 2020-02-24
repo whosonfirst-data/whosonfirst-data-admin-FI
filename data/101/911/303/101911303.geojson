@@ -108,6 +108,9 @@
         "wd:id":"Q762945"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cca728304fcab52793076a097f77262b",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101911303,
-    "wof:lastmodified":1566595260,
+    "wof:lastmodified":1582312189,
     "wof:name":"Rukatunturi",
     "wof:parent_id":907199519,
     "wof:placetype":"locality",

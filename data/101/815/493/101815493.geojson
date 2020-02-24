@@ -139,6 +139,9 @@
         "qs_pg:id":1027203
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1281d173ed879350af1936665f8ceeb1",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101815493,
-    "wof:lastmodified":1566595207,
+    "wof:lastmodified":1582312179,
     "wof:name":"Vammala",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

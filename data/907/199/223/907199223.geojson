@@ -139,6 +139,9 @@
         "qs_pg:id":496472
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0e67346c037912a949b919410f0a96dd",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":907199223,
-    "wof:lastmodified":1566594230,
+    "wof:lastmodified":1582312127,
     "wof:name":"Viitasaari",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",

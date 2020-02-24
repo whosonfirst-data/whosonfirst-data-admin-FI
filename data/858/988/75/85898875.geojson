@@ -124,6 +124,9 @@
         "wk:page":"Oulunkyl\u00e4"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c719edbfa28175ca8fa34f9da692fac8",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1527641062,
+    "wof:lastmodified":1582312155,
     "wof:name":"Oulunkyl\u00e4",
     "wof:parent_id":890537237,
     "wof:placetype":"neighbourhood",

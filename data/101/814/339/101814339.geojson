@@ -107,6 +107,9 @@
         "wd:id":"Q1364561"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0cbf99dcd54ec8a47596326f48c28040",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101814339,
-    "wof:lastmodified":1566595221,
+    "wof:lastmodified":1582312182,
     "wof:name":"Sorsakoski",
     "wof:parent_id":907198899,
     "wof:placetype":"locality",

@@ -141,6 +141,10 @@
         "wd:id":"Q581920"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4ccd616e283539545473332294219b3e",
     "wof:hierarchy":[
         {
@@ -155,7 +159,7 @@
         }
     ],
     "wof:id":101872905,
-    "wof:lastmodified":1561830267,
+    "wof:lastmodified":1582312170,
     "wof:name":"Utsjoki",
     "wof:parent_id":907199575,
     "wof:placetype":"locality",

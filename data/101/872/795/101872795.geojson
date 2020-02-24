@@ -59,6 +59,9 @@
         "qs_pg:id":7
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f38a83828fc77ac395c8d8dc9534d82f",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101872795,
-    "wof:lastmodified":1566595163,
+    "wof:lastmodified":1582312170,
     "wof:name":"Etel\u00e4inen",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

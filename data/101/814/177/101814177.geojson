@@ -156,6 +156,9 @@
         "qs_pg:id":977314
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d56a367e09aae8b282fb31187d5c6601",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101814177,
-    "wof:lastmodified":1566595250,
+    "wof:lastmodified":1582312187,
     "wof:name":"Laukaa",
     "wof:parent_id":907199203,
     "wof:placetype":"locality",

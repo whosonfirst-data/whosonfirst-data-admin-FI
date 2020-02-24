@@ -121,6 +121,9 @@
         "qs_pg:id":953669
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"21f180d51ad1f467d11e3e59fbb4f5d4",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":907199301,
-    "wof:lastmodified":1566594111,
+    "wof:lastmodified":1582312088,
     "wof:name":"Halsua",
     "wof:parent_id":1159321595,
     "wof:placetype":"localadmin",

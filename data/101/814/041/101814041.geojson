@@ -93,6 +93,9 @@
         "wd:id":"Q2004537"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3a671777a00362791312bbca62637afa",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101814041,
-    "wof:lastmodified":1566595223,
+    "wof:lastmodified":1582312182,
     "wof:name":"Nuijamaa",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

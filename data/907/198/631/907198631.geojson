@@ -166,6 +166,9 @@
         "qs_pg:id":349780
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"50cc3dcef6443b943274acb7cbbacbb5",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":907198631,
-    "wof:lastmodified":1566594070,
+    "wof:lastmodified":1582312071,
     "wof:name":"Tuusula",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

@@ -106,6 +106,9 @@
         "qs_pg:id":904896
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"637fec2cd65b26ac7fe4526dc05319bc",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":907199603,
-    "wof:lastmodified":1566594164,
+    "wof:lastmodified":1582312106,
     "wof:name":"Riihimaki",
     "wof:parent_id":1159321541,
     "wof:placetype":"localadmin",

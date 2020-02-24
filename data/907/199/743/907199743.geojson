@@ -64,6 +64,9 @@
         "qs_pg:id":1042367
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6f54790a20e2e00c47f86b772347a561",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199743,
-    "wof:lastmodified":1566594263,
+    "wof:lastmodified":1582312139,
     "wof:name":"Mantta-Vilppula",
     "wof:parent_id":1159321485,
     "wof:placetype":"localadmin",

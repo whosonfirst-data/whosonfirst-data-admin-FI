@@ -151,6 +151,9 @@
         "wd:id":"Q990578"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"29fb059ecbded64763247e73c79df564",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101753041,
-    "wof:lastmodified":1566595154,
+    "wof:lastmodified":1582312168,
     "wof:name":"Hollola",
     "wof:parent_id":907198585,
     "wof:placetype":"locality",

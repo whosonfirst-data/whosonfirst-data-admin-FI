@@ -112,6 +112,9 @@
         "qs_pg:id":81467
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3ca536dc37933b028447e328a2203eb1",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":907199277,
-    "wof:lastmodified":1566594216,
+    "wof:lastmodified":1582312123,
     "wof:name":"Keitele",
     "wof:parent_id":1159321601,
     "wof:placetype":"localadmin",

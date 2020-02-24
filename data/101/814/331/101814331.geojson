@@ -129,6 +129,9 @@
         "qs_pg:id":1329486
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0aca0866f6f8f44d225454a7b1fac599",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101814331,
-    "wof:lastmodified":1566595219,
+    "wof:lastmodified":1582312182,
     "wof:name":"Tuusniemi",
     "wof:parent_id":907199053,
     "wof:placetype":"locality",

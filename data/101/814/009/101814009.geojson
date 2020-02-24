@@ -77,6 +77,9 @@
         "wd:id":"Q3432693"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"05ccb6cfdf80995c1c0cdcd87bbc56f5",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101814009,
-    "wof:lastmodified":1566595229,
+    "wof:lastmodified":1582312183,
     "wof:name":"Karkku",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

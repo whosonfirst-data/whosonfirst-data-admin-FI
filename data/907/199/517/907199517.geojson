@@ -140,6 +140,9 @@
         "qs_pg:id":81383
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5dbf2cf108b4adfa392ebd30c61dd095",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":907199517,
-    "wof:lastmodified":1566594174,
+    "wof:lastmodified":1582312109,
     "wof:name":"Oulainen",
     "wof:parent_id":1159321569,
     "wof:placetype":"localadmin",

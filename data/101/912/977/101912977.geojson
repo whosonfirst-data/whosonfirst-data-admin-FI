@@ -51,6 +51,9 @@
         "qs_pg:id":1180985
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"26e9192e285491e7ab61200d0ef1191e",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101912977,
-    "wof:lastmodified":1566595166,
+    "wof:lastmodified":1582312171,
     "wof:name":"Ylinen",
     "wof:parent_id":907199275,
     "wof:placetype":"locality",

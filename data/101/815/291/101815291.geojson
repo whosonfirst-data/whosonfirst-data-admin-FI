@@ -206,6 +206,9 @@
         "wd:id":"Q214777"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fd1b4273cd98c61703d965a4b9c396c3",
     "wof:hierarchy":[
         {
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":101815291,
-    "wof:lastmodified":1566595209,
+    "wof:lastmodified":1582312180,
     "wof:name":"Lohja",
     "wof:parent_id":907198655,
     "wof:placetype":"locality",

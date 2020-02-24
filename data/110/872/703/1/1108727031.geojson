@@ -50,6 +50,9 @@
         "qs_pg:id":243380
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b901ec4d325ac359fb29bca0685186d",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108727031,
-    "wof:lastmodified":1497316505,
+    "wof:lastmodified":1582312165,
     "wof:name":"Kamppi",
     "wof:parent_id":1108727337,
     "wof:placetype":"neighbourhood",

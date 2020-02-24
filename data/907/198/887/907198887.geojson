@@ -244,6 +244,9 @@
         "qs_pg:id":81422
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd1667cee410d9206b5775f8e3128c44",
     "wof:hierarchy":[
         {
@@ -257,7 +260,7 @@
         }
     ],
     "wof:id":907198887,
-    "wof:lastmodified":1566594004,
+    "wof:lastmodified":1582312050,
     "wof:name":"Lappeenranta",
     "wof:parent_id":1159321547,
     "wof:placetype":"localadmin",

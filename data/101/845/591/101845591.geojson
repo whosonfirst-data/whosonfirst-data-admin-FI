@@ -122,6 +122,9 @@
         "qs_pg:id":1079073
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ed40a68a1d18abf09260fe37f195577",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101845591,
-    "wof:lastmodified":1566595159,
+    "wof:lastmodified":1582312169,
     "wof:name":"Inari",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

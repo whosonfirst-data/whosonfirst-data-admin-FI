@@ -118,6 +118,9 @@
         "wk:page":"Kestil\u00e4"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f5068d8fe7bc17176edf0f33acb8a62b",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101814445,
-    "wof:lastmodified":1566595246,
+    "wof:lastmodified":1582312186,
     "wof:name":"Kestil\u00e4",
     "wof:parent_id":907199755,
     "wof:placetype":"locality",

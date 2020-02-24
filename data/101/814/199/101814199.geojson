@@ -81,6 +81,9 @@
         "wk:page":"Haapam\u00e4ki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6e584b7e96cbc3f709cbad4c7fe5236b",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101814199,
-    "wof:lastmodified":1566595240,
+    "wof:lastmodified":1582312185,
     "wof:name":"Haapam\u00e4ki",
     "wof:parent_id":907199179,
     "wof:placetype":"locality",

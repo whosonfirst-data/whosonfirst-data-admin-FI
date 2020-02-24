@@ -87,6 +87,9 @@
         "wd:id":"Q299735"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"649e7a7fd5161abd88438b6621093d7a",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1527641062,
+    "wof:lastmodified":1582312155,
     "wof:name":"Haga",
     "wof:parent_id":890537273,
     "wof:placetype":"neighbourhood",

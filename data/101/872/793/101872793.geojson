@@ -100,6 +100,9 @@
         "wk:page":"Muurla"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5ea401cb570fbcb64d4382d92b1671e4",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101872793,
-    "wof:lastmodified":1566595163,
+    "wof:lastmodified":1582312170,
     "wof:name":"Muurla",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

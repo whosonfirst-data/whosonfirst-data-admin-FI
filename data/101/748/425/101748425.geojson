@@ -427,6 +427,9 @@
         "qs_pg:id":1079087
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b8ff545871e4782fa54dae1a405a3059",
     "wof:hierarchy":[
         {
@@ -441,7 +444,7 @@
         }
     ],
     "wof:id":101748425,
-    "wof:lastmodified":1566595167,
+    "wof:lastmodified":1582312171,
     "wof:name":"Lahti",
     "wof:parent_id":907198647,
     "wof:placetype":"locality",

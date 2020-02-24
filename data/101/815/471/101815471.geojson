@@ -135,6 +135,9 @@
         "qs_pg:id":1115919
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e5e0f070af1e4d746c692d2a0b9a5a60",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101815471,
-    "wof:lastmodified":1566595196,
+    "wof:lastmodified":1582312177,
     "wof:name":"Nakkila",
     "wof:parent_id":907198705,
     "wof:placetype":"locality",

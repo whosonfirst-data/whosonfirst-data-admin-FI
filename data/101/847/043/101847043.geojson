@@ -71,6 +71,9 @@
         "wd:id":"Q11895753"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e7e9207e628ad9eacf8c2505746a6776",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101847043,
-    "wof:lastmodified":1566595217,
+    "wof:lastmodified":1582312181,
     "wof:name":"S\u00e4r\u00e4isniemi",
     "wof:parent_id":907199621,
     "wof:placetype":"locality",

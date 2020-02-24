@@ -64,6 +64,9 @@
         "qs_pg:id":369881
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5aa0b34816672b2fa3d23f573d41b1ba",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907198923,
-    "wof:lastmodified":1566594027,
+    "wof:lastmodified":1582312057,
     "wof:name":"Oripaa",
     "wof:parent_id":1159321505,
     "wof:placetype":"localadmin",

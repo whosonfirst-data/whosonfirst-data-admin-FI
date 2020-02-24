@@ -114,6 +114,9 @@
         "wk:page":"J\u00e4ms\u00e4nkoski"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"de40ea335a36e47b87411877de627c6f",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101814213,
-    "wof:lastmodified":1566595246,
+    "wof:lastmodified":1582312186,
     "wof:name":"J\u00e4ms\u00e4nkoski",
     "wof:parent_id":907199101,
     "wof:placetype":"locality",

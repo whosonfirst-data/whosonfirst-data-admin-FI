@@ -56,6 +56,9 @@
         "qs_pg:id":7
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c29a3677afade06849f64b88ed56b7c",
     "wof:hierarchy":[
         {
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101872835,
-    "wof:lastmodified":1566595162,
+    "wof:lastmodified":1582312170,
     "wof:name":"Kyl\u00e4inp\u00e4\u00e4",
     "wof:parent_id":907198989,
     "wof:placetype":"locality",

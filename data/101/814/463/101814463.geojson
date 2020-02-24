@@ -188,6 +188,9 @@
         "qs_pg:id":474375
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a885a70975ff668a8199c8ccc7e009fd",
     "wof:hierarchy":[
         {
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101814463,
-    "wof:lastmodified":1566595228,
+    "wof:lastmodified":1582312183,
     "wof:name":"Ylivieska",
     "wof:parent_id":907199437,
     "wof:placetype":"locality",

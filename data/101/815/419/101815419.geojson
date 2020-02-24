@@ -186,6 +186,9 @@
         "wk:page":"Riihim\u00e4ki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"919af788ceb2e9a7e9dffe4a7342c75b",
     "wof:hierarchy":[
         {
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":101815419,
-    "wof:lastmodified":1566595205,
+    "wof:lastmodified":1582312179,
     "wof:name":"Riihim\u00e4ki",
     "wof:parent_id":907199603,
     "wof:placetype":"locality",

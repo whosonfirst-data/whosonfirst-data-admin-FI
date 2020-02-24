@@ -63,6 +63,9 @@
         "qs_pg:id":81280
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"180a596fa6171016ae5f0a12159a978b",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":907199359,
-    "wof:lastmodified":1566594189,
+    "wof:lastmodified":1582312114,
     "wof:name":"Vierema",
     "wof:parent_id":1159321601,
     "wof:placetype":"localadmin",

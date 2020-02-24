@@ -70,6 +70,9 @@
         "qs_pg:id":1030121
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9c88479b7d7a9f3360d4a73701e03c8a",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":907198509,
-    "wof:lastmodified":1566594039,
+    "wof:lastmodified":1582312062,
     "wof:name":"Inkoo",
     "wof:parent_id":1159321627,
     "wof:placetype":"localadmin",

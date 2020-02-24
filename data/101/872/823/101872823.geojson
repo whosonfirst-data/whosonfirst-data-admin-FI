@@ -53,6 +53,9 @@
         "qs_pg:id":9
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f2ec49686f22e8fef0307760a8253bc3",
     "wof:hierarchy":[
         {
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101872823,
-    "wof:lastmodified":1566595164,
+    "wof:lastmodified":1582312170,
     "wof:name":"Sarvijoki",
     "wof:parent_id":907199007,
     "wof:placetype":"locality",

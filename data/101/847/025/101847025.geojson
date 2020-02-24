@@ -114,6 +114,9 @@
         "wk:page":"Eno, Finland"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"87239474222b0bc2434a2e5c8d4e4e70",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101847025,
-    "wof:lastmodified":1566595214,
+    "wof:lastmodified":1582312181,
     "wof:name":"Eno",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

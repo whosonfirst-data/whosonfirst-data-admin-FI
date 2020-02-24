@@ -136,6 +136,9 @@
         "qs_pg:id":81473
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"36cdf2b7ea6d336d964c0f02fed4deb4",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":907199039,
-    "wof:lastmodified":1566594172,
+    "wof:lastmodified":1582312109,
     "wof:name":"Kaskinen",
     "wof:parent_id":1159321495,
     "wof:placetype":"localadmin",

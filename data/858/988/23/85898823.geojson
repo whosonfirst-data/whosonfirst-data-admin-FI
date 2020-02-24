@@ -83,6 +83,9 @@
         "qs_pg:id":1060475
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25eeacb35144e0c793221165601dbd7d",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1527270650,
+    "wof:lastmodified":1582312155,
     "wof:name":"Gransby",
     "wof:parent_id":890537253,
     "wof:placetype":"neighbourhood",

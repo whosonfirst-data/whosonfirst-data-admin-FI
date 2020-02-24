@@ -140,6 +140,9 @@
         "wd:id":"Q990548"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1bbb9d1778c8dc6a37b692227b96652",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101814303,
-    "wof:lastmodified":1566595238,
+    "wof:lastmodified":1582312185,
     "wof:name":"Juankoski",
     "wof:parent_id":907199339,
     "wof:placetype":"locality",

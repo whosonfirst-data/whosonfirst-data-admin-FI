@@ -154,6 +154,9 @@
         "wd:id":"Q613701"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8f7c1ccb5784598a6c4981d548fa5797",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101815059,
-    "wof:lastmodified":1566595209,
+    "wof:lastmodified":1582312180,
     "wof:name":"Pieks\u00e4m\u00e4ki",
     "wof:parent_id":907199013,
     "wof:placetype":"locality",

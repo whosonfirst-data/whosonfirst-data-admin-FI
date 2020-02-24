@@ -128,6 +128,9 @@
         "wk:page":"Nilsi\u00e4"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"946bc88995ea59c131453dd7752a5d93",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101814323,
-    "wof:lastmodified":1566595234,
+    "wof:lastmodified":1582312184,
     "wof:name":"Nilsi\u00e4",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

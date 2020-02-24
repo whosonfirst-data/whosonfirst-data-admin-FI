@@ -105,6 +105,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b5fe6cb78801747b8fc95dc8642a8eca",
     "wof:hierarchy":[
         {
@@ -125,7 +129,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594415,
+    "wof:lastmodified":1582312147,
     "wof:name":"Meri-Rastila",
     "wof:parent_id":890537281,
     "wof:placetype":"neighbourhood",

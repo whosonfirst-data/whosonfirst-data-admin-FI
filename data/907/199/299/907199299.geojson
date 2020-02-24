@@ -64,6 +64,9 @@
         "qs_pg:id":81486
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fd83e125a67127ff5d941d9fdf1c895d",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199299,
-    "wof:lastmodified":1566594261,
+    "wof:lastmodified":1582312138,
     "wof:name":"Kankaanpaa",
     "wof:parent_id":1159321519,
     "wof:placetype":"localadmin",

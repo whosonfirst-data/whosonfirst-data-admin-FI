@@ -130,6 +130,9 @@
         "qs_pg:id":203716
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a71fac0b1878febcc386e9027c3904ed",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":907199477,
-    "wof:lastmodified":1566594137,
+    "wof:lastmodified":1582312096,
     "wof:name":"Muhos",
     "wof:parent_id":1159321529,
     "wof:placetype":"localadmin",

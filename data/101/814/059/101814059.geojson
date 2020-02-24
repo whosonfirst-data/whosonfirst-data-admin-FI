@@ -119,6 +119,9 @@
         "wk:page":"Kerim\u00e4ki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"66d4566dd397c7832b93a63936bc4927",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101814059,
-    "wof:lastmodified":1566595247,
+    "wof:lastmodified":1582312186,
     "wof:name":"Kerim\u00e4ki",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

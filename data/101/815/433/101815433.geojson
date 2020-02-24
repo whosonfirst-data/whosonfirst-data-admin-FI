@@ -71,6 +71,9 @@
         "wd:id":"Q11864902"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"feedefb90ac328393680ba750a24d254",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101815433,
-    "wof:lastmodified":1566595209,
+    "wof:lastmodified":1582312180,
     "wof:name":"Inkeroinen",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

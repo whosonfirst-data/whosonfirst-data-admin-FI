@@ -127,6 +127,9 @@
         "wd:id":"Q594558"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"94e2952445a9a8af198af6d71ae541ed",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101814149,
-    "wof:lastmodified":1566595252,
+    "wof:lastmodified":1582312187,
     "wof:name":"Kivij\u00e4rvi",
     "wof:parent_id":907199147,
     "wof:placetype":"locality",

@@ -158,6 +158,9 @@
         "qs_pg:id":688363
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b9659eafca7ef05d917a3e47f5652d10",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101815453,
-    "wof:lastmodified":1566595201,
+    "wof:lastmodified":1582312178,
     "wof:name":"Orimattila",
     "wof:parent_id":907198577,
     "wof:placetype":"locality",

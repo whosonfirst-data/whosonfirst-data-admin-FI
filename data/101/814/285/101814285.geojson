@@ -157,6 +157,9 @@
         "qs_pg:id":212105
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7aba9f6bd4ebf8bfd4ea6528883061d8",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101814285,
-    "wof:lastmodified":1566595244,
+    "wof:lastmodified":1582312186,
     "wof:name":"Kannus",
     "wof:parent_id":907198997,
     "wof:placetype":"locality",

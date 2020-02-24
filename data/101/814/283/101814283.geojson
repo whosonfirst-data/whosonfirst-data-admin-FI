@@ -55,6 +55,9 @@
         "qs_pg:id":1199598
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed719defe037249bbad956400081bdcc",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101814283,
-    "wof:lastmodified":1566595241,
+    "wof:lastmodified":1582312185,
     "wof:name":"Marinkainen",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

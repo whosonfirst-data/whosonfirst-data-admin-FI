@@ -105,6 +105,9 @@
         "wd:id":"Q1815690"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"28e2a20ec6cb69a0792c4653563f8644",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101814485,
-    "wof:lastmodified":1566595223,
+    "wof:lastmodified":1582312182,
     "wof:name":"Saariselk\u00e4",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

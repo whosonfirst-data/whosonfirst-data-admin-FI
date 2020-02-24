@@ -137,6 +137,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"37b749bb10457987c7f028810679d649",
     "wof:hierarchy":[
         {
@@ -157,7 +161,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594465,
+    "wof:lastmodified":1582312155,
     "wof:name":"Kluuvi",
     "wof:parent_id":1108727331,
     "wof:placetype":"neighbourhood",

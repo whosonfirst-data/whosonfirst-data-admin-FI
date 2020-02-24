@@ -96,6 +96,9 @@
         "wk:page":"Sahalahti"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f19e396463a542730c1c181c96441a61",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101846851,
-    "wof:lastmodified":1566595181,
+    "wof:lastmodified":1582312174,
     "wof:name":"Sahalahti",
     "wof:parent_id":907199185,
     "wof:placetype":"locality",

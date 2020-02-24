@@ -64,6 +64,9 @@
         "qs_pg:id":550545
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"664a14bb0f33c85a73ca280249e03e3b",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199331,
-    "wof:lastmodified":1566594101,
+    "wof:lastmodified":1582312084,
     "wof:name":"Sonkajarvi",
     "wof:parent_id":1159321601,
     "wof:placetype":"localadmin",

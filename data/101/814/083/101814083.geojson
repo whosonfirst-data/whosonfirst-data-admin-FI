@@ -344,6 +344,9 @@
         "wk:page":"Mikkeli"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e59446f0ef3bb2d62966b831625ed224",
     "wof:hierarchy":[
         {
@@ -358,7 +361,7 @@
         }
     ],
     "wof:id":101814083,
-    "wof:lastmodified":1566595224,
+    "wof:lastmodified":1582312183,
     "wof:name":"Mikkeli",
     "wof:parent_id":907198765,
     "wof:placetype":"locality",

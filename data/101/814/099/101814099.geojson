@@ -81,6 +81,9 @@
         "wk:page":"Tuuri"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e0fe49000c8f1e75bf0b1bd75639c798",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101814099,
-    "wof:lastmodified":1566595230,
+    "wof:lastmodified":1582312183,
     "wof:name":"Tuuri",
     "wof:parent_id":907199157,
     "wof:placetype":"locality",

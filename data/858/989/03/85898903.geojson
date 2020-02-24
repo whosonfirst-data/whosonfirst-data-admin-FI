@@ -140,6 +140,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"781f68f9903edac5571014f3b10b94b0",
     "wof:hierarchy":[
         {
@@ -160,7 +164,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594459,
+    "wof:lastmodified":1582312154,
     "wof:name":"Taka-Toolo",
     "wof:parent_id":1108727339,
     "wof:placetype":"neighbourhood",

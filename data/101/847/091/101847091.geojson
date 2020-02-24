@@ -54,6 +54,9 @@
         "qs_pg:id":1292870
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"633cdff9c7d68b4f5216c791b7028be1",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101847091,
-    "wof:lastmodified":1566595214,
+    "wof:lastmodified":1582312181,
     "wof:name":"Sievin asema",
     "wof:parent_id":907199347,
     "wof:placetype":"locality",

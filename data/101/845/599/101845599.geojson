@@ -138,6 +138,9 @@
         "wk:page":"Tervola"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c10eaeb27de8a76d93564cc985f422e6",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":101845599,
-    "wof:lastmodified":1566595158,
+    "wof:lastmodified":1582312169,
     "wof:name":"Tervola",
     "wof:parent_id":907199545,
     "wof:placetype":"locality",

@@ -61,6 +61,9 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6392a7ea657ea148d2d11b221194a2e1",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108727213,
-    "wof:lastmodified":1566595013,
+    "wof:lastmodified":1582312166,
     "wof:name":"Tapulikaupunki",
     "wof:parent_id":1108727369,
     "wof:placetype":"neighbourhood",

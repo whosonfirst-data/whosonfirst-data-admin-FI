@@ -159,6 +159,9 @@
         "qs_pg:id":474326
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"49ef23726b633a4685e98f73598a3535",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101814001,
-    "wof:lastmodified":1566595232,
+    "wof:lastmodified":1582312184,
     "wof:name":"Orivesi",
     "wof:parent_id":907199393,
     "wof:placetype":"locality",

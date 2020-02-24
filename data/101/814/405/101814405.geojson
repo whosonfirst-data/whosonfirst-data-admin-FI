@@ -207,6 +207,9 @@
         "wk:page":"Kuusamo"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca311559de12a6ffd26facf511c54c25",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":101814405,
-    "wof:lastmodified":1566595247,
+    "wof:lastmodified":1582312186,
     "wof:name":"Kuusamo",
     "wof:parent_id":907199519,
     "wof:placetype":"locality",

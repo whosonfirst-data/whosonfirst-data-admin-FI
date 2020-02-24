@@ -105,6 +105,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62eb4096687ace1405f4538710a4b9d9",
     "wof:hierarchy":[
         {
@@ -125,7 +129,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594414,
+    "wof:lastmodified":1582312147,
     "wof:name":"Ita-Pasila",
     "wof:parent_id":890537255,
     "wof:placetype":"neighbourhood",

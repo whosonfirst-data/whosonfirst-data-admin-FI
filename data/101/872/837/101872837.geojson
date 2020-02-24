@@ -103,6 +103,10 @@
         "wk:page":"Oravais"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"af6c5a9f55c8bcd1e46dd6659150d2ba",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":101872837,
-    "wof:lastmodified":1561830268,
+    "wof:lastmodified":1582312171,
     "wof:name":"Oravainen",
     "wof:parent_id":907199763,
     "wof:placetype":"locality",

@@ -121,6 +121,9 @@
         "qs_pg:id":81342
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ec838b2290257151b46418eb760e42b",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":907198791,
-    "wof:lastmodified":1566593993,
+    "wof:lastmodified":1582312046,
     "wof:name":"Ruokolahti",
     "wof:parent_id":1159321507,
     "wof:placetype":"localadmin",

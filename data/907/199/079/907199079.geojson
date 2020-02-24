@@ -72,6 +72,9 @@
         "qs_pg:id":550548
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d1e53f8f94883e2af6b515972b8df45c",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":907199079,
-    "wof:lastmodified":1566594123,
+    "wof:lastmodified":1582312091,
     "wof:name":"Soini",
     "wof:parent_id":1159321567,
     "wof:placetype":"localadmin",

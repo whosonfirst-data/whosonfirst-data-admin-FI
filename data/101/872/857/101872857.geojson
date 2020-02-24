@@ -293,6 +293,10 @@
         "wk:page":"Kangaslampi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b65823f98b3a5a3997eb39d838227c89",
     "wof:hierarchy":[
         {
@@ -307,7 +311,7 @@
         }
     ],
     "wof:id":101872857,
-    "wof:lastmodified":1566595161,
+    "wof:lastmodified":1582312170,
     "wof:name":"Kangaslampi",
     "wof:parent_id":907199707,
     "wof:placetype":"locality",

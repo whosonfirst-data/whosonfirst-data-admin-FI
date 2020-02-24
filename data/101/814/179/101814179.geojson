@@ -79,6 +79,9 @@
         "wk:page":"Tikkakoski"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"14421110eeb7a5d7aa519ef6189bbcb6",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101814179,
-    "wof:lastmodified":1566595251,
+    "wof:lastmodified":1582312187,
     "wof:name":"Tikkakoski",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

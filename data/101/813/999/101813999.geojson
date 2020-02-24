@@ -96,6 +96,9 @@
         "wk:page":"Viljakkala"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0d7f256b36cafb14a22eee739eafdfd5",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101813999,
-    "wof:lastmodified":1566595253,
+    "wof:lastmodified":1582312188,
     "wof:name":"Viljakkala",
     "wof:parent_id":907199275,
     "wof:placetype":"locality",

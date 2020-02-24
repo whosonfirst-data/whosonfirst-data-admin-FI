@@ -61,6 +61,9 @@
         "qs_pg:id":1212357
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a8aa12129382f4f5bb7ef44d372d1c34",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":907199615,
-    "wof:lastmodified":1566594236,
+    "wof:lastmodified":1582312129,
     "wof:name":"Tyrnava",
     "wof:parent_id":1159321529,
     "wof:placetype":"localadmin",

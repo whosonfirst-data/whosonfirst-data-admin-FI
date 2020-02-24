@@ -127,6 +127,9 @@
         "wk:page":"Liperi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f751237c296b3c630364f3280501c34f",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101847021,
-    "wof:lastmodified":1566595217,
+    "wof:lastmodified":1582312181,
     "wof:name":"Liperi",
     "wof:parent_id":907198863,
     "wof:placetype":"locality",

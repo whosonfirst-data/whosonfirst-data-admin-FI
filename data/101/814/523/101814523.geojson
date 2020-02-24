@@ -138,6 +138,9 @@
         "wk:page":"Simo, Finland"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b672109ee46adf4349a4d51edcb1b0f",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":101814523,
-    "wof:lastmodified":1566595252,
+    "wof:lastmodified":1582312187,
     "wof:name":"Simo",
     "wof:parent_id":907199485,
     "wof:placetype":"locality",

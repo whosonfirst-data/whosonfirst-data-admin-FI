@@ -140,6 +140,9 @@
         "wd:id":"Q935869"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2f5917859915fc7cef19a3d6d17022b7",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101911307,
-    "wof:lastmodified":1561830292,
+    "wof:lastmodified":1582312189,
     "wof:name":"Pelkosenniemi",
     "wof:parent_id":907199571,
     "wof:placetype":"locality",

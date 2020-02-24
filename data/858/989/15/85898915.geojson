@@ -119,6 +119,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b346aab77d5bd90a108463685a567667",
     "wof:hierarchy":[
         {
@@ -139,7 +143,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594460,
+    "wof:lastmodified":1582312154,
     "wof:name":"Toukola",
     "wof:parent_id":1108727357,
     "wof:placetype":"neighbourhood",

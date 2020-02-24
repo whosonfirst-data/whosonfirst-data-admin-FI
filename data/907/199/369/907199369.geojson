@@ -112,6 +112,9 @@
         "qs_pg:id":81308
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7d0a4466eb9476e969a66221a19a1a3f",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":907199369,
-    "wof:lastmodified":1566594198,
+    "wof:lastmodified":1582312118,
     "wof:name":"Tervo",
     "wof:parent_id":1159321623,
     "wof:placetype":"localadmin",

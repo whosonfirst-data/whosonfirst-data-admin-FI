@@ -63,6 +63,9 @@
         "qs_pg:id":81346
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b4622a0edf2bd702a60c1e33bd723620",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":907199141,
-    "wof:lastmodified":1566594267,
+    "wof:lastmodified":1582312140,
     "wof:name":"Reisjarvi",
     "wof:parent_id":1159321591,
     "wof:placetype":"localadmin",

@@ -52,6 +52,9 @@
         "qs_pg:id":1017031
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"153044448c54004aba6dfff3c6057628",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101911285,
-    "wof:lastmodified":1566595260,
+    "wof:lastmodified":1582312189,
     "wof:name":"P\u00f6ll\u00e4k\u00e4nsalmi",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

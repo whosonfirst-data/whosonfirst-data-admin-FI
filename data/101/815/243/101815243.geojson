@@ -81,6 +81,9 @@
         "wk:page":"Rajam\u00e4ki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dda148957219f86b16390114b59c32a6",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101815243,
-    "wof:lastmodified":1566595197,
+    "wof:lastmodified":1582312177,
     "wof:name":"Rajam\u00e4ki",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

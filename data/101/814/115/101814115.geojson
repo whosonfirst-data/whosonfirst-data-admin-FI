@@ -137,6 +137,9 @@
         "qs_pg:id":1327520
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1eb4e33a5bd278c73cc71bdf54e82bf",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101814115,
-    "wof:lastmodified":1566595250,
+    "wof:lastmodified":1582312187,
     "wof:name":"Lappaj\u00e4rvi",
     "wof:parent_id":907199255,
     "wof:placetype":"locality",

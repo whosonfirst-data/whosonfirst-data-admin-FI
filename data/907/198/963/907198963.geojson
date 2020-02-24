@@ -154,6 +154,9 @@
         "qs_pg:id":1026802
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c49458c5cea079e53b24bb21ee9af228",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":907198963,
-    "wof:lastmodified":1566593997,
+    "wof:lastmodified":1582312048,
     "wof:name":"Loimaa",
     "wof:parent_id":1159321505,
     "wof:placetype":"localadmin",

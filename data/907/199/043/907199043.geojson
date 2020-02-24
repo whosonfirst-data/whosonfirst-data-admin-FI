@@ -67,6 +67,9 @@
         "qs_pg:id":241617
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bffd96dd0c6ae8010c437f36d614c13d",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":907199043,
-    "wof:lastmodified":1566594235,
+    "wof:lastmodified":1582312129,
     "wof:name":"Maalahti",
     "wof:parent_id":1159321501,
     "wof:placetype":"localadmin",

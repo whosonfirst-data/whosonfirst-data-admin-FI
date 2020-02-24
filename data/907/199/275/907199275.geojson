@@ -64,6 +64,9 @@
         "qs_pg:id":349779
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"75c1492acbfdebbe4b74218e3e12f86d",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199275,
-    "wof:lastmodified":1566594152,
+    "wof:lastmodified":1582312102,
     "wof:name":"Ylojarvi",
     "wof:parent_id":1159321533,
     "wof:placetype":"localadmin",

@@ -176,6 +176,9 @@
         "qs_pg:id":1026786
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff1d712507887083403f745aa8136729",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":907198867,
-    "wof:lastmodified":1566594019,
+    "wof:lastmodified":1582312054,
     "wof:name":"Savonlinna",
     "wof:parent_id":1159321493,
     "wof:placetype":"localadmin",

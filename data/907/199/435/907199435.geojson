@@ -138,6 +138,9 @@
         "qs_pg:id":1030139
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43b928d4ced5c7a40c413628fc23c447",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":907199435,
-    "wof:lastmodified":1566594258,
+    "wof:lastmodified":1582312137,
     "wof:name":"Hailuoto",
     "wof:parent_id":1159321529,
     "wof:placetype":"localadmin",

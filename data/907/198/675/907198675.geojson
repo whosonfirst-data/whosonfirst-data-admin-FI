@@ -64,6 +64,9 @@
         "qs_pg:id":81352
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"798539e633fb4966d532cf089eb58624",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907198675,
-    "wof:lastmodified":1566594001,
+    "wof:lastmodified":1582312049,
     "wof:name":"Pyharanta",
     "wof:parent_id":1159321637,
     "wof:placetype":"localadmin",

@@ -63,6 +63,9 @@
         "qs_pg:id":81417
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1bfa86f8e6441e8cb7e52163899f235d",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":907199175,
-    "wof:lastmodified":1566594181,
+    "wof:lastmodified":1582312112,
     "wof:name":"Lestijarvi",
     "wof:parent_id":1159321595,
     "wof:placetype":"localadmin",

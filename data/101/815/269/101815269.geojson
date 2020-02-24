@@ -75,6 +75,9 @@
         "wk:page":"Perttula"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c280c2a797fd3fe9143a77810161777a",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101815269,
-    "wof:lastmodified":1566595200,
+    "wof:lastmodified":1582312178,
     "wof:name":"Perttula",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

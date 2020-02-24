@@ -136,6 +136,10 @@
         "qs_pg:id":928106
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7b7386cb57d9c26266a99f5e3a4df372",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":101872803,
-    "wof:lastmodified":1566595161,
+    "wof:lastmodified":1582312170,
     "wof:name":"Padasjoki",
     "wof:parent_id":907198715,
     "wof:placetype":"locality",

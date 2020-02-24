@@ -132,6 +132,9 @@
         "qs_pg:id":1192658
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2186fa70ce6105a0250bbd258510ff7a",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101814481,
-    "wof:lastmodified":1566595243,
+    "wof:lastmodified":1582312186,
     "wof:name":"Reisj\u00e4rvi",
     "wof:parent_id":907199141,
     "wof:placetype":"locality",

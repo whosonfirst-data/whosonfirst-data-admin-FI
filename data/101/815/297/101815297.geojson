@@ -182,6 +182,9 @@
         "qs_pg:id":1079085
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"817373118bcf7f3820ec362f564ac65f",
     "wof:hierarchy":[
         {
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":101815297,
-    "wof:lastmodified":1566595210,
+    "wof:lastmodified":1582312180,
     "wof:name":"Kirkkonummi",
     "wof:parent_id":907198511,
     "wof:placetype":"locality",

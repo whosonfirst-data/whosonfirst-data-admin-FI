@@ -112,6 +112,9 @@
         "wk:page":"Vilppula"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ccfefae99e08f1cf242a21295520d886",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101813983,
-    "wof:lastmodified":1566595254,
+    "wof:lastmodified":1582312188,
     "wof:name":"Vilppula",
     "wof:parent_id":907199743,
     "wof:placetype":"locality",

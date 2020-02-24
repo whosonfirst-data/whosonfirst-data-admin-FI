@@ -123,6 +123,9 @@
         "wk:page":"Tervo"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"86c5874f27fe7c5fed9dfe1b88e232eb",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101846991,
-    "wof:lastmodified":1566595176,
+    "wof:lastmodified":1582312174,
     "wof:name":"Tervo",
     "wof:parent_id":907199369,
     "wof:placetype":"locality",

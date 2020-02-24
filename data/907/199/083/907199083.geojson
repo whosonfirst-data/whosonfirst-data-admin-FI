@@ -118,6 +118,9 @@
         "qs_pg:id":81476
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ddd15e198f457de253bdcc3e474260e3",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":907199083,
-    "wof:lastmodified":1566594135,
+    "wof:lastmodified":1582312096,
     "wof:name":"Karstula",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",

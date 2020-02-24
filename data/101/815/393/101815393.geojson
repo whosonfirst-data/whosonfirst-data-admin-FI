@@ -113,6 +113,9 @@
         "qs_pg:id":987305
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7486a4d15040ed615f77bd50233dd033",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101815393,
-    "wof:lastmodified":1566595204,
+    "wof:lastmodified":1582312179,
     "wof:name":"Tuulos",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

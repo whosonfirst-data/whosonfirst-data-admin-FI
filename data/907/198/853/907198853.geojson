@@ -121,6 +121,9 @@
         "qs_pg:id":1026797
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f77a7809a2b95b81334d7bceefbad8f9",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":907198853,
-    "wof:lastmodified":1566594064,
+    "wof:lastmodified":1582312069,
     "wof:name":"Parikkala",
     "wof:parent_id":1159321507,
     "wof:placetype":"localadmin",

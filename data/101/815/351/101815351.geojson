@@ -105,6 +105,9 @@
         "qs_pg:id":1242905
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"918077f172853e43187ea930c285d289",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101815351,
-    "wof:lastmodified":1566595204,
+    "wof:lastmodified":1582312179,
     "wof:name":"Vahto",
     "wof:parent_id":907198981,
     "wof:placetype":"locality",

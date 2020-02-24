@@ -97,6 +97,9 @@
         "wk:page":"Haukivuori"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"95a90058fca7f2c8703fdf539ea41e50",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101814053,
-    "wof:lastmodified":1566595228,
+    "wof:lastmodified":1582312183,
     "wof:name":"Haukivuori",
     "wof:parent_id":907198765,
     "wof:placetype":"locality",

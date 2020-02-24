@@ -140,6 +140,9 @@
         "qs_pg:id":1207070
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0a5aabff61f9e1a0c36e452e6f1575bf",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101814365,
-    "wof:lastmodified":1566595219,
+    "wof:lastmodified":1582312182,
     "wof:name":"Juuka",
     "wof:parent_id":907199389,
     "wof:placetype":"locality",

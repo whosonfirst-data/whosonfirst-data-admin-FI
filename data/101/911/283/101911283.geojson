@@ -54,6 +54,9 @@
         "qs_pg:id":975499
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e073693b959dc841d8706669282da58",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101911283,
-    "wof:lastmodified":1566595260,
+    "wof:lastmodified":1582312189,
     "wof:name":"Naaraj\u00e4rvi",
     "wof:parent_id":907199013,
     "wof:placetype":"locality",

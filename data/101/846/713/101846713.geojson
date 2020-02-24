@@ -64,6 +64,9 @@
         "qs_pg:id":260167
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f71fba29bfe197035390b745093b051a",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101846713,
-    "wof:lastmodified":1566595183,
+    "wof:lastmodified":1582312175,
     "wof:name":"Tolkkinen",
     "wof:parent_id":907198525,
     "wof:placetype":"locality",

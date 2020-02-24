@@ -102,6 +102,9 @@
         "wk:page":"Artj\u00e4rvi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38c8b870ebb14f7910fec1dd8d0d8994",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101815455,
-    "wof:lastmodified":1566595199,
+    "wof:lastmodified":1582312178,
     "wof:name":"Artj\u00e4rvi",
     "wof:parent_id":907198577,
     "wof:placetype":"locality",

@@ -147,6 +147,9 @@
         "wk:page":"Haukipudas"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b3116f91f284627032473c07febd5a9",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101753059,
-    "wof:lastmodified":1566595156,
+    "wof:lastmodified":1582312169,
     "wof:name":"Haukipudas",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

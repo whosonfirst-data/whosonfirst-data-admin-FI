@@ -132,6 +132,9 @@
         "wk:page":"Viiala"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"94640e72b37527e3429a6337cca9db56",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101815485,
-    "wof:lastmodified":1566595196,
+    "wof:lastmodified":1582312177,
     "wof:name":"Viiala",
     "wof:parent_id":907199731,
     "wof:placetype":"locality",

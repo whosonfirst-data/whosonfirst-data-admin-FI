@@ -214,6 +214,9 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1c6e7029f2e0ce63e3d9803fda9c2dcd",
     "wof:hierarchy":[
         {
@@ -234,7 +237,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594464,
+    "wof:lastmodified":1582312155,
     "wof:name":"Suomenlinna",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

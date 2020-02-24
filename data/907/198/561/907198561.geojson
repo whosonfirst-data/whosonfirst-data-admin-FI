@@ -64,6 +64,9 @@
         "qs_pg:id":369918
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dbc82b86c9413c3c215c50f8c3f0d05a",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907198561,
-    "wof:lastmodified":1566593992,
+    "wof:lastmodified":1582312046,
     "wof:name":"Hausjarvi",
     "wof:parent_id":1159321541,
     "wof:placetype":"localadmin",

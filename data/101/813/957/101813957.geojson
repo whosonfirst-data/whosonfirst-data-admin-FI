@@ -63,6 +63,9 @@
         "wd:id":"Q11884428"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"75640a810f76871ca641751b32c10d3d",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101813957,
-    "wof:lastmodified":1566595255,
+    "wof:lastmodified":1582312188,
     "wof:name":"Niinisalo",
     "wof:parent_id":907199299,
     "wof:placetype":"locality",

@@ -64,6 +64,9 @@
         "qs_pg:id":81424
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c2a345f77badc8246f7cf6cba8a2fe2c",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199255,
-    "wof:lastmodified":1566594259,
+    "wof:lastmodified":1582312137,
     "wof:name":"Lappajarvi",
     "wof:parent_id":1159321567,
     "wof:placetype":"localadmin",

@@ -156,6 +156,9 @@
         "qs_pg:id":1327444
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e895fa4379610a55d4497145d029e0b8",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101814005,
-    "wof:lastmodified":1566595248,
+    "wof:lastmodified":1582312187,
     "wof:name":"H\u00e4meenkyr\u00f6",
     "wof:parent_id":907199131,
     "wof:placetype":"locality",

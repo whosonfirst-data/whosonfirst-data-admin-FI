@@ -81,6 +81,9 @@
         "wd:id":"Q1280683"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4c0955bb92c716cefc00159bcc5c7372",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101872861,
-    "wof:lastmodified":1566595161,
+    "wof:lastmodified":1582312170,
     "wof:name":"Kontiom\u00e4ki",
     "wof:parent_id":907199475,
     "wof:placetype":"locality",

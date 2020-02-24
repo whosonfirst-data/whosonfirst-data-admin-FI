@@ -69,6 +69,9 @@
         "wd:id":"Q11870657"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d1fb3f00aebf501a3dc3c1896e895b16",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101815421,
-    "wof:lastmodified":1566595205,
+    "wof:lastmodified":1582312179,
     "wof:name":"Kausala",
     "wof:parent_id":907198619,
     "wof:placetype":"locality",

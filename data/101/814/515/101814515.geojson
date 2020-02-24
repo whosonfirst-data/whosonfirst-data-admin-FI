@@ -165,6 +165,9 @@
         "wk:page":"Salla"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa9ad9f61d9ad0b8945425f09d3da242",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":101814515,
-    "wof:lastmodified":1566595252,
+    "wof:lastmodified":1582312187,
     "wof:name":"Salla",
     "wof:parent_id":907199555,
     "wof:placetype":"locality",

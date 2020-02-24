@@ -102,6 +102,9 @@
         "wk:page":"Piikki\u00f6"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"095783d613270dd54f4fecf71bcbdb0f",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101815367,
-    "wof:lastmodified":1566595204,
+    "wof:lastmodified":1582312179,
     "wof:name":"Piikki\u00f6",
     "wof:parent_id":907198993,
     "wof:placetype":"locality",

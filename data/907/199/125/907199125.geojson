@@ -133,6 +133,9 @@
         "qs_pg:id":235231
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ece1f81a4aad37685af86d3c45fdc7b5",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":907199125,
-    "wof:lastmodified":1566594273,
+    "wof:lastmodified":1582312143,
     "wof:name":"Parkano",
     "wof:parent_id":1159321533,
     "wof:placetype":"localadmin",

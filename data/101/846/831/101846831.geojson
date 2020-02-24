@@ -93,6 +93,9 @@
         "wk:page":"Kodisjoki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"89c0dbd09e26d3ab986b31f8d1e76d62",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101846831,
-    "wof:lastmodified":1566595190,
+    "wof:lastmodified":1582312176,
     "wof:name":"Kodisjoki",
     "wof:parent_id":907198665,
     "wof:placetype":"locality",

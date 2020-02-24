@@ -204,6 +204,9 @@
         "wk:page":"Kitee"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8dba098e0625010e21b118b1ab3f9b1e",
     "wof:hierarchy":[
         {
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":101814385,
-    "wof:lastmodified":1566595235,
+    "wof:lastmodified":1582312184,
     "wof:name":"Kitee",
     "wof:parent_id":907198727,
     "wof:placetype":"locality",

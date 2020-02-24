@@ -127,6 +127,9 @@
         "wk:page":"Karvia"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"03fff32b3dde5a74987d6a6c81a03596",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101846819,
-    "wof:lastmodified":1566595179,
+    "wof:lastmodified":1582312174,
     "wof:name":"Karvia",
     "wof:parent_id":907199119,
     "wof:placetype":"locality",

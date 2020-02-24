@@ -104,6 +104,9 @@
         "wd:id":"Q376203"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"44501d528f1141087d07186958812b13",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1527270602,
+    "wof:lastmodified":1582312154,
     "wof:name":"Vartiokyl\u00e4",
     "wof:parent_id":890537287,
     "wof:placetype":"neighbourhood",

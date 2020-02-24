@@ -131,6 +131,9 @@
         "wd:id":"Q6167"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7f185540d1e78060409b353966cbe47a",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101814109,
-    "wof:lastmodified":1566595238,
+    "wof:lastmodified":1582312185,
     "wof:name":"Teuva",
     "wof:parent_id":907199665,
     "wof:placetype":"locality",

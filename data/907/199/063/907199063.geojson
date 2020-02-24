@@ -169,6 +169,9 @@
         "qs_pg:id":834830
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a08e7c35eec781acd88f738ad9f87dd2",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":907199063,
-    "wof:lastmodified":1566594167,
+    "wof:lastmodified":1582312107,
     "wof:name":"Valkeakoski",
     "wof:parent_id":1159321621,
     "wof:placetype":"localadmin",

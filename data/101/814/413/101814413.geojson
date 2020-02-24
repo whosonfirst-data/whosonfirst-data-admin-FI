@@ -129,6 +129,9 @@
         "wk:page":"Kiiminki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b3d1e8a665ddbd396948e8f86334316",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101814413,
-    "wof:lastmodified":1566595224,
+    "wof:lastmodified":1582312183,
     "wof:name":"Kiiminki",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

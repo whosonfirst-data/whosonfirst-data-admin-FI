@@ -64,6 +64,9 @@
         "qs_pg:id":31715
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d4d9c68b30590b7605edf87446131417",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907198805,
-    "wof:lastmodified":1566594022,
+    "wof:lastmodified":1582312056,
     "wof:name":"Rautjarvi",
     "wof:parent_id":1159321507,
     "wof:placetype":"localadmin",

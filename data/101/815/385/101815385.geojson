@@ -105,6 +105,9 @@
         "wk:page":"Dragsfj\u00e4rd"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d01ddcfe81814651ab50cf95cbee6eb",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101815385,
-    "wof:lastmodified":1566595202,
+    "wof:lastmodified":1582312178,
     "wof:name":"Dragsfj\u00e4rd",
     "wof:parent_id":907199735,
     "wof:placetype":"locality",

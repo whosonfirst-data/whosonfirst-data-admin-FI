@@ -137,6 +137,9 @@
         "qs_pg:id":1192667
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae9d080a1954ce4f8e882b6f5050bf51",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101911295,
-    "wof:lastmodified":1566595260,
+    "wof:lastmodified":1582312189,
     "wof:name":"Siltakyl\u00e4",
     "wof:parent_id":907198651,
     "wof:placetype":"locality",

@@ -78,6 +78,9 @@
         "wd:id":"Q4357913"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d28449a63e2e30526242de0a9c57901",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101814513,
-    "wof:lastmodified":1566595251,
+    "wof:lastmodified":1582312187,
     "wof:name":"T\u00f6rm\u00e4nen",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

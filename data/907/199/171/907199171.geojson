@@ -136,6 +136,9 @@
         "qs_pg:id":1026781
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"79a4ad2aad0badb207b7274bb74797b9",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":907199171,
-    "wof:lastmodified":1566594278,
+    "wof:lastmodified":1582312144,
     "wof:name":"Virrat",
     "wof:parent_id":1159321485,
     "wof:placetype":"localadmin",

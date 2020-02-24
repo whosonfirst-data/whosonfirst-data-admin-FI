@@ -128,6 +128,9 @@
         "wd:id":"Q1017104"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3a082e3557cc10c8414ced3db0ef5643",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101815349,
-    "wof:lastmodified":1566595202,
+    "wof:lastmodified":1582312178,
     "wof:name":"Nousiainen",
     "wof:parent_id":907198955,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
         "qs_pg:id":1165831
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b305cd07fec701d1042ea73e7791daf6",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108727069,
-    "wof:lastmodified":1497308642,
+    "wof:lastmodified":1582312164,
     "wof:name":"Kulosaari",
     "wof:parent_id":1108727349,
     "wof:placetype":"neighbourhood",

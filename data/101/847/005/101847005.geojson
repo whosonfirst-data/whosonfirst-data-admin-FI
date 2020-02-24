@@ -120,6 +120,9 @@
         "qs_pg:id":1192671
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"971e59088be3841b75ef19f220d51e9a",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101847005,
-    "wof:lastmodified":1566595218,
+    "wof:lastmodified":1582312181,
     "wof:name":"Sonkaj\u00e4rvi",
     "wof:parent_id":907199331,
     "wof:placetype":"locality",

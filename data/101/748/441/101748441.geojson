@@ -392,6 +392,9 @@
         "wk:page":"Joensuu"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"44b5b92017026d3d8dcee3d7b79fdc2a",
     "wof:hierarchy":[
         {
@@ -406,7 +409,7 @@
         }
     ],
     "wof:id":101748441,
-    "wof:lastmodified":1566595168,
+    "wof:lastmodified":1582312171,
     "wof:name":"Joensuu",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

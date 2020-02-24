@@ -137,6 +137,9 @@
         "wd:id":"Q999226"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"71a84b3e50733206b5ca42e590d1d82f",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101815231,
-    "wof:lastmodified":1566595207,
+    "wof:lastmodified":1582312179,
     "wof:name":"Myrskyl\u00e4",
     "wof:parent_id":907198681,
     "wof:placetype":"locality",

@@ -72,6 +72,9 @@
         "wd:id":"Q11900804"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ac5c598b5d57897d998cba452513356f",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101815289,
-    "wof:lastmodified":1566595197,
+    "wof:lastmodified":1582312177,
     "wof:name":"Veikkola",
     "wof:parent_id":907198511,
     "wof:placetype":"locality",

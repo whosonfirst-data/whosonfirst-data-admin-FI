@@ -105,6 +105,9 @@
         "wk:page":"Karinainen"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b40e4e0f253697c297a0baf368a7b83e",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101815337,
-    "wof:lastmodified":1566595195,
+    "wof:lastmodified":1582312177,
     "wof:name":"Karinainen",
     "wof:parent_id":907198921,
     "wof:placetype":"locality",

@@ -136,6 +136,9 @@
         "qs_pg:id":1317349
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db71a28779ca07b04ca9d8e17bde6f08",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":907199571,
-    "wof:lastmodified":1566594262,
+    "wof:lastmodified":1582312139,
     "wof:name":"Pelkosenniemi",
     "wof:parent_id":1159321535,
     "wof:placetype":"localadmin",

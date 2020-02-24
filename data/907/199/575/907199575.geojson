@@ -148,6 +148,9 @@
         "qs_pg:id":1207053
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f98adbf5f54e45167e085627afb3c45d",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":907199575,
-    "wof:lastmodified":1566594178,
+    "wof:lastmodified":1582312111,
     "wof:name":"Utsjoki",
     "wof:parent_id":1159321531,
     "wof:placetype":"localadmin",

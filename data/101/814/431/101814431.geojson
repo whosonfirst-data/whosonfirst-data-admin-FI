@@ -102,6 +102,9 @@
         "qs_pg:id":1139143
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9fe797fef1372b4958b18067e2df3934",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101814431,
-    "wof:lastmodified":1566595230,
+    "wof:lastmodified":1582312184,
     "wof:name":"Ruukki",
     "wof:parent_id":907199705,
     "wof:placetype":"locality",

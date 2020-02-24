@@ -69,6 +69,9 @@
         "wk:page":"Turenki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"409973bc363650097ea0473e12526d41",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101815397,
-    "wof:lastmodified":1566595195,
+    "wof:lastmodified":1582312177,
     "wof:name":"Turenki",
     "wof:parent_id":907199113,
     "wof:placetype":"locality",

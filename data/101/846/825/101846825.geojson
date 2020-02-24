@@ -83,6 +83,9 @@
         "wd:id":"Q7314172"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"822e5ade9fc38dc208b893b84b27f1f1",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101846825,
-    "wof:lastmodified":1566595190,
+    "wof:lastmodified":1582312176,
     "wof:name":"Reposaari",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

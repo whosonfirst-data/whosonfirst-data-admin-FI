@@ -133,6 +133,9 @@
         "qs_pg:id":953614
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a2f9fbc51163d656d8aa9696fdc1b6c0",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":907199339,
-    "wof:lastmodified":1566594112,
+    "wof:lastmodified":1582312088,
     "wof:name":"Juankoski",
     "wof:parent_id":1159321597,
     "wof:placetype":"localadmin",

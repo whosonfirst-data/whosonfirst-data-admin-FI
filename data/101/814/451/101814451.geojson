@@ -153,6 +153,9 @@
         "qs_pg:id":953657
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c7df512725710f4af73ab645c84b8aa2",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101814451,
-    "wof:lastmodified":1566595246,
+    "wof:lastmodified":1582312186,
     "wof:name":"Kalajoki",
     "wof:parent_id":907199617,
     "wof:placetype":"locality",

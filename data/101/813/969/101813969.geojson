@@ -108,6 +108,9 @@
         "wk:page":"Noormarkku"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cee01d94be76124d505a0b63b543e489",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101813969,
-    "wof:lastmodified":1566595255,
+    "wof:lastmodified":1582312188,
     "wof:name":"Noormarkku",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

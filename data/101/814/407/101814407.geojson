@@ -105,6 +105,9 @@
         "qs_pg:id":905135
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"942ffb33cb8162c222712bc17e6067b2",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101814407,
-    "wof:lastmodified":1566595231,
+    "wof:lastmodified":1582312184,
     "wof:name":"Kuivaniemi",
     "wof:parent_id":907199699,
     "wof:placetype":"locality",

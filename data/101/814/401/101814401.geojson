@@ -219,6 +219,9 @@
         "wk:page":"Kajaani"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b04bcc136b40e3f3e5091032dd65b2e",
     "wof:hierarchy":[
         {
@@ -233,7 +236,7 @@
         }
     ],
     "wof:id":101814401,
-    "wof:lastmodified":1566595227,
+    "wof:lastmodified":1582312183,
     "wof:name":"Kajaani",
     "wof:parent_id":907199455,
     "wof:placetype":"locality",

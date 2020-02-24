@@ -129,6 +129,9 @@
         "wk:page":"Merikarvia"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0fc1f6112d7fe339a9a98f40cf9f8f6a",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101813955,
-    "wof:lastmodified":1566595254,
+    "wof:lastmodified":1582312188,
     "wof:name":"Merikarvia",
     "wof:parent_id":907198797,
     "wof:placetype":"locality",

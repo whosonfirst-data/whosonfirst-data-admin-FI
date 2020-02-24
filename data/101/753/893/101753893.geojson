@@ -186,6 +186,9 @@
         "wk:page":"Tuusula"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d5237f7b88062fa628b62f1b7d781699",
     "wof:hierarchy":[
         {
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":101753893,
-    "wof:lastmodified":1566595155,
+    "wof:lastmodified":1582312169,
     "wof:name":"Tuusula",
     "wof:parent_id":907198631,
     "wof:placetype":"locality",

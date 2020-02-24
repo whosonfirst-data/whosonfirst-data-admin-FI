@@ -196,6 +196,9 @@
         "qs_pg:id":1151726
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2942c37791a25aa8b0dae0683200cba2",
     "wof:hierarchy":[
         {
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":907199455,
-    "wof:lastmodified":1566594162,
+    "wof:lastmodified":1582312106,
     "wof:name":"Kajaani",
     "wof:parent_id":1159321487,
     "wof:placetype":"localadmin",

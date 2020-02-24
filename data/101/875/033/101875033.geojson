@@ -73,6 +73,9 @@
         "wk:page":"Lautiosaari"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f386cea8282c860a24286380915262b1",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101875033,
-    "wof:lastmodified":1566595166,
+    "wof:lastmodified":1582312171,
     "wof:name":"Lautiosaari",
     "wof:parent_id":907199569,
     "wof:placetype":"locality",

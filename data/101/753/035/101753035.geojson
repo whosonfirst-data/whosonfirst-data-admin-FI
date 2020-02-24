@@ -191,6 +191,9 @@
         "qs_pg:id":1060001
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"857a1beff5164f2e7b418969834a8a74",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":101753035,
-    "wof:lastmodified":1566595156,
+    "wof:lastmodified":1582312169,
     "wof:name":"Raisio",
     "wof:parent_id":907198957,
     "wof:placetype":"locality",

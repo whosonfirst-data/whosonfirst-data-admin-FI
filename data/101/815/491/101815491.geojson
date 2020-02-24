@@ -146,6 +146,9 @@
         "qs_pg:id":992418
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9e8eb21f77ba99f14e33977f931a14f8",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101815491,
-    "wof:lastmodified":1566595201,
+    "wof:lastmodified":1582312178,
     "wof:name":"Urjala",
     "wof:parent_id":907198841,
     "wof:placetype":"locality",

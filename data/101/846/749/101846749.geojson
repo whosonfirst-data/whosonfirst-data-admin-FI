@@ -103,6 +103,9 @@
         "wk:page":"Kiikala"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b4c187a96d68945b0e72ec7d83d4ef2",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101846749,
-    "wof:lastmodified":1566595184,
+    "wof:lastmodified":1582312175,
     "wof:name":"Kiikala",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

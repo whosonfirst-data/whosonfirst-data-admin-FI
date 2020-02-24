@@ -162,6 +162,9 @@
         "wk:page":"Haapavesi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62001a6fda571082e1a72aee16c466b3",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":101814461,
-    "wof:lastmodified":1566595248,
+    "wof:lastmodified":1582312187,
     "wof:name":"Haapavesi",
     "wof:parent_id":907199471,
     "wof:placetype":"locality",

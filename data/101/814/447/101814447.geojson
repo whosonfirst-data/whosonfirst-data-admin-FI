@@ -125,6 +125,9 @@
         "wd:id":"Q1009118"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"51600e361a49f39b0f21969575542287",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101814447,
-    "wof:lastmodified":1566595222,
+    "wof:lastmodified":1582312182,
     "wof:name":"Merij\u00e4rvi",
     "wof:parent_id":907199489,
     "wof:placetype":"locality",

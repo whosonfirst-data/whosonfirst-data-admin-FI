@@ -84,6 +84,9 @@
         "wd:id":"Q3444921"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e2223bbdee807a0bb1fedfdaf7382d31",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101814429,
-    "wof:lastmodified":1566595244,
+    "wof:lastmodified":1582312186,
     "wof:name":"Pattijoki",
     "wof:parent_id":907199449,
     "wof:placetype":"locality",

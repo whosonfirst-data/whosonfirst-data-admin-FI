@@ -170,6 +170,9 @@
         "wk:page":"Alavus"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"82386bc198f08aecb4b807e2b3ff2d33",
     "wof:hierarchy":[
         {
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":101814103,
-    "wof:lastmodified":1566595219,
+    "wof:lastmodified":1582312182,
     "wof:name":"Alavus",
     "wof:parent_id":907199157,
     "wof:placetype":"locality",

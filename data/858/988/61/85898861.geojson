@@ -86,6 +86,9 @@
         "wk:page":"Malmi, Helsinki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2af9a922db5c5b09e2e2ccc25f590eec",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1511998885,
+    "wof:lastmodified":1582312154,
     "wof:name":"Malmi",
     "wof:parent_id":890537239,
     "wof:placetype":"neighbourhood",

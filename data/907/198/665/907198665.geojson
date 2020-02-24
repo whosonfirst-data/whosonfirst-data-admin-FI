@@ -124,6 +124,9 @@
         "qs_pg:id":845224
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c59eff77f6aee755af80449c7bce02d0",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":907198665,
-    "wof:lastmodified":1566594066,
+    "wof:lastmodified":1582312070,
     "wof:name":"Rauma",
     "wof:parent_id":1159321607,
     "wof:placetype":"localadmin",

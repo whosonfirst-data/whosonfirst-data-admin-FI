@@ -59,6 +59,9 @@
         "qs_pg:id":1319835
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"067f0ccc280fa2d8408b02b937c1ef3d",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101814501,
-    "wof:lastmodified":1566595238,
+    "wof:lastmodified":1582312185,
     "wof:name":"Sattanen",
     "wof:parent_id":907199561,
     "wof:placetype":"locality",

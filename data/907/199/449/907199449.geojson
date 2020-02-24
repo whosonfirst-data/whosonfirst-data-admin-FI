@@ -151,6 +151,9 @@
         "qs_pg:id":1151713
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"254734ece960c98eb5a2c407336a71d0",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":907199449,
-    "wof:lastmodified":1566594122,
+    "wof:lastmodified":1582312091,
     "wof:name":"Raahe",
     "wof:parent_id":1159321631,
     "wof:placetype":"localadmin",

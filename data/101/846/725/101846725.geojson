@@ -99,6 +99,9 @@
         "wk:page":"Mellil\u00e4"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1755c056b48d964649397cdfedc9f886",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101846725,
-    "wof:lastmodified":1566595183,
+    "wof:lastmodified":1582312175,
     "wof:name":"Mellil\u00e4",
     "wof:parent_id":907198963,
     "wof:placetype":"locality",

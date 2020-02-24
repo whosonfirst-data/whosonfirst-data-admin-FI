@@ -103,6 +103,9 @@
         "wk:page":"Vampula"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"91f00bceb70d8ca68a2cb959fb6e8387",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101815469,
-    "wof:lastmodified":1566595208,
+    "wof:lastmodified":1582312179,
     "wof:name":"Vampula",
     "wof:parent_id":907198933,
     "wof:placetype":"locality",

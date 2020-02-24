@@ -128,6 +128,9 @@
         "wd:id":"Q985326"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cb1613ec78c0d51432eeeab236514406",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101847041,
-    "wof:lastmodified":1566595213,
+    "wof:lastmodified":1582312180,
     "wof:name":"Ristij\u00e4rvi",
     "wof:parent_id":907199527,
     "wof:placetype":"locality",

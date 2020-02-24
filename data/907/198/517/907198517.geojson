@@ -303,6 +303,9 @@
         "qs_pg:id":206202
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1461a8ee95fb585bd9b4b976f694a19d",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
         }
     ],
     "wof:id":907198517,
-    "wof:lastmodified":1566594023,
+    "wof:lastmodified":1582312056,
     "wof:name":"Espoo",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

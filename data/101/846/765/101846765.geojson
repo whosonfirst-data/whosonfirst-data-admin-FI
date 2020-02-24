@@ -89,6 +89,9 @@
         "wd:id":"Q2673718"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5fc44175ebc520364204a4c77b08e840",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101846765,
-    "wof:lastmodified":1566595177,
+    "wof:lastmodified":1582312174,
     "wof:name":"Parola",
     "wof:parent_id":907199219,
     "wof:placetype":"locality",

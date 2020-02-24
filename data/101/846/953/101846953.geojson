@@ -78,6 +78,9 @@
         "wk:page":"Purmo"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2311d0c62529543bc6b05678f1a66f9f",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101846953,
-    "wof:lastmodified":1566595176,
+    "wof:lastmodified":1582312174,
     "wof:name":"Purmo",
     "wof:parent_id":907199161,
     "wof:placetype":"locality",

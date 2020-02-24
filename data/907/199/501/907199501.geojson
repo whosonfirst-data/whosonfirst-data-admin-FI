@@ -150,6 +150,9 @@
         "qs_pg:id":274920
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"834e6d358afc339f5777ecf52e775708",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":907199501,
-    "wof:lastmodified":1566594191,
+    "wof:lastmodified":1582312115,
     "wof:name":"Suomussalmi",
     "wof:parent_id":1159321549,
     "wof:placetype":"localadmin",

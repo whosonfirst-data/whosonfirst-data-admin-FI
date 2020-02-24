@@ -54,6 +54,9 @@
         "qs_pg:id":382084
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"525c5159492aca8a469ff2436af70bd5",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101846987,
-    "wof:lastmodified":1566595192,
+    "wof:lastmodified":1582312176,
     "wof:name":"Toivala",
     "wof:parent_id":907199425,
     "wof:placetype":"locality",

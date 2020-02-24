@@ -149,6 +149,9 @@
         "wd:id":"Q1569280"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"246606d52a4ec85eb814e40262f46e78",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561830292,
+    "wof:lastmodified":1582312189,
     "wof:name":"Hailuoto",
     "wof:parent_id":907199435,
     "wof:placetype":"locality",

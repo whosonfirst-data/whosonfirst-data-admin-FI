@@ -134,6 +134,9 @@
         "qs_pg:id":1139183
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f3010118862498e7becba91e98166bb8",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101845569,
-    "wof:lastmodified":1566595157,
+    "wof:lastmodified":1582312169,
     "wof:name":"Taivalkoski",
     "wof:parent_id":907199503,
     "wof:placetype":"locality",

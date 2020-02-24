@@ -399,6 +399,9 @@
         "qs_pg:id":1233702
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e1cc6a048360b487335694d09918a854",
     "wof:hierarchy":[
         {
@@ -413,7 +416,7 @@
         }
     ],
     "wof:id":101748437,
-    "wof:lastmodified":1566595169,
+    "wof:lastmodified":1582312172,
     "wof:name":"Vaasa",
     "wof:parent_id":907199149,
     "wof:placetype":"locality",

@@ -173,6 +173,9 @@
         "qs_pg:id":1029965
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4ba38974341e470194f6adf4f912b8c0",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":907199707,
-    "wof:lastmodified":1566594119,
+    "wof:lastmodified":1582312090,
     "wof:name":"Varkaus",
     "wof:parent_id":1159321629,
     "wof:placetype":"localadmin",

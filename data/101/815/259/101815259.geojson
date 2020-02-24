@@ -81,6 +81,9 @@
         "wd:id":"Q689522"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"54a426db113389bca8ac420e8275bb36",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101815259,
-    "wof:lastmodified":1566595198,
+    "wof:lastmodified":1582312177,
     "wof:name":"Pusula",
     "wof:parent_id":907198655,
     "wof:placetype":"locality",

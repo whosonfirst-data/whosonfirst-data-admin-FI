@@ -133,6 +133,9 @@
         "qs_pg:id":369879
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea380e4205c797e7ccbe4d93205a6c90",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":907199393,
-    "wof:lastmodified":1566594207,
+    "wof:lastmodified":1582312120,
     "wof:name":"Orivesi",
     "wof:parent_id":1159321521,
     "wof:placetype":"localadmin",

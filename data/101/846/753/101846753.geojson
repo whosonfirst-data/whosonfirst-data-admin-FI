@@ -64,6 +64,9 @@
         "qs_pg:id":895165
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cf2b3da502ed4f1bf5ad333836a59789",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101846753,
-    "wof:lastmodified":1566595177,
+    "wof:lastmodified":1582312174,
     "wof:name":"Teijo",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

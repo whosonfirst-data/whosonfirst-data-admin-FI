@@ -123,6 +123,9 @@
         "wk:page":"Korsn\u00e4s"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f83dca03a6b470313d629e911c8e0d23",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101814269,
-    "wof:lastmodified":1566595231,
+    "wof:lastmodified":1582312184,
     "wof:name":"Korsn\u00e4s",
     "wof:parent_id":907199033,
     "wof:placetype":"locality",

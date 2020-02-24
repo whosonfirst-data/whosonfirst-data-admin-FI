@@ -112,6 +112,9 @@
         "qs_pg:id":202549
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3828bb120649a3e9a2626fbeef76941c",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":907199347,
-    "wof:lastmodified":1566594181,
+    "wof:lastmodified":1582312112,
     "wof:name":"Sievi",
     "wof:parent_id":1159321569,
     "wof:placetype":"localadmin",

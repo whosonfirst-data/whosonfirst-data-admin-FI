@@ -114,6 +114,9 @@
         "wk:page":"Rantsila"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bbb98f64c7d54748a3764edad9db2a85",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101847077,
-    "wof:lastmodified":1566595213,
+    "wof:lastmodified":1582312180,
     "wof:name":"Rantsila",
     "wof:parent_id":907199755,
     "wof:placetype":"locality",

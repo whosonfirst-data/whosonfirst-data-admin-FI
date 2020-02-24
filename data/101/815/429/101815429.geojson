@@ -77,6 +77,9 @@
         "wd:id":"Q999878"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"234e6b4bc7eb57f43806f654246b250b",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101815429,
-    "wof:lastmodified":1566595206,
+    "wof:lastmodified":1582312179,
     "wof:name":"Sippola",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

@@ -173,6 +173,9 @@
         "wd:id":"Q742854"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c4d17a0c837a859e17263769c5bed7ad",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":101814195,
-    "wof:lastmodified":1566595220,
+    "wof:lastmodified":1582312182,
     "wof:name":"Keuruu",
     "wof:parent_id":907199179,
     "wof:placetype":"locality",

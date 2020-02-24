@@ -121,6 +121,9 @@
         "qs_pg:id":81488
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b71eced799cf46734be407cbcc90483",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":907199313,
-    "wof:lastmodified":1566594183,
+    "wof:lastmodified":1582312113,
     "wof:name":"Kaavi",
     "wof:parent_id":1159321579,
     "wof:placetype":"localadmin",

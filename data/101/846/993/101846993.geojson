@@ -126,6 +126,9 @@
         "wk:page":"Vesanto"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fefcc6fe75cdc6b8e20578cebcbadbf4",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":101846993,
-    "wof:lastmodified":1566595186,
+    "wof:lastmodified":1582312175,
     "wof:name":"Vesanto",
     "wof:parent_id":907199263,
     "wof:placetype":"locality",

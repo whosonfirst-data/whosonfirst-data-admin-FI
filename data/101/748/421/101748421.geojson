@@ -504,6 +504,10 @@
         "wk:page":"Turku"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"259ddca4d0d8e5c4238fbf56d17ac210",
     "wof:hierarchy":[
         {
@@ -518,7 +522,7 @@
         }
     ],
     "wof:id":101748421,
-    "wof:lastmodified":1566595170,
+    "wof:lastmodified":1582312172,
     "wof:name":"Turku",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

@@ -123,6 +123,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"eab00fd0f747e514f80f36b980afbba9",
     "wof:hierarchy":[
         {
@@ -143,7 +147,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594459,
+    "wof:lastmodified":1582312154,
     "wof:name":"Vallila",
     "wof:parent_id":1108727355,
     "wof:placetype":"neighbourhood",

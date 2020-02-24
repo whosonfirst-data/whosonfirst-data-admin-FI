@@ -66,6 +66,9 @@
         "qs_pg:id":81353
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"549ea44913687ef4aac6acc4e8e8f1e0",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":907199491,
-    "wof:lastmodified":1566594171,
+    "wof:lastmodified":1582312108,
     "wof:name":"Pyhanta",
     "wof:parent_id":1159321571,
     "wof:placetype":"localadmin",

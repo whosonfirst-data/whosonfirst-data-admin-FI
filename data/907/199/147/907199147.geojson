@@ -63,6 +63,9 @@
         "qs_pg:id":81454
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0e38c7f31204343f3887028eb2907a05",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":907199147,
-    "wof:lastmodified":1566594276,
+    "wof:lastmodified":1582312144,
     "wof:name":"Kivijarvi",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",

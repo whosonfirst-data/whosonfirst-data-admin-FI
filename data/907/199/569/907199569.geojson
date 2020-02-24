@@ -136,6 +136,9 @@
         "qs_pg:id":260236
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8e8f509d161b27267fe881b4f8f6e45e",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":907199569,
-    "wof:lastmodified":1566594096,
+    "wof:lastmodified":1582312083,
     "wof:name":"Keminmaa",
     "wof:parent_id":1159321559,
     "wof:placetype":"localadmin",

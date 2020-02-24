@@ -132,6 +132,9 @@
         "wk:page":"Pyh\u00e4nt\u00e4"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"feb5b25ec133ece46d5c3ac5dd198dfe",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101847089,
-    "wof:lastmodified":1566595216,
+    "wof:lastmodified":1582312181,
     "wof:name":"Pyh\u00e4nt\u00e4",
     "wof:parent_id":907199491,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "qs_pg:id":1151720
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"27bfe528dff8f208dbe9812464bfa549",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":907198797,
-    "wof:lastmodified":1566593983,
+    "wof:lastmodified":1582312043,
     "wof:name":"Merikarvia",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

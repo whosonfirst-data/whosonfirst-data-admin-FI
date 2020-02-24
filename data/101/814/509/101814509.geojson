@@ -68,6 +68,9 @@
         "wd:id":"Q11893597"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e113ac2e0053e87aaea891a24aa2bee1",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101814509,
-    "wof:lastmodified":1566595240,
+    "wof:lastmodified":1582312185,
     "wof:name":"Sinett\u00e4",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

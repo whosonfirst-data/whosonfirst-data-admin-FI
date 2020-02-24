@@ -64,6 +64,9 @@
         "qs_pg:id":1026798
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"434565185fde3a3ec6e19792ef8b093f",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907198557,
-    "wof:lastmodified":1566593995,
+    "wof:lastmodified":1582312048,
     "wof:name":"Mantsala",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

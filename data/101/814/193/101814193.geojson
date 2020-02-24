@@ -66,6 +66,9 @@
         "wd:id":"Q11875744"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4458d38267b8907d747d2856c68c0f11",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101814193,
-    "wof:lastmodified":1566595221,
+    "wof:lastmodified":1582312182,
     "wof:name":"Lievestuore",
     "wof:parent_id":907199203,
     "wof:placetype":"locality",

@@ -202,6 +202,9 @@
         "qs_pg:id":81445
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f7dfa6ef0361cea4cac7eb4935b151f6",
     "wof:hierarchy":[
         {
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":907198969,
-    "wof:lastmodified":1566594037,
+    "wof:lastmodified":1582312061,
     "wof:name":"Kouvola",
     "wof:parent_id":1159321557,
     "wof:placetype":"localadmin",

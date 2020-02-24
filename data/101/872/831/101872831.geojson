@@ -126,6 +126,9 @@
         "wd:id":"Q687211"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8b7a511207e15666ba64fde1f17e54db",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":101872831,
-    "wof:lastmodified":1566595165,
+    "wof:lastmodified":1582312171,
     "wof:name":"Konnevesi",
     "wof:parent_id":907199269,
     "wof:placetype":"locality",

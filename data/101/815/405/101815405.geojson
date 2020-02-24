@@ -80,6 +80,9 @@
         "wk:page":"Tervakoski"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"17b553a270270f0993c9d4b881b59dc5",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101815405,
-    "wof:lastmodified":1566595208,
+    "wof:lastmodified":1582312180,
     "wof:name":"Tervakoski",
     "wof:parent_id":907199113,
     "wof:placetype":"locality",

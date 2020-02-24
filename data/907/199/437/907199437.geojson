@@ -154,6 +154,9 @@
         "qs_pg:id":474375
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"572dc1c56b2e8ef73df71f7c63299e92",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":907199437,
-    "wof:lastmodified":1566594155,
+    "wof:lastmodified":1582312103,
     "wof:name":"Ylivieska",
     "wof:parent_id":1159321569,
     "wof:placetype":"localadmin",

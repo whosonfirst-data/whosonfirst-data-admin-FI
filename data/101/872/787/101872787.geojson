@@ -143,6 +143,10 @@
         "qs_pg:id":963887
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ef5ca866c8e7ab82f3faf171fb37c1d",
     "wof:hierarchy":[
         {
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":101872787,
-    "wof:lastmodified":1566595166,
+    "wof:lastmodified":1582312171,
     "wof:name":"Askainen",
     "wof:parent_id":907198919,
     "wof:placetype":"locality",

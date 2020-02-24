@@ -298,6 +298,9 @@
         "qs_pg:id":33489
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e22713d1e9b9647b83b316e2cabc06e7",
     "wof:hierarchy":[
         {
@@ -311,7 +314,7 @@
         }
     ],
     "wof:id":907199459,
-    "wof:lastmodified":1566594255,
+    "wof:lastmodified":1582312136,
     "wof:name":"Oulu",
     "wof:parent_id":1159321529,
     "wof:placetype":"localadmin",

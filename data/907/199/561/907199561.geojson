@@ -64,6 +64,9 @@
         "qs_pg:id":81320
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"07350f1db9bbc1d25e77088b57635df4",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199561,
-    "wof:lastmodified":1566594109,
+    "wof:lastmodified":1582312087,
     "wof:name":"Sodankyla",
     "wof:parent_id":1159321531,
     "wof:placetype":"localadmin",

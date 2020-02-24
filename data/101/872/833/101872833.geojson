@@ -77,6 +77,10 @@
         "wd:id":"Q5481857"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"eafce34026f321b137fe24751a43190e",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101872833,
-    "wof:lastmodified":1566595162,
+    "wof:lastmodified":1582312170,
     "wof:name":"Lepp\u00e4vesi",
     "wof:parent_id":907199203,
     "wof:placetype":"locality",

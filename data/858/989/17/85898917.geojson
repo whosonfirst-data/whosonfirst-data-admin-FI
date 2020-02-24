@@ -93,6 +93,10 @@
         "wd:id":"Q11898461"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"dc3dd5274735d3599dfa521a4363b2e8",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594459,
+    "wof:lastmodified":1582312154,
     "wof:name":"Tuira",
     "wof:parent_id":101748443,
     "wof:placetype":"neighbourhood",

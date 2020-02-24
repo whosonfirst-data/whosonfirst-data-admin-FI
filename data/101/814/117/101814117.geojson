@@ -132,6 +132,9 @@
         "wd:id":"Q6171"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6854541b54a54af38d4effd4956b8501",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101814117,
-    "wof:lastmodified":1566595237,
+    "wof:lastmodified":1582312184,
     "wof:name":"Vimpeli",
     "wof:parent_id":907199273,
     "wof:placetype":"locality",

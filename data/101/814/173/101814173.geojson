@@ -105,6 +105,9 @@
         "wk:page":"Pylk\u00f6nm\u00e4ki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b012c88aa85912f940d7e569b6439d50",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101814173,
-    "wof:lastmodified":1566595233,
+    "wof:lastmodified":1582312184,
     "wof:name":"Pylk\u00f6nm\u00e4ki",
     "wof:parent_id":907199213,
     "wof:placetype":"locality",

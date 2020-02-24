@@ -97,6 +97,9 @@
         "wd:id":"Q1788124"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc377677cfaa9b414cee34bc1b41584e",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101839169,
-    "wof:lastmodified":1566595257,
+    "wof:lastmodified":1582312188,
     "wof:name":"Summa",
     "wof:parent_id":907199723,
     "wof:placetype":"locality",

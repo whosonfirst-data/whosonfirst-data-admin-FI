@@ -127,6 +127,9 @@
         "qs_pg:id":1327543
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba467492b1b3dd06d1391c232b27637a",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101846939,
-    "wof:lastmodified":1566595177,
+    "wof:lastmodified":1582312174,
     "wof:name":"Maalahti",
     "wof:parent_id":907199043,
     "wof:placetype":"locality",

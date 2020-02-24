@@ -99,6 +99,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"be0dec15d9a45f2c8fdaa190d590c474",
     "wof:hierarchy":[
         {
@@ -119,7 +123,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594413,
+    "wof:lastmodified":1582312147,
     "wof:name":"Paloheina",
     "wof:parent_id":890537257,
     "wof:placetype":"neighbourhood",

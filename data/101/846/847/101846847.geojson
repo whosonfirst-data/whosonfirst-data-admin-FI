@@ -100,6 +100,9 @@
         "wk:page":"Mouhij\u00e4rvi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"09f9a7bd8f941cdb6f4e7f78ed877ae9",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101846847,
-    "wof:lastmodified":1566595189,
+    "wof:lastmodified":1582312176,
     "wof:name":"Mouhij\u00e4rvi",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

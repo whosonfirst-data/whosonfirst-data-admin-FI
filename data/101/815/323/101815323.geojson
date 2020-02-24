@@ -108,6 +108,9 @@
         "wk:page":"Yl\u00e4ne"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d3def2ebee2aa8c2998fe6b3e1581526",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101815323,
-    "wof:lastmodified":1566595202,
+    "wof:lastmodified":1582312178,
     "wof:name":"Yl\u00e4ne",
     "wof:parent_id":907198921,
     "wof:placetype":"locality",

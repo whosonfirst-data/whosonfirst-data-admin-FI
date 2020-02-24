@@ -124,6 +124,9 @@
         "qs_pg:id":244397
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c7c7013904c7861c88c097f74c9d3fb",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":907199405,
-    "wof:lastmodified":1566594248,
+    "wof:lastmodified":1582312133,
     "wof:name":"Valtimo",
     "wof:parent_id":1159321575,
     "wof:placetype":"localadmin",

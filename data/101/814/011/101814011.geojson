@@ -96,6 +96,9 @@
         "wk:page":"Luopioinen"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e8202cca296b021921a352d33ab0b638",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101814011,
-    "wof:lastmodified":1566595243,
+    "wof:lastmodified":1582312186,
     "wof:name":"Luopioinen",
     "wof:parent_id":907199187,
     "wof:placetype":"locality",

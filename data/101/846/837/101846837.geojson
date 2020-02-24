@@ -71,6 +71,9 @@
         "wd:id":"Q3432796"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a0a5bb73c17828ab4ff7732c43c10f32",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101846837,
-    "wof:lastmodified":1566595191,
+    "wof:lastmodified":1582312176,
     "wof:name":"Hinnerjoki",
     "wof:parent_id":907198915,
     "wof:placetype":"locality",

@@ -85,6 +85,9 @@
         "wd:id":"Q7939819"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c13490736999afe10cd85e705bd166fa",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101872901,
-    "wof:lastmodified":1566595160,
+    "wof:lastmodified":1582312170,
     "wof:name":"Vojakkala",
     "wof:parent_id":907199557,
     "wof:placetype":"locality",

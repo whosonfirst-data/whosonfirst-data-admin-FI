@@ -171,6 +171,9 @@
         "qs_pg:id":1192630
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9f33937c5c4121834b555ff28e573ffa",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":101815363,
-    "wof:lastmodified":1566595195,
+    "wof:lastmodified":1582312177,
     "wof:name":"Paimio",
     "wof:parent_id":907199209,
     "wof:placetype":"locality",

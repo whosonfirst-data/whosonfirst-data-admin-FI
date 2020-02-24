@@ -56,6 +56,9 @@
         "qs_pg:id":1200762
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a4a5d22413bc717ca90e700988b1a56",
     "wof:hierarchy":[
         {
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101839161,
-    "wof:lastmodified":1566595257,
+    "wof:lastmodified":1582312188,
     "wof:name":"Voikkaa",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

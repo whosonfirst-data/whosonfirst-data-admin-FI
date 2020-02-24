@@ -51,6 +51,9 @@
         "qs_pg:id":268911
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9a08de1918e5d6530f8bf87f3de0f908",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101913007,
-    "wof:lastmodified":1566595174,
+    "wof:lastmodified":1582312173,
     "wof:name":"Heparo",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

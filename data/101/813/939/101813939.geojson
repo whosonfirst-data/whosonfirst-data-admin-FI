@@ -179,6 +179,9 @@
         "wd:id":"Q849934"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"99dab4c017ecf1e154e95950af016604",
     "wof:hierarchy":[
         {
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":101813939,
-    "wof:lastmodified":1566595253,
+    "wof:lastmodified":1582312188,
     "wof:name":"Heinola",
     "wof:parent_id":907198689,
     "wof:placetype":"locality",

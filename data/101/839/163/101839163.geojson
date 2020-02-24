@@ -124,6 +124,9 @@
         "wk:page":"Kuusankoski"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f5e9039f0c49463951902f0e136067ab",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101839163,
-    "wof:lastmodified":1566595258,
+    "wof:lastmodified":1582312189,
     "wof:name":"Kuusankoski",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

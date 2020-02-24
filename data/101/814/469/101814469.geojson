@@ -129,6 +129,9 @@
         "wk:page":"K\u00e4rs\u00e4m\u00e4ki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6c4953997323899ab89ebe7bee322143",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101814469,
-    "wof:lastmodified":1566595246,
+    "wof:lastmodified":1582312186,
     "wof:name":"K\u00e4rs\u00e4m\u00e4ki",
     "wof:parent_id":907199465,
     "wof:placetype":"locality",

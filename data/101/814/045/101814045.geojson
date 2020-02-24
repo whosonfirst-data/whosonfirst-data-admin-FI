@@ -88,6 +88,9 @@
         "wk:page":"J\u00e4ppil\u00e4"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba5690a737a1e08320b0a7b1e4386351",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101814045,
-    "wof:lastmodified":1566595241,
+    "wof:lastmodified":1582312185,
     "wof:name":"J\u00e4ppil\u00e4",
     "wof:parent_id":907199013,
     "wof:placetype":"locality",

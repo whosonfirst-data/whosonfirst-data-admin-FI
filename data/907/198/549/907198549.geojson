@@ -139,6 +139,9 @@
         "qs_pg:id":550546
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f806934255b8aab048d8a0db37dfd2b8",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":907198549,
-    "wof:lastmodified":1566594073,
+    "wof:lastmodified":1582312072,
     "wof:name":"Somero",
     "wof:parent_id":1159321585,
     "wof:placetype":"localadmin",

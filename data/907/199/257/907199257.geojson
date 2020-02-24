@@ -118,6 +118,9 @@
         "qs_pg:id":81399
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4aec19149fc6f54a2b0b4e82be2acffc",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":907199257,
-    "wof:lastmodified":1566594154,
+    "wof:lastmodified":1582312102,
     "wof:name":"Muurame",
     "wof:parent_id":1159321625,
     "wof:placetype":"localadmin",

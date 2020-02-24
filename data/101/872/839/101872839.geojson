@@ -54,6 +54,9 @@
         "qs_pg:id":963801
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ccc1b8d9602f0bff185490dccae09f7",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101872839,
-    "wof:lastmodified":1566595165,
+    "wof:lastmodified":1582312171,
     "wof:name":"Syk\u00e4rinen",
     "wof:parent_id":907199309,
     "wof:placetype":"locality",

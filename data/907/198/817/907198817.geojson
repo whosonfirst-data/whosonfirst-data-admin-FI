@@ -121,6 +121,9 @@
         "qs_pg:id":369927
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8bb262151c45dc7b842248ed0cddc122",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":907198817,
-    "wof:lastmodified":1566594011,
+    "wof:lastmodified":1582312052,
     "wof:name":"Hankasalmi",
     "wof:parent_id":1159321625,
     "wof:placetype":"localadmin",

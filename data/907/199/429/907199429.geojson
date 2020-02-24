@@ -130,6 +130,9 @@
         "qs_pg:id":244413
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cc793b5f630f2469ca8b6ed51d0d8806",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":907199429,
-    "wof:lastmodified":1566594233,
+    "wof:lastmodified":1582312128,
     "wof:name":"Alavieska",
     "wof:parent_id":1159321569,
     "wof:placetype":"localadmin",

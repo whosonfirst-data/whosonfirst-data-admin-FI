@@ -61,6 +61,9 @@
         "qs_pg:id":345500
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"82ce9df8ece4e9b53abddcf276e34ac8",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101814191,
-    "wof:lastmodified":1566595238,
+    "wof:lastmodified":1582312185,
     "wof:name":"Vesanka",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

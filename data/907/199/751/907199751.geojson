@@ -135,6 +135,9 @@
         "qs_pg:id":358247
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"500e9501ca84768f5dd67808f919f640",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":907199751,
-    "wof:lastmodified":1566594197,
+    "wof:lastmodified":1582312117,
     "wof:name":"Sastamala",
     "wof:parent_id":1159321613,
     "wof:placetype":"localadmin",

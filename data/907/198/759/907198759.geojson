@@ -115,6 +115,9 @@
         "qs_pg:id":953624
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8abc52b5fc4afd531410e46aecb106e1",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":907198759,
-    "wof:lastmodified":1566594047,
+    "wof:lastmodified":1582312063,
     "wof:name":"Savitaipale",
     "wof:parent_id":1159321547,
     "wof:placetype":"localadmin",

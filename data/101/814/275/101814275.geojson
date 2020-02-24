@@ -52,6 +52,9 @@
         "qs_pg:id":1018072
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"166313b2bdccd1b35fc1caae90fe25d4",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101814275,
-    "wof:lastmodified":1566595227,
+    "wof:lastmodified":1582312183,
     "wof:name":"Norrn\u00e4s",
     "wof:parent_id":907199661,
     "wof:placetype":"locality",

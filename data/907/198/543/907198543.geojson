@@ -124,6 +124,9 @@
         "qs_pg:id":369929
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"02c0b22da5852d10a2ae40fe881cf7d4",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":907198543,
-    "wof:lastmodified":1566594026,
+    "wof:lastmodified":1582312057,
     "wof:name":"Askola",
     "wof:parent_id":1159321593,
     "wof:placetype":"localadmin",

@@ -72,6 +72,9 @@
         "wd:id":"Q11868999"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6beba2ba79c1d29862e4439bee691321",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101872885,
-    "wof:lastmodified":1566595164,
+    "wof:lastmodified":1582312171,
     "wof:name":"Kainuunkyl\u00e4",
     "wof:parent_id":907199549,
     "wof:placetype":"locality",

@@ -108,6 +108,9 @@
         "wk:page":"Korpo"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"57acff1a49c08cda8b315f8146561927",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101846759,
-    "wof:lastmodified":1566595188,
+    "wof:lastmodified":1582312175,
     "wof:name":"Korppoo",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

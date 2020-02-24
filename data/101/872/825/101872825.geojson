@@ -73,6 +73,10 @@
         "wk:page":"Koskue"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"bed5456fc7c3728c6f49bf07b6c5acc3",
     "wof:hierarchy":[
         {
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":101872825,
-    "wof:lastmodified":1566595165,
+    "wof:lastmodified":1582312171,
     "wof:name":"Koskue",
     "wof:parent_id":907199007,
     "wof:placetype":"locality",

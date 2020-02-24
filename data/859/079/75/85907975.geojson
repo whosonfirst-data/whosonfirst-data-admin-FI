@@ -124,6 +124,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"509598fc4adfd988bfdf6ffbd1b78e73",
     "wof:hierarchy":[
         {
@@ -144,7 +148,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594413,
+    "wof:lastmodified":1582312147,
     "wof:name":"Kaartinkaupunki",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

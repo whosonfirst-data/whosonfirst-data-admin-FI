@@ -132,6 +132,9 @@
         "qs_pg:id":1327546
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c6b6752d5d9a2f74d906db8df9d808f9",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101846879,
-    "wof:lastmodified":1566595188,
+    "wof:lastmodified":1582312175,
     "wof:name":"M\u00e4ntyharju",
     "wof:parent_id":907198721,
     "wof:placetype":"locality",

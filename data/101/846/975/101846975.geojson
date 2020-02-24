@@ -123,6 +123,9 @@
         "qs_pg:id":1027234
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"85fdd6db20d437b147e2c20dcb1a78f2",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101846975,
-    "wof:lastmodified":1566595194,
+    "wof:lastmodified":1582312176,
     "wof:name":"Lestij\u00e4rvi",
     "wof:parent_id":907199175,
     "wof:placetype":"locality",

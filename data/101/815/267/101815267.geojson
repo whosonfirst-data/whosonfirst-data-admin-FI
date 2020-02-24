@@ -61,6 +61,9 @@
         "qs_pg:id":993206
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a7023f661b2835c395fca2c15ea67979",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101815267,
-    "wof:lastmodified":1566595200,
+    "wof:lastmodified":1582312178,
     "wof:name":"Kerkkoo",
     "wof:parent_id":907198525,
     "wof:placetype":"locality",

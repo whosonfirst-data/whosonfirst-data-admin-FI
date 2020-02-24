@@ -81,6 +81,9 @@
         "qs_pg:id":1026793
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2f6dbc81cbfc5249bf5468ea5d44f67c",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":907199741,
-    "wof:lastmodified":1566594186,
+    "wof:lastmodified":1582312114,
     "wof:name":"Parainen",
     "wof:parent_id":1159321605,
     "wof:placetype":"localadmin",

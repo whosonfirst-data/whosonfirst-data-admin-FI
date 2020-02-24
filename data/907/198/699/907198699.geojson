@@ -124,6 +124,9 @@
         "qs_pg:id":81411
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e9116abecafdf54213185b9a72d6bfb5",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":907198699,
-    "wof:lastmodified":1566594062,
+    "wof:lastmodified":1582312068,
     "wof:name":"Luhanka",
     "wof:parent_id":1159321619,
     "wof:placetype":"localadmin",

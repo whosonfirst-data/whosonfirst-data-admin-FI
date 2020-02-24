@@ -64,6 +64,9 @@
         "qs_pg:id":81337
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f6fb1a0da768404491dc66803f38a9c",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199213,
-    "wof:lastmodified":1566594239,
+    "wof:lastmodified":1582312130,
     "wof:name":"Saarijarvi",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",

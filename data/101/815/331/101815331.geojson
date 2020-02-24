@@ -213,6 +213,9 @@
         "wk:page":"Uusikaupunki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"081c313609427d44100b690089e9d95e",
     "wof:hierarchy":[
         {
@@ -227,7 +230,7 @@
         }
     ],
     "wof:id":101815331,
-    "wof:lastmodified":1566595194,
+    "wof:lastmodified":1582312177,
     "wof:name":"Uusikaupunki",
     "wof:parent_id":907198615,
     "wof:placetype":"locality",

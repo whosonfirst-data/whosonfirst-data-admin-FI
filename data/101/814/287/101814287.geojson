@@ -297,6 +297,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -326,6 +327,10 @@
         "qs_pg:id":319379
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"51c50890972be6299c5bda117c8d75e5",
     "wof:hierarchy":[
         {
@@ -340,7 +345,7 @@
         }
     ],
     "wof:id":101814287,
-    "wof:lastmodified":1566595224,
+    "wof:lastmodified":1582312182,
     "wof:name":"Kokkola",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

@@ -51,6 +51,10 @@
     "wof:concordances":{},
     "wof:country":"FI",
     "wof:created":1469575819,
+    "wof:geom_alt":[
+        "unknown",
+        "figov"
+    ],
     "wof:geomhash":"a48d62243066535ace891cbb11f194af",
     "wof:hierarchy":[
         {
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890536879,
-    "wof:lastmodified":1566595309,
+    "wof:lastmodified":1582312190,
     "wof:name":"Etelainen",
     "wof:parent_id":101748417,
     "wof:placetype":"borough",

@@ -62,6 +62,9 @@
         "wd:id":"Q18658615"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f5bcd398c12bcfdf94d945653682587e",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101911287,
-    "wof:lastmodified":1566595259,
+    "wof:lastmodified":1582312189,
     "wof:name":"Kaakkuri",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

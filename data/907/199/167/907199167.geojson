@@ -67,6 +67,9 @@
         "qs_pg:id":232344
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2f33ec4d8d58b9173f8b21d1cfc11e94",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":907199167,
-    "wof:lastmodified":1566594116,
+    "wof:lastmodified":1582312089,
     "wof:name":"Luoto",
     "wof:parent_id":1159321639,
     "wof:placetype":"localadmin",

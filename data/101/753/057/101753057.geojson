@@ -66,6 +66,9 @@
         "wd:id":"Q18660773"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aab8f2b76a6551cd9424fb0c3d796232",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101753057,
-    "wof:lastmodified":1566595156,
+    "wof:lastmodified":1582312169,
     "wof:name":"Martinniemi",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

@@ -132,6 +132,9 @@
         "wk:page":"Muurame"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"57316bf5bca6c83c1bb751ad86b1b5db",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101814205,
-    "wof:lastmodified":1566595231,
+    "wof:lastmodified":1582312184,
     "wof:name":"Muurame",
     "wof:parent_id":907199257,
     "wof:placetype":"locality",

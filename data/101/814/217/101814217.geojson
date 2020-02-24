@@ -68,6 +68,9 @@
         "wd:id":"Q11861223"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"df5948b563f6940c19d3c11a70b4ba17",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101814217,
-    "wof:lastmodified":1566595226,
+    "wof:lastmodified":1582312183,
     "wof:name":"Halli",
     "wof:parent_id":907199101,
     "wof:placetype":"locality",

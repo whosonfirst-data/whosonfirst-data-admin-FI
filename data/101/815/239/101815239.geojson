@@ -52,6 +52,9 @@
         "qs_pg:id":1156446
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b2c2fde4c3930c8e6a315d12ead073a3",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101815239,
-    "wof:lastmodified":1566595209,
+    "wof:lastmodified":1582312180,
     "wof:name":"Ohkola",
     "wof:parent_id":907198557,
     "wof:placetype":"locality",

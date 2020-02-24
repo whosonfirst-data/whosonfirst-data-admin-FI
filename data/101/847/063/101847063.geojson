@@ -107,6 +107,9 @@
         "wk:page":"Ylikiiminki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a5bcab57143c720310241946800894f8",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101847063,
-    "wof:lastmodified":1566595215,
+    "wof:lastmodified":1582312181,
     "wof:name":"Ylikiiminki",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

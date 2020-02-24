@@ -141,6 +141,9 @@
         "wk:page":"Hyrynsalmi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ebb2e3fd837a308a7391e15d412dca35",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101847039,
-    "wof:lastmodified":1566595216,
+    "wof:lastmodified":1582312181,
     "wof:name":"Hyrynsalmi",
     "wof:parent_id":907199531,
     "wof:placetype":"locality",

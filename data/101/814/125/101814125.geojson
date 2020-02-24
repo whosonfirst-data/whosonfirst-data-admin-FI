@@ -152,6 +152,9 @@
         "qs_pg:id":1060490
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4d05686a3e0e159c55abc39e5395d7d6",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101814125,
-    "wof:lastmodified":1566595251,
+    "wof:lastmodified":1582312187,
     "wof:name":"Ilmajoki",
     "wof:parent_id":907199003,
     "wof:placetype":"locality",

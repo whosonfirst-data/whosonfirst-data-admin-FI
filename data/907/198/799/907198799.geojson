@@ -121,6 +121,9 @@
         "qs_pg:id":274927
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"058ac0f95bc7de8abd32832fd0c68f54",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":907198799,
-    "wof:lastmodified":1566593985,
+    "wof:lastmodified":1582312043,
     "wof:name":"Kuhmoinen",
     "wof:parent_id":1159321587,
     "wof:placetype":"localadmin",

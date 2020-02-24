@@ -68,6 +68,9 @@
         "wd:id":"Q13570413"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4165d00395c32aaf0086e5c9358fcaab",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101815427,
-    "wof:lastmodified":1566595207,
+    "wof:lastmodified":1582312179,
     "wof:name":"Myllykoski",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

@@ -139,6 +139,9 @@
         "qs_pg:id":1317350
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9f46c2e9362f9a8d881d4f18d50c2549",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":907199587,
-    "wof:lastmodified":1566594185,
+    "wof:lastmodified":1582312113,
     "wof:name":"Muonio",
     "wof:parent_id":1159321583,
     "wof:placetype":"localadmin",

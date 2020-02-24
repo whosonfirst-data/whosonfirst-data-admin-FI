@@ -129,6 +129,9 @@
         "qs_pg:id":992398
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b2084b139358748c3da56a8babc98272",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101814211,
-    "wof:lastmodified":1566595222,
+    "wof:lastmodified":1582312182,
     "wof:name":"Korpilahti",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

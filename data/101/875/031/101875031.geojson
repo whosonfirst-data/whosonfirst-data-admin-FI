@@ -79,6 +79,10 @@
         "wd:id":"Q3444970"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"de34d823af2c474ec72ebea43d669220",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":101875031,
-    "wof:lastmodified":1566595166,
+    "wof:lastmodified":1582312171,
     "wof:name":"Saloinen",
     "wof:parent_id":907199449,
     "wof:placetype":"locality",

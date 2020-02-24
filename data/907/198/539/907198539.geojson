@@ -150,6 +150,9 @@
         "qs_pg:id":244408
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"df146310f0b75857e79c2d834f9de54b",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":907198539,
-    "wof:lastmodified":1566594031,
+    "wof:lastmodified":1582312059,
     "wof:name":"Karkkila",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

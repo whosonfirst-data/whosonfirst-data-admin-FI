@@ -61,6 +61,9 @@
         "qs_pg:id":896233
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5bbbffdbc31ae3172ea06adb1be39083",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":907199155,
-    "wof:lastmodified":1566594206,
+    "wof:lastmodified":1582312120,
     "wof:name":"Kihnio",
     "wof:parent_id":1159321533,
     "wof:placetype":"localadmin",

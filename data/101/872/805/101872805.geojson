@@ -129,6 +129,9 @@
         "wd:id":"Q1009634"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0c1bced901d70390f1672d1ef109c220",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101872805,
-    "wof:lastmodified":1566595162,
+    "wof:lastmodified":1582312170,
     "wof:name":"J\u00e4mij\u00e4rvi",
     "wof:parent_id":907199625,
     "wof:placetype":"locality",

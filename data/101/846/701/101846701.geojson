@@ -58,6 +58,9 @@
         "qs_pg:id":1165832
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"08efadcea5d9dccd0fc86b60ad72c3af",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101846701,
-    "wof:lastmodified":1566595176,
+    "wof:lastmodified":1582312174,
     "wof:name":"Nukari",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

@@ -140,6 +140,9 @@
         "wd:id":"Q807900"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8deee962acd024c5ac1b03a529b7c1e1",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101846741,
-    "wof:lastmodified":1566595185,
+    "wof:lastmodified":1582312175,
     "wof:name":"Kustavi",
     "wof:parent_id":907198611,
     "wof:placetype":"locality",

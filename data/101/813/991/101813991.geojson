@@ -98,6 +98,9 @@
         "wk:page":"Kuru, Finland"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"99f33532eebcc01632f1c8c6add38a7d",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101813991,
-    "wof:lastmodified":1566595253,
+    "wof:lastmodified":1582312187,
     "wof:name":"Kuru",
     "wof:parent_id":907199275,
     "wof:placetype":"locality",

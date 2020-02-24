@@ -180,6 +180,9 @@
         "wk:page":"Lapua"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a18ccc2d9b881c3f896b77100f3ef69d",
     "wof:hierarchy":[
         {
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":101846885,
-    "wof:lastmodified":1566595189,
+    "wof:lastmodified":1582312176,
     "wof:name":"Lapua",
     "wof:parent_id":907199241,
     "wof:placetype":"locality",

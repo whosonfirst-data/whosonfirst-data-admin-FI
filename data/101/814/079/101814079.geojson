@@ -123,6 +123,9 @@
         "wk:page":"Ristiina"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"33a946e236aa00694d8268c80a77060e",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101814079,
-    "wof:lastmodified":1566595223,
+    "wof:lastmodified":1582312182,
     "wof:name":"Ristiina",
     "wof:parent_id":907198765,
     "wof:placetype":"locality",

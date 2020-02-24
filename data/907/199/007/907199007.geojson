@@ -130,6 +130,9 @@
         "qs_pg:id":204142
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e15aafb7d72794d629bf68ec22a178d9",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":907199007,
-    "wof:lastmodified":1566594159,
+    "wof:lastmodified":1582312104,
     "wof:name":"Kurikka",
     "wof:parent_id":1159321561,
     "wof:placetype":"localadmin",

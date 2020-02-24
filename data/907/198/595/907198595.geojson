@@ -130,6 +130,9 @@
         "qs_pg:id":248707
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c7367f87bd11e83ef48666006150961c",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":907198595,
-    "wof:lastmodified":1566593991,
+    "wof:lastmodified":1582312046,
     "wof:name":"Vihti",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

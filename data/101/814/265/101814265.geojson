@@ -53,6 +53,9 @@
         "qs_pg:id":490208
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a7c669c2348267c3dbb7525d461dd3be",
     "wof:hierarchy":[
         {
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101814265,
-    "wof:lastmodified":1566595247,
+    "wof:lastmodified":1582312186,
     "wof:name":"Kosk\u00f6",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

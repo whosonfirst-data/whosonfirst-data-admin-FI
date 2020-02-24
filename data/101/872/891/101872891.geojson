@@ -70,6 +70,9 @@
         "wd:id":"Q11902858"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7972e10ea01b5167c945a7daf0f80e2f",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101872891,
-    "wof:lastmodified":1566595165,
+    "wof:lastmodified":1582312171,
     "wof:name":"Yli-Muonio",
     "wof:parent_id":907199587,
     "wof:placetype":"locality",

@@ -68,6 +68,9 @@
         "qs_pg:id":6
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"21d24a5ae36eb4ed33d851544e1ba8e5",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101872853,
-    "wof:lastmodified":1566595165,
+    "wof:lastmodified":1582312171,
     "wof:name":"Kurkim\u00e4ki",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

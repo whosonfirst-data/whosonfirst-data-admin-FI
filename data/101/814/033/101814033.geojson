@@ -282,6 +282,9 @@
         "wd:id":"Q3433979"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2edf46cd565cca75b69d1b9b423894d",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
         }
     ],
     "wof:id":101814033,
-    "wof:lastmodified":1566595248,
+    "wof:lastmodified":1582312186,
     "wof:name":"Simpele",
     "wof:parent_id":907198805,
     "wof:placetype":"locality",

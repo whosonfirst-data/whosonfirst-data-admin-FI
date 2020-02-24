@@ -103,6 +103,9 @@
         "wk:page":"Iittala"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2a6f93fefd3ba0352a6b92d17ee21b83",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101846761,
-    "wof:lastmodified":1566595188,
+    "wof:lastmodified":1582312175,
     "wof:name":"Iittala",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

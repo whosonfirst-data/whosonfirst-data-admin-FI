@@ -110,6 +110,9 @@
         "qs_pg:id":1327519
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3e64d3b13ab014a0112ff59575d534bf",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101815395,
-    "wof:lastmodified":1566595203,
+    "wof:lastmodified":1582312178,
     "wof:name":"Lammi",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

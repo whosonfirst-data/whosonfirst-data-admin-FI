@@ -121,6 +121,9 @@
         "qs_pg:id":244409
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea9bf58e631837098dec43cffb632250",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":907199227,
-    "wof:lastmodified":1566594120,
+    "wof:lastmodified":1582312090,
     "wof:name":"Kannonkoski",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",

@@ -137,6 +137,9 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a1ead13ee30a6c59d0a6c842ba0e1809",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594463,
+    "wof:lastmodified":1582312155,
     "wof:name":"Kamppi",
     "wof:parent_id":1108727337,
     "wof:placetype":"neighbourhood",

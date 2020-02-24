@@ -120,6 +120,9 @@
         "wk:page":"Rautavaara"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6fa5cf9c030758fc3ec9af390dafa34",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101847007,
-    "wof:lastmodified":1566595215,
+    "wof:lastmodified":1582312181,
     "wof:name":"Rautavaara",
     "wof:parent_id":907199323,
     "wof:placetype":"locality",

@@ -81,6 +81,9 @@
         "wd:id":"Q15987080"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c797b9395245dd4e3df8acc88c98fbd8",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101814131,
-    "wof:lastmodified":1566595238,
+    "wof:lastmodified":1582312185,
     "wof:name":"Koskenkorva",
     "wof:parent_id":907199003,
     "wof:placetype":"locality",

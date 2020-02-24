@@ -63,6 +63,9 @@
         "qs_pg:id":81452
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8c1756392f4aa342b0d14bfed1577f3",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":907198937,
-    "wof:lastmodified":1566593996,
+    "wof:lastmodified":1582312048,
     "wof:name":"Kokemaki",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

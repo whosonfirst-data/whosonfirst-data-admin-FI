@@ -83,6 +83,9 @@
         "wk:page":"Rautio"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"83b4045b6b5230e07ee3bb3b02814dc5",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101872873,
-    "wof:lastmodified":1566595160,
+    "wof:lastmodified":1582312170,
     "wof:name":"Rautio",
     "wof:parent_id":907199617,
     "wof:placetype":"locality",

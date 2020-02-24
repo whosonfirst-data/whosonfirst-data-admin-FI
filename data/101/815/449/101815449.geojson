@@ -135,6 +135,9 @@
         "qs_pg:id":977294
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eca0aaeef0956b770655d0cd22b9010e",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101815449,
-    "wof:lastmodified":1566595196,
+    "wof:lastmodified":1582312177,
     "wof:name":"H\u00e4meenkoski",
     "wof:parent_id":907198585,
     "wof:placetype":"locality",

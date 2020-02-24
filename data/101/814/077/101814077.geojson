@@ -132,6 +132,9 @@
         "wk:page":"Puumala"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"55d7b1547fe7ab575a0f659907b8c75d",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101814077,
-    "wof:lastmodified":1566595224,
+    "wof:lastmodified":1582312183,
     "wof:name":"Puumala",
     "wof:parent_id":907198757,
     "wof:placetype":"locality",

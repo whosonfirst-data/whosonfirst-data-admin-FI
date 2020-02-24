@@ -102,6 +102,9 @@
         "qs_pg:id":1042265
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"23b813b5f0498dbe00644710797d86a2",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101815487,
-    "wof:lastmodified":1566595207,
+    "wof:lastmodified":1582312179,
     "wof:name":"Toijala",
     "wof:parent_id":907199731,
     "wof:placetype":"locality",

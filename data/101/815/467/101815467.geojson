@@ -177,6 +177,9 @@
         "wk:page":"Lappi, Finland"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9ccb66736a99b6bd5e1b5bcc4885f7db",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":101815467,
-    "wof:lastmodified":1566595208,
+    "wof:lastmodified":1582312179,
     "wof:name":"Lappi",
     "wof:parent_id":907198665,
     "wof:placetype":"locality",

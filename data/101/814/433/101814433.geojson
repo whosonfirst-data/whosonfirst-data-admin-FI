@@ -84,6 +84,9 @@
         "wd:id":"Q3365627"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9a013fa6e08cf7cb148403a624c7f2e4",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101814433,
-    "wof:lastmodified":1566595248,
+    "wof:lastmodified":1582312186,
     "wof:name":"Paavola",
     "wof:parent_id":907199705,
     "wof:placetype":"locality",

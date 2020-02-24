@@ -140,6 +140,9 @@
         "wd:id":"Q675666"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1e4d12c8cb75c8198de671c5ebe92114",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101814297,
-    "wof:lastmodified":1566595249,
+    "wof:lastmodified":1582312187,
     "wof:name":"Veteli",
     "wof:parent_id":907199293,
     "wof:placetype":"locality",

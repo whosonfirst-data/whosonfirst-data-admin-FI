@@ -73,6 +73,9 @@
         "qs_pg:id":26984
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"41c6c06c504173818eadea7d5d8b20b7",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":907199735,
-    "wof:lastmodified":1566594205,
+    "wof:lastmodified":1582312120,
     "wof:name":"Kemionsaari",
     "wof:parent_id":1159321605,
     "wof:placetype":"localadmin",

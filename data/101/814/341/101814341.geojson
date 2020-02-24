@@ -68,6 +68,9 @@
         "wd:id":"Q10999425"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b73c014d9deb935686c540c026726a88",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101814341,
-    "wof:lastmodified":1566595233,
+    "wof:lastmodified":1582312184,
     "wof:name":"Uimaharju",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

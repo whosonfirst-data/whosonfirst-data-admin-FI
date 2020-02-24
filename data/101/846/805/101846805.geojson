@@ -61,6 +61,9 @@
         "qs_pg:id":343238
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"533bcff21e750b5ff21ba0f5e80d4dfe",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101846805,
-    "wof:lastmodified":1566595182,
+    "wof:lastmodified":1582312175,
     "wof:name":"Auttoinen",
     "wof:parent_id":907198715,
     "wof:placetype":"locality",

@@ -122,6 +122,9 @@
         "wd:id":"Q1005129"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"15ce9c88e804ac64d2531f809cfbce9a",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101815399,
-    "wof:lastmodified":1566595195,
+    "wof:lastmodified":1582312177,
     "wof:name":"Humppila",
     "wof:parent_id":907198829,
     "wof:placetype":"locality",

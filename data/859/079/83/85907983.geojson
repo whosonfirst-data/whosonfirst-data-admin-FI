@@ -126,6 +126,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dec39d15747e124aab03481c57b8d33d",
     "wof:hierarchy":[
         {
@@ -146,7 +150,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594414,
+    "wof:lastmodified":1582312147,
     "wof:name":"Arabianranta",
     "wof:parent_id":1108727357,
     "wof:placetype":"neighbourhood",

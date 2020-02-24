@@ -133,6 +133,9 @@
         "qs_pg:id":1026785
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"02e8404d399b55879dffd9d5bd4d2e87",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":907198847,
-    "wof:lastmodified":1566594055,
+    "wof:lastmodified":1582312066,
     "wof:name":"Suonenjoki",
     "wof:parent_id":1159321623,
     "wof:placetype":"localadmin",

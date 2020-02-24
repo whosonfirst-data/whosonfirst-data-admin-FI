@@ -153,6 +153,9 @@
         "wk:page":"Siilinj\u00e4rvi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e05f4d434ef4955e255a6f294907d1ea",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101814301,
-    "wof:lastmodified":1566595221,
+    "wof:lastmodified":1582312182,
     "wof:name":"Siilinj\u00e4rvi",
     "wof:parent_id":907199425,
     "wof:placetype":"locality",

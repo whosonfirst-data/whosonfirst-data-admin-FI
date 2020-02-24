@@ -143,6 +143,9 @@
         "qs_pg:id":1189240
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a036e7bf2ee4940a9d5d880edc3dc4e",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101813947,
-    "wof:lastmodified":1566595254,
+    "wof:lastmodified":1582312188,
     "wof:name":"Sysm\u00e4",
     "wof:parent_id":907198701,
     "wof:placetype":"locality",

@@ -90,6 +90,9 @@
         "wk:page":"\u00c4k\u00e4slompolo"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ee6a907d77a79d01b4e2b5fffd01a3af",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101814499,
-    "wof:lastmodified":1566595229,
+    "wof:lastmodified":1582312183,
     "wof:name":"\u00c4k\u00e4slompolo",
     "wof:parent_id":907199583,
     "wof:placetype":"locality",

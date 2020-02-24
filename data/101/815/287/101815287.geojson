@@ -87,6 +87,9 @@
         "wd:id":"Q1280623"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65ce8ea5dd32ebb119db2a70146bf5cb",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101815287,
-    "wof:lastmodified":1566595197,
+    "wof:lastmodified":1582312177,
     "wof:name":"Nummela",
     "wof:parent_id":907198595,
     "wof:placetype":"locality",

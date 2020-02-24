@@ -58,6 +58,9 @@
         "qs_pg:id":272101
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"68fdcd503c07219cf1668ecb50f2e959",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101814223,
-    "wof:lastmodified":1566595243,
+    "wof:lastmodified":1582312186,
     "wof:name":"Kaipola",
     "wof:parent_id":907199101,
     "wof:placetype":"locality",

@@ -129,6 +129,9 @@
         "qs_pg:id":369858
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8ddf5a19800fd3a3ac8e42388a746a1",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":907199553,
-    "wof:lastmodified":1566594212,
+    "wof:lastmodified":1582312122,
     "wof:name":"Pello",
     "wof:parent_id":1159321537,
     "wof:placetype":"localadmin",

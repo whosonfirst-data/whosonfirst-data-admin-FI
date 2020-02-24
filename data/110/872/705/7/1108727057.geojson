@@ -74,6 +74,9 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d28c6fc1931b85c62781d2826d431713",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108727057,
-    "wof:lastmodified":1566594970,
+    "wof:lastmodified":1582312165,
     "wof:name":"Konala",
     "wof:parent_id":890537259,
     "wof:placetype":"neighbourhood",

@@ -136,6 +136,9 @@
         "qs_pg:id":1157870
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c096615aa22c1ccff966e296a37a3a67",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":907199579,
-    "wof:lastmodified":1566594273,
+    "wof:lastmodified":1582312143,
     "wof:name":"Savukoski",
     "wof:parent_id":1159321535,
     "wof:placetype":"localadmin",

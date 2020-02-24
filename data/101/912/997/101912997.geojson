@@ -51,6 +51,9 @@
         "qs_pg:id":1102730
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ab55903a2a22ab459c8a5fd1969c6277",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101912997,
-    "wof:lastmodified":1566595166,
+    "wof:lastmodified":1582312171,
     "wof:name":"Mustam\u00e4ki",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

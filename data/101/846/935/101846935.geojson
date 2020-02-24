@@ -122,6 +122,9 @@
         "wk:page":"V\u00f6r\u00e5"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"94793579017f29cb664178a8b983732e",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101846935,
-    "wof:lastmodified":1566595186,
+    "wof:lastmodified":1582312175,
     "wof:name":"V\u00f6yri",
     "wof:parent_id":907199763,
     "wof:placetype":"locality",

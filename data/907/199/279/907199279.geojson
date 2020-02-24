@@ -64,6 +64,9 @@
         "qs_pg:id":1062306
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"929bee311ed5658a70034c0731f73dfc",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199279,
-    "wof:lastmodified":1566594220,
+    "wof:lastmodified":1582312125,
     "wof:name":"Lempaala",
     "wof:parent_id":1159321521,
     "wof:placetype":"localadmin",

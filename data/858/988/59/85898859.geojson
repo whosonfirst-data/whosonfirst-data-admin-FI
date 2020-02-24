@@ -78,6 +78,10 @@
         "qs_pg:id":221911
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"372b139dc1b65b4571d26da474c89cf4",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594461,
+    "wof:lastmodified":1582312154,
     "wof:name":"Lepikk\u00f6",
     "wof:parent_id":101839171,
     "wof:placetype":"neighbourhood",

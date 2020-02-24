@@ -168,6 +168,9 @@
         "qs_pg:id":1008285
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"08a9b1d3470aa62a1282fc4dad20a395",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":101814087,
-    "wof:lastmodified":1566595242,
+    "wof:lastmodified":1582312185,
     "wof:name":"Kauhava",
     "wof:parent_id":907199237,
     "wof:placetype":"locality",

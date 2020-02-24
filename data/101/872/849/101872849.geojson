@@ -96,6 +96,9 @@
         "wd:id":"Q1734675"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ddc9017e0b008bfdf13bd3820463fdb9",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101872849,
-    "wof:lastmodified":1566595164,
+    "wof:lastmodified":1582312170,
     "wof:name":"Syv\u00e4nniemi",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

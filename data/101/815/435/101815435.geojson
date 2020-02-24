@@ -142,6 +142,9 @@
         "qs_pg:id":977328
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3d544add3ef6e9ef4dc7fdff041a97af",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101815435,
-    "wof:lastmodified":1566595210,
+    "wof:lastmodified":1582312180,
     "wof:name":"Miehikk\u00e4l\u00e4",
     "wof:parent_id":907198737,
     "wof:placetype":"locality",

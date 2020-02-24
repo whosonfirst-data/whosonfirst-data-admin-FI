@@ -108,6 +108,9 @@
         "wk:page":"Sumiainen"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d650934827dfb60c8ae4011853c41d9b",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101814175,
-    "wof:lastmodified":1566595236,
+    "wof:lastmodified":1582312184,
     "wof:name":"Sumiainen",
     "wof:parent_id":907199205,
     "wof:placetype":"locality",

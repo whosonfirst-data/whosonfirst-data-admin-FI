@@ -67,6 +67,9 @@
         "qs_pg:id":1286106
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f51be51cb96a4729fda0fbbb85065519",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101815253,
-    "wof:lastmodified":1566595208,
+    "wof:lastmodified":1582312180,
     "wof:name":"Koskenkyl\u00e4",
     "wof:parent_id":907198469,
     "wof:placetype":"locality",

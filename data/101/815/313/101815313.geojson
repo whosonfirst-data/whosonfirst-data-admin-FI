@@ -198,6 +198,9 @@
         "qs_pg:id":1086398
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"49701e78531403871cc81e4e336c6174",
     "wof:hierarchy":[
         {
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":101815313,
-    "wof:lastmodified":1566595202,
+    "wof:lastmodified":1582312178,
     "wof:name":"Hanko",
     "wof:parent_id":907198505,
     "wof:placetype":"locality",

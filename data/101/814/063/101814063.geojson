@@ -302,6 +302,9 @@
         "wk:page":"Savonlinna"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ebdc7ba99ae23fc62b45faa00f9752fb",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
         }
     ],
     "wof:id":101814063,
-    "wof:lastmodified":1566595231,
+    "wof:lastmodified":1582312184,
     "wof:name":"Savonlinna",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

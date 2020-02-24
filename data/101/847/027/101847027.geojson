@@ -87,6 +87,9 @@
         "wd:id":"Q18682854"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d1460e7f5938f4bac02f133c0ed28f55",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101847027,
-    "wof:lastmodified":1566595216,
+    "wof:lastmodified":1582312181,
     "wof:name":"Viinij\u00e4rvi",
     "wof:parent_id":907198863,
     "wof:placetype":"locality",

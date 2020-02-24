@@ -85,6 +85,9 @@
         "wd:id":"Q820629"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1cd7a922e8c4b61e252f1b363146863d",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101846865,
-    "wof:lastmodified":1566595190,
+    "wof:lastmodified":1582312176,
     "wof:name":"Vainikkala",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

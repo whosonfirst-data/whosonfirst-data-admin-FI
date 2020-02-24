@@ -133,6 +133,9 @@
         "qs_pg:id":81358
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"acf62b4f3aec30101a009418845c94c0",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":907199513,
-    "wof:lastmodified":1566594265,
+    "wof:lastmodified":1582312140,
     "wof:name":"Puolanka",
     "wof:parent_id":1159321549,
     "wof:placetype":"localadmin",

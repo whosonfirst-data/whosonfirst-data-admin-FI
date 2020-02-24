@@ -97,6 +97,9 @@
         "qs_pg:id":248708
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"15644226d9648f4e731cd388b958727b",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":907198599,
-    "wof:lastmodified":1566594032,
+    "wof:lastmodified":1582312059,
     "wof:name":"Nurmijarvi",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

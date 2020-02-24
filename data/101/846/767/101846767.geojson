@@ -105,6 +105,9 @@
         "wk:page":"Renko"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0387eec0eb67c9222637da492fdf521",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101846767,
-    "wof:lastmodified":1566595185,
+    "wof:lastmodified":1582312175,
     "wof:name":"Renko",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

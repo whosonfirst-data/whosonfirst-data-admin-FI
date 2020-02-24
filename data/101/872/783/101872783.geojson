@@ -63,6 +63,9 @@
         "wd:id":"Q18662556"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"17e120040ef7e443a65734301033510d",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101872783,
-    "wof:lastmodified":1566595163,
+    "wof:lastmodified":1582312170,
     "wof:name":"Untamala",
     "wof:parent_id":907198671,
     "wof:placetype":"locality",

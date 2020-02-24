@@ -102,6 +102,9 @@
         "wk:page":"Mietoinen"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f6790dc5dde673b9ccd885822b9267d3",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101846731,
-    "wof:lastmodified":1566595178,
+    "wof:lastmodified":1582312174,
     "wof:name":"Mietoinen",
     "wof:parent_id":907198907,
     "wof:placetype":"locality",

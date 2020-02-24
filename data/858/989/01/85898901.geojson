@@ -105,6 +105,9 @@
         "wk:page":"Suutarila"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"590594bb96890de5f5ce3280b2fd3298",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1527641027,
+    "wof:lastmodified":1582312154,
     "wof:name":"Suutarila",
     "wof:parent_id":101748419,
     "wof:placetype":"neighbourhood",

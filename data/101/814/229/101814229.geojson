@@ -105,6 +105,9 @@
         "wk:page":"V\u00e4h\u00e4kyr\u00f6"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d1004fb3d9447ed84c9a5487fc363512",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101814229,
-    "wof:lastmodified":1566595222,
+    "wof:lastmodified":1582312182,
     "wof:name":"V\u00e4h\u00e4kyr\u00f6",
     "wof:parent_id":907199149,
     "wof:placetype":"locality",

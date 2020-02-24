@@ -352,6 +352,9 @@
         "qs_pg:id":834814
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e1f187dde2bc2347ce4f4082b96550af",
     "wof:hierarchy":[
         {
@@ -365,7 +368,7 @@
         }
     ],
     "wof:id":907198999,
-    "wof:lastmodified":1566593998,
+    "wof:lastmodified":1582312049,
     "wof:name":"Nokia",
     "wof:parent_id":1159321521,
     "wof:placetype":"localadmin",

@@ -128,6 +128,9 @@
         "wd:id":"Q1009136"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3a397a8d9200d287cb8a2acfeba7a91e",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101815495,
-    "wof:lastmodified":1566595210,
+    "wof:lastmodified":1582312180,
     "wof:name":"Vesilahti",
     "wof:parent_id":907198735,
     "wof:placetype":"locality",

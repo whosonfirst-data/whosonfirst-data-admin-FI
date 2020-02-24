@@ -247,6 +247,9 @@
         "qs_pg:id":81434
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9c50e3cc66237365944c5e874a2ccbda",
     "wof:hierarchy":[
         {
@@ -260,7 +263,7 @@
         }
     ],
     "wof:id":907199673,
-    "wof:lastmodified":1566594144,
+    "wof:lastmodified":1582312099,
     "wof:name":"Kuopio",
     "wof:parent_id":1159321597,
     "wof:placetype":"localadmin",

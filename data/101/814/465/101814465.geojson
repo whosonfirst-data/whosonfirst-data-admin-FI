@@ -115,6 +115,9 @@
         "wk:page":"Himanka"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a50cfc01bb57cad20f0c2a48cbacf6f7",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101814465,
-    "wof:lastmodified":1566595232,
+    "wof:lastmodified":1582312184,
     "wof:name":"Himanka",
     "wof:parent_id":907199617,
     "wof:placetype":"locality",

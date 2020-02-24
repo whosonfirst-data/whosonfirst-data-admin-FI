@@ -96,6 +96,9 @@
         "wk:page":"\u00c4ets\u00e4"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ef821345b5afd56a85770cc32f781359",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101846859,
-    "wof:lastmodified":1566595180,
+    "wof:lastmodified":1582312174,
     "wof:name":"\u00c4ets\u00e4",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

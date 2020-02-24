@@ -189,6 +189,10 @@
         "wk:page":"Raahe"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8e83a37173a48765ea5b13aeaeb29a1",
     "wof:hierarchy":[
         {
@@ -203,7 +207,7 @@
         }
     ],
     "wof:id":101875029,
-    "wof:lastmodified":1566595166,
+    "wof:lastmodified":1582312171,
     "wof:name":"Raahe",
     "wof:parent_id":907199449,
     "wof:placetype":"locality",

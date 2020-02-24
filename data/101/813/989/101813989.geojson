@@ -134,6 +134,9 @@
         "qs_pg:id":1223616
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8fb504e1ba55f8d5e959c63e62fb50d0",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101813989,
-    "wof:lastmodified":1566595256,
+    "wof:lastmodified":1582312188,
     "wof:name":"Ruovesi",
     "wof:parent_id":907199295,
     "wof:placetype":"locality",

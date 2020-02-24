@@ -67,6 +67,10 @@
         "wd:id":"Q11901728"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b71892e80dfa0ea23fc753e4bd1fba4e",
     "wof:hierarchy":[
         {
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":101872785,
-    "wof:lastmodified":1566595162,
+    "wof:lastmodified":1582312170,
     "wof:name":"Virttaa",
     "wof:parent_id":907198963,
     "wof:placetype":"locality",

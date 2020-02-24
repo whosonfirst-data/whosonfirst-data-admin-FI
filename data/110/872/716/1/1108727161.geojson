@@ -50,6 +50,9 @@
         "qs_pg:id":25143
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d44807ee3e7280fbb7467ea0441e7487",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108727161,
-    "wof:lastmodified":1497314457,
+    "wof:lastmodified":1582312166,
     "wof:name":"Punavuori",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",
