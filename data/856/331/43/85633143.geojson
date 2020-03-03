@@ -1175,8 +1175,7 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "naturalearth",
-        "quattroshapes",
-        "naturalearth"
+        "quattroshapes"
     ],
     "src:geom_via":"us-dshiu",
     "src:lbl_centroid":"mapshaper",
@@ -1253,7 +1252,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1582312150,
+    "wof:lastmodified":1583199028,
     "wof:name":"Finland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
