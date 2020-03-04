@@ -65,6 +65,9 @@
         "wd:id":"Q18660670"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e2199a16c4e6edf2fd15856c5ade37a",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101846933,
-    "wof:lastmodified":1566595188,
+    "wof:lastmodified":1582312175,
     "wof:name":"L\u00e4nkipohja",
     "wof:parent_id":907199101,
     "wof:placetype":"locality",

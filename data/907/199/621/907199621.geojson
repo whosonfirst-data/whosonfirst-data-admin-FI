@@ -121,6 +121,9 @@
         "qs_pg:id":81289
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"02e164760c4f9bfe0d655dd119b7f9b3",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":907199621,
-    "wof:lastmodified":1566594130,
+    "wof:lastmodified":1582312094,
     "wof:name":"Vaala",
     "wof:parent_id":1159321487,
     "wof:placetype":"localadmin",

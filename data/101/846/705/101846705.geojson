@@ -58,6 +58,9 @@
         "qs_pg:id":243428
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"11619c26dff4c46965dfe76fae0cc2ea",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101846705,
-    "wof:lastmodified":1566595185,
+    "wof:lastmodified":1582312175,
     "wof:name":"Otalampi",
     "wof:parent_id":907198595,
     "wof:placetype":"locality",

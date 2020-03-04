@@ -64,6 +64,9 @@
         "qs_pg:id":1151735
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"50b3cece864bf1ea3d5fe85becc7a753",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199089,
-    "wof:lastmodified":1566594212,
+    "wof:lastmodified":1582312122,
     "wof:name":"Ahtari",
     "wof:parent_id":1159321555,
     "wof:placetype":"localadmin",

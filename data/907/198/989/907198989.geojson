@@ -111,6 +111,9 @@
         "qs_pg:id":1242930
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b31acdc3e25584aae2dcaae14c99bf20",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":907198989,
-    "wof:lastmodified":1566594082,
+    "wof:lastmodified":1582312075,
     "wof:name":"Laihia",
     "wof:parent_id":1159321589,
     "wof:placetype":"localadmin",

@@ -123,6 +123,9 @@
         "wd:id":"Q1009345"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ce3d7be052c02f90132fee973a70b4df",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101814295,
-    "wof:lastmodified":1566595228,
+    "wof:lastmodified":1582312183,
     "wof:name":"Kaustinen",
     "wof:parent_id":907199305,
     "wof:placetype":"locality",

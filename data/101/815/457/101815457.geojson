@@ -62,6 +62,9 @@
         "wd:id":"Q5491913"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9141326b7010d21392c9a045dd793fe5",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101815457,
-    "wof:lastmodified":1566595209,
+    "wof:lastmodified":1582312180,
     "wof:name":"Panelia",
     "wof:parent_id":907198915,
     "wof:placetype":"locality",

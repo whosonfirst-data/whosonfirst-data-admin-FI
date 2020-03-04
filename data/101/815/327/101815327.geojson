@@ -76,6 +76,9 @@
         "wk:page":"Kalanti"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a9870f069623b746a711c7fbbcdfc6e8",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101815327,
-    "wof:lastmodified":1566595211,
+    "wof:lastmodified":1582312180,
     "wof:name":"Kalanti",
     "wof:parent_id":907198615,
     "wof:placetype":"locality",

@@ -102,6 +102,9 @@
         "wk:page":"Jurva"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bdaff3c973c785c293eed397cd9fadd0",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101814133,
-    "wof:lastmodified":1566595221,
+    "wof:lastmodified":1582312182,
     "wof:name":"Jurva",
     "wof:parent_id":907199007,
     "wof:placetype":"locality",

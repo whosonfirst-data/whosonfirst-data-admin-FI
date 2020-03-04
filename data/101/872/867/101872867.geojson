@@ -65,6 +65,10 @@
         "wd:id":"Q11889730"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"019aa0125d10c0b889dc3bb9a07a76eb",
     "wof:hierarchy":[
         {
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101872867,
-    "wof:lastmodified":1566595162,
+    "wof:lastmodified":1582312170,
     "wof:name":"Rahja",
     "wof:parent_id":907199617,
     "wof:placetype":"locality",

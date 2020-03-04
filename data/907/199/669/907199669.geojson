@@ -64,6 +64,9 @@
         "qs_pg:id":81443
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"efc6f34ce64163d193fc9bfc7a777d6b",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199669,
-    "wof:lastmodified":1566594160,
+    "wof:lastmodified":1582312105,
     "wof:name":"Kruunupyy",
     "wof:parent_id":1159321639,
     "wof:placetype":"localadmin",

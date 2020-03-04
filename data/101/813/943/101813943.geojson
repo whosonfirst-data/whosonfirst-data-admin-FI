@@ -82,6 +82,9 @@
         "wk:page":"Vierum\u00e4ki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8f2ac3ff251ec0ff5d59b2df637b4ef7",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101813943,
-    "wof:lastmodified":1566595256,
+    "wof:lastmodified":1582312188,
     "wof:name":"Vierum\u00e4ki",
     "wof:parent_id":907198689,
     "wof:placetype":"locality",

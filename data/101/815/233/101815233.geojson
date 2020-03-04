@@ -135,6 +135,9 @@
         "wk:page":"Pukkila"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3804da3adc0bf8fecbb15dd59297620f",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101815233,
-    "wof:lastmodified":1566595201,
+    "wof:lastmodified":1582312178,
     "wof:name":"Pukkila",
     "wof:parent_id":907198663,
     "wof:placetype":"locality",

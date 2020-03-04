@@ -150,6 +150,9 @@
         "qs_pg:id":988711
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c38f8f2a63d8387120130821354f374e",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101847053,
-    "wof:lastmodified":1566595215,
+    "wof:lastmodified":1582312181,
     "wof:name":"Sotkamo",
     "wof:parent_id":907199319,
     "wof:placetype":"locality",

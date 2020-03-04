@@ -132,6 +132,9 @@
         "wk:page":"Savitaipale"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a8349e91c1b573263e6c142debba55c",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101814017,
-    "wof:lastmodified":1566595245,
+    "wof:lastmodified":1582312186,
     "wof:name":"Savitaipale",
     "wof:parent_id":907198759,
     "wof:placetype":"locality",

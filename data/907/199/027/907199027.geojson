@@ -64,6 +64,9 @@
         "qs_pg:id":81508
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eb4a1a80044347774f9dc8de4c341a75",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199027,
-    "wof:lastmodified":1566594223,
+    "wof:lastmodified":1582312125,
     "wof:name":"Heinavesi",
     "wof:parent_id":1159321493,
     "wof:placetype":"localadmin",

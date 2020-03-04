@@ -99,6 +99,9 @@
         "wk:page":"Kisko"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"24b6c8127dde33e4784f76728403325a",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101815379,
-    "wof:lastmodified":1566595201,
+    "wof:lastmodified":1582312178,
     "wof:name":"Kisko",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

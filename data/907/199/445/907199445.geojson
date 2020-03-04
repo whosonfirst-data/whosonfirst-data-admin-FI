@@ -154,6 +154,9 @@
         "qs_pg:id":369917
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"61eede7ee45145e75c99d3186f6cc834",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":907199445,
-    "wof:lastmodified":1566594238,
+    "wof:lastmodified":1582312130,
     "wof:name":"Kontiolahti",
     "wof:parent_id":1159321551,
     "wof:placetype":"localadmin",

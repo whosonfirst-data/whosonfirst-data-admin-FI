@@ -163,6 +163,9 @@
         "qs_pg:id":349797
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0ba441531d505de930573c07bcc88803",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":907198957,
-    "wof:lastmodified":1566594031,
+    "wof:lastmodified":1582312059,
     "wof:name":"Raisio",
     "wof:parent_id":1159321603,
     "wof:placetype":"localadmin",

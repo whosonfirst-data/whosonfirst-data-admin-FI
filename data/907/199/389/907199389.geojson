@@ -124,6 +124,9 @@
         "qs_pg:id":1207070
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f9c7a9a27819a8a4660e15a6dd5bc1ad",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":907199389,
-    "wof:lastmodified":1566594264,
+    "wof:lastmodified":1582312139,
     "wof:name":"Juuka",
     "wof:parent_id":1159321551,
     "wof:placetype":"localadmin",

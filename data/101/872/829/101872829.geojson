@@ -139,6 +139,10 @@
         "wd:id":"Q5991"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f7905c879e62c7c0961ef993761267f8",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":101872829,
-    "wof:lastmodified":1566595160,
+    "wof:lastmodified":1582312170,
     "wof:name":"Karijoki",
     "wof:parent_id":907199065,
     "wof:placetype":"locality",

@@ -91,6 +91,9 @@
         "wk:page":"Hermanni (Helsinki)"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a28532c2b4aeacb291b11dcac715926",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1497310638,
+    "wof:lastmodified":1582312155,
     "wof:name":"Hermanni",
     "wof:parent_id":890537233,
     "wof:placetype":"neighbourhood",

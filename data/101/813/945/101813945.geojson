@@ -132,6 +132,9 @@
         "qs_pg:id":1251867
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8e3d3eea04176165042d5797cbe25f6b",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101813945,
-    "wof:lastmodified":1566595256,
+    "wof:lastmodified":1582312188,
     "wof:name":"Hartola",
     "wof:parent_id":907198739,
     "wof:placetype":"locality",

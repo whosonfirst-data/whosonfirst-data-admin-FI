@@ -108,6 +108,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"70d8a175fe35e21c76e5fbda15958f59",
     "wof:hierarchy":[
         {
@@ -128,7 +132,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594415,
+    "wof:lastmodified":1582312147,
     "wof:name":"Myllypuro",
     "wof:parent_id":1108727347,
     "wof:placetype":"neighbourhood",

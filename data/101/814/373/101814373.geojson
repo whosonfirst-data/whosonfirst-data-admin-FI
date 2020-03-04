@@ -52,6 +52,9 @@
         "qs_pg:id":246962
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2808167ac56dc58db4e03258efe4fb8f",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101814373,
-    "wof:lastmodified":1566595251,
+    "wof:lastmodified":1582312187,
     "wof:name":"Kulho",
     "wof:parent_id":907199445,
     "wof:placetype":"locality",

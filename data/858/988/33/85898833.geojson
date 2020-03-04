@@ -77,6 +77,9 @@
         "qs_pg:id":1060487
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74c4f05381f7df0d1ffdedae49c9fcab",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1527270650,
+    "wof:lastmodified":1582312155,
     "wof:name":"Hermanstad",
     "wof:parent_id":890537231,
     "wof:placetype":"neighbourhood",

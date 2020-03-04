@@ -108,6 +108,9 @@
         "wk:page":"Fiskars, Finland"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"60a305f11eb5c7d7102e80dc521e2831",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101815295,
-    "wof:lastmodified":1566595199,
+    "wof:lastmodified":1582312178,
     "wof:name":"Fiskari",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

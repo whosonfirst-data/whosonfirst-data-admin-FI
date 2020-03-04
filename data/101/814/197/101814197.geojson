@@ -140,6 +140,9 @@
         "wd:id":"Q935835"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2860cc040d1b4be7e31cbaa8973af1f3",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101814197,
-    "wof:lastmodified":1566595239,
+    "wof:lastmodified":1582312185,
     "wof:name":"Pet\u00e4j\u00e4vesi",
     "wof:parent_id":907199215,
     "wof:placetype":"locality",

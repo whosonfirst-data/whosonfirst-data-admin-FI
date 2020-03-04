@@ -98,6 +98,10 @@
         "wd:id":"Q205769"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"243f711c8a519500d3035b174b5de72d",
     "wof:hierarchy":[
         {
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":101872897,
-    "wof:lastmodified":1566595165,
+    "wof:lastmodified":1582312171,
     "wof:name":"Juoksenki",
     "wof:parent_id":907199553,
     "wof:placetype":"locality",

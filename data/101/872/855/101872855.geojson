@@ -64,6 +64,9 @@
         "wd:id":"Q7918624"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b1aa28b451c6d96ec4b1bd152f027090",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101872855,
-    "wof:lastmodified":1566595165,
+    "wof:lastmodified":1582312171,
     "wof:name":"Vehmasm\u00e4ki",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

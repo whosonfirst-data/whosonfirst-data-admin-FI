@@ -132,6 +132,9 @@
         "wk:page":"Vaala"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dc25f4c0666f324394456a613143fb9e",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101814395,
-    "wof:lastmodified":1566595238,
+    "wof:lastmodified":1582312185,
     "wof:name":"Vaala",
     "wof:parent_id":907199621,
     "wof:placetype":"locality",

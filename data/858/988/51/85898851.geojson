@@ -140,6 +140,9 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b56112d28892e7c4c0c0624ad62dbdd3",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594461,
+    "wof:lastmodified":1582312154,
     "wof:name":"Kulosaari",
     "wof:parent_id":1108727349,
     "wof:placetype":"neighbourhood",

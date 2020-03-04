@@ -118,6 +118,9 @@
         "qs_pg:id":81341
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c03360d73b1a6ff345ef717246e5bfb9",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":907199295,
-    "wof:lastmodified":1566594158,
+    "wof:lastmodified":1582312104,
     "wof:name":"Ruovesi",
     "wof:parent_id":1159321485,
     "wof:placetype":"localadmin",

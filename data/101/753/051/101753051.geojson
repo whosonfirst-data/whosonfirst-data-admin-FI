@@ -75,6 +75,9 @@
         "wk:page":"Vaajakoski"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"751e85c18ba91e0af5e5310f3b381c91",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101753051,
-    "wof:lastmodified":1566595156,
+    "wof:lastmodified":1582312169,
     "wof:name":"Vaajakoski",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

@@ -399,6 +399,9 @@
         "qs_pg:id":1192607
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa020fced65f6ad4505600901529d331",
     "wof:hierarchy":[
         {
@@ -413,7 +416,7 @@
         }
     ],
     "wof:id":101748427,
-    "wof:lastmodified":1566595172,
+    "wof:lastmodified":1582312173,
     "wof:name":"Pori",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

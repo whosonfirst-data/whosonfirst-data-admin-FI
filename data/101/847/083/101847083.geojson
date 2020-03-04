@@ -120,6 +120,9 @@
         "wk:page":"Pulkkila"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0bfedd937e18e13e0cb46e912d57419e",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101847083,
-    "wof:lastmodified":1566595213,
+    "wof:lastmodified":1582312181,
     "wof:name":"Pulkkila",
     "wof:parent_id":907199755,
     "wof:placetype":"locality",

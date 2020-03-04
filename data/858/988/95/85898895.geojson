@@ -100,6 +100,9 @@
         "wd:id":"Q2165193"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e03307eaf4de1289574482a9c2248183",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1527270650,
+    "wof:lastmodified":1582312154,
     "wof:name":"Seurasaari",
     "wof:parent_id":1108727373,
     "wof:placetype":"neighbourhood",

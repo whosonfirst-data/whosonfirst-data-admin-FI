@@ -113,6 +113,9 @@
         "wd:id":"Q999193"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65c32b2a69c4723e1b7a2984d740bf05",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101846697,
-    "wof:lastmodified":1566595190,
+    "wof:lastmodified":1582312176,
     "wof:name":"Ruotsinpyht\u00e4\u00e4",
     "wof:parent_id":907198469,
     "wof:placetype":"locality",

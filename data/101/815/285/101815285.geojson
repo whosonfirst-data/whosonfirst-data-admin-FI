@@ -111,6 +111,9 @@
         "wk:page":"Klaukkala"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f038849167b0a7690db3252ce90885d4",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101815285,
-    "wof:lastmodified":1566595206,
+    "wof:lastmodified":1582312179,
     "wof:name":"Klaukkala",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

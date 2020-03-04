@@ -94,6 +94,9 @@
         "wk:page":"Nurmo"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2cc5f36e3878f296b00f22360836ebd2",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101839173,
-    "wof:lastmodified":1566595257,
+    "wof:lastmodified":1582312188,
     "wof:name":"Nurmo",
     "wof:parent_id":907199285,
     "wof:placetype":"locality",

@@ -70,6 +70,9 @@
         "wd:id":"Q11886569"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"75594280172b4ddc7c9d37842a98ab70",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101847045,
-    "wof:lastmodified":1566595216,
+    "wof:lastmodified":1582312181,
     "wof:name":"Paltaniemi",
     "wof:parent_id":907199455,
     "wof:placetype":"locality",

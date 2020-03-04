@@ -63,6 +63,9 @@
         "qs_pg:id":81520
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0b045248244be480ccb31b6cceb9bd39",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":907199131,
-    "wof:lastmodified":1566594195,
+    "wof:lastmodified":1582312116,
     "wof:name":"Hameenkyro",
     "wof:parent_id":1159321521,
     "wof:placetype":"localadmin",

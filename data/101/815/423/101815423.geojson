@@ -72,6 +72,9 @@
         "wd:id":"Q11275993"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"af1ad2c6e99f336f423a8d577f3ef6f0",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101815423,
-    "wof:lastmodified":1566595198,
+    "wof:lastmodified":1582312177,
     "wof:name":"Koria",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

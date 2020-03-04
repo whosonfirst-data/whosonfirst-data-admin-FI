@@ -101,6 +101,9 @@
         "wk:page":"Nagu"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b18a69c45842bcda39504d11d4f5e235",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101846755,
-    "wof:lastmodified":1566595175,
+    "wof:lastmodified":1582312174,
     "wof:name":"Nauvo",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

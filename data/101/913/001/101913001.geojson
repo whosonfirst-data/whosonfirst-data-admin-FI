@@ -70,6 +70,9 @@
         "qs_pg:id":989019
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8928a722bb5d2bff3e118233a08299fa",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101913001,
-    "wof:lastmodified":1566595174,
+    "wof:lastmodified":1582312173,
     "wof:name":"Str\u00f6mma",
     "wof:parent_id":907199735,
     "wof:placetype":"locality",

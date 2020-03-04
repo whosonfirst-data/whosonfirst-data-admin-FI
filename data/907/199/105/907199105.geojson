@@ -64,6 +64,9 @@
         "qs_pg:id":845301
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"579f2acbaf2f31673c75447a5cd6bf1a",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199105,
-    "wof:lastmodified":1566594108,
+    "wof:lastmodified":1582312086,
     "wof:name":"Alajarvi",
     "wof:parent_id":1159321567,
     "wof:placetype":"localadmin",

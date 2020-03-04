@@ -66,6 +66,9 @@
         "qs_pg:id":81397
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dc28f7f813804e07efeb15cffa5ea770",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":907198681,
-    "wof:lastmodified":1566594001,
+    "wof:lastmodified":1582312049,
     "wof:name":"Myrskyla",
     "wof:parent_id":1159321593,
     "wof:placetype":"localadmin",

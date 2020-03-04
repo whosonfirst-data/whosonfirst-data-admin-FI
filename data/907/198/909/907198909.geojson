@@ -349,6 +349,9 @@
         "qs_pg:id":81302
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3ae74074d7f8341aca0c6083637e951a",
     "wof:hierarchy":[
         {
@@ -362,7 +365,7 @@
         }
     ],
     "wof:id":907198909,
-    "wof:lastmodified":1566593984,
+    "wof:lastmodified":1582312043,
     "wof:name":"Turku",
     "wof:parent_id":1159321603,
     "wof:placetype":"localadmin",

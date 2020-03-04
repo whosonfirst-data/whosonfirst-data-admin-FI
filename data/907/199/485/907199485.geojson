@@ -90,6 +90,9 @@
         "qs_pg:id":81324
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e8a1f05d22215f920bdb3914a31e37ba",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":907199485,
-    "wof:lastmodified":1566594121,
+    "wof:lastmodified":1582312091,
     "wof:name":"Simo",
     "wof:parent_id":1159321559,
     "wof:placetype":"localadmin",

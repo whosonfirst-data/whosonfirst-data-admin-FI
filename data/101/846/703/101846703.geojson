@@ -52,6 +52,9 @@
         "qs_pg:id":1156702
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae51737ed1cd0cdf8202a5d49979a3da",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101846703,
-    "wof:lastmodified":1566595187,
+    "wof:lastmodified":1582312175,
     "wof:name":"Haimoo",
     "wof:parent_id":907198595,
     "wof:placetype":"locality",

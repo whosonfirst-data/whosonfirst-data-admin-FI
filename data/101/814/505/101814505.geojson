@@ -150,6 +150,9 @@
         "wk:page":"Savukoski"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7b3104390407ecd4a1ec5c84a66beac9",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101814505,
-    "wof:lastmodified":1566595220,
+    "wof:lastmodified":1582312182,
     "wof:name":"Savukoski",
     "wof:parent_id":907199579,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
         "qs_pg:id":886206
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c523d8217510ed0432c27aed1beb6a43",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108726999,
-    "wof:lastmodified":1497313215,
+    "wof:lastmodified":1582312165,
     "wof:name":"Herttoniemenranta",
     "wof:parent_id":890537227,
     "wof:placetype":"neighbourhood",

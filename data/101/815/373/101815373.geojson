@@ -111,6 +111,9 @@
         "wk:page":"Rym\u00e4ttyl\u00e4"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1738457539d04ef124c515b12c36dcb5",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101815373,
-    "wof:lastmodified":1566595211,
+    "wof:lastmodified":1582312180,
     "wof:name":"Rym\u00e4ttyl\u00e4",
     "wof:parent_id":907198913,
     "wof:placetype":"locality",

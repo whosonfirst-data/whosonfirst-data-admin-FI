@@ -109,6 +109,9 @@
         "qs_pg:id":1151711
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"183b452b2a32429565ebef42c9a349aa",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":907198897,
-    "wof:lastmodified":1566594072,
+    "wof:lastmodified":1582312072,
     "wof:name":"Rautalampi",
     "wof:parent_id":1159321623,
     "wof:placetype":"localadmin",

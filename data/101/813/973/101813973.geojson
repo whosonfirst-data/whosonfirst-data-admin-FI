@@ -111,6 +111,9 @@
         "wk:page":"Kiikoinen"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba638c614d3bfe0acfa0b3508752e237",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101813973,
-    "wof:lastmodified":1566595255,
+    "wof:lastmodified":1582312188,
     "wof:name":"Kiikoinen",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

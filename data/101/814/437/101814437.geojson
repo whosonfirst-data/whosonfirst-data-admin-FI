@@ -123,6 +123,9 @@
         "wk:page":"Vihanti"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"072071256dff59b911aefe338facb809",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101814437,
-    "wof:lastmodified":1566595228,
+    "wof:lastmodified":1582312183,
     "wof:name":"Vihanti",
     "wof:parent_id":907199449,
     "wof:placetype":"locality",

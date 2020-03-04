@@ -86,6 +86,9 @@
         "wd:id":"Q5474939"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f3d4eb02f0cc4bd60d091e1520f4779",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101814495,
-    "wof:lastmodified":1566595248,
+    "wof:lastmodified":1582312187,
     "wof:name":"Sirkka",
     "wof:parent_id":907199565,
     "wof:placetype":"locality",

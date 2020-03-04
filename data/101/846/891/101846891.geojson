@@ -58,6 +58,9 @@
         "qs_pg:id":1197347
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"026b6b83b8436ab16d5e0a24e693239d",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101846891,
-    "wof:lastmodified":1566595190,
+    "wof:lastmodified":1582312176,
     "wof:name":"Myllym\u00e4ki",
     "wof:parent_id":907199089,
     "wof:placetype":"locality",

@@ -106,6 +106,9 @@
         "qs_pg:id":231128
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5fd7d5f90ba537bc49d022b522db3e8",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":907199045,
-    "wof:lastmodified":1566594214,
+    "wof:lastmodified":1582312123,
     "wof:name":"Uusikaarlepyy",
     "wof:parent_id":1159321639,
     "wof:placetype":"localadmin",

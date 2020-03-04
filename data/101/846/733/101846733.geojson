@@ -82,6 +82,9 @@
         "wk:page":"Paattinen"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c749776aef9e24679e777c4fc0c060e9",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101846733,
-    "wof:lastmodified":1566595185,
+    "wof:lastmodified":1582312175,
     "wof:name":"Paattinen",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

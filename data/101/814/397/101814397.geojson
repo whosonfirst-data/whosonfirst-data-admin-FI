@@ -135,6 +135,9 @@
         "wk:page":"Paltamo"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a92ef460cc63c0bef8c830d3e4992648",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101814397,
-    "wof:lastmodified":1566595222,
+    "wof:lastmodified":1582312182,
     "wof:name":"Paltamo",
     "wof:parent_id":907199475,
     "wof:placetype":"locality",

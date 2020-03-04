@@ -99,6 +99,9 @@
         "wk:page":"K\u00e4lvi\u00e4"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"92f00c8c51d0b306e54f1b2282e6ba4d",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101846973,
-    "wof:lastmodified":1566595192,
+    "wof:lastmodified":1582312176,
     "wof:name":"K\u00e4lvi\u00e4",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

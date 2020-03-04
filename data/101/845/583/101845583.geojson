@@ -64,6 +64,9 @@
         "qs_pg:id":1222829
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"60c02045532931dc185cc67737293b4e",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101845583,
-    "wof:lastmodified":1566595160,
+    "wof:lastmodified":1582312169,
     "wof:name":"Alakyl\u00e4",
     "wof:parent_id":907199565,
     "wof:placetype":"locality",

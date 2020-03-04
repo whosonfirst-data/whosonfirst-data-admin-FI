@@ -121,6 +121,9 @@
         "qs_pg:id":245059
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8fa0fb9de3b35c5fdf5ec26a491d4012",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":907198643,
-    "wof:lastmodified":1566594003,
+    "wof:lastmodified":1582312050,
     "wof:name":"Vehmaa",
     "wof:parent_id":1159321637,
     "wof:placetype":"localadmin",

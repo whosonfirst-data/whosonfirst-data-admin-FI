@@ -131,6 +131,9 @@
         "wd:id":"Q674583"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ddea45f787c3775e1899667d0da4b5f9",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101847031,
-    "wof:lastmodified":1566595215,
+    "wof:lastmodified":1582312181,
     "wof:name":"R\u00e4\u00e4kkyl\u00e4",
     "wof:parent_id":907198891,
     "wof:placetype":"locality",

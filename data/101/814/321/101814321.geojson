@@ -135,6 +135,9 @@
         "qs_pg:id":1061216
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f40d7a4e4a256a9ed8e94cdc1a74a680",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101814321,
-    "wof:lastmodified":1566595251,
+    "wof:lastmodified":1582312187,
     "wof:name":"Pielavesi",
     "wof:parent_id":907199287,
     "wof:placetype":"locality",

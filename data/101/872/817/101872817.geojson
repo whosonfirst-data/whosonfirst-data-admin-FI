@@ -615,6 +615,9 @@
         "wd:id":"Q8304"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"157249bd6eceaa73a8c18d5c1c304002",
     "wof:hierarchy":[
         {
@@ -629,7 +632,7 @@
         }
     ],
     "wof:id":101872817,
-    "wof:lastmodified":1566595161,
+    "wof:lastmodified":1582312170,
     "wof:name":"Luoma-aho",
     "wof:parent_id":907199105,
     "wof:placetype":"locality",

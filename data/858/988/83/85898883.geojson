@@ -86,6 +86,9 @@
         "qs_pg:id":320727
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f97036cfb020daed1ba4555138840a10",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1497313058,
+    "wof:lastmodified":1582312155,
     "wof:name":"Pusila",
     "wof:parent_id":890537255,
     "wof:placetype":"neighbourhood",

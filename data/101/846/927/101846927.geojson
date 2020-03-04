@@ -303,6 +303,9 @@
         "wd:id":"Q935847"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5d8d2e190dd3f997debe2e238b45f698",
     "wof:hierarchy":[
         {
@@ -317,7 +320,7 @@
         }
     ],
     "wof:id":101846927,
-    "wof:lastmodified":1566595192,
+    "wof:lastmodified":1582312176,
     "wof:name":"Viitasaari",
     "wof:parent_id":907199223,
     "wof:placetype":"locality",

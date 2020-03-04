@@ -108,6 +108,9 @@
         "wk:page":"Karttula"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f29718c5a9cabafcba3f04e8f0723a1",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101846999,
-    "wof:lastmodified":1566595178,
+    "wof:lastmodified":1582312174,
     "wof:name":"Karttula",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

@@ -163,6 +163,9 @@
         "wk:page":"Enonteki\u00f6"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"906a94f9e36f297274eb25e55d4d32c2",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":101845571,
-    "wof:lastmodified":1566595159,
+    "wof:lastmodified":1582312169,
     "wof:name":"Enonteki\u00f6",
     "wof:parent_id":907199599,
     "wof:placetype":"locality",

@@ -148,6 +148,9 @@
         "wk:page":"Kolari"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"48ceca4c1465c26a3168ac1b45dbb292",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101845585,
-    "wof:lastmodified":1566595159,
+    "wof:lastmodified":1582312169,
     "wof:name":"Kolari",
     "wof:parent_id":907199583,
     "wof:placetype":"locality",

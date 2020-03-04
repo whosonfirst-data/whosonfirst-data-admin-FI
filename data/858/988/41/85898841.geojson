@@ -115,6 +115,10 @@
         "wd:id":"Q1418090"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b29da7f80f84d3689ccb08277be93103",
     "wof:hierarchy":[
         {
@@ -133,7 +137,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594464,
+    "wof:lastmodified":1582312155,
     "wof:name":"Imatrankoski",
     "wof:parent_id":101814019,
     "wof:placetype":"neighbourhood",

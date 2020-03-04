@@ -148,6 +148,9 @@
         "wd:id":"Q986327"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"76190c7aa8e664ad02268e84058b6399",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101814421,
-    "wof:lastmodified":1566595241,
+    "wof:lastmodified":1582312185,
     "wof:name":"Muhos",
     "wof:parent_id":907199477,
     "wof:placetype":"locality",

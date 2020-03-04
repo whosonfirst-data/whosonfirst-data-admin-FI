@@ -94,6 +94,9 @@
         "wk:page":"Kullaa"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7d6abcb0cdaa1068924623ba2ce4ec97",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101846827,
-    "wof:lastmodified":1566595178,
+    "wof:lastmodified":1582312174,
     "wof:name":"Kullaa",
     "wof:parent_id":907198905,
     "wof:placetype":"locality",

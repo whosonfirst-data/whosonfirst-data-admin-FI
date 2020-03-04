@@ -102,6 +102,9 @@
         "wk:page":"Jokela"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6813d7467fdc55f8633913d83ab24dd4",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101815241,
-    "wof:lastmodified":1566595205,
+    "wof:lastmodified":1582312179,
     "wof:name":"Jokela",
     "wof:parent_id":907198631,
     "wof:placetype":"locality",

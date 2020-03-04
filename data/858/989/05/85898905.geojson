@@ -124,6 +124,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"ecc265cc206ad440cacb4bb09fca2363",
     "wof:hierarchy":[
         {
@@ -144,7 +148,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594459,
+    "wof:lastmodified":1582312154,
     "wof:name":"Tammisalo",
     "wof:parent_id":890537227,
     "wof:placetype":"neighbourhood",

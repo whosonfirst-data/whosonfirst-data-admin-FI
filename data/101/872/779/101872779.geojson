@@ -68,6 +68,9 @@
         "qs_pg:id":6
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f5314fb85d976f0617dbc7214e61a701",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101872779,
-    "wof:lastmodified":1566595163,
+    "wof:lastmodified":1582312170,
     "wof:name":"Porlammi",
     "wof:parent_id":907198607,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "qs_pg:id":1242922
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b5d2d01501285769be28f9c34aa2a59",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":907198919,
-    "wof:lastmodified":1566594086,
+    "wof:lastmodified":1582312076,
     "wof:name":"Masku",
     "wof:parent_id":1159321603,
     "wof:placetype":"localadmin",

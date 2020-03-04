@@ -59,6 +59,9 @@
         "qs_pg:id":909455
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea56252bd9f942e49821e4faca89c8e9",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101814081,
-    "wof:lastmodified":1566595243,
+    "wof:lastmodified":1582312186,
     "wof:name":"Kuortti",
     "wof:parent_id":907198743,
     "wof:placetype":"locality",

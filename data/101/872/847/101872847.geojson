@@ -52,6 +52,9 @@
         "qs_pg:id":5
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ffe16ee5dffc37cfaeefeb743f8166e6",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101872847,
-    "wof:lastmodified":1566595164,
+    "wof:lastmodified":1582312171,
     "wof:name":"Savulahti",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

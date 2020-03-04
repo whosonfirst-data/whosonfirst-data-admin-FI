@@ -134,6 +134,9 @@
         "qs_pg:id":1327463
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae58e3313cb044c9a8ba8ec67a3d711e",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101846893,
-    "wof:lastmodified":1566595181,
+    "wof:lastmodified":1582312175,
     "wof:name":"Jalasj\u00e4rvi",
     "wof:parent_id":907199007,
     "wof:placetype":"locality",

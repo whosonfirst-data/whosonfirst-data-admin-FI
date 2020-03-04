@@ -69,6 +69,9 @@
         "qs_pg:id":81312
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c90ef975dbe1abb6d6558579332b1c0d",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":907198581,
-    "wof:lastmodified":1566594026,
+    "wof:lastmodified":1582312057,
     "wof:name":"Tammela",
     "wof:parent_id":1159321511,
     "wof:placetype":"localadmin",

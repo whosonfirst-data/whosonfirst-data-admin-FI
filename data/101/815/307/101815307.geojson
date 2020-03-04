@@ -143,6 +143,9 @@
         "qs_pg:id":977276
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dc13a45a3b676e318cc210a7e47babe2",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101815307,
-    "wof:lastmodified":1566595194,
+    "wof:lastmodified":1582312177,
     "wof:name":"Inkoo",
     "wof:parent_id":907198509,
     "wof:placetype":"locality",

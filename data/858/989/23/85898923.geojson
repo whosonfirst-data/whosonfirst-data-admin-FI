@@ -76,6 +76,9 @@
         "qs_pg:id":225439
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6a96c56fd050a090b93223341d3ff998",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594460,
+    "wof:lastmodified":1582312154,
     "wof:name":"Veljeskyl\u00e4",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

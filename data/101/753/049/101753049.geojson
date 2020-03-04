@@ -160,6 +160,9 @@
         "qs_pg:id":1301855
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"329049a8723a2bff2a12ca43610867e2",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":101753049,
-    "wof:lastmodified":1566595154,
+    "wof:lastmodified":1582312169,
     "wof:name":"Lemp\u00e4\u00e4l\u00e4",
     "wof:parent_id":907199279,
     "wof:placetype":"locality",

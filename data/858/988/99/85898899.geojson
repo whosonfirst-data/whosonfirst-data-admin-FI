@@ -108,6 +108,9 @@
         "wk:page":"Suurmets\u00e4"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6bde1146cbce69716ad3541acdd64db1",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1536864507,
+    "wof:lastmodified":1582312155,
     "wof:name":"Suurmetsa",
     "wof:parent_id":890537239,
     "wof:placetype":"neighbourhood",

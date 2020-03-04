@@ -208,6 +208,9 @@
         "qs_pg:id":244404
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"600605b906608d75091c8886c7a96891",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":907199049,
-    "wof:lastmodified":1566594150,
+    "wof:lastmodified":1582312101,
     "wof:name":"Kokkola",
     "wof:parent_id":1159321609,
     "wof:placetype":"localadmin",

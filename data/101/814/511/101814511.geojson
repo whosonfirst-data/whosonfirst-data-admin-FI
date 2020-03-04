@@ -158,6 +158,9 @@
         "wk:page":"Ivalo"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7c7591ffb902f54af758c3967211a1ba",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101814511,
-    "wof:lastmodified":1566595236,
+    "wof:lastmodified":1582312184,
     "wof:name":"Ivalo",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

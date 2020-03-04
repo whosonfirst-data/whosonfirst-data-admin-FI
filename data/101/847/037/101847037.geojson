@@ -61,6 +61,9 @@
         "qs_pg:id":1232101
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"70421e0d41cd851957442fb8cbe5adc0",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101847037,
-    "wof:lastmodified":1566595215,
+    "wof:lastmodified":1582312181,
     "wof:name":"Puhos",
     "wof:parent_id":907198727,
     "wof:placetype":"locality",

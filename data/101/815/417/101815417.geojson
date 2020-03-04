@@ -81,6 +81,9 @@
         "wk:page":"Oitti"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"07390c544af54fe45654de74718596ef",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101815417,
-    "wof:lastmodified":1566595205,
+    "wof:lastmodified":1582312179,
     "wof:name":"Oitti",
     "wof:parent_id":907198561,
     "wof:placetype":"locality",

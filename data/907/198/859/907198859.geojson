@@ -104,6 +104,9 @@
         "qs_pg:id":554291
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d48e05395b21de85cb8fe0dc2f3b321",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":907198859,
-    "wof:lastmodified":1566594013,
+    "wof:lastmodified":1582312053,
     "wof:name":"Outokumpu",
     "wof:parent_id":1159321551,
     "wof:placetype":"localadmin",

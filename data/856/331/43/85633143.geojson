@@ -1174,8 +1174,8 @@
     "reversegeo:geometry":"85633143-alt-quattroshapes.geojson",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes",
-        "naturalearth"
+        "naturalearth",
+        "quattroshapes"
     ],
     "src:geom_via":"us-dshiu",
     "src:lbl_centroid":"mapshaper",
@@ -1230,6 +1230,11 @@
     },
     "wof:country":"FI",
     "wof:country_alpha3":"FIN",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "quattroshapes",
+        "naturalearth"
+    ],
     "wof:geomhash":"a188dd61353be980106fa3382c49c400",
     "wof:hierarchy":[
         {
@@ -1247,7 +1252,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1566594417,
+    "wof:lastmodified":1583199028,
     "wof:name":"Finland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

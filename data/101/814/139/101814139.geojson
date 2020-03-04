@@ -177,6 +177,9 @@
         "wk:page":"Kauhajoki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"60ac7d812166096bd23712b706f9b66f",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":101814139,
-    "wof:lastmodified":1566595240,
+    "wof:lastmodified":1582312185,
     "wof:name":"Kauhajoki",
     "wof:parent_id":907199121,
     "wof:placetype":"locality",

@@ -108,6 +108,9 @@
         "wk:page":"Perni\u00f6"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c73c8f9d0f4a3094859ae365969ddc65",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101815381,
-    "wof:lastmodified":1566595212,
+    "wof:lastmodified":1582312180,
     "wof:name":"Perni\u00f6",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

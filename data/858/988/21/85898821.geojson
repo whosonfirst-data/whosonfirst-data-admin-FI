@@ -127,6 +127,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6da3c8fffd19f0e2c286ac152cffbba9",
     "wof:hierarchy":[
         {
@@ -147,7 +151,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594463,
+    "wof:lastmodified":1582312155,
     "wof:name":"Etu-Toolo",
     "wof:parent_id":1108727337,
     "wof:placetype":"neighbourhood",

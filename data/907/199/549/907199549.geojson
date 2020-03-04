@@ -132,6 +132,9 @@
         "qs_pg:id":550539
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eff169eac92c0ffe4fc83fa8b8fc5038",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":907199549,
-    "wof:lastmodified":1566594262,
+    "wof:lastmodified":1582312138,
     "wof:name":"Ylitornio",
     "wof:parent_id":1159321537,
     "wof:placetype":"localadmin",

@@ -114,6 +114,9 @@
         "qs_pg:id":1155680
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"47dfb8b757a5cbfea2379ae1e2b8ae32",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":907199755,
-    "wof:lastmodified":1566594098,
+    "wof:lastmodified":1582312083,
     "wof:name":"Siikalatva",
     "wof:parent_id":1159321571,
     "wof:placetype":"localadmin",

@@ -79,6 +79,9 @@
         "qs_pg:id":81456
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9914ce284d42254e5b6322473e2e55f8",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":907199565,
-    "wof:lastmodified":1566594210,
+    "wof:lastmodified":1582312121,
     "wof:name":"Kittila",
     "wof:parent_id":1159321583,
     "wof:placetype":"localadmin",

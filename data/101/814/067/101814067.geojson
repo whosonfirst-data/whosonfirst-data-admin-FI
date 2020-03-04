@@ -123,6 +123,9 @@
         "wk:page":"Punkaharju"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6c2da1be7262027f6fb8d9b50710dac8",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101814067,
-    "wof:lastmodified":1566595249,
+    "wof:lastmodified":1582312187,
     "wof:name":"Punkaharju",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

@@ -63,6 +63,9 @@
         "qs_pg:id":369865
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"45b859e1eee75b869f8d66a34a20d462",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":907199187,
-    "wof:lastmodified":1566594173,
+    "wof:lastmodified":1582312109,
     "wof:name":"Palkane",
     "wof:parent_id":1159321521,
     "wof:placetype":"localadmin",

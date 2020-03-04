@@ -65,6 +65,9 @@
         "wd:id":"Q6360788"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38413d93b626bfe846c1fb593d5689d7",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101911647,
-    "wof:lastmodified":1566595260,
+    "wof:lastmodified":1582312189,
     "wof:name":"Kanavuori",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

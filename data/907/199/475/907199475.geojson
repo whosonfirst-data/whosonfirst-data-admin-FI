@@ -121,6 +121,9 @@
         "qs_pg:id":275161
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb95afad24826dbff088bf1520af9a39",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":907199475,
-    "wof:lastmodified":1566594228,
+    "wof:lastmodified":1582312127,
     "wof:name":"Paltamo",
     "wof:parent_id":1159321487,
     "wof:placetype":"localadmin",

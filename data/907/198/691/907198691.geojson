@@ -121,6 +121,9 @@
         "qs_pg:id":81534
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bae21c35d7e5dc72ba0e560d2a2c3d4d",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":907198691,
-    "wof:lastmodified":1566594065,
+    "wof:lastmodified":1582312069,
     "wof:name":"Asikkala",
     "wof:parent_id":1159321483,
     "wof:placetype":"localadmin",

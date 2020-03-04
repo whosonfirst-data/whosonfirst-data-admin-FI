@@ -137,6 +137,9 @@
         "qs_pg:id":993214
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dc6ce40bd803a54df2fdae3ee1a3ea28",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101846747,
-    "wof:lastmodified":1566595183,
+    "wof:lastmodified":1582312175,
     "wof:name":"Rusko",
     "wof:parent_id":907198981,
     "wof:placetype":"locality",

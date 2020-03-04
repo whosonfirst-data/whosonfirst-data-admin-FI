@@ -120,6 +120,9 @@
         "qs_pg:id":1079096
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2cc32d3335a9761172e41bb21acd3f23",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101815473,
-    "wof:lastmodified":1566595207,
+    "wof:lastmodified":1582312179,
     "wof:name":"Luvia",
     "wof:parent_id":907199643,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "qs_pg:id":1026804
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dcda2a96e2b2ec76cca7fda48f95bc52",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":907199011,
-    "wof:lastmodified":1566594231,
+    "wof:lastmodified":1582312128,
     "wof:name":"Lieto",
     "wof:parent_id":1159321603,
     "wof:placetype":"localadmin",

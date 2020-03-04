@@ -64,6 +64,9 @@
         "qs_pg:id":965423
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f11e812e0af1e8e496e1c4aeb4419d73",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101814185,
-    "wof:lastmodified":1566595252,
+    "wof:lastmodified":1582312187,
     "wof:name":"Vihtavuori",
     "wof:parent_id":907199203,
     "wof:placetype":"locality",

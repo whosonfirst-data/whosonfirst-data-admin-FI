@@ -311,6 +311,9 @@
         "wd:id":"Q203619"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0ef3d17db77a157d1e22d9c577339346",
     "wof:hierarchy":[
         {
@@ -325,7 +328,7 @@
         }
     ],
     "wof:id":101839183,
-    "wof:lastmodified":1566595258,
+    "wof:lastmodified":1582312189,
     "wof:name":"Kemi",
     "wof:parent_id":907199597,
     "wof:placetype":"locality",

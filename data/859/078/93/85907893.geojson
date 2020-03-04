@@ -81,6 +81,9 @@
         "qs_pg:id":1242444
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3843362e6248bb3613519ea4ce79df51",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1527268826,
+    "wof:lastmodified":1582312147,
     "wof:name":"Erotta-Jankatu",
     "wof:parent_id":1108727337,
     "wof:placetype":"neighbourhood",

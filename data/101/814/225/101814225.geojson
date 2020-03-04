@@ -138,6 +138,9 @@
         "qs_pg:id":1078632
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"00b0616ab5e872c2e050e0f07114c86b",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":101814225,
-    "wof:lastmodified":1566595245,
+    "wof:lastmodified":1582312186,
     "wof:name":"Joutsa",
     "wof:parent_id":907198751,
     "wof:placetype":"locality",

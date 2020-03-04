@@ -132,6 +132,9 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a1b3e130f968f777e73ad48611bb854f",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594414,
+    "wof:lastmodified":1582312147,
     "wof:name":"Punavuori",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

@@ -67,6 +67,9 @@
         "qs_pg:id":369864
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"319b2eee0af94a95587e49fb98eeb6fa",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":907199161,
-    "wof:lastmodified":1566594106,
+    "wof:lastmodified":1582312086,
     "wof:name":"Pedersoren kunta",
     "wof:parent_id":1159321639,
     "wof:placetype":"localadmin",

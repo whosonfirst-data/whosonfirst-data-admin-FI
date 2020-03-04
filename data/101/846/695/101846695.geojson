@@ -80,6 +80,9 @@
         "wd:id":"Q20999555"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"279261fb662d7f3d3a10dccdc90aeb3a",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101846695,
-    "wof:lastmodified":1566595182,
+    "wof:lastmodified":1582312175,
     "wof:name":"Lapinj\u00e4rvi",
     "wof:parent_id":907198607,
     "wof:placetype":"locality",

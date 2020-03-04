@@ -64,6 +64,9 @@
         "qs_pg:id":81492
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3bcf0a182a8bef00830500a4cbcc65f",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199625,
-    "wof:lastmodified":1566594218,
+    "wof:lastmodified":1582312124,
     "wof:name":"Jamijarvi",
     "wof:parent_id":1159321519,
     "wof:placetype":"localadmin",

@@ -64,6 +64,9 @@
         "qs_pg:id":1026832
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d188d1497852714eaa2f22752f1915a2",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199013,
-    "wof:lastmodified":1566594140,
+    "wof:lastmodified":1582312097,
     "wof:name":"Pieksamaki",
     "wof:parent_id":1159321615,
     "wof:placetype":"localadmin",

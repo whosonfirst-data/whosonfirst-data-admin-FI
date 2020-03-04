@@ -127,6 +127,9 @@
         "qs_pg:id":81483
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d5442ddfb1504434ba1a8240ede8207a",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":907199065,
-    "wof:lastmodified":1566594154,
+    "wof:lastmodified":1582312103,
     "wof:name":"Karijoki",
     "wof:parent_id":1159321543,
     "wof:placetype":"localadmin",

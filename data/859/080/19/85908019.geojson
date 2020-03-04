@@ -99,6 +99,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"710212a6a11b4fa03a652388ec59dfb2",
     "wof:hierarchy":[
         {
@@ -119,7 +123,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594415,
+    "wof:lastmodified":1582312148,
     "wof:name":"Tattarisuo",
     "wof:parent_id":1108727369,
     "wof:placetype":"neighbourhood",

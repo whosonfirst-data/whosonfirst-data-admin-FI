@@ -109,6 +109,9 @@
         "qs_pg:id":81348
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"865319ebf1527707d06eb74efea99431",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":907199323,
-    "wof:lastmodified":1566594176,
+    "wof:lastmodified":1582312110,
     "wof:name":"Rautavaara",
     "wof:parent_id":1159321579,
     "wof:placetype":"localadmin",

@@ -92,6 +92,9 @@
         "qs_pg:id":234216
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"990ef85ec2cbc6b684f1a351622a2cb3",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101814069,
-    "wof:lastmodified":1566595249,
+    "wof:lastmodified":1582312187,
     "wof:name":"Otava",
     "wof:parent_id":907198765,
     "wof:placetype":"locality",

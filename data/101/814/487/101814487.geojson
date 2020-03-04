@@ -65,6 +65,9 @@
         "wd:id":"Q5403254"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b16539cdd959244db715c4fc87b773d0",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101814487,
-    "wof:lastmodified":1566595245,
+    "wof:lastmodified":1582312186,
     "wof:name":"Muurola",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

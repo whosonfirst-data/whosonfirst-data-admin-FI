@@ -120,6 +120,9 @@
         "qs_pg:id":1030021
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"77ea467d888ce21a1832ef629b767e1b",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":907198545,
-    "wof:lastmodified":1566594029,
+    "wof:lastmodified":1582312058,
     "wof:name":"Pornainen",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

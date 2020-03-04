@@ -102,6 +102,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"0743d40b83837c301e3c3cbeedcfc383",
     "wof:hierarchy":[
         {
@@ -122,7 +126,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594416,
+    "wof:lastmodified":1582312148,
     "wof:name":"Pihlajisto",
     "wof:parent_id":1108727359,
     "wof:placetype":"neighbourhood",

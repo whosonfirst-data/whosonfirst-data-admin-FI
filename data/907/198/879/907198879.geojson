@@ -112,6 +112,9 @@
         "qs_pg:id":1272762
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a4dbde1aad173fd4cf93159ee3b95001",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":907198879,
-    "wof:lastmodified":1566594049,
+    "wof:lastmodified":1582312064,
     "wof:name":"Joroinen",
     "wof:parent_id":1159321615,
     "wof:placetype":"localadmin",

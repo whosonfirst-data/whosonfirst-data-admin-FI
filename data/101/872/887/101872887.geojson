@@ -157,6 +157,10 @@
         "qs_pg:id":1061218
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"9ec967877a47a841050e1f53f0b51fdc",
     "wof:hierarchy":[
         {
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":101872887,
-    "wof:lastmodified":1566595160,
+    "wof:lastmodified":1582312170,
     "wof:name":"Posio",
     "wof:parent_id":907199533,
     "wof:placetype":"locality",

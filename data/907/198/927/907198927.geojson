@@ -127,6 +127,9 @@
         "qs_pg:id":337788
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b113eeb3847eb76b78f7cd8a825baeb",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":907198927,
-    "wof:lastmodified":1566594078,
+    "wof:lastmodified":1582312074,
     "wof:name":"Harjavalta",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

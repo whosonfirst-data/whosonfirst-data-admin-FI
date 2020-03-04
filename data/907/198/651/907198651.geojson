@@ -73,6 +73,9 @@
         "qs_pg:id":1117603
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fd70b6c951ff51fb8bee3c8dbd14fb67",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":907198651,
-    "wof:lastmodified":1566594014,
+    "wof:lastmodified":1582312053,
     "wof:name":"Pyhtaa",
     "wof:parent_id":1159321573,
     "wof:placetype":"localadmin",

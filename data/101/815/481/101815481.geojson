@@ -152,6 +152,9 @@
         "qs_pg:id":1242926
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"afd4fb62930111dcb0cab5321c6e7079",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101815481,
-    "wof:lastmodified":1566595206,
+    "wof:lastmodified":1582312179,
     "wof:name":"Kokem\u00e4ki",
     "wof:parent_id":907198937,
     "wof:placetype":"locality",

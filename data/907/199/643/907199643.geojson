@@ -109,6 +109,9 @@
         "qs_pg:id":1026799
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"efded31cbfb2809516aed89624ea144d",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":907199643,
-    "wof:lastmodified":1566594121,
+    "wof:lastmodified":1582312091,
     "wof:name":"Luvia",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

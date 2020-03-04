@@ -96,6 +96,9 @@
         "wk:page":"Vehmersalmi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f30fc9af89fc502a958073979e6fc149",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101847017,
-    "wof:lastmodified":1566595217,
+    "wof:lastmodified":1582312181,
     "wof:name":"Vehmersalmi",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

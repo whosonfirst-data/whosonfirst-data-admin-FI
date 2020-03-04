@@ -137,6 +137,9 @@
         "wd:id":"Q5986"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"93cdb860043b8f2d85114c22d8ba01dc",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101814145,
-    "wof:lastmodified":1566595234,
+    "wof:lastmodified":1582312184,
     "wof:name":"Isojoki",
     "wof:parent_id":907198871,
     "wof:placetype":"locality",

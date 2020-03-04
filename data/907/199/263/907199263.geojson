@@ -131,6 +131,9 @@
         "qs_pg:id":1029962
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f67ea07a4ae8b722f45bf5d1e86cabfb",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":907199263,
-    "wof:lastmodified":1566594259,
+    "wof:lastmodified":1582312137,
     "wof:name":"Vesanto",
     "wof:parent_id":1159321623,
     "wof:placetype":"localadmin",

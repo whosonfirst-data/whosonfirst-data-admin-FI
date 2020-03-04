@@ -153,6 +153,9 @@
         "qs_pg:id":221605
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b2a2f5393ffedd11558664306e299baf",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":907199723,
-    "wof:lastmodified":1566594182,
+    "wof:lastmodified":1582312112,
     "wof:name":"Hamina",
     "wof:parent_id":1159321573,
     "wof:placetype":"localadmin",

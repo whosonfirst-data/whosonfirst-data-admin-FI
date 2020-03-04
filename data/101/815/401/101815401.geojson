@@ -177,6 +177,9 @@
         "qs_pg:id":1060473
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e542213ec5ec5e39d281ddcaa4f00818",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":101815401,
-    "wof:lastmodified":1566595198,
+    "wof:lastmodified":1582312177,
     "wof:name":"Forssa",
     "wof:parent_id":907199441,
     "wof:placetype":"locality",

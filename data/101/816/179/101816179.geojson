@@ -143,6 +143,9 @@
         "qs_pg:id":502830
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"03ca62a20988355b668419760fb37627",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101816179,
-    "wof:lastmodified":1566595157,
+    "wof:lastmodified":1582312169,
     "wof:name":"Eura",
     "wof:parent_id":907198915,
     "wof:placetype":"locality",

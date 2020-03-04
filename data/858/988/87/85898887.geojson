@@ -115,6 +115,9 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eb926862a1ce4ec8e253c239658f3b44",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594463,
+    "wof:lastmodified":1582312155,
     "wof:name":"Santahamina",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",

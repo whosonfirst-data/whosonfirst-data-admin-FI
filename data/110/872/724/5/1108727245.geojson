@@ -66,6 +66,9 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2956384e5df5f1c78708945ec907b60c",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108727245,
-    "wof:lastmodified":1566594966,
+    "wof:lastmodified":1582312165,
     "wof:name":"Vesala",
     "wof:parent_id":890537253,
     "wof:placetype":"neighbourhood",

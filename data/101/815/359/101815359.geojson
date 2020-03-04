@@ -97,6 +97,9 @@
         "wk:page":"Kuusjoki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"173c478a4e5293e545aad3c4b8be9308",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101815359,
-    "wof:lastmodified":1566595203,
+    "wof:lastmodified":1582312178,
     "wof:name":"Kuusjoki",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

@@ -119,6 +119,9 @@
         "qs_pg:id":1030082
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"64ee0f98885852b27d3e7982418df500",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":907198959,
-    "wof:lastmodified":1566594032,
+    "wof:lastmodified":1582312059,
     "wof:name":"Lemi",
     "wof:parent_id":1159321547,
     "wof:placetype":"localadmin",

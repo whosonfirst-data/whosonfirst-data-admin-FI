@@ -158,6 +158,9 @@
         "qs_pg:id":81463
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1cd305fd71c701f737682fa4541e877",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":907199179,
-    "wof:lastmodified":1566594272,
+    "wof:lastmodified":1582312142,
     "wof:name":"Keuruu",
     "wof:parent_id":1159321499,
     "wof:placetype":"localadmin",

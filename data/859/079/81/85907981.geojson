@@ -111,6 +111,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"bed19fbf41a61d0ccd8966fa0c020469",
     "wof:hierarchy":[
         {
@@ -131,7 +135,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594413,
+    "wof:lastmodified":1582312147,
     "wof:name":"Alppila",
     "wof:parent_id":890537245,
     "wof:placetype":"neighbourhood",

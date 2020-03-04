@@ -141,6 +141,9 @@
         "wk:page":"Alavieska"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a9eb5a7341d202907d9e7b1f32d14768",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101814459,
-    "wof:lastmodified":1566595249,
+    "wof:lastmodified":1582312187,
     "wof:name":"Alavieska",
     "wof:parent_id":907199429,
     "wof:placetype":"locality",

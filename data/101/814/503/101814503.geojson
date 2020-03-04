@@ -272,6 +272,9 @@
         "wk:page":"Sodankyl\u00e4"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4a2a27892f8d8c31cc4fc5e30a5d5910",
     "wof:hierarchy":[
         {
@@ -286,7 +289,7 @@
         }
     ],
     "wof:id":101814503,
-    "wof:lastmodified":1566595221,
+    "wof:lastmodified":1582312182,
     "wof:name":"Sodankyl\u00e4",
     "wof:parent_id":907199561,
     "wof:placetype":"locality",

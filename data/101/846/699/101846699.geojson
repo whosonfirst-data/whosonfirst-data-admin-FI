@@ -267,6 +267,9 @@
         "wd:id":"Q5068835"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e43ede9487d055af27c060399c8ebf66",
     "wof:hierarchy":[
         {
@@ -281,7 +284,7 @@
         }
     ],
     "wof:id":101846699,
-    "wof:lastmodified":1566595190,
+    "wof:lastmodified":1582312176,
     "wof:name":"Halkia",
     "wof:parent_id":907198545,
     "wof:placetype":"locality",

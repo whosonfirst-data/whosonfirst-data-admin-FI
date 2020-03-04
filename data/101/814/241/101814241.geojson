@@ -188,6 +188,9 @@
         "wk:page":"Jakobstad"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6688c102272d0d0bc723c6a1585d3807",
     "wof:hierarchy":[
         {
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101814241,
-    "wof:lastmodified":1566595242,
+    "wof:lastmodified":1582312185,
     "wof:name":"Pietarsaari",
     "wof:parent_id":907199069,
     "wof:placetype":"locality",

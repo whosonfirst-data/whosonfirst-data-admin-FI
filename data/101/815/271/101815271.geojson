@@ -131,6 +131,9 @@
         "wk:page":"Pern\u00e5"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5393bf43b0a14aa0393258ae6593420e",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101815271,
-    "wof:lastmodified":1566595207,
+    "wof:lastmodified":1582312179,
     "wof:name":"Pernaja",
     "wof:parent_id":907198469,
     "wof:placetype":"locality",

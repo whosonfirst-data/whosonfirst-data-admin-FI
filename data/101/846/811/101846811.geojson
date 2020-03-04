@@ -125,6 +125,9 @@
         "wd:id":"Q1000119"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8a024efab34b3ec9927d177a2872c6f",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101846811,
-    "wof:lastmodified":1566595179,
+    "wof:lastmodified":1582312174,
     "wof:name":"K\u00f6yli\u00f6",
     "wof:parent_id":907198925,
     "wof:placetype":"locality",

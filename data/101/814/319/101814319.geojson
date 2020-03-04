@@ -108,6 +108,9 @@
         "wk:page":"Varpaisj\u00e4rvi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8decb21eab2b7b874c3ef1fa88aa68db",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101814319,
-    "wof:lastmodified":1566595251,
+    "wof:lastmodified":1582312187,
     "wof:name":"Varpaisj\u00e4rvi",
     "wof:parent_id":907199373,
     "wof:placetype":"locality",

@@ -74,6 +74,9 @@
         "wd:id":"Q11883616"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b8138c5b854690cd9873b65d564f32a",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101846985,
-    "wof:lastmodified":1566595184,
+    "wof:lastmodified":1582312175,
     "wof:name":"Muuruvesi",
     "wof:parent_id":907199339,
     "wof:placetype":"locality",

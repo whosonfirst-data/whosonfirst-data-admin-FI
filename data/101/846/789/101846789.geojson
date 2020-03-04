@@ -62,6 +62,9 @@
         "qs_pg:id":1060310
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3fa64c12e72ef4195610d7600dfc73c9",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101846789,
-    "wof:lastmodified":1566595193,
+    "wof:lastmodified":1582312176,
     "wof:name":"Mets\u00e4kyl\u00e4",
     "wof:parent_id":907199723,
     "wof:placetype":"locality",

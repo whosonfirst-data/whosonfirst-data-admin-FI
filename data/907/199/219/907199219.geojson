@@ -112,6 +112,9 @@
         "qs_pg:id":1026814
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65d5921963d1de0441738aa67ed29e2a",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":907199219,
-    "wof:lastmodified":1566594142,
+    "wof:lastmodified":1582312098,
     "wof:name":"Hattula",
     "wof:parent_id":1159321513,
     "wof:placetype":"localadmin",

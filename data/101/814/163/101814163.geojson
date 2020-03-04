@@ -129,6 +129,9 @@
         "wk:page":"Pihtipudas"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0c8302b7d06f261bc532753165d4dd14",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101814163,
-    "wof:lastmodified":1566595239,
+    "wof:lastmodified":1582312185,
     "wof:name":"Pihtipudas",
     "wof:parent_id":907199135,
     "wof:placetype":"locality",

@@ -100,6 +100,9 @@
         "wk:page":"Kiukainen"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"57e077dc767bb0e37ac3945cf4299267",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101815459,
-    "wof:lastmodified":1566595210,
+    "wof:lastmodified":1582312180,
     "wof:name":"Kiukainen",
     "wof:parent_id":907198915,
     "wof:placetype":"locality",

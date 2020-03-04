@@ -64,6 +64,9 @@
         "qs_pg:id":81477
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6387bc70948fddd0e8c65443fb5fadaf",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199465,
-    "wof:lastmodified":1566594170,
+    "wof:lastmodified":1582312108,
     "wof:name":"Karsamaki",
     "wof:parent_id":1159321591,
     "wof:placetype":"localadmin",

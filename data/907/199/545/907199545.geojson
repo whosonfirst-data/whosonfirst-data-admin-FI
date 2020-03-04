@@ -126,6 +126,9 @@
         "qs_pg:id":244401
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a4622bcbeafa31d7850a584713de868",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":907199545,
-    "wof:lastmodified":1566594184,
+    "wof:lastmodified":1582312113,
     "wof:name":"Tervola",
     "wof:parent_id":1159321559,
     "wof:placetype":"localadmin",

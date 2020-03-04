@@ -54,6 +54,10 @@
         "qs_pg:id":494603
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6db0fad997f3a81d7770c8c389317214",
     "wof:hierarchy":[
         {
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":101872871,
-    "wof:lastmodified":1566595164,
+    "wof:lastmodified":1582312171,
     "wof:name":"Kyt\u00f6kyl\u00e4",
     "wof:parent_id":907199471,
     "wof:placetype":"locality",

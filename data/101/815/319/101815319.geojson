@@ -96,6 +96,9 @@
         "wk:page":"Bromarf"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8b08c6da63c9669682f97edd77182ad5",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101815319,
-    "wof:lastmodified":1566595212,
+    "wof:lastmodified":1582312180,
     "wof:name":"Bromarv",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

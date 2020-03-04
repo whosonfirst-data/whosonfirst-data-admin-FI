@@ -102,6 +102,9 @@
         "qs_pg:id":1327429
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6f65dca49c2256f87f626e0fb6b03055",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101913009,
-    "wof:lastmodified":1566595174,
+    "wof:lastmodified":1582312173,
     "wof:name":"Alah\u00e4rm\u00e4",
     "wof:parent_id":907199237,
     "wof:placetype":"locality",

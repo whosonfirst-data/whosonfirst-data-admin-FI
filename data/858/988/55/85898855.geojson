@@ -109,6 +109,9 @@
         "wk:page":"Laajasalo"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4d0ffaa10db9fafdc6f8e5cfb34fc9c6",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1527641062,
+    "wof:lastmodified":1582312155,
     "wof:name":"Laajasalo",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",

@@ -94,6 +94,9 @@
         "wd:id":"Q1511769"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e5ca5fb490fcffe3080275196384ba04",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101814203,
-    "wof:lastmodified":1566595230,
+    "wof:lastmodified":1582312183,
     "wof:name":"S\u00e4yn\u00e4tsalo",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

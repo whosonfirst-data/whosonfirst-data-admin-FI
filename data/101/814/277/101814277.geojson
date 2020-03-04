@@ -140,6 +140,9 @@
         "qs_pg:id":1139062
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d4d22f02f3dafa95e79098290ba6ba17",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101814277,
-    "wof:lastmodified":1566595242,
+    "wof:lastmodified":1582312185,
     "wof:name":"N\u00e4mpn\u00e4s",
     "wof:parent_id":907199661,
     "wof:placetype":"locality",

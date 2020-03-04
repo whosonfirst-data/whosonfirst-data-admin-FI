@@ -101,6 +101,9 @@
         "qs_pg:id":977325
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ce04c8e104ea0c9dfdbb7f3a0400ff14",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101846965,
-    "wof:lastmodified":1566595176,
+    "wof:lastmodified":1582312174,
     "wof:name":"Maksamaa",
     "wof:parent_id":907199763,
     "wof:placetype":"locality",

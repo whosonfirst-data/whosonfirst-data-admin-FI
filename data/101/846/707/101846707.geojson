@@ -77,6 +77,9 @@
         "wd:id":"Q690454"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0b113c05755c82feb7e6f213b755250",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101846707,
-    "wof:lastmodified":1561830272,
+    "wof:lastmodified":1582312174,
     "wof:name":"Nummi",
     "wof:parent_id":907198655,
     "wof:placetype":"locality",

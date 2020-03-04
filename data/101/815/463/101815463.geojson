@@ -176,6 +176,9 @@
         "wd:id":"Q165285"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b21d637baeb6fbc7859748f1fa35beeb",
     "wof:hierarchy":[
         {
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":101815463,
-    "wof:lastmodified":1566595199,
+    "wof:lastmodified":1582312178,
     "wof:name":"Huittinen",
     "wof:parent_id":907198933,
     "wof:placetype":"locality",

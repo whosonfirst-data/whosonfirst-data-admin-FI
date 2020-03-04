@@ -73,6 +73,10 @@
         "wd:id":"Q11901109"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b34e5676569aff1b1b423b9aa6807760",
     "wof:hierarchy":[
         {
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":101872801,
-    "wof:lastmodified":1566595165,
+    "wof:lastmodified":1582312171,
     "wof:name":"Vesivehmaa",
     "wof:parent_id":907198691,
     "wof:placetype":"locality",

@@ -64,6 +64,9 @@
         "qs_pg:id":1029982
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"961480b61e30e29d927ad3e91857cf13",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199425,
-    "wof:lastmodified":1566594125,
+    "wof:lastmodified":1582312092,
     "wof:name":"Siilinjarvi",
     "wof:parent_id":1159321597,
     "wof:placetype":"localadmin",

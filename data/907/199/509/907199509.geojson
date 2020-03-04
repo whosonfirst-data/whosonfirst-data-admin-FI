@@ -70,6 +70,9 @@
         "qs_pg:id":1207060
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"92409d9763338a207ff6738116d409c8",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":907199509,
-    "wof:lastmodified":1566594208,
+    "wof:lastmodified":1582312121,
     "wof:name":"Utajarvi",
     "wof:parent_id":1159321497,
     "wof:placetype":"localadmin",

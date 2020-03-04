@@ -132,6 +132,9 @@
         "wk:page":"Hein\u00e4vesi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3a133dac93a9c36e467d871b99bc464d",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101814043,
-    "wof:lastmodified":1566595244,
+    "wof:lastmodified":1582312186,
     "wof:name":"Hein\u00e4vesi",
     "wof:parent_id":907199027,
     "wof:placetype":"locality",

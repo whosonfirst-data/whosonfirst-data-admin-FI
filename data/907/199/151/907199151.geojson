@@ -64,6 +64,9 @@
         "qs_pg:id":81355
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3384f0eb60fe15ef23ac349fbb0c915c",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199151,
-    "wof:lastmodified":1566594117,
+    "wof:lastmodified":1582312090,
     "wof:name":"Pyhajarvi",
     "wof:parent_id":1159321591,
     "wof:placetype":"localadmin",

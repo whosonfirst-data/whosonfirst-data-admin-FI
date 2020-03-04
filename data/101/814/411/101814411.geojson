@@ -151,6 +151,9 @@
         "wd:id":"Q853584"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"81d226e3d713664bcb13247180a995a9",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101814411,
-    "wof:lastmodified":1566595244,
+    "wof:lastmodified":1582312186,
     "wof:name":"Ii",
     "wof:parent_id":907199699,
     "wof:placetype":"locality",

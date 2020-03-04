@@ -64,6 +64,9 @@
         "qs_pg:id":81369
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62ea6ecf6a77cb42cac48e1a026a3500",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199215,
-    "wof:lastmodified":1566594221,
+    "wof:lastmodified":1582312125,
     "wof:name":"Petajavesi",
     "wof:parent_id":1159321625,
     "wof:placetype":"localadmin",

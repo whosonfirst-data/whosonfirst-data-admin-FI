@@ -64,6 +64,9 @@
         "qs_pg:id":496458
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cd5ec45d9c8745f8cef362a174927955",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199265,
-    "wof:lastmodified":1566594251,
+    "wof:lastmodified":1582312134,
     "wof:name":"Jyvaskyla",
     "wof:parent_id":1159321625,
     "wof:placetype":"localadmin",

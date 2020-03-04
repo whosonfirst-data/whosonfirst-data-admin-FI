@@ -84,6 +84,9 @@
         "qs_pg:id":369928
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eb6d6c6c1ac32c787940c799230f2a6e",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101814243,
-    "wof:lastmodified":1566595226,
+    "wof:lastmodified":1582312183,
     "wof:name":"P\u00e4nn\u00e4inen",
     "wof:parent_id":907199161,
     "wof:placetype":"locality",

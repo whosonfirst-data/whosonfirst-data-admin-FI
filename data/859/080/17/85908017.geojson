@@ -103,6 +103,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b1fe5b5ee4e22226a2e6cb4f9f428568",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594415,
+    "wof:lastmodified":1582312148,
     "wof:name":"Tapaninvainio",
     "wof:parent_id":890537239,
     "wof:placetype":"neighbourhood",

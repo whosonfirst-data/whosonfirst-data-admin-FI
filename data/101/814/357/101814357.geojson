@@ -143,6 +143,9 @@
         "qs_pg:id":248322
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cfdb7ea1e8872327b38b5217cc5c4336",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101814357,
-    "wof:lastmodified":1566595238,
+    "wof:lastmodified":1582312185,
     "wof:name":"Nurmes",
     "wof:parent_id":907199409,
     "wof:placetype":"locality",

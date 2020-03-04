@@ -64,6 +64,9 @@
         "qs_pg:id":81427
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8faf129d467b7a747083e51db034d47",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199107,
-    "wof:lastmodified":1566594197,
+    "wof:lastmodified":1582312117,
     "wof:name":"Kyyjarvi",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",

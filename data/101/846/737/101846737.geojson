@@ -99,6 +99,9 @@
         "wk:page":"Lemu"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f6506758ed22b7c58abd10c740211eaf",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101846737,
-    "wof:lastmodified":1566595176,
+    "wof:lastmodified":1582312174,
     "wof:name":"Lemu",
     "wof:parent_id":907198919,
     "wof:placetype":"locality",

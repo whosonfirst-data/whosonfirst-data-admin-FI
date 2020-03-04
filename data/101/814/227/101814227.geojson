@@ -129,6 +129,9 @@
         "wk:page":"Kuhmoinen"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b14ff9c1657e57756d33c34fd13a49b",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101814227,
-    "wof:lastmodified":1566595223,
+    "wof:lastmodified":1582312182,
     "wof:name":"Kuhmoinen",
     "wof:parent_id":907198799,
     "wof:placetype":"locality",

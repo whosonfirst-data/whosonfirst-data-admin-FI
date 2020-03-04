@@ -116,6 +116,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c0113e656116b7058a5c283e12da30b",
     "wof:hierarchy":[
         {
@@ -136,7 +140,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594412,
+    "wof:lastmodified":1582312147,
     "wof:name":"Ullanlinna",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

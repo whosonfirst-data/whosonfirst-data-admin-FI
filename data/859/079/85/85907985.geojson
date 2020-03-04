@@ -111,6 +111,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f54e19b6340044d9b71805165ff3c3ae",
     "wof:hierarchy":[
         {
@@ -131,7 +135,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594414,
+    "wof:lastmodified":1582312147,
     "wof:name":"Lansi-Pakila",
     "wof:parent_id":1108727381,
     "wof:placetype":"neighbourhood",

@@ -64,6 +64,9 @@
         "qs_pg:id":81407
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa5bdd84e248cd2fb6db1709fc7c5582",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199489,
-    "wof:lastmodified":1566594237,
+    "wof:lastmodified":1582312130,
     "wof:name":"Merijarvi",
     "wof:parent_id":1159321569,
     "wof:placetype":"localadmin",

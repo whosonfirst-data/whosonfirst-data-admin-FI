@@ -52,6 +52,9 @@
         "qs_pg:id":183010
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1ce375514559311e9d3104fe115e605",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101814279,
-    "wof:lastmodified":1566595242,
+    "wof:lastmodified":1582312186,
     "wof:name":"Skaftung",
     "wof:parent_id":907198827,
     "wof:placetype":"locality",

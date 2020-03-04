@@ -86,6 +86,9 @@
         "wd:id":"Q1191662"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a666193bd2111c13568b78adfca58148",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101846863,
-    "wof:lastmodified":1566595191,
+    "wof:lastmodified":1582312176,
     "wof:name":"Taavetti",
     "wof:parent_id":907198953,
     "wof:placetype":"locality",

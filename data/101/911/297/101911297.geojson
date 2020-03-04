@@ -85,6 +85,9 @@
         "qs_pg:id":470721
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b45cf9b067d20843feac5722748dd881",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566595261,
+    "wof:lastmodified":1582312189,
     "wof:name":"Leineperi",
     "wof:parent_id":907198905,
     "wof:placetype":"locality",

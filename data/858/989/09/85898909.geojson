@@ -92,6 +92,10 @@
         "wd:id":"Q5395070"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7e24792845fda1c875b0b8f589ace04a",
     "wof:hierarchy":[
         {
@@ -110,7 +114,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594460,
+    "wof:lastmodified":1582312154,
     "wof:name":"Tampella",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

@@ -56,6 +56,9 @@
         "qs_pg:id":1277446
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b79cfdaceb631b4473038c95f8a7d005",
     "wof:hierarchy":[
         {
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101815315,
-    "wof:lastmodified":1566595202,
+    "wof:lastmodified":1582312178,
     "wof:name":"V\u00e4sterskog",
     "wof:parent_id":907198521,
     "wof:placetype":"locality",

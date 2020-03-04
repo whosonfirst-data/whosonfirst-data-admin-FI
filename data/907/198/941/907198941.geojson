@@ -114,6 +114,9 @@
         "qs_pg:id":81333
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e587b1c4191e720c20384ba9767a2c5",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":907198941,
-    "wof:lastmodified":1566594024,
+    "wof:lastmodified":1582312056,
     "wof:name":"Sauvo",
     "wof:parent_id":1159321603,
     "wof:placetype":"localadmin",

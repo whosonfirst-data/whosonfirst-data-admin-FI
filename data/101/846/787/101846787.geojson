@@ -88,6 +88,9 @@
         "wk:page":"Utti"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f96561169d4088584aec6ae0384f51cc",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101846787,
-    "wof:lastmodified":1566595193,
+    "wof:lastmodified":1582312176,
     "wof:name":"Utti",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

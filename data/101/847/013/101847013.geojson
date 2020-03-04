@@ -58,6 +58,9 @@
         "qs_pg:id":1043432
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a520509f0080807fd423bd8504e46d95",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101847013,
-    "wof:lastmodified":1566595214,
+    "wof:lastmodified":1582312181,
     "wof:name":"Alapitk\u00e4",
     "wof:parent_id":907199373,
     "wof:placetype":"locality",

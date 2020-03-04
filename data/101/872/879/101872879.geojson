@@ -53,6 +53,9 @@
         "gp:id":12590801
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fb76528e1f9bee04c01c9bacb223ffb5",
     "wof:hierarchy":[
         {
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101872879,
-    "wof:lastmodified":1566595164,
+    "wof:lastmodified":1582312170,
     "wof:name":"Kaulinranta",
     "wof:parent_id":907199549,
     "wof:placetype":"locality",

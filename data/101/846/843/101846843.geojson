@@ -98,6 +98,9 @@
         "wd:id":"Q937668"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff1ac8b301494c772044b482b24130a7",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101846843,
-    "wof:lastmodified":1566595180,
+    "wof:lastmodified":1582312174,
     "wof:name":"Suodenniemi",
     "wof:parent_id":907199751,
     "wof:placetype":"locality",

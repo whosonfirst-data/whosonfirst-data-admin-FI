@@ -137,6 +137,9 @@
         "qs_pg:id":1027250
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0ddb4e0477d64792d151f3eae6fe565",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101815303,
-    "wof:lastmodified":1566595203,
+    "wof:lastmodified":1582312179,
     "wof:name":"Karjaa",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

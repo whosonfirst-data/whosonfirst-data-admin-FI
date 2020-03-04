@@ -176,6 +176,9 @@
         "qs_pg:id":248708
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f6e1a1c94f739b1144a6bc71a43a9f7e",
     "wof:hierarchy":[
         {
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":101815261,
-    "wof:lastmodified":1566595199,
+    "wof:lastmodified":1582312178,
     "wof:name":"Nurmij\u00e4rvi",
     "wof:parent_id":907198599,
     "wof:placetype":"locality",

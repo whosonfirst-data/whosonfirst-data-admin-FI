@@ -134,6 +134,9 @@
         "wd:id":"Q1002162"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b93eb295491bc98842434b70987c9bbe",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101814355,
-    "wof:lastmodified":1566595221,
+    "wof:lastmodified":1582312182,
     "wof:name":"Valtimo",
     "wof:parent_id":907199405,
     "wof:placetype":"locality",

@@ -86,6 +86,10 @@
         "qs_pg:id":1136203
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"633669225eee65f89e5dd289ddb60c59",
     "wof:hierarchy":[
         {
@@ -104,7 +108,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594462,
+    "wof:lastmodified":1582312155,
     "wof:name":"Haapaniemi",
     "wof:parent_id":101748439,
     "wof:placetype":"neighbourhood",

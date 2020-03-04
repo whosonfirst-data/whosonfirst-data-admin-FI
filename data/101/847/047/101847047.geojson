@@ -102,6 +102,9 @@
         "wk:page":"Vuolijoki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4139b850157c2721834415f41f4ffc36",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101847047,
-    "wof:lastmodified":1566595214,
+    "wof:lastmodified":1582312181,
     "wof:name":"Vuolijoki",
     "wof:parent_id":907199455,
     "wof:placetype":"locality",

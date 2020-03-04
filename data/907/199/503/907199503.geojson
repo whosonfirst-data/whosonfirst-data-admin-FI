@@ -124,6 +124,9 @@
         "qs_pg:id":81314
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"35c715aed45c6bf3b66d59ceea472172",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":907199503,
-    "wof:lastmodified":1566594114,
+    "wof:lastmodified":1582312088,
     "wof:name":"Taivalkoski",
     "wof:parent_id":1159321489,
     "wof:placetype":"localadmin",

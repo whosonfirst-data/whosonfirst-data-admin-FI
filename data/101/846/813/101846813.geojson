@@ -124,6 +124,9 @@
         "wk:page":"S\u00e4kyl\u00e4"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6254c3c9c74578e60ebd079139191cd8",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101846813,
-    "wof:lastmodified":1566595189,
+    "wof:lastmodified":1582312176,
     "wof:name":"S\u00e4kyl\u00e4",
     "wof:parent_id":907198925,
     "wof:placetype":"locality",

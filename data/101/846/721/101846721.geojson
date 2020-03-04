@@ -114,6 +114,9 @@
         "wk:page":"Liljendal"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69b5f095de9a932d48e5a3459943ab8e",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101846721,
-    "wof:lastmodified":1566595192,
+    "wof:lastmodified":1582312176,
     "wof:name":"Liljendal",
     "wof:parent_id":907198469,
     "wof:placetype":"locality",

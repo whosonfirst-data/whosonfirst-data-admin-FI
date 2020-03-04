@@ -186,6 +186,9 @@
         "wk:page":"Iisalmi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"89dbe6aeb26d7acad1b1fa3c7855a1c4",
     "wof:hierarchy":[
         {
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":101814313,
-    "wof:lastmodified":1566595236,
+    "wof:lastmodified":1582312184,
     "wof:name":"Iisalmi",
     "wof:parent_id":907199351,
     "wof:placetype":"locality",

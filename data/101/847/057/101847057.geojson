@@ -147,6 +147,9 @@
         "wk:page":"Yli-Ii"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4292c98ee359bac99eb5c85ed56fdb5a",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101847057,
-    "wof:lastmodified":1566595218,
+    "wof:lastmodified":1582312181,
     "wof:name":"Yli-Ii",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

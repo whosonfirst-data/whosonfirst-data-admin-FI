@@ -154,6 +154,9 @@
         "wk:page":"Kurikka"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e05b0884de670fb484e2be3675a1cfa9",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101814137,
-    "wof:lastmodified":1566595240,
+    "wof:lastmodified":1582312185,
     "wof:name":"Kurikka",
     "wof:parent_id":907199007,
     "wof:placetype":"locality",

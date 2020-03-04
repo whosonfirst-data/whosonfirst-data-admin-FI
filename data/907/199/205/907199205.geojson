@@ -109,6 +109,9 @@
         "qs_pg:id":261989
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"947d1e43277809d3987a6eee78b70761",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":907199205,
-    "wof:lastmodified":1566594170,
+    "wof:lastmodified":1582312108,
     "wof:name":"Aanekoski",
     "wof:parent_id":1159321553,
     "wof:placetype":"localadmin",

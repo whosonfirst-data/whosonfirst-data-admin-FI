@@ -160,6 +160,9 @@
         "wk:page":"Kuortane"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8acaa09f4d455e4a9c3af0b51979f80c",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":101814123,
-    "wof:lastmodified":1566595250,
+    "wof:lastmodified":1582312187,
     "wof:name":"Kuortane",
     "wof:parent_id":907199291,
     "wof:placetype":"locality",

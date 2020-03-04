@@ -64,6 +64,9 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b7c0aa536efc0791aea61d59d111bb92",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1108726989,
-    "wof:lastmodified":1566595003,
+    "wof:lastmodified":1582312165,
     "wof:name":"Heikinlaakso",
     "wof:parent_id":1108727369,
     "wof:placetype":"neighbourhood",

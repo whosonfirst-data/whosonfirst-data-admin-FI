@@ -380,6 +380,9 @@
         "qs_pg:id":1070968
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7c7b0e4b3b23dd7721f812aeaedc581b",
     "wof:hierarchy":[
         {
@@ -394,7 +397,7 @@
         }
     ],
     "wof:id":101845609,
-    "wof:lastmodified":1566595159,
+    "wof:lastmodified":1582312169,
     "wof:name":"Rovaniemi",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

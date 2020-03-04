@@ -130,6 +130,9 @@
         "wd:id":"Q999255"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1991c4ebaacd7b39de12a7997303bfcc",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101814167,
-    "wof:lastmodified":1566595222,
+    "wof:lastmodified":1582312182,
     "wof:name":"Kinnula",
     "wof:parent_id":907199139,
     "wof:placetype":"locality",

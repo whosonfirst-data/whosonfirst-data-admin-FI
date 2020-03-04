@@ -133,6 +133,9 @@
         "qs_pg:id":81498
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38b82d1eb118e479f61363466d4da2fa",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":907198619,
-    "wof:lastmodified":1566594006,
+    "wof:lastmodified":1582312051,
     "wof:name":"Iitti",
     "wof:parent_id":1159321557,
     "wof:placetype":"localadmin",

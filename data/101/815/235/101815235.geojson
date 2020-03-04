@@ -150,6 +150,9 @@
         "qs_pg:id":1079091
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0c27e944345590d66d5bc831daa83700",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101815235,
-    "wof:lastmodified":1566595199,
+    "wof:lastmodified":1582312178,
     "wof:name":"M\u00e4nts\u00e4l\u00e4",
     "wof:parent_id":907198557,
     "wof:placetype":"locality",

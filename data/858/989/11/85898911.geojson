@@ -75,6 +75,9 @@
         "qs:id":1115922
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"159753d8ca9ffec8a9b87c15d06eb077",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1534379299,
+    "wof:lastmodified":1582312154,
     "wof:name":"Teppana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

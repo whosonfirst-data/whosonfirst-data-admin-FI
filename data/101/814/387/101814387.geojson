@@ -111,6 +111,9 @@
         "wk:page":"Kes\u00e4lahti"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ffc212d89eb58e92937cc5d54c3e122f",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101814387,
-    "wof:lastmodified":1566595251,
+    "wof:lastmodified":1582312187,
     "wof:name":"Kes\u00e4lahti",
     "wof:parent_id":907198727,
     "wof:placetype":"locality",

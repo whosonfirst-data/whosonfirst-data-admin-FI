@@ -59,6 +59,9 @@
         "qs_pg:id":6
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1ef72c2c8745df8f9a07ec9348b22547",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101872841,
-    "wof:lastmodified":1566595163,
+    "wof:lastmodified":1582312170,
     "wof:name":"M\u00f6tt\u00f6nen",
     "wof:parent_id":907199111,
     "wof:placetype":"locality",

@@ -51,6 +51,9 @@
         "qs_pg:id":1198072
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"83b6237d901ea0ebc817d3649b9b48e4",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101912975,
-    "wof:lastmodified":1566595167,
+    "wof:lastmodified":1582312171,
     "wof:name":"Iilikenm\u00e4ki",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

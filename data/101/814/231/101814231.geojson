@@ -122,6 +122,9 @@
         "wd:id":"Q571384"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43527773d18c1cef16c8d87033904e14",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101814231,
-    "wof:lastmodified":1566595246,
+    "wof:lastmodified":1582312186,
     "wof:name":"Isokyr\u00f6",
     "wof:parent_id":907199075,
     "wof:placetype":"locality",

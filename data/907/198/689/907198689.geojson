@@ -151,6 +151,9 @@
         "qs_pg:id":1026812
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ad30eea2f950fa7894601ca1e5acc24",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":907198689,
-    "wof:lastmodified":1566594010,
+    "wof:lastmodified":1582312052,
     "wof:name":"Heinola",
     "wof:parent_id":1159321483,
     "wof:placetype":"localadmin",

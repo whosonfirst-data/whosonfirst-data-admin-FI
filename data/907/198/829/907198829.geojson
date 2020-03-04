@@ -140,6 +140,9 @@
         "qs_pg:id":896234
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0370dacfbf9ee637808b7dd21d8d2860",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":907198829,
-    "wof:lastmodified":1566594002,
+    "wof:lastmodified":1582312050,
     "wof:name":"Humppila",
     "wof:parent_id":1159321511,
     "wof:placetype":"localadmin",

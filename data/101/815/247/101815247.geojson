@@ -167,6 +167,9 @@
         "wd:id":"Q530309"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0b59e7101a6c0a9962d78afe2a94e084",
     "wof:hierarchy":[
         {
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":101815247,
-    "wof:lastmodified":1566595206,
+    "wof:lastmodified":1582312179,
     "wof:name":"Karkkila",
     "wof:parent_id":907198539,
     "wof:placetype":"locality",

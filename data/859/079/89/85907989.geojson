@@ -117,6 +117,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e99a5d18eee25ab744f11416f5e74459",
     "wof:hierarchy":[
         {
@@ -137,7 +141,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594412,
+    "wof:lastmodified":1582312147,
     "wof:name":"Verajamaki",
     "wof:parent_id":890537237,
     "wof:placetype":"neighbourhood",

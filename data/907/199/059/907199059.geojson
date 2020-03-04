@@ -179,6 +179,9 @@
         "qs_pg:id":1026817
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"856b4fbbb5fc2484c62470df67be218d",
     "wof:hierarchy":[
         {
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":907199059,
-    "wof:lastmodified":1566594248,
+    "wof:lastmodified":1582312134,
     "wof:name":"Aura",
     "wof:parent_id":1159321505,
     "wof:placetype":"localadmin",

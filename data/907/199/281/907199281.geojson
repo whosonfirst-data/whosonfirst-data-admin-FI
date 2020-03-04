@@ -136,6 +136,9 @@
         "qs_pg:id":349799
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae9ffebf5cbee4b87d204088c0e1cc01",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":907199281,
-    "wof:lastmodified":1566594153,
+    "wof:lastmodified":1582312102,
     "wof:name":"Pirkkala",
     "wof:parent_id":1159321521,
     "wof:placetype":"localadmin",

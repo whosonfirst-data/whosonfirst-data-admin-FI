@@ -133,6 +133,9 @@
         "qs_pg:id":1008267
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2cbb2a8a33c79302bb095f38379211e8",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":907199493,
-    "wof:lastmodified":1566594243,
+    "wof:lastmodified":1582312132,
     "wof:name":"Ranua",
     "wof:parent_id":1159321523,
     "wof:placetype":"localadmin",

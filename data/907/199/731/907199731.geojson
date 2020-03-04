@@ -180,6 +180,9 @@
         "qs_pg:id":358248
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e3c44d7df8f763a3f56b55399a55b25c",
     "wof:hierarchy":[
         {
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":907199731,
-    "wof:lastmodified":1566594115,
+    "wof:lastmodified":1582312089,
     "wof:name":"Akaa",
     "wof:parent_id":1159321621,
     "wof:placetype":"localadmin",

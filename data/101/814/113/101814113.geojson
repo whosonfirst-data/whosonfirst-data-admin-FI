@@ -59,6 +59,9 @@
         "qs_pg:id":1020086
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"42895ce491f9ece0fe66c4764ab27e50",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101814113,
-    "wof:lastmodified":1566595252,
+    "wof:lastmodified":1582312187,
     "wof:name":"Per\u00e4l\u00e4",
     "wof:parent_id":907199665,
     "wof:placetype":"locality",

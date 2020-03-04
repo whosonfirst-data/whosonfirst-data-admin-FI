@@ -63,6 +63,9 @@
         "wd:id":"Q11850238"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3254047d247a48e269d661c479cbb6f2",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101814013,
-    "wof:lastmodified":1566595225,
+    "wof:lastmodified":1582312183,
     "wof:name":"Aitoo",
     "wof:parent_id":907199187,
     "wof:placetype":"locality",

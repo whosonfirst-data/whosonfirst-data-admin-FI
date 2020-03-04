@@ -107,6 +107,9 @@
         "wd:id":"Q1562671"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d79558c409f749edb4ccb2fc8d201d41",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101814119,
-    "wof:lastmodified":1566595237,
+    "wof:lastmodified":1582312184,
     "wof:name":"Ylih\u00e4rm\u00e4",
     "wof:parent_id":907199237,
     "wof:placetype":"locality",

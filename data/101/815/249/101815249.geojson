@@ -78,6 +78,9 @@
         "wk:page":"Kellokoski"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62c535a31f6ce49e3b01ab82852b0a91",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101815249,
-    "wof:lastmodified":1566595206,
+    "wof:lastmodified":1582312179,
     "wof:name":"Kellokoski",
     "wof:parent_id":907198631,
     "wof:placetype":"locality",

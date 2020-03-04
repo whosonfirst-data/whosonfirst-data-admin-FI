@@ -52,6 +52,9 @@
         "qs_pg:id":1077377
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"49fef64565bd3227df9fa74b209f2a9d",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101815403,
-    "wof:lastmodified":1566595211,
+    "wof:lastmodified":1582312180,
     "wof:name":"Ryttyl\u00e4",
     "wof:parent_id":907198561,
     "wof:placetype":"locality",

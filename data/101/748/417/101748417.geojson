@@ -755,7 +755,8 @@
     "reversegeo:longitude":24.99935,
     "src:geom":"hkigis",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -789,6 +790,10 @@
         907199715
     ],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7e97939f71c78d520e969ec95770f15f",
     "wof:hierarchy":[
         {
@@ -803,7 +808,7 @@
         }
     ],
     "wof:id":101748417,
-    "wof:lastmodified":1566595170,
+    "wof:lastmodified":1582312172,
     "wof:megacity":1,
     "wof:name":"Helsinki",
     "wof:parent_id":907199715,

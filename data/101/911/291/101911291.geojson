@@ -51,6 +51,9 @@
         "qs_pg:id":1086323
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"93033660816badff300e596a564fe3cb",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101911291,
-    "wof:lastmodified":1566595260,
+    "wof:lastmodified":1582312189,
     "wof:name":"Svart\u00e5 bruk",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

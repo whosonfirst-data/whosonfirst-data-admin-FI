@@ -121,6 +121,10 @@
         "wof:hierarchy"
     ],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"4d0614e1142a73873c7400213f1a5a0a",
     "wof:hierarchy":[
         {
@@ -141,7 +145,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594414,
+    "wof:lastmodified":1582312147,
     "wof:name":"Ruoholahti",
     "wof:parent_id":-3,
     "wof:placetype":"neighbourhood",

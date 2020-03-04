@@ -61,6 +61,9 @@
         "qs_pg:id":1250768
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b6a8b90700f7ec0cc34c44022970650e",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101912993,
-    "wof:lastmodified":1566595167,
+    "wof:lastmodified":1582312171,
     "wof:name":"Kalkkiranta",
     "wof:parent_id":907198521,
     "wof:placetype":"locality",

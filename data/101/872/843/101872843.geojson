@@ -61,6 +61,10 @@
         "wd:id":"Q18682493"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e80d42b94f289988d84acef28e9ee10",
     "wof:hierarchy":[
         {
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101872843,
-    "wof:lastmodified":1566595161,
+    "wof:lastmodified":1582312170,
     "wof:name":"P\u00f6lj\u00e4",
     "wof:parent_id":907199425,
     "wof:placetype":"locality",

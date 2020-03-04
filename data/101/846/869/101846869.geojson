@@ -111,6 +111,9 @@
         "wk:page":"Suomenniemi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"83b53d654dd80013de657b30e21d4c88",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101846869,
-    "wof:lastmodified":1566595181,
+    "wof:lastmodified":1582312174,
     "wof:name":"Suomenniemi",
     "wof:parent_id":907198765,
     "wof:placetype":"locality",

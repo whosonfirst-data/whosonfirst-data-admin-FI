@@ -132,6 +132,9 @@
         "qs_pg:id":38262
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9bb65d648048a5eceb4461f141b0d659",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101813951,
-    "wof:lastmodified":1566595255,
+    "wof:lastmodified":1582312188,
     "wof:name":"Honkajoki",
     "wof:parent_id":907198873,
     "wof:placetype":"locality",

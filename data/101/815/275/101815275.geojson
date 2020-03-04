@@ -65,6 +65,9 @@
         "wd:id":"Q10524213"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d732dd39ec5ffc68b916cf83c656db18",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101815275,
-    "wof:lastmodified":1566595198,
+    "wof:lastmodified":1582312177,
     "wof:name":"Hinthaara",
     "wof:parent_id":907198525,
     "wof:placetype":"locality",

@@ -127,6 +127,9 @@
         "qs_pg:id":1151722
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"861ace2184dfe9688468b378d7a2e868",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":907198751,
-    "wof:lastmodified":1566594034,
+    "wof:lastmodified":1582312060,
     "wof:name":"Joutsa",
     "wof:parent_id":1159321619,
     "wof:placetype":"localadmin",

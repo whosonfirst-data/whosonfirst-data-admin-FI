@@ -222,6 +222,9 @@
         "wk:page":"Salo, Finland"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b80497fe42623f4cb701eb4aeb5519e",
     "wof:hierarchy":[
         {
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":101839159,
-    "wof:lastmodified":1566595256,
+    "wof:lastmodified":1582312188,
     "wof:name":"Salo",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

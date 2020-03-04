@@ -88,6 +88,9 @@
         "wk:page":"Ullava"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e47b0ca01b077201dbd96d44bcfcb61e",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101814293,
-    "wof:lastmodified":1566595230,
+    "wof:lastmodified":1582312184,
     "wof:name":"Ullava",
     "wof:parent_id":907199049,
     "wof:placetype":"locality",

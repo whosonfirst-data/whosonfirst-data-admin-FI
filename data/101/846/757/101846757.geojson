@@ -114,6 +114,9 @@
         "qs_pg:id":249619
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25bc3338a2e8362a4f3df19052ace95f",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101846757,
-    "wof:lastmodified":1566595187,
+    "wof:lastmodified":1582312175,
     "wof:name":"Kemi\u00f6",
     "wof:parent_id":907199735,
     "wof:placetype":"locality",

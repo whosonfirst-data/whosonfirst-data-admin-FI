@@ -109,6 +109,9 @@
         "qs_pg:id":81367
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b4aa860bf2745f59f90cf4f0b6d1d04",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":907199287,
-    "wof:lastmodified":1566594128,
+    "wof:lastmodified":1582312093,
     "wof:name":"Pielavesi",
     "wof:parent_id":1159321601,
     "wof:placetype":"localadmin",

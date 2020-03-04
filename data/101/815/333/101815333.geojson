@@ -119,6 +119,9 @@
         "wd:id":"Q1017148"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"feb2a82eee4a915216f444f2858ba8f5",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101815333,
-    "wof:lastmodified":1566595204,
+    "wof:lastmodified":1582312179,
     "wof:name":"Riihikoski",
     "wof:parent_id":907198921,
     "wof:placetype":"locality",

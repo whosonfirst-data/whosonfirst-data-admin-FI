@@ -118,6 +118,9 @@
         "qs_pg:id":81364
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d63c0690dd0456afaeb07cac3fde9f7d",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":907199135,
-    "wof:lastmodified":1566594095,
+    "wof:lastmodified":1582312082,
     "wof:name":"Pihtipudas",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",

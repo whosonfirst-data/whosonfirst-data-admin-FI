@@ -115,6 +115,9 @@
         "qs_pg:id":231148
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ebbad805f7947945ac228363744b3e5a",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":907198951,
-    "wof:lastmodified":1566594040,
+    "wof:lastmodified":1582312062,
     "wof:name":"Jokioinen",
     "wof:parent_id":1159321511,
     "wof:placetype":"localadmin",

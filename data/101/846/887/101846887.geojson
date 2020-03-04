@@ -55,6 +55,9 @@
         "qs_pg:id":382818
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf31c616f8c74bfd501202ecba93cf51",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101846887,
-    "wof:lastmodified":1566595179,
+    "wof:lastmodified":1582312174,
     "wof:name":"Tiistenjoki",
     "wof:parent_id":907199241,
     "wof:placetype":"locality",

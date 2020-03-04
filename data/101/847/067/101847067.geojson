@@ -138,6 +138,9 @@
         "qs_pg:id":1165990
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2454ec14812e442ef61619cb46e52923",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":101847067,
-    "wof:lastmodified":1566595218,
+    "wof:lastmodified":1582312181,
     "wof:name":"Lumijoki",
     "wof:parent_id":907199537,
     "wof:placetype":"locality",

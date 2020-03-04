@@ -79,6 +79,10 @@
         "wd:id":"Q3366125"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f7aae2b411936b33e114393006b3dbc",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":101875027,
-    "wof:lastmodified":1566595166,
+    "wof:lastmodified":1582312171,
     "wof:name":"Vanaja",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

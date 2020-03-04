@@ -158,6 +158,9 @@
         "wd:id":"Q938820"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"de786829759b4f2e77a0598309bdc5b4",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101813975,
-    "wof:lastmodified":1566595256,
+    "wof:lastmodified":1582312188,
     "wof:name":"Virrat",
     "wof:parent_id":907199171,
     "wof:placetype":"locality",

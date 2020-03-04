@@ -82,6 +82,9 @@
         "qs_pg:id":245367
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1e9f3e34b79e5f6e0d841348b9dec8d1",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":907199399,
-    "wof:lastmodified":1566594113,
+    "wof:lastmodified":1582312088,
     "wof:name":"Polvijarvi",
     "wof:parent_id":1159321551,
     "wof:placetype":"localadmin",

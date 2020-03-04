@@ -134,6 +134,9 @@
         "qs_pg:id":977288
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52ecc3b43ed1d612d70fa9e39664f9e8",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101814061,
-    "wof:lastmodified":1566595247,
+    "wof:lastmodified":1582312186,
     "wof:name":"Juva",
     "wof:parent_id":907198761,
     "wof:placetype":"locality",

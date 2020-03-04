@@ -123,6 +123,9 @@
         "qs_pg:id":1029983
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9bff08ed02e350279103f4d0a2720c2e",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":907199705,
-    "wof:lastmodified":1566594187,
+    "wof:lastmodified":1582312114,
     "wof:name":"Siikajoki",
     "wof:parent_id":1159321631,
     "wof:placetype":"localadmin",

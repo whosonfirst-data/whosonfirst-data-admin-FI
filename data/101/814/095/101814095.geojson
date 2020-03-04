@@ -102,6 +102,9 @@
         "wk:page":"Ylistaro"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"87263c203aa399747f318e0a03bfd28b",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101814095,
-    "wof:lastmodified":1566595247,
+    "wof:lastmodified":1582312186,
     "wof:name":"Ylistaro",
     "wof:parent_id":907199285,
     "wof:placetype":"locality",

@@ -76,6 +76,10 @@
         "qs_pg:id":1200740
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f3f944e4e9f72e76d943128bd47af43f",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594463,
+    "wof:lastmodified":1582312155,
     "wof:name":"Niinivaara",
     "wof:parent_id":101748441,
     "wof:placetype":"neighbourhood",

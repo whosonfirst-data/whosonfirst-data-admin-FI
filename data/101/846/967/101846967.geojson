@@ -146,6 +146,9 @@
         "qs_pg:id":470709
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"af3abee93cc65f7f73cd291bb1cb0c36",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101846967,
-    "wof:lastmodified":1566595186,
+    "wof:lastmodified":1582312175,
     "wof:name":"Kristiinankaupunki",
     "wof:parent_id":907198827,
     "wof:placetype":"locality",

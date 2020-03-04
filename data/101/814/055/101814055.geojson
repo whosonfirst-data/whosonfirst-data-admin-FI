@@ -134,6 +134,9 @@
         "qs_pg:id":977289
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd00bad2d06353ec9433bf87ebcff000",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101814055,
-    "wof:lastmodified":1566595230,
+    "wof:lastmodified":1582312184,
     "wof:name":"Kangasniemi",
     "wof:parent_id":907198773,
     "wof:placetype":"locality",

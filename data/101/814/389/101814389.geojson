@@ -165,6 +165,9 @@
         "qs_pg:id":1207061
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d34698dc8e43ac73e8c4bce802ccd983",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":101814389,
-    "wof:lastmodified":1566595250,
+    "wof:lastmodified":1582312187,
     "wof:name":"Suomussalmi",
     "wof:parent_id":907199501,
     "wof:placetype":"locality",

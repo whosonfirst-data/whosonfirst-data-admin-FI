@@ -111,6 +111,9 @@
         "wk:page":"Pertteli"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f0da63d5f2ebdbdeab9520abc19ecef0",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101846751,
-    "wof:lastmodified":1566595186,
+    "wof:lastmodified":1582312175,
     "wof:name":"Pertteli",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

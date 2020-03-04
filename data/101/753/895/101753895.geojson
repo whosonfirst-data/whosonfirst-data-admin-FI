@@ -187,6 +187,9 @@
         "wk:page":"Kerava"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b3cccd04ba5d1a43c36d68dd6df754c",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":101753895,
-    "wof:lastmodified":1566595154,
+    "wof:lastmodified":1582312169,
     "wof:name":"Kerava",
     "wof:parent_id":907198627,
     "wof:placetype":"locality",

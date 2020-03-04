@@ -99,6 +99,9 @@
         "wd:id":"Q400342"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae0294b9837fe677402eacf6c49b8e46",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101846823,
-    "wof:lastmodified":1566595189,
+    "wof:lastmodified":1582312176,
     "wof:name":"Ahlainen",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",

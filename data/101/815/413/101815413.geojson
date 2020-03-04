@@ -125,6 +125,9 @@
         "qs_pg:id":276688
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5870492a0572517e354eb039d09fe250",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101815413,
-    "wof:lastmodified":1566595197,
+    "wof:lastmodified":1582312177,
     "wof:name":"Yp\u00e4j\u00e4",
     "wof:parent_id":907198833,
     "wof:placetype":"locality",

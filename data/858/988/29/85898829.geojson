@@ -81,6 +81,9 @@
         "qs_pg:id":1079071
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52512d8cba38399cf3ec7d8efb9cc4bd",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1527270650,
+    "wof:lastmodified":1582312155,
     "wof:name":"H\u00e5kansvik",
     "wof:parent_id":1108727335,
     "wof:placetype":"neighbourhood",

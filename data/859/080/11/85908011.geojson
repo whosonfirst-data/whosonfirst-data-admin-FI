@@ -95,6 +95,10 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"29b7f6df8f82f7933baf36bbe764e358",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594415,
+    "wof:lastmodified":1582312148,
     "wof:name":"Roihupelto",
     "wof:parent_id":890537287,
     "wof:placetype":"neighbourhood",

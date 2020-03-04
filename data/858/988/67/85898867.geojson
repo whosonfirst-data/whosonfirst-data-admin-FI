@@ -110,6 +110,9 @@
         "wk:page":"Munkkiniemi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"54b66481a45a5155a6e342c0633d5b4e",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1527641061,
+    "wof:lastmodified":1582312154,
     "wof:name":"Munkkiniemi",
     "wof:parent_id":890537235,
     "wof:placetype":"neighbourhood",

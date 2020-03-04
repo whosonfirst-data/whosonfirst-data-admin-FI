@@ -127,6 +127,9 @@
         "qs_pg:id":369894
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b1cca8d3376340e580d5b49c110f7d49",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":907198863,
-    "wof:lastmodified":1566594071,
+    "wof:lastmodified":1582312071,
     "wof:name":"Liperi",
     "wof:parent_id":1159321551,
     "wof:placetype":"localadmin",

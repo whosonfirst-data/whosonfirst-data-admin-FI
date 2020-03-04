@@ -148,6 +148,9 @@
         "qs_pg:id":369827
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ddc1f3fb7e480bbfb8371a8937a510ae",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":907198905,
-    "wof:lastmodified":1566594040,
+    "wof:lastmodified":1582312062,
     "wof:name":"Ulvila",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

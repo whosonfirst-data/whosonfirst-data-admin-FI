@@ -207,6 +207,9 @@
         "wk:page":"J\u00e4rvenp\u00e4\u00e4"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d41bb8874d7fed632035ce5226346747",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":101815257,
-    "wof:lastmodified":1566595198,
+    "wof:lastmodified":1582312177,
     "wof:name":"J\u00e4rvenp\u00e4\u00e4",
     "wof:parent_id":907198639,
     "wof:placetype":"locality",

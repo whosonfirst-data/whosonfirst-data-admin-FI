@@ -149,6 +149,9 @@
         "qs_pg:id":1227169
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fbd07060f8b27618c224fef754ee0061",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101815341,
-    "wof:lastmodified":1566595201,
+    "wof:lastmodified":1582312178,
     "wof:name":"Myn\u00e4m\u00e4ki",
     "wof:parent_id":907198907,
     "wof:placetype":"locality",

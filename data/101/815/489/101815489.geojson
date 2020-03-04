@@ -128,6 +128,9 @@
         "wd:id":"Q1001932"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65a5072aa1ed8f2b84a24d75034b4f60",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101815489,
-    "wof:lastmodified":1566595207,
+    "wof:lastmodified":1582312179,
     "wof:name":"Punkalaidun",
     "wof:parent_id":907198835,
     "wof:placetype":"locality",

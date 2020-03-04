@@ -182,6 +182,9 @@
         "wd:id":"Q774114"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80e0d50dd2ce739cbc155ec23bc374f3",
     "wof:hierarchy":[
         {
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":101815345,
-    "wof:lastmodified":1566595211,
+    "wof:lastmodified":1582312180,
     "wof:name":"Aura",
     "wof:parent_id":907199059,
     "wof:placetype":"locality",

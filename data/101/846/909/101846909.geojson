@@ -80,6 +80,9 @@
         "qs_pg:id":928135
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"34697dc412b28d718168f41190cfcc7b",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101846909,
-    "wof:lastmodified":1566595175,
+    "wof:lastmodified":1582312174,
     "wof:name":"S\u00e4\u00e4ksj\u00e4rvi",
     "wof:parent_id":907199273,
     "wof:placetype":"locality",

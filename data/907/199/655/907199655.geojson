@@ -63,6 +63,9 @@
         "qs_pg:id":81354
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fe3ebb51aec9fd9826899789dee67ba7",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":907199655,
-    "wof:lastmodified":1566594245,
+    "wof:lastmodified":1582312132,
     "wof:name":"Pyhajoki",
     "wof:parent_id":1159321631,
     "wof:placetype":"localadmin",

@@ -108,6 +108,9 @@
         "wk:page":"Kuhmalahti"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"374bb8d5a3f41ac51c9cb93cdb5c406a",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101846849,
-    "wof:lastmodified":1566595189,
+    "wof:lastmodified":1582312176,
     "wof:name":"Kuhmalahti",
     "wof:parent_id":907199185,
     "wof:placetype":"locality",

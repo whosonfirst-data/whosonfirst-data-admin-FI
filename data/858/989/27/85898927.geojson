@@ -114,6 +114,9 @@
         "wk:page":"Vuosaari"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e3a91eae244312bf2eb838749de24e39",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1527641026,
+    "wof:lastmodified":1582312154,
     "wof:name":"Vuosaari",
     "wof:parent_id":890537281,
     "wof:placetype":"neighbourhood",

@@ -112,6 +112,9 @@
         "wk:page":"Herttoniemi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"abe7d19512b8a3b5dd6680eb2a80ae3e",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1527641062,
+    "wof:lastmodified":1582312155,
     "wof:name":"Herttoniemi",
     "wof:parent_id":890537227,
     "wof:placetype":"neighbourhood",

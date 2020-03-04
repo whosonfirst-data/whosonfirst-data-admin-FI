@@ -58,6 +58,9 @@
         "qs_pg:id":1014528
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2fecd9ffbc9912ff945a15c0e1953b19",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101846785,
-    "wof:lastmodified":1566595183,
+    "wof:lastmodified":1582312175,
     "wof:name":"Kaipiainen",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

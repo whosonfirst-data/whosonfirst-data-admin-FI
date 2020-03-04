@@ -111,6 +111,10 @@
         "wk:page":"Valkeala"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"719fa6601b0d68c976507f616e88b66c",
     "wof:hierarchy":[
         {
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":101872799,
-    "wof:lastmodified":1566595160,
+    "wof:lastmodified":1582312170,
     "wof:name":"Valkeala",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

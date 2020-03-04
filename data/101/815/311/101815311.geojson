@@ -66,6 +66,9 @@
         "wd:id":"Q3442170"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80d7a1ef22089edb93ac318603d3fd60",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101815311,
-    "wof:lastmodified":1566595211,
+    "wof:lastmodified":1582312180,
     "wof:name":"Lappohja",
     "wof:parent_id":907198505,
     "wof:placetype":"locality",

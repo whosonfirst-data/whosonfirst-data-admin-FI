@@ -112,6 +112,9 @@
         "qs_pg:id":274933
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3ee02c3d149ee7985f95828801120fd5",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":907198755,
-    "wof:lastmodified":1566593986,
+    "wof:lastmodified":1582312044,
     "wof:name":"Hirvensalmi",
     "wof:parent_id":1159321539,
     "wof:placetype":"localadmin",

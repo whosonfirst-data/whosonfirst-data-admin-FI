@@ -63,6 +63,9 @@
         "qs_pg:id":81410
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dc2e9605c6694050112072b0e9e94d9b",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":907198953,
-    "wof:lastmodified":1566593990,
+    "wof:lastmodified":1582312045,
     "wof:name":"Luumaki",
     "wof:parent_id":1159321547,
     "wof:placetype":"localadmin",

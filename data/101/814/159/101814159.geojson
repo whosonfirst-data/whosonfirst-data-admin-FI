@@ -104,6 +104,9 @@
         "wk:page":"Suolahti"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5b58331582090848f62d61dd14199c4",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101814159,
-    "wof:lastmodified":1566595220,
+    "wof:lastmodified":1582312182,
     "wof:name":"Suolahti",
     "wof:parent_id":907199205,
     "wof:placetype":"locality",

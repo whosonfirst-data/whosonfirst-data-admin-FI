@@ -162,6 +162,9 @@
         "wk:page":"Lieksa"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a028d6ce947ceae3c0eec28dbe42f01",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":101814359,
-    "wof:lastmodified":1566595238,
+    "wof:lastmodified":1582312185,
     "wof:name":"Lieksa",
     "wof:parent_id":907199605,
     "wof:placetype":"locality",

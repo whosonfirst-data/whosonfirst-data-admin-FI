@@ -134,6 +134,9 @@
         "qs_pg:id":1030094
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9cdc10a1456ad0decbfdc160496aba33",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":907199119,
-    "wof:lastmodified":1566594185,
+    "wof:lastmodified":1582312113,
     "wof:name":"Karvia",
     "wof:parent_id":1159321519,
     "wof:placetype":"localadmin",

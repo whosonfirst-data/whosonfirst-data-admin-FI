@@ -75,6 +75,9 @@
         "wk:page":"Kolho"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"99a2378d211f9588140b016a95f52433",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101813977,
-    "wof:lastmodified":1566595254,
+    "wof:lastmodified":1582312188,
     "wof:name":"Kolho",
     "wof:parent_id":907199743,
     "wof:placetype":"locality",

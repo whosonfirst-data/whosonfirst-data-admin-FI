@@ -162,6 +162,9 @@
         "wk:page":"Kuhmo"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d9e5be2fb78f3b4c8ecd7cb67b12e960",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":101814403,
-    "wof:lastmodified":1566595249,
+    "wof:lastmodified":1582312187,
     "wof:name":"Kuhmo",
     "wof:parent_id":907199507,
     "wof:placetype":"locality",

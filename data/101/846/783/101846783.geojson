@@ -108,6 +108,9 @@
         "wk:page":"Jaala"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"91eaa9d752b75286d72c9db6b2cb8a93",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101846783,
-    "wof:lastmodified":1566595184,
+    "wof:lastmodified":1582312175,
     "wof:name":"Jaala",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

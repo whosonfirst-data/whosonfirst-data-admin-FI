@@ -68,6 +68,9 @@
         "qs_pg:id":1155943
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"73bb51ed63c0d98f5d663ba28fc4acb4",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101846829,
-    "wof:lastmodified":1566595178,
+    "wof:lastmodified":1582312174,
     "wof:name":"Kuivalahti",
     "wof:parent_id":907198669,
     "wof:placetype":"locality",

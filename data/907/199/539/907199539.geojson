@@ -103,6 +103,9 @@
         "qs_pg:id":1251866
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b3d9edf562a9b2f635cde57b697b3433",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":907199539,
-    "wof:lastmodified":1566594191,
+    "wof:lastmodified":1582312115,
     "wof:name":"Kemijarvi",
     "wof:parent_id":1159321535,
     "wof:placetype":"localadmin",

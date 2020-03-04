@@ -188,6 +188,9 @@
         "qs_pg:id":1139059
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8873adc74693a2b6dc94648dcf821c8",
     "wof:hierarchy":[
         {
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101753039,
-    "wof:lastmodified":1566595155,
+    "wof:lastmodified":1582312169,
     "wof:name":"Naantali",
     "wof:parent_id":907198913,
     "wof:placetype":"locality",

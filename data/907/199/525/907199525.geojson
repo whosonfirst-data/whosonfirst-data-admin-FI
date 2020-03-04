@@ -121,6 +121,9 @@
         "qs_pg:id":225394
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b75287eb919db252bbd5cedc93f23e02",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":907199525,
-    "wof:lastmodified":1566594266,
+    "wof:lastmodified":1582312140,
     "wof:name":"Ilomantsi",
     "wof:parent_id":1159321551,
     "wof:placetype":"localadmin",

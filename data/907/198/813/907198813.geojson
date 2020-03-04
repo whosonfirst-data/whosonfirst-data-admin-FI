@@ -121,6 +121,9 @@
         "qs_pg:id":244400
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0fb82709ec338aed5b2a53c9838b3904",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":907198813,
-    "wof:lastmodified":1566594059,
+    "wof:lastmodified":1582312067,
     "wof:name":"Toivakka",
     "wof:parent_id":1159321625,
     "wof:placetype":"localadmin",

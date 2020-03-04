@@ -161,6 +161,9 @@
         "qs_pg:id":1079077
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7891ff686b63d55265f44bdf26dea4b5",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":101753047,
-    "wof:lastmodified":1566595154,
+    "wof:lastmodified":1582312169,
     "wof:name":"Kangasala",
     "wof:parent_id":907199185,
     "wof:placetype":"locality",

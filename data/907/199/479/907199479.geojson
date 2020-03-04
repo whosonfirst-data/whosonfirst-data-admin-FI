@@ -152,6 +152,9 @@
         "qs_pg:id":1030105
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"640a77695f42c9183421d9aa614d483e",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":907199479,
-    "wof:lastmodified":1566594143,
+    "wof:lastmodified":1582312098,
     "wof:name":"Kempele",
     "wof:parent_id":1159321529,
     "wof:placetype":"localadmin",

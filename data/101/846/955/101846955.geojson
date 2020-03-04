@@ -149,6 +149,9 @@
         "wk:page":"Nykarleby"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"470545842f967f60b7550f9248a320fe",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101846955,
-    "wof:lastmodified":1566595178,
+    "wof:lastmodified":1582312174,
     "wof:name":"Uusikaarlepyy",
     "wof:parent_id":907199045,
     "wof:placetype":"locality",

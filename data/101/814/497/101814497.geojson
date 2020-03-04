@@ -180,6 +180,9 @@
         "qs_pg:id":897865
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e786fa770d2d80a94b0a2f1903647c20",
     "wof:hierarchy":[
         {
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":101814497,
-    "wof:lastmodified":1566595229,
+    "wof:lastmodified":1582312183,
     "wof:name":"Kittil\u00e4",
     "wof:parent_id":907199565,
     "wof:placetype":"locality",

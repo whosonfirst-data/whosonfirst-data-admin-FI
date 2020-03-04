@@ -64,6 +64,9 @@
         "qs_pg:id":1151723
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e9ce7723c010901cf875eda0db993f90",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":907199101,
-    "wof:lastmodified":1566594210,
+    "wof:lastmodified":1582312121,
     "wof:name":"Jamsa",
     "wof:parent_id":1159321587,
     "wof:placetype":"localadmin",

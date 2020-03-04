@@ -85,6 +85,9 @@
         "wd:id":"Q3070105"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"82c32110f688723ee237ef15df4ae178",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594464,
+    "wof:lastmodified":1582312155,
     "wof:name":"Puistola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -154,6 +154,9 @@
         "wk:page":"Somero"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"81c212eb50ec57c09477a44a946a59d8",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101815347,
-    "wof:lastmodified":1566595202,
+    "wof:lastmodified":1582312178,
     "wof:name":"Somero",
     "wof:parent_id":907198549,
     "wof:placetype":"locality",

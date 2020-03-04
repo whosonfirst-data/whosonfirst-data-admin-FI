@@ -59,6 +59,10 @@
         "wk:page":"Amuri, Tampere"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"347da9720ce6d46f8bc4d767488992aa",
     "wof:hierarchy":[
         {
@@ -77,7 +81,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594464,
+    "wof:lastmodified":1582312155,
     "wof:name":"Amuri",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

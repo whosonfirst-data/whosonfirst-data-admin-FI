@@ -128,6 +128,9 @@
         "wd:id":"Q747261"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6181dce58d1af423594a6efdcb8d310e",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101813963,
-    "wof:lastmodified":1566595253,
+    "wof:lastmodified":1582312188,
     "wof:name":"Pomarkku",
     "wof:parent_id":907198823,
     "wof:placetype":"locality",

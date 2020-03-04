@@ -78,6 +78,9 @@
         "wk:page":"\u00d6stersundom"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4d36b20b0f565ed41cf68fc7bd32fc9b",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101872781,
-    "wof:lastmodified":1566595165,
+    "wof:lastmodified":1582312171,
     "wof:name":"\u00d6stersundom",
     "wof:parent_id":1159321633,
     "wof:placetype":"locality",

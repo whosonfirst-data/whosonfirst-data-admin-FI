@@ -99,6 +99,9 @@
     },
     "wof:controlled":[],
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7c144ec9b28b664c9bfe5b5f9ae47e4a",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1566594416,
+    "wof:lastmodified":1582312148,
     "wof:name":"Herttoniemenranta",
     "wof:parent_id":890537227,
     "wof:placetype":"neighbourhood",

@@ -144,6 +144,9 @@
         "wk:page":"Joutseno"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8e303eeeb75ff103e14da6f822ccc0e3",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":101846861,
-    "wof:lastmodified":1566595181,
+    "wof:lastmodified":1582312174,
     "wof:name":"Joutseno",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

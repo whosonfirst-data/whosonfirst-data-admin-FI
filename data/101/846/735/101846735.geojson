@@ -150,6 +150,9 @@
         "qs_pg:id":1139835
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e14f9c41e75822b15a47627367a4b29e",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101846735,
-    "wof:lastmodified":1566595187,
+    "wof:lastmodified":1582312175,
     "wof:name":"Marttila",
     "wof:parent_id":907199259,
     "wof:placetype":"locality",

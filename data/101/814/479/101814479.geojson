@@ -149,6 +149,9 @@
         "qs_pg:id":320732
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f369dadc268414ceefdfd95933446dfa",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101814479,
-    "wof:lastmodified":1566595225,
+    "wof:lastmodified":1582312183,
     "wof:name":"Pyh\u00e4salmi",
     "wof:parent_id":907199151,
     "wof:placetype":"locality",

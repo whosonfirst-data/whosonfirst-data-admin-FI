@@ -147,6 +147,9 @@
         "wk:page":"Ylitornio"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca2fce34a942db5e492da3f3d0b0eeb3",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101814491,
-    "wof:lastmodified":1566595232,
+    "wof:lastmodified":1582312184,
     "wof:name":"Ylitornio",
     "wof:parent_id":907199549,
     "wof:placetype":"locality",

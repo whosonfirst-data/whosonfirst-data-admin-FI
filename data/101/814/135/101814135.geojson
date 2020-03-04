@@ -123,6 +123,9 @@
         "wk:page":"T\u00f6ys\u00e4"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"431d8e831231d8fd22a3e51dfebcc2e0",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101814135,
-    "wof:lastmodified":1566595218,
+    "wof:lastmodified":1582312181,
     "wof:name":"T\u00f6ys\u00e4",
     "wof:parent_id":907199157,
     "wof:placetype":"locality",

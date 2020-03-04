@@ -156,6 +156,9 @@
         "qs_pg:id":1139067
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f83f02e48e46a45f46a5065d5fca884b",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101814473,
-    "wof:lastmodified":1566595245,
+    "wof:lastmodified":1582312186,
     "wof:name":"Nivala",
     "wof:parent_id":907199629,
     "wof:placetype":"locality",

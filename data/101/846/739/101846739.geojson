@@ -134,6 +134,9 @@
         "qs_pg:id":1242907
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f94d567088feb119b3a267f55105573e",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101846739,
-    "wof:lastmodified":1566595176,
+    "wof:lastmodified":1582312174,
     "wof:name":"Taivassalo",
     "wof:parent_id":907198635,
     "wof:placetype":"locality",

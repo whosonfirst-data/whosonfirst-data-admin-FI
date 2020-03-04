@@ -163,6 +163,9 @@
         "qs_pg:id":369862
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9db76307b71484d31b3ee33e3e629eb5",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":907199209,
-    "wof:lastmodified":1566594246,
+    "wof:lastmodified":1582312133,
     "wof:name":"Paimio",
     "wof:parent_id":1159321603,
     "wof:placetype":"localadmin",

@@ -194,6 +194,9 @@
         "qs_pg:id":1115917
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"33fed6120d868f5c7eba762d7b3ae991",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":101753899,
-    "wof:lastmodified":1566595156,
+    "wof:lastmodified":1582312169,
     "wof:name":"Kaarina",
     "wof:parent_id":907198993,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
         "wk:page":"Karunki"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd3438fc67b0b14281792f80cdca2488",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101845601,
-    "wof:lastmodified":1566595159,
+    "wof:lastmodified":1582312169,
     "wof:name":"Karunki",
     "wof:parent_id":907199557,
     "wof:placetype":"locality",

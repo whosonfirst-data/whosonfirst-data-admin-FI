@@ -79,6 +79,9 @@
         "wk:page":"Bj\u00f6rk\u00f6by"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8240b0af9ef129d86b881894b20dd760",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101846969,
-    "wof:lastmodified":1566595187,
+    "wof:lastmodified":1582312175,
     "wof:name":"Bj\u00f6rk\u00f6by",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "qs_pg:id":1030126
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d3b1d827710c56766fdc073916300814",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":907198669,
-    "wof:lastmodified":1566594014,
+    "wof:lastmodified":1582312053,
     "wof:name":"Eurajoki",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

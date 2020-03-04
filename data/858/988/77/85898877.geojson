@@ -99,6 +99,9 @@
         "wk:page":"Pakila"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9e2d24fcd45d08c706f0d5043a2880a7",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1527641062,
+    "wof:lastmodified":1582312155,
     "wof:name":"Pakila",
     "wof:parent_id":890537251,
     "wof:placetype":"neighbourhood",

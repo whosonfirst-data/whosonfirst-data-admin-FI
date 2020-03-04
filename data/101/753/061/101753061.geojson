@@ -71,6 +71,9 @@
         "wd:id":"Q11870803"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"29e85876fd02440816a1c980f8afd4b6",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101753061,
-    "wof:lastmodified":1566595156,
+    "wof:lastmodified":1582312169,
     "wof:name":"Kello",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

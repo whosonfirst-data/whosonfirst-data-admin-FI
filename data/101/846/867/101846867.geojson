@@ -96,6 +96,9 @@
         "qs_pg:id":1062465
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"57d6ab13b982d200b3d28c140e88680f",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101846867,
-    "wof:lastmodified":1566595182,
+    "wof:lastmodified":1582312175,
     "wof:name":"Saari",
     "wof:parent_id":907198853,
     "wof:placetype":"locality",

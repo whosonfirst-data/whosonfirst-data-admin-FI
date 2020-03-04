@@ -70,6 +70,9 @@
         "wd:id":"Q11899935"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"14e4a5890d643e4589eaab82796ea730",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101872893,
-    "wof:lastmodified":1566595162,
+    "wof:lastmodified":1582312170,
     "wof:name":"Vaalaj\u00e4rvi",
     "wof:parent_id":907199561,
     "wof:placetype":"locality",

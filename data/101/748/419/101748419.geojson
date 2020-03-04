@@ -321,6 +321,10 @@
         "qs_pg:id":1156467
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d6d3fc3425218d247d96694beae83c0b",
     "wof:hierarchy":[
         {
@@ -335,7 +339,7 @@
         }
     ],
     "wof:id":101748419,
-    "wof:lastmodified":1566595170,
+    "wof:lastmodified":1582312172,
     "wof:name":"Vantaa",
     "wof:parent_id":907199651,
     "wof:placetype":"locality",

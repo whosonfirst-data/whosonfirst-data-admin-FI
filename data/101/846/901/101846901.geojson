@@ -102,6 +102,9 @@
         "wk:page":"Kortesj\u00e4rvi"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e1aefc330ed2894023a2d7b09cafaba",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101846901,
-    "wof:lastmodified":1566595177,
+    "wof:lastmodified":1582312174,
     "wof:name":"Kortesj\u00e4rvi",
     "wof:parent_id":907199237,
     "wof:placetype":"locality",

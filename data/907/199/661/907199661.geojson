@@ -61,6 +61,9 @@
         "qs_pg:id":1030071
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"070f4030f8c6b0ab096c019b9a0b0ced",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":907199661,
-    "wof:lastmodified":1566594168,
+    "wof:lastmodified":1582312108,
     "wof:name":"Narpio",
     "wof:parent_id":1159321495,
     "wof:placetype":"localadmin",

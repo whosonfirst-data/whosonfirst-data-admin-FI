@@ -126,6 +126,9 @@
         "qs_pg:id":81501
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bda778dcd71cdd07a01b099f84ce26ab",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":907199531,
-    "wof:lastmodified":1566594206,
+    "wof:lastmodified":1582312120,
     "wof:name":"Hyrynsalmi",
     "wof:parent_id":1159321549,
     "wof:placetype":"localadmin",

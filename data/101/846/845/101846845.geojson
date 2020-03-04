@@ -58,6 +58,9 @@
         "qs_pg:id":352970
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"009de13ad153841c6aeb41527473a0f4",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101846845,
-    "wof:lastmodified":1566595179,
+    "wof:lastmodified":1582312174,
     "wof:name":"Ruutana",
     "wof:parent_id":907199185,
     "wof:placetype":"locality",

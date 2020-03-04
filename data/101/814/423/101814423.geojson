@@ -152,6 +152,9 @@
         "wd:id":"Q985461"
     },
     "wof:country":"FI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b19500bc6e0f314ae34e074056afed71",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101814423,
-    "wof:lastmodified":1566595227,
+    "wof:lastmodified":1582312183,
     "wof:name":"Liminka",
     "wof:parent_id":907199635,
     "wof:placetype":"locality",
