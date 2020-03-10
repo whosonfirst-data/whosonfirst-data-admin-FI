@@ -320,9 +320,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28320
-        ],
+        "digitalenvoy:region_code":28320,
         "fips:code":"",
         "gn:id":830690,
         "gp:id":29389262,
@@ -350,7 +348,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538313,
+    "wof:lastmodified":1583882784,
     "wof:name":"Northern Savonia",
     "wof:parent_id":404227407,
     "wof:placetype":"region",

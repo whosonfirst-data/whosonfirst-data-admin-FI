@@ -311,9 +311,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28314
-        ],
+        "digitalenvoy:region_code":28314,
         "fips:code":"",
         "gn:id":830705,
         "gp:id":29389249,
@@ -341,7 +339,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538307,
+    "wof:lastmodified":1583882778,
     "wof:name":"Tavastia Proper",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

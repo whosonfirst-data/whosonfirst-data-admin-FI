@@ -343,9 +343,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28312
-        ],
+        "digitalenvoy:region_code":28312,
         "fips:code":"",
         "gn:id":830709,
         "gp:id":29389247,
@@ -373,7 +371,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538315,
+    "wof:lastmodified":1583882786,
     "wof:name":"Uusimaa",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

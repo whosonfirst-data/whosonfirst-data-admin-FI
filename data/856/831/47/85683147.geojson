@@ -311,9 +311,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28321
-        ],
+        "digitalenvoy:region_code":28321,
         "fips:code":"",
         "gn:id":830603,
         "gp:id":12577870,
@@ -341,7 +339,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538310,
+    "wof:lastmodified":1583882780,
     "wof:name":"Lapland",
     "wof:parent_id":404227409,
     "wof:placetype":"region",

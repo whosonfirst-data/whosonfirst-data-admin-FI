@@ -295,9 +295,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28318
-        ],
+        "digitalenvoy:region_code":28318,
         "fips:code":"",
         "gn:id":830695,
         "gp:id":29389260,
@@ -325,7 +323,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538306,
+    "wof:lastmodified":1583882776,
     "wof:name":"Southern Savonia",
     "wof:parent_id":404227407,
     "wof:placetype":"region",

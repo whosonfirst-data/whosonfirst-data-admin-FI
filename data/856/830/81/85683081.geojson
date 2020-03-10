@@ -296,9 +296,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28316
-        ],
+        "digitalenvoy:region_code":28316,
         "fips:code":"",
         "gn:id":830703,
         "gp:id":-29389251,
@@ -326,7 +324,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538309,
+    "wof:lastmodified":1583882780,
     "wof:name":"Kymenlaakso",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

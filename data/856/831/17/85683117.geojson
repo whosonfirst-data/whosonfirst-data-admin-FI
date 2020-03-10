@@ -307,9 +307,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28324
-        ],
+        "digitalenvoy:region_code":28324,
         "fips:code":"",
         "gn:id":830685,
         "gp:id":29389258,
@@ -336,7 +334,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538308,
+    "wof:lastmodified":1583882779,
     "wof:name":"Central Finland",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

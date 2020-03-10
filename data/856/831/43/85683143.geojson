@@ -325,9 +325,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28327
-        ],
+        "digitalenvoy:region_code":28327,
         "fips:code":"",
         "gn:id":830667,
         "gp:id":29389265,
@@ -355,7 +353,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538312,
+    "wof:lastmodified":1583882784,
     "wof:name":"Northern Ostrobothnia",
     "wof:parent_id":404227415,
     "wof:placetype":"region",

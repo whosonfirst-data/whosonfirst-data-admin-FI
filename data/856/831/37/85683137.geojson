@@ -321,9 +321,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28330
-        ],
+        "digitalenvoy:region_code":28330,
         "fips:code":"",
         "gn:id":830664,
         "gp:id":29389264,
@@ -351,7 +349,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538307,
+    "wof:lastmodified":1583882777,
     "wof:name":"Kainuu",
     "wof:parent_id":404227415,
     "wof:placetype":"region",

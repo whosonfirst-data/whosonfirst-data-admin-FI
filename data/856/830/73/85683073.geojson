@@ -310,9 +310,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28329
-        ],
+        "digitalenvoy:region_code":28329,
         "fips:code":"",
         "gn:id":830708,
         "gp:id":29389250,
@@ -340,7 +338,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538315,
+    "wof:lastmodified":1583882787,
     "wof:name":"Southwest Finland",
     "wof:parent_id":404227405,
     "wof:placetype":"region",

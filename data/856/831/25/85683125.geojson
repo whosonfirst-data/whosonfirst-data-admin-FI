@@ -314,9 +314,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28323
-        ],
+        "digitalenvoy:region_code":28323,
         "fips:code":"",
         "gn:id":830675,
         "gp:id":29389257,
@@ -344,7 +342,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538308,
+    "wof:lastmodified":1583882778,
     "wof:name":"Central Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

@@ -318,9 +318,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28328
-        ],
+        "digitalenvoy:region_code":28328,
         "fips:code":"",
         "gn:id":831041,
         "gp:id":29389252,
@@ -348,7 +346,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538314,
+    "wof:lastmodified":1583882786,
     "wof:name":"Satakunta",
     "wof:parent_id":404227405,
     "wof:placetype":"region",

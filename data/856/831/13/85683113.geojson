@@ -310,9 +310,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28322
-        ],
+        "digitalenvoy:region_code":28322,
         "fips:code":"",
         "gn:id":830682,
         "gp:id":29389256,
@@ -340,7 +338,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538305,
+    "wof:lastmodified":1583882775,
     "wof:name":"Southern Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

@@ -324,9 +324,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28319
-        ],
+        "digitalenvoy:region_code":28319,
         "fips:code":"",
         "gn:id":830686,
         "gp:id":29389261,
@@ -354,7 +352,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538312,
+    "wof:lastmodified":1583882783,
     "wof:name":"North Karelen",
     "wof:parent_id":404227407,
     "wof:placetype":"region",

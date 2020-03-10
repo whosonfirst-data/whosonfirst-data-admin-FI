@@ -319,9 +319,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28325
-        ],
+        "digitalenvoy:region_code":28325,
         "fips:code":"",
         "gn:id":830704,
         "gp:id":29389248,
@@ -349,7 +347,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583538311,
+    "wof:lastmodified":1583882782,
     "wof:name":"Pirkanmaa",
     "wof:parent_id":404227417,
     "wof:placetype":"region",
