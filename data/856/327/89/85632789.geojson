@@ -713,9 +713,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            248
-        ],
+        "digitalenvoy:country_code":248,
         "fifa:id":"ALD",
         "gaul:id":"1242",
         "gn:id":661882,
@@ -742,7 +740,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1583529068,
+    "wof:lastmodified":1583797271,
     "wof:name":"Aland",
     "wof:parent_id":136253047,
     "wof:placetype":"dependency",

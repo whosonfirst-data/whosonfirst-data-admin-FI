@@ -1208,9 +1208,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Finland",
-        "digitalenvoy:country_code":[
-            246
-        ],
+        "digitalenvoy:country_code":246,
         "fb:id":"en.finland",
         "fifa:id":"FIN",
         "fips:code":"FI",
@@ -1255,7 +1253,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583529129,
+    "wof:lastmodified":1583797335,
     "wof:name":"Finland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
