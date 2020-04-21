@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":62.562649,
-    "geom:area_square_m":332677728236.458618,
+    "geom:area_square_m":332677728962.60022,
     "geom:bbox":"20.548892,59.807919,31.5871,70.091845",
     "geom:latitude":64.500376,
     "geom:longitude":26.261937,
@@ -57,6 +57,9 @@
     "name:arg_x_preferred":[
         "Finlandia"
     ],
+    "name:ary_x_preferred":[
+        "\u0641\u064a\u0646\u0644\u0627\u0646\u062f\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0641\u064a\u0646\u0644\u0627\u0646\u062f\u0627"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:ast_x_preferred":[
         "Finlandia"
+    ],
+    "name:atj_x_preferred":[
+        "Finlande"
     ],
     "name:ava_x_preferred":[
         "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f"
@@ -86,6 +92,9 @@
     ],
     "name:bam_x_variant":[
         "Finilandi"
+    ],
+    "name:ban_x_preferred":[
+        "Finlandia"
     ],
     "name:bar_x_preferred":[
         "Finnland"
@@ -198,6 +207,12 @@
     "name:dan_x_preferred":[
         "Finland"
     ],
+    "name:deu_at_x_preferred":[
+        "Finnland"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Finnland"
+    ],
     "name:deu_x_preferred":[
         "Finnland"
     ],
@@ -230,6 +245,12 @@
     ],
     "name:eml_x_preferred":[
         "Finl\u00e0ndia"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Finland"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Finland"
     ],
     "name:eng_x_preferred":[
         "Finland"
@@ -313,6 +334,9 @@
     ],
     "name:gan_x_preferred":[
         "\u82ac\u862d"
+    ],
+    "name:gcr_x_preferred":[
+        "Fenlann"
     ],
     "name:gla_x_preferred":[
         "Su\u00f2maidh"
@@ -489,6 +513,9 @@
     "name:kbp_x_preferred":[
         "F\u025b\u025bland\u0269"
     ],
+    "name:kea_x_preferred":[
+        "Finl\u00e1ndia"
+    ],
     "name:khm_x_preferred":[
         "\u17a0\u17d2\u179c\u17b6\u17c6\u1784\u17a1\u1784\u17cb"
     ],
@@ -635,6 +662,9 @@
     "name:mlt_x_preferred":[
         "Finlandja"
     ],
+    "name:mnw_x_preferred":[
+        "\u101d\u103e\u1031\u1014\u103a\u101c\u102c\u1014\u103a"
+    ],
     "name:mon_x_preferred":[
         "\u0424\u0438\u043d\u043b\u0430\u043d\u0434"
     ],
@@ -711,6 +741,9 @@
     "name:nov_x_preferred":[
         "Finlande"
     ],
+    "name:nqo_x_preferred":[
+        "\u07dd\u07cd\u07f2\u07df\u07ca\u07f2\u07d8"
+    ],
     "name:nrm_x_preferred":[
         "F\u00eenlande"
     ],
@@ -774,6 +807,9 @@
     "name:pol_x_preferred":[
         "Finlandia"
     ],
+    "name:por_br_x_preferred":[
+        "Finl\u00e2ndia"
+    ],
     "name:por_x_preferred":[
         "Finl\u00e2ndia"
     ],
@@ -788,6 +824,9 @@
     ],
     "name:que_x_variant":[
         "Finlandiya"
+    ],
+    "name:rmf_x_preferred":[
+        "Finitiko them"
     ],
     "name:rmy_x_preferred":[
         "Finland"
@@ -906,6 +945,12 @@
     "name:srn_x_variant":[
         "Finland"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0424\u0438\u043d\u0441\u043a\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Finska"
+    ],
     "name:srp_x_preferred":[
         "\u0424\u0438\u043d\u0441\u043a\u0430"
     ],
@@ -929,6 +974,9 @@
     ],
     "name:szl_x_preferred":[
         "Finlandyjo"
+    ],
+    "name:szy_x_preferred":[
+        "Finland"
     ],
     "name:tah_x_preferred":[
         "Finerati"
@@ -1253,7 +1301,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583797335,
+    "wof:lastmodified":1587429044,
     "wof:name":"Finland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
