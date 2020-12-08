@@ -817,7 +817,9 @@
         85683067
     ],
     "wof:breaches":[],
-    "wof:capital_of":85633143,
+    "wof:capital_of":[
+        85633143
+    ],
     "wof:concordances":{
         "dbp:id":"Helsinki",
         "fb:id":"en.helsinki",
@@ -850,7 +852,7 @@
         }
     ],
     "wof:id":101748417,
-    "wof:lastmodified":1587429046,
+    "wof:lastmodified":1607390896,
     "wof:megacity":1,
     "wof:name":"Helsinki",
     "wof:parent_id":907199715,
