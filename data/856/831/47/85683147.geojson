@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":21.247813,
-    "geom:area_square_m":99672012606.641266,
+    "geom:area_square_m":99672014140.125107,
     "geom:bbox":"20.548636,65.29248,30.017044,70.092293",
     "geom:latitude":67.701146,
     "geom:longitude":26.300799,
@@ -319,6 +319,9 @@
         "unlc:id":"FI-10",
         "wd:id":"Q5700"
     },
+    "wof:coterminous":[
+        404227409
+    ],
     "wof:country":"FI",
     "wof:geomhash":"6442df99d5a4a7e873885416b075c947",
     "wof:hierarchy":[
@@ -339,7 +342,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1583882780,
+    "wof:lastmodified":1607721901,
     "wof:name":"Lapland",
     "wof:parent_id":404227409,
     "wof:placetype":"region",
