@@ -64,11 +64,11 @@
         "\u062c\u0646\u0648\u0628 \u063a\u0631\u0628 \u0641\u0646\u0644\u0627\u0646\u062f"
     ],
     "name:fin_x_preferred":[
-        "Lounais-Suomen aluehallintovirasto"
+        "Lounais-Suomi"
     ],
     "name:fin_x_variant":[
-        "Lounais-Suomi",
-        "Varsinais-Suomen maakunta"
+        "Varsinais-Suomen maakunta",
+        "Lounais-Suomen aluehallintovirasto"
     ],
     "name:fra_x_preferred":[
         "Finlande-Propre"
@@ -149,10 +149,11 @@
         "\u0423\u0436\u0430 \u0424\u0438\u043d\u0441\u043a\u0430"
     ],
     "name:swe_x_preferred":[
-        "Regionf\u00f6rvaltningsverket i Sydv\u00e4stra Finland"
+        "Sydv\u00e4stra Finland"
     ],
     "name:swe_x_variant":[
-        "Egentliga Finland"
+        "Egentliga Finland",
+        "Regionf\u00f6rvaltningsverket i Sydv\u00e4stra Finland"
     ],
     "name:tur_x_preferred":[
         "G\u00fcneybat\u0131 Finlandiya"
@@ -210,7 +211,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1587429054,
+    "wof:lastmodified":1614893826,
     "wof:name":"Southwest Finland",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",
