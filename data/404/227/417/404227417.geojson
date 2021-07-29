@@ -28,6 +28,9 @@
         "Lansi ja Sisa-Suomi",
         "L\u00e4nsi- ja Sis\u00e4-Suomen aluehallintovirasto"
     ],
+    "name:fra_x_preferred":[
+        "Finlande occidentale"
+    ],
     "name:swe_x_preferred":[
         "V\u00e4stra och Inre Finland"
     ],
@@ -75,7 +78,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1617131185,
+    "wof:lastmodified":1627522115,
     "wof:name":"West Finland",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",

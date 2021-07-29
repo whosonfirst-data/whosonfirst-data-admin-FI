@@ -28,6 +28,9 @@
         "Ita-Suomi",
         "It\u00e4-Suomen aluehallintovirasto"
     ],
+    "name:fra_x_preferred":[
+        "Finlande orientale"
+    ],
     "name:swe_x_preferred":[
         "\u00d6stra Finland"
     ],
@@ -75,7 +78,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1617131249,
+    "wof:lastmodified":1627522117,
     "wof:name":"Eastern Finland",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",

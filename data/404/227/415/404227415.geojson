@@ -27,6 +27,9 @@
     "name:fin_x_variant":[
         "Pohjois-Suomen aluehallintovirasto"
     ],
+    "name:fra_x_preferred":[
+        "Northern Finland"
+    ],
     "name:swe_x_preferred":[
         "Norra Finland"
     ],
@@ -74,7 +77,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1614893823,
+    "wof:lastmodified":1627522126,
     "wof:name":"Northern Finland",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",
