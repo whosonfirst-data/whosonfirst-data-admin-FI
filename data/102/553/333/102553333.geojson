@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.0513888889,63.1241666667,23.0513888889,63.1241666667",
+    "geom:bbox":"23.051389,63.124167,23.051389,63.124167",
     "geom:latitude":63.124167,
     "geom:longitude":23.051389,
     "iso:country":"FI",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Kauhava Airfield"
+    ],
+    "name:eng_x_variant":[
+        "KAU",
+        "EFKA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0647\u0627\u0648\u0627"
@@ -79,7 +83,7 @@
         "wd:id":"Q2628568"
     },
     "wof:country":"FI",
-    "wof:geomhash":"12ed5bc8cc1091d83d2f80527b5101ca",
+    "wof:geomhash":"ba73e653dc7611382e3bfdd75569e7d9",
     "wof:hierarchy":[
         {
             "campus_id":102553333,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":102553333,
-    "wof:lastmodified":1566594280,
+    "wof:lastmodified":1631743343,
     "wof:name":"Kauhava lentokentt\u00e4",
     "wof:parent_id":85683113,
     "wof:placetype":"campus",
@@ -100,10 +104,10 @@
     ]
 },
   "bbox": [
-    23.051388888889,
-    63.124166666667,
-    23.051388888889,
-    63.124166666667
+    23.051389,
+    63.124167,
+    23.051389,
+    63.124167
 ],
-  "geometry": {"coordinates":[23.051388888889,63.124166666667],"type":"Point"}
+  "geometry": {"coordinates":[23.051389,63.124167],"type":"Point"}
 }

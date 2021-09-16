@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.5188888889,62.9466666667,23.5188888889,62.9466666667",
+    "geom:bbox":"23.518889,62.946667,23.518889,62.946667",
     "geom:latitude":62.946667,
     "geom:longitude":23.518889,
     "iso:country":"FI",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Menkij\u00e4rvi Airfield"
+    ],
+    "name:eng_x_variant":[
+        "EFME"
     ],
     "name:fin_x_preferred":[
         "Menkij\u00e4rven lentokentt\u00e4"
@@ -48,7 +51,7 @@
         "wd:id":"Q11882066"
     },
     "wof:country":"FI",
-    "wof:geomhash":"694c34357f43fa7e0d23f9d6cbc1580e",
+    "wof:geomhash":"2076f44ddbad9b5f4b06b89de02dab0c",
     "wof:hierarchy":[
         {
             "campus_id":102553379,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":102553379,
-    "wof:lastmodified":1566594280,
+    "wof:lastmodified":1631743343,
     "wof:name":"Menkijarvi lentokentt\u00e4",
     "wof:parent_id":85683113,
     "wof:placetype":"campus",
@@ -69,10 +72,10 @@
     ]
 },
   "bbox": [
-    23.518888888889,
-    62.946666666667,
-    23.518888888889,
-    62.946666666667
+    23.518889,
+    62.946667,
+    23.518889,
+    62.946667
 ],
-  "geometry": {"coordinates":[23.518888888889,62.946666666667],"type":"Point"}
+  "geometry": {"coordinates":[23.518889,62.946667],"type":"Point"}
 }

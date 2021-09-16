@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.7447222222,60.8761111111,22.7447222222,60.8761111111",
+    "geom:bbox":"22.744722,60.876111,22.744722,60.876111",
     "geom:latitude":60.876111,
     "geom:longitude":22.744722,
     "iso:country":"FI",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Orip\u00e4\u00e4 Airfield"
+    ],
+    "name:eng_x_variant":[
+        "EFOP"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u0627\u0648\u0631\u06cc\u067e\u0627"
@@ -51,7 +54,7 @@
         "wd:id":"Q6305754"
     },
     "wof:country":"FI",
-    "wof:geomhash":"7c05d5cb4ce735aef488180f2f1e2edb",
+    "wof:geomhash":"e9feaf6b0393e035745f062e8d9847a5",
     "wof:hierarchy":[
         {
             "campus_id":102553315,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":102553315,
-    "wof:lastmodified":1566594280,
+    "wof:lastmodified":1631743343,
     "wof:name":"Oripaa lentokentt\u00e4",
     "wof:parent_id":85683073,
     "wof:placetype":"campus",
@@ -72,10 +75,10 @@
     ]
 },
   "bbox": [
-    22.744722222222,
-    60.876111111111,
-    22.744722222222,
-    60.876111111111
+    22.744722,
+    60.876111,
+    22.744722,
+    60.876111
 ],
-  "geometry": {"coordinates":[22.744722222222,60.876111111111],"type":"Point"}
+  "geometry": {"coordinates":[22.744722,60.876111],"type":"Point"}
 }

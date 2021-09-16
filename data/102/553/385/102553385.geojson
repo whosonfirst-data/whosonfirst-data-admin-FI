@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.195,61.2452777778,22.195,61.2452777778",
+    "geom:bbox":"22.195,61.245278,22.195,61.245278",
     "geom:latitude":61.245278,
     "geom:longitude":22.195,
     "iso:country":"FI",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Piikaj\u00e4rvi Airfield"
+    ],
+    "name:eng_x_variant":[
+        "EFPI"
     ],
     "name:fin_x_preferred":[
         "Piikaj\u00e4rven lentokentt\u00e4"
@@ -45,7 +48,7 @@
         "wd:id":"Q11888045"
     },
     "wof:country":"FI",
-    "wof:geomhash":"d3d440026b5e78084aa355dfc89401fd",
+    "wof:geomhash":"f6017f57d8c4b75c719b9f497e48a57d",
     "wof:hierarchy":[
         {
             "campus_id":102553385,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":102553385,
-    "wof:lastmodified":1566594280,
+    "wof:lastmodified":1631743343,
     "wof:name":"Piikajarvi lentokentt\u00e4",
     "wof:parent_id":85683095,
     "wof:placetype":"campus",
@@ -67,9 +70,9 @@
 },
   "bbox": [
     22.195,
-    61.245277777778,
+    61.245278,
     22.195,
-    61.245277777778
+    61.245278
 ],
-  "geometry": {"coordinates":[22.195,61.245277777778],"type":"Point"}
+  "geometry": {"coordinates":[22.195,61.245278],"type":"Point"}
 }

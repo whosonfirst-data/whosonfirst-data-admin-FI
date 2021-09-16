@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.1077777778,60.7447222222,24.1077777778,60.7447222222",
+    "geom:bbox":"24.107778,60.744722,24.107778,60.744722",
     "geom:latitude":60.744722,
     "geom:longitude":24.107778,
     "iso:country":"FI",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "R\u00e4ysk\u00e4l\u00e4 Airfield"
+    ],
+    "name:eng_x_variant":[
+        "EFRY"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0631\u0627\u06cc\u0633\u06a9\u0627\u0644\u0627"
@@ -54,7 +57,7 @@
         "wd:id":"Q4350292"
     },
     "wof:country":"FI",
-    "wof:geomhash":"8e8d7b02ce41e7d3ae70a2259b7c1e5c",
+    "wof:geomhash":"6a9dbad6cb9f0ccfa310d0fc6da6bd29",
     "wof:hierarchy":[
         {
             "campus_id":102553327,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102553327,
-    "wof:lastmodified":1566594280,
+    "wof:lastmodified":1631743343,
     "wof:name":"Rayskala lentokentt\u00e4",
     "wof:parent_id":85683077,
     "wof:placetype":"campus",
@@ -75,10 +78,10 @@
     ]
 },
   "bbox": [
-    24.107777777778,
-    60.744722222222,
-    24.107777777778,
-    60.744722222222
+    24.107778,
+    60.744722,
+    24.107778,
+    60.744722
 ],
-  "geometry": {"coordinates":[24.107777777778,60.744722222222],"type":"Point"}
+  "geometry": {"coordinates":[24.107778,60.744722],"type":"Point"}
 }

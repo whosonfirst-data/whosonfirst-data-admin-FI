@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"25.6727777778,62.4008333333,25.6727777778,62.4008333333",
+    "geom:bbox":"25.672778,62.400833,25.672778,62.400833",
     "geom:latitude":62.400833,
     "geom:longitude":25.672778,
     "iso:country":"FI",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Jyv\u00e4skyl\u00e4 Airport"
+    ],
+    "name:eng_x_variant":[
+        "JYV",
+        "EFJY"
     ],
     "name:est_x_preferred":[
         "Jyv\u00e4skyl\u00e4 lennujaam"
@@ -101,7 +105,7 @@
         "wd:id":"Q143224"
     },
     "wof:country":"FI",
-    "wof:geomhash":"67282027ef1fa3a6141a77e5990973cb",
+    "wof:geomhash":"0be68f096d64e8851d5d20e3e9df2122",
     "wof:hierarchy":[
         {
             "campus_id":102553347,
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":102553347,
-    "wof:lastmodified":1566594280,
+    "wof:lastmodified":1631743343,
     "wof:name":"Jyv\u00e4skyl\u00e4n lentoasema",
     "wof:parent_id":101814179,
     "wof:placetype":"campus",
@@ -123,10 +127,10 @@
     ]
 },
   "bbox": [
-    25.672777777778,
-    62.400833333333,
-    25.672777777778,
-    62.400833333333
+    25.672778,
+    62.400833,
+    25.672778,
+    62.400833
 ],
-  "geometry": {"coordinates":[25.672777777778,62.400833333333],"type":"Point"}
+  "geometry": {"coordinates":[25.672778,62.400833],"type":"Point"}
 }

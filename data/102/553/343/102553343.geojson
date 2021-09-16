@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.57333333,62.55472222,23.57333333,62.55472222",
+    "geom:bbox":"23.573333,62.554722,23.573333,62.554722",
     "geom:latitude":62.554722,
     "geom:longitude":23.573333,
     "iso:country":"FI",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Alavus Airfield"
+    ],
+    "name:eng_x_variant":[
+        "EFAL"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u0622\u0644\u0627\u0648\u0648\u0633"
@@ -51,7 +54,7 @@
         "wd:id":"Q4347195"
     },
     "wof:country":"FI",
-    "wof:geomhash":"b4934ce9f74097e4fadb413e415666b1",
+    "wof:geomhash":"dbdd8c3b37dcdfd46e9bf29e8da7a917",
     "wof:hierarchy":[
         {
             "campus_id":102553343,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":102553343,
-    "wof:lastmodified":1566594281,
+    "wof:lastmodified":1631743343,
     "wof:name":"Alavus lentokentt\u00e4",
     "wof:parent_id":85683113,
     "wof:placetype":"campus",
@@ -72,10 +75,10 @@
     ]
 },
   "bbox": [
-    23.57333333,
-    62.55472222,
-    23.57333333,
-    62.55472222
+    23.573333,
+    62.554722,
+    23.573333,
+    62.554722
 ],
-  "geometry": {"coordinates":[23.57333333,62.55472222],"type":"Point"}
+  "geometry": {"coordinates":[23.573333,62.554722],"type":"Point"}
 }

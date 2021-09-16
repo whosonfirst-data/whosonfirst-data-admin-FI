@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.78916667,61.85638889,24.78916667,61.85638889",
+    "geom:bbox":"24.789167,61.856389,24.789167,61.856389",
     "geom:latitude":61.856389,
     "geom:longitude":24.789167,
     "iso:country":"FI",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Halli Airport"
+    ],
+    "name:eng_x_variant":[
+        "KEV",
+        "EFHA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0627\u0644\u06cc"
@@ -77,7 +81,7 @@
         "wd:id":"Q2627988"
     },
     "wof:country":"FI",
-    "wof:geomhash":"8691ad345daae8b26c52e5be7df8a93d",
+    "wof:geomhash":"94e66eb1b77f1586360c2d6d421c02d0",
     "wof:hierarchy":[
         {
             "campus_id":102553323,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":102553323,
-    "wof:lastmodified":1566594280,
+    "wof:lastmodified":1631743343,
     "wof:name":"Halli lentokentt\u00e4",
     "wof:parent_id":101814217,
     "wof:placetype":"campus",
@@ -99,10 +103,10 @@
     ]
 },
   "bbox": [
-    24.78916667,
-    61.85638889,
-    24.78916667,
-    61.85638889
+    24.789167,
+    61.856389,
+    24.789167,
+    61.856389
 ],
-  "geometry": {"coordinates":[24.78916667,61.85638889],"type":"Point"}
+  "geometry": {"coordinates":[24.789167,61.856389],"type":"Point"}
 }

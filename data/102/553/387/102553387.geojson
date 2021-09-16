@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.07361111,62.16611111,30.07361111,62.16611111",
+    "geom:bbox":"30.073611,62.166111,30.073611,62.166111",
     "geom:latitude":62.166111,
     "geom:longitude":30.073611,
     "iso:country":"FI",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Kitee Airfield"
+    ],
+    "name:eng_x_variant":[
+        "KTQ",
+        "EFIT"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u06a9\u06cc\u062a\u06cc"
@@ -61,7 +65,7 @@
         "wd:id":"Q4347133"
     },
     "wof:country":"FI",
-    "wof:geomhash":"7dd22c7306b4e64e4229ca3fc37dc0e0",
+    "wof:geomhash":"19a0f74a91db7b388949387c80f474ea",
     "wof:hierarchy":[
         {
             "campus_id":102553387,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":102553387,
-    "wof:lastmodified":1566594280,
+    "wof:lastmodified":1631743343,
     "wof:name":"Kitee lentokentt\u00e4",
     "wof:parent_id":85683133,
     "wof:placetype":"campus",
@@ -82,10 +86,10 @@
     ]
 },
   "bbox": [
-    30.07361111,
-    62.16611111,
-    30.07361111,
-    62.16611111
+    30.073611,
+    62.166111,
+    30.073611,
+    62.166111
 ],
-  "geometry": {"coordinates":[30.07361111,62.16611111],"type":"Point"}
+  "geometry": {"coordinates":[30.073611,62.166111],"type":"Point"}
 }

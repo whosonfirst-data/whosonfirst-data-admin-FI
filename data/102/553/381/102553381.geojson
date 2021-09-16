@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.4275,68.3644444444,23.4275,68.3644444444",
+    "geom:bbox":"23.4275,68.364444,23.4275,68.364444",
     "geom:latitude":68.364444,
     "geom:longitude":23.4275,
     "iso:country":"FI",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Enonteki\u00f6 Airport"
+    ],
+    "name:eng_x_variant":[
+        "ENF",
+        "EFET"
     ],
     "name:est_x_preferred":[
         "Enonteki\u00f6 lennujaam"
@@ -106,7 +110,7 @@
         "wd:id":"Q662933"
     },
     "wof:country":"FI",
-    "wof:geomhash":"a00b6dc300a0ed4698df626cfe4a0773",
+    "wof:geomhash":"5b4c44a0a17af7c3356d136bd0e6f55b",
     "wof:hierarchy":[
         {
             "campus_id":102553381,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102553381,
-    "wof:lastmodified":1566594281,
+    "wof:lastmodified":1631743343,
     "wof:name":"Enonteki\u00f6n lentoasema",
     "wof:parent_id":85683147,
     "wof:placetype":"campus",
@@ -128,9 +132,9 @@
 },
   "bbox": [
     23.4275,
-    68.364444444444,
+    68.364444,
     23.4275,
-    68.364444444444
+    68.364444
 ],
-  "geometry": {"coordinates":[23.4275,68.364444444444],"type":"Point"}
+  "geometry": {"coordinates":[23.4275,68.36444400000001],"type":"Point"}
 }
