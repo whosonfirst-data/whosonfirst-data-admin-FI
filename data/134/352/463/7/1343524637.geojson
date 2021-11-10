@@ -41,6 +41,9 @@
     "name:bel_x_preferred":[
         "\u041a\u043e\u043a\u0430\u043b\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u0995\u09cd\u0995\u09cb\u09b2\u09be"
+    ],
     "name:cat_x_preferred":[
         "Kokkola"
     ],
@@ -85,6 +88,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e7\u05d5\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0915\u094b\u0932\u093e"
     ],
     "name:hun_x_preferred":[
         "Kokkola"
@@ -182,6 +188,9 @@
     "name:vep_x_preferred":[
         "Kokkol"
     ],
+    "name:vie_x_preferred":[
+        "Kokkola"
+    ],
     "name:zho_x_preferred":[
         "\u79d1\u79d1\u62c9"
     ],
@@ -214,7 +223,7 @@
         }
     ],
     "wof:id":1343524637,
-    "wof:lastmodified":1566594295,
+    "wof:lastmodified":1636494399,
     "wof:name":"Kokkola",
     "wof:parent_id":907199501,
     "wof:placetype":"locality",

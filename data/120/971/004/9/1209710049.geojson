@@ -40,6 +40,9 @@
     "name:bel_x_preferred":[
         "\u041a\u043e\u043a\u0430\u043b\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u0995\u09cd\u0995\u09cb\u09b2\u09be"
+    ],
     "name:cat_x_preferred":[
         "Kokkola"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e7\u05d5\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0915\u094b\u0932\u093e"
     ],
     "name:hun_x_preferred":[
         "Kokkola"
@@ -172,6 +178,9 @@
     "name:vep_x_preferred":[
         "Kokkol"
     ],
+    "name:vie_x_preferred":[
+        "Kokkola"
+    ],
     "name:zho_x_preferred":[
         "\u79d1\u79d1\u62c9"
     ],
@@ -190,7 +199,7 @@
         "gn:id":651948
     },
     "wof:country":"FI",
-    "wof:geomhash":"f7c5239a14414035da445db52b78543d",
+    "wof:geomhash":"b41137bfb1d666c033e0bb90d58a8950",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,7 +213,7 @@
         }
     ],
     "wof:id":1209710049,
-    "wof:lastmodified":1566594768,
+    "wof:lastmodified":1636494408,
     "wof:name":"Kokkola",
     "wof:parent_id":907198805,
     "wof:placetype":"locality",
@@ -215,9 +224,9 @@
 },
   "bbox": [
     29.13236,
-    61.30846999999999,
+    61.30847,
     29.13236,
-    61.30846999999999
+    61.30847
 ],
-  "geometry": {"coordinates":[29.13236,61.30846999999999],"type":"Point"}
+  "geometry": {"coordinates":[29.13236,61.30847],"type":"Point"}
 }

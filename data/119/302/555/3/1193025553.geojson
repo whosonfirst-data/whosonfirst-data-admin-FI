@@ -46,6 +46,9 @@
     "name:hrv_x_preferred":[
         "Boe"
     ],
+    "name:hun_x_preferred":[
+        "Boe"
+    ],
     "name:ind_x_preferred":[
         "Boe"
     ],
@@ -82,7 +85,7 @@
         "gn:id":847615
     },
     "wof:country":"FI",
-    "wof:geomhash":"577d47deda881ca7ecc707fb52df2f9f",
+    "wof:geomhash":"7bb114db266ccfc7e08fae602929e5c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1193025553,
-    "wof:lastmodified":1566594858,
+    "wof:lastmodified":1636494408,
     "wof:name":"Boe",
     "wof:parent_id":907198525,
     "wof:placetype":"locality",
@@ -107,9 +110,9 @@
 },
   "bbox": [
     25.4858,
-    60.39013000000001,
+    60.39013,
     25.4858,
-    60.39013000000001
+    60.39013
 ],
-  "geometry": {"coordinates":[25.4858,60.39013000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.4858,60.39013],"type":"Point"}
 }

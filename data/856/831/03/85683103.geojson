@@ -105,6 +105,9 @@
     "name:hin_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u0947\u0930\u0932\u093f\u092f\u093e"
     ],
+    "name:hun_x_preferred":[
+        "D\u00e9l-Kar\u00e9lia"
+    ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u053f\u0561\u0580\u0565\u056c\u056b\u0561"
     ],
@@ -349,7 +352,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1617130350,
+    "wof:lastmodified":1636494400,
     "wof:name":"South Karelia",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

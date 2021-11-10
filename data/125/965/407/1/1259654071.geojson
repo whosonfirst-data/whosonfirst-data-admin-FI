@@ -185,6 +185,9 @@
         "Tunis"
     ],
     "name:hun_x_preferred":[
+        "Tunis"
+    ],
+    "name:hun_x_variant":[
         "Tunisz"
     ],
     "name:hye_x_preferred":[
@@ -442,7 +445,7 @@
         "gn:id":10102345
     },
     "wof:country":"FI",
-    "wof:geomhash":"3d0090ff7460b4088c42dbbb665d0182",
+    "wof:geomhash":"75e63410e3bfdafd68fd6e1952d39841",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -456,7 +459,7 @@
         }
     ],
     "wof:id":1259654071,
-    "wof:lastmodified":1566595716,
+    "wof:lastmodified":1636494417,
     "wof:name":"Tunis",
     "wof:parent_id":907199763,
     "wof:placetype":"locality",
@@ -467,9 +470,9 @@
 },
   "bbox": [
     22.26396,
-    63.12918000000001,
+    63.12918,
     22.26396,
-    63.12918000000001
+    63.12918
 ],
-  "geometry": {"coordinates":[22.26396,63.12918000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.26396,63.12918],"type":"Point"}
 }

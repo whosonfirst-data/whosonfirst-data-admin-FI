@@ -101,6 +101,9 @@
     "name:hbs_x_preferred":[
         "Satakunta"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05d8\u05d0\u05e7\u05d5\u05e0\u05d8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0924\u093e\u0915\u0941\u0902\u0924\u093e"
     ],
@@ -346,7 +349,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1617129927,
+    "wof:lastmodified":1636494405,
     "wof:name":"Satakunta",
     "wof:parent_id":404227405,
     "wof:placetype":"region",

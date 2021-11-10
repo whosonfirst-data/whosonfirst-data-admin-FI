@@ -100,8 +100,14 @@
     "name:hbs_x_preferred":[
         "Prava Tavastija"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d1\u05e1\u05d8\u05d9\u05d4 \u05e4\u05e8\u05d5\u05e4\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u0935\u093e\u0938\u094d\u091f\u093f\u092f\u093e \u092a\u094d\u0930\u0949\u092a\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Bels\u0151-Tavastia"
     ],
     "name:ind_x_preferred":[
         "Tavastia Proper"
@@ -339,7 +345,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1617131215,
+    "wof:lastmodified":1636494406,
     "wof:name":"Tavastia Proper",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

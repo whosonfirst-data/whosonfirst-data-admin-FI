@@ -64,6 +64,9 @@
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05e0\u05d3\u05df"
     ],
+    "name:hun_x_preferred":[
+        "Linden"
+    ],
     "name:ita_x_preferred":[
         "Linden"
     ],
@@ -124,7 +127,7 @@
         "gn:id":842315
     },
     "wof:country":"FI",
-    "wof:geomhash":"d3e102c4e053e2c4543a594117252bf2",
+    "wof:geomhash":"507a290d0f96111f77df747e1f77aa65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1242847637,
-    "wof:lastmodified":1566595670,
+    "wof:lastmodified":1636494417,
     "wof:name":"Linden",
     "wof:parent_id":907199033,
     "wof:placetype":"locality",
@@ -149,9 +152,9 @@
 },
   "bbox": [
     21.21667,
-    62.68333000000001,
+    62.68333,
     21.21667,
-    62.68333000000001
+    62.68333
 ],
-  "geometry": {"coordinates":[21.21667,62.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.21667,62.68333],"type":"Point"}
 }
