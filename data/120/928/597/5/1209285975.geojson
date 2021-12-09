@@ -36,7 +36,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633143
+        85683143,
+        102191581,
+        907199465,
+        85633143,
+        404227415,
+        136253047,
+        1159321591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +52,20 @@
     "wof:geomhash":"b6f75332fd5ebcaa7147d49974f11120",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633143,
-            "locality_id":1209285975
+            "county_id":1159321591,
+            "empire_id":136253047,
+            "localadmin_id":907199465,
+            "locality_id":1209285975,
+            "macroregion_id":404227415,
+            "region_id":85683143
         }
     ],
     "wof:id":1209285975,
-    "wof:lastmodified":1566594823,
+    "wof:lastmodified":1639087662,
     "wof:name":"Lehtola",
-    "wof:parent_id":85633143,
+    "wof:parent_id":907199465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],

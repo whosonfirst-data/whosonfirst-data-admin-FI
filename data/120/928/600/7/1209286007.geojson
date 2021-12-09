@@ -33,7 +33,13 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633143
+        85683143,
+        102191581,
+        907199699,
+        85633143,
+        404227415,
+        136253047,
+        1159321497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +49,20 @@
     "wof:geomhash":"cac04fa31e3b3206bf5ab341db00fba1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633143,
-            "locality_id":1209286007
+            "county_id":1159321497,
+            "empire_id":136253047,
+            "localadmin_id":907199699,
+            "locality_id":1209286007,
+            "macroregion_id":404227415,
+            "region_id":85683143
         }
     ],
     "wof:id":1209286007,
-    "wof:lastmodified":1566594824,
+    "wof:lastmodified":1639087695,
     "wof:name":"Yliranta",
-    "wof:parent_id":85633143,
+    "wof:parent_id":907199699,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],

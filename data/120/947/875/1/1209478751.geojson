@@ -39,7 +39,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633143
+        85683143,
+        102191581,
+        907199459,
+        85633143,
+        404227415,
+        136253047,
+        1159321529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +55,20 @@
     "wof:geomhash":"3822f5997888549635a86df5c9838fdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633143,
-            "locality_id":1209478751
+            "county_id":1159321529,
+            "empire_id":136253047,
+            "localadmin_id":907199459,
+            "locality_id":1209478751,
+            "macroregion_id":404227415,
+            "region_id":85683143
         }
     ],
     "wof:id":1209478751,
-    "wof:lastmodified":1566594767,
+    "wof:lastmodified":1639087683,
     "wof:name":"Tannila",
-    "wof:parent_id":85633143,
+    "wof:parent_id":907199459,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],

@@ -38,7 +38,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633143
+        85683137,
+        102191581,
+        907199319,
+        85633143,
+        404227415,
+        136253047,
+        1159321487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +54,20 @@
     "wof:geomhash":"862e678f21918be1f0e9088e2cb81993",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633143,
-            "locality_id":1209491115
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199319,
+            "locality_id":1209491115,
+            "macroregion_id":404227415,
+            "region_id":85683137
         }
     ],
     "wof:id":1209491115,
-    "wof:lastmodified":1566594770,
+    "wof:lastmodified":1639087164,
     "wof:name":"Paljakka",
-    "wof:parent_id":85633143,
+    "wof:parent_id":907199319,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
