@@ -45,7 +45,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633143
+        85683143,
+        102191581,
+        907199449,
+        85633143,
+        404227415,
+        136253047,
+        1159321631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +61,20 @@
     "wof:geomhash":"24fe37aa363f24326b42de5e5cfb9537",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633143,
-            "locality_id":1209587155
+            "county_id":1159321631,
+            "empire_id":136253047,
+            "localadmin_id":907199449,
+            "locality_id":1209587155,
+            "macroregion_id":404227415,
+            "region_id":85683143
         }
     ],
     "wof:id":1209587155,
-    "wof:lastmodified":1566594792,
+    "wof:lastmodified":1639087672,
     "wof:name":"Anttila",
-    "wof:parent_id":85633143,
+    "wof:parent_id":907199449,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],

@@ -137,7 +137,6 @@
         907199435,
         85633143,
         404227415,
-        101847065,
         136253047,
         1159321529
     ],
@@ -160,13 +159,13 @@
             "county_id":1159321529,
             "empire_id":136253047,
             "localadmin_id":907199435,
-            "locality_id":101847065,
+            "locality_id":1175611477,
             "macroregion_id":404227415,
             "region_id":85683143
         }
     ],
     "wof:id":1175611477,
-    "wof:lastmodified":1566595026,
+    "wof:lastmodified":1639087676,
     "wof:name":"Hailuoto",
     "wof:parent_id":907199435,
     "wof:placetype":"locality",

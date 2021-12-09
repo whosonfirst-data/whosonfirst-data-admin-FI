@@ -86,15 +86,15 @@
     "reversegeo:longitude":25.404369,
     "src:geom":"oulugov",
     "wof:belongsto":[
+        85683143,
         102191581,
         907199459,
         85633143,
         404227415,
-        101814415,
+        101748443,
         136253047,
         1159321529,
-        85683143,
-        101748443
+        101814415
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -107,7 +107,7 @@
             "county_id":1159321529,
             "empire_id":136253047,
             "localadmin_id":907199459,
-            "locality_id":101814415,
+            "locality_id":101748443,
             "macroregion_id":404227415,
             "neighbourhood_id":1108728839,
             "region_id":85683143
@@ -118,14 +118,14 @@
             "county_id":1159321529,
             "empire_id":136253047,
             "localadmin_id":907199459,
-            "locality_id":101748443,
+            "locality_id":101814415,
             "macroregion_id":404227415,
             "neighbourhood_id":1108728839,
             "region_id":85683143
         }
     ],
     "wof:id":1108728839,
-    "wof:lastmodified":1566594988,
+    "wof:lastmodified":1639087703,
     "wof:name":"Oulunsalo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

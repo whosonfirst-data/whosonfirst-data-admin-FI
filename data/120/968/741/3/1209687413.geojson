@@ -38,7 +38,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633143
+        85683143,
+        102191581,
+        907199617,
+        85633143,
+        404227415,
+        136253047,
+        1159321569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +54,20 @@
     "wof:geomhash":"4964c8a7a5caaa1ffd5cdd13a2bbcd3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633143,
-            "locality_id":1209687413
+            "county_id":1159321569,
+            "empire_id":136253047,
+            "localadmin_id":907199617,
+            "locality_id":1209687413,
+            "macroregion_id":404227415,
+            "region_id":85683143
         }
     ],
     "wof:id":1209687413,
-    "wof:lastmodified":1566594780,
+    "wof:lastmodified":1639087663,
     "wof:name":"Pahkamaa",
-    "wof:parent_id":85633143,
+    "wof:parent_id":907199617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],

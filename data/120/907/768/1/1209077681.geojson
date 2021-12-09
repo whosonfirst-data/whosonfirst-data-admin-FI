@@ -43,7 +43,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633143
+        85683143,
+        102191581,
+        907199755,
+        85633143,
+        404227415,
+        136253047,
+        1159321571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +59,20 @@
     "wof:geomhash":"4a375f822ff7d0965428d54c3d398a75",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633143,
-            "locality_id":1209077681
+            "county_id":1159321571,
+            "empire_id":136253047,
+            "localadmin_id":907199755,
+            "locality_id":1209077681,
+            "macroregion_id":404227415,
+            "region_id":85683143
         }
     ],
     "wof:id":1209077681,
-    "wof:lastmodified":1566594726,
+    "wof:lastmodified":1639087647,
     "wof:name":"Latva",
-    "wof:parent_id":85633143,
+    "wof:parent_id":907199755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
