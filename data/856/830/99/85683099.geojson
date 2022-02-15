@@ -78,12 +78,11 @@
         "\u067e\u06cc\u0631\u06a9\u0627\u0646\u0645\u0627"
     ],
     "name:fin_x_preferred":[
-        "Pirkanmaa",
-        "Pirkanmaan maakunta",
-        "Etel\u00e4-Karjala"
+        "Pirkanmaa"
     ],
     "name:fin_x_variant":[
-        "Pirkanmaan Maakunta"
+        "Pirkanmaan Maakunta",
+        "Pirkanmaan maakunta"
     ],
     "name:fra_x_preferred":[
         "Pirkanmaa"
@@ -347,7 +346,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1617129925,
+    "wof:lastmodified":1644883442,
     "wof:name":"Pirkanmaa",
     "wof:parent_id":404227417,
     "wof:placetype":"region",
