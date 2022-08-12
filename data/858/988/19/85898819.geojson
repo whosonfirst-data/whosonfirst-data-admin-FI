@@ -6,16 +6,16 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.607664,63.102012,21.607664,63.102012",
-    "geom:latitude":63.102012,
-    "geom:longitude":21.607664,
+    "geom:bbox":"21.615651,63.119342,21.615651,63.119342",
+    "geom:latitude":63.119342,
+    "geom:longitude":21.615651,
     "iso:country":"FI",
-    "lbl:bbox":"21.602664,63.097012,21.612664,63.107012",
-    "lbl:latitude":63.102012,
-    "lbl:longitude":21.607664,
+    "lbl:bbox":"21.615651,63.119342,21.615651,63.119342",
+    "lbl:latitude":63.119342,
+    "lbl:longitude":21.615651,
     "lbl:max_zoom":18.0,
-    "mps:latitude":63.102012,
-    "mps:longitude":21.607664,
+    "mps:latitude":63.119342,
+    "mps:longitude":21.615651,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -114,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.607664,
-    63.102012,
-    21.607664,
-    63.102012
+    21.615651,
+    63.119342,
+    21.615651,
+    63.119342
 ],
-  "geometry": {"coordinates":[21.607664,63.102012],"type":"Point"}
+  "geometry": {"coordinates":[21.615651,63.119342],"type":"Point"}
 }

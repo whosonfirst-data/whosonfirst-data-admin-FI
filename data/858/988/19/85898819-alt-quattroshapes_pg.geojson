@@ -9,10 +9,10 @@
     "wof:repo":"whosonfirst-data-admin-fi"
 },
   "bbox": [
-    21.61526,
-    63.11821,
-    21.61526,
-    63.11821
+    21.61565,
+    63.11934,
+    21.61565,
+    63.11934
 ],
-  "geometry": {"coordinates":[21.61526,63.11821],"type":"Point"}
+  "geometry": {"coordinates":[21.61565,63.11934],"type":"Point"}
 }
