@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_257",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kirkkonummi / Kyrksl\u00e4tt",
+    "eurostat:nuts_2021_id":"257",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1B",
+    "eurostat:nuts_2021_level_3":"FI1B1",
+    "eurostat:nuts_2021_level_lau":"257",
+    "eurostat:population":39586,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au229566",
@@ -11,7 +23,7 @@
     "figov:national_code":"257",
     "figov:swe_type":"Kommun",
     "geom:area":0.163643,
-    "geom:area_square_m":1011385149.318255,
+    "geom:area_square_m":1011385149.31814,
     "geom:bbox":"24.2720653814,59.7915698748,24.8314125209,60.2977067973",
     "geom:latitude":60.011268,
     "geom:longitude":24.495889,
@@ -136,6 +148,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -146,6 +160,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_257",
+        "eurostat:nuts_2021_id":"257",
         "gn:id":649630,
         "gp:id":12591002,
         "qs_pg:id":248709
@@ -154,7 +170,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0b9581533f1d64e01daaf61abe833c44",
+    "wof:geomhash":"73456a3919ada353658ad3450a70fdf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":907198511,
-    "wof:lastmodified":1582312058,
+    "wof:lastmodified":1684352512,
     "wof:name":"Kirkkonummi",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",
+    "wof:population":39586,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

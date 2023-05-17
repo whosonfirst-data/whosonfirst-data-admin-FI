@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_691",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reisj\u00e4rvi",
+    "eurostat:nuts_2021_id":"691",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D9",
+    "eurostat:nuts_2021_level_lau":"691",
+    "eurostat:population":2718,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au698701",
@@ -11,7 +23,7 @@
     "figov:national_code":"691",
     "figov:swe_type":"Kommun",
     "geom:area":0.091026,
-    "geom:area_square_m":500059524.17303,
+    "geom:area_square_m":500059524.173042,
     "geom:bbox":"24.5210329184,63.4580731617,25.3601829359,63.7655798887",
     "geom:latitude":63.622874,
     "geom:longitude":24.978436,
@@ -49,6 +61,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_691",
+        "eurostat:nuts_2021_id":"691",
         "gn:id":639578,
         "qs_pg:id":81346
     },
@@ -66,7 +82,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b4622a0edf2bd702a60c1e33bd723620",
+    "wof:geomhash":"a32fc724520f8d928630bfc567ce6c90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,10 +95,12 @@
         }
     ],
     "wof:id":907199141,
-    "wof:lastmodified":1582312140,
+    "wof:lastmodified":1684352546,
     "wof:name":"Reisjarvi",
     "wof:parent_id":1159321591,
     "wof:placetype":"localadmin",
+    "wof:population":2718,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

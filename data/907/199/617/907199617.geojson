@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kalajoki",
+    "eurostat:nuts_2021_id":"208",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D9",
+    "eurostat:nuts_2021_level_lau":"208",
+    "eurostat:population":12373,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au1009461",
@@ -11,7 +23,7 @@
     "figov:national_code":"208",
     "figov:swe_type":"Kommun",
     "geom:area":0.441743,
-    "geom:area_square_m":2374004386.346365,
+    "geom:area_square_m":2374004386.346466,
     "geom:bbox":"22.7788967491,63.9649794864,24.3460666016,64.4834607182",
     "geom:latitude":64.236997,
     "geom:longitude":23.613852,
@@ -121,6 +133,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_208",
+        "eurostat:nuts_2021_id":"208",
         "gn:id":654837,
         "gp:id":12590839,
         "qs_pg:id":953657
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"508e84fca2d4a367332d60afa44f6de3",
+    "wof:geomhash":"5db7d7e04d1fcf4daec75e1a825f1730",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":907199617,
-    "wof:lastmodified":1582312092,
+    "wof:lastmodified":1684352574,
     "wof:name":"Kalajoki",
     "wof:parent_id":1159321569,
     "wof:placetype":"localadmin",
+    "wof:population":12373,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_245",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kerava / Kervo",
+    "eurostat:nuts_2021_id":"245",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1B",
+    "eurostat:nuts_2021_level_3":"FI1B1",
+    "eurostat:nuts_2021_level_lau":"245",
+    "eurostat:population":36756,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au300829",
@@ -11,7 +23,7 @@
     "figov:national_code":"245",
     "figov:swe_type":"Kommun",
     "geom:area":0.005013,
-    "geom:area_square_m":30615662.541408,
+    "geom:area_square_m":30615662.541416,
     "geom:bbox":"25.0729006244,60.3590742471,25.1635893012,60.4429878069",
     "geom:latitude":60.399277,
     "geom:longitude":25.118714,
@@ -157,6 +169,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -167,6 +181,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_245",
+        "eurostat:nuts_2021_id":"245",
         "gn:id":653186,
         "gp:id":12591001,
         "qs_pg:id":1062313
@@ -175,7 +191,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86f4ebd0bcf9d4c432502095bb33197a",
+    "wof:geomhash":"dca7048be14590aaf2cf6c7a3d76a8a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":907198627,
-    "wof:lastmodified":1582312053,
+    "wof:lastmodified":1684352516,
     "wof:name":"Kerava",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",
+    "wof:population":36756,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_444",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lohja / Lojo",
+    "eurostat:nuts_2021_id":"444",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1B",
+    "eurostat:nuts_2021_level_3":"FI1B1",
+    "eurostat:nuts_2021_level_lau":"444",
+    "eurostat:population":45965,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au322405",
@@ -11,7 +23,7 @@
     "figov:national_code":"444",
     "figov:swe_type":"Kommun",
     "geom:area":0.180463,
-    "geom:area_square_m":1103543690.140441,
+    "geom:area_square_m":1103543690.140656,
     "geom:bbox":"23.5863109041,60.129492556,24.3056956351,60.6538463308",
     "geom:latitude":60.360513,
     "geom:longitude":23.943999,
@@ -174,6 +186,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_444",
+        "eurostat:nuts_2021_id":"444",
         "gn:id":647752,
         "gp:id":12591005,
         "qs_pg:id":1062305
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e26b995f0fc9654607994ad922846460",
+    "wof:geomhash":"25a049c0cb1a992746490a0044a0c3cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -205,10 +221,12 @@
         }
     ],
     "wof:id":907198655,
-    "wof:lastmodified":1582312068,
+    "wof:lastmodified":1684352517,
     "wof:name":"Lohja",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",
+    "wof:population":45965,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

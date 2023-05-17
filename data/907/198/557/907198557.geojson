@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00e4nts\u00e4l\u00e4",
+    "eurostat:nuts_2021_id":"505",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1B",
+    "eurostat:nuts_2021_level_3":"FI1B1",
+    "eurostat:nuts_2021_level_lau":"505",
+    "eurostat:population":20721,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au258425",
@@ -11,7 +23,7 @@
     "figov:national_code":"505",
     "figov:swe_type":"Kommun",
     "geom:area":0.097834,
-    "geom:area_square_m":592742242.75876,
+    "geom:area_square_m":592742242.758763,
     "geom:bbox":"25.0453432655,60.5016310838,25.5254231513,60.8408511915",
     "geom:latitude":60.661042,
     "geom:longitude":25.279125,
@@ -49,6 +61,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_505",
+        "eurostat:nuts_2021_id":"505",
         "gn:id":646709,
         "gp:id":12591008,
         "qs_pg:id":1026798
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"434565185fde3a3ec6e19792ef8b093f",
+    "wof:geomhash":"c51e73a24601abd6ea0df31b0b77a574",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +96,12 @@
         }
     ],
     "wof:id":907198557,
-    "wof:lastmodified":1582312048,
+    "wof:lastmodified":1684352513,
     "wof:name":"Mantsala",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",
+    "wof:population":20721,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

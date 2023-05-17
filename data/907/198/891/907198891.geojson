@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00e4\u00e4kkyl\u00e4",
+    "eurostat:nuts_2021_id":"707",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D3",
+    "eurostat:nuts_2021_level_lau":"707",
+    "eurostat:population":2126,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au493171",
@@ -11,7 +23,7 @@
     "figov:national_code":"707",
     "figov:swe_type":"Kommun",
     "geom:area":0.120986,
-    "geom:area_square_m":695502351.531347,
+    "geom:area_square_m":695502351.531282,
     "geom:bbox":"29.2959653346,62.146116799,30.0352044906,62.4074390525",
     "geom:latitude":62.296108,
     "geom:longitude":29.673645,
@@ -49,6 +61,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683133,
         102191581,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_707",
+        "eurostat:nuts_2021_id":"707",
         "gn:id":640272,
         "gp:id":12590897,
         "qs_pg:id":81350
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0e3d55c3efb3c5abe351e3040f891557",
+    "wof:geomhash":"5f18a207bff25de15c541014f9685295",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +96,12 @@
         }
     ],
     "wof:id":907198891,
-    "wof:lastmodified":1582312069,
+    "wof:lastmodified":1684352532,
     "wof:name":"Raakkyla",
     "wof:parent_id":1159321517,
     "wof:placetype":"localadmin",
+    "wof:population":2126,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_751",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Simo",
+    "eurostat:nuts_2021_id":"751",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D7",
+    "eurostat:nuts_2021_level_lau":"751",
+    "eurostat:population":2988,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au928417",
@@ -11,7 +23,7 @@
     "figov:national_code":"751",
     "figov:swe_type":"Kommun",
     "geom:area":0.408053,
-    "geom:area_square_m":2073041137.645688,
+    "geom:area_square_m":2073041137.64567,
     "geom:bbox":"24.1501612897,65.2924801707,25.9391908927,66.1162389307",
     "geom:latitude":65.742067,
     "geom:longitude":25.155659,
@@ -76,6 +88,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -86,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_751",
+        "eurostat:nuts_2021_id":"751",
         "gn:id":636804,
         "qs_pg:id":81324
     },
@@ -93,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8a1f05d22215f920bdb3914a31e37ba",
+    "wof:geomhash":"a0f71861ad76de98db1a16f4bc7180eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":907199485,
-    "wof:lastmodified":1582312091,
+    "wof:lastmodified":1684352567,
     "wof:name":"Simo",
     "wof:parent_id":1159321559,
     "wof:placetype":"localadmin",
+    "wof:population":2988,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

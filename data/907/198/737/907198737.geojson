@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_489",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miehikk\u00e4l\u00e4",
+    "eurostat:nuts_2021_id":"489",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C4",
+    "eurostat:nuts_2021_level_lau":"489",
+    "eurostat:population":1857,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au381494",
@@ -11,7 +23,7 @@
     "figov:national_code":"489",
     "figov:swe_type":"Kommun",
     "geom:area":0.07238,
-    "geom:area_square_m":437860451.116614,
+    "geom:area_square_m":437860451.116622,
     "geom:bbox":"27.4218373213,60.6010813845,27.9912828113,60.8426400374",
     "geom:latitude":60.709963,
     "geom:longitude":27.661706,
@@ -49,6 +61,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683081,
         102191581,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_489",
+        "eurostat:nuts_2021_id":"489",
         "gn:id":646080,
         "gp:id":12590766,
         "qs_pg:id":81405
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"522e3f79c5b6ec7c9e68a604bef7c52a",
+    "wof:geomhash":"763d0f14c312f18dd471c3b330fdf0cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +96,12 @@
         }
     ],
     "wof:id":907198737,
-    "wof:lastmodified":1582312046,
+    "wof:lastmodified":1684352521,
     "wof:name":"Miehikkala",
     "wof:parent_id":1159321573,
     "wof:placetype":"localadmin",
+    "wof:population":1857,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

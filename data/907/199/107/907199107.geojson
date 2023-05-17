@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_312",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kyyj\u00e4rvi",
+    "eurostat:nuts_2021_id":"312",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI193",
+    "eurostat:nuts_2021_level_lau":"312",
+    "eurostat:population":1313,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au675289",
@@ -49,6 +61,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683117,
         102191581,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_312",
+        "eurostat:nuts_2021_id":"312",
         "gn:id":649584,
         "gp:id":12590714,
         "qs_pg:id":81427
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c8faf129d467b7a747083e51db034d47",
+    "wof:geomhash":"cccb10aeeeafeac273717983437830ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +96,12 @@
         }
     ],
     "wof:id":907199107,
-    "wof:lastmodified":1582312117,
+    "wof:lastmodified":1684352545,
     "wof:name":"Kyyjarvi",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",
+    "wof:population":1313,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

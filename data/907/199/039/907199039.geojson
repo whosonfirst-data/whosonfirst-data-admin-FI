@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_231",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kaskinen / Kask\u00f6",
+    "eurostat:nuts_2021_id":"231",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI195",
+    "eurostat:nuts_2021_level_lau":"231",
+    "eurostat:population":1246,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au608916",
@@ -11,7 +23,7 @@
     "figov:national_code":"231",
     "figov:swe_type":"Kommun",
     "geom:area":0.030348,
-    "geom:area_square_m":174418994.735523,
+    "geom:area_square_m":174418994.735543,
     "geom:bbox":"20.6917192805,62.2478014006,21.2723123725,62.3969452402",
     "geom:latitude":62.303364,
     "geom:longitude":20.993878,
@@ -121,6 +133,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683119,
         102191581,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_231",
+        "eurostat:nuts_2021_id":"231",
         "gn:id":653760,
         "gp:id":12591042,
         "qs_pg:id":81473
@@ -139,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"36cdf2b7ea6d336d964c0f02fed4deb4",
+    "wof:geomhash":"b345831b9b15ac12c97492fed5200431",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":907199039,
-    "wof:lastmodified":1582312109,
+    "wof:lastmodified":1684352541,
     "wof:name":"Kaskinen",
     "wof:parent_id":1159321495,
     "wof:placetype":"localadmin",
+    "wof:population":1246,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

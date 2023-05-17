@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_924",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Veteli / Vetil",
+    "eurostat:nuts_2021_id":"924",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D5",
+    "eurostat:nuts_2021_level_lau":"924",
+    "eurostat:population":3114,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au798553",
@@ -11,7 +23,7 @@
     "figov:national_code":"924",
     "figov:swe_type":"Kommun",
     "geom:area":0.093502,
-    "geom:area_square_m":517696292.537083,
+    "geom:area_square_m":517696292.537076,
     "geom:bbox":"23.6574123995,63.2581449623,24.1978678066,63.5374273065",
     "geom:latitude":63.399268,
     "geom:longitude":23.908133,
@@ -100,6 +112,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683125,
         102191581,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_924",
+        "eurostat:nuts_2021_id":"924",
         "gn:id":631827,
         "qs_pg:id":81281
     },
@@ -117,7 +133,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1b100b3dc48f24ee1445599f6091595b",
+    "wof:geomhash":"d4d6a70e05cfa702479111116c59897b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":907199293,
-    "wof:lastmodified":1582312106,
+    "wof:lastmodified":1684352555,
     "wof:name":"Veteli",
     "wof:parent_id":1159321595,
     "wof:placetype":"localadmin",
+    "wof:population":3114,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

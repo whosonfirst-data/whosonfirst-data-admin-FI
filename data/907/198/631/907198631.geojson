@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_858",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tuusula / Tusby",
+    "eurostat:nuts_2021_id":"858",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1B",
+    "eurostat:nuts_2021_level_3":"FI1B1",
+    "eurostat:nuts_2021_level_lau":"858",
+    "eurostat:population":38599,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au304337",
@@ -11,7 +23,7 @@
     "figov:national_code":"858",
     "figov:swe_type":"Kommun",
     "geom:area":0.036766,
-    "geom:area_square_m":224194568.91398,
+    "geom:area_square_m":224194568.914038,
     "geom:bbox":"24.8661902737,60.3324491467,25.1535081244,60.5806395788",
     "geom:latitude":60.451974,
     "geom:longitude":25.002058,
@@ -151,6 +163,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -161,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_858",
+        "eurostat:nuts_2021_id":"858",
         "gn:id":633592,
         "gp:id":12591024,
         "qs_pg:id":349780
@@ -169,7 +185,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"50cc3dcef6443b943274acb7cbbacbb5",
+    "wof:geomhash":"2add425c88b4c7fce975ef9e85f3c21b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":907198631,
-    "wof:lastmodified":1582312071,
+    "wof:lastmodified":1684352516,
     "wof:name":"Tuusula",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",
+    "wof:population":38599,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

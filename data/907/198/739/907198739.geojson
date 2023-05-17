@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hartola",
+    "eurostat:nuts_2021_id":"081",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C3",
+    "eurostat:nuts_2021_level_lau":"081",
+    "eurostat:population":2697,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au383725",
@@ -11,7 +23,7 @@
     "figov:national_code":"81",
     "figov:swe_type":"Kommun",
     "geom:area":0.114114,
-    "geom:area_square_m":671447470.154106,
+    "geom:area_square_m":671447470.153816,
     "geom:bbox":"25.770850203,61.392893831,26.3480821695,61.8014078798",
     "geom:latitude":61.584984,
     "geom:longitude":26.04912,
@@ -52,6 +64,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683091,
         102191581,
@@ -62,6 +76,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_081",
+        "eurostat:nuts_2021_id":"081",
         "gn:id":658759,
         "gp:id":12590804,
         "qs_pg:id":369923
@@ -70,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"601a7b32dde8ae924dd9342731ee2783",
+    "wof:geomhash":"2974711766c5d4ab5e79c23c3538a75c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,10 +99,12 @@
         }
     ],
     "wof:id":907198739,
-    "wof:lastmodified":1582312045,
+    "wof:lastmodified":1684352521,
     "wof:name":"Hartola",
     "wof:parent_id":1159321483,
     "wof:placetype":"localadmin",
+    "wof:population":2697,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

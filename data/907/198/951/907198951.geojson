@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_169",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jokioinen / Jockis",
+    "eurostat:nuts_2021_id":"169",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C2",
+    "eurostat:nuts_2021_level_lau":"169",
+    "eurostat:population":5133,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au548052",
@@ -11,7 +23,7 @@
     "figov:national_code":"169",
     "figov:swe_type":"Kommun",
     "geom:area":0.030023,
-    "geom:area_square_m":180905084.487759,
+    "geom:area_square_m":180905084.487741,
     "geom:bbox":"23.2763346228,60.7397738011,23.5646684937,60.9476177989",
     "geom:latitude":60.837094,
     "geom:longitude":23.459915,
@@ -100,6 +112,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683077,
         102191581,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_169",
+        "eurostat:nuts_2021_id":"169",
         "gn:id":655693,
         "gp:id":12590657,
         "qs_pg:id":231148
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ebbad805f7947945ac228363744b3e5a",
+    "wof:geomhash":"ffeb102a0a10d5bac7d473905c03ffdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":907198951,
-    "wof:lastmodified":1582312062,
+    "wof:lastmodified":1684352535,
     "wof:name":"Jokioinen",
     "wof:parent_id":1159321511,
     "wof:placetype":"localadmin",
+    "wof:population":5133,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

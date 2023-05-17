@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_749",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siilinj\u00e4rvi",
+    "eurostat:nuts_2021_id":"749",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D2",
+    "eurostat:nuts_2021_level_lau":"749",
+    "eurostat:population":21423,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au857823",
@@ -11,7 +23,7 @@
     "figov:national_code":"749",
     "figov:swe_type":"Kommun",
     "geom:area":0.090159,
-    "geom:area_square_m":504707854.199711,
+    "geom:area_square_m":504707854.19974,
     "geom:bbox":"27.3378822335,62.9518722354,27.9491654667,63.2518373559",
     "geom:latitude":63.08161,
     "geom:longitude":27.656502,
@@ -49,6 +61,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683131,
         102191581,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_749",
+        "eurostat:nuts_2021_id":"749",
         "gn:id":636948,
         "gp:id":12590743,
         "qs_pg:id":1029982
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"961480b61e30e29d927ad3e91857cf13",
+    "wof:geomhash":"3b529d25460cdf1b242cc537ada60983",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +96,12 @@
         }
     ],
     "wof:id":907199425,
-    "wof:lastmodified":1582312092,
+    "wof:lastmodified":1684352563,
     "wof:name":"Siilinjarvi",
     "wof:parent_id":1159321597,
     "wof:placetype":"localadmin",
+    "wof:population":21423,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

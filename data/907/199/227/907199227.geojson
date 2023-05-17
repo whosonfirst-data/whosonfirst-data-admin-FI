@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_216",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kannonkoski",
+    "eurostat:nuts_2021_id":"216",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI193",
+    "eurostat:nuts_2021_level_lau":"216",
+    "eurostat:population":1339,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au750010",
@@ -11,7 +23,7 @@
     "figov:national_code":"216",
     "figov:swe_type":"Kommun",
     "geom:area":0.097253,
-    "geom:area_square_m":546533353.495152,
+    "geom:area_square_m":546533353.495407,
     "geom:bbox":"25.0435135925,62.8184639411,25.7074841326,63.0992692231",
     "geom:latitude":62.968735,
     "geom:longitude":25.340264,
@@ -106,6 +118,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683117,
         102191581,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_216",
+        "eurostat:nuts_2021_id":"216",
         "gn:id":654319,
         "gp:id":12590706,
         "qs_pg:id":244409
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea9bf58e631837098dec43cffb632250",
+    "wof:geomhash":"ed4561c3615b893a3913b1a44396d086",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":907199227,
-    "wof:lastmodified":1582312090,
+    "wof:lastmodified":1684352550,
     "wof:name":"Kannonkoski",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",
+    "wof:population":1339,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

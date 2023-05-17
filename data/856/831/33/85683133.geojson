@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Pohjois-Karjala",
+    "eurostat:name_local":"Pohjois-Karjala",
+    "eurostat:nuts_2021_id":"FI1D3",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D3",
+    "eurostat:population":160145,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":3.810856,
-    "geom:area_square_m":21452386561.763222,
+    "geom:area_square_m":21452387152.573654,
     "geom:bbox":"28.359723,61.722073,31.586704,63.882415",
     "geom:latitude":62.917735,
     "geom:longitude":29.939488,
@@ -314,6 +328,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"FI-13",
     "wd:wordcount":760,
     "wof:belongsto":[
@@ -325,6 +341,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28319,
+        "eurostat:nuts_2021_id":"FI1D3",
         "fips:code":"",
         "gn:id":830686,
         "gp:id":29389261,
@@ -333,7 +350,7 @@
         "wd:id":"Q5703"
     },
     "wof:country":"FI",
-    "wof:geomhash":"e5c91f1cfdf2d6d772042c24a3091cae",
+    "wof:geomhash":"de9348e2f78ddd796b546d49752ce51b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -352,10 +369,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1617130610,
+    "wof:lastmodified":1684351582,
     "wof:name":"North Karelen",
     "wof:parent_id":404227407,
     "wof:placetype":"region",
+    "wof:population":160145,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:subdivision":"FI-13",
     "wof:superseded_by":[],

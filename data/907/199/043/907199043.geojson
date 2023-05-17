@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_475",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maalahti / Malax",
+    "eurostat:nuts_2021_id":"475",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI195",
+    "eurostat:nuts_2021_level_lau":"475",
+    "eurostat:population":5475,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au610682",
@@ -11,7 +23,7 @@
     "figov:national_code":"475",
     "figov:swe_type":"Kommun",
     "geom:area":0.346273,
-    "geom:area_square_m":1943354313.894314,
+    "geom:area_square_m":1943354313.894229,
     "geom:bbox":"20.1658189049,62.7356640951,21.7851316576,63.2676447036",
     "geom:latitude":63.008992,
     "geom:longitude":20.916401,
@@ -52,6 +64,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683119,
         102191581,
@@ -62,6 +76,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_475",
+        "eurostat:nuts_2021_id":"475",
         "gn:id":646875,
         "gp:id":12591060,
         "qs_pg:id":241617
@@ -70,7 +86,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bffd96dd0c6ae8010c437f36d614c13d",
+    "wof:geomhash":"73844bcee78241834844d0ddba36ba37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,10 +99,12 @@
         }
     ],
     "wof:id":907199043,
-    "wof:lastmodified":1582312129,
+    "wof:lastmodified":1684352541,
     "wof:name":"Maalahti",
     "wof:parent_id":1159321501,
     "wof:placetype":"localadmin",
+    "wof:population":5475,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

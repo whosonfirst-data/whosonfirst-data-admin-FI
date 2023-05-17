@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Kymenlaakso",
+    "eurostat:name_local":"Kymenlaakso",
+    "eurostat:nuts_2021_id":"FI1C4",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C4",
+    "eurostat:population":167950,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":1.225083,
-    "geom:area_square_m":7411510504.485507,
+    "geom:area_square_m":7411511019.771256,
     "geom:bbox":"26.039819,60.171329,27.991283,61.292579",
     "geom:latitude":60.707661,
     "geom:longitude":26.945675,
@@ -292,6 +306,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"FI-09",
     "wd:wordcount":345,
     "wof:belongsto":[
@@ -303,6 +319,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28316,
+        "eurostat:nuts_2021_id":"FI1C4",
         "fips:code":"",
         "gn:id":830703,
         "gp:id":-29389251,
@@ -311,7 +328,7 @@
         "wd:id":"Q5698"
     },
     "wof:country":"FI",
-    "wof:geomhash":"15f58bbbf605fa4850be7496980eed3b",
+    "wof:geomhash":"e6f6e905c45feda0b2e60e321e799f35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -330,10 +347,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1636494405,
+    "wof:lastmodified":1684351574,
     "wof:name":"Kymenlaakso",
     "wof:parent_id":404227411,
     "wof:placetype":"region",
+    "wof:population":167950,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:subdivision":"FI-09",
     "wof:superseded_by":[],

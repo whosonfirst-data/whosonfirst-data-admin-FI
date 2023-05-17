@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_753",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sipoo / Sibbo",
+    "eurostat:nuts_2021_id":"753",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1B",
+    "eurostat:nuts_2021_level_3":"FI1B1",
+    "eurostat:nuts_2021_level_lau":"753",
+    "eurostat:population":21170,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au237168",
@@ -11,7 +23,7 @@
     "figov:national_code":"753",
     "figov:swe_type":"Kommun",
     "geom:area":0.113139,
-    "geom:area_square_m":694737199.999032,
+    "geom:area_square_m":694737199.999379,
     "geom:bbox":"25.102188639,59.9370983061,25.5269179793,60.5062338474",
     "geom:latitude":60.22465,
     "geom:longitude":25.286064,
@@ -113,6 +125,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -123,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_753",
+        "eurostat:nuts_2021_id":"753",
         "gn:id":637068,
         "gp:id":12591021,
         "qs_pg:id":1153736
@@ -131,7 +147,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed466feed235f5c463f792d5612b0ea1",
+    "wof:geomhash":"025756646fb8730c5f128e82581c32dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":907198521,
-    "wof:lastmodified":1582312056,
+    "wof:lastmodified":1684352512,
     "wof:name":"Sipoo",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",
+    "wof:population":21170,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

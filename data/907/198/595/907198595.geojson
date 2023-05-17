@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_927",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vihti / Vichtis",
+    "eurostat:nuts_2021_id":"927",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1B",
+    "eurostat:nuts_2021_level_3":"FI1B1",
+    "eurostat:nuts_2021_level_lau":"927",
+    "eurostat:population":29158,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au280184",
@@ -11,7 +23,7 @@
     "figov:national_code":"927",
     "figov:swe_type":"Kommun",
     "geom:area":0.092349,
-    "geom:area_square_m":563889227.60877,
+    "geom:area_square_m":563889227.608806,
     "geom:bbox":"24.1254914142,60.2461982126,24.6495309473,60.5858011888",
     "geom:latitude":60.408445,
     "geom:longitude":24.396762,
@@ -115,6 +127,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_927",
+        "eurostat:nuts_2021_id":"927",
         "gn:id":631707,
         "gp:id":12591026,
         "qs_pg:id":248707
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c7367f87bd11e83ef48666006150961c",
+    "wof:geomhash":"855c15a85d2db74b2d99ac66266b4972",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":907198595,
-    "wof:lastmodified":1582312046,
+    "wof:lastmodified":1684352515,
     "wof:name":"Vihti",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",
+    "wof:population":29158,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

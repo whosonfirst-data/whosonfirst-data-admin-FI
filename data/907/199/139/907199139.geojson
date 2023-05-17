@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_256",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kinnula",
+    "eurostat:nuts_2021_id":"256",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI193",
+    "eurostat:nuts_2021_level_lau":"256",
+    "eurostat:population":1620,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au696305",
@@ -11,7 +23,7 @@
     "figov:national_code":"256",
     "figov:swe_type":"Kommun",
     "geom:area":0.088777,
-    "geom:area_square_m":492666588.369547,
+    "geom:area_square_m":492666588.369568,
     "geom:bbox":"24.7729209672,63.2315597624,25.333469424,63.4671681862",
     "geom:latitude":63.333475,
     "geom:longitude":25.029321,
@@ -103,6 +115,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683117,
         102191581,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_256",
+        "eurostat:nuts_2021_id":"256",
         "gn:id":652746,
         "qs_pg:id":276110
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"42f3a7d1c21e1076759de8f10e65f62c",
+    "wof:geomhash":"4ccd8d8425083d58a96b4f35a1cd5e86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":907199139,
-    "wof:lastmodified":1582312121,
+    "wof:lastmodified":1684352546,
     "wof:name":"Kinnula",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",
+    "wof:population":1620,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"P\u00e4ij\u00e4t-H\u00e4me",
+    "eurostat:name_local":"P\u00e4ij\u00e4t-H\u00e4me",
+    "eurostat:nuts_2021_id":"FI1C3",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C3",
+    "eurostat:population":198565,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":1.044925,
-    "geom:area_square_m":6222314614.365758,
+    "geom:area_square_m":6222314689.105289,
     "geom:bbox":"24.85549,60.671476,26.513663,61.801408",
     "geom:latitude":61.21118,
     "geom:longitude":25.70311,
@@ -234,6 +248,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wd:wordcount":322,
     "wof:belongsto":[
         102191581,
@@ -244,11 +260,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28317,
+        "eurostat:nuts_2021_id":"FI1C3",
         "gp:id":29389255,
         "wd:id":"Q5708"
     },
     "wof:country":"FI",
-    "wof:geomhash":"eb52dcb9c050fb2a58ed8acd8ee2d568",
+    "wof:geomhash":"27b4a66643297af8dbb7e9b58bcbd7b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -267,10 +284,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1617129925,
+    "wof:lastmodified":1684351575,
     "wof:name":"Paijanne Tavastia",
     "wof:parent_id":404227411,
     "wof:placetype":"region",
+    "wof:population":198565,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[

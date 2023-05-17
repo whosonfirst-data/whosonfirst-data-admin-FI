@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aura",
+    "eurostat:nuts_2021_id":"019",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C1",
+    "eurostat:nuts_2021_level_lau":"019",
+    "eurostat:population":3941,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au629557",
@@ -11,7 +23,7 @@
     "figov:national_code":"19",
     "figov:swe_type":"Kommun",
     "geom:area":0.015675,
-    "geom:area_square_m":95038475.78435,
+    "geom:area_square_m":95038475.78436,
     "geom:bbox":"22.4150036643,60.5658761434,22.687587563,60.7372929019",
     "geom:latitude":60.636566,
     "geom:longitude":22.545693,
@@ -159,7 +171,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683073,
         102191581,
@@ -170,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_019",
+        "eurostat:nuts_2021_id":"019",
         "gn:id":660873,
         "gp:id":12590905,
         "qs_pg:id":201267
@@ -182,7 +197,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"856b4fbbb5fc2484c62470df67be218d",
+    "wof:geomhash":"dbb2eae1b3cc96d3e746d9db7660af35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,11 +210,11 @@
         }
     ],
     "wof:id":907199059,
-    "wof:lastmodified":1582312134,
+    "wof:lastmodified":1684352542,
     "wof:name":"Aura",
     "wof:parent_id":1159321505,
     "wof:placetype":"localadmin",
-    "wof:population":3911,
+    "wof:population":3941,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],

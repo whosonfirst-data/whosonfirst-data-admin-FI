@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_755",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siuntio / Sjunde\u00e5",
+    "eurostat:nuts_2021_id":"755",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1B",
+    "eurostat:nuts_2021_level_3":"FI1B1",
+    "eurostat:nuts_2021_level_lau":"755",
+    "eurostat:population":6145,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au355966",
@@ -11,7 +23,7 @@
     "figov:national_code":"755",
     "figov:swe_type":"Kommun",
     "geom:area":0.043024,
-    "geom:area_square_m":264639599.615468,
+    "geom:area_square_m":264639599.615461,
     "geom:bbox":"24.0082628767,60.0224955653,24.3617682425,60.2946454689",
     "geom:latitude":60.169033,
     "geom:longitude":24.220675,
@@ -118,6 +130,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_755",
+        "eurostat:nuts_2021_id":"755",
         "gn:id":636608,
         "gp:id":12591022,
         "qs_pg:id":926550
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5fd8ee02d5ce1bdcc85171870b60035b",
+    "wof:geomhash":"289cbac3c082f0fe73ccb493ac74b1da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":907198709,
-    "wof:lastmodified":1582312048,
+    "wof:lastmodified":1684352519,
     "wof:name":"Siuntio",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",
+    "wof:population":6145,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

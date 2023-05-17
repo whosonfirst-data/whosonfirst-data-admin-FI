@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_694",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riihim\u00e4ki",
+    "eurostat:nuts_2021_id":"694",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C2",
+    "eurostat:nuts_2021_level_lau":"694",
+    "eurostat:population":28793,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au990317",
@@ -11,7 +23,7 @@
     "figov:national_code":"694",
     "figov:swe_type":"Kommun",
     "geom:area":0.020639,
-    "geom:area_square_m":124849957.458813,
+    "geom:area_square_m":124849957.458827,
     "geom:bbox":"24.6056158009,60.6474964234,24.8447329932,60.8003114164",
     "geom:latitude":60.711642,
     "geom:longitude":24.740064,
@@ -91,6 +103,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683077,
         102191581,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_694",
+        "eurostat:nuts_2021_id":"694",
         "gn:id":639406,
         "gp:id":12590683,
         "qs_pg:id":904896
@@ -109,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"637fec2cd65b26ac7fe4526dc05319bc",
+    "wof:geomhash":"1b242651774e79819fe76e773616788b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":907199603,
-    "wof:lastmodified":1582312106,
+    "wof:lastmodified":1684352573,
     "wof:name":"Riihimaki",
     "wof:parent_id":1159321541,
     "wof:placetype":"localadmin",
+    "wof:population":28793,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

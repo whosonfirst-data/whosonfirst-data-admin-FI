@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_698",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rovaniemi",
+    "eurostat:nuts_2021_id":"698",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D7",
+    "eurostat:nuts_2021_level_lau":"698",
+    "eurostat:population":63042,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au988685",
@@ -11,7 +23,7 @@
     "figov:national_code":"698",
     "figov:swe_type":"Kommun",
     "geom:area":1.623941,
-    "geom:area_square_m":7962498510.973519,
+    "geom:area_square_m":7962498743.460408,
     "geom:bbox":"24.736849,66.155399,27.32665,67.179768",
     "geom:latitude":66.638155,
     "geom:longitude":25.840236,
@@ -250,6 +262,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -260,6 +274,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_698",
+        "eurostat:nuts_2021_id":"698",
         "gn:id":638937,
         "gp:id":12590793,
         "qs_pg:id":1026788
@@ -268,7 +284,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"003f6b4376f812da966f4a9c043ee4fe",
+    "wof:geomhash":"0b27fb4e5c1dea54e4876e5dc514344d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -281,10 +297,12 @@
         }
     ],
     "wof:id":907199591,
-    "wof:lastmodified":1642551801,
+    "wof:lastmodified":1684352573,
     "wof:name":"Rovaniemi",
     "wof:parent_id":1159321523,
     "wof:placetype":"localadmin",
+    "wof:population":63042,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

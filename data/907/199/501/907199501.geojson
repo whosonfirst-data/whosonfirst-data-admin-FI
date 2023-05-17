@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_777",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Suomussalmi",
+    "eurostat:nuts_2021_id":"777",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D8",
+    "eurostat:nuts_2021_level_lau":"777",
+    "eurostat:population":7727,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au945517",
@@ -11,7 +23,7 @@
     "figov:national_code":"777",
     "figov:swe_type":"Kommun",
     "geom:area":1.11557,
-    "geom:area_square_m":5819732839.186263,
+    "geom:area_square_m":5819732839.186234,
     "geom:bbox":"27.9955822464,64.5662912438,30.1358378793,65.520851551",
     "geom:latitude":65.045497,
     "geom:longitude":29.122098,
@@ -136,6 +148,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683137,
         102191581,
@@ -146,6 +160,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_777",
+        "eurostat:nuts_2021_id":"777",
         "gn:id":635697,
         "qs_pg:id":274920
     },
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"834e6d358afc339f5777ecf52e775708",
+    "wof:geomhash":"72a628b4929e2a68ad8af531dd1e1f1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +182,12 @@
         }
     ],
     "wof:id":907199501,
-    "wof:lastmodified":1582312115,
+    "wof:lastmodified":1684352568,
     "wof:name":"Suomussalmi",
     "wof:parent_id":1159321549,
     "wof:placetype":"localadmin",
+    "wof:population":7727,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

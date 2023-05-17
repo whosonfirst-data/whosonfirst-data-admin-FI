@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Etel\u00e4-Karjala",
+    "eurostat:name_local":"Etel\u00e4-Karjala",
+    "eurostat:nuts_2021_id":"FI1C5",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C5",
+    "eurostat:population":126107,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":1.147048,
-    "geom:area_square_m":6832573133.355391,
+    "geom:area_square_m":6832573160.503673,
     "geom:bbox":"27.121069,60.666658,30.143956,61.864316",
     "geom:latitude":61.201423,
     "geom:longitude":28.378393,
@@ -314,6 +328,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"FI-02",
     "wd:wordcount":1296,
     "wof:belongsto":[
@@ -325,6 +341,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28313,
+        "eurostat:nuts_2021_id":"FI1C5",
         "fips:code":"",
         "gn:id":830699,
         "gp:id":29389253,
@@ -333,7 +350,7 @@
         "wd:id":"Q5691"
     },
     "wof:country":"FI",
-    "wof:geomhash":"d52ffeacf0c9a99eec200d31565b87c0",
+    "wof:geomhash":"635948abf699552a08f26eecb389f335",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -352,10 +369,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1636494400,
+    "wof:lastmodified":1684351577,
     "wof:name":"South Karelia",
     "wof:parent_id":404227411,
     "wof:placetype":"region",
+    "wof:population":126107,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:subdivision":"FI-02",
     "wof:superseded_by":[],

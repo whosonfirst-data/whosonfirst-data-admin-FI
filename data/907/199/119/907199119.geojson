@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_230",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Karvia",
+    "eurostat:nuts_2021_id":"230",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI196",
+    "eurostat:nuts_2021_level_lau":"230",
+    "eurostat:population":2342,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au684790",
@@ -11,7 +23,7 @@
     "figov:national_code":"230",
     "figov:swe_type":"Kommun",
     "geom:area":0.089472,
-    "geom:area_square_m":516806871.685937,
+    "geom:area_square_m":516806871.685919,
     "geom:bbox":"22.3736883891,61.9981058567,22.8616264353,62.3111035193",
     "geom:latitude":62.151589,
     "geom:longitude":22.615892,
@@ -114,7 +126,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683095,
         102191581,
@@ -125,6 +138,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_230",
+        "eurostat:nuts_2021_id":"230",
         "gn:id":653812,
         "gp:id":12590919,
         "qs_pg:id":201268
@@ -137,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9cdc10a1456ad0decbfdc160496aba33",
+    "wof:geomhash":"3059fdb5dc8bd078b348fdf2434cd220",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,11 +165,11 @@
         }
     ],
     "wof:id":907199119,
-    "wof:lastmodified":1582312113,
+    "wof:lastmodified":1684352546,
     "wof:name":"Karvia",
     "wof:parent_id":1159321519,
     "wof:placetype":"localadmin",
-    "wof:population":2643,
+    "wof:population":2342,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],

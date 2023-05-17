@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kaarina / S:t Karins",
+    "eurostat:nuts_2021_id":"202",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C1",
+    "eurostat:nuts_2021_level_lau":"202",
+    "eurostat:population":33937,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au568827",
@@ -11,7 +23,7 @@
     "figov:national_code":"202",
     "figov:swe_type":"Kommun",
     "geom:area":0.029249,
-    "geom:area_square_m":178576452.540652,
+    "geom:area_square_m":178576452.54067,
     "geom:bbox":"22.2742159498,60.3450950055,22.6094302421,60.4980483605",
     "geom:latitude":60.412283,
     "geom:longitude":22.465437,
@@ -145,6 +157,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683073,
         102191581,
@@ -155,6 +169,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_202",
+        "eurostat:nuts_2021_id":"202",
         "gn:id":655131,
         "qs_pg:id":349843
     },
@@ -162,7 +178,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cbc3daf07d535b4c3121c8df6e09c86e",
+    "wof:geomhash":"e7874554340041404cf2638b72b0f266",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +191,12 @@
         }
     ],
     "wof:id":907198993,
-    "wof:lastmodified":1582312060,
+    "wof:lastmodified":1684352537,
     "wof:name":"Kaarina",
     "wof:parent_id":1159321603,
     "wof:placetype":"localadmin",
+    "wof:population":33937,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

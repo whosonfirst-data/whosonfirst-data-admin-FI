@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_214",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kankaanp\u00e4\u00e4",
+    "eurostat:nuts_2021_id":"214",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI196",
+    "eurostat:nuts_2021_level_lau":"214",
+    "eurostat:population":11286,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au807242",
@@ -11,7 +23,7 @@
     "figov:national_code":"214",
     "figov:swe_type":"Kommun",
     "geom:area":0.120054,
-    "geom:area_square_m":700592219.481233,
+    "geom:area_square_m":700592219.481224,
     "geom:bbox":"22.0348243032,61.6860667421,22.6951533965,62.0117221176",
     "geom:latitude":61.839604,
     "geom:longitude":22.392721,
@@ -49,6 +61,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683095,
         102191581,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_214",
+        "eurostat:nuts_2021_id":"214",
         "gn:id":654377,
         "gp:id":12590917,
         "qs_pg:id":81486
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd83e125a67127ff5d941d9fdf1c895d",
+    "wof:geomhash":"f00c0d4d75c2a3077b27c5aee14e1e10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +96,12 @@
         }
     ],
     "wof:id":907199299,
-    "wof:lastmodified":1582312138,
+    "wof:lastmodified":1684352556,
     "wof:name":"Kankaanpaa",
     "wof:parent_id":1159321519,
     "wof:placetype":"localadmin",
+    "wof:population":11286,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

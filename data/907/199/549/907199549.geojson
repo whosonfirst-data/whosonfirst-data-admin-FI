@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_976",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ylitornio / \u00d6vertorne\u00e5",
+    "eurostat:nuts_2021_id":"976",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D7",
+    "eurostat:nuts_2021_level_lau":"976",
+    "eurostat:population":3918,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au975927",
@@ -11,7 +23,7 @@
     "figov:national_code":"976",
     "figov:swe_type":"Kommun",
     "geom:area":0.444813,
-    "geom:area_square_m":2197610312.446908,
+    "geom:area_square_m":2197610312.446851,
     "geom:bbox":"23.6428776762,66.1652753992,25.0504107406,66.7656401664",
     "geom:latitude":66.449863,
     "geom:longitude":24.387168,
@@ -118,6 +130,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_976",
+        "eurostat:nuts_2021_id":"976",
         "gn:id":630780,
         "qs_pg:id":550539
     },
@@ -135,7 +151,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eff169eac92c0ffe4fc83fa8b8fc5038",
+    "wof:geomhash":"95f4d3e08db5dfb13e528c1230d8f89e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +164,12 @@
         }
     ],
     "wof:id":907199549,
-    "wof:lastmodified":1582312138,
+    "wof:lastmodified":1684352570,
     "wof:name":"Ylitornio",
     "wof:parent_id":1159321537,
     "wof:placetype":"localadmin",
+    "wof:population":3918,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

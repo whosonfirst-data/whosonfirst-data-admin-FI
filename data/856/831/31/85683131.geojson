@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Pohjois-Savo",
+    "eurostat:name_local":"Pohjois-Savo",
+    "eurostat:nuts_2021_id":"FI1D2",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D2",
+    "eurostat:population":243739,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":3.625179,
-    "geom:area_square_m":20241537917.806488,
+    "geom:area_square_m":20241538096.273289,
     "geom:bbox":"26.039838,62.141008,29.097602,64.036974",
     "geom:latitude":63.155519,
     "geom:longitude":27.480417,
@@ -310,6 +324,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"FI-15",
     "wd:wordcount":296,
     "wof:belongsto":[
@@ -321,6 +337,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28320,
+        "eurostat:nuts_2021_id":"FI1D2",
         "fips:code":"",
         "gn:id":830690,
         "gp:id":29389262,
@@ -329,7 +346,7 @@
         "wd:id":"Q5706"
     },
     "wof:country":"FI",
-    "wof:geomhash":"3a372038a03a5017815084c5f691feaf",
+    "wof:geomhash":"965de59a6cbb892f2d4a7f858efa639a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -348,10 +365,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1617130931,
+    "wof:lastmodified":1684351581,
     "wof:name":"Northern Savonia",
     "wof:parent_id":404227407,
     "wof:placetype":"region",
+    "wof:population":243739,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:subdivision":"FI-15",
     "wof:superseded_by":[],

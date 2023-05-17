@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"\u00c5land",
+    "eurostat:name_local":"\u00c5land",
+    "eurostat:nuts_2021_id":"FI200",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI2",
+    "eurostat:nuts_2021_level_2":"FI20",
+    "eurostat:nuts_2021_level_3":"FI200",
+    "eurostat:population":30344,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":2.152243,
-    "geom:area_square_m":13241687966.419407,
+    "geom:area_square_m":13241685474.584362,
     "geom:bbox":"19.084003,59.454159,21.3454,60.876682",
     "geom:latitude":60.16043,
     "geom:longitude":20.270132,
@@ -755,7 +769,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"358",
     "statoids:ds":"FIN",
     "statoids:fifa":"ALD",
@@ -778,6 +793,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:country_code":248,
+        "eurostat:nuts_2021_id":"FI200",
         "fifa:id":"ALD",
         "gaul:id":"1242",
         "gn:id":661882,
@@ -793,7 +809,7 @@
         "wof:parent_id"
     ],
     "wof:country":"FI",
-    "wof:geomhash":"ced700e3fb8913ca9fd71cfdf028f4a4",
+    "wof:geomhash":"e087d86fd86e7ca424537400e71725cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -805,14 +821,14 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1617827339,
+    "wof:lastmodified":1684351586,
     "wof:name":"Aland",
     "wof:parent_id":136253047,
     "wof:placetype":"dependency",
     "wof:placetype_alt":[
         "region"
     ],
-    "wof:population":26711,
+    "wof:population":30344,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:shortcode":"AX",

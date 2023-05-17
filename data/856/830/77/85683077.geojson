@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Kanta-H\u00e4me",
+    "eurostat:name_local":"Kanta-H\u00e4me",
+    "eurostat:nuts_2021_id":"FI1C2",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C2",
+    "eurostat:population":170213,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.944366,
-    "geom:area_square_m":5675674178.833641,
+    "geom:area_square_m":5675674417.712877,
     "geom:bbox":"23.135638,60.552491,25.269663,61.324881",
     "geom:latitude":60.918933,
     "geom:longitude":24.325426,
@@ -307,6 +321,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"FI-06",
     "wd:wordcount":352,
     "wof:belongsto":[
@@ -318,6 +334,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28314,
+        "eurostat:nuts_2021_id":"FI1C2",
         "fips:code":"",
         "gn:id":830705,
         "gp:id":29389249,
@@ -326,7 +343,7 @@
         "wd:id":"Q5695"
     },
     "wof:country":"FI",
-    "wof:geomhash":"91ee22c6b6acfb2204757952262938b7",
+    "wof:geomhash":"64a2eaecfcc6bfe925892bc14d836e3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -345,10 +362,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1636494406,
+    "wof:lastmodified":1684351573,
     "wof:name":"Tavastia Proper",
     "wof:parent_id":404227411,
     "wof:placetype":"region",
+    "wof:population":170213,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:subdivision":"FI-06",
     "wof:superseded_by":[],

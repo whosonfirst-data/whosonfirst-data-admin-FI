@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_834",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tammela",
+    "eurostat:nuts_2021_id":"834",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C2",
+    "eurostat:nuts_2021_level_lau":"834",
+    "eurostat:population":6015,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au273730",
@@ -11,7 +23,7 @@
     "figov:national_code":"834",
     "figov:swe_type":"Kommun",
     "geom:area":0.117825,
-    "geom:area_square_m":711091649.557986,
+    "geom:area_square_m":711091649.558041,
     "geom:bbox":"23.4983066944,60.6376627449,24.0632433773,60.9739891896",
     "geom:latitude":60.785844,
     "geom:longitude":23.832405,
@@ -55,6 +67,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683077,
         102191581,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_834",
+        "eurostat:nuts_2021_id":"834",
         "gn:id":634996,
         "qs_pg:id":81312
     },
@@ -72,7 +88,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c90ef975dbe1abb6d6558579332b1c0d",
+    "wof:geomhash":"2b48d39351604e58da65ce63214849b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,10 +101,12 @@
         }
     ],
     "wof:id":907198581,
-    "wof:lastmodified":1582312057,
+    "wof:lastmodified":1684352514,
     "wof:name":"Tammela",
     "wof:parent_id":1159321511,
     "wof:placetype":"localadmin",
+    "wof:population":6015,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
