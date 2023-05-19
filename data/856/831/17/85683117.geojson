@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Keski-Suomi",
+    "eurostat:name_local":"Keski-Suomi",
+    "eurostat:nuts_2021_id":"FI193",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI193",
+    "eurostat:population":274841,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":3.474787,
-    "geom:area_square_m":19826085205.142292,
+    "geom:area_square_m":19826084542.883179,
     "geom:bbox":"24.013003,61.450703,26.780303,63.612293",
     "geom:latitude":62.519232,
     "geom:longitude":25.423735,
@@ -301,6 +315,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wd:wordcount":264,
     "wof:belongsto":[
         102191581,
@@ -311,6 +327,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28324,
+        "eurostat:nuts_2021_id":"FI193",
         "fips:code":"",
         "gn:id":830685,
         "gp:id":29389258,
@@ -318,7 +335,7 @@
         "wd:id":"Q5697"
     },
     "wof:country":"FI",
-    "wof:geomhash":"ecabd6f932046cc5baf6c6ae9d88b451",
+    "wof:geomhash":"20da2a15211323b5e8b34ed0bd5545c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -337,10 +354,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1636494401,
+    "wof:lastmodified":1684351580,
     "wof:name":"Central Finland",
     "wof:parent_id":404227417,
     "wof:placetype":"region",
+    "wof:population":274841,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

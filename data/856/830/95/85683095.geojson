@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Satakunta",
+    "eurostat:name_local":"Satakunta",
+    "eurostat:nuts_2021_id":"FI196",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI196",
+    "eurostat:population":214281,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":1.938226,
-    "geom:area_square_m":11426657689.97591,
+    "geom:area_square_m":11426655815.930998,
     "geom:bbox":"20.773139,60.872006,23.006234,62.311104",
     "geom:latitude":61.524564,
     "geom:longitude":21.875194,
@@ -311,6 +325,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"FI-17",
     "wd:wordcount":1273,
     "wof:belongsto":[
@@ -322,6 +338,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28328,
+        "eurostat:nuts_2021_id":"FI196",
         "fips:code":"",
         "gn:id":831041,
         "gp:id":29389252,
@@ -330,7 +347,7 @@
         "wd:id":"Q5709"
     },
     "wof:country":"FI",
-    "wof:geomhash":"03cc6d9197f7496293c03b1a7a0c3793",
+    "wof:geomhash":"6c868446dfaaeb5352c61be6ccefab5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -349,10 +366,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1636494405,
+    "wof:lastmodified":1684351576,
     "wof:name":"Satakunta",
     "wof:parent_id":404227405,
     "wof:placetype":"region",
+    "wof:population":214281,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:subdivision":"FI-17",
     "wof:superseded_by":[],

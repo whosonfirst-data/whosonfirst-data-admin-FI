@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Enonteki\u00f6 / Enontekis",
+    "eurostat:nuts_2021_id":"047",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D7",
+    "eurostat:nuts_2021_level_lau":"047",
+    "eurostat:population":1838,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au989324",
@@ -11,7 +23,7 @@
     "figov:national_code":"47",
     "figov:swe_type":"Kommun",
     "geom:area":1.850884,
-    "geom:area_square_m":8331499703.436643,
+    "geom:area_square_m":8331499703.436548,
     "geom:bbox":"20.548636402,68.1159647234,25.0271957215,69.3118841445",
     "geom:latitude":68.651503,
     "geom:longitude":22.870984,
@@ -58,6 +70,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -68,6 +82,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_047",
+        "eurostat:nuts_2021_id":"047",
         "gn:id":660230,
         "gp:id":12590780,
         "qs_pg:id":81526
@@ -76,7 +92,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"857c69114c452a8e40a767336e06f0b4",
+    "wof:geomhash":"0b4432893f4ecda2f0fe48ccb23da785",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":907199599,
-    "wof:lastmodified":1582312117,
+    "wof:lastmodified":1684352573,
     "wof:name":"Enontekio",
     "wof:parent_id":1159321583,
     "wof:placetype":"localadmin",
+    "wof:population":1838,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

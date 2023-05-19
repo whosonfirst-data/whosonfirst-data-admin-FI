@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ikaalinen / Ikalis",
+    "eurostat:nuts_2021_id":"143",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI197",
+    "eurostat:nuts_2021_level_lau":"143",
+    "eurostat:population":6942,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au805344",
@@ -11,7 +23,7 @@
     "figov:national_code":"143",
     "figov:swe_type":"Kommun",
     "geom:area":0.14361,
-    "geom:area_square_m":838447247.720706,
+    "geom:area_square_m":838447247.720701,
     "geom:bbox":"22.6794408155,61.6751393066,23.5938752915,61.9844605021",
     "geom:latitude":61.825278,
     "geom:longitude":23.083091,
@@ -130,6 +142,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683099,
         102191581,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_143",
+        "eurostat:nuts_2021_id":"143",
         "gn:id":656790,
         "gp:id":12590655,
         "qs_pg:id":1030110
@@ -148,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cd147467d5d24b675aa121082ca3760e",
+    "wof:geomhash":"03b82785151345b25350137851c2075b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":907199297,
-    "wof:lastmodified":1582312137,
+    "wof:lastmodified":1684352555,
     "wof:name":"Ikaalinen",
     "wof:parent_id":1159321533,
     "wof:placetype":"localadmin",
+    "wof:population":6942,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

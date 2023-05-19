@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_317",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"K\u00e4rs\u00e4m\u00e4ki",
+    "eurostat:nuts_2021_id":"317",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D9",
+    "eurostat:nuts_2021_level_lau":"317",
+    "eurostat:population":2576,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au889030",
@@ -11,7 +23,7 @@
     "figov:national_code":"317",
     "figov:swe_type":"Kommun",
     "geom:area":0.128311,
-    "geom:area_square_m":696508329.073615,
+    "geom:area_square_m":696508329.073609,
     "geom:bbox":"25.525033984,63.7868750399,26.251386636,64.1106440026",
     "geom:latitude":63.960118,
     "geom:longitude":25.859749,
@@ -49,6 +61,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_317",
+        "eurostat:nuts_2021_id":"317",
         "gn:id":653883,
         "gp:id":12590840,
         "qs_pg:id":81477
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6387bc70948fddd0e8c65443fb5fadaf",
+    "wof:geomhash":"08e44370be2c3a0e27ef934c9b22dbec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +96,12 @@
         }
     ],
     "wof:id":907199465,
-    "wof:lastmodified":1582312108,
+    "wof:lastmodified":1684352565,
     "wof:name":"Karsamaki",
     "wof:parent_id":1159321591,
     "wof:placetype":"localadmin",
+    "wof:population":2576,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

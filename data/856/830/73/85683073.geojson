@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Varsinais-Suomi",
+    "eurostat:name_local":"Varsinais-Suomi",
+    "eurostat:nuts_2021_id":"FI1C1",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C1",
+    "eurostat:population":483477,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":3.340194,
-    "geom:area_square_m":20423325140.365562,
+    "geom:area_square_m":20423328534.150688,
     "geom:bbox":"20.377543,59.475643,23.920549,61.13348",
     "geom:latitude":60.362935,
     "geom:longitude":22.131387,
@@ -300,6 +314,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"FI-19",
     "wd:wordcount":778,
     "wof:belongsto":[
@@ -311,6 +327,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28329,
+        "eurostat:nuts_2021_id":"FI1C1",
         "fips:code":"",
         "gn:id":830708,
         "gp:id":29389250,
@@ -319,7 +336,7 @@
         "wd:id":"Q5712"
     },
     "wof:country":"FI",
-    "wof:geomhash":"b793841487255635275de4b255809f31",
+    "wof:geomhash":"5f236119e862de4a52b99c1b0953cf7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -338,10 +355,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1617131219,
+    "wof:lastmodified":1684351573,
     "wof:name":"Southwest Finland",
     "wof:parent_id":404227405,
     "wof:placetype":"region",
+    "wof:population":483477,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:subdivision":"FI-19",
     "wof:superseded_by":[],

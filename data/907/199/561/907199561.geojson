@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_758",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sodankyl\u00e4",
+    "eurostat:nuts_2021_id":"758",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D7",
+    "eurostat:nuts_2021_level_lau":"758",
+    "eurostat:population":8303,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au981582",
@@ -11,7 +23,7 @@
     "figov:national_code":"758",
     "figov:swe_type":"Kommun",
     "geom:area":2.637395,
-    "geom:area_square_m":12329153639.754704,
+    "geom:area_square_m":12329153639.754639,
     "geom:bbox":"25.3500173908,66.9429242498,28.6461525992,68.4661903942",
     "geom:latitude":67.786156,
     "geom:longitude":26.91277,
@@ -49,6 +61,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_758",
+        "eurostat:nuts_2021_id":"758",
         "gn:id":636465,
         "gp:id":12590797,
         "qs_pg:id":81320
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"07350f1db9bbc1d25e77088b57635df4",
+    "wof:geomhash":"34dd28e87584d881045bf78ac0c9a87f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +96,12 @@
         }
     ],
     "wof:id":907199561,
-    "wof:lastmodified":1582312087,
+    "wof:lastmodified":1684352571,
     "wof:name":"Sodankyla",
     "wof:parent_id":1159321531,
     "wof:placetype":"localadmin",
+    "wof:population":8303,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Huittinen",
+    "eurostat:nuts_2021_id":"102",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI196",
+    "eurostat:nuts_2021_level_lau":"102",
+    "eurostat:population":10044,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au540821",
@@ -11,7 +23,7 @@
     "figov:national_code":"102",
     "figov:swe_type":"Kommun",
     "geom:area":0.089869,
-    "geom:area_square_m":536496538.494898,
+    "geom:area_square_m":536496538.494912,
     "geom:bbox":"22.4803413545,60.9825861877,23.0062343098,61.3020128131",
     "geom:latitude":61.132228,
     "geom:longitude":22.724183,
@@ -147,6 +159,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683095,
         102191581,
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_102",
+        "eurostat:nuts_2021_id":"102",
         "gn:id":657181,
         "gp:id":12590913,
         "qs_pg:id":274932
@@ -165,7 +181,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f758f4dc8ef08f9e58a8e7db4caabf4c",
+    "wof:geomhash":"1fded78c748dabf1bbfeda55d35046e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,10 +194,12 @@
         }
     ],
     "wof:id":907198933,
-    "wof:lastmodified":1582312063,
+    "wof:lastmodified":1684352534,
     "wof:name":"Huittinen",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",
+    "wof:population":10044,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

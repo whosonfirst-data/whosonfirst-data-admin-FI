@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_588",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pertunmaa",
+    "eurostat:nuts_2021_id":"588",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D1",
+    "eurostat:nuts_2021_level_lau":"588",
+    "eurostat:population":1690,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au392975",
@@ -11,7 +23,7 @@
     "figov:national_code":"588",
     "figov:swe_type":"Kommun",
     "geom:area":0.076531,
-    "geom:area_square_m":451551207.832395,
+    "geom:area_square_m":451551207.83229,
     "geom:bbox":"26.2348832017,61.3398318282,26.6557458662,61.6578052536",
     "geom:latitude":61.499622,
     "geom:longitude":26.43631,
@@ -97,6 +109,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683109,
         102191581,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_588",
+        "eurostat:nuts_2021_id":"588",
         "gn:id":642077,
         "gp:id":12590819,
         "qs_pg:id":225393
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"85364f96795160afca9520da262b477d",
+    "wof:geomhash":"4a4288a7a0a0cc1519dd5df5908a3e0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":907198743,
-    "wof:lastmodified":1582312072,
+    "wof:lastmodified":1684352522,
     "wof:name":"Pertunmaa",
     "wof:parent_id":1159321539,
     "wof:placetype":"localadmin",
+    "wof:population":1690,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

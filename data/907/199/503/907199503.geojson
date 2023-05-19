@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_832",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taivalkoski",
+    "eurostat:nuts_2021_id":"832",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D9",
+    "eurostat:nuts_2021_level_lau":"832",
+    "eurostat:population":3976,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au946368",
@@ -11,7 +23,7 @@
     "figov:national_code":"832",
     "figov:swe_type":"Kommun",
     "geom:area":0.514714,
-    "geom:area_square_m":2633223427.932256,
+    "geom:area_square_m":2633223427.932303,
     "geom:bbox":"27.712540012,65.2503486767,29.2192869777,65.8462075341",
     "geom:latitude":65.560305,
     "geom:longitude":28.35243,
@@ -109,6 +121,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_832",
+        "eurostat:nuts_2021_id":"832",
         "gn:id":635142,
         "gp:id":12590873,
         "qs_pg:id":81314
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"35c715aed45c6bf3b66d59ceea472172",
+    "wof:geomhash":"2661a2bd5fdbff173e03198960356145",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":907199503,
-    "wof:lastmodified":1582312088,
+    "wof:lastmodified":1684352568,
     "wof:name":"Taivalkoski",
     "wof:parent_id":1159321489,
     "wof:placetype":"localadmin",
+    "wof:population":3976,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

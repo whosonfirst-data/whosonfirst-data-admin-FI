@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Helsinki-Uusimaa",
+    "eurostat:name_local":"Helsinki-Uusimaa",
+    "eurostat:nuts_2021_id":"FI1B1",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1B",
+    "eurostat:nuts_2021_level_3":"FI1B1",
+    "eurostat:population":1714741,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":2.600356,
-    "geom:area_square_m":15971899332.037457,
+    "geom:area_square_m":15971898007.094265,
     "geom:bbox":"22.658924,59.610999,26.656397,60.840851",
     "geom:latitude":60.21582,
     "geom:longitude":24.760255,
@@ -333,6 +347,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"FI-18",
     "wd:wordcount":878,
     "wof:belongsto":[
@@ -344,6 +360,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28312,
+        "eurostat:nuts_2021_id":"FI1B1",
         "fips:code":"",
         "gn:id":830709,
         "gp:id":29389247,
@@ -352,7 +369,7 @@
         "wd:id":"Q5711"
     },
     "wof:country":"FI",
-    "wof:geomhash":"0007bf94ecb25e70ab81b282f3f1d553",
+    "wof:geomhash":"d8f686f99c64148689b8397b4866d8a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -371,10 +388,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1617131110,
+    "wof:lastmodified":1684351572,
     "wof:name":"Uusimaa",
     "wof:parent_id":404227411,
     "wof:placetype":"region",
+    "wof:population":1714741,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:subdivision":"FI-18",
     "wof:superseded_by":[],

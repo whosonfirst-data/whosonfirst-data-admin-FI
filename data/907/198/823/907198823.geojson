@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pomarkku / P\u00e5mark",
+    "eurostat:nuts_2021_id":"608",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI196",
+    "eurostat:nuts_2021_level_lau":"608",
+    "eurostat:population":2089,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au438740",
@@ -11,7 +23,7 @@
     "figov:national_code":"608",
     "figov:swe_type":"Kommun",
     "geom:area":0.056318,
-    "geom:area_square_m":330099219.113293,
+    "geom:area_square_m":330099219.113291,
     "geom:bbox":"21.7280521227,61.6150117236,22.3826773953,61.782659356",
     "geom:latitude":61.704619,
     "geom:longitude":22.049385,
@@ -100,6 +112,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683095,
         102191581,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_608",
+        "eurostat:nuts_2021_id":"608",
         "gn:id":641045,
         "gp:id":12590960,
         "qs_pg:id":1153733
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a3337d4bb58dce07ce2f33993fb6cb02",
+    "wof:geomhash":"6fc95148791bae7981e0ff0f5ceea015",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":907198823,
-    "wof:lastmodified":1582312065,
+    "wof:lastmodified":1684352526,
     "wof:name":"Pomarkku",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",
+    "wof:population":2089,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

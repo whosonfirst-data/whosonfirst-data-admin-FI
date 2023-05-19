@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_423",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lieto / Lundo",
+    "eurostat:nuts_2021_id":"423",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C1",
+    "eurostat:nuts_2021_level_lau":"423",
+    "eurostat:population":19994,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au598109",
@@ -11,7 +23,7 @@
     "figov:national_code":"423",
     "figov:swe_type":"Kommun",
     "geom:area":0.04949,
-    "geom:area_square_m":300854659.621794,
+    "geom:area_square_m":300854659.621809,
     "geom:bbox":"22.3532096905,60.447065229,22.8546839606,60.640907194",
     "geom:latitude":60.552536,
     "geom:longitude":22.574699,
@@ -103,6 +115,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683073,
         102191581,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_423",
+        "eurostat:nuts_2021_id":"423",
         "gn:id":648057,
         "gp:id":12590937,
         "qs_pg:id":1026804
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dcda2a96e2b2ec76cca7fda48f95bc52",
+    "wof:geomhash":"e9c4cb413d74c151f981be5683e15dae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":907199011,
-    "wof:lastmodified":1582312128,
+    "wof:lastmodified":1684352538,
     "wof:name":"Lieto",
     "wof:parent_id":1159321603,
     "wof:placetype":"localadmin",
+    "wof:population":19994,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

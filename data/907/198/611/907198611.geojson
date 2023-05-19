@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kustavi / Gustavs",
+    "eurostat:nuts_2021_id":"304",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C1",
+    "eurostat:nuts_2021_level_lau":"304",
+    "eurostat:population":949,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au287983",
@@ -11,7 +23,7 @@
     "figov:national_code":"304",
     "figov:swe_type":"Kommun",
     "geom:area":0.126409,
-    "geom:area_square_m":765937349.027029,
+    "geom:area_square_m":765937349.027062,
     "geom:bbox":"20.3775434328,60.4306845727,21.5437369425,60.9018072212",
     "geom:latitude":60.66071,
     "geom:longitude":21.064942,
@@ -112,6 +124,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683073,
         102191581,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_304",
+        "eurostat:nuts_2021_id":"304",
         "gn:id":650000,
         "gp:id":12590931,
         "qs_pg:id":1026810
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a5f9cee385ba4d8d1e2d52b92df056e",
+    "wof:geomhash":"ae7ec76b6ef5176e6152faa7ddb8ae76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":907198611,
-    "wof:lastmodified":1582312053,
+    "wof:lastmodified":1684352515,
     "wof:name":"Kustavi",
     "wof:parent_id":1159321637,
     "wof:placetype":"localadmin",
+    "wof:population":949,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

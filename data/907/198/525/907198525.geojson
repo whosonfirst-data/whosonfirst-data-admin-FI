@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_638",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porvoo / Borg\u00e5",
+    "eurostat:nuts_2021_id":"638",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1B",
+    "eurostat:nuts_2021_level_3":"FI1B1",
+    "eurostat:nuts_2021_level_lau":"638",
+    "eurostat:population":50380,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au239574",
@@ -11,7 +23,7 @@
     "figov:national_code":"638",
     "figov:swe_type":"Kommun",
     "geom:area":0.346129,
-    "geom:area_square_m":2127913687.614338,
+    "geom:area_square_m":2127913007.601627,
     "geom:bbox":"25.329288,59.928196,26.271298,60.550998",
     "geom:latitude":60.185899,
     "geom:longitude":25.727853,
@@ -220,6 +232,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -230,6 +244,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_638",
+        "eurostat:nuts_2021_id":"638",
         "gn:id":660561,
         "gp:id":12591016,
         "qs_pg:id":248346
@@ -238,7 +254,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0d3e216c74d58d18c9be75e594fa5e40",
+    "wof:geomhash":"f7bd1f5657acd0dbad1f4863466f8b65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -251,10 +267,12 @@
         }
     ],
     "wof:id":907198525,
-    "wof:lastmodified":1642551823,
+    "wof:lastmodified":1684352512,
     "wof:name":"Porvoo",
     "wof:parent_id":1159321593,
     "wof:placetype":"localadmin",
+    "wof:population":50380,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

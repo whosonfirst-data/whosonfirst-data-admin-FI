@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Pohjanmaa",
+    "eurostat:name_local":"Pohjanmaa",
+    "eurostat:nuts_2021_id":"FI195",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI195",
+    "eurostat:population":180521,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":3.229115,
-    "geom:area_square_m":18078576747.573792,
+    "geom:area_square_m":18078577433.37722,
     "geom:bbox":"20.165819,61.921668,23.744081,64.009382",
     "geom:latitude":63.077652,
     "geom:longitude":21.640629,
@@ -283,6 +297,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191581,
@@ -293,6 +309,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28326,
+        "eurostat:nuts_2021_id":"FI195",
         "fips:code":"",
         "gn:id":830676,
         "gp:id":29389259,
@@ -300,7 +317,7 @@
         "wd:id":"Q5702"
     },
     "wof:country":"FI",
-    "wof:geomhash":"85042e4e0593502f88eb5a860aff981b",
+    "wof:geomhash":"e732f77720305246db5102eb978a5433",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -319,10 +336,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1636494402,
+    "wof:lastmodified":1684351580,
     "wof:name":"Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",
+    "wof:population":180521,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

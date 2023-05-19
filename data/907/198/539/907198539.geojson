@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_224",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Karkkila / H\u00f6gfors",
+    "eurostat:nuts_2021_id":"224",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1B",
+    "eurostat:nuts_2021_level_3":"FI1B1",
+    "eurostat:nuts_2021_level_lau":"224",
+    "eurostat:population":8714,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au246554",
@@ -11,7 +23,7 @@
     "figov:national_code":"224",
     "figov:swe_type":"Kommun",
     "geom:area":0.04177,
-    "geom:area_square_m":253885535.176373,
+    "geom:area_square_m":253885535.17638,
     "geom:bbox":"23.97132673,60.4703991717,24.4649044693,60.6445215747",
     "geom:latitude":60.556943,
     "geom:longitude":24.238146,
@@ -136,6 +148,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -146,6 +160,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_224",
+        "eurostat:nuts_2021_id":"224",
         "gn:id":653961,
         "qs_pg:id":244408
     },
@@ -153,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"df146310f0b75857e79c2d834f9de54b",
+    "wof:geomhash":"c79496fc935691df8fe3cdab9da98734",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +182,12 @@
         }
     ],
     "wof:id":907198539,
-    "wof:lastmodified":1582312059,
+    "wof:lastmodified":1684352512,
     "wof:name":"Karkkila",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",
+    "wof:population":8714,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

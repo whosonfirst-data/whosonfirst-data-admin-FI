@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Keski-Pohjanmaa",
+    "eurostat:name_local":"Keski-Pohjanmaa",
+    "eurostat:nuts_2021_id":"FI1D5",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D5",
+    "eurostat:population":67915,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":1.172527,
-    "geom:area_square_m":6425847364.25283,
+    "geom:area_square_m":6425847236.05714,
     "geom:bbox":"22.287877,63.11643,25.036316,64.178969",
     "geom:latitude":63.690984,
     "geom:longitude":23.843277,
@@ -307,6 +321,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"FI-07",
     "wd:wordcount":178,
     "wof:belongsto":[
@@ -318,6 +334,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28323,
+        "eurostat:nuts_2021_id":"FI1D5",
         "fips:code":"",
         "gn:id":830675,
         "gp:id":29389257,
@@ -326,7 +343,7 @@
         "wd:id":"Q5696"
     },
     "wof:country":"FI",
-    "wof:geomhash":"f901b4c26f567cbf4bbe6666acf8d434",
+    "wof:geomhash":"b2aad7aef6edbebef23cf9c90157a5ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -345,10 +362,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1636494404,
+    "wof:lastmodified":1684351581,
     "wof:name":"Central Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",
+    "wof:population":67915,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:subdivision":"FI-07",
     "wof:superseded_by":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_729",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saarij\u00e4rvi",
+    "eurostat:nuts_2021_id":"729",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI193",
+    "eurostat:nuts_2021_level_lau":"729",
+    "eurostat:population":9309,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au738011",
@@ -49,6 +61,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683117,
         102191581,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_729",
+        "eurostat:nuts_2021_id":"729",
         "gn:id":638390,
         "gp:id":12590723,
         "qs_pg:id":81337
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f6fb1a0da768404491dc66803f38a9c",
+    "wof:geomhash":"10c999beaf02c638eb907f27a78a3009",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +96,12 @@
         }
     ],
     "wof:id":907199213,
-    "wof:lastmodified":1582312130,
+    "wof:lastmodified":1684352549,
     "wof:name":"Saarijarvi",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",
+    "wof:population":9309,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

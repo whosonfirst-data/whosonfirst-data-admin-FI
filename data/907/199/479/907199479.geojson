@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_244",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kempele",
+    "eurostat:nuts_2021_id":"244",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D9",
+    "eurostat:nuts_2021_level_lau":"244",
+    "eurostat:population":18355,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au914440",
@@ -11,7 +23,7 @@
     "figov:national_code":"244",
     "figov:swe_type":"Kommun",
     "geom:area":0.0209,
-    "geom:area_square_m":109634627.277978,
+    "geom:area_square_m":109634627.277997,
     "geom:bbox":"25.4256935836,64.842475908,25.7292256443,64.948263722",
     "geom:latitude":64.898536,
     "geom:longitude":25.573408,
@@ -132,7 +144,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -143,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_244",
+        "eurostat:nuts_2021_id":"244",
         "gn:id":653252,
         "gp:id":12590841,
         "qs_pg:id":337776
@@ -155,7 +170,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"640a77695f42c9183421d9aa614d483e",
+    "wof:geomhash":"9484ebf6dd39e003d26c75305bc88407",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,11 +183,11 @@
         }
     ],
     "wof:id":907199479,
-    "wof:lastmodified":1582312098,
+    "wof:lastmodified":1684352566,
     "wof:name":"Kempele",
     "wof:parent_id":1159321529,
     "wof:placetype":"localadmin",
-    "wof:population":15864,
+    "wof:population":18355,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],

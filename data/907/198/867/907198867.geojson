@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_740",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Savonlinna / Nyslott",
+    "eurostat:nuts_2021_id":"740",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D1",
+    "eurostat:nuts_2021_level_lau":"740",
+    "eurostat:population":32974,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au480246",
@@ -11,7 +23,7 @@
     "figov:national_code":"740",
     "figov:swe_type":"Kommun",
     "geom:area":0.614398,
-    "geom:area_square_m":3576521582.830501,
+    "geom:area_square_m":3576526265.998945,
     "geom:bbox":"28.3702149,61.5336979001,29.6968261,62.4177571",
     "geom:latitude":61.915397,
     "geom:longitude":29.086844,
@@ -176,6 +188,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683109,
         102191581,
@@ -186,6 +200,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_740",
+        "eurostat:nuts_2021_id":"740",
         "gn:id":637293,
         "gp:id":56071674,
         "qs_pg:id":1026786
@@ -194,7 +210,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"edc8d3539af8919d0b6fe933a385134c",
+    "wof:geomhash":"57a3a418719059590a63a76cb93cb9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -207,10 +223,12 @@
         }
     ],
     "wof:id":907198867,
-    "wof:lastmodified":1639612739,
+    "wof:lastmodified":1684352529,
     "wof:name":"Savonlinna",
     "wof:parent_id":1159321493,
     "wof:placetype":"localadmin",
+    "wof:population":32974,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

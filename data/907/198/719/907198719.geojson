@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_935",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Virolahti",
+    "eurostat:nuts_2021_id":"935",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C4",
+    "eurostat:nuts_2021_level_lau":"935",
+    "eurostat:population":3109,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au359338",
@@ -11,7 +23,7 @@
     "figov:national_code":"935",
     "figov:swe_type":"Kommun",
     "geom:area":0.091358,
-    "geom:area_square_m":555789783.14192,
+    "geom:area_square_m":555789783.141927,
     "geom:bbox":"27.3565695032,60.3449234341,27.8887419057,60.6608501248",
     "geom:latitude":60.528208,
     "geom:longitude":27.607369,
@@ -109,6 +121,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683081,
         102191581,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_935",
+        "eurostat:nuts_2021_id":"935",
         "gn:id":631390,
         "gp:id":12590778,
         "qs_pg:id":1026778
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"648dc0cb6a912de7e1563cfafb8e186e",
+    "wof:geomhash":"0e58ba154ec2c41693c601ececdb4e4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":907198719,
-    "wof:lastmodified":1582312074,
+    "wof:lastmodified":1684352520,
     "wof:name":"Virolahti",
     "wof:parent_id":1159321573,
     "wof:placetype":"localadmin",
+    "wof:population":3109,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

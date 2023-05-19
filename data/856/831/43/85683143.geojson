@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Pohjois-Pohjanmaa",
+    "eurostat:name_local":"Pohjois-Pohjanmaa",
+    "eurostat:nuts_2021_id":"FI1D9",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D9",
+    "eurostat:population":415603,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":8.364947,
-    "geom:area_square_m":45552442551.443657,
+    "geom:area_square_m":43800717926.998962,
     "geom:bbox":"22.778897,63.429131,30.138463,66.485853",
     "geom:latitude":64.94418,
     "geom:longitude":26.252499,
@@ -318,6 +332,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"FI-14",
     "wd:wordcount":234,
     "wof:belongsto":[
@@ -329,6 +345,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28327,
+        "eurostat:nuts_2021_id":"FI1D9",
         "fips:code":"",
         "gn:id":830667,
         "gp:id":29389265,
@@ -340,7 +357,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d77208ed4afc96b90188b4d1ebf2015e",
+    "wof:geomhash":"a69d4e0d83bc8c0f2001815e76678d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -359,10 +376,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1642033548,
+    "wof:lastmodified":1684351583,
     "wof:name":"Northern Ostrobothnia",
     "wof:parent_id":404227415,
     "wof:placetype":"region",
+    "wof:population":415603,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:subdivision":"FI-14",
     "wof:superseded_by":[],

@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Etel\u00e4-Pohjanmaa",
+    "eurostat:name_local":"Etel\u00e4-Pohjanmaa",
+    "eurostat:nuts_2021_id":"FI194",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI194",
+    "eurostat:population":187282,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":2.456527,
-    "geom:area_square_m":13914092662.041311,
+    "geom:area_square_m":13914092537.862059,
     "geom:bbox":"21.511577,61.97976,24.584316,63.498047",
     "geom:latitude":62.736842,
     "geom:longitude":23.055883,
@@ -306,6 +320,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"FI-03",
     "wd:wordcount":257,
     "wof:belongsto":[
@@ -317,6 +333,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28322,
+        "eurostat:nuts_2021_id":"FI194",
         "fips:code":"",
         "gn:id":830682,
         "gp:id":29389256,
@@ -325,7 +342,7 @@
         "wd:id":"Q5692"
     },
     "wof:country":"FI",
-    "wof:geomhash":"bcc5c9a491e6a90e1b7ae450738a7420",
+    "wof:geomhash":"b2bed2cd4ee3676a43495fe5c1e60b3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -344,10 +361,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1636494404,
+    "wof:lastmodified":1684351579,
     "wof:name":"Southern Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",
+    "wof:population":187282,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:subdivision":"FI-03",
     "wof:superseded_by":[],

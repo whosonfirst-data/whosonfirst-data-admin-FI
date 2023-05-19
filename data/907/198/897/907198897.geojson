@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_686",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rautalampi",
+    "eurostat:nuts_2021_id":"686",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D2",
+    "eurostat:nuts_2021_level_lau":"686",
+    "eurostat:population":3121,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au493872",
@@ -11,7 +23,7 @@
     "figov:national_code":"686",
     "figov:swe_type":"Kommun",
     "geom:area":0.133291,
-    "geom:area_square_m":757390578.26136,
+    "geom:area_square_m":757390578.261405,
     "geom:bbox":"26.446560233,62.4239986534,27.0101423193,62.849158717",
     "geom:latitude":62.642909,
     "geom:longitude":26.716185,
@@ -94,6 +106,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683131,
         102191581,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_686",
+        "eurostat:nuts_2021_id":"686",
         "gn:id":639711,
         "gp:id":12590741,
         "qs_pg:id":1151711
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"183b452b2a32429565ebef42c9a349aa",
+    "wof:geomhash":"b1fd4381a97c39f78df3447a2db811fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":907198897,
-    "wof:lastmodified":1582312072,
+    "wof:lastmodified":1684352532,
     "wof:name":"Rautalampi",
     "wof:parent_id":1159321623,
     "wof:placetype":"localadmin",
+    "wof:population":3121,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

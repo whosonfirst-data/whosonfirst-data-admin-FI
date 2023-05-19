@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kuusamo",
+    "eurostat:nuts_2021_id":"305",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D9",
+    "eurostat:nuts_2021_level_lau":"305",
+    "eurostat:population":15134,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au958632",
@@ -11,7 +23,7 @@
     "figov:national_code":"305",
     "figov:swe_type":"Kommun",
     "geom:area":1.146056,
-    "geom:area_square_m":5770317486.17533,
+    "geom:area_square_m":5770317486.175299,
     "geom:bbox":"28.3682465782,65.4879703726,30.1384632061,66.4858532328",
     "geom:latitude":65.971529,
     "geom:longitude":29.27459,
@@ -183,7 +195,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -194,6 +207,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_305",
+        "eurostat:nuts_2021_id":"305",
         "gn:id":649924,
         "gp:id":12590846,
         "qs_pg:id":582218
@@ -206,7 +221,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f086e2d659323f3ce420c3a3eb638a71",
+    "wof:geomhash":"a51bec45ae801cc1c91f74bc8a88fb1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -219,11 +234,11 @@
         }
     ],
     "wof:id":907199519,
-    "wof:lastmodified":1582312110,
+    "wof:lastmodified":1684352569,
     "wof:name":"Kuusamo",
     "wof:parent_id":1159321489,
     "wof:placetype":"localadmin",
-    "wof:population":16492,
+    "wof:population":15134,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],

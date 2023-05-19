@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_598",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pietarsaari / Jakobstad",
+    "eurostat:nuts_2021_id":"598",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI195",
+    "eurostat:nuts_2021_level_lau":"598",
+    "eurostat:population":19208,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au647907",
@@ -11,7 +23,7 @@
     "figov:national_code":"598",
     "figov:swe_type":"Kommun",
     "geom:area":0.071932,
-    "geom:area_square_m":393834802.660873,
+    "geom:area_square_m":393834802.660825,
     "geom:bbox":"21.9787385954,63.6104149904,22.8234405936,63.8329906136",
     "geom:latitude":63.717466,
     "geom:longitude":22.393098,
@@ -56,6 +68,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683119,
         102191581,
@@ -66,6 +80,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_598",
+        "eurostat:nuts_2021_id":"598",
         "gn:id":656131,
         "gp:id":12591069,
         "qs_pg:id":81493
@@ -74,7 +90,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f6d64279e8572c098e779ed2d703e606",
+    "wof:geomhash":"0c4dccd3f218df9f29ea004d84fcf4f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +103,12 @@
         }
     ],
     "wof:id":907199069,
-    "wof:lastmodified":1582312137,
+    "wof:lastmodified":1684352542,
     "wof:name":"Pietarsaari",
     "wof:parent_id":1159321639,
     "wof:placetype":"localadmin",
+    "wof:population":19208,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

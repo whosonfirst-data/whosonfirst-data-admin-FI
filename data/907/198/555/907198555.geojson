@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Br\u00e4nd\u00f6",
+    "eurostat:nuts_2021_id":"035",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI2",
+    "eurostat:nuts_2021_level_2":"FI20",
+    "eurostat:nuts_2021_level_3":"FI200",
+    "eurostat:nuts_2021_level_lau":"035",
+    "eurostat:population":445,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au254219",
@@ -11,7 +23,7 @@
     "figov:national_code":"35",
     "figov:swe_type":"Kommun",
     "geom:area":0.268775,
-    "geom:area_square_m":1633671290.041471,
+    "geom:area_square_m":1633671290.041418,
     "geom:bbox":"20.2018034418,60.1239329303,21.1513411135,60.8766366924",
     "geom:latitude":60.556446,
     "geom:longitude":20.770643,
@@ -73,6 +85,8 @@
     ],
     "src:geom":"figov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85632789,
         102191581,
@@ -80,9 +94,12 @@
         1159321503
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"FI_035",
+        "eurostat:nuts_2021_id":"035"
+    },
     "wof:country":"FI",
-    "wof:geomhash":"5a1f2d9de8aad231884bbe99c0093767",
+    "wof:geomhash":"f991c1b06f846194e67bc7accf683a7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +112,12 @@
         }
     ],
     "wof:id":907198555,
-    "wof:lastmodified":1566594032,
+    "wof:lastmodified":1684352513,
     "wof:name":"Brando",
     "wof:parent_id":1159321503,
     "wof:placetype":"localadmin",
+    "wof:population":445,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

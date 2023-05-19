@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_844",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tervo",
+    "eurostat:nuts_2021_id":"844",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D2",
+    "eurostat:nuts_2021_level_lau":"844",
+    "eurostat:population":1520,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au843127",
@@ -11,7 +23,7 @@
     "figov:national_code":"844",
     "figov:swe_type":"Kommun",
     "geom:area":0.087432,
-    "geom:area_square_m":491291726.471584,
+    "geom:area_square_m":491291726.471607,
     "geom:bbox":"26.4857222649,62.7962804221,27.1424426689,63.1316755742",
     "geom:latitude":62.97169,
     "geom:longitude":26.816085,
@@ -97,6 +109,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683131,
         102191581,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_844",
+        "eurostat:nuts_2021_id":"844",
         "gn:id":634612,
         "gp:id":12590746,
         "qs_pg:id":81308
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d0a4466eb9476e969a66221a19a1a3f",
+    "wof:geomhash":"3263073039b3fae3893053c2b0ca590b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":907199369,
-    "wof:lastmodified":1582312118,
+    "wof:lastmodified":1684352560,
     "wof:name":"Tervo",
     "wof:parent_id":1159321623,
     "wof:placetype":"localadmin",
+    "wof:population":1520,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

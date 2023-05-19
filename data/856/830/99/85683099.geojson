@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Pirkanmaa",
+    "eurostat:name_local":"Pirkanmaa",
+    "eurostat:nuts_2021_id":"FI197",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI197",
+    "eurostat:population":525320,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":2.477499,
-    "geom:area_square_m":14526326973.831495,
+    "geom:area_square_m":14526327439.265057,
     "geom:bbox":"22.43416,60.939755,24.97048,62.494334",
     "geom:latitude":61.693571,
     "geom:longitude":23.674028,
@@ -308,6 +322,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"FI-11",
     "wd:wordcount":352,
     "wof:belongsto":[
@@ -319,6 +335,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28325,
+        "eurostat:nuts_2021_id":"FI197",
         "fips:code":"",
         "gn:id":830704,
         "gp:id":29389248,
@@ -327,7 +344,7 @@
         "wd:id":"Q5701"
     },
     "wof:country":"FI",
-    "wof:geomhash":"d4553a603723f7eb1006a0833aeceea1",
+    "wof:geomhash":"ac83338d60f2b2e94d9b69ecd68e7fd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -346,10 +363,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1644883442,
+    "wof:lastmodified":1684351576,
     "wof:name":"Pirkanmaa",
     "wof:parent_id":404227417,
     "wof:placetype":"region",
+    "wof:population":525320,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:subdivision":"FI-11",
     "wof:superseded_by":[],

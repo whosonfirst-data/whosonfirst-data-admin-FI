@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_615",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pudasj\u00e4rvi",
+    "eurostat:nuts_2021_id":"615",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D9",
+    "eurostat:nuts_2021_level_lau":"615",
+    "eurostat:population":7873,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au943705",
@@ -11,7 +23,7 @@
     "figov:national_code":"615",
     "figov:swe_type":"Kommun",
     "geom:area":1.134503,
-    "geom:area_square_m":5828844182.057556,
+    "geom:area_square_m":5828844182.057687,
     "geom:bbox":"26.1518532003,65.0871938845,28.1643122064,65.960359611",
     "geom:latitude":65.448773,
     "geom:longitude":27.12877,
@@ -85,6 +97,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_615",
+        "eurostat:nuts_2021_id":"615",
         "gn:id":640803,
         "gp:id":12590858,
         "qs_pg:id":953654
@@ -103,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d477e69dc505bd336f5c4e7f22d18919",
+    "wof:geomhash":"7dc18cf234246ab38044708603440c6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":907199499,
-    "wof:lastmodified":1582312105,
+    "wof:lastmodified":1684352567,
     "wof:name":"Pudasjarvi",
     "wof:parent_id":1159321497,
     "wof:placetype":"localadmin",
+    "wof:population":7873,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

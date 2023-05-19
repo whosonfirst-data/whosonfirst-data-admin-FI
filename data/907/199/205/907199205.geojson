@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_992",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c4\u00e4nekoski",
+    "eurostat:nuts_2021_id":"992",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI193",
+    "eurostat:nuts_2021_level_lau":"992",
+    "eurostat:population":18765,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au735768",
@@ -11,7 +23,7 @@
     "figov:national_code":"992",
     "figov:swe_type":"Kommun",
     "geom:area":0.199546,
-    "geom:area_square_m":1131509248.208241,
+    "geom:area_square_m":1131509248.208148,
     "geom:bbox":"25.4739744472,62.4804379177,26.2337642557,62.9207753152",
     "geom:latitude":62.704483,
     "geom:longitude":25.826888,
@@ -94,6 +106,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683117,
         102191581,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_992",
+        "eurostat:nuts_2021_id":"992",
         "gn:id":662095,
         "gp:id":12590699,
         "qs_pg:id":261989
@@ -112,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"947d1e43277809d3987a6eee78b70761",
+    "wof:geomhash":"122162e683d92452e1ae671098d90b0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":907199205,
-    "wof:lastmodified":1582312108,
+    "wof:lastmodified":1684352549,
     "wof:name":"Aanekoski",
     "wof:parent_id":1159321553,
     "wof:placetype":"localadmin",
+    "wof:population":18765,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

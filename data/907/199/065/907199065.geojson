@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_218",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Karijoki / B\u00f6tom",
+    "eurostat:nuts_2021_id":"218",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI19",
+    "eurostat:nuts_2021_level_3":"FI194",
+    "eurostat:nuts_2021_level_lau":"218",
+    "eurostat:population":1245,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au638639",
@@ -11,7 +23,7 @@
     "figov:national_code":"218",
     "figov:swe_type":"Kommun",
     "geom:area":0.032288,
-    "geom:area_square_m":185428625.989565,
+    "geom:area_square_m":185428625.98958,
     "geom:bbox":"21.5234890051,62.2127711059,21.9389813363,62.4221991273",
     "geom:latitude":62.325426,
     "geom:longitude":21.74102,
@@ -112,6 +124,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683113,
         102191581,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_218",
+        "eurostat:nuts_2021_id":"218",
         "gn:id":654076,
         "gp:id":12591041,
         "qs_pg:id":81483
@@ -130,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d5442ddfb1504434ba1a8240ede8207a",
+    "wof:geomhash":"61f588c3e2e41f3575c343ea195e0b8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":907199065,
-    "wof:lastmodified":1582312103,
+    "wof:lastmodified":1684352542,
     "wof:name":"Karijoki",
     "wof:parent_id":1159321543,
     "wof:placetype":"localadmin",
+    "wof:population":1245,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

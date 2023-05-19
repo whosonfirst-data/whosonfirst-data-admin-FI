@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_761",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Somero",
+    "eurostat:nuts_2021_id":"761",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1C",
+    "eurostat:nuts_2021_level_3":"FI1C1",
+    "eurostat:nuts_2021_level_lau":"761",
+    "eurostat:population":8711,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au253897",
@@ -11,7 +23,7 @@
     "figov:national_code":"761",
     "figov:swe_type":"Kommun",
     "geom:area":0.114339,
-    "geom:area_square_m":693743276.495775,
+    "geom:area_square_m":693743276.49583,
     "geom:bbox":"23.1546153688,60.4673262878,23.9205491095,60.7741682465",
     "geom:latitude":60.61445,
     "geom:longitude":23.555172,
@@ -124,6 +136,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683073,
         102191581,
@@ -134,6 +148,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_761",
+        "eurostat:nuts_2021_id":"761",
         "gn:id":636347,
         "gp:id":12590974,
         "qs_pg:id":550546
@@ -142,7 +158,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f806934255b8aab048d8a0db37dfd2b8",
+    "wof:geomhash":"b851f0b7a0d154a09df2d25798b29ba3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":907198549,
-    "wof:lastmodified":1582312072,
+    "wof:lastmodified":1684352512,
     "wof:name":"Somero",
     "wof:parent_id":1159321585,
     "wof:placetype":"localadmin",
+    "wof:population":8711,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

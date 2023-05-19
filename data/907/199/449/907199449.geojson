@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_678",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Raahe / Brahestad",
+    "eurostat:nuts_2021_id":"678",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D9",
+    "eurostat:nuts_2021_level_lau":"678",
+    "eurostat:population":24679,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au879928",
@@ -11,7 +23,7 @@
     "figov:national_code":"678",
     "figov:swe_type":"Kommun",
     "geom:area":0.353967,
-    "geom:area_square_m":1877411927.367994,
+    "geom:area_square_m":1877411927.367928,
     "geom:bbox":"23.6907025352,64.3128422613,25.4629266514,64.8547767166",
     "geom:latitude":64.60032,
     "geom:longitude":24.523181,
@@ -136,6 +148,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -146,6 +160,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_678",
+        "eurostat:nuts_2021_id":"678",
         "gn:id":640277,
         "gp:id":12590864,
         "qs_pg:id":1151713
@@ -154,7 +170,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"254734ece960c98eb5a2c407336a71d0",
+    "wof:geomhash":"a57025a4fcdb6ba529436f73303be3ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":907199449,
-    "wof:lastmodified":1582312091,
+    "wof:lastmodified":1684352564,
     "wof:name":"Raahe",
     "wof:parent_id":1159321631,
     "wof:placetype":"localadmin",
+    "wof:population":24679,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

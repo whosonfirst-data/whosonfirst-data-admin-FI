@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_318",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"K\u00f6kar",
+    "eurostat:nuts_2021_id":"318",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI2",
+    "eurostat:nuts_2021_level_2":"FI20",
+    "eurostat:nuts_2021_level_3":"FI200",
+    "eurostat:nuts_2021_level_lau":"318",
+    "eurostat:population":232,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au1034844",
@@ -11,7 +23,7 @@
     "figov:national_code":"318",
     "figov:swe_type":"Kommun",
     "geom:area":0.345562,
-    "geom:area_square_m":2152806630.210816,
+    "geom:area_square_m":2152806630.210793,
     "geom:bbox":"20.284325635,59.4541440185,21.345645063,60.1039680913",
     "geom:latitude":59.742582,
     "geom:longitude":20.899207,
@@ -43,6 +55,8 @@
     ],
     "src:geom":"figov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85632789,
         102191581,
@@ -50,9 +64,12 @@
         1159321503
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"FI_318",
+        "eurostat:nuts_2021_id":"318"
+    },
     "wof:country":"FI",
-    "wof:geomhash":"6cd55715fa2fd7c825ee433e39047d62",
+    "wof:geomhash":"5f11ebe2713f621ab28b735ac4310d3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +82,12 @@
         }
     ],
     "wof:id":907199659,
-    "wof:lastmodified":1566594168,
+    "wof:lastmodified":1684352576,
     "wof:name":"Kokar",
     "wof:parent_id":1159321503,
     "wof:placetype":"localadmin",
+    "wof:population":232,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

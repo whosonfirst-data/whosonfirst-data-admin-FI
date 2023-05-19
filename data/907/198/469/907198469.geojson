@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_434",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Loviisa / Lovisa",
+    "eurostat:nuts_2021_id":"434",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1B",
+    "eurostat:nuts_2021_level_3":"FI1B1",
+    "eurostat:nuts_2021_level_lau":"434",
+    "eurostat:population":14772,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au206776",
@@ -11,7 +23,7 @@
     "figov:national_code":"434",
     "figov:swe_type":"Kommun",
     "geom:area":0.284897,
-    "geom:area_square_m":1741876127.46662,
+    "geom:area_square_m":1741876127.466567,
     "geom:bbox":"25.8010023716,60.0446972153,26.6563967257,60.6613579613",
     "geom:latitude":60.36659,
     "geom:longitude":26.240885,
@@ -146,6 +158,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -156,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_434",
+        "eurostat:nuts_2021_id":"434",
         "gn:id":647572,
         "gp:id":12591007,
         "qs_pg:id":1026800
@@ -164,7 +180,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"adffb5b8dde84f08109e4cd8189bb2c8",
+    "wof:geomhash":"1006eb6adda7ad12026d5ce562bd9694",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,10 +193,12 @@
         }
     ],
     "wof:id":907198469,
-    "wof:lastmodified":1582312068,
+    "wof:lastmodified":1684352510,
     "wof:name":"Loviisa",
     "wof:parent_id":1159321525,
     "wof:placetype":"localadmin",
+    "wof:population":14772,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

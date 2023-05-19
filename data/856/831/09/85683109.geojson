@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"FI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Etel\u00e4-Savo",
+    "eurostat:name_local":"Etel\u00e4-Savo",
+    "eurostat:nuts_2021_id":"FI1D1",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D1",
+    "eurostat:population":139448,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":3.264879,
-    "geom:area_square_m":19023386524.730522,
+    "geom:area_square_m":19023387050.503735,
     "geom:bbox":"26.220723,61.151302,29.696826,62.657022",
     "geom:latitude":61.886257,
     "geom:longitude":27.850573,
@@ -285,6 +299,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"FI-04",
     "wd:wordcount":262,
     "wof:belongsto":[
@@ -296,6 +312,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":28318,
+        "eurostat:nuts_2021_id":"FI1D1",
         "fips:code":"",
         "gn:id":830695,
         "gp:id":29389260,
@@ -304,7 +321,7 @@
         "wd:id":"Q5693"
     },
     "wof:country":"FI",
-    "wof:geomhash":"e73e7488135a093ed6dd5b432525371b",
+    "wof:geomhash":"86703f2e180f4c697e2bf674cdbb0c84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -323,10 +340,12 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1617129961,
+    "wof:lastmodified":1684351577,
     "wof:name":"Southern Savonia",
     "wof:parent_id":404227407,
     "wof:placetype":"region",
+    "wof:population":139448,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:subdivision":"FI-04",
     "wof:superseded_by":[],

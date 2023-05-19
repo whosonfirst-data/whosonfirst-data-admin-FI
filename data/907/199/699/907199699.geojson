@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ii",
+    "eurostat:nuts_2021_id":"139",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D9",
+    "eurostat:nuts_2021_level_lau":"139",
+    "eurostat:population":9844,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au1040011",
@@ -11,7 +23,7 @@
     "figov:national_code":"139",
     "figov:swe_type":"Kommun",
     "geom:area":0.54373,
-    "geom:area_square_m":2790818369.03223,
+    "geom:area_square_m":2790818369.032131,
     "geom:bbox":"24.1374891017,65.2114925995,26.160110795,65.8223349674",
     "geom:latitude":65.472972,
     "geom:longitude":25.30424,
@@ -49,6 +61,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -59,6 +73,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_139",
+        "eurostat:nuts_2021_id":"139",
         "gn:id":656852,
         "gp:id":12590837,
         "qs_pg:id":244411
@@ -67,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4970aeccccfb6a2347edaecccc1e925f",
+    "wof:geomhash":"c0304dbdd024bd65076bff32d6c91130",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +96,12 @@
         }
     ],
     "wof:id":907199699,
-    "wof:lastmodified":1582312133,
+    "wof:lastmodified":1684352577,
     "wof:name":"Ii",
     "wof:parent_id":1159321497,
     "wof:placetype":"localadmin",
+    "wof:population":9844,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

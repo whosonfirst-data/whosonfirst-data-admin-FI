@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"FI",
+    "eurostat:gisco_id":"FI_309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Outokumpu",
+    "eurostat:nuts_2021_id":"309",
+    "eurostat:nuts_2021_level_0":"FI",
+    "eurostat:nuts_2021_level_1":"FI1",
+    "eurostat:nuts_2021_level_2":"FI1D",
+    "eurostat:nuts_2021_level_3":"FI1D3",
+    "eurostat:nuts_2021_level_lau":"309",
+    "eurostat:population":6688,
+    "eurostat:population_year":2020,
     "figov:eng_type":"Municipality",
     "figov:fin_type":"Kunta",
     "figov:gml_id":"au475063",
@@ -11,7 +23,7 @@
     "figov:national_code":"309",
     "figov:swe_type":"Kommun",
     "geom:area":0.102439,
-    "geom:area_square_m":580532880.933597,
+    "geom:area_square_m":580532880.933407,
     "geom:bbox":"28.6327064259,62.570167479,29.3039567621,62.8484795068",
     "geom:latitude":62.721838,
     "geom:longitude":28.953471,
@@ -89,6 +101,8 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85683133,
         102191581,
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"FI_309",
+        "eurostat:nuts_2021_id":"309",
         "gn:id":830266,
         "gp:id":12590894,
         "qs_pg:id":554291
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6d48e05395b21de85cb8fe0dc2f3b321",
+    "wof:geomhash":"df13bb4eeb661c5c768783b414f231da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":907198859,
-    "wof:lastmodified":1582312053,
+    "wof:lastmodified":1684352528,
     "wof:name":"Outokumpu",
     "wof:parent_id":1159321551,
     "wof:placetype":"localadmin",
+    "wof:population":6688,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
