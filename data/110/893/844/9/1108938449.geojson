@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.8815900894,60.2459153501,24.8815900894,60.2459153501",
+    "geom:bbox":"24.88159,60.245915,24.88159,60.245915",
     "geom:latitude":60.245915,
     "geom:longitude":24.88159,
     "iso:country":"FI",
@@ -35,17 +35,26 @@
     "name:eng_x_preferred":[
         "Kaarela"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kaarela"
     ],
     "name:fra_x_preferred":[
         "Kaarela"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30fc\u30ec\u30e9"
+    ],
     "name:nld_x_preferred":[
         "Kaarela"
     ],
     "name:swe_x_preferred":[
         "K\u00e5rb\u00f6le"
+    ],
+    "name:tur_x_preferred":[
+        "Kaarela"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -66,7 +75,7 @@
     },
     "wof:country":"FI",
     "wof:created":1491360394,
-    "wof:geomhash":"a846adae846f57d5839c83e016fa5f6a",
+    "wof:geomhash":"e95c6082d90662bffaed44f9775261ec",
     "wof:hierarchy":[
         {
             "borough_id":890536889,
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1108938449,
-    "wof:lastmodified":1566595023,
+    "wof:lastmodified":1690879710,
     "wof:name":"Kaarela",
     "wof:parent_id":890537241,
     "wof:placetype":"neighbourhood",
@@ -93,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.88159008943421,
-    60.24591535012538,
-    24.88159008943421,
-    60.24591535012538
+    24.88159,
+    60.245915,
+    24.88159,
+    60.245915
 ],
-  "geometry": {"coordinates":[24.88159008943421,60.24591535012538],"type":"Point"}
+  "geometry": {"coordinates":[24.88159,60.245915],"type":"Point"}
 }

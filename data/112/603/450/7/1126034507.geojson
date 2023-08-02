@@ -25,6 +25,12 @@
     "name:ast_x_preferred":[
         "Mustasaari"
     ],
+    "name:ast_x_variant":[
+        "Korsholm"
+    ],
+    "name:cat_x_preferred":[
+        "Mustasaari"
+    ],
     "name:ceb_x_preferred":[
         "Korsholm"
     ],
@@ -46,6 +52,9 @@
     "name:fra_x_preferred":[
         "Korsholm"
     ],
+    "name:gle_x_preferred":[
+        "Korsholm"
+    ],
     "name:glg_x_preferred":[
         "Korsholm"
     ],
@@ -61,6 +70,9 @@
     "name:nld_x_preferred":[
         "Korsholm"
     ],
+    "name:nno_x_preferred":[
+        "Korsholm"
+    ],
     "name:nob_x_preferred":[
         "Korsholm"
     ],
@@ -70,11 +82,23 @@
     "name:pol_x_preferred":[
         "Mustasaari"
     ],
+    "name:pol_x_variant":[
+        "Korsholm"
+    ],
     "name:ron_x_preferred":[
         "Korsholm"
     ],
     "name:sme_x_preferred":[
         "Mustasaari"
+    ],
+    "name:smn_x_preferred":[
+        "Mustasaari"
+    ],
+    "name:sms_x_preferred":[
+        "Mustasaari"
+    ],
+    "name:spa_x_preferred":[
+        "Korsholm"
     ],
     "name:sqi_x_preferred":[
         "Korsholm"
@@ -85,8 +109,14 @@
     "name:tur_x_preferred":[
         "Korsholm"
     ],
+    "name:uzb_x_preferred":[
+        "Korsholm"
+    ],
     "name:zho_x_preferred":[
         "\u79d1\u4ec0\u970d\u723e\u59c6"
+    ],
+    "name:zho_x_variant":[
+        "\u79d1\u4ec0\u970d\u5c14\u59c6"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -145,7 +175,7 @@
         }
     ],
     "wof:id":1126034507,
-    "wof:lastmodified":1566595366,
+    "wof:lastmodified":1690879878,
     "wof:name":"Korsholm",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

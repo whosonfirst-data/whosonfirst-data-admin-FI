@@ -20,10 +20,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Lauritsala"
+    ],
+    "name:cat_x_preferred":[
+        "Lauritsala"
+    ],
     "name:deu_x_preferred":[
         "Lauritsala"
     ],
     "name:eng_x_preferred":[
+        "Lauritsala"
+    ],
+    "name:epo_x_preferred":[
         "Lauritsala"
     ],
     "name:est_x_preferred":[
@@ -35,11 +44,32 @@
     "name:fra_x_preferred":[
         "Lauritsala"
     ],
+    "name:gle_x_preferred":[
+        "Lauritsala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a6\u30ea\u30c4\u30a1\u30e9"
+    ],
     "name:nob_x_preferred":[
         "Lauritsala"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u0443\u0440\u0438\u0442\u0441\u0430\u043b\u0430"
+    ],
+    "name:sju_x_preferred":[
+        "Lauritsala"
+    ],
+    "name:sme_x_preferred":[
+        "Lauritsala"
+    ],
+    "name:smn_x_preferred":[
+        "Lauritsala"
+    ],
+    "name:sms_x_preferred":[
+        "Lauritsala"
+    ],
+    "name:spa_x_preferred":[
+        "Lauritsala"
     ],
     "name:swe_x_preferred":[
         "Lauritsala"
@@ -98,7 +128,7 @@
         }
     ],
     "wof:id":1126047885,
-    "wof:lastmodified":1566595363,
+    "wof:lastmodified":1690879877,
     "wof:name":"Lauritsala",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",

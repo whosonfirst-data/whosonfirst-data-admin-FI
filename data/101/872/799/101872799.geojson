@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Valkeala"
+    ],
     "name:deu_x_preferred":[
         "Valkeala"
     ],
@@ -29,17 +32,32 @@
     "name:est_x_preferred":[
         "Valkeala vald"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u06a9\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
+        "Valkeala"
+    ],
+    "name:fit_x_preferred":[
         "Valkeala"
     ],
     "name:fra_x_preferred":[
         "Valkeala"
+    ],
+    "name:gle_x_preferred":[
+        "Valkeala"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05dc\u05e7\u05d0\u05dc\u05d4"
     ],
     "name:ita_x_preferred":[
         "Valkeala"
     ],
     "name:jpn_x_preferred":[
         "\u30f4\u30a1\u30eb\u30b1\u30a2\u30e9"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0412\u0430\u043b\u043a\u0435\u0430\u043b\u0430"
     ],
     "name:nld_x_preferred":[
         "Valkeala"
@@ -62,7 +80,19 @@
     "name:rus_x_preferred":[
         "\u0412\u0430\u043b\u043a\u0435\u0430\u043b\u0430"
     ],
+    "name:sjd_x_preferred":[
+        "\u0412\u0430\u043b\u043a\u0435\u0430\u043b\u0430"
+    ],
     "name:sme_x_preferred":[
+        "Valkeala"
+    ],
+    "name:smn_x_preferred":[
+        "Valkeala"
+    ],
+    "name:sms_x_preferred":[
+        "Valkeala"
+    ],
+    "name:spa_x_preferred":[
         "Valkeala"
     ],
     "name:swe_x_preferred":[
@@ -129,7 +159,7 @@
         }
     ],
     "wof:id":101872799,
-    "wof:lastmodified":1582312170,
+    "wof:lastmodified":1690879722,
     "wof:name":"Valkeala",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

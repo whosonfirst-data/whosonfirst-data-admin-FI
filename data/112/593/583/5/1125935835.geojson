@@ -28,6 +28,9 @@
     "name:fin_x_preferred":[
         "Lavaj\u00e4rvi"
     ],
+    "name:fra_x_preferred":[
+        "Lavaj\u00e4rvi"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125935835,
-    "wof:lastmodified":1566595340,
+    "wof:lastmodified":1690879868,
     "wof:name":"Lavaj\u00e4rvi",
     "wof:parent_id":907199131,
     "wof:placetype":"locality",

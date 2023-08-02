@@ -28,6 +28,9 @@
     "name:fin_x_preferred":[
         "Maanp\u00e4\u00e4"
     ],
+    "name:fra_x_preferred":[
+        "Maanp\u00e4\u00e4"
+    ],
     "name:koi_x_preferred":[
         "\u041c\u0430\u043d\u043f\u044f"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1126028437,
-    "wof:lastmodified":1566595348,
+    "wof:lastmodified":1690879871,
     "wof:name":"Maanp\u00e4\u00e4",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

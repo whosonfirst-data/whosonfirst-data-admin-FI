@@ -25,6 +25,9 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Piikajarvi"
     ],
+    "name:zho_x_preferred":[
+        "\u76ae\u5361\u8036\u5c14\u7ef4\u673a\u573a"
+    ],
     "oa:elevation_ft":"148",
     "oa:type":"small_airport",
     "src:geom":"wikidata",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":102553385,
-    "wof:lastmodified":1631743343,
+    "wof:lastmodified":1690879651,
     "wof:name":"Piikajarvi lentokentt\u00e4",
     "wof:parent_id":85683095,
     "wof:placetype":"campus",

@@ -29,19 +29,40 @@
     "name:ceb_x_preferred":[
         "Juupajoki"
     ],
+    "name:ces_x_preferred":[
+        "Juupajoki"
+    ],
+    "name:cym_x_preferred":[
+        "Juupajoki"
+    ],
+    "name:dan_x_preferred":[
+        "Juupajoki"
+    ],
     "name:deu_x_preferred":[
         "Juupajoki"
     ],
     "name:eng_x_preferred":[
         "Juupajoki"
     ],
+    "name:epo_x_preferred":[
+        "Juupajoki"
+    ],
     "name:est_x_preferred":[
         "Juupajoki vald"
+    ],
+    "name:eus_x_preferred":[
+        "Juupajoki"
     ],
     "name:fin_x_preferred":[
         "Juupajoki"
     ],
+    "name:fit_x_preferred":[
+        "Juupajoki"
+    ],
     "name:fra_x_preferred":[
+        "Juupajoki"
+    ],
+    "name:gle_x_preferred":[
         "Juupajoki"
     ],
     "name:glg_x_preferred":[
@@ -53,10 +74,19 @@
     "name:nld_x_preferred":[
         "Juupajoki"
     ],
+    "name:nno_x_preferred":[
+        "Juupajoki"
+    ],
     "name:nob_x_preferred":[
         "Juupajoki"
     ],
     "name:pol_x_preferred":[
+        "Juupajoki"
+    ],
+    "name:por_x_preferred":[
+        "Juupajoki"
+    ],
+    "name:rmf_x_preferred":[
         "Juupajoki"
     ],
     "name:ron_x_preferred":[
@@ -68,10 +98,31 @@
     "name:sco_x_preferred":[
         "Juupajoki"
     ],
+    "name:sje_x_preferred":[
+        "Juupajoki"
+    ],
+    "name:sju_x_preferred":[
+        "Juupajoki"
+    ],
     "name:slv_x_preferred":[
         "Juupajoki"
     ],
+    "name:sma_x_preferred":[
+        "Juupajoki"
+    ],
     "name:sme_x_preferred":[
+        "Juupajoki"
+    ],
+    "name:smj_x_preferred":[
+        "Juupajoki"
+    ],
+    "name:smn_x_preferred":[
+        "Juupajoki"
+    ],
+    "name:sms_x_preferred":[
+        "Juupajoki"
+    ],
+    "name:spa_x_preferred":[
         "Juupajoki"
     ],
     "name:sqi_x_preferred":[
@@ -81,6 +132,9 @@
         "Juupajoki"
     ],
     "name:tur_x_preferred":[
+        "Juupajoki"
+    ],
+    "name:uzb_x_preferred":[
         "Juupajoki"
     ],
     "name:vie_x_preferred":[
@@ -143,7 +197,7 @@
         }
     ],
     "wof:id":1126051915,
-    "wof:lastmodified":1566595356,
+    "wof:lastmodified":1690879873,
     "wof:name":"Juupajoki",
     "wof:parent_id":907199385,
     "wof:placetype":"locality",

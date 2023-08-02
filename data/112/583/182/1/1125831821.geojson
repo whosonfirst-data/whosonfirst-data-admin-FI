@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0643\u0627"
+    ],
     "name:ast_x_preferred":[
         "Akaa"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043a\u0430\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043a\u0430\u0430"
     ],
     "name:cat_x_preferred":[
         "Akaa"
@@ -52,6 +58,9 @@
     "name:eng_x_preferred":[
         "Akaa"
     ],
+    "name:epo_x_preferred":[
+        "Akaa"
+    ],
     "name:est_x_preferred":[
         "Akaa linn"
     ],
@@ -62,6 +71,9 @@
         "Akaa"
     ],
     "name:fra_x_preferred":[
+        "Akaa"
+    ],
+    "name:gle_x_preferred":[
         "Akaa"
     ],
     "name:glg_x_preferred":[
@@ -84,6 +96,9 @@
     ],
     "name:lat_x_preferred":[
         "Akaa"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0410\u043a\u0430\u0430"
     ],
     "name:mrj_x_preferred":[
         "\u0410\u043a\u0430\u0430"
@@ -127,6 +142,12 @@
     "name:sme_x_preferred":[
         "Akaa"
     ],
+    "name:smn_x_preferred":[
+        "Akaa"
+    ],
+    "name:sms_x_preferred":[
+        "Akaa"
+    ],
     "name:spa_x_preferred":[
         "Akaa"
     ],
@@ -139,6 +160,9 @@
     "name:swe_x_variant":[
         "Akaa"
     ],
+    "name:szl_x_preferred":[
+        "Akaa"
+    ],
     "name:tur_x_preferred":[
         "Akaa"
     ],
@@ -147,6 +171,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06a9\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Akaa"
     ],
     "name:vep_x_preferred":[
         "Akaa"
@@ -199,7 +226,7 @@
         }
     ],
     "wof:id":1125831821,
-    "wof:lastmodified":1566595461,
+    "wof:lastmodified":1690879903,
     "wof:name":"Akaa",
     "wof:parent_id":907199731,
     "wof:placetype":"locality",

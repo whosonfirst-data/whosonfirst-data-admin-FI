@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Pohjavaara"
+    ],
     "name:eng_x_preferred":[
         "Pohjavaara"
     ],
@@ -32,6 +35,9 @@
         "Pohjavaara"
     ],
     "name:swe_x_preferred":[
+        "Pohjavaara"
+    ],
+    "name:uzb_x_preferred":[
         "Pohjavaara"
     ],
     "qs_pg:aaroncc":"FI",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125925203,
-    "wof:lastmodified":1566595342,
+    "wof:lastmodified":1690879869,
     "wof:name":"Pohjavaara",
     "wof:parent_id":907199319,
     "wof:placetype":"locality",

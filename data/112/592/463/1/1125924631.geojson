@@ -31,6 +31,9 @@
     "name:fin_x_preferred":[
         "Kaistarniemi"
     ],
+    "name:fra_x_preferred":[
+        "Kaistarniemi"
+    ],
     "name:isl_x_preferred":[
         "Kaistarudden"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125924631,
-    "wof:lastmodified":1566595342,
+    "wof:lastmodified":1690879869,
     "wof:name":"Kaistarniemi",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

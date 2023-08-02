@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "Amuri"
+    ],
     "name:eng_x_preferred":[
         "Amuri"
     ],
@@ -32,6 +35,24 @@
         "Amuri"
     ],
     "name:fra_x_preferred":[
+        "Amuri"
+    ],
+    "name:nob_x_preferred":[
+        "Amuri"
+    ],
+    "name:sme_x_preferred":[
+        "Amuri"
+    ],
+    "name:smn_x_preferred":[
+        "Amuri"
+    ],
+    "name:sms_x_preferred":[
+        "Amuri"
+    ],
+    "name:spa_x_preferred":[
+        "Amuri"
+    ],
+    "name:swe_x_preferred":[
         "Amuri"
     ],
     "src:geom":"mz",
@@ -81,7 +102,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1582312155,
+    "wof:lastmodified":1690879682,
     "wof:name":"Amuri",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",

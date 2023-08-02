@@ -20,10 +20,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "V\u00e4rtt\u00f6"
+    ],
     "name:eng_x_preferred":[
         "V\u00e4rtt\u00f6"
     ],
     "name:fin_x_preferred":[
+        "V\u00e4rtt\u00f6"
+    ],
+    "name:fra_x_preferred":[
+        "V\u00e4rtt\u00f6"
+    ],
+    "name:swe_x_preferred":[
         "V\u00e4rtt\u00f6"
     ],
     "qs_pg:aaroncc":"FI",
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1125812765,
-    "wof:lastmodified":1566595375,
+    "wof:lastmodified":1690879880,
     "wof:name":"V\u00e4rtt\u00f6",
     "wof:parent_id":907199459,
     "wof:placetype":"locality",

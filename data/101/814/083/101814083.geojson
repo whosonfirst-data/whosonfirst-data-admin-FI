@@ -23,7 +23,13 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0643\u064a\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0643\u064a\u0644\u0649"
+    ],
     "name:ast_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:avk_x_preferred":[
         "Mikkeli"
     ],
     "name:bel_x_preferred":[
@@ -83,7 +89,13 @@
     "name:fin_x_preferred":[
         "Mikkeli"
     ],
+    "name:fit_x_preferred":[
+        "Mikkeli"
+    ],
     "name:fra_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:gle_x_preferred":[
         "Mikkeli"
     ],
     "name:glg_x_preferred":[
@@ -98,7 +110,13 @@
     "name:hun_x_preferred":[
         "Mikkeli"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u056f\u056f\u0565\u056c\u056b"
+    ],
     "name:ind_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:isl_x_preferred":[
         "Mikkeli"
     ],
     "name:ita_x_preferred":[
@@ -109,6 +127,9 @@
     ],
     "name:kal_x_preferred":[
         "Mikkeli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10d9\u10d4\u10da\u10d8"
     ],
     "name:koi_x_preferred":[
         "\u041c\u0438\u043a\u043a\u0435\u043b\u0438"
@@ -124,6 +145,12 @@
     ],
     "name:lit_x_preferred":[
         "Mikelis"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0438\u043a\u043a\u044d\u043b\u0438"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041c\u0438\u043a\u043a\u0435\u043b\u0438"
     ],
     "name:mrj_x_preferred":[
         "\u041c\u0438\u043a\u043a\u0435\u043b\u0438"
@@ -141,7 +168,8 @@
         "St. Michel"
     ],
     "name:nno_x_variant":[
-        "S:t Michel"
+        "S:t Michel",
+        "Sankt Michel"
     ],
     "name:nob_x_preferred":[
         "Sankt Michel"
@@ -151,6 +179,9 @@
     ],
     "name:nor_x_preferred":[
         "St. Michel"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0438\u043a\u043a\u0435\u043b\u0438"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u06a9\u06cc\u0644\u06cc"
@@ -170,6 +201,9 @@
     "name:sco_x_preferred":[
         "Mikkeli"
     ],
+    "name:sjd_x_preferred":[
+        "\u041c\u0438\u043a\u043a\u0435\u043b\u0438"
+    ],
     "name:slk_x_preferred":[
         "Mikkeli"
     ],
@@ -177,6 +211,12 @@
         "Mikkeli"
     ],
     "name:sme_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:smn_x_preferred":[
+        "Mikkeli"
+    ],
+    "name:sms_x_preferred":[
         "Mikkeli"
     ],
     "name:spa_x_preferred":[
@@ -209,11 +249,20 @@
     "name:urd_x_preferred":[
         "\u0645\u06cc\u06a9\u06cc\u0644\u06cc"
     ],
+    "name:uzb_x_preferred":[
+        "Mikkeli"
+    ],
     "name:vep_x_preferred":[
         "Mikoi"
     ],
     "name:vie_x_preferred":[
         "Mikkeli"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7c73\u51ef\u5229"
+    ],
+    "name:yue_x_preferred":[
+        "\u7c73\u57fa\u5229"
     ],
     "name:zho_x_preferred":[
         "\u7c73\u51f1\u5229"
@@ -367,7 +416,7 @@
         }
     ],
     "wof:id":101814083,
-    "wof:lastmodified":1636494411,
+    "wof:lastmodified":1690879807,
     "wof:name":"Mikkeli",
     "wof:parent_id":907198765,
     "wof:placetype":"locality",

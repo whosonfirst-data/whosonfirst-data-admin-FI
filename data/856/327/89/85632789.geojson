@@ -57,6 +57,9 @@
     "name:ang_x_preferred":[
         "\u0112alendisca \u012aega"
     ],
+    "name:anp_x_preferred":[
+        "\u0911\u0932\u0948\u0923\u094d\u0921"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u0623\u0648\u0644\u0627\u0646\u062f"
     ],
@@ -100,6 +103,9 @@
     "name:ben_x_variant":[
         "\u0986\u09b2\u09be\u09a8\u09cd\u09a1 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c",
         "\u0985\u09b2\u09be\u09a8\u09cd\u09a6 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
+    ],
+    "name:bis_x_preferred":[
+        "Oland aelan"
     ],
     "name:bos_x_preferred":[
         "Alandska ostrva"
@@ -163,6 +169,9 @@
     ],
     "name:deu_x_variant":[
         "Alandinseln"
+    ],
+    "name:diq_x_preferred":[
+        "\u00c5land"
     ],
     "name:dsb_x_preferred":[
         "\u00c5land"
@@ -258,6 +267,9 @@
     "name:guj_x_variant":[
         "\u0a8f\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
     ],
+    "name:hak_x_preferred":[
+        "\u00c5land Khi\u00f9n-t\u00f3"
+    ],
     "name:hau_x_preferred":[
         "\u00c5land"
     ],
@@ -340,6 +352,9 @@
     "name:kor_x_preferred":[
         "\uc62c\ub780\ub4dc \uc81c\ub3c4"
     ],
+    "name:kur_x_preferred":[
+        "\u00c5lenda"
+    ],
     "name:lat_x_preferred":[
         "Alandia"
     ],
@@ -363,6 +378,9 @@
     ],
     "name:lmo_x_preferred":[
         "Isol \u00c5land"
+    ],
+    "name:ltz_x_preferred":[
+        "\u00c5land"
     ],
     "name:mal_x_preferred":[
         "\u0d05\u0d32\u0d28\u0d4d\u200d\u0d21\u0d4d \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d41\u0d15\u0d33\u0d4d\u200d"
@@ -480,6 +498,9 @@
     "name:sco_x_preferred":[
         "\u00c5land Islands"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u1030\u1087\u1075\u102f\u107c\u103a \u1022\u1031\u1083\u1038\u101c\u1085\u107c\u103a\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0d95\u0dbd\u0db1\u0dca\u0da9\u0dca \u0daf\u0dd6\u0db4\u0dad\u0dca"
     ],
@@ -490,7 +511,8 @@
         "Alandsk\u00e9 ostrovy"
     ],
     "name:slk_x_variant":[
-        "\u00c5landy"
+        "\u00c5landy",
+        "Alandy"
     ],
     "name:slv_x_preferred":[
         "Alandsko oto\u010dje"
@@ -500,6 +522,15 @@
     ],
     "name:sme_x_preferred":[
         "\u00c5l\u00e1nda"
+    ],
+    "name:smn_x_preferred":[
+        "\u00c5land"
+    ],
+    "name:sms_x_preferred":[
+        "\u00c5laand m\u00e4ddk\u00e5\u02b9dd"
+    ],
+    "name:snd_x_preferred":[
+        "\u0622\u0644\u0646\u062f \u067b\u064a\u067d"
     ],
     "name:spa_x_preferred":[
         "Islas de \u00c5land"
@@ -554,6 +585,9 @@
     ],
     "name:tel_x_variant":[
         "\u0c06\u0c32\u0c02\u0c21\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
+    ],
+    "name:tet_x_preferred":[
+        "Nusar Al\u00e1ndia"
     ],
     "name:tgk_x_preferred":[
         "\u0410\u043b\u0430\u043d\u0434"
@@ -809,7 +843,7 @@
         "wof:parent_id"
     ],
     "wof:country":"FI",
-    "wof:geomhash":"e087d86fd86e7ca424537400e71725cf",
+    "wof:geomhash":"ced700e3fb8913ca9fd71cfdf028f4a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -821,7 +855,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1684351586,
+    "wof:lastmodified":1690879678,
     "wof:name":"Aland",
     "wof:parent_id":136253047,
     "wof:placetype":"dependency",

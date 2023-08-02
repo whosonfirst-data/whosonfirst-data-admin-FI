@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Anjala"
+    ],
     "name:ceb_x_preferred":[
         "Anjala"
     ],
@@ -34,10 +37,19 @@
     "name:est_x_preferred":[
         "Anjala"
     ],
+    "name:est_x_variant":[
+        "Anjala vald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u06cc\u0627\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Anjala"
     ],
     "name:fra_x_preferred":[
+        "Anjala"
+    ],
+    "name:gle_x_preferred":[
         "Anjala"
     ],
     "name:nob_x_preferred":[
@@ -52,8 +64,23 @@
     "name:rus_x_variant":[
         "\u0410\u043d\u044c\u044f\u043b\u0430"
     ],
+    "name:sme_x_preferred":[
+        "Anjala"
+    ],
+    "name:smn_x_preferred":[
+        "Anjala"
+    ],
+    "name:sms_x_preferred":[
+        "Anjala"
+    ],
+    "name:spa_x_preferred":[
+        "Anjala"
+    ],
     "name:swe_x_preferred":[
         "Anjala"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u4e9a\u62c9"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -114,7 +141,7 @@
         }
     ],
     "wof:id":1125994271,
-    "wof:lastmodified":1566595397,
+    "wof:lastmodified":1690879888,
     "wof:name":"Anjala",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",

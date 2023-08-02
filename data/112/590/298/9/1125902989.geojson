@@ -31,10 +31,16 @@
     "name:eng_x_preferred":[
         "V\u00e4stanfj\u00e4rd"
     ],
+    "name:epo_x_preferred":[
+        "V\u00e4stanfj\u00e4rd"
+    ],
     "name:fin_x_preferred":[
         "V\u00e4stanfj\u00e4rd"
     ],
     "name:fra_x_preferred":[
+        "V\u00e4stanfj\u00e4rd"
+    ],
+    "name:gle_x_preferred":[
         "V\u00e4stanfj\u00e4rd"
     ],
     "name:ita_x_preferred":[
@@ -50,6 +56,9 @@
         "V\u00e4stanfj\u00e4rd"
     ],
     "name:sme_x_preferred":[
+        "V\u00e4stanfj\u00e4rd"
+    ],
+    "name:smn_x_preferred":[
         "V\u00e4stanfj\u00e4rd"
     ],
     "name:swe_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1125902989,
-    "wof:lastmodified":1566595401,
+    "wof:lastmodified":1690879890,
     "wof:name":"V\u00e4stanfj\u00e4rd",
     "wof:parent_id":907199735,
     "wof:placetype":"locality",

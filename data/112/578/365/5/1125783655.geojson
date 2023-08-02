@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Sep\u00e4nkyl\u00e4"
     ],
+    "name:deu_x_preferred":[
+        "Sep\u00e4nkyl\u00e4"
+    ],
     "name:eng_x_preferred":[
         "Sep\u00e4nkyl\u00e4"
     ],
@@ -35,6 +38,15 @@
         "Sep\u00e4nkyl\u00e4"
     ],
     "name:nld_x_preferred":[
+        "Sep\u00e4nkyl\u00e4"
+    ],
+    "name:sme_x_preferred":[
+        "Sep\u00e4nkyl\u00e4"
+    ],
+    "name:smn_x_preferred":[
+        "Sep\u00e4nkyl\u00e4"
+    ],
+    "name:sms_x_preferred":[
         "Sep\u00e4nkyl\u00e4"
     ],
     "name:swe_x_preferred":[
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1125783655,
-    "wof:lastmodified":1566595443,
+    "wof:lastmodified":1690879899,
     "wof:name":"Sep\u00e4nkyl\u00e4",
     "wof:parent_id":907198511,
     "wof:placetype":"locality",

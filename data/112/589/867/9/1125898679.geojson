@@ -28,6 +28,12 @@
     "name:ast_x_preferred":[
         "Raasepori"
     ],
+    "name:ast_x_variant":[
+        "Raseborg"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0441\u0435\u0431\u0430\u0440\u0433"
+    ],
     "name:ceb_x_preferred":[
         "Raseborg"
     ],
@@ -46,10 +52,16 @@
     "name:est_x_preferred":[
         "Raseborgi linn"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0633\u0647\u200c\u067e\u0648\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Raasepori"
     ],
     "name:fra_x_preferred":[
+        "Raseborg"
+    ],
+    "name:gle_x_preferred":[
         "Raseborg"
     ],
     "name:glg_x_preferred":[
@@ -85,6 +97,9 @@
     "name:pol_x_preferred":[
         "Raasepori"
     ],
+    "name:pol_x_variant":[
+        "Raseborg"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0441\u0435\u0431\u043e\u0440\u0433"
     ],
@@ -96,6 +111,9 @@
     ],
     "name:sgs_x_variant":[
         "Raseborg"
+    ],
+    "name:smn_x_preferred":[
+        "Raasepori"
     ],
     "name:spa_x_preferred":[
         "Raseborg"
@@ -114,6 +132,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u0633\u06d2 \u0628\u0648\u0631\u06af"
+    ],
+    "name:vep_x_preferred":[
+        "Raseborg"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u585e\u535a\u683c"
@@ -177,7 +198,7 @@
         }
     ],
     "wof:id":1125898679,
-    "wof:lastmodified":1566595382,
+    "wof:lastmodified":1690879884,
     "wof:name":"Raseborg",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

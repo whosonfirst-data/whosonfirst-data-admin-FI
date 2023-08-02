@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"25.0920470435,60.2364292812,25.0920470435,60.2364292812",
+    "geom:bbox":"25.092047,60.236429,25.092047,60.236429",
     "geom:latitude":60.236429,
     "geom:longitude":25.092047,
     "iso:country":"FI",
@@ -23,6 +23,9 @@
     "mz:max_zoom":16.0,
     "mz:min_zoom":12.0,
     "mz:tier_metro":30,
+    "name:cat_x_preferred":[
+        "Mellunkyl\u00e4"
+    ],
     "name:ceb_x_preferred":[
         "Mellunkyl\u00e4"
     ],
@@ -35,7 +38,13 @@
     "name:est_x_preferred":[
         "Mellunkyl\u00e4"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0644\u0648\u0646\u200c\u06a9\u0648\u0644\u0647"
+    ],
     "name:fin_x_preferred":[
+        "Mellunkyl\u00e4"
+    ],
+    "name:fit_x_preferred":[
         "Mellunkyl\u00e4"
     ],
     "name:fra_x_preferred":[
@@ -44,8 +53,26 @@
     "name:nld_x_preferred":[
         "Mellunkyl\u00e4"
     ],
+    "name:nob_x_preferred":[
+        "Mellunkyl\u00e4"
+    ],
+    "name:sme_x_preferred":[
+        "Mellunkyl\u00e4"
+    ],
+    "name:smn_x_preferred":[
+        "Mellunkyl\u00e4"
+    ],
+    "name:sms_x_preferred":[
+        "Mellunkyl\u00e4"
+    ],
+    "name:spa_x_preferred":[
+        "Mellunkyl\u00e4"
+    ],
     "name:swe_x_preferred":[
         "Mellungsby"
+    ],
+    "name:tur_x_preferred":[
+        "Mellunkyl\u00e4"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043b\u043b\u0443\u043d\u043a\u044e\u043b\u044f"
@@ -69,7 +96,7 @@
     },
     "wof:country":"FI",
     "wof:created":1491360380,
-    "wof:geomhash":"fb5f835e1f2858715e10049bfc98ecfa",
+    "wof:geomhash":"c59c5a56001caab5168ae67e05d3c6cb",
     "wof:hierarchy":[
         {
             "borough_id":890536881,
@@ -86,7 +113,7 @@
         }
     ],
     "wof:id":1108938441,
-    "wof:lastmodified":1566595023,
+    "wof:lastmodified":1690879710,
     "wof:name":"Mellunkyla",
     "wof:parent_id":890537253,
     "wof:placetype":"neighbourhood",
@@ -96,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.09204704347062,
-    60.23642928121346,
-    25.09204704347062,
-    60.23642928121346
+    25.092047,
+    60.236429,
+    25.092047,
+    60.236429
 ],
-  "geometry": {"coordinates":[25.09204704347062,60.23642928121346],"type":"Point"}
+  "geometry": {"coordinates":[25.092047,60.236429],"type":"Point"}
 }

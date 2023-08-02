@@ -27,16 +27,25 @@
     "name:ceb_x_preferred":[
         "Muurla"
     ],
+    "name:dan_x_preferred":[
+        "Muurla"
+    ],
     "name:deu_x_preferred":[
         "Muurla"
     ],
     "name:eng_x_preferred":[
         "Muurla"
     ],
+    "name:epo_x_preferred":[
+        "Muurla"
+    ],
     "name:fin_x_preferred":[
         "Muurla"
     ],
     "name:fra_x_preferred":[
+        "Muurla"
+    ],
+    "name:gle_x_preferred":[
         "Muurla"
     ],
     "name:ita_x_preferred":[
@@ -55,6 +64,15 @@
         "Muurla"
     ],
     "name:sme_x_preferred":[
+        "Muurla"
+    ],
+    "name:smn_x_preferred":[
+        "Muurla"
+    ],
+    "name:sms_x_preferred":[
+        "Muurla"
+    ],
+    "name:spa_x_preferred":[
         "Muurla"
     ],
     "name:swe_x_preferred":[
@@ -117,7 +135,7 @@
         }
     ],
     "wof:id":101872793,
-    "wof:lastmodified":1582312170,
+    "wof:lastmodified":1690879726,
     "wof:name":"Muurla",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

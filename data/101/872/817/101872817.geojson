@@ -464,7 +464,13 @@
     "name:sme_x_preferred":[
         "Luoma-aho"
     ],
+    "name:smn_x_preferred":[
+        "Luoma-aho"
+    ],
     "name:smo_x_preferred":[
+        "Luoma-aho"
+    ],
+    "name:sms_x_preferred":[
         "Luoma-aho"
     ],
     "name:sna_x_preferred":[
@@ -632,7 +638,7 @@
         }
     ],
     "wof:id":101872817,
-    "wof:lastmodified":1582312170,
+    "wof:lastmodified":1690879723,
     "wof:name":"Luoma-aho",
     "wof:parent_id":907199105,
     "wof:placetype":"locality",

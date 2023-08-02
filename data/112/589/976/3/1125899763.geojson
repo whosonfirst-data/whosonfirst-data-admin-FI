@@ -34,6 +34,9 @@
     "name:fin_x_preferred":[
         "Pitk\u00e4m\u00e4ki"
     ],
+    "name:fra_x_preferred":[
+        "Pitk\u00e4m\u00e4ki"
+    ],
     "name:koi_x_preferred":[
         "\u041f\u0438\u0442\u043a\u044f\u043c\u044f\u043a\u0438"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125899763,
-    "wof:lastmodified":1566595382,
+    "wof:lastmodified":1690879884,
     "wof:name":"Pitk\u00e4m\u00e4ki",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

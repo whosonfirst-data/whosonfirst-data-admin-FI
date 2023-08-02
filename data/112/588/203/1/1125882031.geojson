@@ -31,6 +31,9 @@
     "name:fin_x_preferred":[
         "Halinen"
     ],
+    "name:fra_x_preferred":[
+        "Halinen"
+    ],
     "name:isl_x_preferred":[
         "Hallis"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125882031,
-    "wof:lastmodified":1566595377,
+    "wof:lastmodified":1690879881,
     "wof:name":"Halinen",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

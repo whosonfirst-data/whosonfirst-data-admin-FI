@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Hossa"
+    ],
     "name:eng_x_preferred":[
         "Hossa"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0441\u0441\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Hossa"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125979527,
-    "wof:lastmodified":1566595402,
+    "wof:lastmodified":1690879890,
     "wof:name":"Hossa",
     "wof:parent_id":907199501,
     "wof:placetype":"locality",

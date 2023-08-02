@@ -52,10 +52,16 @@
     "name:eus_x_preferred":[
         "Posio"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0633\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Posio"
     ],
     "name:fra_x_preferred":[
+        "Posio"
+    ],
+    "name:gle_x_preferred":[
         "Posio"
     ],
     "name:glg_x_preferred":[
@@ -70,11 +76,20 @@
     "name:jpn_x_preferred":[
         "\u30dd\u30b7\u30aa"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10e1\u10d8\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\uc2dc\uc624"
+    ],
     "name:lat_x_preferred":[
         "Posio"
     ],
     "name:ltz_x_preferred":[
         "Posio"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041f\u043e\u0441\u0438\u043e"
     ],
     "name:nld_x_preferred":[
         "Posio"
@@ -99,6 +114,9 @@
     ],
     "name:sme_x_preferred":[
         "Posio"
+    ],
+    "name:smn_x_preferred":[
+        "Pu\u00e1\u0161\u0161u"
     ],
     "name:spa_x_preferred":[
         "Posio"
@@ -177,7 +195,7 @@
         }
     ],
     "wof:id":1125766283,
-    "wof:lastmodified":1566595439,
+    "wof:lastmodified":1690879897,
     "wof:name":"Per\u00e4posio",
     "wof:parent_id":907199533,
     "wof:placetype":"locality",

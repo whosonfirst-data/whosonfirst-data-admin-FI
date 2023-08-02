@@ -28,6 +28,9 @@
     "name:fin_x_preferred":[
         "Jysk\u00e4"
     ],
+    "name:nld_x_preferred":[
+        "Jysk\u00e4"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125807115,
-    "wof:lastmodified":1566595389,
+    "wof:lastmodified":1690879886,
     "wof:name":"Jysk\u00e4",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

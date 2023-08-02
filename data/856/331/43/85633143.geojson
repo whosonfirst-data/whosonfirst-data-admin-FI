@@ -36,6 +36,9 @@
     "name:abk_x_preferred":[
         "\u0421\u0443\u043e\u043c\u0438"
     ],
+    "name:abk_x_variant":[
+        "\u0424\u0438\u043d\u043b\u0438\u0430\u043d\u0434\u0438\u0430"
+    ],
     "name:ace_x_preferred":[
         "Finlandia"
     ],
@@ -51,11 +54,20 @@
     "name:als_x_preferred":[
         "Finnland"
     ],
+    "name:alt_x_preferred":[
+        "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f"
+    ],
     "name:amh_x_preferred":[
         "\u134a\u1295\u120b\u1295\u12f5"
     ],
+    "name:ami_x_preferred":[
+        "Finland"
+    ],
     "name:ang_x_preferred":[
         "Finnland"
+    ],
+    "name:anp_x_preferred":[
+        "\u092b\u093f\u0928\u0932\u0948\u0902\u0921"
     ],
     "name:ara_x_preferred":[
         "\u0641\u0646\u0644\u0646\u062f\u0627"
@@ -83,6 +95,12 @@
     ],
     "name:ava_x_preferred":[
         "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f"
+    ],
+    "name:avk_x_preferred":[
+        "Suomia"
+    ],
+    "name:awa_x_preferred":[
+        "\u092b\u093c\u093f\u0928\u0932\u0948\u0923\u094d\u0921"
     ],
     "name:aym_x_preferred":[
         "Phini suyu"
@@ -198,6 +216,9 @@
     "name:cor_x_preferred":[
         "Pow Finn"
     ],
+    "name:cor_x_variant":[
+        "Fynndir"
+    ],
     "name:cos_x_preferred":[
         "Finlandia"
     ],
@@ -212,6 +233,12 @@
     ],
     "name:cym_x_preferred":[
         "Y Ffindir"
+    ],
+    "name:cym_x_variant":[
+        "y Ffindir"
+    ],
+    "name:dag_x_preferred":[
+        "Finland"
     ],
     "name:dan_x_preferred":[
         "Finland"
@@ -317,6 +344,9 @@
     "name:fin_x_variant":[
         "Suomen Tasavalta"
     ],
+    "name:fit_x_preferred":[
+        "Suomi"
+    ],
     "name:fra_x_preferred":[
         "Finlande"
     ],
@@ -325,6 +355,9 @@
     ],
     "name:frr_x_preferred":[
         "Finl\u00f6nj"
+    ],
+    "name:frr_x_variant":[
+        "Finlun"
     ],
     "name:fry_x_preferred":[
         "Finl\u00e2n"
@@ -377,11 +410,17 @@
     "name:gor_x_preferred":[
         "Pinlandia"
     ],
+    "name:gor_x_variant":[
+        "Finlandia"
+    ],
     "name:got_x_preferred":[
         "\ud800\udf46\ud800\udf39\ud800\udf3d\ud800\udf3d\ud800\udf30\ud800\udf37\ud800\udf30\ud800\udf39\ud800\udf38\ud800\udf39"
     ],
     "name:got_x_variant":[
         "\ud800\udf46\ud800\udf39\ud800\udf3d\ud800\udf3d\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
+    ],
+    "name:gpe_x_preferred":[
+        "Finland"
     ],
     "name:grn_x_preferred":[
         "H\u0129l\u00e1ndia"
@@ -394,6 +433,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac0\u0aa8\u0ab2\u0ac7\u0a82\u0aa1"
+    ],
+    "name:guw_x_preferred":[
+        "Finland"
     ],
     "name:hak_x_preferred":[
         "F\u00fbn-l\u00e0n"
@@ -481,6 +523,9 @@
     ],
     "name:jav_x_preferred":[
         "Finlandia"
+    ],
+    "name:jav_x_variant":[
+        "Finlan"
     ],
     "name:jbo_x_preferred":[
         "gugdrsu,omi"
@@ -599,6 +644,9 @@
     "name:lij_x_preferred":[
         "Finlandia"
     ],
+    "name:lij_x_variant":[
+        "Finl\u00e0ndia"
+    ],
     "name:lim_x_preferred":[
         "Finland"
     ],
@@ -613,6 +661,9 @@
     ],
     "name:liv_x_preferred":[
         "S\u016bom\u00f5m\u014d"
+    ],
+    "name:lld_x_preferred":[
+        "Finlandia"
     ],
     "name:lmo_x_preferred":[
         "Finlandia"
@@ -638,6 +689,9 @@
     "name:lzh_x_preferred":[
         "\u82ac\u862d"
     ],
+    "name:mad_x_preferred":[
+        "Finlandia"
+    ],
     "name:mai_x_preferred":[
         "\u092b\u093f\u0928\u0932\u094d\u092f\u093e\u0928\u094d\u0921"
     ],
@@ -652,6 +706,9 @@
     ],
     "name:mdf_x_preferred":[
         "\u0421\u0443\u043e\u043c\u0438 \u043c\u0430\u0441\u0442\u043e\u0440"
+    ],
+    "name:mdf_x_variant":[
+        "\u0421\u0443\u043e\u043c\u0438"
     ],
     "name:mhr_x_preferred":[
         "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u0439"
@@ -671,11 +728,17 @@
     "name:mlt_x_preferred":[
         "Finlandja"
     ],
+    "name:mni_x_preferred":[
+        "\uabd0\uabe4\uabdf\uabc2\uabe6\uabdf"
+    ],
     "name:mnw_x_preferred":[
         "\u101d\u103e\u1031\u1014\u103a\u101c\u102c\u1014\u103a"
     ],
     "name:mon_x_preferred":[
         "\u0424\u0438\u043d\u043b\u0430\u043d\u0434"
+    ],
+    "name:mos_x_preferred":[
+        "Finland"
     ],
     "name:mri_x_preferred":[
         "Hinerangi"
@@ -735,6 +798,9 @@
     "name:new_x_preferred":[
         "\u092b\u093f\u0928\u0932\u094d\u092f\u093e\u0928\u094d\u0921"
     ],
+    "name:nia_x_preferred":[
+        "Finlandia"
+    ],
     "name:nld_x_preferred":[
         "Finland"
     ],
@@ -783,6 +849,9 @@
     "name:pam_x_preferred":[
         "Pinlandya"
     ],
+    "name:pam_x_variant":[
+        "Finlandia"
+    ],
     "name:pan_x_preferred":[
         "\u0a2b\u0a3c\u0a3f\u0a28\u0a32\u0a48\u0a02\u0a21"
     ],
@@ -827,6 +896,9 @@
     ],
     "name:pus_x_variant":[
         "\u0641\u0646\u0644\u06cc\u0646\u0689"
+    ],
+    "name:pwn_x_preferred":[
+        "vinlan"
     ],
     "name:que_x_preferred":[
         "Phinsuyu"
@@ -885,14 +957,29 @@
     "name:sgs_x_preferred":[
         "Soum\u0117j\u0117"
     ],
+    "name:sgs_x_variant":[
+        "Suom\u0117j\u0117"
+    ],
+    "name:shi_x_preferred":[
+        "Finlandya"
+    ],
     "name:shn_x_preferred":[
         "\u1019\u102d\u1030\u1004\u103a\u1038\u107d\u102d\u107c\u103a\u1087\u101c\u1062\u107c\u103a\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0dc6\u0dd2\u0db1\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba"
     ],
+    "name:sjd_x_preferred":[
+        "\u041b\u0430\u0304\u0434\u0442\u048d\u0435\u0304\u043c\u043c\u044c\u043d\u0435"
+    ],
     "name:sje_x_preferred":[
         "Suobma"
+    ],
+    "name:sje_x_variant":[
+        "S\u00e5bm\u00e1"
+    ],
+    "name:skr_x_preferred":[
+        "\u0641\u0646\u0644\u06cc\u0646\u0688"
     ],
     "name:slk_x_preferred":[
         "F\u00ednsko"
@@ -999,6 +1086,9 @@
     "name:tat_x_variant":[
         "\u0424\u0438\u043d\u043b\u04d9\u043d\u0434\u0438\u044f"
     ],
+    "name:tay_x_preferred":[
+        "Finland"
+    ],
     "name:tcy_x_preferred":[
         "\u0cab\u0cbf\u0ca8\u0ccd\u0ca8\u0cbf\u0cb6\u0ccd"
     ],
@@ -1030,11 +1120,17 @@
     "name:tir_x_variant":[
         "\u12e8\u134a\u1295\u120b\u1295\u12f5"
     ],
+    "name:tok_x_preferred":[
+        "ma Sumi"
+    ],
     "name:ton_x_preferred":[
         "Finilani"
     ],
     "name:tpi_x_preferred":[
         "Pinlan"
+    ],
+    "name:trv_x_preferred":[
+        "Finland"
     ],
     "name:tsn_x_preferred":[
         "Finland"
@@ -1079,6 +1175,9 @@
     ],
     "name:vec_x_preferred":[
         "Finlandia"
+    ],
+    "name:vec_x_variant":[
+        "Finl\u00e0ndia"
     ],
     "name:ven_x_preferred":[
         "Finland"
@@ -1360,7 +1459,7 @@
         "quattroshapes",
         "naturalearth"
     ],
-    "wof:geomhash":"d8d76ef37a0ded3c061fe65032134a44",
+    "wof:geomhash":"63ea47ea0ce0f113485618657e3315da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1377,7 +1476,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1684351361,
+    "wof:lastmodified":1690879661,
     "wof:name":"Finland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

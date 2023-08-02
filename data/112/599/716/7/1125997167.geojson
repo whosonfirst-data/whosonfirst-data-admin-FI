@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Nuorgam"
     ],
+    "name:epo_x_preferred":[
+        "Nuorgam"
+    ],
     "name:est_x_preferred":[
         "Nuorgam"
     ],
@@ -67,6 +70,9 @@
     "name:nob_x_preferred":[
         "Nuorgam"
     ],
+    "name:pol_x_preferred":[
+        "Nuorgam"
+    ],
     "name:por_x_preferred":[
         "Nuorgam"
     ],
@@ -88,8 +94,17 @@
     "name:swe_x_preferred":[
         "Nuorgam"
     ],
+    "name:tur_x_preferred":[
+        "Nuorgam"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u043e\u0440\u0433\u0430\u043c"
+    ],
     "name:und_x_variant":[
         "Nurogam"
+    ],
+    "name:zho_x_preferred":[
+        "\u632a\u5c14\u52a0\u59c6"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -149,7 +164,7 @@
         }
     ],
     "wof:id":1125997167,
-    "wof:lastmodified":1566595399,
+    "wof:lastmodified":1690879888,
     "wof:name":"Nuorgam",
     "wof:parent_id":907199575,
     "wof:placetype":"locality",

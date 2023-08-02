@@ -28,6 +28,9 @@
     "name:fin_x_preferred":[
         "Mossala"
     ],
+    "name:fra_x_preferred":[
+        "Mossala"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1126021371,
-    "wof:lastmodified":1566595350,
+    "wof:lastmodified":1690879871,
     "wof:name":"Mossala",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

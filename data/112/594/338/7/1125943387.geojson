@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u064a\u0627\u0644\u0627\u0633\u0686\u0627\u0631\u06a4\u0649"
+    ],
     "name:ceb_x_preferred":[
+        "Yll\u00e4sj\u00e4rvi"
+    ],
+    "name:deu_x_preferred":[
         "Yll\u00e4sj\u00e4rvi"
     ],
     "name:eng_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125943387,
-    "wof:lastmodified":1566595329,
+    "wof:lastmodified":1690879866,
     "wof:name":"Yll\u00e4sj\u00e4rvi",
     "wof:parent_id":907199583,
     "wof:placetype":"locality",

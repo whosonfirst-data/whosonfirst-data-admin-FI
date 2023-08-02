@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.9535162426,60.1819590996,24.9535162426,60.1819590996",
+    "geom:bbox":"24.953516,60.181959,24.953516,60.181959",
     "geom:latitude":60.181959,
     "geom:longitude":24.953516,
     "iso:country":"FI",
@@ -35,8 +35,14 @@
     "name:eng_x_preferred":[
         "Kallio"
     ],
+    "name:epo_x_preferred":[
+        "Kallio"
+    ],
     "name:est_x_preferred":[
         "Kallio"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0644\u0644\u06cc\u0648"
     ],
     "name:fin_x_preferred":[
         "Kallio"
@@ -53,6 +59,9 @@
     "name:ita_x_preferred":[
         "Kallio"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30c3\u30ea\u30aa"
+    ],
     "name:nld_x_preferred":[
         "Kallio"
     ],
@@ -68,8 +77,17 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u043b\u0438\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Kallio"
+    ],
     "name:swe_x_preferred":[
         "Bergh\u00e4ll"
+    ],
+    "name:tur_x_preferred":[
+        "Kallio"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5229\u5965"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -90,7 +108,7 @@
     },
     "wof:country":"FI",
     "wof:created":1491360402,
-    "wof:geomhash":"66b88b4b90d8f3c0e9cfa7115c01475a",
+    "wof:geomhash":"117a77c19af9a0264b404852cb357908",
     "wof:hierarchy":[
         {
             "borough_id":890536885,
@@ -107,7 +125,7 @@
         }
     ],
     "wof:id":1108938463,
-    "wof:lastmodified":1566595024,
+    "wof:lastmodified":1690879710,
     "wof:name":"Kallio",
     "wof:parent_id":890537285,
     "wof:placetype":"neighbourhood",
@@ -117,10 +135,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.95351624256735,
-    60.18195909961933,
-    24.95351624256735,
-    60.18195909961933
+    24.953516,
+    60.181959,
+    24.953516,
+    60.181959
 ],
-  "geometry": {"coordinates":[24.95351624256735,60.18195909961933],"type":"Point"}
+  "geometry": {"coordinates":[24.953516,60.181959],"type":"Point"}
 }

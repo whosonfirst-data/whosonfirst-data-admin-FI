@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0445\u0443\u043b\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Karhula"
+    ],
     "name:ceb_x_preferred":[
         "Karhula"
     ],
@@ -32,6 +35,9 @@
         "Karhula"
     ],
     "name:eng_x_preferred":[
+        "Karhula"
+    ],
+    "name:epo_x_preferred":[
         "Karhula"
     ],
     "name:est_x_preferred":[
@@ -43,8 +49,14 @@
     "name:fra_x_preferred":[
         "Karhula"
     ],
+    "name:gle_x_preferred":[
+        "Karhula"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30eb\u30d5\u30e9"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041a\u0430\u0440\u0445\u0443\u043b\u0430"
     ],
     "name:nld_x_preferred":[
         "Karhula"
@@ -54,6 +66,21 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0445\u0443\u043b\u0430"
+    ],
+    "name:sjd_x_preferred":[
+        "\u041a\u0430\u0440\u0445\u0443\u043b\u0430"
+    ],
+    "name:sme_x_preferred":[
+        "Karhula"
+    ],
+    "name:smn_x_preferred":[
+        "Karhula"
+    ],
+    "name:sms_x_preferred":[
+        "Karhula"
+    ],
+    "name:spa_x_preferred":[
+        "Karhula"
     ],
     "name:swe_x_preferred":[
         "Karhula"
@@ -117,7 +144,7 @@
         }
     ],
     "wof:id":1126005405,
-    "wof:lastmodified":1566595436,
+    "wof:lastmodified":1690879897,
     "wof:name":"Karhula",
     "wof:parent_id":907198683,
     "wof:placetype":"locality",

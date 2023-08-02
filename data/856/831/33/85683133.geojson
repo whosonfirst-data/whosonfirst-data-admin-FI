@@ -42,6 +42,15 @@
     "name:ast_x_preferred":[
         "Carelia del Norte"
     ],
+    "name:avk_x_preferred":[
+        "SuomiaPohjoisKarjalaGola"
+    ],
+    "name:aze_x_preferred":[
+        "\u015eimali Kareliya"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430\u044f \u041a\u0430\u0440\u044d\u043b\u0456\u044f"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09c7\u09b2\u09bf\u09af\u09bc\u09be"
     ],
@@ -98,6 +107,12 @@
     "name:fra_x_preferred":[
         "Car\u00e9lie du Nord"
     ],
+    "name:frr_x_preferred":[
+        "Nuurdkareelien"
+    ],
+    "name:gle_x_preferred":[
+        "An Chair\u00e9il Thuaidh"
+    ],
     "name:glg_x_preferred":[
         "Carelia do Norte"
     ],
@@ -124,6 +139,9 @@
     ],
     "name:ind_x_preferred":[
         "North Karelia"
+    ],
+    "name:isl_x_preferred":[
+        "Nor\u00f0ur-Karel\u00eda"
     ],
     "name:ita_x_preferred":[
         "Carelia settentrionale"
@@ -164,8 +182,14 @@
     "name:msa_x_preferred":[
         "North Karelia"
     ],
+    "name:nan_x_preferred":[
+        "Pak Karelia T\u014da-khu"
+    ],
     "name:nld_x_preferred":[
         "Pohjois-Karjala"
+    ],
+    "name:nld_x_variant":[
+        "Noord-Kareli\u00eb"
     ],
     "name:nno_x_preferred":[
         "Norra Karelen"
@@ -181,6 +205,12 @@
     ],
     "name:nor_x_variant":[
         "Nord-Karelen"
+    ],
+    "name:olo_x_preferred":[
+        "Pohjas-Karjalan muakundu"
+    ],
+    "name:oss_x_preferred":[
+        "\u0426\u00e6\u0433\u0430\u0442 \u041a\u0430\u0440\u0435\u043b\u0438"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u062a\u0644\u0627 \u06a9\u0631\u06cc\u0644\u06cc\u0627"
@@ -212,6 +242,12 @@
     "name:sme_x_preferred":[
         "Davvi-G\u00e1rjila eanangoddi"
     ],
+    "name:smn_x_preferred":[
+        "Tave-K\u00e4rjil eenn\u00e2mkodde\u200e"
+    ],
+    "name:sms_x_preferred":[
+        "T\u00e2\u02b9vv-Ka\u02b9rjjel m\u00e4ddk\u00e5\u02b9dd"
+    ],
     "name:spa_x_preferred":[
         "Karelia del Norte"
     ],
@@ -233,6 +269,9 @@
     "name:tam_x_preferred":[
         "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0b95\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c30\u0c4d\u0c24\u0c4d \u0c15\u0c30\u0c47\u0c32\u0c3f\u0c2f\u0c3e"
     ],
@@ -250,6 +289,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u1eafc Karelia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5317\u5361\u7d2f\u5229\u963f\u533a"
     ],
     "name:zho_x_preferred":[
         "\u5317\u5361\u7d2f\u5229\u963f\u5340"
@@ -350,7 +392,7 @@
         "wd:id":"Q5703"
     },
     "wof:country":"FI",
-    "wof:geomhash":"de9348e2f78ddd796b546d49752ce51b",
+    "wof:geomhash":"e5c91f1cfdf2d6d772042c24a3091cae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -369,7 +411,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1684351582,
+    "wof:lastmodified":1690879663,
     "wof:name":"North Karelen",
     "wof:parent_id":404227407,
     "wof:placetype":"region",

@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0648\u0646\u064a\u0627\u064a\u0646\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0648\u0646\u064a\u0627\u064a\u0646\u0646"
+    ],
     "name:ast_x_preferred":[
         "Kauniainen"
     ],
@@ -47,6 +50,9 @@
     "name:eng_x_preferred":[
         "Kauniainen"
     ],
+    "name:epo_x_preferred":[
+        "Kauniainen"
+    ],
     "name:est_x_preferred":[
         "Kauniainen"
     ],
@@ -60,6 +66,9 @@
         "Kauniainen"
     ],
     "name:fra_x_preferred":[
+        "Kauniainen"
+    ],
+    "name:gle_x_preferred":[
         "Kauniainen"
     ],
     "name:glg_x_preferred":[
@@ -92,6 +101,9 @@
     "name:lit_x_preferred":[
         "Kauniainenas"
     ],
+    "name:mhr_x_preferred":[
+        "\u041a\u0430\u0443\u043d\u0438\u0430\u0439\u043d\u0435\u043d"
+    ],
     "name:mrj_x_preferred":[
         "\u041a\u0430\u0443\u043d\u0438\u0430\u0439\u043d\u0435\u043d"
     ],
@@ -106,6 +118,9 @@
     ],
     "name:nor_x_preferred":[
         "Grankulla"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0430\u0443\u043d\u0438\u0430\u0439\u043d\u0435\u043d"
     ],
     "name:pol_x_preferred":[
         "Kauniainen"
@@ -125,10 +140,31 @@
     "name:sco_x_preferred":[
         "Kauniainen"
     ],
+    "name:sjd_x_preferred":[
+        "\u041a\u0430\u0443\u043d\u0438\u0430\u0439\u043d\u0435\u043d"
+    ],
+    "name:sje_x_preferred":[
+        "Kauniainen"
+    ],
+    "name:sju_x_preferred":[
+        "Kauniainen"
+    ],
     "name:slk_x_preferred":[
         "Kauniainen"
     ],
+    "name:sma_x_preferred":[
+        "Kauniainen"
+    ],
     "name:sme_x_preferred":[
+        "Kauniainen"
+    ],
+    "name:smj_x_preferred":[
+        "Kauniainen"
+    ],
+    "name:smn_x_preferred":[
+        "Kauniainen"
+    ],
+    "name:sms_x_preferred":[
         "Kauniainen"
     ],
     "name:spa_x_preferred":[
@@ -184,13 +220,13 @@
     "wd:population":9035,
     "wd:wordcount":1555,
     "wof:belongsto":[
+        85683067,
         102191581,
-        85633143,
-        1159321633,
-        136253047,
         907199633,
+        85633143,
         404227411,
-        85683067
+        136253047,
+        1159321633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -224,7 +260,7 @@
         }
     ],
     "wof:id":101753897,
-    "wof:lastmodified":1607721913,
+    "wof:lastmodified":1690879718,
     "wof:name":"Kauniainen",
     "wof:parent_id":907199633,
     "wof:placetype":"locality",

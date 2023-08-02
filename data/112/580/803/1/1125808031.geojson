@@ -25,6 +25,9 @@
     "name:afr_x_preferred":[
         "Kasn\u00e4s"
     ],
+    "name:deu_x_preferred":[
+        "Kasn\u00e4s"
+    ],
     "name:eng_x_preferred":[
         "Kasn\u00e4s"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125808031,
-    "wof:lastmodified":1566595387,
+    "wof:lastmodified":1690879885,
     "wof:name":"Kasn\u00e4s",
     "wof:parent_id":907199735,
     "wof:placetype":"locality",

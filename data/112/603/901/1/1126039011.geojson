@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.828645,61.4896225,23.828645,61.4896225",
+    "geom:bbox":"23.828645,61.489623,23.828645,61.489623",
     "geom:latitude":61.489623,
     "geom:longitude":23.828645,
     "gn:country":null,
@@ -20,10 +20,85 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:cat_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:dan_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:deu_x_preferred":[
+        "Hakamets\u00e4"
+    ],
     "name:eng_x_preferred":[
         "Hakamets\u00e4"
     ],
+    "name:est_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:eus_x_preferred":[
+        "Hakamets\u00e4"
+    ],
     "name:fin_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:fit_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:fra_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:ita_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:nld_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:nno_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:nob_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:pol_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:por_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:rmf_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:ron_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:sje_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:sju_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:sma_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:sme_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:smj_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:smn_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:sms_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:spa_x_preferred":[
+        "Hakamets\u00e4"
+    ],
+    "name:swe_x_preferred":[
         "Hakamets\u00e4"
     ],
     "qs_pg:aaroncc":"FI",
@@ -66,7 +141,7 @@
     },
     "wof:country":"FI",
     "wof:created":1497302004,
-    "wof:geomhash":"ed77413963aa562978ecf59c7f23bdd4",
+    "wof:geomhash":"452c0cb24461e233d221162da45a99d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +155,7 @@
         }
     ],
     "wof:id":1126039011,
-    "wof:lastmodified":1566595364,
+    "wof:lastmodified":1690879877,
     "wof:name":"Hakamets\u00e4",
     "wof:parent_id":907199231,
     "wof:placetype":"locality",
@@ -91,9 +166,9 @@
 },
   "bbox": [
     23.828645,
-    61.4896225,
+    61.489623,
     23.828645,
-    61.4896225
+    61.489623
 ],
-  "geometry": {"coordinates":[23.828645,61.4896225],"type":"Point"}
+  "geometry": {"coordinates":[23.828645,61.489623],"type":"Point"}
 }

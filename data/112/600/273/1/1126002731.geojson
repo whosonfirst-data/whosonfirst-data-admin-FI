@@ -22,10 +22,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Laajalahti"
+    ],
     "name:ceb_x_preferred":[
         "Laajalahti"
     ],
+    "name:deu_x_preferred":[
+        "Laajalahti"
+    ],
     "name:eng_x_preferred":[
+        "Laajalahti"
+    ],
+    "name:est_x_preferred":[
         "Laajalahti"
     ],
     "name:fin_x_preferred":[
@@ -34,7 +43,25 @@
     "name:fra_x_preferred":[
         "Laajalahti"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fc\u30e4\u30e9\u30d5\u30c6\u30a3\u6e7e"
+    ],
     "name:nld_x_preferred":[
+        "Laajalahti"
+    ],
+    "name:nob_x_preferred":[
+        "Laajalahti"
+    ],
+    "name:sme_x_preferred":[
+        "Laajalahti"
+    ],
+    "name:smn_x_preferred":[
+        "Laajalahti"
+    ],
+    "name:sms_x_preferred":[
+        "Laajalahti"
+    ],
+    "name:spa_x_preferred":[
         "Laajalahti"
     ],
     "name:swe_x_preferred":[
@@ -102,7 +129,7 @@
         }
     ],
     "wof:id":1126002731,
-    "wof:lastmodified":1566595433,
+    "wof:lastmodified":1690879896,
     "wof:name":"Laajalahti",
     "wof:parent_id":907198517,
     "wof:placetype":"locality",

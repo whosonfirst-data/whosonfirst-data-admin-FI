@@ -48,8 +48,14 @@
     "name:nob_x_preferred":[
         "Vojakkala"
     ],
+    "name:nob_x_variant":[
+        "\u00d6vre Vojakkala"
+    ],
     "name:swe_x_preferred":[
         "Vojakkala"
+    ],
+    "name:swe_x_variant":[
+        "\u00d6vre Vojakkala"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Lappi#Lappland",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":101872901,
-    "wof:lastmodified":1582312170,
+    "wof:lastmodified":1690879722,
     "wof:name":"Vojakkala",
     "wof:parent_id":907199557,
     "wof:placetype":"locality",

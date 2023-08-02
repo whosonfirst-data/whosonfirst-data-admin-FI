@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Snappertuna"
+    ],
+    "name:dan_x_preferred":[
+        "Snappertuna"
+    ],
     "name:deu_x_preferred":[
         "Snappertuna"
     ],
@@ -37,7 +43,25 @@
     "name:fra_x_preferred":[
         "Snappertuna"
     ],
+    "name:gle_x_preferred":[
+        "Snappertuna"
+    ],
     "name:nob_x_preferred":[
+        "Snappertuna"
+    ],
+    "name:sju_x_preferred":[
+        "Snappertuna"
+    ],
+    "name:sme_x_preferred":[
+        "Snappertuna"
+    ],
+    "name:smn_x_preferred":[
+        "Snappertuna"
+    ],
+    "name:sms_x_preferred":[
+        "Snappertuna"
+    ],
+    "name:spa_x_preferred":[
         "Snappertuna"
     ],
     "name:swe_x_preferred":[
@@ -101,7 +125,7 @@
         }
     ],
     "wof:id":1125883093,
-    "wof:lastmodified":1566595375,
+    "wof:lastmodified":1690879880,
     "wof:name":"Snappertuna",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

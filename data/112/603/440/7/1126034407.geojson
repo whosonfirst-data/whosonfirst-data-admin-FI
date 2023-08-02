@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Sevettij\u00e4rvi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d5\u05d8\u05d9\u05d0\u05e8\u05d5\u05d5\u05d9"
+    ],
     "name:hun_x_preferred":[
         "Sevettij\u00e4rvi"
     ],
@@ -75,6 +78,9 @@
     ],
     "name:swe_x_preferred":[
         "Sevettij\u00e4rvi"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u97e6\u8482\u8036\u5c14\u7ef4"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1126034407,
-    "wof:lastmodified":1566595364,
+    "wof:lastmodified":1690879877,
     "wof:name":"Sevettij\u00e4rvi",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

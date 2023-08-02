@@ -22,10 +22,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "V\u00e4\u00e4ksy"
+    ],
     "name:eng_x_preferred":[
         "V\u00e4\u00e4ksy"
     ],
+    "name:epo_x_preferred":[
+        "V\u00e4\u00e4ksy"
+    ],
     "name:fin_x_preferred":[
+        "V\u00e4\u00e4ksy"
+    ],
+    "name:fra_x_preferred":[
         "V\u00e4\u00e4ksy"
     ],
     "name:nld_x_preferred":[
@@ -39,6 +48,9 @@
     ],
     "name:und_x_variant":[
         "Zaaksy"
+    ],
+    "name:uzb_x_preferred":[
+        "V\u00e4\u00e4ksy"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1125807243,
-    "wof:lastmodified":1566595387,
+    "wof:lastmodified":1690879885,
     "wof:name":"V\u00e4\u00e4ksy",
     "wof:parent_id":907198691,
     "wof:placetype":"locality",

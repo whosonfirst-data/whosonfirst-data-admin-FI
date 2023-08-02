@@ -39,7 +39,16 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0643\u0646\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u067e\u064a\u0631\u0643\u0627\u0646\u0645\u0627"
+    ],
     "name:ast_x_preferred":[
+        "Pirkanmaa"
+    ],
+    "name:avk_x_preferred":[
+        "SuomiaPirkanmaaGola"
+    ],
+    "name:aze_x_preferred":[
         "Pirkanmaa"
     ],
     "name:bel_x_preferred":[
@@ -101,6 +110,9 @@
     "name:fra_x_preferred":[
         "Pirkanmaa"
     ],
+    "name:frr_x_preferred":[
+        "Pirkanmaa"
+    ],
     "name:gle_x_preferred":[
         "Pirkanmaa"
     ],
@@ -116,6 +128,9 @@
     "name:hbs_x_preferred":[
         "Pirkanmaa"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e8\u05e7\u05d0\u05e0\u05de\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u0930\u0915\u0928\u092e\u093e"
     ],
@@ -126,6 +141,9 @@
         "\u054a\u056b\u0580\u056f\u0561\u0576\u0574\u0561\u0561"
     ],
     "name:ind_x_preferred":[
+        "Pirkanmaa"
+    ],
+    "name:isl_x_preferred":[
         "Pirkanmaa"
     ],
     "name:ita_x_preferred":[
@@ -164,6 +182,9 @@
     "name:msa_x_preferred":[
         "Pirkanmaa"
     ],
+    "name:nan_x_preferred":[
+        "Pirkanmaa T\u014da-khu"
+    ],
     "name:nld_x_preferred":[
         "Pirkanmaa"
     ],
@@ -197,6 +218,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0438\u0440\u043a\u0430\u043d\u043c\u0430\u0430"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c64\u1c68\u1c60\u1c5f\u1c71\u1c62\u1c5f"
+    ],
     "name:sco_x_preferred":[
         "Pirkanmaa"
     ],
@@ -208,6 +232,12 @@
     ],
     "name:sme_x_preferred":[
         "Pirkanmaa eanangoddi"
+    ],
+    "name:smn_x_preferred":[
+        "Pirkanmaa eenn\u00e2mkodde\u200e"
+    ],
+    "name:sms_x_preferred":[
+        "Pirkanmaa m\u00e4ddk\u00e5\u02b9dd"
     ],
     "name:spa_x_preferred":[
         "Pirkanmaa"
@@ -244,6 +274,9 @@
     ],
     "name:vie_x_preferred":[
         "Pirkanmaa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u76ae\u5c14\u5361\u533a"
     ],
     "name:zho_x_preferred":[
         "\u76ae\u723e\u5361\u5340"
@@ -344,7 +377,7 @@
         "wd:id":"Q5701"
     },
     "wof:country":"FI",
-    "wof:geomhash":"ac83338d60f2b2e94d9b69ecd68e7fd2",
+    "wof:geomhash":"d4553a603723f7eb1006a0833aeceea1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -363,7 +396,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1684351576,
+    "wof:lastmodified":1690879676,
     "wof:name":"Pirkanmaa",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

@@ -29,6 +29,9 @@
     "name:bak_x_preferred":[
         "\u041c\u0443\u043e\u043d\u0438\u043e"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0443\u043e\u043d\u0456\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u0993\u09a8\u09bf\u0993"
     ],
@@ -71,6 +74,9 @@
     "name:fra_x_preferred":[
         "Muonio"
     ],
+    "name:gle_x_preferred":[
+        "Muonio"
+    ],
     "name:glg_x_preferred":[
         "Muonio"
     ],
@@ -86,11 +92,17 @@
     "name:jpn_x_preferred":[
         "\u30e0\u30aa\u30cb\u30aa"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10dd\u10dc\u10d8\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ubb34\uc624\ub2c8\uc624"
     ],
     "name:lat_x_preferred":[
         "Muonio"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0443\u043e\u043d\u0438\u043e"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0443\u043e\u043d\u0438\u043e"
@@ -116,6 +128,9 @@
     "name:sme_x_preferred":[
         "Muon\u00e1"
     ],
+    "name:smn_x_preferred":[
+        "Muonio"
+    ],
     "name:spa_x_preferred":[
         "Muonio"
     ],
@@ -130,6 +145,9 @@
     ],
     "name:tur_x_preferred":[
         "Muonio"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043e\u043d\u0456\u043e"
     ],
     "name:und_x_variant":[
         "Muonioniska"
@@ -203,7 +221,7 @@
         }
     ],
     "wof:id":101845579,
-    "wof:lastmodified":1636494409,
+    "wof:lastmodified":1690879721,
     "wof:name":"Muonio",
     "wof:parent_id":907199587,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.9139625804,60.1568613175,24.9139625804,60.1568613175",
+    "geom:bbox":"24.913963,60.156861,24.913963,60.156861",
     "geom:latitude":60.156861,
     "geom:longitude":24.913963,
     "iso:country":"FI",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "J\u00e4tk\u00e4saari"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u062a\u06a9\u0633\u0627\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "J\u00e4kt\u00e4saari"
     ],
@@ -38,6 +41,9 @@
     "name:nld_x_preferred":[
         "J\u00e4tk\u00e4saari"
     ],
+    "name:rus_x_preferred":[
+        "\u042f\u0442\u043a\u0430\u0441\u0430\u0430\u0440\u0438"
+    ],
     "name:swe_x_preferred":[
         "Busholmen"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:tur_x_preferred":[
         "J\u00e4tk\u00e4saari"
+    ],
+    "name:zho_x_preferred":[
+        "\u8036\u7279\u51ef\u8428\u91cc"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -66,7 +75,7 @@
     },
     "wof:country":"FI",
     "wof:created":1491360412,
-    "wof:geomhash":"2f45fd504168abd554187668207016f7",
+    "wof:geomhash":"b1fedbf06b6aeac3c3bb600332d66878",
     "wof:hierarchy":[
         {
             "borough_id":890536879,
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1108938481,
-    "wof:lastmodified":1566595024,
+    "wof:lastmodified":1690879711,
     "wof:name":"Jaktasaari",
     "wof:parent_id":1108727337,
     "wof:placetype":"neighbourhood",
@@ -93,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.91396258039281,
-    60.15686131747778,
-    24.91396258039281,
-    60.15686131747778
+    24.913963,
+    60.156861,
+    24.913963,
+    60.156861
 ],
-  "geometry": {"coordinates":[24.91396258039281,60.15686131747778],"type":"Point"}
+  "geometry": {"coordinates":[24.913963,60.156861],"type":"Point"}
 }

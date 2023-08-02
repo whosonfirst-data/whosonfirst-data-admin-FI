@@ -22,16 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Honkilahti"
+    ],
     "name:deu_x_preferred":[
         "Honkilahti"
     ],
     "name:eng_x_preferred":[
         "Honkilahti"
     ],
+    "name:epo_x_preferred":[
+        "Honkilahti"
+    ],
     "name:fin_x_preferred":[
         "Honkilahti"
     ],
     "name:fra_x_preferred":[
+        "Honkilahti"
+    ],
+    "name:gle_x_preferred":[
         "Honkilahti"
     ],
     "name:kat_x_preferred":[
@@ -43,11 +52,29 @@
     "name:nob_x_preferred":[
         "Honkilahti"
     ],
+    "name:sme_x_preferred":[
+        "Honkilahti"
+    ],
+    "name:smn_x_preferred":[
+        "Honkilahti"
+    ],
+    "name:sms_x_preferred":[
+        "Honkilahti"
+    ],
+    "name:spa_x_preferred":[
+        "Honkilahti"
+    ],
     "name:swe_x_preferred":[
         "Honkilax"
     ],
     "name:und_x_variant":[
         "Honkilaht"
+    ],
+    "name:uzb_x_preferred":[
+        "Honkilahti"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d2a\u57fa\u62c9\u8d6b\u8482"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -103,7 +130,7 @@
         }
     ],
     "wof:id":1126058169,
-    "wof:lastmodified":1566595353,
+    "wof:lastmodified":1690879872,
     "wof:name":"Honkilahti",
     "wof:parent_id":907198915,
     "wof:placetype":"locality",

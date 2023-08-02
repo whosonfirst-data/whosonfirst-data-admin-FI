@@ -82,6 +82,9 @@
     "name:hun_x_variant":[
         "D\u00e9l-Finnorsz\u00e1g"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0580\u0561\u057e-\u0556\u056b\u0576\u056c\u0561\u0576\u0564\u0561\u056f\u0561\u0576 \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ido_x_preferred":[
         "Sud-Finlando"
     ],
@@ -228,7 +231,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1617131184,
+    "wof:lastmodified":1690879865,
     "wof:name":"Southern Finland Province",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",

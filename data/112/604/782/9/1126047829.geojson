@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Hiittinen"
     ],
+    "name:gle_x_preferred":[
+        "Hitis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d2\u30c6\u30a3\u30b9"
+    ],
     "name:nld_x_preferred":[
         "Hitis"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u0438\u0439\u0442\u0442\u0438\u043d\u0435\u043d"
+    ],
+    "name:smn_x_preferred":[
+        "Hiittinen"
     ],
     "name:sqi_x_preferred":[
         "Hiittinen"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1126047829,
-    "wof:lastmodified":1566595362,
+    "wof:lastmodified":1690879876,
     "wof:name":"Hitis",
     "wof:parent_id":907199735,
     "wof:placetype":"locality",

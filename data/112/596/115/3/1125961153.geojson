@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Laaksolahti"
     ],
+    "name:deu_x_preferred":[
+        "Laaksolahti"
+    ],
     "name:eng_x_preferred":[
         "Laaksolahti"
     ],
@@ -42,6 +45,15 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u043a\u0441\u043e\u043b\u0430\u0445\u0442\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Laaksolahti"
+    ],
+    "name:smn_x_preferred":[
+        "Laaksolahti"
+    ],
+    "name:sms_x_preferred":[
+        "Laaksolahti"
     ],
     "name:swe_x_preferred":[
         "Dalsvik"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1125961153,
-    "wof:lastmodified":1566595414,
+    "wof:lastmodified":1690879892,
     "wof:name":"Laaksolahti",
     "wof:parent_id":907198517,
     "wof:placetype":"locality",

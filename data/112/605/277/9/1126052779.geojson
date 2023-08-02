@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.7447195,60.150652,24.7447195,60.150652",
+    "geom:bbox":"24.744719,60.150652,24.744719,60.150652",
     "geom:latitude":60.150652,
     "geom:longitude":24.744719,
     "gn:country":null,
@@ -20,7 +20,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Matinkyl\u00e4"
+    ],
     "name:ceb_x_preferred":[
+        "Matinkyl\u00e4"
+    ],
+    "name:deu_x_preferred":[
         "Matinkyl\u00e4"
     ],
     "name:eng_x_preferred":[
@@ -38,8 +44,26 @@
     "name:nld_x_preferred":[
         "Matinkyl\u00e4"
     ],
+    "name:nob_x_preferred":[
+        "Matinkyl\u00e4"
+    ],
+    "name:sme_x_preferred":[
+        "Matinkyl\u00e4"
+    ],
+    "name:smn_x_preferred":[
+        "Matinkyl\u00e4"
+    ],
+    "name:sms_x_preferred":[
+        "Matinkyl\u00e4"
+    ],
+    "name:spa_x_preferred":[
+        "Matinkyl\u00e4"
+    ],
     "name:swe_x_preferred":[
         "Mattby"
+    ],
+    "name:vie_x_preferred":[
+        "Matinkyl\u00e4"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":null,
@@ -81,7 +105,7 @@
     },
     "wof:country":"FI",
     "wof:created":1497302886,
-    "wof:geomhash":"b18f88e52bdca3c635f0d00e08b4bfd2",
+    "wof:geomhash":"8c86a45a731db1b2353de6d5b0cd1c03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +119,7 @@
         }
     ],
     "wof:id":1126052779,
-    "wof:lastmodified":1566595358,
+    "wof:lastmodified":1690879873,
     "wof:name":"Matinkyl\u00e4",
     "wof:parent_id":907198517,
     "wof:placetype":"locality",
@@ -105,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.7447195,
+    24.744719,
     60.150652,
-    24.7447195,
+    24.744719,
     60.150652
 ],
-  "geometry": {"coordinates":[24.7447195,60.150652],"type":"Point"}
+  "geometry": {"coordinates":[24.744719,60.150652],"type":"Point"}
 }
