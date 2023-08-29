@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u0631\u0648\u0644\u0627"
+    ],
     "name:deu_x_preferred":[
         "Nyr\u00f6l\u00e4"
     ],
     "name:eng_x_preferred":[
         "Nyr\u00f6l\u00e4"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u0648\u0644\u0647"
     ],
     "name:fin_x_preferred":[
         "Nyr\u00f6l\u00e4"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125873823,
-    "wof:lastmodified":1566595391,
+    "wof:lastmodified":1690879886,
     "wof:name":"Nyr\u00f6l\u00e4",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

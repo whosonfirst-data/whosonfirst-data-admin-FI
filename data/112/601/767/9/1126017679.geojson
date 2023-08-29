@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Rautj\u00e4rvi"
     ],
+    "name:ces_x_preferred":[
+        "Rautj\u00e4rvi"
+    ],
     "name:dan_x_preferred":[
         "Rautj\u00e4rvi"
     ],
@@ -40,13 +43,25 @@
     "name:eng_x_preferred":[
         "Rautj\u00e4rvi"
     ],
+    "name:epo_x_preferred":[
+        "Rautj\u00e4rvi"
+    ],
     "name:est_x_preferred":[
         "Rautj\u00e4rvi vald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062a\u06cc\u200c\u06cc\u0631\u0648\u06cc"
     ],
     "name:fin_x_preferred":[
         "Rautj\u00e4rvi"
     ],
+    "name:fit_x_preferred":[
+        "Rautj\u00e4rvi"
+    ],
     "name:fra_x_preferred":[
+        "Rautj\u00e4rvi"
+    ],
+    "name:gle_x_preferred":[
         "Rautj\u00e4rvi"
     ],
     "name:glg_x_preferred":[
@@ -79,10 +94,28 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u0443\u0442\u044a\u044f\u0440\u0432\u0438"
     ],
+    "name:sje_x_preferred":[
+        "Rautj\u00e4rvi"
+    ],
+    "name:sju_x_preferred":[
+        "Rautj\u00e4rvi"
+    ],
     "name:slv_x_preferred":[
         "Rautj\u00e4rvi"
     ],
+    "name:sma_x_preferred":[
+        "Rautj\u00e4rvi"
+    ],
     "name:sme_x_preferred":[
+        "Rautj\u00e4rvi"
+    ],
+    "name:smj_x_preferred":[
+        "Rautj\u00e4rvi"
+    ],
+    "name:smn_x_preferred":[
+        "Rautj\u00e4rvi"
+    ],
+    "name:sms_x_preferred":[
         "Rautj\u00e4rvi"
     ],
     "name:spa_x_preferred":[
@@ -155,7 +188,7 @@
         }
     ],
     "wof:id":1126017679,
-    "wof:lastmodified":1566595431,
+    "wof:lastmodified":1690879895,
     "wof:name":"Rautj\u00e4rvi",
     "wof:parent_id":907198805,
     "wof:placetype":"locality",

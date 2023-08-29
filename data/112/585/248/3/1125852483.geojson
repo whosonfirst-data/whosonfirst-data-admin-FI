@@ -38,6 +38,9 @@
     "name:swe_x_preferred":[
         "Tankavaara"
     ],
+    "name:zho_x_preferred":[
+        "\u5766\u5361\u74e6\u62c9"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Tankavaara",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125852483,
-    "wof:lastmodified":1566595442,
+    "wof:lastmodified":1690879898,
     "wof:name":"Tankavaara",
     "wof:parent_id":907199561,
     "wof:placetype":"locality",

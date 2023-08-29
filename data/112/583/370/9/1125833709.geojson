@@ -34,14 +34,23 @@
     "name:eng_x_preferred":[
         "Replot"
     ],
+    "name:epo_x_preferred":[
+        "Replot"
+    ],
     "name:fin_x_preferred":[
         "Raippaluoto"
     ],
     "name:fra_x_preferred":[
         "Replot"
     ],
+    "name:gle_x_preferred":[
+        "Replot"
+    ],
     "name:jpn_x_preferred":[
         "\u30ec\u30d7\u30ed\u30c3\u30c8\u5cf6"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0435\u043f\u043b\u043e\u0442"
     ],
     "name:nld_x_preferred":[
         "Replot"
@@ -54,6 +63,9 @@
     ],
     "name:pol_x_preferred":[
         "Replot"
+    ],
+    "name:smn_x_preferred":[
+        "Raippaluoto"
     ],
     "name:spa_x_preferred":[
         "Replot"
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":1125833709,
-    "wof:lastmodified":1566595460,
+    "wof:lastmodified":1690879903,
     "wof:name":"Replot",
     "wof:parent_id":907198985,
     "wof:placetype":"locality",

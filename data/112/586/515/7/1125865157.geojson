@@ -31,14 +31,26 @@
     "name:fin_x_preferred":[
         "Pieks\u00e4m\u00e4en maalaiskunta"
     ],
+    "name:gle_x_preferred":[
+        "Pieks\u00e4m\u00e4en maalaiskunta"
+    ],
     "name:nld_x_preferred":[
         "Pieks\u00e4m\u00e4en maalaiskunta"
     ],
     "name:nob_x_preferred":[
         "Pieks\u00e4m\u00e4ki landkommune"
     ],
+    "name:sme_x_preferred":[
+        "Pieks\u00e4m\u00e4ki d\u00e1longielda"
+    ],
+    "name:smn_x_preferred":[
+        "Pieks\u00e4m\u00e4ki t\u00e1\u00e1lunkield\u00e2"
+    ],
     "name:swe_x_preferred":[
         "Pieks\u00e4m\u00e4ki landskommun"
+    ],
+    "name:uzb_x_preferred":[
+        "Pieks\u00e4m\u00e4en maalaiskunta"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":1125865157,
-    "wof:lastmodified":1566595373,
+    "wof:lastmodified":1690879880,
     "wof:name":"Pieks\u00e4m\u00e4en Maalaiskunta",
     "wof:parent_id":907199013,
     "wof:placetype":"locality",

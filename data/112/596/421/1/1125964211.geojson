@@ -43,6 +43,15 @@
     "name:nld_x_preferred":[
         "Haukilahti"
     ],
+    "name:sme_x_preferred":[
+        "Haukilahti"
+    ],
+    "name:smn_x_preferred":[
+        "Haukilahti"
+    ],
+    "name:sms_x_preferred":[
+        "Haukilahti"
+    ],
     "name:swe_x_preferred":[
         "G\u00e4ddvik"
     ],
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":1125964211,
-    "wof:lastmodified":1566595412,
+    "wof:lastmodified":1690879891,
     "wof:name":"Haukilahti",
     "wof:parent_id":907198517,
     "wof:placetype":"locality",

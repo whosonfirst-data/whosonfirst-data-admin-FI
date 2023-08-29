@@ -42,6 +42,12 @@
     "name:ast_x_preferred":[
         "Savonia del Sur"
     ],
+    "name:avk_x_preferred":[
+        "SuomiaEtel\u00e4SavoGola"
+    ],
+    "name:aze_x_preferred":[
+        "C\u0259nubi Savoniya"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430\u0435 \u0421\u0430\u0432\u0430"
     ],
@@ -91,6 +97,12 @@
     "name:fra_x_preferred":[
         "Savonie du Sud"
     ],
+    "name:frr_x_preferred":[
+        "S\u00fc\u00fcdsavo"
+    ],
+    "name:gle_x_preferred":[
+        "An tSabh\u00f3in Theas"
+    ],
     "name:glg_x_preferred":[
         "Savonia do Sur"
     ],
@@ -99,6 +111,9 @@
     ],
     "name:hbs_x_preferred":[
         "Ju\u017ena Savonija"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05d1\u05d5 \u05d4\u05d3\u05e8\u05d5\u05de\u05d9\u05ea"
     ],
     "name:hin_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923\u0940 \u0938\u0935\u094b\u0928\u093f\u092f\u093e"
@@ -111,6 +126,9 @@
     ],
     "name:ind_x_preferred":[
         "Savonia Selatan"
+    ],
+    "name:isl_x_preferred":[
+        "Su\u00f0ur-Savon\u00eda"
     ],
     "name:ita_x_preferred":[
         "Savo meridionale"
@@ -141,6 +159,9 @@
     ],
     "name:msa_x_preferred":[
         "Savonia Selatan"
+    ],
+    "name:nan_x_preferred":[
+        "L\u00e2m Savonia T\u014da-khu"
     ],
     "name:nld_x_preferred":[
         "Etel\u00e4-Savo"
@@ -189,6 +210,12 @@
     "name:sme_x_preferred":[
         "Lulli-Savo eanangoddi"
     ],
+    "name:smn_x_preferred":[
+        "Maad\u00e2-Savo eenn\u00e2mkodde\u200e"
+    ],
+    "name:sms_x_preferred":[
+        "Saujj-Savo m\u00e4ddk\u00e5\u02b9dd"
+    ],
     "name:spa_x_preferred":[
         "Savonia del Sur"
     ],
@@ -222,8 +249,14 @@
     "name:vie_x_preferred":[
         "Ph\u00eda Nam Savonia"
     ],
+    "name:wuu_x_preferred":[
+        "\u5357\u8428\u6c83\u5c3c\u4e9a\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u5357\u8428\u6c83\u5c3c\u4e9a\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u5357\u8428\u6c83\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"FIN",
@@ -321,7 +354,7 @@
         "wd:id":"Q5693"
     },
     "wof:country":"FI",
-    "wof:geomhash":"86703f2e180f4c697e2bf674cdbb0c84",
+    "wof:geomhash":"e73e7488135a093ed6dd5b432525371b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -340,7 +373,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1684351577,
+    "wof:lastmodified":1690879666,
     "wof:name":"Southern Savonia",
     "wof:parent_id":404227407,
     "wof:placetype":"region",

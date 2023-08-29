@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:avk_x_preferred":[
+        "Karttula"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0442\u0443\u043b\u0430"
     ],
@@ -35,10 +38,16 @@
     "name:eng_x_preferred":[
         "Karttula"
     ],
+    "name:epo_x_preferred":[
+        "Karttula"
+    ],
     "name:fin_x_preferred":[
         "Karttula"
     ],
     "name:fra_x_preferred":[
+        "Karttula"
+    ],
+    "name:gle_x_preferred":[
         "Karttula"
     ],
     "name:heb_x_preferred":[
@@ -57,6 +66,9 @@
         "Karttula"
     ],
     "name:sme_x_preferred":[
+        "Karttula"
+    ],
+    "name:smn_x_preferred":[
         "Karttula"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101872849,
-    "wof:lastmodified":1582312170,
+    "wof:lastmodified":1690879726,
     "wof:name":"Syv\u00e4nniemi",
     "wof:parent_id":907199673,
     "wof:placetype":"locality",

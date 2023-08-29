@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"25.5096875,64.859532,25.5096875,64.859532",
+    "geom:bbox":"25.509687,64.859532,25.509687,64.859532",
     "geom:latitude":64.859532,
     "geom:longitude":25.509687,
     "gn:country":null,
@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Tupos"
+    ],
     "name:eng_x_preferred":[
         "Tupos"
     ],
@@ -27,6 +30,9 @@
         "Tupos"
     ],
     "name:nld_x_preferred":[
+        "Tupos"
+    ],
+    "name:swe_x_preferred":[
         "Tupos"
     ],
     "qs_pg:aaroncc":"FI",
@@ -69,7 +75,7 @@
     },
     "wof:country":"FI",
     "wof:created":1497302720,
-    "wof:geomhash":"6506c9204a73444b77530cb4bacdfd38",
+    "wof:geomhash":"ed41c367c55664f168e45b17fa9c98f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1126050745,
-    "wof:lastmodified":1566595358,
+    "wof:lastmodified":1690879874,
     "wof:name":"Tupos",
     "wof:parent_id":907199635,
     "wof:placetype":"locality",
@@ -93,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.5096875,
+    25.509687,
     64.859532,
-    25.5096875,
+    25.509687,
     64.859532
 ],
-  "geometry": {"coordinates":[25.5096875,64.859532],"type":"Point"}
+  "geometry": {"coordinates":[25.509687,64.859532],"type":"Point"}
 }

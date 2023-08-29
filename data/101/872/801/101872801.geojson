@@ -38,6 +38,12 @@
     "name:swe_x_preferred":[
         "P\u00e4ij\u00e4nne Tavastlands flygmuseum"
     ],
+    "name:swe_x_variant":[
+        "Vesivehmaa"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e6\u897f\u97e6\u8d6b\u9a6c"
+    ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*P\u00e4ij\u00e4t-H\u00e4me#P\u00e4ij\u00e4nne-Tavastland",
     "qs:a1r":"0Etel\u00e4-Suomen AVI#S\u00f6dra Finlands RFV",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":101872801,
-    "wof:lastmodified":1582312171,
+    "wof:lastmodified":1690879727,
     "wof:name":"Vesivehmaa",
     "wof:parent_id":907198691,
     "wof:placetype":"locality",

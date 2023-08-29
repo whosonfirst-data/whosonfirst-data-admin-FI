@@ -31,10 +31,16 @@
     "name:eng_x_preferred":[
         "Suomusj\u00e4rvi"
     ],
+    "name:epo_x_preferred":[
+        "Suomusj\u00e4rvi"
+    ],
     "name:fin_x_preferred":[
         "Suomusj\u00e4rvi"
     ],
     "name:fra_x_preferred":[
+        "Suomusj\u00e4rvi"
+    ],
+    "name:gle_x_preferred":[
         "Suomusj\u00e4rvi"
     ],
     "name:ita_x_preferred":[
@@ -55,8 +61,14 @@
     "name:sme_x_preferred":[
         "Suomusj\u00e4rvi"
     ],
+    "name:smn_x_preferred":[
+        "Suomusj\u00e4rvi"
+    ],
     "name:swe_x_preferred":[
         "Suomusj\u00e4rvi"
+    ],
+    "name:uzb_x_preferred":[
+        "Suomusjarvi"
     ],
     "name:vie_x_preferred":[
         "Suomusj\u00e4rvi"
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1125862427,
-    "wof:lastmodified":1566595369,
+    "wof:lastmodified":1690879878,
     "wof:name":"Suomusj\u00e4rvi",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

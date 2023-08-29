@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Hammaslahti"
+    ],
     "name:eng_x_preferred":[
         "Hammaslahti"
     ],
     "name:fin_x_preferred":[
+        "Hammaslahti"
+    ],
+    "name:frr_x_preferred":[
         "Hammaslahti"
     ],
     "name:rus_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125887933,
-    "wof:lastmodified":1566595377,
+    "wof:lastmodified":1690879881,
     "wof:name":"Hammaslahti",
     "wof:parent_id":907199609,
     "wof:placetype":"locality",

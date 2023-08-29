@@ -31,6 +31,9 @@
     "name:fin_x_preferred":[
         "Illoinen"
     ],
+    "name:fra_x_preferred":[
+        "Illoinen"
+    ],
     "name:isl_x_preferred":[
         "Illois"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1126001717,
-    "wof:lastmodified":1566595436,
+    "wof:lastmodified":1690879897,
     "wof:name":"Illoinen",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

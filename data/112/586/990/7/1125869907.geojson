@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kiviapaja"
+    ],
     "name:deu_x_preferred":[
         "Kiviapaja"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125869907,
-    "wof:lastmodified":1566595367,
+    "wof:lastmodified":1690879878,
     "wof:name":"Kiviapaja",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

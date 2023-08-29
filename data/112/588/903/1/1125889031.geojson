@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Husula"
+    ],
     "name:eng_x_preferred":[
         "Husula"
     ],
@@ -31,11 +34,29 @@
     "name:nld_x_preferred":[
         "Husula"
     ],
+    "name:nob_x_preferred":[
+        "Husula"
+    ],
+    "name:sju_x_preferred":[
+        "Husula"
+    ],
+    "name:sme_x_preferred":[
+        "Husula"
+    ],
+    "name:smn_x_preferred":[
+        "Husula"
+    ],
+    "name:sms_x_preferred":[
+        "Husula"
+    ],
     "name:sun_x_preferred":[
         "Husula"
     ],
     "name:swe_x_preferred":[
         "Husub\u00f6le"
+    ],
+    "name:swe_x_variant":[
+        "Husula"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -93,7 +114,7 @@
         }
     ],
     "wof:id":1125889031,
-    "wof:lastmodified":1566595377,
+    "wof:lastmodified":1690879881,
     "wof:name":"Husula",
     "wof:parent_id":907199723,
     "wof:placetype":"locality",

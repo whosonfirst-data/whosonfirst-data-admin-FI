@@ -26,7 +26,13 @@
     "name:eng_x_preferred":[
         "Saloinen"
     ],
+    "name:epo_x_preferred":[
+        "Saloinen"
+    ],
     "name:fin_x_preferred":[
+        "Saloinen"
+    ],
+    "name:gle_x_preferred":[
         "Saloinen"
     ],
     "name:nob_x_preferred":[
@@ -36,6 +42,15 @@
         "\u0421\u0430\u043b\u043e\u0439\u043d\u0435\u043d"
     ],
     "name:sme_x_preferred":[
+        "Saloinen"
+    ],
+    "name:smn_x_preferred":[
+        "Saloinen"
+    ],
+    "name:sms_x_preferred":[
+        "Saloinen"
+    ],
+    "name:spa_x_preferred":[
         "Saloinen"
     ],
     "name:swe_x_preferred":[
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":101875031,
-    "wof:lastmodified":1582312171,
+    "wof:lastmodified":1690879728,
     "wof:name":"Saloinen",
     "wof:parent_id":907199449,
     "wof:placetype":"locality",

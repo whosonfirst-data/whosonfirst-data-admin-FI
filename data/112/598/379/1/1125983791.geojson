@@ -466,7 +466,13 @@
     "name:sme_x_preferred":[
         "M\u00f6ksy"
     ],
+    "name:smn_x_preferred":[
+        "M\u00f6ksy"
+    ],
     "name:smo_x_preferred":[
+        "M\u00f6ksy"
+    ],
+    "name:sms_x_preferred":[
         "M\u00f6ksy"
     ],
     "name:sna_x_preferred":[
@@ -480,6 +486,9 @@
     ],
     "name:spa_x_preferred":[
         "M\u00f6sky"
+    ],
+    "name:spa_x_variant":[
+        "M\u00f6ksy"
     ],
     "name:sqi_x_preferred":[
         "M\u00f6ksy"
@@ -637,7 +646,7 @@
         }
     ],
     "wof:id":1125983791,
-    "wof:lastmodified":1566595421,
+    "wof:lastmodified":1690879893,
     "wof:name":"M\u00f6ksy",
     "wof:parent_id":907199105,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.7518885,63.7217345,22.7518885,63.7217345",
+    "geom:bbox":"22.751888,63.721734,22.751888,63.721734",
     "geom:latitude":63.721734,
     "geom:longitude":22.751888,
     "gn:country":"FI",
@@ -35,10 +35,19 @@
     "name:epo_x_preferred":[
         "Larsmo"
     ],
+    "name:est_x_preferred":[
+        "Luoto vald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0631\u0633\u0645\u0648"
+    ],
     "name:fin_x_preferred":[
         "Luoto"
     ],
     "name:fra_x_preferred":[
+        "Larsmo"
+    ],
+    "name:gle_x_preferred":[
         "Larsmo"
     ],
     "name:glg_x_preferred":[
@@ -50,6 +59,9 @@
     "name:nld_x_preferred":[
         "Larsmo"
     ],
+    "name:nno_x_preferred":[
+        "Larsmo"
+    ],
     "name:nob_x_preferred":[
         "Larsmo"
     ],
@@ -59,7 +71,16 @@
     "name:ron_x_preferred":[
         "Larsmo"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0440\u0441\u043c\u043e"
+    ],
     "name:sme_x_preferred":[
+        "Luoto"
+    ],
+    "name:smn_x_preferred":[
+        "Luoto"
+    ],
+    "name:sms_x_preferred":[
         "Luoto"
     ],
     "name:sqi_x_preferred":[
@@ -114,7 +135,7 @@
     },
     "wof:country":"FI",
     "wof:created":1497294207,
-    "wof:geomhash":"fc2cedd291f234df904dbcbda6bcfaff",
+    "wof:geomhash":"506df00d6985aea1fa3aaaf07c48edb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,7 +149,7 @@
         }
     ],
     "wof:id":1125869237,
-    "wof:lastmodified":1566595370,
+    "wof:lastmodified":1690879878,
     "wof:name":"Larsmo",
     "wof:parent_id":907199167,
     "wof:placetype":"locality",
@@ -138,10 +159,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.7518885,
-    63.7217345,
-    22.7518885,
-    63.7217345
+    22.751888,
+    63.721734,
+    22.751888,
+    63.721734
 ],
-  "geometry": {"coordinates":[22.7518885,63.7217345],"type":"Point"}
+  "geometry": {"coordinates":[22.751888,63.721734],"type":"Point"}
 }

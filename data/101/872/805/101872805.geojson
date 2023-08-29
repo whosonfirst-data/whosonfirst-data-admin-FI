@@ -24,6 +24,9 @@
     "name:ast_x_preferred":[
         "J\u00e4mij\u00e4rvi"
     ],
+    "name:cat_x_preferred":[
+        "J\u00e4mij\u00e4rvi"
+    ],
     "name:ceb_x_preferred":[
         "J\u00e4mij\u00e4rvi"
     ],
@@ -33,10 +36,19 @@
     "name:eng_x_preferred":[
         "J\u00e4mij\u00e4rvi"
     ],
+    "name:epo_x_preferred":[
+        "J\u00e4mij\u00e4rvi"
+    ],
+    "name:est_x_preferred":[
+        "J\u00e4mij\u00e4rvi vald"
+    ],
     "name:fin_x_preferred":[
         "J\u00e4mij\u00e4rvi"
     ],
     "name:fra_x_preferred":[
+        "J\u00e4mij\u00e4rvi"
+    ],
+    "name:gle_x_preferred":[
         "J\u00e4mij\u00e4rvi"
     ],
     "name:glg_x_preferred":[
@@ -52,6 +64,9 @@
         "Jemijervi"
     ],
     "name:nld_x_preferred":[
+        "J\u00e4mij\u00e4rvi"
+    ],
+    "name:nno_x_preferred":[
         "J\u00e4mij\u00e4rvi"
     ],
     "name:nob_x_preferred":[
@@ -70,6 +85,12 @@
         "\u0419\u044f\u043c\u0438\u044f\u0440\u0432\u0438"
     ],
     "name:sme_x_preferred":[
+        "J\u00e4mij\u00e4rvi"
+    ],
+    "name:smn_x_preferred":[
+        "J\u00e4mij\u00e4rvi"
+    ],
+    "name:sms_x_preferred":[
         "J\u00e4mij\u00e4rvi"
     ],
     "name:spa_x_preferred":[
@@ -146,7 +167,7 @@
         }
     ],
     "wof:id":101872805,
-    "wof:lastmodified":1582312170,
+    "wof:lastmodified":1690879725,
     "wof:name":"J\u00e4mij\u00e4rvi",
     "wof:parent_id":907199625,
     "wof:placetype":"locality",

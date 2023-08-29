@@ -42,6 +42,9 @@
     "name:ast_x_preferred":[
         "P\u00e4ij\u00e4nne Tavastia"
     ],
+    "name:avk_x_preferred":[
+        "SuomiaP\u00e4ij\u00e4tH\u00e4meGola"
+    ],
     "name:aze_x_preferred":[
         "Pyayat-Hame"
     ],
@@ -105,6 +108,9 @@
     "name:fra_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
     ],
+    "name:frr_x_preferred":[
+        "P\u00e4ij\u00e4t-H\u00e4me"
+    ],
     "name:gle_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
     ],
@@ -125,6 +131,9 @@
     ],
     "name:ind_x_preferred":[
         "P\u00e4ij\u00e4nne Tavastia"
+    ],
+    "name:isl_x_preferred":[
+        "P\u00e4ij\u00e4t-H\u00e4me"
     ],
     "name:ita_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
@@ -155,6 +164,9 @@
     ],
     "name:msa_x_preferred":[
         "Paijanne Tavastia"
+    ],
+    "name:nan_x_preferred":[
+        "P\u00e4ij\u00e4nne Tavastia T\u014da-khu"
     ],
     "name:nld_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me"
@@ -195,6 +207,12 @@
     "name:sme_x_preferred":[
         "P\u00e4ij\u00e4t-H\u00e4me eanangoddi"
     ],
+    "name:smn_x_preferred":[
+        "P\u00e4ij\u00e4t-H\u00e4me eenn\u00e2mkodde\u200e"
+    ],
+    "name:sms_x_preferred":[
+        "P\u00e4ij\u00e4t-H\u00e4me m\u00e4ddk\u00e5\u02b9dd"
+    ],
     "name:spa_x_preferred":[
         "P\u00e4ij\u00e4nne Tavastia"
     ],
@@ -229,8 +247,14 @@
     "name:vie_x_preferred":[
         "P\u00e4ij\u00e4nne Tavastia"
     ],
+    "name:wuu_x_preferred":[
+        "\u6d3e\u4e9a\u7279\u6d77\u6885\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u6d3e\u4e9e\u7279\u6d77\u6885\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u6d3e\u8036\u7279\u6d77\u6885\u533a"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a0_lc":"FI000000",
@@ -265,7 +289,7 @@
         "wd:id":"Q5708"
     },
     "wof:country":"FI",
-    "wof:geomhash":"27b4a66643297af8dbb7e9b58bcbd7b8",
+    "wof:geomhash":"eb52dcb9c050fb2a58ed8acd8ee2d568",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -284,7 +308,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1684351575,
+    "wof:lastmodified":1690879675,
     "wof:name":"Paijanne Tavastia",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

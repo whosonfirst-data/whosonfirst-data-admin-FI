@@ -213,7 +213,19 @@
     "name:sco_x_preferred":[
         "Kangaslampi"
     ],
+    "name:sju_x_preferred":[
+        "Kangaslampi"
+    ],
     "name:slk_x_preferred":[
+        "Kangaslampi"
+    ],
+    "name:sme_x_preferred":[
+        "Kangaslampi"
+    ],
+    "name:smn_x_preferred":[
+        "Kangaslampi"
+    ],
+    "name:sms_x_preferred":[
         "Kangaslampi"
     ],
     "name:spa_x_preferred":[
@@ -229,6 +241,9 @@
         "Kangaslampi"
     ],
     "name:tur_x_preferred":[
+        "Kangaslampi"
+    ],
+    "name:uzb_x_preferred":[
         "Kangaslampi"
     ],
     "name:vec_x_preferred":[
@@ -311,7 +326,7 @@
         }
     ],
     "wof:id":101872857,
-    "wof:lastmodified":1582312170,
+    "wof:lastmodified":1690879724,
     "wof:name":"Kangaslampi",
     "wof:parent_id":907199707,
     "wof:placetype":"locality",

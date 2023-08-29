@@ -22,17 +22,44 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0646\u064a\u0646\u0643\u064a\u0644\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
+    "name:ces_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
     "name:deu_x_preferred":[
         "Monninkyl\u00e4"
     ],
     "name:eng_x_preferred":[
         "Monninkyl\u00e4"
     ],
+    "name:est_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
     "name:fin_x_preferred":[
         "Monninkyl\u00e4"
     ],
+    "name:fra_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
+    "name:gle_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30cb\u30f3\u30ad\u30e5\u30e9"
+    ],
+    "name:lav_x_preferred":[
+        "Monninkile"
+    ],
     "name:nld_x_preferred":[
         "Monninkyl\u00e4"
+    ],
+    "name:nob_x_preferred":[
+        "Monby"
     ],
     "name:pol_x_preferred":[
         "Monninkyl\u00e4"
@@ -43,11 +70,29 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d\u043d\u0438\u043a\u044e\u043b\u044f"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u043e\u043d\u043d\u0438\u043d\u043a\u044e\u043b\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
+    "name:slk_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
+    "name:spa_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
+    "name:sqi_x_preferred":[
+        "Monninkyl\u00e4"
+    ],
     "name:swe_x_preferred":[
         "Monby"
     ],
     "name:swe_x_variant":[
         "M\u00e5nby"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u043d\u0456\u043d\u043a\u044e\u043b\u044f"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -105,7 +150,7 @@
         }
     ],
     "wof:id":1125999629,
-    "wof:lastmodified":1566595394,
+    "wof:lastmodified":1690879887,
     "wof:name":"Monninkyl\u00e4",
     "wof:parent_id":907198543,
     "wof:placetype":"locality",

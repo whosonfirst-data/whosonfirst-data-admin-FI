@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Tanhua"
+    ],
     "name:eng_x_preferred":[
         "Tanhua"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043d\u0445\u0443\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tanhua"
     ],
     "name:und_x_variant":[
         "Tankua"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1126021469,
-    "wof:lastmodified":1566595352,
+    "wof:lastmodified":1690879872,
     "wof:name":"Tanhua",
     "wof:parent_id":907199579,
     "wof:placetype":"locality",

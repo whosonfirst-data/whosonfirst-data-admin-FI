@@ -28,6 +28,9 @@
     "name:fin_x_preferred":[
         "Kylm\u00e4l\u00e4"
     ],
+    "name:swe_x_preferred":[
+        "Kylm\u00e4l\u00e4"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1126002723,
-    "wof:lastmodified":1566595434,
+    "wof:lastmodified":1690879896,
     "wof:name":"Kylm\u00e4l\u00e4",
     "wof:parent_id":907198511,
     "wof:placetype":"locality",

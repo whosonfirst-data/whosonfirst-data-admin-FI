@@ -21,11 +21,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:aze_x_preferred":[
+        "Askaynen"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0441\u043a\u0430\u0439\u043d\u0435\u043d"
     ],
     "name:bul_x_preferred":[
         "\u0410\u0441\u043a\u0430\u0438\u043d\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Askainen"
     ],
     "name:ceb_x_preferred":[
         "Askainen"
@@ -42,6 +48,9 @@
     "name:eng_x_preferred":[
         "Askainen"
     ],
+    "name:epo_x_preferred":[
+        "Askainen"
+    ],
     "name:est_x_preferred":[
         "Askaineni vald"
     ],
@@ -50,6 +59,12 @@
     ],
     "name:fra_x_preferred":[
         "Askainen"
+    ],
+    "name:gle_x_preferred":[
+        "Askainen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05e7\u05d9\u05d9\u05e0\u05df"
     ],
     "name:hun_x_preferred":[
         "Askainen"
@@ -90,6 +105,15 @@
     "name:sme_x_preferred":[
         "Askainen"
     ],
+    "name:smn_x_preferred":[
+        "Askainen"
+    ],
+    "name:sms_x_preferred":[
+        "Askainen"
+    ],
+    "name:spa_x_preferred":[
+        "Askainen"
+    ],
     "name:swe_x_preferred":[
         "Villn\u00e4s"
     ],
@@ -101,6 +125,9 @@
     ],
     "name:vie_x_preferred":[
         "Askainen"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u65af\u51ef\u5b81"
     ],
     "qs:a0":"Suomi#Finland",
     "qs:a1":"*Varsinais-Suomi#Egentliga Finland",
@@ -161,7 +188,7 @@
         }
     ],
     "wof:id":101872787,
-    "wof:lastmodified":1582312171,
+    "wof:lastmodified":1690879728,
     "wof:name":"Askainen",
     "wof:parent_id":907198919,
     "wof:placetype":"locality",

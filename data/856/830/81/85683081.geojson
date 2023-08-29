@@ -42,6 +42,12 @@
     "name:ast_x_preferred":[
         "Kymenlaakso"
     ],
+    "name:avk_x_preferred":[
+        "SuomiaKymenlaaksoGola"
+    ],
+    "name:aze_x_preferred":[
+        "Kyumenlaakso"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u044e\u043c\u0435\u043d\u043b\u0430\u0430\u043a\u0441\u0430"
     ],
@@ -100,6 +106,12 @@
     "name:fra_x_preferred":[
         "Vall\u00e9e de la Kymi"
     ],
+    "name:frr_x_preferred":[
+        "Kymenlaakso"
+    ],
+    "name:gle_x_preferred":[
+        "Gleann Kymi"
+    ],
     "name:glg_x_preferred":[
         "Kymenlaakso"
     ],
@@ -115,13 +127,22 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05de\u05e0\u05dc\u05d0\u05d0\u05e7\u05e1\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d9\u05de\u05e0\u05dc\u05d0\u05e7\u05e1\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u094d\u092f\u092e\u0947\u0902\u0932\u093e\u0915\u094d\u0938\u094b"
     ],
     "name:hun_x_preferred":[
         "Kymenlaakso"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0575\u0578\u0582\u0574\u0565\u0576\u056c\u0561\u0561\u056f\u057d\u0578"
+    ],
     "name:ind_x_preferred":[
+        "Kymenlaakso"
+    ],
+    "name:isl_x_preferred":[
         "Kymenlaakso"
     ],
     "name:ita_x_preferred":[
@@ -153,6 +174,9 @@
     ],
     "name:msa_x_preferred":[
         "Kymenlaakso"
+    ],
+    "name:nan_x_preferred":[
+        "Kymenlaakso T\u014da-khu"
     ],
     "name:nld_x_preferred":[
         "Kymenlaakso"
@@ -193,6 +217,12 @@
     "name:sme_x_preferred":[
         "Kymileagi eanangoddi"
     ],
+    "name:smn_x_preferred":[
+        "Kymileevi eenn\u00e2mkodde\u200e"
+    ],
+    "name:sms_x_preferred":[
+        "Kymilie\u02b9jj m\u00e4ddk\u00e5\u02b9dd"
+    ],
     "name:spa_x_preferred":[
         "Kymenlaakso"
     ],
@@ -229,8 +259,14 @@
     "name:vie_x_preferred":[
         "Kymenlaakso"
     ],
+    "name:wuu_x_preferred":[
+        "\u5c48\u7c73\u6cb3\u8c37\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u5c48\u7c73\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5c48\u7c73\u6cb3\u8c37\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"FIN",
@@ -328,7 +364,7 @@
         "wd:id":"Q5698"
     },
     "wof:country":"FI",
-    "wof:geomhash":"e6f6e905c45feda0b2e60e321e799f35",
+    "wof:geomhash":"15f58bbbf605fa4850be7496980eed3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -347,7 +383,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1684351574,
+    "wof:lastmodified":1690879674,
     "wof:name":"Kymenlaakso",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

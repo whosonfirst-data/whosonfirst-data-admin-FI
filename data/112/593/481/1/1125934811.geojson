@@ -22,8 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Aitolahti"
+    ],
     "name:eng_x_preferred":[
         "Aitolahti"
+    ],
+    "name:epo_x_preferred":[
+        "Aitolahti"
+    ],
+    "name:est_x_preferred":[
+        "Aitolahti vald"
     ],
     "name:fin_x_preferred":[
         "Aitolahti"
@@ -31,11 +40,32 @@
     "name:fra_x_preferred":[
         "Aitolahti"
     ],
+    "name:gle_x_preferred":[
+        "Aitolahti"
+    ],
     "name:nob_x_preferred":[
+        "Aitolahti"
+    ],
+    "name:sju_x_preferred":[
+        "Aitolahti"
+    ],
+    "name:sme_x_preferred":[
+        "Aitolahti"
+    ],
+    "name:smn_x_preferred":[
+        "Aitolahti"
+    ],
+    "name:sms_x_preferred":[
+        "Aitolahti"
+    ],
+    "name:spa_x_preferred":[
         "Aitolahti"
     ],
     "name:swe_x_preferred":[
         "Aitolahti"
+    ],
+    "name:swe_x_variant":[
+        "Aitolax"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -91,7 +121,7 @@
         }
     ],
     "wof:id":1125934811,
-    "wof:lastmodified":1566595338,
+    "wof:lastmodified":1690879867,
     "wof:name":"Aitolahti",
     "wof:parent_id":907199231,
     "wof:placetype":"locality",

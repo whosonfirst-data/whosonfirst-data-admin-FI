@@ -37,10 +37,16 @@
     "name:fra_x_preferred":[
         "Maxmo"
     ],
+    "name:gle_x_preferred":[
+        "Maxmo"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30af\u30b9\u30e2"
     ],
     "name:nld_x_preferred":[
+        "Maxmo"
+    ],
+    "name:nno_x_preferred":[
         "Maxmo"
     ],
     "name:nob_x_preferred":[
@@ -53,6 +59,12 @@
         "Maxmo"
     ],
     "name:sme_x_preferred":[
+        "Maksamaa"
+    ],
+    "name:smn_x_preferred":[
+        "Maksamaa"
+    ],
+    "name:sms_x_preferred":[
         "Maksamaa"
     ],
     "name:spa_x_preferred":[
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":1126005877,
-    "wof:lastmodified":1566595434,
+    "wof:lastmodified":1690879896,
     "wof:name":"Maxmo",
     "wof:parent_id":907199763,
     "wof:placetype":"locality",

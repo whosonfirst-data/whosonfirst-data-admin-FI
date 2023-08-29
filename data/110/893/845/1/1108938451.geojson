@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.8530942865,60.2318840834,24.8530942865,60.2318840834",
+    "geom:bbox":"24.853094,60.231884,24.853094,60.231884",
     "geom:latitude":60.231884,
     "geom:longitude":24.853094,
     "iso:country":"FI",
@@ -38,11 +38,20 @@
     "name:hun_x_preferred":[
         "Pit\u00e4j\u00e4nm\u00e4ki"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30bf\u30e4\u30f3\u30de\u30ad"
+    ],
     "name:nob_x_preferred":[
         "Sockenbacka"
     ],
     "name:swe_x_preferred":[
         "Sockenbacka"
+    ],
+    "name:tur_x_preferred":[
+        "Pit\u00e4j\u00e4nm\u00e4ki"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u6cf0\u5ef6\u8fc8\u57fa"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -63,7 +72,7 @@
     },
     "wof:country":"FI",
     "wof:created":1491360395,
-    "wof:geomhash":"3ed61f834f1288b6724f30e1d8b1768e",
+    "wof:geomhash":"9a32dd31042fb2c43e7d3abf5542512a",
     "wof:hierarchy":[
         {
             "borough_id":890536889,
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1108938451,
-    "wof:lastmodified":1566595022,
+    "wof:lastmodified":1690879709,
     "wof:name":"Pitajanmaki",
     "wof:parent_id":890537259,
     "wof:placetype":"neighbourhood",
@@ -90,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.85309428652226,
-    60.23188408340259,
-    24.85309428652226,
-    60.23188408340259
+    24.853094,
+    60.231884,
+    24.853094,
+    60.231884
 ],
-  "geometry": {"coordinates":[24.85309428652226,60.23188408340259],"type":"Point"}
+  "geometry": {"coordinates":[24.853094,60.231884],"type":"Point"}
 }

@@ -20,10 +20,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Laanila"
+    ],
     "name:eng_x_preferred":[
         "Laanila"
     ],
     "name:fin_x_preferred":[
+        "Laanila"
+    ],
+    "name:swe_x_preferred":[
         "Laanila"
     ],
     "qs_pg:aaroncc":"FI",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1126042297,
-    "wof:lastmodified":1566595361,
+    "wof:lastmodified":1690879876,
     "wof:name":"Laanila",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

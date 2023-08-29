@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "N\u00f6t\u00f6"
+    ],
     "name:eng_x_preferred":[
         "N\u00f6t\u00f6"
     ],
     "name:fin_x_preferred":[
+        "N\u00f6t\u00f6"
+    ],
+    "name:fra_x_preferred":[
         "N\u00f6t\u00f6"
     ],
     "name:nld_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125802227,
-    "wof:lastmodified":1566595388,
+    "wof:lastmodified":1690879885,
     "wof:name":"N\u00f6t\u00f6",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

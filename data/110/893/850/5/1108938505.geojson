@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"25.2031549256,60.2769459792,25.2031549256,60.2769459792",
+    "geom:bbox":"25.203155,60.276946,25.203155,60.276946",
     "geom:latitude":60.276946,
     "geom:longitude":25.203155,
     "iso:country":"FI",
@@ -29,6 +29,9 @@
     "name:est_x_preferred":[
         "Ultuna"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u062a\u0648\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ultuna"
     ],
@@ -36,6 +39,9 @@
         "Ultuna"
     ],
     "name:swe_x_preferred":[
+        "Ultuna"
+    ],
+    "name:tur_x_preferred":[
         "Ultuna"
     ],
     "src:lbl_centroid":"mz",
@@ -58,7 +64,7 @@
     },
     "wof:country":"FI",
     "wof:created":1491360425,
-    "wof:geomhash":"cd3fb4c719aebf9a2fac196408914861",
+    "wof:geomhash":"176483fb958d225d9ed3edb65f626968",
     "wof:hierarchy":[
         {
             "borough_id":890536893,
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108938505,
-    "wof:lastmodified":1566595023,
+    "wof:lastmodified":1690879710,
     "wof:name":"Ultuna",
     "wof:parent_id":1108727375,
     "wof:placetype":"neighbourhood",
@@ -98,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.20315492560791,
-    60.27694597915645,
-    25.20315492560791,
-    60.27694597915645
+    25.203155,
+    60.276946,
+    25.203155,
+    60.276946
 ],
-  "geometry": {"coordinates":[25.20315492560791,60.27694597915645],"type":"Point"}
+  "geometry": {"coordinates":[25.203155,60.276946],"type":"Point"}
 }

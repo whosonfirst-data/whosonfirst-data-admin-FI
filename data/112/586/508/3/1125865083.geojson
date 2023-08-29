@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Luhalahti"
+    ],
     "name:eng_x_preferred":[
         "Luhalahti"
     ],
     "name:fin_x_preferred":[
+        "Luhalahti"
+    ],
+    "name:swe_x_preferred":[
         "Luhalahti"
     ],
     "qs_pg:aaroncc":"FI",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125865083,
-    "wof:lastmodified":1566595370,
+    "wof:lastmodified":1690879879,
     "wof:name":"Luhalahti",
     "wof:parent_id":907199297,
     "wof:placetype":"locality",

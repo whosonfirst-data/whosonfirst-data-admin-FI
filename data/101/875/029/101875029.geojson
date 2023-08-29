@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0622\u0647\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0622\u0647\u0649"
+    ],
     "name:ast_x_preferred":[
         "Raahe"
     ],
@@ -63,6 +66,9 @@
     "name:fra_x_preferred":[
         "Raahe"
     ],
+    "name:gle_x_preferred":[
+        "Raahe"
+    ],
     "name:glg_x_preferred":[
         "Raahe"
     ],
@@ -78,13 +84,22 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30fc\u30d8"
     ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10d0\u10f0\u10d4"
+    ],
     "name:lit_x_preferred":[
         "Rah\u0117"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0420\u0430\u0430\u0433\u044d"
     ],
     "name:mrj_x_preferred":[
         "\u0420\u0430\u0430\u0445\u0435"
     ],
     "name:nld_x_preferred":[
+        "Raahe"
+    ],
+    "name:nno_x_preferred":[
         "Raahe"
     ],
     "name:nob_x_preferred":[
@@ -120,6 +135,12 @@
     "name:sme_x_preferred":[
         "Raahe"
     ],
+    "name:smn_x_preferred":[
+        "Raahe"
+    ],
+    "name:sms_x_preferred":[
+        "Raahe"
+    ],
     "name:spa_x_preferred":[
         "Raahe"
     ],
@@ -140,6 +161,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u06c1\u06d2"
+    ],
+    "name:uzb_x_preferred":[
+        "Raahe"
     ],
     "name:vep_x_preferred":[
         "Raahe"
@@ -207,7 +231,7 @@
         }
     ],
     "wof:id":101875029,
-    "wof:lastmodified":1582312171,
+    "wof:lastmodified":1690879729,
     "wof:name":"Raahe",
     "wof:parent_id":907199449,
     "wof:placetype":"locality",

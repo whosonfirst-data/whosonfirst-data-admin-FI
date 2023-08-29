@@ -23,6 +23,9 @@
     "name:ast_x_preferred":[
         "Peders\u00f6ren kunta"
     ],
+    "name:cat_x_preferred":[
+        "Peders\u00f6re"
+    ],
     "name:ceb_x_preferred":[
         "Peders\u00f6re"
     ],
@@ -32,13 +35,25 @@
     "name:eng_x_preferred":[
         "Peders\u00f6re"
     ],
+    "name:epo_x_preferred":[
+        "Peders\u00f6re"
+    ],
     "name:est_x_preferred":[
         "Peders\u00f6re vald"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u062f\u0631\u0633\u0648\u0631\u0647"
     ],
     "name:fin_x_preferred":[
         "Peders\u00f6ren kunta"
     ],
+    "name:fin_x_variant":[
+        "Peders\u00f6re"
+    ],
     "name:fra_x_preferred":[
+        "Peders\u00f6re"
+    ],
+    "name:gle_x_preferred":[
         "Peders\u00f6re"
     ],
     "name:glg_x_preferred":[
@@ -50,11 +65,17 @@
     "name:nld_x_preferred":[
         "Peders\u00f6re"
     ],
+    "name:nno_x_preferred":[
+        "Peders\u00f6re"
+    ],
     "name:nob_x_preferred":[
         "Peders\u00f6re"
     ],
     "name:pol_x_preferred":[
         "Peders\u00f6ren kunta"
+    ],
+    "name:pol_x_variant":[
+        "Peders\u00f6re"
     ],
     "name:ron_x_preferred":[
         "Peders\u00f6re"
@@ -64,6 +85,12 @@
     ],
     "name:sme_x_preferred":[
         "Peders\u00f6re gielda"
+    ],
+    "name:smn_x_preferred":[
+        "Peders\u00f6re"
+    ],
+    "name:sms_x_preferred":[
+        "Peders\u00f6re k\u00e5\u02b9dd"
     ],
     "name:spa_x_preferred":[
         "Peders\u00f6re"
@@ -134,7 +161,7 @@
         }
     ],
     "wof:id":1125934543,
-    "wof:lastmodified":1566595335,
+    "wof:lastmodified":1690879867,
     "wof:name":"Peders\u00f6re",
     "wof:parent_id":907199161,
     "wof:placetype":"locality",

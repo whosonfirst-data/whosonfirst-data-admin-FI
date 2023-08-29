@@ -22,13 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Somerniemi"
+    ],
     "name:deu_x_preferred":[
         "Somerniemi"
     ],
     "name:eng_x_preferred":[
         "Somerniemi"
     ],
+    "name:epo_x_preferred":[
+        "Somerniemi"
+    ],
     "name:fin_x_preferred":[
+        "Somerniemi"
+    ],
+    "name:fra_x_preferred":[
+        "Somerniemi"
+    ],
+    "name:gle_x_preferred":[
         "Somerniemi"
     ],
     "name:nld_x_preferred":[
@@ -37,11 +49,29 @@
     "name:nob_x_preferred":[
         "Somerniemi"
     ],
+    "name:sju_x_preferred":[
+        "Somerniemi"
+    ],
+    "name:sme_x_preferred":[
+        "Somerniemi"
+    ],
+    "name:smn_x_preferred":[
+        "Somerniemi"
+    ],
+    "name:sms_x_preferred":[
+        "Somerniemi"
+    ],
+    "name:spa_x_preferred":[
+        "Somerniemi"
+    ],
     "name:sqi_x_preferred":[
         "Somerniemi"
     ],
     "name:swe_x_preferred":[
         "Sommarn\u00e4s"
+    ],
+    "name:uzb_x_preferred":[
+        "Somerniemi"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -99,7 +129,7 @@
         }
     ],
     "wof:id":1125848969,
-    "wof:lastmodified":1566595456,
+    "wof:lastmodified":1690879901,
     "wof:name":"Somerniemi",
     "wof:parent_id":907198549,
     "wof:placetype":"locality",

@@ -37,8 +37,14 @@
     "name:fin_x_preferred":[
         "Nellim"
     ],
+    "name:fra_x_preferred":[
+        "Nellim"
+    ],
     "name:hun_x_preferred":[
         "Nellim"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30ea\u30e0"
     ],
     "name:nld_x_preferred":[
         "Nellim"
@@ -58,8 +64,17 @@
     "name:sms_x_preferred":[
         "Nje\u00e4'llem"
     ],
+    "name:sms_x_variant":[
+        "Nje\u00e4\u02b9llem"
+    ],
+    "name:spa_x_preferred":[
+        "Nellim"
+    ],
     "name:swe_x_preferred":[
         "Nellim"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u5229\u59c6"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":1125768199,
-    "wof:lastmodified":1566595439,
+    "wof:lastmodified":1690879898,
     "wof:name":"Nellim",
     "wof:parent_id":907199567,
     "wof:placetype":"locality",

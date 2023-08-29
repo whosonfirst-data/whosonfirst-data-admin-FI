@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0646\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0627\u0646\u062a\u0627"
+    ],
     "name:ast_x_preferred":[
         "Vantaa"
     ],
@@ -65,6 +68,9 @@
     "name:dan_x_preferred":[
         "Vantaa"
     ],
+    "name:dan_x_variant":[
+        "Vanda"
+    ],
     "name:deu_x_preferred":[
         "Vantaa"
     ],
@@ -86,10 +92,19 @@
     "name:fas_x_preferred":[
         "\u0648\u0627\u0646\u062a\u0627"
     ],
+    "name:fij_x_preferred":[
+        "Vantaa"
+    ],
     "name:fin_x_preferred":[
         "Vantaa"
     ],
     "name:fra_x_preferred":[
+        "Vantaa"
+    ],
+    "name:frr_x_preferred":[
+        "Vantaa"
+    ],
+    "name:gle_x_preferred":[
         "Vantaa"
     ],
     "name:glg_x_preferred":[
@@ -161,6 +176,9 @@
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u0902\u091f\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0412\u0430\u043d\u0442\u0430\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u0412\u0430\u043d\u0442\u0430"
     ],
@@ -224,6 +242,12 @@
     "name:sme_x_variant":[
         "Vantaa"
     ],
+    "name:smn_x_preferred":[
+        "Vantaa"
+    ],
+    "name:sms_x_preferred":[
+        "Vantaa"
+    ],
     "name:spa_x_preferred":[
         "Vantaa"
     ],
@@ -269,6 +293,9 @@
     "name:vol_x_preferred":[
         "Vantaa"
     ],
+    "name:vro_x_preferred":[
+        "Vantaa"
+    ],
     "name:war_x_preferred":[
         "Vantaa"
     ],
@@ -301,13 +328,13 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683067,
         102191581,
-        85633143,
-        1159321633,
-        136253047,
         907199651,
+        85633143,
         404227411,
-        85683067
+        136253047,
+        1159321633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -342,7 +369,7 @@
         }
     ],
     "wof:id":101748419,
-    "wof:lastmodified":1607721922,
+    "wof:lastmodified":1690879733,
     "wof:name":"Vantaa",
     "wof:parent_id":907199651,
     "wof:placetype":"locality",

@@ -42,6 +42,15 @@
     "name:ast_x_preferred":[
         "Tavastia Propia"
     ],
+    "name:avk_x_preferred":[
+        "SuomiaKantaH\u00e4meGola"
+    ],
+    "name:aze_x_preferred":[
+        "Kanta-Hyame"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043d\u0442\u0430-\u0425\u044f\u043c\u0435"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b8\u09cd\u09a4\u09bf\u09af\u09bc\u09be \u09aa\u09cd\u09b0\u09aa\u09be\u09b0"
     ],
@@ -102,6 +111,12 @@
     "name:fra_x_preferred":[
         "Kanta-H\u00e4me"
     ],
+    "name:frr_x_preferred":[
+        "Kanta-H\u00e4me"
+    ],
+    "name:gle_x_preferred":[
+        "Bun na Tabhastlainne"
+    ],
     "name:glg_x_preferred":[
         "Tavastia Propia"
     ],
@@ -117,14 +132,23 @@
     "name:heb_x_preferred":[
         "\u05d8\u05d1\u05e1\u05d8\u05d9\u05d4 \u05e4\u05e8\u05d5\u05e4\u05e8"
     ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d0\u05e0\u05d8\u05d4-\u05d4\u05de\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u0935\u093e\u0938\u094d\u091f\u093f\u092f\u093e \u092a\u094d\u0930\u0949\u092a\u0930"
     ],
     "name:hun_x_preferred":[
         "Bels\u0151-Tavastia"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0576\u057f\u0561-\u053d\u0575\u0561\u0574\u0565"
+    ],
     "name:ind_x_preferred":[
         "Tavastia Proper"
+    ],
+    "name:isl_x_preferred":[
+        "Kanta-H\u00e4me"
     ],
     "name:ita_x_preferred":[
         "Kanta-H\u00e4me"
@@ -155,6 +179,9 @@
     ],
     "name:msa_x_preferred":[
         "Tavastia Proper"
+    ],
+    "name:nan_x_preferred":[
+        "Kanta-H\u00e4me T\u014da-khu"
     ],
     "name:nld_x_preferred":[
         "Kanta-H\u00e4me"
@@ -201,6 +228,12 @@
     "name:sme_x_preferred":[
         "Kanta-H\u00e4me eanangoddi"
     ],
+    "name:smn_x_preferred":[
+        "Kanta-H\u00e4me eenn\u00e2mkodde\u200e"
+    ],
+    "name:sms_x_preferred":[
+        "Kanta-H\u00e4me m\u00e4ddk\u00e5\u02b9dd"
+    ],
     "name:spa_x_preferred":[
         "Tavastia Propia"
     ],
@@ -226,6 +259,9 @@
     "name:tel_x_preferred":[
         "\u0c1f\u0c35\u0c3e\u0c38\u0c4d\u0c1f\u0c3f\u0c2f\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c2a\u0c30\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u041a\u043e\u043d\u0442\u043e-\u04b2\u043e\u043c\u0435"
+    ],
     "name:tha_x_preferred":[
         "\u0e17\u0e32\u0e27\u0e32\u0e2a\u0e40\u0e17\u0e35\u0e22 \u0e42\u0e1e\u0e23\u0e40\u0e1e\u0e2d"
     ],
@@ -243,6 +279,9 @@
     ],
     "name:vie_x_preferred":[
         "Tavastia Proper"
+    ],
+    "name:wuu_x_preferred":[
+        "\u574e\u5854\u6d77\u6885\u533a"
     ],
     "name:zho_x_preferred":[
         "\u574e\u5854\u6d77\u6885\u5340"
@@ -343,7 +382,7 @@
         "wd:id":"Q5695"
     },
     "wof:country":"FI",
-    "wof:geomhash":"64a2eaecfcc6bfe925892bc14d836e3a",
+    "wof:geomhash":"91ee22c6b6acfb2204757952262938b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -362,7 +401,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1684351573,
+    "wof:lastmodified":1690879677,
     "wof:name":"Tavastia Proper",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

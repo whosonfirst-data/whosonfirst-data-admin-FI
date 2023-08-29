@@ -29,6 +29,15 @@
     "name:fra_x_preferred":[
         "Kukkum\u00e4ki"
     ],
+    "name:sme_x_preferred":[
+        "Kukkum\u00e4ki"
+    ],
+    "name:smn_x_preferred":[
+        "Kukkum\u00e4ki"
+    ],
+    "name:sms_x_preferred":[
+        "Kukkum\u00e4ki"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Kukkum\u00e4ki",
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1125889057,
-    "wof:lastmodified":1566595378,
+    "wof:lastmodified":1690879882,
     "wof:name":"Kukkum\u00e4ki",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",

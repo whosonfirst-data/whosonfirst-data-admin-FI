@@ -31,14 +31,23 @@
     "name:eng_x_preferred":[
         "Ini\u00f6"
     ],
+    "name:epo_x_preferred":[
+        "Ini\u00f6"
+    ],
     "name:fin_x_preferred":[
         "Ini\u00f6"
     ],
     "name:fra_x_preferred":[
         "Ini\u00f6"
     ],
+    "name:gle_x_preferred":[
+        "Ini\u00f6"
+    ],
     "name:ita_x_preferred":[
         "Ini\u00f6"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30cb\u30aa"
     ],
     "name:nld_x_preferred":[
         "Ini\u00f6"
@@ -53,6 +62,9 @@
         "Ini\u00f6"
     ],
     "name:sme_x_preferred":[
+        "Ini\u00f6"
+    ],
+    "name:smn_x_preferred":[
         "Ini\u00f6"
     ],
     "name:swe_x_preferred":[
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":1125913479,
-    "wof:lastmodified":1566595417,
+    "wof:lastmodified":1690879892,
     "wof:name":"Ini\u00f6",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

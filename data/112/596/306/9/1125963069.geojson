@@ -22,10 +22,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Vuotso"
+    ],
     "name:eng_x_preferred":[
         "Vuotso"
     ],
+    "name:est_x_preferred":[
+        "Vuotso vald"
+    ],
     "name:fin_x_preferred":[
+        "Vuotso"
+    ],
+    "name:nob_x_preferred":[
         "Vuotso"
     ],
     "name:rus_x_preferred":[
@@ -33,6 +42,15 @@
     ],
     "name:sme_x_preferred":[
         "Vuoh\u010d\u010du"
+    ],
+    "name:smn_x_preferred":[
+        "Vu\u00e1\u010d\u010du"
+    ],
+    "name:sms_x_preferred":[
+        "Vu\u00f5ccu"
+    ],
+    "name:spa_x_preferred":[
+        "Vuotso"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -92,7 +110,7 @@
         }
     ],
     "wof:id":1125963069,
-    "wof:lastmodified":1566595409,
+    "wof:lastmodified":1690879891,
     "wof:name":"Vuotso",
     "wof:parent_id":907199561,
     "wof:placetype":"locality",

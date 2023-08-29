@@ -34,6 +34,12 @@
     "name:rus_x_preferred":[
         "\u041b\u0443\u0441\u0438"
     ],
+    "name:swe_x_preferred":[
+        "Lusi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0441\u0456"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125789037,
-    "wof:lastmodified":1566595446,
+    "wof:lastmodified":1690879899,
     "wof:name":"Lusi",
     "wof:parent_id":907198689,
     "wof:placetype":"locality",

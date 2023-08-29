@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "S\u00e4rkisalo"
+    ],
     "name:deu_x_preferred":[
         "S\u00e4rkisalo"
     ],
@@ -31,10 +34,16 @@
     "name:epo_x_preferred":[
         "S\u00e4rkisalo"
     ],
+    "name:est_x_preferred":[
+        "S\u00e4rkisalo vald"
+    ],
     "name:fin_x_preferred":[
         "S\u00e4rkisalo"
     ],
     "name:fra_x_preferred":[
+        "S\u00e4rkisalo"
+    ],
+    "name:gle_x_preferred":[
         "S\u00e4rkisalo"
     ],
     "name:ita_x_preferred":[
@@ -56,6 +65,15 @@
         "\u0421\u044f\u0440\u043a\u0438\u0441\u0430\u043b\u043e"
     ],
     "name:sme_x_preferred":[
+        "S\u00e4rkisalo"
+    ],
+    "name:smn_x_preferred":[
+        "S\u00e4rkisalo"
+    ],
+    "name:sms_x_preferred":[
+        "S\u00e4rkisalo"
+    ],
+    "name:spa_x_preferred":[
         "S\u00e4rkisalo"
     ],
     "name:swe_x_preferred":[
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":1125898193,
-    "wof:lastmodified":1566595381,
+    "wof:lastmodified":1690879883,
     "wof:name":"S\u00e4rkisalo",
     "wof:parent_id":907198943,
     "wof:placetype":"locality",

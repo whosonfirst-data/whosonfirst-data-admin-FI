@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000137,
     "geom:area_square_m":735334.90747,
-    "geom:bbox":"26.9904117625,64.1765450705,27.0147766592,64.1852508212",
+    "geom:bbox":"26.990412,64.176545,27.014777,64.185251",
     "geom:latitude":64.181012,
     "geom:longitude":27.002239,
     "gn:population":2557,
@@ -20,7 +20,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Vuolijoki"
+    ],
+    "name:cat_x_preferred":[
+        "Vuolijoki"
+    ],
     "name:ceb_x_preferred":[
+        "Vuolijoki"
+    ],
+    "name:dan_x_preferred":[
         "Vuolijoki"
     ],
     "name:deu_x_preferred":[
@@ -35,10 +44,19 @@
     "name:est_x_preferred":[
         "Vuolijoki vald"
     ],
+    "name:eus_x_preferred":[
+        "Vuolijoki"
+    ],
     "name:fin_x_preferred":[
         "Vuolijoki"
     ],
+    "name:fit_x_preferred":[
+        "Vuolijoki"
+    ],
     "name:fra_x_preferred":[
+        "Vuolijoki"
+    ],
+    "name:gle_x_preferred":[
         "Vuolijoki"
     ],
     "name:ita_x_preferred":[
@@ -47,10 +65,19 @@
     "name:nld_x_preferred":[
         "Vuolijoki"
     ],
+    "name:nno_x_preferred":[
+        "Vuolijoki"
+    ],
     "name:nob_x_preferred":[
         "Vuolijoki"
     ],
     "name:nor_x_preferred":[
+        "Vuolijoki"
+    ],
+    "name:pol_x_preferred":[
+        "Vuolijoki"
+    ],
+    "name:por_x_preferred":[
         "Vuolijoki"
     ],
     "name:ron_x_preferred":[
@@ -59,7 +86,28 @@
     "name:rus_x_preferred":[
         "\u0412\u0443\u043e\u043b\u0438\u0439\u043e"
     ],
+    "name:sje_x_preferred":[
+        "Vuolijoki"
+    ],
+    "name:sju_x_preferred":[
+        "Vuolijoki"
+    ],
+    "name:sma_x_preferred":[
+        "Vuolijoki"
+    ],
     "name:sme_x_preferred":[
+        "Vuolijoki"
+    ],
+    "name:smj_x_preferred":[
+        "Vuolijoki"
+    ],
+    "name:smn_x_preferred":[
+        "Vuolijoki"
+    ],
+    "name:sms_x_preferred":[
+        "Vuolijoki"
+    ],
+    "name:spa_x_preferred":[
         "Vuolijoki"
     ],
     "name:swe_x_preferred":[
@@ -105,7 +153,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4139b850157c2721834415f41f4ffc36",
+    "wof:geomhash":"165b378328559821c73d65e1e7d2044d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,7 +167,7 @@
         }
     ],
     "wof:id":101847047,
-    "wof:lastmodified":1582312181,
+    "wof:lastmodified":1690879792,
     "wof:name":"Vuolijoki",
     "wof:parent_id":907199455,
     "wof:placetype":"locality",
@@ -131,10 +179,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.99041176248903,
-    64.1765450705372,
-    27.01477665915587,
-    64.18525082121096
+    26.990412,
+    64.176545,
+    27.014777,
+    64.185251
 ],
-  "geometry": {"coordinates":[[[27.00736682197822,64.1843811149198],[27.00683319895745,64.18351034797359],[27.01477665915587,64.18264027522002],[27.01424284887969,64.18176953648987],[27.01225708298682,64.18198708437194],[27.01065604233457,64.17937483622831],[27.01264164007148,64.17915731070627],[27.01104076421524,64.1765450705372],[26.99714215405561,64.17806707272638],[26.99660899505369,64.17719627066708],[26.99462342056057,64.17741359305688],[26.99515652350635,64.1782844025621],[26.99317086426169,64.17850170763381],[26.99370394810239,64.17937252299066],[26.99171820409941,64.17958981074293],[26.99385068478318,64.18307308601788],[26.99186468778112,64.18329037878584],[26.99239784428141,64.18416120106718],[26.99041176248903,64.18437847651171],[26.99094489986828,64.18524930464633],[26.99888927914111,64.18438002446157],[26.99942267784957,64.18525082121096],[27.00736682197822,64.1843811149198]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[27.007367,64.184381],[27.006833,64.18351],[27.014777,64.18264000000001],[27.014243,64.18177],[27.012257,64.18198700000001],[27.010656,64.17937499999999],[27.012642,64.179157],[27.011041,64.176545],[26.997142,64.178067],[26.996609,64.177196],[26.994623,64.177414],[26.995157,64.178284],[26.993171,64.17850199999999],[26.993704,64.179373],[26.991718,64.17959],[26.993851,64.18307299999999],[26.991865,64.18329],[26.992398,64.184161],[26.990412,64.184378],[26.990945,64.185249],[26.998889,64.18438],[26.999423,64.18525099999999],[27.007367,64.184381]]],"type":"Polygon"}
 }

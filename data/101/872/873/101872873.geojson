@@ -26,10 +26,19 @@
     "name:eng_x_preferred":[
         "Rautio"
     ],
+    "name:epo_x_preferred":[
+        "Rautio"
+    ],
+    "name:est_x_preferred":[
+        "Rautio vald"
+    ],
     "name:fin_x_preferred":[
         "Rautio"
     ],
     "name:fra_x_preferred":[
+        "Rautio"
+    ],
+    "name:gle_x_preferred":[
         "Rautio"
     ],
     "name:nob_x_preferred":[
@@ -44,7 +53,16 @@
     "name:sme_x_preferred":[
         "Rautio"
     ],
+    "name:smn_x_preferred":[
+        "Rautio"
+    ],
+    "name:sms_x_preferred":[
+        "Rautio"
+    ],
     "name:swe_x_preferred":[
+        "Rautio"
+    ],
+    "name:uzb_x_preferred":[
         "Rautio"
     ],
     "qs:a0":"Suomi#Finland",
@@ -100,7 +118,7 @@
         }
     ],
     "wof:id":101872873,
-    "wof:lastmodified":1582312170,
+    "wof:lastmodified":1690879723,
     "wof:name":"Rautio",
     "wof:parent_id":907199617,
     "wof:placetype":"locality",

@@ -28,10 +28,16 @@
     "name:bel_x_preferred":[
         "\u0425\u044f\u043c\u0435\u044d\u043d\u043a\u044e\u0440\u044d"
     ],
+    "name:cat_x_preferred":[
+        "H\u00e4meenkyr\u00f6"
+    ],
     "name:ceb_x_preferred":[
         "H\u00e4meenkyr\u00f6"
     ],
     "name:ces_x_preferred":[
+        "H\u00e4meenkyr\u00f6"
+    ],
+    "name:cym_x_preferred":[
         "H\u00e4meenkyr\u00f6"
     ],
     "name:dan_x_preferred":[
@@ -46,6 +52,9 @@
     "name:eng_x_preferred":[
         "H\u00e4meenkyr\u00f6"
     ],
+    "name:epo_x_preferred":[
+        "H\u00e4meenkyr\u00f6"
+    ],
     "name:est_x_preferred":[
         "H\u00e4meenkyr\u00f6 vald"
     ],
@@ -58,6 +67,9 @@
     "name:gla_x_preferred":[
         "H\u00e4meenkyr\u00f6"
     ],
+    "name:gle_x_preferred":[
+        "H\u00e4meenkyr\u00f6"
+    ],
     "name:glg_x_preferred":[
         "H\u00e4meenkyr\u00f6"
     ],
@@ -67,8 +79,14 @@
     "name:ita_x_preferred":[
         "H\u00e4meenkyr\u00f6"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30e1\u30fc\u30f3\u30ad\u30e5\u30ed"
+    ],
     "name:nld_x_preferred":[
         "H\u00e4meenkyr\u00f6"
+    ],
+    "name:nno_x_preferred":[
+        "Tavastkyro"
     ],
     "name:nob_x_preferred":[
         "Tavastkyro"
@@ -94,6 +112,12 @@
     "name:sme_x_preferred":[
         "H\u00e4meenkyr\u00f6"
     ],
+    "name:smn_x_preferred":[
+        "H\u00e4meenkyr\u00f6"
+    ],
+    "name:sms_x_preferred":[
+        "H\u00e4meenkyr\u00f6"
+    ],
     "name:spa_x_preferred":[
         "H\u00e4meenkyr\u00f6"
     ],
@@ -111,6 +135,9 @@
     ],
     "name:tur_x_preferred":[
         "H\u00e4meenkyr\u00f6"
+    ],
+    "name:uzb_x_preferred":[
+        "Xameenkyro"
     ],
     "name:vie_x_preferred":[
         "H\u00e4meenkyr\u00f6"
@@ -163,7 +190,7 @@
         }
     ],
     "wof:id":1125959231,
-    "wof:lastmodified":1566595345,
+    "wof:lastmodified":1690879870,
     "wof:name":"H\u00e4meenkyr\u00f6",
     "wof:parent_id":907199131,
     "wof:placetype":"locality",

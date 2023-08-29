@@ -42,6 +42,9 @@
     "name:ast_x_preferred":[
         "Ostrobotnia Central"
     ],
+    "name:aze_x_preferred":[
+        "M\u0259rk\u0259zi Ostrobotniya"
+    ],
     "name:bel_x_preferred":[
         "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u041f\u043e\u0445'\u044f\u043d\u043c\u0430\u0430"
     ],
@@ -97,6 +100,12 @@
     "name:fra_x_preferred":[
         "Ostrobotnie-Centrale"
     ],
+    "name:frr_x_preferred":[
+        "Madel\u00f6sterbotten"
+    ],
+    "name:gle_x_preferred":[
+        "L\u00e1r na hOstrab\u00f3itne"
+    ],
     "name:glg_x_preferred":[
         "Ostrobotnia Central"
     ],
@@ -123,6 +132,9 @@
     ],
     "name:isl_x_preferred":[
         "Mellersta \u00d6sterbotten"
+    ],
+    "name:isl_x_variant":[
+        "Mi\u00f0-Austurbotn"
     ],
     "name:ita_x_preferred":[
         "Ostrobotnia centrale"
@@ -156,6 +168,9 @@
     ],
     "name:msa_x_preferred":[
         "Central Ostrobothnia"
+    ],
+    "name:nan_x_preferred":[
+        "Tiong Ostrobothnia T\u014da-khu"
     ],
     "name:nld_x_preferred":[
         "Keski-Pohjanmaa"
@@ -202,6 +217,15 @@
     "name:sme_x_preferred":[
         "Gaska-Pohjanmaa eanangoddi"
     ],
+    "name:sme_x_variant":[
+        "Gaska-Ba\u0111aeatnama eanangoddi"
+    ],
+    "name:smn_x_preferred":[
+        "Kosk\u00e2-Tavepoo\u0111\u00e2eenn\u00e2m eenn\u00e2mkodde\u200e"
+    ],
+    "name:sms_x_preferred":[
+        "K\u00f5skk-Vu\u00e2\u0111\u0111m\u00e4\u00e4dd m\u00e4ddk\u00e5\u02b9dd"
+    ],
     "name:spa_x_preferred":[
         "Ostrobotnia Central"
     ],
@@ -243,6 +267,9 @@
     ],
     "name:vie_x_preferred":[
         "Mi\u1ec1n Trung Ostrobothnia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e2d\u535a\u6ed5\u533a"
     ],
     "name:zho_x_preferred":[
         "\u4e2d\u535a\u6ed5\u5340"
@@ -343,7 +370,7 @@
         "wd:id":"Q5696"
     },
     "wof:country":"FI",
-    "wof:geomhash":"b2aad7aef6edbebef23cf9c90157a5ba",
+    "wof:geomhash":"f901b4c26f567cbf4bbe6666acf8d434",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -362,7 +389,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1684351581,
+    "wof:lastmodified":1690879671,
     "wof:name":"Central Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

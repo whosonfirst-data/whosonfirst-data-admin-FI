@@ -46,6 +46,9 @@
     "name:swe_x_preferred":[
         "Obbn\u00e4s"
     ],
+    "name:uzb_x_preferred":[
+        "Upinniemi"
+    ],
     "name:zho_x_preferred":[
         "\u70cf\u54c1\u6d85\u7c73"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1126005711,
-    "wof:lastmodified":1566595436,
+    "wof:lastmodified":1690879896,
     "wof:name":"Upinniemi",
     "wof:parent_id":907198511,
     "wof:placetype":"locality",

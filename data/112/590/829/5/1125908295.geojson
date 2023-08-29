@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Kaleva"
+    ],
     "name:cat_x_preferred":[
         "Kaleva"
     ],
@@ -77,6 +80,9 @@
         "Kaleva"
     ],
     "name:swe_x_preferred":[
+        "Kaleva"
+    ],
+    "name:tur_x_preferred":[
         "Kaleva"
     ],
     "qs_pg:aaroncc":"FI",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1125908295,
-    "wof:lastmodified":1566595399,
+    "wof:lastmodified":1690879889,
     "wof:name":"Kaleva",
     "wof:parent_id":907199231,
     "wof:placetype":"locality",

@@ -42,6 +42,12 @@
     "name:ast_x_preferred":[
         "Savonia del Norte"
     ],
+    "name:avk_x_preferred":[
+        "SuomiaPohjoisSavoGola"
+    ],
+    "name:aze_x_preferred":[
+        "\u015eimali Savoniya"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430\u0435 \u0421\u0430\u0432\u0430"
     ],
@@ -100,6 +106,12 @@
     "name:fra_x_preferred":[
         "Savonie du Nord"
     ],
+    "name:frr_x_preferred":[
+        "Nuurdsavo"
+    ],
+    "name:gle_x_preferred":[
+        "An tSabh\u00f3in Thuaidh"
+    ],
     "name:glg_x_preferred":[
         "Savonia do Norte"
     ],
@@ -123,6 +135,9 @@
     ],
     "name:ind_x_preferred":[
         "Savonia Utara"
+    ],
+    "name:isl_x_preferred":[
+        "Nor\u00f0ur-Savon\u00eda"
     ],
     "name:ita_x_preferred":[
         "Savo settentrionale"
@@ -157,6 +172,9 @@
     "name:msa_x_preferred":[
         "Northern Savonia"
     ],
+    "name:nan_x_preferred":[
+        "Pak Savonia T\u014da-khu"
+    ],
     "name:nld_x_preferred":[
         "Pohjois-Savo"
     ],
@@ -174,6 +192,9 @@
     ],
     "name:oci_x_preferred":[
         "Sav\u00f2nia del N\u00f2rd"
+    ],
+    "name:oss_x_preferred":[
+        "\u0426\u00e6\u0433\u0430\u0442 \u0421\u0430\u0432\u043e"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u062a\u0644\u0627 \u0633\u0627\u0648\u0648\u0646\u06cc\u0627"
@@ -209,6 +230,12 @@
     ],
     "name:sme_x_preferred":[
         "Davvi-Savo eanangoddi"
+    ],
+    "name:smn_x_preferred":[
+        "Tave-Savo eenn\u00e2mkodde\u200e"
+    ],
+    "name:sms_x_preferred":[
+        "T\u00e2\u02b9vv-Savo m\u00e4ddk\u00e5\u02b9dd"
     ],
     "name:spa_x_preferred":[
         "Savonia del Norte"
@@ -247,8 +274,14 @@
     "name:vie_x_preferred":[
         "Ph\u00eda B\u1eafc Savonia"
     ],
+    "name:wuu_x_preferred":[
+        "\u5317\u8428\u6c83\u5c3c\u4e9a\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u5317\u85a9\u6c83\u5c3c\u4e9e\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5317\u8428\u6c83"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"FIN",
@@ -346,7 +379,7 @@
         "wd:id":"Q5706"
     },
     "wof:country":"FI",
-    "wof:geomhash":"965de59a6cbb892f2d4a7f858efa639a",
+    "wof:geomhash":"3a372038a03a5017815084c5f691feaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -365,7 +398,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1684351581,
+    "wof:lastmodified":1690879668,
     "wof:name":"Northern Savonia",
     "wof:parent_id":404227407,
     "wof:placetype":"region",

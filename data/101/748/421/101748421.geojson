@@ -29,7 +29,16 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0643\u0648"
     ],
+    "name:arg_x_preferred":[
+        "Turku"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0631\u0643\u0648"
+    ],
     "name:ast_x_preferred":[
+        "Turku"
+    ],
+    "name:aym_x_preferred":[
         "Turku"
     ],
     "name:aze_x_preferred":[
@@ -92,6 +101,12 @@
     "name:deu_x_preferred":[
         "Turku"
     ],
+    "name:diq_x_preferred":[
+        "Turku"
+    ],
+    "name:dsb_x_preferred":[
+        "Turku"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03bf\u03cd\u03c1\u03ba\u03bf\u03c5"
     ],
@@ -107,13 +122,25 @@
     "name:eus_x_preferred":[
         "Turku"
     ],
+    "name:ewe_x_preferred":[
+        "Turku"
+    ],
+    "name:fao_x_preferred":[
+        "\u00c5bo"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u0631\u06a9\u0648"
+    ],
+    "name:fij_x_preferred":[
+        "Turku"
     ],
     "name:fin_x_preferred":[
         "Turku"
     ],
     "name:fra_x_preferred":[
+        "Turku"
+    ],
+    "name:frr_x_preferred":[
         "Turku"
     ],
     "name:fry_x_preferred":[
@@ -130,6 +157,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac1\u0ab0\u0acd\u0a95\u0ac1"
+    ],
+    "name:hau_x_preferred":[
+        "Turku"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e8\u05e7\u05d5"
@@ -152,6 +182,9 @@
     "name:ile_x_preferred":[
         "Turku"
     ],
+    "name:ina_x_preferred":[
+        "Turku"
+    ],
     "name:ind_x_preferred":[
         "Turku"
     ],
@@ -166,6 +199,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30eb\u30af"
+    ],
+    "name:kaa_x_preferred":[
+        "Turku"
     ],
     "name:kal_x_preferred":[
         "Turku"
@@ -200,11 +236,17 @@
     "name:mar_x_preferred":[
         "\u0924\u0941\u0930\u094d\u0915\u0942"
     ],
+    "name:mdf_x_preferred":[
+        "\u0422\u0443\u0440\u043a\u0443"
+    ],
     "name:mhr_x_preferred":[
         "\u0422\u0443\u0440\u043a\u0443"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0443\u0440\u043a\u0443"
+    ],
+    "name:mlt_x_preferred":[
+        "Turku"
     ],
     "name:mon_x_preferred":[
         "\u0422\u0443\u0440\u043a\u0443"
@@ -269,11 +311,17 @@
     "name:que_x_preferred":[
         "Turku"
     ],
+    "name:rmf_x_preferred":[
+        "Leenjako fooros"
+    ],
     "name:ron_x_preferred":[
         "Turku"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u0440\u043a\u0443"
+    ],
+    "name:sag_x_preferred":[
+        "Turku"
     ],
     "name:scn_x_preferred":[
         "Turku"
@@ -329,10 +377,16 @@
     "name:tel_x_preferred":[
         "\u0c1f\u0c42\u0c30\u0c4d\u0c15\u0c42"
     ],
+    "name:tet_x_preferred":[
+        "Turku"
+    ],
     "name:tha_x_preferred":[
         "\u0e15\u0e38\u0e23\u0e01\u0e38"
     ],
     "name:tuk_x_preferred":[
+        "Turku"
+    ],
+    "name:tum_x_preferred":[
         "Turku"
     ],
     "name:tur_x_preferred":[
@@ -347,6 +401,9 @@
     "name:uzb_x_preferred":[
         "Abo"
     ],
+    "name:vec_x_preferred":[
+        "Turku"
+    ],
     "name:vep_x_preferred":[
         "Turku"
     ],
@@ -358,6 +415,9 @@
     ],
     "name:war_x_preferred":[
         "Turku"
+    ],
+    "name:wuu_x_preferred":[
+        "\u56fe\u5c14\u5e93"
     ],
     "name:yue_x_preferred":[
         "\u675c\u53e4"
@@ -487,13 +547,13 @@
     "wd:population":182247,
     "wd:wordcount":4762,
     "wof:belongsto":[
+        85683073,
         102191581,
-        85633143,
-        1159321603,
-        136253047,
         907198909,
+        85633143,
         404227405,
-        85683073
+        136253047,
+        1159321603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -525,7 +585,7 @@
         }
     ],
     "wof:id":101748421,
-    "wof:lastmodified":1607721922,
+    "wof:lastmodified":1690879733,
     "wof:name":"Turku",
     "wof:parent_id":907198909,
     "wof:placetype":"locality",

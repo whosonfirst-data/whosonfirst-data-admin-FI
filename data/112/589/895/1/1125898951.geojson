@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Hirvikoski"
+    ],
     "name:eng_x_preferred":[
         "Hirvikoski"
     ],
     "name:fin_x_preferred":[
+        "Hirvikoski"
+    ],
+    "name:swe_x_preferred":[
         "Hirvikoski"
     ],
     "qs_pg:aaroncc":"FI",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1125898951,
-    "wof:lastmodified":1566595381,
+    "wof:lastmodified":1690879883,
     "wof:name":"Hirvikoski",
     "wof:parent_id":907198963,
     "wof:placetype":"locality",

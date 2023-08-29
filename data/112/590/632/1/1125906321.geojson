@@ -22,13 +22,22 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Vuonislahti"
+    ],
     "name:eng_x_preferred":[
         "Vuonislahti"
     ],
     "name:fin_x_preferred":[
         "Vuonislahti"
     ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30aa\u30cb\u30b9\u30e9\u30cf\u30c6\u30a3"
+    ],
     "name:nld_x_preferred":[
+        "Vuonislahti"
+    ],
+    "name:swe_x_preferred":[
         "Vuonislahti"
     ],
     "qs_pg:aaroncc":"FI",
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1125906321,
-    "wof:lastmodified":1566595400,
+    "wof:lastmodified":1690879889,
     "wof:name":"Vuonislahti",
     "wof:parent_id":907199605,
     "wof:placetype":"locality",

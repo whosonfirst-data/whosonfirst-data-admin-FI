@@ -36,6 +36,9 @@
     "name:cym_x_preferred":[
         "Ohcejohka"
     ],
+    "name:dan_x_preferred":[
+        "Utsjoki"
+    ],
     "name:deu_x_preferred":[
         "Utsjoki"
     ],
@@ -51,10 +54,16 @@
     "name:eus_x_preferred":[
         "Utsjoki"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062a\u0633\u06cc\u0648\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Utsjoki"
     ],
     "name:fra_x_preferred":[
+        "Utsjoki"
+    ],
+    "name:gle_x_preferred":[
         "Utsjoki"
     ],
     "name:glg_x_preferred":[
@@ -63,11 +72,20 @@
     "name:hun_x_preferred":[
         "Utsjoki"
     ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u057f\u057d\u0575\u0578\u056f\u056b"
+    ],
     "name:ita_x_preferred":[
         "Utsjoki"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30c4\u30e8\u30ad"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e2\u10e1\u10d8\u10dd\u10d9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uce20\uc694\ud0a4"
     ],
     "name:lat_x_preferred":[
         "Utsjoki"
@@ -119,6 +137,9 @@
     ],
     "name:tur_x_preferred":[
         "Utsjoki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0442\u0441\u0439\u043e\u043a\u0456"
     ],
     "name:und_x_variant":[
         "Utsyoki"
@@ -184,7 +205,7 @@
         }
     ],
     "wof:id":1175611479,
-    "wof:lastmodified":1582312166,
+    "wof:lastmodified":1690879712,
     "wof:name":"Utsjoki",
     "wof:parent_id":907199575,
     "wof:placetype":"locality",

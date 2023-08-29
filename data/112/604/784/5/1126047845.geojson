@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Houtsk\u00e4r"
     ],
+    "name:gle_x_preferred":[
+        "Houtsk\u00e4r"
+    ],
     "name:ita_x_preferred":[
         "Houtsk\u00e4r"
     ],
@@ -57,6 +60,9 @@
         "\u0425\u043e\u0443\u0442\u0441\u043a\u0430\u0440\u0438"
     ],
     "name:sme_x_preferred":[
+        "Houtskari"
+    ],
+    "name:smn_x_preferred":[
         "Houtskari"
     ],
     "name:spa_x_preferred":[
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":1126047845,
-    "wof:lastmodified":1566595362,
+    "wof:lastmodified":1690879876,
     "wof:name":"Houtskari",
     "wof:parent_id":907199741,
     "wof:placetype":"locality",

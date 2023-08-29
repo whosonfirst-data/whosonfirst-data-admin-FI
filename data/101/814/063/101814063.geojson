@@ -23,7 +23,13 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0641\u0648\u0646\u0644\u064a\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0641\u0648\u0646\u0644\u064a\u0646\u0627"
+    ],
     "name:ast_x_preferred":[
+        "Savonlinna"
+    ],
+    "name:avk_x_preferred":[
         "Savonlinna"
     ],
     "name:bak_x_preferred":[
@@ -80,6 +86,9 @@
     "name:fra_x_preferred":[
         "Savonlinna"
     ],
+    "name:gle_x_preferred":[
+        "Savonlinna"
+    ],
     "name:glg_x_preferred":[
         "Savonlinna"
     ],
@@ -110,8 +119,14 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30f4\u30a9\u30f3\u30ea\u30f3\u30ca"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d5\u10dd\u10dc\u10da\u10d8\u10dc\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\ubcf8\ub9b0\ub098"
+    ],
+    "name:lav_x_preferred":[
+        "Savonlinna"
     ],
     "name:lit_x_preferred":[
         "Savonlina"
@@ -178,6 +193,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0648\u0648\u0646\u0644\u06cc\u0646\u0627"
+    ],
+    "name:vep_x_preferred":[
+        "Savonlidn"
     ],
     "name:vie_x_preferred":[
         "Savonlinna"
@@ -334,7 +352,7 @@
         }
     ],
     "wof:id":101814063,
-    "wof:lastmodified":1636494411,
+    "wof:lastmodified":1690879816,
     "wof:name":"Savonlinna",
     "wof:parent_id":907198867,
     "wof:placetype":"locality",

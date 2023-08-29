@@ -31,6 +31,9 @@
     "name:fin_x_preferred":[
         "Saarenkyl\u00e4"
     ],
+    "name:fra_x_preferred":[
+        "Saarenkyl\u00e4"
+    ],
     "name:swe_x_preferred":[
         "Saarenkyl\u00e4"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125887545,
-    "wof:lastmodified":1566595376,
+    "wof:lastmodified":1690879880,
     "wof:name":"Saarenkyl\u00e4",
     "wof:parent_id":907199591,
     "wof:placetype":"locality",

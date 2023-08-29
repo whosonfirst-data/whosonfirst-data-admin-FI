@@ -31,14 +31,23 @@
     "name:fin_x_preferred":[
         "Evo"
     ],
+    "name:fra_x_preferred":[
+        "Evo"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0441\u043e-\u042d\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u042d\u0432\u043e"
     ],
     "name:swe_x_preferred":[
         "Stor Evois"
     ],
     "name:swe_x_variant":[
         "Evois"
+    ],
+    "name:uzb_x_preferred":[
+        "Evo"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1125938701,
-    "wof:lastmodified":1566595338,
+    "wof:lastmodified":1690879867,
     "wof:name":"Iso-Evo",
     "wof:parent_id":907199245,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Juoksengi"
     ],
+    "name:dan_x_preferred":[
+        "Juoksengi"
+    ],
     "name:deu_x_preferred":[
         "Juoksengi"
     ],
@@ -35,7 +38,13 @@
     "name:fra_x_preferred":[
         "Juoksengi"
     ],
+    "name:gle_x_preferred":[
+        "Juoksengi"
+    ],
     "name:ita_x_preferred":[
+        "Juoksengi"
+    ],
+    "name:lld_x_preferred":[
         "Juoksengi"
     ],
     "name:nan_x_preferred":[
@@ -53,8 +62,14 @@
     "name:nor_x_preferred":[
         "Juoksengi"
     ],
+    "name:pol_x_preferred":[
+        "Juoksengi"
+    ],
     "name:rus_x_preferred":[
         "\u042e\u043e\u043a\u0441\u0435\u043d\u0433\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Juoksengi"
     ],
     "name:swe_x_preferred":[
         "Juoksengi"
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":101872897,
-    "wof:lastmodified":1582312171,
+    "wof:lastmodified":1690879728,
     "wof:name":"Juoksenki",
     "wof:parent_id":907199553,
     "wof:placetype":"locality",

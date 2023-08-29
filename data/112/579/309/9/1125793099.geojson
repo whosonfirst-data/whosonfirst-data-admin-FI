@@ -37,6 +37,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0443\u043a\u043a\u0430\u043b\u0430"
     ],
+    "name:uzb_x_preferred":[
+        "Tuukkala"
+    ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
     "qs_pg:gn_fcode":"PPL",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125793099,
-    "wof:lastmodified":1566595449,
+    "wof:lastmodified":1690879899,
     "wof:name":"Tuukkala",
     "wof:parent_id":907198755,
     "wof:placetype":"locality",

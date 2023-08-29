@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Pihlajavesi"
+    ],
     "name:deu_x_preferred":[
         "Pihlajavesi"
     ],
     "name:eng_x_preferred":[
         "Pihlajavesi"
+    ],
+    "name:epo_x_preferred":[
+        "Pihjalavesi"
     ],
     "name:est_x_preferred":[
         "Pihlajavesi vald"
@@ -37,11 +43,38 @@
     "name:fra_x_preferred":[
         "Pihlajavesi"
     ],
+    "name:gle_x_preferred":[
+        "Pihlajavesi"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041f\u0438\u0445\u043b\u0430\u044f\u0432\u0435\u0441\u0438"
+    ],
     "name:nob_x_preferred":[
         "Pihlajavesi"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u0445\u043b\u0430\u044f\u0432\u0435\u0441\u0438"
+    ],
+    "name:sjd_x_preferred":[
+        "\u041f\u0438\u0445\u043b\u0430\u044f\u0432\u0435\u0441\u0438"
+    ],
+    "name:sju_x_preferred":[
+        "Pihlajavesi"
+    ],
+    "name:sme_x_preferred":[
+        "Pihlajavesi"
+    ],
+    "name:smj_x_preferred":[
+        "Pihlajavesi"
+    ],
+    "name:smn_x_preferred":[
+        "Pihlajavesi"
+    ],
+    "name:sms_x_preferred":[
+        "Pihlajavesi"
+    ],
+    "name:spa_x_preferred":[
+        "Pihlajavesi"
     ],
     "name:swe_x_preferred":[
         "Pihlajavesi"
@@ -102,7 +135,7 @@
         }
     ],
     "wof:id":1125830909,
-    "wof:lastmodified":1566595459,
+    "wof:lastmodified":1690879902,
     "wof:name":"Pihlajavesi",
     "wof:parent_id":907199179,
     "wof:placetype":"locality",

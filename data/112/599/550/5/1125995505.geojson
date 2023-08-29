@@ -20,10 +20,40 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kartano"
+    ],
     "name:eng_x_preferred":[
         "Kartano"
     ],
+    "name:est_x_preferred":[
+        "Kartano"
+    ],
     "name:fin_x_preferred":[
+        "Kartano"
+    ],
+    "name:fra_x_preferred":[
+        "Kartano"
+    ],
+    "name:nob_x_preferred":[
+        "Kartano"
+    ],
+    "name:sju_x_preferred":[
+        "Kartano"
+    ],
+    "name:sme_x_preferred":[
+        "Kartano"
+    ],
+    "name:smn_x_preferred":[
+        "Kartano"
+    ],
+    "name:sms_x_preferred":[
+        "Kartano"
+    ],
+    "name:spa_x_preferred":[
+        "Kartano"
+    ],
+    "name:swe_x_preferred":[
         "Kartano"
     ],
     "qs_pg:aaroncc":"FI",
@@ -80,7 +110,7 @@
         }
     ],
     "wof:id":1125995505,
-    "wof:lastmodified":1566595395,
+    "wof:lastmodified":1690879887,
     "wof:name":"Kartano",
     "wof:parent_id":907198647,
     "wof:placetype":"locality",

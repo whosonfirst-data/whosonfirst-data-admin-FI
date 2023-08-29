@@ -22,11 +22,23 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Teisko"
+    ],
+    "name:dan_x_preferred":[
+        "Teisko"
+    ],
     "name:deu_x_preferred":[
         "Teisko"
     ],
     "name:eng_x_preferred":[
         "Teisko"
+    ],
+    "name:epo_x_preferred":[
+        "Teisko"
+    ],
+    "name:est_x_preferred":[
+        "Teisko vald"
     ],
     "name:fin_x_preferred":[
         "Teisko"
@@ -34,7 +46,25 @@
     "name:fra_x_preferred":[
         "Teisko"
     ],
+    "name:gle_x_preferred":[
+        "Teisko"
+    ],
     "name:nob_x_preferred":[
+        "Teisko"
+    ],
+    "name:sju_x_preferred":[
+        "Teisko"
+    ],
+    "name:sme_x_preferred":[
+        "Teisko"
+    ],
+    "name:smn_x_preferred":[
+        "Teisko"
+    ],
+    "name:sms_x_preferred":[
+        "Teisko"
+    ],
+    "name:spa_x_preferred":[
         "Teisko"
     ],
     "name:swe_x_preferred":[
@@ -98,7 +128,7 @@
         }
     ],
     "wof:id":1126015179,
-    "wof:lastmodified":1566595430,
+    "wof:lastmodified":1690879894,
     "wof:name":"Teisko",
     "wof:parent_id":907199231,
     "wof:placetype":"locality",

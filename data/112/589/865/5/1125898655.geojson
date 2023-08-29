@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Karis"
     ],
+    "name:epo_x_preferred":[
+        "Karis"
+    ],
     "name:est_x_preferred":[
         "Karis"
     ],
@@ -38,6 +41,9 @@
         "Karjaa"
     ],
     "name:fra_x_preferred":[
+        "Karis"
+    ],
+    "name:gle_x_preferred":[
         "Karis"
     ],
     "name:glg_x_preferred":[
@@ -67,6 +73,9 @@
     "name:pol_x_preferred":[
         "Karjaa"
     ],
+    "name:pol_x_variant":[
+        "Karis"
+    ],
     "name:ron_x_preferred":[
         "Karis"
     ],
@@ -79,6 +88,9 @@
     "name:sme_x_preferred":[
         "Karjaa"
     ],
+    "name:smn_x_preferred":[
+        "Karjaa"
+    ],
     "name:swe_x_preferred":[
         "Karis"
     ],
@@ -87,6 +99,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0439\u0430\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u0440\u0439c"
     ],
     "name:und_x_variant":[
         "Karja"
@@ -145,7 +160,7 @@
         }
     ],
     "wof:id":1125898655,
-    "wof:lastmodified":1566595384,
+    "wof:lastmodified":1690879884,
     "wof:name":"Karis",
     "wof:parent_id":907199747,
     "wof:placetype":"locality",

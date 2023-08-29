@@ -25,8 +25,17 @@
     "name:ara_x_preferred":[
         "\u0648\u0641\u064a\u0633\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u0648\u0641\u064a\u0633\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0648\u0641\u064a\u0633\u0627"
+    ],
     "name:ast_x_preferred":[
         "Loviisa"
+    ],
+    "name:aze_x_preferred":[
+        "Loviysa"
     ],
     "name:bel_x_preferred":[
         "\u041b\u043e\u0432\u0456\u0439\u0441\u0430"
@@ -52,6 +61,9 @@
     "name:eng_x_preferred":[
         "Loviisa"
     ],
+    "name:epo_x_preferred":[
+        "Loviisa"
+    ],
     "name:est_x_preferred":[
         "Loviisa linn"
     ],
@@ -65,6 +77,9 @@
         "Loviisa"
     ],
     "name:fra_x_preferred":[
+        "Loviisa"
+    ],
+    "name:gle_x_preferred":[
         "Loviisa"
     ],
     "name:glg_x_preferred":[
@@ -97,11 +112,17 @@
     "name:nld_x_preferred":[
         "Loviisa"
     ],
+    "name:nno_x_preferred":[
+        "Lovisa"
+    ],
     "name:nob_x_preferred":[
         "Lovisa"
     ],
     "name:nor_x_preferred":[
         "Loviza"
+    ],
+    "name:nor_x_variant":[
+        "Lovisa"
     ],
     "name:pol_x_preferred":[
         "Loviisa"
@@ -127,6 +148,12 @@
     "name:sme_x_preferred":[
         "Loviisa"
     ],
+    "name:smn_x_preferred":[
+        "Loviisa"
+    ],
+    "name:sms_x_preferred":[
+        "Loviisa"
+    ],
     "name:spa_x_preferred":[
         "Loviisa"
     ],
@@ -144,6 +171,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u0648\u06cc\u0633\u0627"
+    ],
+    "name:vep_x_preferred":[
+        "Loviis"
     ],
     "name:zho_x_preferred":[
         "\u6d1b\u7dad\u85a9"
@@ -207,7 +237,7 @@
         }
     ],
     "wof:id":1125880295,
-    "wof:lastmodified":1566595379,
+    "wof:lastmodified":1690879882,
     "wof:name":"Lovisa",
     "wof:parent_id":907198469,
     "wof:placetype":"locality",

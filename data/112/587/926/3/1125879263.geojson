@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Alastaro"
     ],
+    "name:epo_x_preferred":[
+        "Alastaro"
+    ],
     "name:est_x_preferred":[
         "Alastaro vald"
     ],
@@ -35,6 +38,9 @@
         "Alastaro"
     ],
     "name:fra_x_preferred":[
+        "Alastaro"
+    ],
+    "name:gle_x_preferred":[
         "Alastaro"
     ],
     "name:ita_x_preferred":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1125879263,
-    "wof:lastmodified":1566595393,
+    "wof:lastmodified":1690879887,
     "wof:name":"Alastaro",
     "wof:parent_id":907198963,
     "wof:placetype":"locality",

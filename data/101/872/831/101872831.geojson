@@ -24,7 +24,19 @@
     "name:ast_x_preferred":[
         "Konnevesi"
     ],
+    "name:avk_x_preferred":[
+        "Konnevesi"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043d\u0435\u0432\u0435\u0441\u0456"
+    ],
+    "name:cat_x_preferred":[
+        "Konnevesi"
+    ],
     "name:ceb_x_preferred":[
+        "Konnevesi"
+    ],
+    "name:dan_x_preferred":[
         "Konnevesi"
     ],
     "name:deu_x_preferred":[
@@ -39,10 +51,16 @@
     "name:est_x_preferred":[
         "Konnevesi vald"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u0646\u0648\u0633\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Konnevesi"
     ],
     "name:fra_x_preferred":[
+        "Konnevesi"
+    ],
+    "name:gle_x_preferred":[
         "Konnevesi"
     ],
     "name:glg_x_preferred":[
@@ -50,6 +68,9 @@
     ],
     "name:ita_x_preferred":[
         "Konnevesi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30cd\u30f4\u30a7\u30b7"
     ],
     "name:nld_x_preferred":[
         "Konnevesi"
@@ -73,6 +94,15 @@
         "\u041a\u043e\u043d\u043d\u0435\u0432\u0435\u0441\u0438"
     ],
     "name:sme_x_preferred":[
+        "Konnevesi"
+    ],
+    "name:smn_x_preferred":[
+        "Konnevesi"
+    ],
+    "name:sms_x_preferred":[
+        "Konnevesi"
+    ],
+    "name:spa_x_preferred":[
         "Konnevesi"
     ],
     "name:sqi_x_preferred":[
@@ -143,7 +173,7 @@
         }
     ],
     "wof:id":101872831,
-    "wof:lastmodified":1582312171,
+    "wof:lastmodified":1690879727,
     "wof:name":"Konnevesi",
     "wof:parent_id":907199269,
     "wof:placetype":"locality",

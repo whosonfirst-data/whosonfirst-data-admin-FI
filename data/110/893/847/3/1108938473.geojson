@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.8705322302,60.158427376,24.8705322302,60.158427376",
+    "geom:bbox":"24.870532,60.158427,24.870532,60.158427",
     "geom:latitude":60.158427,
     "geom:longitude":24.870532,
     "iso:country":"FI",
@@ -23,6 +23,9 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":12.0,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0648\u062a\u0627\u0633\u0627\u0631\u064a"
+    ],
     "name:cat_x_preferred":[
         "Lauttasaari"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:est_x_preferred":[
         "Lauttasaari"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0648\u062a\u062a\u0627\u0633\u0627\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Lauttasaari"
@@ -71,6 +77,9 @@
     "name:tur_x_preferred":[
         "Lauttasaari"
     ],
+    "name:zho_x_preferred":[
+        "\u52b3\u5854\u8428\u91cc"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -90,7 +99,7 @@
     },
     "wof:country":"FI",
     "wof:created":1491360408,
-    "wof:geomhash":"a27948e9c9580a6bac15fdef633b1a78",
+    "wof:geomhash":"c701d6170284bc3d6a102323c3553767",
     "wof:hierarchy":[
         {
             "borough_id":890536879,
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":1108938473,
-    "wof:lastmodified":1566595024,
+    "wof:lastmodified":1690879711,
     "wof:name":"Lauttasaari",
     "wof:parent_id":890537261,
     "wof:placetype":"neighbourhood",
@@ -117,10 +126,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.87053223017157,
-    60.15842737599132,
-    24.87053223017157,
-    60.15842737599132
+    24.870532,
+    60.158427,
+    24.870532,
+    60.158427
 ],
-  "geometry": {"coordinates":[24.87053223017157,60.15842737599132],"type":"Point"}
+  "geometry": {"coordinates":[24.870532,60.158427],"type":"Point"}
 }

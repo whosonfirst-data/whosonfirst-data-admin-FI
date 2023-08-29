@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Kuivanto"
+    ],
     "name:eng_x_preferred":[
         "Kuivanto"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0439\u0432\u0430\u043d\u0442\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kuivanto"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125888449,
-    "wof:lastmodified":1566595376,
+    "wof:lastmodified":1690879881,
     "wof:name":"Kuivanto",
     "wof:parent_id":907198577,
     "wof:placetype":"locality",
