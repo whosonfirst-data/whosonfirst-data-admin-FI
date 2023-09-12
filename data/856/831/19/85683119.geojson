@@ -25,7 +25,10 @@
     "geom:longitude":21.640629,
     "iso:country":"FI",
     "label:eng_x_preferred_longname":[
-        "Ostrobothnia Province"
+        "Ostrobothnia Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":62.906168,
     "lbl:longitude":21.073023,
@@ -356,7 +359,7 @@
         "wd:id":"Q5702"
     },
     "wof:country":"FI",
-    "wof:geomhash":"85042e4e0593502f88eb5a860aff981b",
+    "wof:geomhash":"e732f77720305246db5102eb978a5433",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -375,7 +378,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879665,
+    "wof:lastmodified":1694493272,
     "wof:name":"Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

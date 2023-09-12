@@ -25,7 +25,10 @@
     "geom:longitude":26.252499,
     "iso:country":"FI",
     "label:eng_x_preferred_longname":[
-        "Northern Ostrobothnia Province"
+        "Northern Ostrobothnia Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":64.648641,
     "lbl:longitude":25.338559,
@@ -390,7 +393,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d77208ed4afc96b90188b4d1ebf2015e",
+    "wof:geomhash":"a69d4e0d83bc8c0f2001815e76678d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -409,7 +412,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879665,
+    "wof:lastmodified":1694493276,
     "wof:name":"Northern Ostrobothnia",
     "wof:parent_id":404227415,
     "wof:placetype":"region",

@@ -25,7 +25,10 @@
     "geom:longitude":25.70311,
     "iso:country":"FI",
     "label:eng_x_preferred_longname":[
-        "Paijanne Tavastia Province"
+        "Paijanne Tavastia Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":61.207691,
     "lbl:longitude":25.690159,
@@ -289,7 +292,7 @@
         "wd:id":"Q5708"
     },
     "wof:country":"FI",
-    "wof:geomhash":"eb52dcb9c050fb2a58ed8acd8ee2d568",
+    "wof:geomhash":"27b4a66643297af8dbb7e9b58bcbd7b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -308,7 +311,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879675,
+    "wof:lastmodified":1694493267,
     "wof:name":"Paijanne Tavastia",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

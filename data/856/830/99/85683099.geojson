@@ -27,13 +27,16 @@
     "label:eng_x_preferred_longname":[
         "Pirkanmaa Region"
     ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":61.708766,
     "lbl:longitude":23.673573,
     "lbl:min_zoom":8.0,
     "mps:latitude":61.711602,
     "mps:longitude":23.684731,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
     "name:ara_x_preferred":[
@@ -377,7 +380,7 @@
         "wd:id":"Q5701"
     },
     "wof:country":"FI",
-    "wof:geomhash":"d4553a603723f7eb1006a0833aeceea1",
+    "wof:geomhash":"ac83338d60f2b2e94d9b69ecd68e7fd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -396,7 +399,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879676,
+    "wof:lastmodified":1694493128,
     "wof:name":"Pirkanmaa",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

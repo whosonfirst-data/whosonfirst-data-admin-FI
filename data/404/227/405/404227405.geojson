@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.27842,
-    "geom:area_square_m":31849984350.081642,
+    "geom:area_square_m":31849984350.081696,
     "geom:bbox":"20.377543,59.475643,23.920549,62.311104",
     "geom:latitude":60.789483,
     "geom:longitude":22.037314,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Southwest Finland Regional Agency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regional agency"
+    ],
     "lbl:latitude":60.590987,
     "lbl:longitude":22.037302,
     "lbl:max_zoom":7.0,
@@ -193,7 +199,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"FI",
-    "wof:geomhash":"645f48205129ceeaf88cfe167f7a0b42",
+    "wof:geomhash":"cf69b2f45279a564c4d30b4a4f466008",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -211,7 +217,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1617131248,
+    "wof:lastmodified":1694493057,
     "wof:name":"Southwest Finland",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",

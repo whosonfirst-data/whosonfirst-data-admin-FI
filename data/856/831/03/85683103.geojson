@@ -25,7 +25,10 @@
     "geom:longitude":28.378393,
     "iso:country":"FI",
     "label:eng_x_preferred_longname":[
-        "South Karelia Province"
+        "South Karelia Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":61.013798,
     "lbl:longitude":28.00138,
@@ -380,7 +383,7 @@
         "wd:id":"Q5691"
     },
     "wof:country":"FI",
-    "wof:geomhash":"d52ffeacf0c9a99eec200d31565b87c0",
+    "wof:geomhash":"635948abf699552a08f26eecb389f335",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -399,7 +402,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879662,
+    "wof:lastmodified":1694493269,
     "wof:name":"South Karelia",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

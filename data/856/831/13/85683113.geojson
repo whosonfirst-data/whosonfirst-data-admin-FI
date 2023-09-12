@@ -25,7 +25,10 @@
     "geom:longitude":23.055883,
     "iso:country":"FI",
     "label:eng_x_preferred_longname":[
-        "Southern Ostrobothnia Province"
+        "Southern Ostrobothnia Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":62.837066,
     "lbl:longitude":23.078909,
@@ -369,7 +372,7 @@
         "wd:id":"Q5692"
     },
     "wof:country":"FI",
-    "wof:geomhash":"bcc5c9a491e6a90e1b7ae450738a7420",
+    "wof:geomhash":"b2bed2cd4ee3676a43495fe5c1e60b3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -388,7 +391,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879671,
+    "wof:lastmodified":1694493271,
     "wof:name":"Southern Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",
