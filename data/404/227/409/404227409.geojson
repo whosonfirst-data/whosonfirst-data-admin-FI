@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":21.258866,
-    "geom:area_square_m":99721722334.407684,
+    "geom:area_square_m":99721722334.407349,
     "geom:bbox":"20.551777,65.29248,30.017381,70.092049",
     "geom:latitude":67.701728,
     "geom:longitude":26.299628,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Lapland Regional Agency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regional agency"
+    ],
     "lbl:latitude":67.616229,
     "lbl:longitude":26.761877,
     "lbl:max_zoom":7.0,
@@ -107,7 +113,7 @@
         85683147
     ],
     "wof:country":"FI",
-    "wof:geomhash":"20ddf2d809d6669a203294c1eebd4dbb",
+    "wof:geomhash":"2c2f85314d3310ec0be860589e87df01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,7 +131,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1636494412,
+    "wof:lastmodified":1694493060,
     "wof:name":"Lapland",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",

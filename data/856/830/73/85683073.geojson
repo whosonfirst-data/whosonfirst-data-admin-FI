@@ -27,6 +27,9 @@
     "label:eng_x_preferred_longname":[
         "Southwest Finland Region"
     ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":60.2014,
     "lbl:longitude":22.011269,
     "lbl:min_zoom":8.0,
@@ -376,7 +379,7 @@
         "wd:id":"Q5712"
     },
     "wof:country":"FI",
-    "wof:geomhash":"b793841487255635275de4b255809f31",
+    "wof:geomhash":"5f236119e862de4a52b99c1b0953cf7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -395,7 +398,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879673,
+    "wof:lastmodified":1694493265,
     "wof:name":"Southwest Finland",
     "wof:parent_id":404227405,
     "wof:placetype":"region",

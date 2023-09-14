@@ -29,6 +29,9 @@
     "itu:country_code":[
         "358"
     ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous region"
+    ],
     "lbl:latitude":60.15205,
     "lbl:longitude":20.291594,
     "lbl:max_zoom":8.0,
@@ -843,7 +846,7 @@
         "wof:parent_id"
     ],
     "wof:country":"FI",
-    "wof:geomhash":"ced700e3fb8913ca9fd71cfdf028f4a4",
+    "wof:geomhash":"e087d86fd86e7ca424537400e71725cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -855,7 +858,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1690879678,
+    "wof:lastmodified":1694493032,
     "wof:name":"Aland",
     "wof:parent_id":136253047,
     "wof:placetype":"dependency",

@@ -25,7 +25,10 @@
     "geom:longitude":23.843277,
     "iso:country":"FI",
     "label:eng_x_preferred_longname":[
-        "Central Ostrobothnia Province"
+        "Central Ostrobothnia Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":63.569551,
     "lbl:longitude":24.186836,
@@ -370,7 +373,7 @@
         "wd:id":"Q5696"
     },
     "wof:country":"FI",
-    "wof:geomhash":"f901b4c26f567cbf4bbe6666acf8d434",
+    "wof:geomhash":"b2aad7aef6edbebef23cf9c90157a5ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -389,7 +392,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879671,
+    "wof:lastmodified":1694493273,
     "wof:name":"Central Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

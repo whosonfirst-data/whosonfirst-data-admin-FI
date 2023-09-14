@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.931922,
-    "geom:area_square_m":68093201520.512276,
+    "geom:area_square_m":68093201452.383606,
     "geom:bbox":"22.779415,63.429245,30.553791,66.486343",
     "geom:latitude":64.794615,
     "geom:longitude":27.075939,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Northern Finland Regional Agency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regional agency"
+    ],
     "lbl:latitude":64.869488,
     "lbl:longitude":27.076494,
     "lbl:max_zoom":7.0,
@@ -59,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"FI",
-    "wof:geomhash":"aad28bf12f9d64ea7412e9e8dac6f90a",
+    "wof:geomhash":"a7f80c1d10228545c558b019ff62bf24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +83,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1627522126,
+    "wof:lastmodified":1694493060,
     "wof:name":"Northern Finland",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",

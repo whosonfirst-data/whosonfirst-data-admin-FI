@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.960813,
-    "geom:area_square_m":42108241897.429733,
+    "geom:area_square_m":42108241897.429306,
     "geom:bbox":"22.658924,59.610999,30.143956,61.864316",
     "geom:latitude":60.70945,
     "geom:longitude":25.823409,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "Southern Finland Regional Agency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regional agency"
+    ],
     "lbl:latitude":60.826422,
     "lbl:longitude":25.766648,
     "lbl:max_zoom":7.0,
@@ -49,7 +55,7 @@
         "\u039d\u03cc\u03c4\u03b9\u03b1 \u03a6\u03b9\u03bd\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
-        "Southern Finland Province"
+        "Southern Finland"
     ],
     "name:epo_x_preferred":[
         "Suda Finnlando"
@@ -213,7 +219,7 @@
         "wd:id":"Q188752"
     },
     "wof:country":"FI",
-    "wof:geomhash":"e0f5c5cd671370e6b76783cbc608d164",
+    "wof:geomhash":"cf78922b9351424497734da7ff6e2648",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,7 +237,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879865,
+    "wof:lastmodified":1694639827,
     "wof:name":"Southern Finland Province",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",

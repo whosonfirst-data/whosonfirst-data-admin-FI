@@ -25,7 +25,10 @@
     "geom:longitude":26.945675,
     "iso:country":"FI",
     "label:eng_x_preferred_longname":[
-        "Kymenlaakso Province"
+        "Kymenlaakso Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":60.598743,
     "lbl:longitude":26.94614,
@@ -364,7 +367,7 @@
         "wd:id":"Q5698"
     },
     "wof:country":"FI",
-    "wof:geomhash":"15f58bbbf605fa4850be7496980eed3b",
+    "wof:geomhash":"e6f6e905c45feda0b2e60e321e799f35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -383,7 +386,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879674,
+    "wof:lastmodified":1694493266,
     "wof:name":"Kymenlaakso",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

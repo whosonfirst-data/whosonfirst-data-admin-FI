@@ -25,7 +25,10 @@
     "geom:longitude":25.423735,
     "iso:country":"FI",
     "label:eng_x_preferred_longname":[
-        "Central Finland Province"
+        "Central Finland Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":62.460613,
     "lbl:longitude":25.403161,
@@ -374,7 +377,7 @@
         "wd:id":"Q5697"
     },
     "wof:country":"FI",
-    "wof:geomhash":"ecabd6f932046cc5baf6c6ae9d88b451",
+    "wof:geomhash":"20da2a15211323b5e8b34ed0bd5545c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -393,7 +396,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879664,
+    "wof:lastmodified":1694493272,
     "wof:name":"Central Finland",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

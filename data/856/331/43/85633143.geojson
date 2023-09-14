@@ -23,6 +23,9 @@
     "itu:country_code":[
         "358"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "lbl:latitude":63.252357,
     "lbl:longitude":27.276469,
     "lbl:max_zoom":8.0,
@@ -1459,7 +1462,7 @@
         "quattroshapes",
         "naturalearth"
     ],
-    "wof:geomhash":"63ea47ea0ce0f113485618657e3315da",
+    "wof:geomhash":"d8d76ef37a0ded3c061fe65032134a44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1476,7 +1479,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879661,
+    "wof:lastmodified":1694492252,
     "wof:name":"Finland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

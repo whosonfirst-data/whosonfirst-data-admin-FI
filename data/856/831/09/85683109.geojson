@@ -25,7 +25,10 @@
     "geom:longitude":27.850573,
     "iso:country":"FI",
     "label:eng_x_preferred_longname":[
-        "Southern Savonia Province"
+        "Southern Savonia Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":61.859012,
     "lbl:longitude":27.362508,
@@ -354,7 +357,7 @@
         "wd:id":"Q5693"
     },
     "wof:country":"FI",
-    "wof:geomhash":"e73e7488135a093ed6dd5b432525371b",
+    "wof:geomhash":"86703f2e180f4c697e2bf674cdbb0c84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -373,7 +376,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879666,
+    "wof:lastmodified":1694493269,
     "wof:name":"Southern Savonia",
     "wof:parent_id":404227407,
     "wof:placetype":"region",

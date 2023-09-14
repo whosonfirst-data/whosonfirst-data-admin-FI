@@ -25,7 +25,10 @@
     "geom:longitude":24.760255,
     "iso:country":"FI",
     "label:eng_x_preferred_longname":[
-        "Uusimaa Province"
+        "Uusimaa Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":60.276941,
     "lbl:longitude":24.790343,
@@ -417,7 +420,7 @@
         "wd:id":"Q5711"
     },
     "wof:country":"FI",
-    "wof:geomhash":"0007bf94ecb25e70ab81b282f3f1d553",
+    "wof:geomhash":"d8f686f99c64148689b8397b4866d8a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -436,7 +439,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879672,
+    "wof:lastmodified":1694493264,
     "wof:name":"Uusimaa",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

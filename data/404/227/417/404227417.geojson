@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.810455,
-    "geom:area_square_m":72770928952.840179,
+    "geom:area_square_m":72770929189.445618,
     "geom:bbox":"20.165819,60.939755,26.780303,64.178969",
     "geom:latitude":62.64929,
     "geom:longitude":23.533029,
     "iso:country":"FI",
+    "label:eng_x_preferred_longname":[
+        "West Finland Regional Agency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regional agency"
+    ],
     "lbl:latitude":62.560369,
     "lbl:longitude":24.131704,
     "lbl:max_zoom":7.0,
@@ -60,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"FI",
-    "wof:geomhash":"21bb598a342557af87560225f3a20ad1",
+    "wof:geomhash":"9d08cbfa35d39033b3ce496f49901691",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +84,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1627522115,
+    "wof:lastmodified":1694493057,
     "wof:name":"West Finland",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",

@@ -25,7 +25,10 @@
     "geom:longitude":26.300799,
     "iso:country":"FI",
     "label:eng_x_preferred_longname":[
-        "Lapland Province"
+        "Lapland Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":67.613744,
     "lbl:longitude":26.765912,
@@ -386,7 +389,7 @@
         404227409
     ],
     "wof:country":"FI",
-    "wof:geomhash":"d95b33e3ed41832df29c2de68c448421",
+    "wof:geomhash":"9c603df9584d305ac11c40dea0dc3bab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -405,7 +408,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879669,
+    "wof:lastmodified":1694493276,
     "wof:name":"Lapland",
     "wof:parent_id":404227409,
     "wof:placetype":"region",

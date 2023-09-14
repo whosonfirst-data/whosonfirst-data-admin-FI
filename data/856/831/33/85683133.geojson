@@ -25,7 +25,10 @@
     "geom:longitude":29.939488,
     "iso:country":"FI",
     "label:eng_x_preferred_longname":[
-        "North Karelen Province"
+        "North Karelen Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":62.780693,
     "lbl:longitude":30.049511,
@@ -392,7 +395,7 @@
         "wd:id":"Q5703"
     },
     "wof:country":"FI",
-    "wof:geomhash":"e5c91f1cfdf2d6d772042c24a3091cae",
+    "wof:geomhash":"de9348e2f78ddd796b546d49752ce51b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -411,7 +414,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1690879663,
+    "wof:lastmodified":1694493274,
     "wof:name":"North Karelen",
     "wof:parent_id":404227407,
     "wof:placetype":"region",
