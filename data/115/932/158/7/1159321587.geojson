@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.469918,
-    "geom:area_square_m":2744378432.10988,
+    "geom:area_square_m":2744377717.951768,
     "geom:bbox":"24.524644,61.450703,25.596223,62.210801",
     "geom:latitude":61.81591,
     "geom:longitude":25.09953,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415421,
-    "wof:geomhash":"9a61816da15919aebe85f3df1fd650c0",
+    "wof:geomhash":"be322779b04c5ec4c4429d894997ebf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321587,
-    "wof:lastmodified":1627522120,
+    "wof:lastmodified":1695886593,
     "wof:name":"Jamsa",
     "wof:parent_id":85683117,
     "wof:placetype":"county",

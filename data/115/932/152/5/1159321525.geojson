@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.340545,
-    "geom:area_square_m":2079277486.396231,
+    "geom:area_square_m":2079277486.395858,
     "geom:bbox":"25.8010023716,60.0446972153,26.6563967257,60.7623454028",
     "geom:latitude":60.4108,
     "geom:longitude":26.233959,
@@ -153,7 +153,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415390,
-    "wof:geomhash":"9196d568b618fd43a060982d8605e60a",
+    "wof:geomhash":"c793772e4fe851686f044734bd22d773",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +165,7 @@
         }
     ],
     "wof:id":1159321525,
-    "wof:lastmodified":1566595576,
+    "wof:lastmodified":1695886731,
     "wof:name":"Loviisa",
     "wof:parent_id":85683067,
     "wof:placetype":"county",

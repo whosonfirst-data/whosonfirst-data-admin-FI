@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.205078,
-    "geom:area_square_m":6989295976.354627,
+    "geom:area_square_m":6989296051.815627,
     "geom:bbox":"27.861322,61.527305,29.696826,62.657022",
     "geom:latitude":62.027148,
     "geom:longitude":28.82847,
@@ -183,7 +183,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415353,
-    "wof:geomhash":"b55206f12f17070b04a22a52d7be1de7",
+    "wof:geomhash":"01e926640b096c57cf1b90ca23415283",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,7 +195,7 @@
         }
     ],
     "wof:id":1159321493,
-    "wof:lastmodified":1636494416,
+    "wof:lastmodified":1695886538,
     "wof:name":"Savonlinna",
     "wof:parent_id":85683109,
     "wof:placetype":"county",

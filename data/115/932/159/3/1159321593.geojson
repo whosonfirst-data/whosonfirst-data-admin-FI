@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.439574,
-    "geom:area_square_m":2695018766.880246,
+    "geom:area_square_m":2695018213.931373,
     "geom:bbox":"25.329288,59.928196,26.271298,60.735871",
     "geom:latitude":60.275369,
     "geom:longitude":25.71953,
@@ -222,7 +222,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415423,
-    "wof:geomhash":"8104b231c8cce6f2e0cd2b7433d74cb1",
+    "wof:geomhash":"b1526313778fc2bf65067ed3876d735e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -234,7 +234,7 @@
         }
     ],
     "wof:id":1159321593,
-    "wof:lastmodified":1636494412,
+    "wof:lastmodified":1695886531,
     "wof:name":"Porvoo",
     "wof:parent_id":85683067,
     "wof:placetype":"county",

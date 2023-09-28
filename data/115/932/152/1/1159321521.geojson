@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.821962,
-    "geom:area_square_m":4848218615.934048,
+    "geom:area_square_m":4848218615.93405,
     "geom:bbox":"22.8240685249,61.1995966763,24.9704799176,61.8629895063",
     "geom:latitude":61.509442,
     "geom:longitude":24.021848,
@@ -327,7 +327,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415388,
-    "wof:geomhash":"9aeb385d51707b20d71a2c446f1b73ca",
+    "wof:geomhash":"5f954924b2f5383601d9e7414edf3190",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -339,7 +339,7 @@
         }
     ],
     "wof:id":1159321521,
-    "wof:lastmodified":1566595573,
+    "wof:lastmodified":1695886730,
     "wof:name":"Tampere",
     "wof:parent_id":85683099,
     "wof:placetype":"county",

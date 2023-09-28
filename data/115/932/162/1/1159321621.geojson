@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198561,
-    "geom:area_square_m":1184949839.709967,
+    "geom:area_square_m":1184949905.79158,
     "geom:bbox":"23.227298,60.939755,24.297123,61.343825",
     "geom:latitude":61.143303,
     "geom:longitude":23.737314,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415438,
-    "wof:geomhash":"a8c765ee58a943adcfbb72d8fdce3c80",
+    "wof:geomhash":"c23a38a7127c3bbe1841d3e222375a38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321621,
-    "wof:lastmodified":1627522128,
+    "wof:lastmodified":1695886606,
     "wof:name":"Etela-Pirkanmaa",
     "wof:parent_id":85683099,
     "wof:placetype":"county",

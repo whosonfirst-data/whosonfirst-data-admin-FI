@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.445209,
-    "geom:area_square_m":2531866826.812195,
+    "geom:area_square_m":2531866893.021535,
     "geom:bbox":"23.161226,62.363326,24.584282,62.919732",
     "geom:latitude":62.618454,
     "geom:longitude":23.796505,
@@ -84,7 +84,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415404,
-    "wof:geomhash":"b386a3b8228fb3ad0368961471249305",
+    "wof:geomhash":"ff28c1feb86ffab7f95426a0d5b7df6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1159321555,
-    "wof:lastmodified":1627522125,
+    "wof:lastmodified":1695886599,
     "wof:name":"Kuusiokunnat",
     "wof:parent_id":85683113,
     "wof:placetype":"county",

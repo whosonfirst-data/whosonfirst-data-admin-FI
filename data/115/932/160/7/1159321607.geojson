@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.377446,
-    "geom:area_square_m":2254851885.910069,
+    "geom:area_square_m":2254851885.910133,
     "geom:bbox":"20.7731388539,60.8720057423,22.7015445018,61.3087891267",
     "geom:latitude":61.109852,
     "geom:longitude":21.802225,
@@ -117,7 +117,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415434,
-    "wof:geomhash":"8e8b3ff691091d68a3463592420ef393",
+    "wof:geomhash":"273445fb0c797b84dc39176e2d249d64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1159321607,
-    "wof:lastmodified":1566595494,
+    "wof:lastmodified":1695886718,
     "wof:name":"Rauma",
     "wof:parent_id":85683095,
     "wof:placetype":"county",

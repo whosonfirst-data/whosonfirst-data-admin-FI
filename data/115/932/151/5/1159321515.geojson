@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.301681,
-    "geom:area_square_m":7292808791.016761,
+    "geom:area_square_m":7292808443.702616,
     "geom:bbox":"24.215557,62.520833,26.334274,63.612293",
     "geom:latitude":63.057302,
     "geom:longitude":25.277819,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415379,
-    "wof:geomhash":"62403b131950834919698641b37d1730",
+    "wof:geomhash":"08fe7f952c5329429e1f8e105f3f22fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321515,
-    "wof:lastmodified":1627522130,
+    "wof:lastmodified":1695886607,
     "wof:name":"Saarijarvi-Viitasaari",
     "wof:parent_id":85683117,
     "wof:placetype":"county",

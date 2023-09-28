@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.725376,
-    "geom:area_square_m":3964671988.868139,
+    "geom:area_square_m":3964672346.258639,
     "geom:bbox":"24.521033,63.429131,26.291966,64.110644",
     "geom:latitude":63.766966,
     "geom:longitude":25.562894,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415421,
-    "wof:geomhash":"8c4dc7cc673b1c23ca0848a5e9d149d7",
+    "wof:geomhash":"41f566af3696e467d4f6acebcdb800b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321591,
-    "wof:lastmodified":1627522125,
+    "wof:lastmodified":1695886601,
     "wof:name":"Nivala-Haapajarvi",
     "wof:parent_id":85683143,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.584993,
-    "geom:area_square_m":3181313366.813217,
+    "geom:area_square_m":3181313366.812986,
     "geom:bbox":"22.287877,63.49911,24.49271,64.178969",
     "geom:latitude":63.90877,
     "geom:longitude":23.4039,
@@ -210,7 +210,7 @@
     ],
     "wof:country":"FI",
     "wof:created":1526415435,
-    "wof:geomhash":"74b55e102c04b484474ba525c08c4029",
+    "wof:geomhash":"609929b21a6db0e884802e883dbece8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -222,7 +222,7 @@
         }
     ],
     "wof:id":1159321609,
-    "wof:lastmodified":1636494413,
+    "wof:lastmodified":1695886535,
     "wof:name":"Kokkola",
     "wof:parent_id":85683125,
     "wof:placetype":"county",

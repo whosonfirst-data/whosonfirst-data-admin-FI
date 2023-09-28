@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.536064,
-    "geom:area_square_m":8579804404.872643,
+    "geom:area_square_m":8579804404.872532,
     "geom:bbox":"20.1658189049,62.6561838868,22.6582020865,63.6702322589",
     "geom:latitude":63.145569,
     "geom:longitude":21.27964,
@@ -219,7 +219,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415359,
-    "wof:geomhash":"f4437c8a20b4ebec896d15ff999cdb87",
+    "wof:geomhash":"ac3fc36c845c11cac82ecaaca5ac41bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,7 +231,7 @@
         }
     ],
     "wof:id":1159321501,
-    "wof:lastmodified":1566595474,
+    "wof:lastmodified":1695886711,
     "wof:name":"Vaasa",
     "wof:parent_id":85683119,
     "wof:placetype":"county",

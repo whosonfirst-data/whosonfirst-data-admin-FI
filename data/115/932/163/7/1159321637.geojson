@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.653048,
-    "geom:area_square_m":3936377211.443595,
+    "geom:area_square_m":3936379333.427295,
     "geom:bbox":"20.377543,60.430685,22.128467,61.13348",
     "geom:latitude":60.823933,
     "geom:longitude":21.257555,
@@ -81,7 +81,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415446,
-    "wof:geomhash":"37818ad2c9937fb295bd21d95b8b0ce6",
+    "wof:geomhash":"fa269d7dbaec8e45e26bc2b39a30fbe4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1159321637,
-    "wof:lastmodified":1642551729,
+    "wof:lastmodified":1695886501,
     "wof:name":"Vakka-Suomi",
     "wof:parent_id":85683073,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.172049,
-    "geom:area_square_m":6910966721.643808,
+    "geom:area_square_m":6910966721.644015,
     "geom:bbox":"20.8120814968,60.9825861877,23.0062343098,62.0245911947",
     "geom:latitude":61.519326,
     "geom:longitude":21.744809,
@@ -219,7 +219,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415409,
-    "wof:geomhash":"3d151096db9408044b5b302a639a6137",
+    "wof:geomhash":"cd235b0f4f4668734a04b90af89ead71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,7 +231,7 @@
         }
     ],
     "wof:id":1159321565,
-    "wof:lastmodified":1566595524,
+    "wof:lastmodified":1695886722,
     "wof:name":"Pori",
     "wof:parent_id":85683095,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.033233,
-    "geom:area_square_m":5837052955.440741,
+    "geom:area_square_m":5837052781.754878,
     "geom:bbox":"21.656976,62.269006,23.54054,63.398961",
     "geom:latitude":62.814232,
     "geom:longitude":22.800544,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415407,
-    "wof:geomhash":"e05d998228500775259fd9c67676d1f4",
+    "wof:geomhash":"c53cdc08c04eff14af9ad503f58a7b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321561,
-    "wof:lastmodified":1627522131,
+    "wof:lastmodified":1695886611,
     "wof:name":"Seinajoki",
     "wof:parent_id":85683113,
     "wof:placetype":"county",

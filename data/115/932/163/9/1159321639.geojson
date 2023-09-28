@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.814736,
-    "geom:area_square_m":4475423107.97157,
+    "geom:area_square_m":4475423995.490839,
     "geom:bbox":"21.599474,63.282048,23.835975,64.009382",
     "geom:latitude":63.625197,
     "geom:longitude":22.655295,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415446,
-    "wof:geomhash":"2b4dac19853e4170c664d8733b28b3d6",
+    "wof:geomhash":"5f2fb7421c5556ac2874598ebbeae9b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321639,
-    "wof:lastmodified":1627522133,
+    "wof:lastmodified":1695886615,
     "wof:name":"Jakobstadsregionen",
     "wof:parent_id":85683119,
     "wof:placetype":"county",

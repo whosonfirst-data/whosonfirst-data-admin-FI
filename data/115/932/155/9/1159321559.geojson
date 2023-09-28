@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.263338,
-    "geom:area_square_m":6380134853.520582,
+    "geom:area_square_m":6380135698.782127,
     "geom:bbox":"23.753599,65.29248,26.067324,66.337641",
     "geom:latitude":65.89484,
     "geom:longitude":24.829992,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415406,
-    "wof:geomhash":"95fc47033dee8f23e7131901b8335acd",
+    "wof:geomhash":"8a2b476ed8dcb482ab279ff443c30a6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321559,
-    "wof:lastmodified":1642551756,
+    "wof:lastmodified":1695886510,
     "wof:name":"Kemi-Tornio",
     "wof:parent_id":85683147,
     "wof:placetype":"county",

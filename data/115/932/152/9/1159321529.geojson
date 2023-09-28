@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.377515,
-    "geom:area_square_m":7196755551.625762,
+    "geom:area_square_m":7196757260.391117,
     "geom:bbox":"24.038591,64.462682,26.771562,65.572621",
     "geom:latitude":65.006343,
     "geom:longitude":25.586023,
@@ -297,7 +297,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415390,
-    "wof:geomhash":"ed6681ce15a41d4359df82478072c385",
+    "wof:geomhash":"a931c09fdb8be7b09d149e43e80a4e32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +309,7 @@
         }
     ],
     "wof:id":1159321529,
-    "wof:lastmodified":1636494415,
+    "wof:lastmodified":1695886536,
     "wof:name":"Oulu",
     "wof:parent_id":85683143,
     "wof:placetype":"county",

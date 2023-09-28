@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.353148,
-    "geom:area_square_m":11632747704.288523,
+    "geom:area_square_m":11632747402.969984,
     "geom:bbox":"24.736849,65.70064,27.494588,67.179768",
     "geom:latitude":66.434354,
     "geom:longitude":26.080882,
@@ -258,7 +258,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415389,
-    "wof:geomhash":"8f19cc851117c0ba17697dc88d96aaf3",
+    "wof:geomhash":"ea1f0df553dc99ae3c31dec2f066f5ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -270,7 +270,7 @@
         }
     ],
     "wof:id":1159321523,
-    "wof:lastmodified":1642551804,
+    "wof:lastmodified":1695886526,
     "wof:name":"Rovaniemi",
     "wof:parent_id":85683147,
     "wof:placetype":"county",

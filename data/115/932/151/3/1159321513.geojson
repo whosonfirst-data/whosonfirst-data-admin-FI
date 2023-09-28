@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.505597,
-    "geom:area_square_m":3027555138.007479,
+    "geom:area_square_m":3027555190.540935,
     "geom:bbox":"23.756757,60.744569,25.269663,61.324881",
     "geom:latitude":61.035352,
     "geom:longitude":24.556838,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415373,
-    "wof:geomhash":"0e7267a0d4db077f94b9202f910e029a",
+    "wof:geomhash":"20590820f05c33b542f0b0a0cf1a8175",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321513,
-    "wof:lastmodified":1627522119,
+    "wof:lastmodified":1695886589,
     "wof:name":"Hameenlinna",
     "wof:parent_id":85683077,
     "wof:placetype":"county",
