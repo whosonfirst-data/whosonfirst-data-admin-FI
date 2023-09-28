@@ -64,7 +64,10 @@
         136253047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iso:code":"FI-LS"
+    },
+    "wof:concordances_official":"iso:code",
     "wof:country":"FI",
     "wof:geomhash":"9d08cbfa35d39033b3ce496f49901691",
     "wof:hierarchy":[
@@ -84,7 +87,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493057,
+    "wof:lastmodified":1695884158,
     "wof:name":"West Finland",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",

@@ -108,7 +108,10 @@
         136253047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iso:code":"FI-LL"
+    },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         85683147
     ],
@@ -131,7 +134,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493060,
+    "wof:lastmodified":1695884161,
     "wof:name":"Lapland",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",
