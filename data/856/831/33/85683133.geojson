@@ -387,13 +387,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28319,
         "eurostat:nuts_2021_id":"FI1D3",
+        "figov:code":"312",
         "fips:code":"",
         "gn:id":830686,
         "gp:id":29389261,
         "hasc:id":"FI.",
+        "iso:code":"FI-13",
         "unlc:id":"FI-13",
         "wd:id":"Q5703"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"de9348e2f78ddd796b546d49752ce51b",
     "wof:hierarchy":[
@@ -414,7 +420,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493274,
+    "wof:lastmodified":1695885225,
     "wof:name":"North Karelen",
     "wof:parent_id":404227407,
     "wof:placetype":"region",

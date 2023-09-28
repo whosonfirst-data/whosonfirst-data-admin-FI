@@ -369,13 +369,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28328,
         "eurostat:nuts_2021_id":"FI196",
+        "figov:code":"204",
         "fips:code":"",
         "gn:id":831041,
         "gp:id":29389252,
         "hasc:id":"FI.",
+        "iso:code":"FI-17",
         "unlc:id":"FI-17",
         "wd:id":"Q5709"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"6c868446dfaaeb5352c61be6ccefab5e",
     "wof:hierarchy":[
@@ -396,7 +402,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493268,
+    "wof:lastmodified":1695885219,
     "wof:name":"Satakunta",
     "wof:parent_id":404227405,
     "wof:placetype":"region",

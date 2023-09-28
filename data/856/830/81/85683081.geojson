@@ -359,13 +359,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28316,
         "eurostat:nuts_2021_id":"FI1C4",
+        "figov:code":"108",
         "fips:code":"",
         "gn:id":830703,
         "gp:id":-29389251,
         "hasc:id":"FI.",
+        "iso:code":"FI-09",
         "unlc:id":"FI-09",
         "wd:id":"Q5698"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"e6f6e905c45feda0b2e60e321e799f35",
     "wof:hierarchy":[
@@ -386,7 +392,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493266,
+    "wof:lastmodified":1695885217,
     "wof:name":"Kymenlaakso",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

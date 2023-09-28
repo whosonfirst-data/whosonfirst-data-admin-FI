@@ -370,12 +370,18 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28324,
         "eurostat:nuts_2021_id":"FI193",
+        "figov:code":"413",
         "fips:code":"",
         "gn:id":830685,
         "gp:id":29389258,
         "hasc:id":"FI.",
+        "iso:code":"FI-08",
         "wd:id":"Q5697"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"20da2a15211323b5e8b34ed0bd5545c9",
     "wof:hierarchy":[
@@ -396,7 +402,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493272,
+    "wof:lastmodified":1695885222,
     "wof:name":"Central Finland",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

@@ -382,13 +382,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28327,
         "eurostat:nuts_2021_id":"FI1D9",
+        "figov:code":"517",
         "fips:code":"",
         "gn:id":830667,
         "gp:id":29389265,
         "hasc:id":"FI.",
+        "iso:code":"FI-14",
         "unlc:id":"FI-14",
         "wd:id":"Q5704"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes"
@@ -412,7 +418,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493276,
+    "wof:lastmodified":1695885226,
     "wof:name":"Northern Ostrobothnia",
     "wof:parent_id":404227415,
     "wof:placetype":"region",

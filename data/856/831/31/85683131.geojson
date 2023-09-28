@@ -374,13 +374,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28320,
         "eurostat:nuts_2021_id":"FI1D2",
+        "figov:code":"311",
         "fips:code":"",
         "gn:id":830690,
         "gp:id":29389262,
         "hasc:id":"FI.",
+        "iso:code":"FI-15",
         "unlc:id":"FI-15",
         "wd:id":"Q5706"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"965de59a6cbb892f2d4a7f858efa639a",
     "wof:hierarchy":[
@@ -401,7 +407,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493273,
+    "wof:lastmodified":1695885224,
     "wof:name":"Northern Savonia",
     "wof:parent_id":404227407,
     "wof:placetype":"region",

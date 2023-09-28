@@ -369,13 +369,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28330,
         "eurostat:nuts_2021_id":"FI1D8",
+        "figov:code":"518",
         "fips:code":"",
         "gn:id":830664,
         "gp:id":29389264,
         "hasc:id":"FI.",
+        "iso:code":"FI-05",
         "unlc:id":"FI-05",
         "wd:id":"Q5694"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes"
@@ -399,7 +405,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493275,
+    "wof:lastmodified":1695885226,
     "wof:name":"Kainuu",
     "wof:parent_id":404227415,
     "wof:placetype":"region",

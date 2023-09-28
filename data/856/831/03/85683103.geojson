@@ -375,13 +375,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28313,
         "eurostat:nuts_2021_id":"FI1C5",
+        "figov:code":"109",
         "fips:code":"",
         "gn:id":830699,
         "gp:id":29389253,
         "hasc:id":"FI.",
+        "iso:code":"FI-02",
         "unlc:id":"FI-02",
         "wd:id":"Q5691"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"635948abf699552a08f26eecb389f335",
     "wof:hierarchy":[
@@ -402,7 +408,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493269,
+    "wof:lastmodified":1695885220,
     "wof:name":"South Karelia",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

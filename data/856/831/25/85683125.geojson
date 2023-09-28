@@ -365,13 +365,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28323,
         "eurostat:nuts_2021_id":"FI1D5",
+        "figov:code":"416",
         "fips:code":"",
         "gn:id":830675,
         "gp:id":29389257,
         "hasc:id":"FI.",
+        "iso:code":"FI-07",
         "unlc:id":"FI-07",
         "wd:id":"Q5696"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"b2aad7aef6edbebef23cf9c90157a5ba",
     "wof:hierarchy":[
@@ -392,7 +398,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493273,
+    "wof:lastmodified":1695885224,
     "wof:name":"Central Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",
