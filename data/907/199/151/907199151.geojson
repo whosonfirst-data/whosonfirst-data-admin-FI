@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -75,10 +78,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_626",
         "eurostat:nuts_2021_id":"626",
+        "figov:code":"626",
+        "figov:id":"au702277",
         "gn:id":640471,
         "gp:id":12590863,
         "qs_pg:id":81355
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":907199151,
-    "wof:lastmodified":1684352547,
+    "wof:lastmodified":1695877789,
     "wof:name":"Pyhajarvi",
     "wof:parent_id":1159321591,
     "wof:placetype":"localadmin",

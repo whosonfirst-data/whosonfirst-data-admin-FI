@@ -37,6 +37,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -362,6 +365,8 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_837",
         "eurostat:nuts_2021_id":"837",
+        "figov:code":"837",
+        "figov:id":"au753948",
         "gn:id":634964,
         "gp:id":12590687,
         "qs_pg:id":1092680
@@ -369,6 +374,10 @@
     "wof:concordances_alt":{
         "qs_pg:id":81311
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:coterminous":[
         101748431
     ],
@@ -389,7 +398,7 @@
         }
     ],
     "wof:id":907199231,
-    "wof:lastmodified":1684352550,
+    "wof:lastmodified":1695877796,
     "wof:name":"Tampere",
     "wof:parent_id":1159321521,
     "wof:placetype":"localadmin",

@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -81,10 +84,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_889",
         "eurostat:nuts_2021_id":"889",
+        "figov:code":"889",
+        "figov:id":"au953140",
         "gn:id":633295,
         "gp:id":12590876,
         "qs_pg:id":1207060
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":907199509,
-    "wof:lastmodified":1684352568,
+    "wof:lastmodified":1695877829,
     "wof:name":"Utajarvi",
     "wof:parent_id":1159321497,
     "wof:placetype":"localadmin",

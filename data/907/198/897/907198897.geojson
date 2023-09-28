@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -120,10 +123,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_686",
         "eurostat:nuts_2021_id":"686",
+        "figov:code":"686",
+        "figov:id":"au493872",
         "gn:id":639711,
         "gp:id":12590741,
         "qs_pg:id":1151711
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":907198897,
-    "wof:lastmodified":1684352532,
+    "wof:lastmodified":1695877760,
     "wof:name":"Rautalampi",
     "wof:parent_id":1159321623,
     "wof:placetype":"localadmin",

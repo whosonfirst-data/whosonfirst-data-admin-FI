@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -144,10 +147,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_778",
         "eurostat:nuts_2021_id":"778",
+        "figov:code":"778",
+        "figov:id":"au471089",
         "gn:id":635693,
         "gp:id":12590745,
         "qs_pg:id":1026785
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -165,7 +174,7 @@
         }
     ],
     "wof:id":907198847,
-    "wof:lastmodified":1684352527,
+    "wof:lastmodified":1695877750,
     "wof:name":"Suonenjoki",
     "wof:parent_id":1159321623,
     "wof:placetype":"localadmin",

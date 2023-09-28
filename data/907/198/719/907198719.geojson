@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -135,10 +138,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_935",
         "eurostat:nuts_2021_id":"935",
+        "figov:code":"935",
+        "figov:id":"au359338",
         "gn:id":631390,
         "gp:id":12590778,
         "qs_pg:id":1026778
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":907198719,
-    "wof:lastmodified":1684352520,
+    "wof:lastmodified":1695877736,
     "wof:name":"Virolahti",
     "wof:parent_id":1159321573,
     "wof:placetype":"localadmin",

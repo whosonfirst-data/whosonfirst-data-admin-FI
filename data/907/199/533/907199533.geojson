@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -147,10 +150,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_614",
         "eurostat:nuts_2021_id":"614",
+        "figov:code":"614",
+        "figov:id":"au964950",
         "gn:id":640893,
         "gp:id":12590790,
         "qs_pg:id":985627
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -168,7 +177,7 @@
         }
     ],
     "wof:id":907199533,
-    "wof:lastmodified":1684352570,
+    "wof:lastmodified":1695877832,
     "wof:name":"Posio",
     "wof:parent_id":1159321535,
     "wof:placetype":"localadmin",

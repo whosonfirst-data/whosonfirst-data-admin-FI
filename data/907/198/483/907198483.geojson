@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -168,8 +171,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"FI_417",
-        "eurostat:nuts_2021_id":"417"
+        "eurostat:nuts_2021_id":"417",
+        "figov:code":"417",
+        "figov:id":"au219486"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"e94ca1143b3ce4eeb2be303551b96b33",
     "wof:hierarchy":[
@@ -184,7 +193,7 @@
         }
     ],
     "wof:id":907198483,
-    "wof:lastmodified":1684352511,
+    "wof:lastmodified":1695877719,
     "wof:name":"Lemland",
     "wof:parent_id":1159321611,
     "wof:placetype":"localadmin",

@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -126,10 +129,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_275",
         "eurostat:nuts_2021_id":"275",
+        "figov:code":"275",
+        "figov:id":"au781240",
         "gn:id":651696,
         "gp:id":12590711,
         "qs_pg:id":261988
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":907199269,
-    "wof:lastmodified":1684352553,
+    "wof:lastmodified":1695877800,
     "wof:name":"Konnevesi",
     "wof:parent_id":1159321553,
     "wof:placetype":"localadmin",

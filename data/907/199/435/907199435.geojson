@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -150,9 +153,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_072",
         "eurostat:nuts_2021_id":"072",
+        "figov:code":"072",
+        "figov:id":"au869948",
         "gn:id":659433,
         "qs_pg:id":1030139
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -170,7 +179,7 @@
         }
     ],
     "wof:id":907199435,
-    "wof:lastmodified":1684352564,
+    "wof:lastmodified":1695877822,
     "wof:name":"Hailuoto",
     "wof:parent_id":1159321529,
     "wof:placetype":"localadmin",

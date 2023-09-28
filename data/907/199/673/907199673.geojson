@@ -11,7 +11,7 @@
     "figov:national_code":"297",
     "figov:swe_type":"Kommun",
     "geom:area":0.661627,
-    "geom:area_square_m":3717290452.282805,
+    "geom:area_square_m":3717290452.282163,
     "geom:bbox":"26.890127759,62.5922636488,28.4579387479,63.403310726",
     "geom:latitude":62.975256,
     "geom:longitude":27.685645,
@@ -21,6 +21,9 @@
     ],
     "label:fin_x_preferred_placetype":[
         "kunta"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
     ],
     "label:swe_x_preferred_placetype":[
         "kommun"
@@ -242,15 +245,21 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "figov:code":"297",
+        "figov:id":"au1035403",
         "gn:id":650225,
         "gp:id":12590735,
         "qs_pg:id":81434
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9c50e3cc66237365944c5e874a2ccbda",
+    "wof:geomhash":"b8f2b178c83022b41d1eae1646a21d6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -263,7 +272,7 @@
         }
     ],
     "wof:id":907199673,
-    "wof:lastmodified":1582312099,
+    "wof:lastmodified":1695877714,
     "wof:name":"Kuopio",
     "wof:parent_id":1159321597,
     "wof:placetype":"localadmin",

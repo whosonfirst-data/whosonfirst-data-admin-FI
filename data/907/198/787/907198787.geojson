@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -120,9 +123,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_768",
         "eurostat:nuts_2021_id":"768",
+        "figov:code":"768",
+        "figov:id":"au419534",
         "gp:id":12590828,
         "qs_pg:id":1292954
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -140,7 +149,7 @@
         }
     ],
     "wof:id":907198787,
-    "wof:lastmodified":1684352525,
+    "wof:lastmodified":1695877745,
     "wof:name":"Sulkava",
     "wof:parent_id":1159321493,
     "wof:placetype":"localadmin",

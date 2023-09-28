@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -123,10 +126,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_097",
         "eurostat:nuts_2021_id":"097",
+        "figov:code":"097",
+        "figov:id":"au401004",
         "gn:id":657731,
         "gp:id":12590809,
         "qs_pg:id":274933
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -144,7 +153,7 @@
         }
     ],
     "wof:id":907198755,
-    "wof:lastmodified":1684352522,
+    "wof:lastmodified":1695877741,
     "wof:name":"Hirvensalmi",
     "wof:parent_id":1159321539,
     "wof:placetype":"localadmin",

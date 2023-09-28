@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -75,10 +78,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_090",
         "eurostat:nuts_2021_id":"090",
+        "figov:code":"090",
+        "figov:id":"au599586",
         "gn:id":658319,
         "gp:id":12590806,
         "qs_pg:id":81508
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":907199027,
-    "wof:lastmodified":1684352540,
+    "wof:lastmodified":1695877776,
     "wof:name":"Heinavesi",
     "wof:parent_id":1159321493,
     "wof:placetype":"localadmin",

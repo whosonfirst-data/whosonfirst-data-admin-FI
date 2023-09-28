@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -129,9 +132,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_256",
         "eurostat:nuts_2021_id":"256",
+        "figov:code":"256",
+        "figov:id":"au696305",
         "gn:id":652746,
         "qs_pg:id":276110
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -149,7 +158,7 @@
         }
     ],
     "wof:id":907199139,
-    "wof:lastmodified":1684352546,
+    "wof:lastmodified":1695877788,
     "wof:name":"Kinnula",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",

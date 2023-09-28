@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -144,9 +147,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_976",
         "eurostat:nuts_2021_id":"976",
+        "figov:code":"976",
+        "figov:id":"au975927",
         "gn:id":630780,
         "qs_pg:id":550539
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -164,7 +173,7 @@
         }
     ],
     "wof:id":907199549,
-    "wof:lastmodified":1684352570,
+    "wof:lastmodified":1695877833,
     "wof:name":"Ylitornio",
     "wof:parent_id":1159321537,
     "wof:placetype":"localadmin",

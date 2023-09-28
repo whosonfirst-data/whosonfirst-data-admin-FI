@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -90,10 +93,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_261",
         "eurostat:nuts_2021_id":"261",
+        "figov:code":"261",
+        "figov:id":"au982353",
         "gn:id":652594,
         "gp:id":12590785,
         "qs_pg:id":81456
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":907199565,
-    "wof:lastmodified":1684352572,
+    "wof:lastmodified":1695877836,
     "wof:name":"Kittila",
     "wof:parent_id":1159321583,
     "wof:placetype":"localadmin",

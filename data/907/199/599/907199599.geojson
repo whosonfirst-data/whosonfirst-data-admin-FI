@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -84,10 +87,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_047",
         "eurostat:nuts_2021_id":"047",
+        "figov:code":"047",
+        "figov:id":"au989324",
         "gn:id":660230,
         "gp:id":12590780,
         "qs_pg:id":81526
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":907199599,
-    "wof:lastmodified":1684352573,
+    "wof:lastmodified":1695877838,
     "wof:name":"Enontekio",
     "wof:parent_id":1159321583,
     "wof:placetype":"localadmin",

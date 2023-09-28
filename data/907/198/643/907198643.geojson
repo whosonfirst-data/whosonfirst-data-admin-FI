@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -132,10 +135,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_918",
         "eurostat:nuts_2021_id":"918",
+        "figov:code":"918",
+        "figov:id":"au312640",
         "gn:id":632062,
         "gp:id":12590986,
         "qs_pg:id":245059
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":907198643,
-    "wof:lastmodified":1684352517,
+    "wof:lastmodified":1695877731,
     "wof:name":"Vehmaa",
     "wof:parent_id":1159321637,
     "wof:placetype":"localadmin",

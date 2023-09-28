@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -162,10 +165,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_232",
         "eurostat:nuts_2021_id":"232",
+        "figov:code":"232",
+        "figov:id":"au687202",
         "gn:id":653628,
         "gp:id":12591043,
         "qs_pg:id":81472
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -183,7 +192,7 @@
         }
     ],
     "wof:id":907199121,
-    "wof:lastmodified":1684352546,
+    "wof:lastmodified":1695877787,
     "wof:name":"Kauhajoki",
     "wof:parent_id":1159321543,
     "wof:placetype":"localadmin",

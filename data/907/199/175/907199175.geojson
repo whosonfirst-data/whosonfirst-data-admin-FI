@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -75,9 +78,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_421",
         "eurostat:nuts_2021_id":"421",
+        "figov:code":"421",
+        "figov:id":"au717843",
         "gn:id":648180,
         "qs_pg:id":81417
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":907199175,
-    "wof:lastmodified":1684352548,
+    "wof:lastmodified":1695877791,
     "wof:name":"Lestijarvi",
     "wof:parent_id":1159321595,
     "wof:placetype":"localadmin",

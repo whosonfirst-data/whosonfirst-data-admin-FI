@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -135,10 +138,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_747",
         "eurostat:nuts_2021_id":"747",
+        "figov:code":"747",
+        "figov:id":"au434607",
         "gn:id":637020,
         "gp:id":12590973,
         "qs_pg:id":202557
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":907198809,
-    "wof:lastmodified":1684352526,
+    "wof:lastmodified":1695877747,
     "wof:name":"Siikainen",
     "wof:parent_id":1159321519,
     "wof:placetype":"localadmin",

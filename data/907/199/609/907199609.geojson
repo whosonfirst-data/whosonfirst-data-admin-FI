@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -258,10 +261,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_167",
         "eurostat:nuts_2021_id":"167",
+        "figov:code":"167",
+        "figov:id":"au990539",
         "gn:id":655823,
         "gp:id":12590885,
         "qs_pg:id":81489
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -279,7 +288,7 @@
         }
     ],
     "wof:id":907199609,
-    "wof:lastmodified":1684352574,
+    "wof:lastmodified":1695877839,
     "wof:name":"Joensuu",
     "wof:parent_id":1159321551,
     "wof:placetype":"localadmin",

@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -141,10 +144,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_009",
         "eurostat:nuts_2021_id":"009",
+        "figov:code":"009",
+        "figov:id":"au863061",
         "gn:id":661364,
         "gp:id":12590831,
         "qs_pg:id":244413
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -162,7 +171,7 @@
         }
     ],
     "wof:id":907199429,
-    "wof:lastmodified":1684352564,
+    "wof:lastmodified":1695877822,
     "wof:name":"Alavieska",
     "wof:parent_id":1159321569,
     "wof:placetype":"localadmin",

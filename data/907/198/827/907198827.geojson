@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -78,10 +81,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_287",
         "eurostat:nuts_2021_id":"287",
+        "figov:code":"287",
+        "figov:id":"au444380",
         "gn:id":650770,
         "gp:id":12591049,
         "qs_pg:id":81444
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":907198827,
-    "wof:lastmodified":1684352526,
+    "wof:lastmodified":1695877748,
     "wof:name":"Kristiinankaupunki",
     "wof:parent_id":1159321495,
     "wof:placetype":"localadmin",

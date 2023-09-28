@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -276,10 +279,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_698",
         "eurostat:nuts_2021_id":"698",
+        "figov:code":"698",
+        "figov:id":"au988685",
         "gn:id":638937,
         "gp:id":12590793,
         "qs_pg:id":1026788
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -297,7 +306,7 @@
         }
     ],
     "wof:id":907199591,
-    "wof:lastmodified":1684352573,
+    "wof:lastmodified":1695877838,
     "wof:name":"Rovaniemi",
     "wof:parent_id":1159321523,
     "wof:placetype":"localadmin",

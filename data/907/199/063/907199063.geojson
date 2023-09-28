@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -180,10 +183,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_908",
         "eurostat:nuts_2021_id":"908",
+        "figov:code":"908",
+        "figov:id":"au633081",
         "gn:id":632672,
         "gp:id":12590691,
         "qs_pg:id":834830
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -201,7 +210,7 @@
         }
     ],
     "wof:id":907199063,
-    "wof:lastmodified":1684352542,
+    "wof:lastmodified":1695877779,
     "wof:name":"Valkeakoski",
     "wof:parent_id":1159321621,
     "wof:placetype":"localadmin",

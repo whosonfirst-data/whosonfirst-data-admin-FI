@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -255,10 +258,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_405",
         "eurostat:nuts_2021_id":"405",
+        "figov:code":"405",
+        "figov:id":"au492955",
         "gn:id":648901,
         "gp:id":12590763,
         "qs_pg:id":81422
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -276,7 +285,7 @@
         }
     ],
     "wof:id":907198887,
-    "wof:lastmodified":1684352532,
+    "wof:lastmodified":1695877759,
     "wof:name":"Lappeenranta",
     "wof:parent_id":1159321547,
     "wof:placetype":"localadmin",

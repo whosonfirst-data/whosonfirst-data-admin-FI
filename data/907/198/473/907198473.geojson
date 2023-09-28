@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -65,8 +68,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"FI_043",
-        "eurostat:nuts_2021_id":"043"
+        "eurostat:nuts_2021_id":"043",
+        "figov:code":"043",
+        "figov:id":"au219323"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"85a2ec02b3e9510d7668d5434ed7858d",
     "wof:hierarchy":[
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":907198473,
-    "wof:lastmodified":1684352511,
+    "wof:lastmodified":1695877718,
     "wof:name":"Eckero",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

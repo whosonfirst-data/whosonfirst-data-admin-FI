@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -144,10 +147,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_142",
         "eurostat:nuts_2021_id":"142",
+        "figov:code":"142",
+        "figov:id":"au299103",
         "gn:id":656808,
         "gp:id":12590756,
         "qs_pg:id":81498
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -165,7 +174,7 @@
         }
     ],
     "wof:id":907198619,
-    "wof:lastmodified":1684352516,
+    "wof:lastmodified":1695877729,
     "wof:name":"Iitti",
     "wof:parent_id":1159321557,
     "wof:placetype":"localadmin",

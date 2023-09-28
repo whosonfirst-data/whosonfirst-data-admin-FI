@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -243,10 +246,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_609",
         "eurostat:nuts_2021_id":"609",
+        "figov:code":"609",
+        "figov:id":"au1032889",
         "gn:id":641000,
         "gp:id":12590961,
         "qs_pg:id":550556
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -264,7 +273,7 @@
         }
     ],
     "wof:id":907199653,
-    "wof:lastmodified":1684352576,
+    "wof:lastmodified":1695877844,
     "wof:name":"Pori",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

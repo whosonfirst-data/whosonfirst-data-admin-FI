@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -144,10 +147,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_683",
         "eurostat:nuts_2021_id":"683",
+        "figov:code":"683",
+        "figov:id":"au940636",
         "gn:id":639888,
         "gp:id":12590791,
         "qs_pg:id":1008267
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -165,7 +174,7 @@
         }
     ],
     "wof:id":907199493,
-    "wof:lastmodified":1684352567,
+    "wof:lastmodified":1695877828,
     "wof:name":"Ranua",
     "wof:parent_id":1159321523,
     "wof:placetype":"localadmin",

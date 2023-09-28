@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -75,10 +78,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_312",
         "eurostat:nuts_2021_id":"312",
+        "figov:code":"312",
+        "figov:id":"au675289",
         "gn:id":649584,
         "gp:id":12590714,
         "qs_pg:id":81427
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":907199107,
-    "wof:lastmodified":1684352545,
+    "wof:lastmodified":1695877785,
     "wof:name":"Kyyjarvi",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",

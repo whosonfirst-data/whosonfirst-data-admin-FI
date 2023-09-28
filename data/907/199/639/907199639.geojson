@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -75,10 +78,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_069",
         "eurostat:nuts_2021_id":"069",
+        "figov:code":"069",
+        "figov:id":"au1018467",
         "gn:id":659701,
         "gp:id":12590832,
         "qs_pg:id":1030141
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":907199639,
-    "wof:lastmodified":1684352576,
+    "wof:lastmodified":1695877843,
     "wof:name":"Haapajarvi",
     "wof:parent_id":1159321591,
     "wof:placetype":"localadmin",

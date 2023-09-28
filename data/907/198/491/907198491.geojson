@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -161,8 +164,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"FI_438",
-        "eurostat:nuts_2021_id":"438"
+        "eurostat:nuts_2021_id":"438",
+        "figov:code":"438",
+        "figov:id":"au222172"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"585cccc5da86190684bd42ea6ca0d3c0",
     "wof:hierarchy":[
@@ -176,7 +185,7 @@
         }
     ],
     "wof:id":907198491,
-    "wof:lastmodified":1684352511,
+    "wof:lastmodified":1695877720,
     "wof:name":"Lumparland",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

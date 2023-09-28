@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -66,8 +69,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"FI_060",
-        "eurostat:nuts_2021_id":"060"
+        "eurostat:nuts_2021_id":"060",
+        "figov:code":"060",
+        "figov:id":"au239594"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"ac19c77409552bd41b2aec2b06c68b7c",
     "wof:hierarchy":[
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":907198529,
-    "wof:lastmodified":1684352512,
+    "wof:lastmodified":1695877721,
     "wof:name":"Finstrom",
     "wof:parent_id":85667835,
     "wof:placetype":"localadmin",

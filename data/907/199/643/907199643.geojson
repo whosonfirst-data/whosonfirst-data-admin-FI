@@ -11,7 +11,7 @@
     "figov:national_code":"442",
     "figov:swe_type":"Kommun",
     "geom:area":0.144713,
-    "geom:area_square_m":856361729.289063,
+    "geom:area_square_m":856361729.289128,
     "geom:bbox":"20.8296252016,61.2888399524,21.8046275055,61.5301785534",
     "geom:latitude":61.407536,
     "geom:longitude":21.263554,
@@ -21,6 +21,9 @@
     ],
     "label:fin_x_preferred_placetype":[
         "kunta"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
     ],
     "label:swe_x_preferred_placetype":[
         "kommun"
@@ -104,15 +107,21 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "figov:code":"442",
+        "figov:id":"au1023707",
         "gn:id":647261,
         "gp:id":12590940,
         "qs_pg:id":1026799
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"efded31cbfb2809516aed89624ea144d",
+    "wof:geomhash":"57727693c6dc8e37deec36dc38aea735",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":907199643,
-    "wof:lastmodified":1582312091,
+    "wof:lastmodified":1695877714,
     "wof:name":"Luvia",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

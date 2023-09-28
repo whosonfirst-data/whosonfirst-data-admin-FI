@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -132,10 +135,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_146",
         "eurostat:nuts_2021_id":"146",
+        "figov:code":"146",
+        "figov:id":"au961732",
         "gn:id":656709,
         "gp:id":12590884,
         "qs_pg:id":225394
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":907199525,
-    "wof:lastmodified":1684352569,
+    "wof:lastmodified":1695877831,
     "wof:name":"Ilomantsi",
     "wof:parent_id":1159321551,
     "wof:placetype":"localadmin",

@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -183,10 +186,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_245",
         "eurostat:nuts_2021_id":"245",
+        "figov:code":"245",
+        "figov:id":"au300829",
         "gn:id":653186,
         "gp:id":12591001,
         "qs_pg:id":1062313
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -204,7 +213,7 @@
         }
     ],
     "wof:id":907198627,
-    "wof:lastmodified":1684352516,
+    "wof:lastmodified":1695877730,
     "wof:name":"Kerava",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -162,9 +165,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_777",
         "eurostat:nuts_2021_id":"777",
+        "figov:code":"777",
+        "figov:id":"au945517",
         "gn:id":635697,
         "qs_pg:id":274920
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -182,7 +191,7 @@
         }
     ],
     "wof:id":907199501,
-    "wof:lastmodified":1684352568,
+    "wof:lastmodified":1695877829,
     "wof:name":"Suomussalmi",
     "wof:parent_id":1159321549,
     "wof:placetype":"localadmin",

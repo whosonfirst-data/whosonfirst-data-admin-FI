@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -120,10 +123,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_595",
         "eurostat:nuts_2021_id":"595",
+        "figov:code":"595",
+        "figov:id":"au797437",
         "gn:id":641863,
         "gp:id":12590740,
         "qs_pg:id":81367
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":907199287,
-    "wof:lastmodified":1684352554,
+    "wof:lastmodified":1695877803,
     "wof:name":"Pielavesi",
     "wof:parent_id":1159321601,
     "wof:placetype":"localadmin",

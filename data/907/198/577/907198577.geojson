@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -147,9 +150,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_560",
         "eurostat:nuts_2021_id":"560",
+        "figov:code":"560",
+        "figov:id":"au271214",
         "gn:id":643645,
         "qs_pg:id":1026794
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -167,7 +176,7 @@
         }
     ],
     "wof:id":907198577,
-    "wof:lastmodified":1684352513,
+    "wof:lastmodified":1695877724,
     "wof:name":"Orimattila",
     "wof:parent_id":1159321483,
     "wof:placetype":"localadmin",

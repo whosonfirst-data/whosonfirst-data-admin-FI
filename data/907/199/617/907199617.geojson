@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -147,10 +150,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_208",
         "eurostat:nuts_2021_id":"208",
+        "figov:code":"208",
+        "figov:id":"au1009461",
         "gn:id":654837,
         "gp:id":12590839,
         "qs_pg:id":953657
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -168,7 +177,7 @@
         }
     ],
     "wof:id":907199617,
-    "wof:lastmodified":1684352574,
+    "wof:lastmodified":1695877841,
     "wof:name":"Kalajoki",
     "wof:parent_id":1159321569,
     "wof:placetype":"localadmin",

@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -130,10 +133,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_416",
         "eurostat:nuts_2021_id":"416",
+        "figov:code":"416",
+        "figov:id":"au552666",
         "gn:id":648388,
         "gp:id":12590764,
         "qs_pg:id":1030082
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":907198959,
-    "wof:lastmodified":1684352535,
+    "wof:lastmodified":1695877766,
     "wof:name":"Lemi",
     "wof:parent_id":1159321547,
     "wof:placetype":"localadmin",

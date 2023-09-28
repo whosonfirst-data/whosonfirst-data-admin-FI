@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -141,9 +144,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_854",
         "eurostat:nuts_2021_id":"854",
+        "figov:code":"854",
+        "figov:id":"au976563",
         "gn:id":642368,
         "qs_pg:id":369858
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -161,7 +170,7 @@
         }
     ],
     "wof:id":907199553,
-    "wof:lastmodified":1684352570,
+    "wof:lastmodified":1695877834,
     "wof:name":"Pello",
     "wof:parent_id":1159321537,
     "wof:placetype":"localadmin",

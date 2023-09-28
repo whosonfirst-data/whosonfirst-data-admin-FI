@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -147,10 +150,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_400",
         "eurostat:nuts_2021_id":"400",
+        "figov:code":"400",
+        "figov:id":"au332524",
         "gn:id":649307,
         "gp:id":12590933,
         "qs_pg:id":369899
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -168,7 +177,7 @@
         }
     ],
     "wof:id":907198671,
-    "wof:lastmodified":1684352518,
+    "wof:lastmodified":1695877732,
     "wof:name":"Laitila",
     "wof:parent_id":1159321637,
     "wof:placetype":"localadmin",

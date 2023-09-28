@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -120,10 +123,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_992",
         "eurostat:nuts_2021_id":"992",
+        "figov:code":"992",
+        "figov:id":"au735768",
         "gn:id":662095,
         "gp:id":12590699,
         "qs_pg:id":261989
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":907199205,
-    "wof:lastmodified":1684352549,
+    "wof:lastmodified":1695877793,
     "wof:name":"Aanekoski",
     "wof:parent_id":1159321553,
     "wof:placetype":"localadmin",

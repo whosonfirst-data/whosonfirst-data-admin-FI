@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -129,10 +132,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_226",
         "eurostat:nuts_2021_id":"226",
+        "figov:code":"226",
+        "figov:id":"au660037",
         "gn:id":653853,
         "gp:id":12590707,
         "qs_pg:id":81476
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -150,7 +159,7 @@
         }
     ],
     "wof:id":907199083,
-    "wof:lastmodified":1684352543,
+    "wof:lastmodified":1695877781,
     "wof:name":"Karstula",
     "wof:parent_id":1159321515,
     "wof:placetype":"localadmin",

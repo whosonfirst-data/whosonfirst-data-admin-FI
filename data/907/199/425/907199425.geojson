@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -75,10 +78,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_749",
         "eurostat:nuts_2021_id":"749",
+        "figov:code":"749",
+        "figov:id":"au857823",
         "gn:id":636948,
         "gp:id":12590743,
         "qs_pg:id":1029982
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":907199425,
-    "wof:lastmodified":1684352563,
+    "wof:lastmodified":1695877821,
     "wof:name":"Siilinjarvi",
     "wof:parent_id":1159321597,
     "wof:placetype":"localadmin",

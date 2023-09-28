@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -132,10 +135,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_850",
         "eurostat:nuts_2021_id":"850",
+        "figov:code":"850",
+        "figov:id":"au436678",
         "gn:id":634298,
         "gp:id":12590726,
         "qs_pg:id":244400
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":907198813,
-    "wof:lastmodified":1684352526,
+    "wof:lastmodified":1695877747,
     "wof:name":"Toivakka",
     "wof:parent_id":1159321625,
     "wof:placetype":"localadmin",

@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -156,10 +159,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_148",
         "eurostat:nuts_2021_id":"148",
+        "figov:code":"148",
+        "figov:id":"au982739",
         "gn:id":656659,
         "gp:id":12590781,
         "qs_pg:id":1030108
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -177,7 +186,7 @@
         }
     ],
     "wof:id":907199567,
-    "wof:lastmodified":1684352572,
+    "wof:lastmodified":1695877836,
     "wof:name":"Inari",
     "wof:parent_id":1159321531,
     "wof:placetype":"localadmin",

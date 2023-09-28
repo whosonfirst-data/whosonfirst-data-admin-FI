@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -132,9 +135,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_611",
         "eurostat:nuts_2021_id":"611",
+        "figov:code":"611",
+        "figov:id":"au248686",
         "gn:id":640974,
         "qs_pg:id":1030021
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -152,7 +161,7 @@
         }
     ],
     "wof:id":907198545,
-    "wof:lastmodified":1684352512,
+    "wof:lastmodified":1695877722,
     "wof:name":"Pornainen",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

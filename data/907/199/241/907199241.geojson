@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -153,10 +156,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_408",
         "eurostat:nuts_2021_id":"408",
+        "figov:code":"408",
+        "figov:id":"au764447",
         "gn:id":648856,
         "gp:id":12591055,
         "qs_pg:id":81420
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -174,7 +183,7 @@
         }
     ],
     "wof:id":907199241,
-    "wof:lastmodified":1684352551,
+    "wof:lastmodified":1695877796,
     "wof:name":"Lapua",
     "wof:parent_id":1159321561,
     "wof:placetype":"localadmin",

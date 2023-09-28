@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -126,10 +129,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_484",
         "eurostat:nuts_2021_id":"484",
+        "figov:code":"484",
+        "figov:id":"au429150",
         "gn:id":646193,
         "gp:id":12590944,
         "qs_pg:id":1151720
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":907198797,
-    "wof:lastmodified":1684352525,
+    "wof:lastmodified":1695877746,
     "wof:name":"Merikarvia",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

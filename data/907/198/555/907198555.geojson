@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -96,8 +99,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"FI_035",
-        "eurostat:nuts_2021_id":"035"
+        "eurostat:nuts_2021_id":"035",
+        "figov:code":"035",
+        "figov:id":"au254219"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"f991c1b06f846194e67bc7accf683a7d",
     "wof:hierarchy":[
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":907198555,
-    "wof:lastmodified":1684352513,
+    "wof:lastmodified":1695877723,
     "wof:name":"Brando",
     "wof:parent_id":1159321503,
     "wof:placetype":"localadmin",

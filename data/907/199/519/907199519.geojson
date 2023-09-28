@@ -37,6 +37,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -209,6 +212,8 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_305",
         "eurostat:nuts_2021_id":"305",
+        "figov:code":"305",
+        "figov:id":"au958632",
         "gn:id":649924,
         "gp:id":12590846,
         "qs_pg:id":582218
@@ -217,6 +222,10 @@
         "gn:id":649925,
         "qs_pg:id":369913
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -234,7 +243,7 @@
         }
     ],
     "wof:id":907199519,
-    "wof:lastmodified":1684352569,
+    "wof:lastmodified":1695877831,
     "wof:name":"Kuusamo",
     "wof:parent_id":1159321489,
     "wof:placetype":"localadmin",

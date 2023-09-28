@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -78,9 +81,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_504",
         "eurostat:nuts_2021_id":"504",
+        "figov:code":"504",
+        "figov:id":"au333129",
         "gn:id":645234,
         "qs_pg:id":81397
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":907198681,
-    "wof:lastmodified":1684352518,
+    "wof:lastmodified":1695877733,
     "wof:name":"Myrskyla",
     "wof:parent_id":1159321593,
     "wof:placetype":"localadmin",

@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -123,10 +126,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_588",
         "eurostat:nuts_2021_id":"588",
+        "figov:code":"588",
+        "figov:id":"au392975",
         "gn:id":642077,
         "gp:id":12590819,
         "qs_pg:id":225393
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -144,7 +153,7 @@
         }
     ],
     "wof:id":907198743,
-    "wof:lastmodified":1684352522,
+    "wof:lastmodified":1695877739,
     "wof:name":"Pertunmaa",
     "wof:parent_id":1159321539,
     "wof:placetype":"localadmin",
