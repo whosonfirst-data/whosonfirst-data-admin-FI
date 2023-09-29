@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.484992,
-    "geom:area_square_m":2707570009.930918,
+    "geom:area_square_m":2707569537.018641,
     "geom:bbox":"28.037686,62.580092,29.097602,63.755002",
     "geom:latitude":63.160435,
     "geom:longitude":28.520535,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415417,
-    "wof:geomhash":"9ebd95c870bfd971f78152b687e2e521",
+    "wof:geomhash":"8cf135da53a6ee75347903599419f090",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321579,
-    "wof:lastmodified":1627522123,
+    "wof:lastmodified":1695886596,
     "wof:name":"Koillis-Savo",
     "wof:parent_id":85683131,
     "wof:placetype":"county",

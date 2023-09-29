@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.54665,
-    "geom:area_square_m":3162407285.218939,
+    "geom:area_square_m":3162407467.62822,
     "geom:bbox":"23.206522,61.715538,24.730913,62.494334",
     "geom:latitude":62.104963,
     "geom:longitude":24.017373,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415351,
-    "wof:geomhash":"0d260001f87929fba50be51b44d0ce1d",
+    "wof:geomhash":"9110d81a3cf4e9d74dd9720719570bf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321485,
-    "wof:lastmodified":1627522119,
+    "wof:lastmodified":1695886589,
     "wof:name":"Yla-Pirkanmaa",
     "wof:parent_id":85683099,
     "wof:placetype":"county",

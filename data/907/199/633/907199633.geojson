@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -180,10 +183,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_235",
         "eurostat:nuts_2021_id":"235",
+        "figov:code":"235",
+        "figov:id":"au1017720",
         "gn:id":653560,
         "gp:id":12591000,
         "qs_pg:id":81471
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:coterminous":[
         101753897
     ],
@@ -204,7 +213,7 @@
         }
     ],
     "wof:id":907199633,
-    "wof:lastmodified":1684352575,
+    "wof:lastmodified":1695877842,
     "wof:name":"Kauniainen",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

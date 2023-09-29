@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.769331,
-    "geom:area_square_m":4136459872.431463,
+    "geom:area_square_m":4136459915.571858,
     "geom:bbox":"24.86517,63.841035,26.870402,64.628943",
     "geom:latitude":64.225724,
     "geom:longitude":25.916189,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415413,
-    "wof:geomhash":"baeb5c147e47d60ce358ce86ad7fd240",
+    "wof:geomhash":"b31e6fa955b95efc19df2dda0c37ebab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321571,
-    "wof:lastmodified":1627522118,
+    "wof:lastmodified":1695886588,
     "wof:name":"Haapavesi-Siikalatva",
     "wof:parent_id":85683143,
     "wof:placetype":"county",

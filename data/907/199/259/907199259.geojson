@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -135,10 +138,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_480",
         "eurostat:nuts_2021_id":"480",
+        "figov:code":"480",
+        "figov:id":"au778250",
         "gn:id":646519,
         "gp:id":12590941,
         "qs_pg:id":81408
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":907199259,
-    "wof:lastmodified":1684352552,
+    "wof:lastmodified":1695877799,
     "wof:name":"Marttila",
     "wof:parent_id":1159321505,
     "wof:placetype":"localadmin",

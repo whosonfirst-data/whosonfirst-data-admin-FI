@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -174,10 +177,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_061",
         "eurostat:nuts_2021_id":"061",
+        "figov:code":"061",
+        "figov:id":"au873769",
         "gn:id":659936,
         "gp:id":12590646,
         "qs_pg:id":1030124
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -195,7 +204,7 @@
         }
     ],
     "wof:id":907199441,
-    "wof:lastmodified":1684352564,
+    "wof:lastmodified":1695877822,
     "wof:name":"Forssa",
     "wof:parent_id":1159321511,
     "wof:placetype":"localadmin",

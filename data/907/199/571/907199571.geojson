@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -147,10 +150,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_583",
         "eurostat:nuts_2021_id":"583",
+        "figov:code":"583",
+        "figov:id":"au984126",
         "gn:id":642377,
         "gp:id":12590788,
         "qs_pg:id":1317349
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -168,7 +177,7 @@
         }
     ],
     "wof:id":907199571,
-    "wof:lastmodified":1684352572,
+    "wof:lastmodified":1695877837,
     "wof:name":"Pelkosenniemi",
     "wof:parent_id":1159321535,
     "wof:placetype":"localadmin",

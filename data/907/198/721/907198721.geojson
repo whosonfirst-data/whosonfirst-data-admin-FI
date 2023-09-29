@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -75,10 +78,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_507",
         "eurostat:nuts_2021_id":"507",
+        "figov:code":"507",
+        "figov:id":"au366842",
         "gn:id":646699,
         "gp:id":12590816,
         "qs_pg:id":1008268
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":907198721,
-    "wof:lastmodified":1684352520,
+    "wof:lastmodified":1695877736,
     "wof:name":"Mantyharju",
     "wof:parent_id":1159321539,
     "wof:placetype":"localadmin",

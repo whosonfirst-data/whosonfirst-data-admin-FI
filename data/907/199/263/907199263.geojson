@@ -37,6 +37,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -137,6 +140,8 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_921",
         "eurostat:nuts_2021_id":"921",
+        "figov:code":"921",
+        "figov:id":"au780942",
         "gn:id":631873,
         "gp:id":12590751,
         "qs_pg:id":1207044
@@ -145,6 +150,10 @@
         "gn:id":631875,
         "qs_pg:id":1029962
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -162,7 +171,7 @@
         }
     ],
     "wof:id":907199263,
-    "wof:lastmodified":1684352552,
+    "wof:lastmodified":1695877800,
     "wof:name":"Vesanto",
     "wof:parent_id":1159321623,
     "wof:placetype":"localadmin",

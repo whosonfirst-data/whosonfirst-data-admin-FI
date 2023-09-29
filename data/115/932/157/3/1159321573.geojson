@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.634369,
-    "geom:area_square_m":3863532373.600622,
+    "geom:area_square_m":3863533219.950755,
     "geom:bbox":"26.44784,60.171329,27.991283,60.84264",
     "geom:latitude":60.492268,
     "geom:longitude":27.194373,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415415,
-    "wof:geomhash":"5879d2963ee40de2ddacab3f90af3abb",
+    "wof:geomhash":"8ab1c89efc6e6daa2a0a9880d87d85a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321573,
-    "wof:lastmodified":1627522124,
+    "wof:lastmodified":1695886598,
     "wof:name":"Kotka-Hamina",
     "wof:parent_id":85683081,
     "wof:placetype":"county",

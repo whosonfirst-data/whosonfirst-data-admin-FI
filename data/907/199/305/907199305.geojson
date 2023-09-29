@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -121,9 +124,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_236",
         "eurostat:nuts_2021_id":"236",
+        "figov:code":"236",
+        "figov:id":"au815657",
         "gn:id":653484,
         "qs_pg:id":81470
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":907199305,
-    "wof:lastmodified":1684352556,
+    "wof:lastmodified":1695877807,
     "wof:name":"Kaustinen",
     "wof:parent_id":1159321595,
     "wof:placetype":"localadmin",

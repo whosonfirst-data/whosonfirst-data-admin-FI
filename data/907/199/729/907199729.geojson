@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -66,8 +69,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"FI_478",
-        "eurostat:nuts_2021_id":"478"
+        "eurostat:nuts_2021_id":"478",
+        "figov:code":"478",
+        "figov:id":"au1073028"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"b4194f515e1154cb392e9eb3b0a36f41",
     "wof:hierarchy":[
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":907199729,
-    "wof:lastmodified":1684352578,
+    "wof:lastmodified":1695877848,
     "wof:name":"Maarianhamina",
     "wof:parent_id":85667871,
     "wof:placetype":"localadmin",

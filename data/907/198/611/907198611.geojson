@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -138,10 +141,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_304",
         "eurostat:nuts_2021_id":"304",
+        "figov:code":"304",
+        "figov:id":"au287983",
         "gn:id":650000,
         "gp:id":12590931,
         "qs_pg:id":1026810
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -159,7 +168,7 @@
         }
     ],
     "wof:id":907198611,
-    "wof:lastmodified":1684352515,
+    "wof:lastmodified":1695877728,
     "wof:name":"Kustavi",
     "wof:parent_id":1159321637,
     "wof:placetype":"localadmin",

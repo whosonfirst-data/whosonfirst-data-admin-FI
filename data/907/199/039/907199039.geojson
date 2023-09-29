@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -147,10 +150,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_231",
         "eurostat:nuts_2021_id":"231",
+        "figov:code":"231",
+        "figov:id":"au608916",
         "gn:id":653760,
         "gp:id":12591042,
         "qs_pg:id":81473
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -168,7 +177,7 @@
         }
     ],
     "wof:id":907199039,
-    "wof:lastmodified":1684352541,
+    "wof:lastmodified":1695877777,
     "wof:name":"Kaskinen",
     "wof:parent_id":1159321495,
     "wof:placetype":"localadmin",

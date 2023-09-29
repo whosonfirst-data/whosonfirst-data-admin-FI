@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -135,10 +138,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_176",
         "eurostat:nuts_2021_id":"176",
+        "figov:code":"176",
+        "figov:id":"au847500",
         "gn:id":655312,
         "gp:id":12590886,
         "qs_pg:id":1207070
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":907199389,
-    "wof:lastmodified":1684352562,
+    "wof:lastmodified":1695877817,
     "wof:name":"Juuka",
     "wof:parent_id":1159321551,
     "wof:placetype":"localadmin",

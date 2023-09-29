@@ -371,13 +371,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28329,
         "eurostat:nuts_2021_id":"FI1C1",
+        "figov:code":"202",
         "fips:code":"",
         "gn:id":830708,
         "gp:id":29389250,
         "hasc:id":"FI.",
+        "iso:code":"FI-19",
         "unlc:id":"FI-19",
         "wd:id":"Q5712"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"5f236119e862de4a52b99c1b0953cf7a",
     "wof:hierarchy":[
@@ -398,7 +404,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493265,
+    "wof:lastmodified":1695885216,
     "wof:name":"Southwest Finland",
     "wof:parent_id":404227405,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.023599,
-    "geom:area_square_m":11434022677.046539,
+    "geom:area_square_m":11434022677.045958,
     "geom:bbox":"28.6108041267,62.2508029454,31.5867039408,63.4497155616",
     "geom:latitude":62.808886,
     "geom:longitude":30.039655,
@@ -243,7 +243,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415403,
-    "wof:geomhash":"0e936a920ff7b2c0bfc997443ea5e037",
+    "wof:geomhash":"150f2d934f534443d841bae13d6a99f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -255,7 +255,7 @@
         }
     ],
     "wof:id":1159321551,
-    "wof:lastmodified":1566595566,
+    "wof:lastmodified":1695886728,
     "wof:name":"Joensuu",
     "wof:parent_id":85683133,
     "wof:placetype":"county",

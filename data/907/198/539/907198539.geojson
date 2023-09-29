@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -162,9 +165,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_224",
         "eurostat:nuts_2021_id":"224",
+        "figov:code":"224",
+        "figov:id":"au246554",
         "gn:id":653961,
         "qs_pg:id":244408
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -182,7 +191,7 @@
         }
     ],
     "wof:id":907198539,
-    "wof:lastmodified":1684352512,
+    "wof:lastmodified":1695877722,
     "wof:name":"Karkkila",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

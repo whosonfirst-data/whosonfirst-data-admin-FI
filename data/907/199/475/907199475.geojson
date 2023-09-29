@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -132,10 +135,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_578",
         "eurostat:nuts_2021_id":"578",
+        "figov:code":"578",
+        "figov:id":"au901895",
         "gn:id":642750,
         "gp:id":12590855,
         "qs_pg:id":275161
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":907199475,
-    "wof:lastmodified":1684352565,
+    "wof:lastmodified":1695877825,
     "wof:name":"Paltamo",
     "wof:parent_id":1159321487,
     "wof:placetype":"localadmin",

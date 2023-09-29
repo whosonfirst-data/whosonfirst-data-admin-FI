@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.947851,
-    "geom:area_square_m":5813718850.200148,
+    "geom:area_square_m":5813720365.704795,
     "geom:bbox":"19.0832,59.595064,20.564037,60.762002",
     "geom:latitude":60.262895,
     "geom:longitude":19.77276,
@@ -63,7 +63,7 @@
     ],
     "wof:country":"FI",
     "wof:created":1526415435,
-    "wof:geomhash":"588b39f60ecda1818b680a656d1fb7ae",
+    "wof:geomhash":"8b27e8cf56d0027c02f91f9c259ab5b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1159321611,
-    "wof:lastmodified":1627522115,
+    "wof:lastmodified":1695886588,
     "wof:name":"Countryside",
     "wof:parent_id":85632789,
     "wof:placetype":"county",

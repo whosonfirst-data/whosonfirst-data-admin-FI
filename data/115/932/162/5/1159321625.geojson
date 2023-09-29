@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.769571,
-    "geom:area_square_m":4428835532.769232,
+    "geom:area_square_m":4428835966.121439,
     "geom:bbox":"24.968808,61.839211,26.780303,62.583586",
     "geom:latitude":62.262845,
     "geom:longitude":25.809688,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415442,
-    "wof:geomhash":"839051895587d4c6dd03375f836da6cc",
+    "wof:geomhash":"a0a2e34e1b2da43d346197fffae79385",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321625,
-    "wof:lastmodified":1627522121,
+    "wof:lastmodified":1695886594,
     "wof:name":"Jyvaskyla",
     "wof:parent_id":85683117,
     "wof:placetype":"county",

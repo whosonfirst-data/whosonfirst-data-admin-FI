@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152801,
-    "geom:area_square_m":860100817.722898,
+    "geom:area_square_m":860100869.742834,
     "geom:bbox":"21.772061,62.751574,22.694183,63.102983",
     "geom:latitude":62.92076,
     "geom:longitude":22.157308,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415421,
-    "wof:geomhash":"48ad9dd7173b678cf9b0c8344b36a0f4",
+    "wof:geomhash":"9f76828eb8dfd55e5f2f72cfbc00915f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321589,
-    "wof:lastmodified":1642551790,
+    "wof:lastmodified":1695886521,
     "wof:name":"Kyronmaa",
     "wof:parent_id":85683119,
     "wof:placetype":"county",

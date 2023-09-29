@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -75,10 +78,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_980",
         "eurostat:nuts_2021_id":"980",
+        "figov:code":"980",
+        "figov:id":"au782077",
         "gn:id":630753,
         "gp:id":12590697,
         "qs_pg:id":349779
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":907199275,
-    "wof:lastmodified":1684352553,
+    "wof:lastmodified":1695877801,
     "wof:name":"Ylojarvi",
     "wof:parent_id":1159321533,
     "wof:placetype":"localadmin",

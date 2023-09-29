@@ -378,13 +378,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28321,
         "eurostat:nuts_2021_id":"FI1D7",
+        "figov:code":"619",
         "fips:code":"",
         "gn:id":830603,
         "gp:id":12577870,
         "hasc:id":"FI.",
+        "iso:code":"FI-10",
         "unlc:id":"FI-10",
         "wd:id":"Q5700"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         404227409
     ],
@@ -408,7 +414,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493276,
+    "wof:lastmodified":1695885227,
     "wof:name":"Lapland",
     "wof:parent_id":404227409,
     "wof:placetype":"region",

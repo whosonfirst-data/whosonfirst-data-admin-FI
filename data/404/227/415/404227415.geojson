@@ -63,7 +63,10 @@
         136253047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iso:code":"FI-OL"
+    },
+    "wof:concordances_official":"iso:code",
     "wof:country":"FI",
     "wof:geomhash":"a7f80c1d10228545c558b019ff62bf24",
     "wof:hierarchy":[
@@ -83,7 +86,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493060,
+    "wof:lastmodified":1695884161,
     "wof:name":"Northern Finland",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",

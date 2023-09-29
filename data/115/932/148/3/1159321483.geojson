@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.044313,
-    "geom:area_square_m":6218693811.60078,
+    "geom:area_square_m":6218693811.599284,
     "geom:bbox":"24.8554903367,60.6714762655,26.5136626338,61.8014078798",
     "geom:latitude":61.211064,
     "geom:longitude":25.702831,
@@ -255,7 +255,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415345,
-    "wof:geomhash":"ae3e6220b2a27402bd8696a62eb22550",
+    "wof:geomhash":"1d24f4df00feb150c5495de1e2e00720",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -267,7 +267,7 @@
         }
     ],
     "wof:id":1159321483,
-    "wof:lastmodified":1566595579,
+    "wof:lastmodified":1695886732,
     "wof:name":"Lahti",
     "wof:parent_id":85683091,
     "wof:placetype":"county",

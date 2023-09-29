@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -120,10 +123,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_743",
         "eurostat:nuts_2021_id":"743",
+        "figov:code":"743",
+        "figov:id":"au790844",
         "gn:id":637220,
         "gp:id":12591070,
         "qs_pg:id":1062292
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":907199285,
-    "wof:lastmodified":1684352554,
+    "wof:lastmodified":1695877802,
     "wof:name":"Seinajoki",
     "wof:parent_id":1159321561,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.571178,
-    "geom:area_square_m":3299749351.735466,
+    "geom:area_square_m":3299749069.384045,
     "geom:bbox":"29.295965,61.722073,30.789182,62.416344",
     "geom:latitude":62.146795,
     "geom:longitude":29.992562,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415385,
-    "wof:geomhash":"aa4375461b04f99ba44806ed93ea299a",
+    "wof:geomhash":"32eaa768b891981ae5e3a37dd6db5010",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321517,
-    "wof:lastmodified":1627522114,
+    "wof:lastmodified":1695886587,
     "wof:name":"Keski-Karjala",
     "wof:parent_id":85683133,
     "wof:placetype":"county",

@@ -288,9 +288,15 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28317,
         "eurostat:nuts_2021_id":"FI1C3",
+        "figov:code":"107",
         "gp:id":29389255,
+        "iso:code":"FI-16",
         "wd:id":"Q5708"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"27b4a66643297af8dbb7e9b58bcbd7b8",
     "wof:hierarchy":[
@@ -311,7 +317,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493267,
+    "wof:lastmodified":1695885218,
     "wof:name":"Paijanne Tavastia",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

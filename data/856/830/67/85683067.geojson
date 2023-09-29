@@ -412,13 +412,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28312,
         "eurostat:nuts_2021_id":"FI1B1",
+        "figov:code":"101",
         "fips:code":"",
         "gn:id":830709,
         "gp:id":29389247,
         "hasc:id":"FI.",
+        "iso:code":"FI-18",
         "unlc:id":"FI-18",
         "wd:id":"Q5711"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"d8f686f99c64148689b8397b4866d8a4",
     "wof:hierarchy":[
@@ -439,7 +445,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493264,
+    "wof:lastmodified":1695885215,
     "wof:name":"Uusimaa",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

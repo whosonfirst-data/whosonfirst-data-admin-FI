@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -129,10 +132,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_500",
         "eurostat:nuts_2021_id":"500",
+        "figov:code":"500",
+        "figov:id":"au772070",
         "gn:id":645386,
         "gp:id":12590719,
         "qs_pg:id":81399
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -150,7 +159,7 @@
         }
     ],
     "wof:id":907199257,
-    "wof:lastmodified":1684352552,
+    "wof:lastmodified":1695877799,
     "wof:name":"Muurame",
     "wof:parent_id":1159321625,
     "wof:placetype":"localadmin",

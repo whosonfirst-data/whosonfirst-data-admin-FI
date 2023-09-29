@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.512314,
-    "geom:area_square_m":3118221960.339677,
+    "geom:area_square_m":3118221960.339888,
     "geom:bbox":"21.5058703402,60.2100594187,22.8804460883,60.9042053838",
     "geom:latitude":60.512502,
     "geom:longitude":22.218838,
@@ -342,7 +342,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415433,
-    "wof:geomhash":"753a53a60c4e225be9958f8497c39ef3",
+    "wof:geomhash":"c8f0f089d64b26f75eaa7a9dc0ee4b64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -354,7 +354,7 @@
         }
     ],
     "wof:id":1159321603,
-    "wof:lastmodified":1566595501,
+    "wof:lastmodified":1695886719,
     "wof:name":"Turku",
     "wof:parent_id":85683073,
     "wof:placetype":"county",

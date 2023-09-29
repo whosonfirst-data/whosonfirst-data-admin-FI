@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -126,9 +129,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_833",
         "eurostat:nuts_2021_id":"833",
+        "figov:code":"833",
+        "figov:id":"au305093",
         "gn:id":635133,
         "qs_pg:id":81313
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":907198635,
-    "wof:lastmodified":1684352517,
+    "wof:lastmodified":1695877730,
     "wof:name":"Taivassalo",
     "wof:parent_id":1159321637,
     "wof:placetype":"localadmin",

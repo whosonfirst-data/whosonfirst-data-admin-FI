@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -66,8 +69,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"FI_062",
-        "eurostat:nuts_2021_id":"062"
+        "eurostat:nuts_2021_id":"062",
+        "figov:code":"062",
+        "figov:id":"au219817"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"e811eb6bb17699ba382de64de5a57dbb",
     "wof:hierarchy":[
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":907198485,
-    "wof:lastmodified":1684352511,
+    "wof:lastmodified":1695877719,
     "wof:name":"Foglo",
     "wof:parent_id":1159321503,
     "wof:placetype":"localadmin",

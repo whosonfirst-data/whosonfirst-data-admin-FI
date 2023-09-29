@@ -37,6 +37,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -170,6 +173,8 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_577",
         "eurostat:nuts_2021_id":"577",
+        "figov:code":"577",
+        "figov:id":"au737670",
         "gn:id":643154,
         "gp:id":12590955,
         "qs_pg:id":221606
@@ -177,6 +182,10 @@
     "wof:concordances_alt":{
         "qs_pg:id":369862
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -194,7 +203,7 @@
         }
     ],
     "wof:id":907199209,
-    "wof:lastmodified":1684352549,
+    "wof:lastmodified":1695877794,
     "wof:name":"Paimio",
     "wof:parent_id":1159321603,
     "wof:placetype":"localadmin",

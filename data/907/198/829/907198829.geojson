@@ -37,6 +37,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -146,6 +149,8 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_103",
         "eurostat:nuts_2021_id":"103",
+        "figov:code":"103",
+        "figov:id":"au454190",
         "gn:id":657113,
         "gp:id":12590654,
         "qs_pg:id":274931
@@ -154,6 +159,10 @@
         "gn:id":657112,
         "qs_pg:id":896234
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -171,7 +180,7 @@
         }
     ],
     "wof:id":907198829,
-    "wof:lastmodified":1684352527,
+    "wof:lastmodified":1695877748,
     "wof:name":"Humppila",
     "wof:parent_id":1159321511,
     "wof:placetype":"localadmin",

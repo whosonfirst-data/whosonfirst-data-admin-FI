@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -120,10 +123,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_849",
         "eurostat:nuts_2021_id":"849",
+        "figov:code":"849",
+        "figov:id":"au820538",
         "gn:id":634325,
         "gp:id":12591073,
         "qs_pg:id":81305
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":907199309,
-    "wof:lastmodified":1684352556,
+    "wof:lastmodified":1695877807,
     "wof:name":"Toholampi",
     "wof:parent_id":1159321595,
     "wof:placetype":"localadmin",

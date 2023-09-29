@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -131,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"FI_284",
-        "eurostat:nuts_2021_id":"284"
+        "eurostat:nuts_2021_id":"284",
+        "figov:code":"284",
+        "figov:id":"au1023739"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"1882877109b5532c1a2805ff9dc6656d",
     "wof:hierarchy":[
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":907199647,
-    "wof:lastmodified":1684352576,
+    "wof:lastmodified":1695877843,
     "wof:name":"Koski Tl",
     "wof:parent_id":1159321505,
     "wof:placetype":"localadmin",

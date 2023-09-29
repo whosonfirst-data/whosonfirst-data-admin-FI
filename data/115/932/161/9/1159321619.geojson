@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.234872,
-    "geom:area_square_m":1371573532.498629,
+    "geom:area_square_m":1371573532.498521,
     "geom:bbox":"25.4970411192,61.6084494151,26.5337514675,62.0432189989",
     "geom:latitude":61.818477,
     "geom:longitude":26.077204,
@@ -120,7 +120,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415437,
-    "wof:geomhash":"c2241572dc20fb5a685f1e027ca7fa1c",
+    "wof:geomhash":"c5320c955801867e6eaf5c4fd3bbaf27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1159321619,
-    "wof:lastmodified":1566595485,
+    "wof:lastmodified":1695886717,
     "wof:name":"Joutsa",
     "wof:parent_id":85683117,
     "wof:placetype":"county",

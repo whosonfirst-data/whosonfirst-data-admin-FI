@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.466705,
-    "geom:area_square_m":2849937354.509153,
+    "geom:area_square_m":2849937354.509274,
     "geom:bbox":"22.7909832536,59.9952092374,23.9205491095,60.7741682465",
     "geom:latitude":60.406152,
     "geom:longitude":23.31727,
@@ -123,7 +123,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415420,
-    "wof:geomhash":"058f83a4c7125e83c03f0f5adaa10d47",
+    "wof:geomhash":"ea87d0e77620a3cf738181c7ec2bd928",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":1159321585,
-    "wof:lastmodified":1566595507,
+    "wof:lastmodified":1695886719,
     "wof:name":"Salo",
     "wof:parent_id":85683073,
     "wof:placetype":"county",

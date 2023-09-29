@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -213,10 +216,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_286",
         "eurostat:nuts_2021_id":"286",
+        "figov:code":"286",
+        "figov:id":"au555006",
         "gn:id":650861,
         "gp:id":12590761,
         "qs_pg:id":81445
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -234,7 +243,7 @@
         }
     ],
     "wof:id":907198969,
-    "wof:lastmodified":1684352536,
+    "wof:lastmodified":1695877767,
     "wof:name":"Kouvola",
     "wof:parent_id":1159321557,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.920098,
-    "geom:area_square_m":4877811316.713576,
+    "geom:area_square_m":4877811316.713656,
     "geom:bbox":"23.1400486404,64.2996844967,25.6125804107,65.0079473474",
     "geom:latitude":64.612319,
     "geom:longitude":24.478692,
@@ -147,7 +147,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415445,
-    "wof:geomhash":"f7c533280cd2f0b2c12b7800dd5fb146",
+    "wof:geomhash":"b77c17b522c8646ba2eb1c56ffa62c89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,7 +159,7 @@
         }
     ],
     "wof:id":1159321631,
-    "wof:lastmodified":1566595558,
+    "wof:lastmodified":1695886725,
     "wof:name":"Raahe",
     "wof:parent_id":85683143,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.855922,
-    "geom:area_square_m":4804657578.512277,
+    "geom:area_square_m":4804657578.511948,
     "geom:bbox":"26.890127759,62.5922636488,28.7623868144,63.403310726",
     "geom:latitude":63.001167,
     "geom:longitude":27.763659,
@@ -243,7 +243,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415424,
-    "wof:geomhash":"8a97705b92e952663d6096a415dfd592",
+    "wof:geomhash":"95f568f111ca7404966868c47b0166f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -255,7 +255,7 @@
         }
     ],
     "wof:id":1159321597,
-    "wof:lastmodified":1566595477,
+    "wof:lastmodified":1695886712,
     "wof:name":"Kuopio",
     "wof:parent_id":85683131,
     "wof:placetype":"county",

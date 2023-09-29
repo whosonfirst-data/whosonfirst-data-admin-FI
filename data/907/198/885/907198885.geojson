@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -132,9 +135,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_681",
         "eurostat:nuts_2021_id":"681",
+        "figov:code":"681",
+        "figov:id":"au487760",
         "gn:id":639907,
         "qs_pg:id":1151712
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -152,7 +161,7 @@
         }
     ],
     "wof:id":907198885,
-    "wof:lastmodified":1684352532,
+    "wof:lastmodified":1695877758,
     "wof:name":"Rantasalmi",
     "wof:parent_id":1159321493,
     "wof:placetype":"localadmin",

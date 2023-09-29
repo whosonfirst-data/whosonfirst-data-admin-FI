@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -165,10 +168,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_430",
         "eurostat:nuts_2021_id":"430",
+        "figov:code":"430",
+        "figov:id":"au552672",
         "gn:id":647732,
         "gp:id":12590938,
         "qs_pg:id":1026802
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -186,7 +195,7 @@
         }
     ],
     "wof:id":907198963,
-    "wof:lastmodified":1684352536,
+    "wof:lastmodified":1695877766,
     "wof:name":"Loimaa",
     "wof:parent_id":1159321505,
     "wof:placetype":"localadmin",

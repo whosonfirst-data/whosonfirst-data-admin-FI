@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -72,10 +75,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_710",
         "eurostat:nuts_2021_id":"710",
+        "figov:code":"710",
+        "figov:id":"au24132283",
         "gn:id":8128754,
         "gp:id":56071678,
         "qs_pg:id":1042365
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":907199747,
-    "wof:lastmodified":1684352579,
+    "wof:lastmodified":1695877849,
     "wof:name":"Raasepori",
     "wof:parent_id":1159321627,
     "wof:placetype":"localadmin",

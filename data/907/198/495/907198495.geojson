@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -86,8 +89,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"FI_941",
-        "eurostat:nuts_2021_id":"941"
+        "eurostat:nuts_2021_id":"941",
+        "figov:code":"941",
+        "figov:id":"au222688"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"1e2158974b35028082f1ffa403e3f9e4",
     "wof:hierarchy":[
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":907198495,
-    "wof:lastmodified":1684352511,
+    "wof:lastmodified":1695877720,
     "wof:name":"Vardo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

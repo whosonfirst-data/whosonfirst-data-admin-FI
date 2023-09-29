@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -126,10 +129,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_739",
         "eurostat:nuts_2021_id":"739",
+        "figov:code":"739",
+        "figov:id":"au407751",
         "gn:id":637312,
         "gp:id":12590772,
         "qs_pg:id":953624
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":907198759,
-    "wof:lastmodified":1684352523,
+    "wof:lastmodified":1695877742,
     "wof:name":"Savitaipale",
     "wof:parent_id":1159321547,
     "wof:placetype":"localadmin",

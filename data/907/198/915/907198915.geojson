@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -129,10 +132,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_050",
         "eurostat:nuts_2021_id":"050",
+        "figov:code":"050",
+        "figov:id":"au519108",
         "gn:id":660080,
         "gp:id":12590907,
         "qs_pg:id":1030143
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -150,7 +159,7 @@
         }
     ],
     "wof:id":907198915,
-    "wof:lastmodified":1684352533,
+    "wof:lastmodified":1695877762,
     "wof:name":"Eura",
     "wof:parent_id":1159321607,
     "wof:placetype":"localadmin",

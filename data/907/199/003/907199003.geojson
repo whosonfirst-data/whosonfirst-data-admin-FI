@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -144,10 +147,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_145",
         "eurostat:nuts_2021_id":"145",
+        "figov:code":"145",
+        "figov:id":"au590456",
         "gn:id":656740,
         "gp:id":12591034,
         "qs_pg:id":1030122
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -165,7 +174,7 @@
         }
     ],
     "wof:id":907199003,
-    "wof:lastmodified":1684352538,
+    "wof:lastmodified":1695877771,
     "wof:name":"Ilmajoki",
     "wof:parent_id":1159321561,
     "wof:placetype":"localadmin",

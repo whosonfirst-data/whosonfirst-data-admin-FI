@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -177,10 +180,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_498",
         "eurostat:nuts_2021_id":"498",
+        "figov:code":"498",
+        "figov:id":"au986232",
         "gn:id":645672,
         "gp:id":12590787,
         "qs_pg:id":1317350
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -198,7 +207,7 @@
         }
     ],
     "wof:id":907199587,
-    "wof:lastmodified":1684352573,
+    "wof:lastmodified":1695877838,
     "wof:name":"Muonio",
     "wof:parent_id":1159321583,
     "wof:placetype":"localadmin",

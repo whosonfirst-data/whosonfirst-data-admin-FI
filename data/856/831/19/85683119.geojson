@@ -352,12 +352,18 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28326,
         "eurostat:nuts_2021_id":"FI195",
+        "figov:code":"415",
         "fips:code":"",
         "gn:id":830676,
         "gp:id":29389259,
         "hasc:id":"FI.",
+        "iso:code":"FI-12",
         "wd:id":"Q5702"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"e732f77720305246db5102eb978a5433",
     "wof:hierarchy":[
@@ -378,7 +384,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493272,
+    "wof:lastmodified":1695885223,
     "wof:name":"Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

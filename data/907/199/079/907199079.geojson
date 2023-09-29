@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -84,9 +87,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_759",
         "eurostat:nuts_2021_id":"759",
+        "figov:code":"759",
+        "figov:id":"au656811",
         "gn:id":636397,
         "qs_pg:id":550548
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":907199079,
-    "wof:lastmodified":1684352543,
+    "wof:lastmodified":1695877781,
     "wof:name":"Soini",
     "wof:parent_id":1159321567,
     "wof:placetype":"localadmin",

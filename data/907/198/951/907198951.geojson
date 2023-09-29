@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -126,10 +129,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_169",
         "eurostat:nuts_2021_id":"169",
+        "figov:code":"169",
+        "figov:id":"au548052",
         "gn:id":655693,
         "gp:id":12590657,
         "qs_pg:id":231148
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":907198951,
-    "wof:lastmodified":1684352535,
+    "wof:lastmodified":1695877765,
     "wof:name":"Jokioinen",
     "wof:parent_id":1159321511,
     "wof:placetype":"localadmin",

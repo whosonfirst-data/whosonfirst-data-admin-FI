@@ -364,13 +364,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28322,
         "eurostat:nuts_2021_id":"FI194",
+        "figov:code":"414",
         "fips:code":"",
         "gn:id":830682,
         "gp:id":29389256,
         "hasc:id":"FI.",
+        "iso:code":"FI-03",
         "unlc:id":"FI-03",
         "wd:id":"Q5692"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"b2bed2cd4ee3676a43495fe5c1e60b3e",
     "wof:hierarchy":[
@@ -391,7 +397,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493271,
+    "wof:lastmodified":1695885222,
     "wof:name":"Southern Ostrobothnia",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

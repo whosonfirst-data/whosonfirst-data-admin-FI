@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -75,9 +78,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_271",
         "eurostat:nuts_2021_id":"271",
+        "figov:code":"271",
+        "figov:id":"au542010",
         "gn:id":651981,
         "qs_pg:id":81452
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":907198937,
-    "wof:lastmodified":1684352534,
+    "wof:lastmodified":1695877764,
     "wof:name":"Kokemaki",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

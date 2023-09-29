@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -147,10 +150,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_604",
         "eurostat:nuts_2021_id":"604",
+        "figov:code":"604",
+        "figov:id":"au784497",
         "gn:id":641491,
         "gp:id":12590681,
         "qs_pg:id":349799
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -168,7 +177,7 @@
         }
     ],
     "wof:id":907199281,
-    "wof:lastmodified":1684352554,
+    "wof:lastmodified":1695877802,
     "wof:name":"Pirkkala",
     "wof:parent_id":1159321521,
     "wof:placetype":"localadmin",

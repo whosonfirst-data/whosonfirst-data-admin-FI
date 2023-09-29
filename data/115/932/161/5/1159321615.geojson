@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.669306,
-    "geom:area_square_m":3870600533.871938,
+    "geom:area_square_m":3870600643.884658,
     "geom:bbox":"26.66197,61.545596,28.227785,62.530018",
     "geom:latitude":62.115693,
     "geom:longitude":27.517259,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415436,
-    "wof:geomhash":"60d47ae87c5fd822fdb1dcd8a6aa2073",
+    "wof:geomhash":"d43066044408d34ee8773157937f6abc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321615,
-    "wof:lastmodified":1627522126,
+    "wof:lastmodified":1695886601,
     "wof:name":"Pieksamaki",
     "wof:parent_id":85683109,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003346,
-    "geom:area_square_m":20632911.367524,
+    "geom:area_square_m":20632935.788303,
     "geom:bbox":"19.913108,60.046665,19.973286,60.128986",
     "geom:latitude":60.087881,
     "geom:longitude":19.94251,
@@ -64,7 +64,7 @@
     ],
     "wof:country":"FI",
     "wof:created":1526415416,
-    "wof:geomhash":"977ad97da2b763e63acae4cb7223878e",
+    "wof:geomhash":"5c6b1119ea9c61b33e790929f9137f1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1159321577,
-    "wof:lastmodified":1642551812,
+    "wof:lastmodified":1695886531,
     "wof:name":"Maarianhamina",
     "wof:parent_id":85667871,
     "wof:placetype":"county",

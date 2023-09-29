@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -315,10 +318,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_564",
         "eurostat:nuts_2021_id":"564",
+        "figov:code":"564",
+        "figov:id":"au887114",
         "gn:id":643493,
         "gp:id":56071673,
         "qs_pg:id":33489
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:coterminous":[
         101748443
     ],
@@ -339,7 +348,7 @@
         }
     ],
     "wof:id":907199459,
-    "wof:lastmodified":1684352565,
+    "wof:lastmodified":1695877823,
     "wof:name":"Oulu",
     "wof:parent_id":1159321529,
     "wof:placetype":"localadmin",

@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -177,10 +180,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_858",
         "eurostat:nuts_2021_id":"858",
+        "figov:code":"858",
+        "figov:id":"au304337",
         "gn:id":633592,
         "gp:id":12591024,
         "qs_pg:id":349780
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -198,7 +207,7 @@
         }
     ],
     "wof:id":907198631,
-    "wof:lastmodified":1684352516,
+    "wof:lastmodified":1695877730,
     "wof:name":"Tuusula",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

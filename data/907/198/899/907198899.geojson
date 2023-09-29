@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -75,10 +78,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_420",
         "eurostat:nuts_2021_id":"420",
+        "figov:code":"420",
+        "figov:id":"au497623",
         "gn:id":648228,
         "gp:id":12590737,
         "qs_pg:id":1030081
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":907198899,
-    "wof:lastmodified":1684352532,
+    "wof:lastmodified":1695877760,
     "wof:name":"Leppavirta",
     "wof:parent_id":1159321629,
     "wof:placetype":"localadmin",

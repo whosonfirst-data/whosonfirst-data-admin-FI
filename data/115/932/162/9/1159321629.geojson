@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.355355,
-    "geom:area_square_m":2031864777.008118,
+    "geom:area_square_m":2031864777.008854,
     "geom:bbox":"27.4067629758,62.1410078981,28.6588906328,62.7058392858",
     "geom:latitude":62.456874,
     "geom:longitude":28.007469,
@@ -165,7 +165,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415444,
-    "wof:geomhash":"7d9b2d12c8658ff8d7dcd24b2862351d",
+    "wof:geomhash":"128d17a4c6037feab82244e2d5e08206",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +177,7 @@
         }
     ],
     "wof:id":1159321629,
-    "wof:lastmodified":1566595544,
+    "wof:lastmodified":1695886724,
     "wof:name":"Varkaus",
     "wof:parent_id":85683131,
     "wof:placetype":"county",

@@ -11,7 +11,7 @@
     "figov:national_code":"51",
     "figov:swe_type":"Kommun",
     "geom:area":0.107647,
-    "geom:area_square_m":640012709.021893,
+    "geom:area_square_m":640012709.021884,
     "geom:bbox":"20.8120814968,61.1381352141,21.9459419575,61.352649806",
     "geom:latitude":61.260836,
     "geom:longitude":21.470857,
@@ -21,6 +21,9 @@
     ],
     "label:fin_x_preferred_placetype":[
         "kunta"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
     ],
     "label:swe_x_preferred_placetype":[
         "kommun"
@@ -110,15 +113,21 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "figov:code":"051",
+        "figov:id":"au327808",
         "gn:id":660074,
         "gp:id":12590908,
         "qs_pg:id":1030126
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3b1d827710c56766fdc073916300814",
+    "wof:geomhash":"f7c5ed4cfa70ea61063784455adae62b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":907198669,
-    "wof:lastmodified":1582312053,
+    "wof:lastmodified":1695877713,
     "wof:name":"Eurajoki",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

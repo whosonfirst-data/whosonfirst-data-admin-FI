@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -141,10 +144,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_217",
         "eurostat:nuts_2021_id":"217",
+        "figov:code":"217",
+        "figov:id":"au576590",
         "gn:id":654315,
         "gp:id":12591040,
         "qs_pg:id":81485
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -162,7 +171,7 @@
         }
     ],
     "wof:id":907198997,
-    "wof:lastmodified":1684352537,
+    "wof:lastmodified":1695877770,
     "wof:name":"Kannus",
     "wof:parent_id":1159321609,
     "wof:placetype":"localadmin",

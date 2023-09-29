@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.367144,
-    "geom:area_square_m":2214690222.050118,
+    "geom:area_square_m":2214690222.050137,
     "geom:bbox":"22.1603136299,60.5108829419,23.2995858448,61.1014353236",
     "geom:latitude":60.801346,
     "geom:longitude":22.797269,
@@ -144,7 +144,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415360,
-    "wof:geomhash":"87b3b8b5fb4c6f5909f7d77be246d177",
+    "wof:geomhash":"5751a9f820c586dc4922803fd2b56258",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,7 +156,7 @@
         }
     ],
     "wof:id":1159321505,
-    "wof:lastmodified":1566595475,
+    "wof:lastmodified":1695886711,
     "wof:name":"Loimaa",
     "wof:parent_id":85683073,
     "wof:placetype":"county",

@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -132,10 +135,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_785",
         "eurostat:nuts_2021_id":"785",
+        "figov:code":"785",
+        "figov:id":"au1010117",
         "gn:id":633098,
         "gp:id":12590877,
         "qs_pg:id":81289
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":907199621,
-    "wof:lastmodified":1684352575,
+    "wof:lastmodified":1695877841,
     "wof:name":"Vaala",
     "wof:parent_id":1159321487,
     "wof:placetype":"localadmin",

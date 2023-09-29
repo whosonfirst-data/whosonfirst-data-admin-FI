@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -135,10 +138,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_436",
         "eurostat:nuts_2021_id":"436",
+        "figov:code":"436",
+        "figov:id":"au965549",
         "gn:id":647472,
         "gp:id":12590848,
         "qs_pg:id":369896
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":907199537,
-    "wof:lastmodified":1684352570,
+    "wof:lastmodified":1695877833,
     "wof:name":"Lumijoki",
     "wof:parent_id":1159321529,
     "wof:placetype":"localadmin",

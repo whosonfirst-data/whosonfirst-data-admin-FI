@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -123,10 +126,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_746",
         "eurostat:nuts_2021_id":"746",
+        "figov:code":"746",
+        "figov:id":"au837384",
         "gn:id":637035,
         "gp:id":12590869,
         "qs_pg:id":202549
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -144,7 +153,7 @@
         }
     ],
     "wof:id":907199347,
-    "wof:lastmodified":1684352558,
+    "wof:lastmodified":1695877810,
     "wof:name":"Sievi",
     "wof:parent_id":1159321569,
     "wof:placetype":"localadmin",

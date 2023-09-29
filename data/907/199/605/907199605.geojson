@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -156,10 +159,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_422",
         "eurostat:nuts_2021_id":"422",
+        "figov:code":"422",
+        "figov:id":"au990510",
         "gn:id":648091,
         "gp:id":12590891,
         "qs_pg:id":81416
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -177,7 +186,7 @@
         }
     ],
     "wof:id":907199605,
-    "wof:lastmodified":1684352573,
+    "wof:lastmodified":1695877839,
     "wof:name":"Lieksa",
     "wof:parent_id":1159321575,
     "wof:placetype":"localadmin",

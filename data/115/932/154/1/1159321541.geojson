@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194091,
-    "geom:area_square_m":1173624442.788891,
+    "geom:area_square_m":1173624386.123827,
     "geom:bbox":"24.046748,60.552491,25.193067,60.927839",
     "geom:latitude":60.724127,
     "geom:longitude":24.592054,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415399,
-    "wof:geomhash":"335104d1158367c6353526a03379494f",
+    "wof:geomhash":"f976f9d9901321c1236acbfdb9944b23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321541,
-    "wof:lastmodified":1627522129,
+    "wof:lastmodified":1695886606,
     "wof:name":"Riihimaki",
     "wof:parent_id":85683077,
     "wof:placetype":"county",

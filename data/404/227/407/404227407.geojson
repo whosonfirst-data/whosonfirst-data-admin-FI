@@ -64,7 +64,10 @@
         136253047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iso:code":"FI-IS"
+    },
+    "wof:concordances_official":"iso:code",
     "wof:country":"FI",
     "wof:geomhash":"7c484b96f86643ff9eb9773936ab184a",
     "wof:hierarchy":[
@@ -84,7 +87,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493059,
+    "wof:lastmodified":1695884159,
     "wof:name":"Eastern Finland",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",

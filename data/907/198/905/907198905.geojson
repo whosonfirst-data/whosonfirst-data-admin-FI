@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -160,9 +163,15 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_886",
         "eurostat:nuts_2021_id":"886",
+        "figov:code":"886",
+        "figov:id":"au502555",
         "gn:id":633396,
         "qs_pg:id":369827
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -180,7 +189,7 @@
         }
     ],
     "wof:id":907198905,
-    "wof:lastmodified":1684352533,
+    "wof:lastmodified":1695877761,
     "wof:name":"Ulvila",
     "wof:parent_id":1159321565,
     "wof:placetype":"localadmin",

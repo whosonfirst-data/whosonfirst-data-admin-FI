@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -75,10 +78,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_758",
         "eurostat:nuts_2021_id":"758",
+        "figov:code":"758",
+        "figov:id":"au981582",
         "gn:id":636465,
         "gp:id":12590797,
         "qs_pg:id":81320
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":907199561,
-    "wof:lastmodified":1684352571,
+    "wof:lastmodified":1695877836,
     "wof:name":"Sodankyla",
     "wof:parent_id":1159321531,
     "wof:placetype":"localadmin",

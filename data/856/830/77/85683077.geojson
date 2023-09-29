@@ -377,13 +377,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28314,
         "eurostat:nuts_2021_id":"FI1C2",
+        "figov:code":"105",
         "fips:code":"",
         "gn:id":830705,
         "gp:id":29389249,
         "hasc:id":"FI.",
+        "iso:code":"FI-06",
         "unlc:id":"FI-06",
         "wd:id":"Q5695"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"64a2eaecfcc6bfe925892bc14d836e3a",
     "wof:hierarchy":[
@@ -404,7 +410,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493266,
+    "wof:lastmodified":1695885217,
     "wof:name":"Tavastia Proper",
     "wof:parent_id":404227411,
     "wof:placetype":"region",

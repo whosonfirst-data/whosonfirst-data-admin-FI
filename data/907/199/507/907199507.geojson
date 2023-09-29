@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -156,10 +159,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_290",
         "eurostat:nuts_2021_id":"290",
+        "figov:code":"290",
+        "figov:id":"au946876",
         "gn:id":650705,
         "gp:id":12590844,
         "qs_pg:id":582219
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -177,7 +186,7 @@
         }
     ],
     "wof:id":907199507,
-    "wof:lastmodified":1684352568,
+    "wof:lastmodified":1695877829,
     "wof:name":"Kuhmo",
     "wof:parent_id":1159321549,
     "wof:placetype":"localadmin",

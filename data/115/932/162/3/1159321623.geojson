@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.47199,
-    "geom:area_square_m":2672162169.8327,
+    "geom:area_square_m":2672162106.604809,
     "geom:bbox":"26.039838,62.423999,27.539485,63.131676",
     "geom:latitude":62.751035,
     "geom:longitude":26.804496,
@@ -60,7 +60,7 @@
     "wof:concordance":{},
     "wof:country":"FI",
     "wof:created":1526415439,
-    "wof:geomhash":"4dc5bf727a4fb4c72a928f23bcfbd338",
+    "wof:geomhash":"d17b993abd85e5ba2a668b48a2d5d102",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1159321623,
-    "wof:lastmodified":1627522132,
+    "wof:lastmodified":1695886612,
     "wof:name":"Sisa-Savo",
     "wof:parent_id":85683131,
     "wof:placetype":"county",

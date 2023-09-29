@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -132,10 +135,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_700",
         "eurostat:nuts_2021_id":"700",
+        "figov:code":"700",
+        "figov:id":"au422817",
         "gn:id":638804,
         "gp:id":12590770,
         "qs_pg:id":81342
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":907198791,
-    "wof:lastmodified":1684352525,
+    "wof:lastmodified":1695877746,
     "wof:name":"Ruokolahti",
     "wof:parent_id":1159321507,
     "wof:placetype":"localadmin",

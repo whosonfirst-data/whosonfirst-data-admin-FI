@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -141,10 +144,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_927",
         "eurostat:nuts_2021_id":"927",
+        "figov:code":"927",
+        "figov:id":"au280184",
         "gn:id":631707,
         "gp:id":12591026,
         "qs_pg:id":248707
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -162,7 +171,7 @@
         }
     ],
     "wof:id":907198595,
-    "wof:lastmodified":1684352515,
+    "wof:lastmodified":1695877727,
     "wof:name":"Vihti",
     "wof:parent_id":1159321633,
     "wof:placetype":"localadmin",

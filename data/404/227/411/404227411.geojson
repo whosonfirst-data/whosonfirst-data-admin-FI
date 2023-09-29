@@ -216,8 +216,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "iso:code":"FI-ES",
         "wd:id":"Q188752"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"FI",
     "wof:geomhash":"cf78922b9351424497734da7ff6e2648",
     "wof:hierarchy":[
@@ -237,7 +239,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694639827,
+    "wof:lastmodified":1695884147,
     "wof:name":"Southern Finland Province",
     "wof:parent_id":85633143,
     "wof:placetype":"macroregion",

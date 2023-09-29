@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -75,10 +78,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_005",
         "eurostat:nuts_2021_id":"005",
+        "figov:code":"005",
+        "figov:id":"au674618",
         "gn:id":661594,
         "gp:id":12591029,
         "qs_pg:id":845301
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":907199105,
-    "wof:lastmodified":1684352544,
+    "wof:lastmodified":1695877784,
     "wof:name":"Alajarvi",
     "wof:parent_id":1159321567,
     "wof:placetype":"localadmin",

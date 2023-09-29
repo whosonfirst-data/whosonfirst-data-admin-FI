@@ -835,12 +835,14 @@
         "gaul:id":"1242",
         "gn:id":661882,
         "gp:id":12577865,
+        "iso:code":"AX",
         "m49:code":"248",
         "ne:id":1159320621,
         "qs_pg:id":550574,
         "uncrt:id":"FIN",
         "wd:id":"Q5689"
     },
+    "wof:concordances_official":"iso:code",
     "wof:controlled":[
         "wof:hierarchy",
         "wof:parent_id"
@@ -858,7 +860,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1694493032,
+    "wof:lastmodified":1695881385,
     "wof:name":"Aland",
     "wof:parent_id":136253047,
     "wof:placetype":"dependency",

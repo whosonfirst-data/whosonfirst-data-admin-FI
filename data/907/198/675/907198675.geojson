@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -75,10 +78,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_631",
         "eurostat:nuts_2021_id":"631",
+        "figov:code":"631",
+        "figov:id":"au333003",
         "gn:id":640406,
         "gp:id":12590964,
         "qs_pg:id":81352
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":907198675,
-    "wof:lastmodified":1684352518,
+    "wof:lastmodified":1695877733,
     "wof:name":"Pyharanta",
     "wof:parent_id":1159321637,
     "wof:placetype":"localadmin",

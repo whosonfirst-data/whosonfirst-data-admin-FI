@@ -372,13 +372,19 @@
     "wof:concordances":{
         "digitalenvoy:region_code":28325,
         "eurostat:nuts_2021_id":"FI197",
+        "figov:code":"406",
         "fips:code":"",
         "gn:id":830704,
         "gp:id":29389248,
         "hasc:id":"FI.",
+        "iso:code":"FI-11",
         "unlc:id":"FI-11",
         "wd:id":"Q5701"
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"FI",
     "wof:geomhash":"ac83338d60f2b2e94d9b69ecd68e7fd2",
     "wof:hierarchy":[
@@ -399,7 +405,7 @@
         "fin",
         "swe"
     ],
-    "wof:lastmodified":1694493128,
+    "wof:lastmodified":1695884321,
     "wof:name":"Pirkanmaa",
     "wof:parent_id":404227417,
     "wof:placetype":"region",

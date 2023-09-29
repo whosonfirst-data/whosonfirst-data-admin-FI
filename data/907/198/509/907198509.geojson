@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -81,10 +84,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_149",
         "eurostat:nuts_2021_id":"149",
+        "figov:code":"149",
+        "figov:id":"au226825",
         "gn:id":656653,
         "gp:id":12590995,
         "qs_pg:id":1030121
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":907198509,
-    "wof:lastmodified":1684352511,
+    "wof:lastmodified":1695877720,
     "wof:name":"Inkoo",
     "wof:parent_id":1159321627,
     "wof:placetype":"localadmin",

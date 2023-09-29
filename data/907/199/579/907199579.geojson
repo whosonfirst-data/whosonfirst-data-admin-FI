@@ -34,6 +34,9 @@
     "label:fin_x_preferred_placetype":[
         "kunta"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:swe_x_preferred_placetype":[
         "kommun"
     ],
@@ -147,10 +150,16 @@
     "wof:concordances":{
         "eg:gisco_id":"FI_742",
         "eurostat:nuts_2021_id":"742",
+        "figov:code":"742",
+        "figov:id":"au985163",
         "gn:id":637285,
         "gp:id":12590795,
         "qs_pg:id":1157870
     },
+    "wof:concordances_official":"figov:code",
+    "wof:concordances_official_alt":[
+        "figov:id"
+    ],
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -168,7 +177,7 @@
         }
     ],
     "wof:id":907199579,
-    "wof:lastmodified":1684352572,
+    "wof:lastmodified":1695877837,
     "wof:name":"Savukoski",
     "wof:parent_id":1159321535,
     "wof:placetype":"localadmin",
