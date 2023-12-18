@@ -6,11 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.78703,61.50212,23.78703,61.50212",
-    "geom:latitude":61.50212,
-    "geom:longitude":23.78703,
+    "geom:bbox":"23.76244,61.50353,23.76244,61.50353",
+    "geom:latitude":61.50353,
+    "geom:longitude":23.76244,
     "iso:country":"FI",
-    "lbl:bbox":"23.78203,61.49712,23.79203,61.50712",
+    "lbl:bbox":"23.75744,61.49253,23.76744,61.50853",
     "lbl:latitude":61.50212,
     "lbl:longitude":23.78703,
     "lbl:max_zoom":18.0,
@@ -76,12 +76,12 @@
     "wd:wordcount":605,
     "wof:belongsto":[
         102191581,
-        907199231,
         85633143,
-        404227417,
-        101748431,
-        136253047,
         1159321521,
+        136253047,
+        907199231,
+        101748431,
+        404227417,
         85683099
     ],
     "wof:breaches":[],
@@ -96,7 +96,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7e24792845fda1c875b0b8f589ace04a",
+    "wof:geomhash":"1a917fa1979e88e5d64baa6dc423aab8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +114,7 @@
     "wof:lang":[
         "fin"
     ],
-    "wof:lastmodified":1582312154,
+    "wof:lastmodified":1702935619,
     "wof:name":"Tampella",
     "wof:parent_id":101748431,
     "wof:placetype":"neighbourhood",
@@ -124,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.78703,
-    61.50212,
-    23.78703,
-    61.50212
+    23.76244,
+    61.50353,
+    23.76244,
+    61.50353
 ],
-  "geometry": {"coordinates":[23.78703,61.50212],"type":"Point"}
+  "geometry": {"coordinates":[23.76244,61.50353],"type":"Point"}
 }
