@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"28.83333,61.28333,28.83333,61.28333",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ruokolahti"
@@ -114,7 +116,7 @@
         "wk:page":"Ruokolahti"
     },
     "wof:country":"FI",
-    "wof:geomhash":"b986d37cf9392d4f2a64077f9655886b",
+    "wof:geomhash":"ff14e24c310f86e935ee9d5e5c92927b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,22 +130,24 @@
         }
     ],
     "wof:id":1276317851,
-    "wof:lastmodified":1566594715,
+    "wof:lastmodified":1706239527,
     "wof:name":"Ruokolahti",
     "wof:parent_id":907198791,
     "wof:placetype":"locality",
     "wof:population":5780,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101814035
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     28.83333,
-    61.28333000000001,
+    61.28333,
     28.83333,
-    61.28333000000001
+    61.28333
 ],
-  "geometry": {"coordinates":[28.83333,61.28333000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.83333,61.28333],"type":"Point"}
 }

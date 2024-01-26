@@ -9,8 +9,23 @@
     "geom:bbox":"22.564302,61.579379,22.612938,61.614317",
     "geom:latitude":61.597025,
     "geom:longitude":22.584294,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"609.0",
+    "gn:asciiname":"Lavia",
+    "gn:country_code":"FI",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":648613,
+    "gn:latitude":61.6,
+    "gn:longitude":22.6,
+    "gn:modification_date":"2015-01-02",
+    "gn:name":"Lavia",
     "gn:population":2109,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.58,61.58,22.62,61.62",
     "lbl:latitude":61.594376,
     "lbl:longitude":22.581899,
     "lbl:max_zoom":15.0,
@@ -131,7 +146,12 @@
         "wd:id":"Q1009604"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1114369
+        "gn:id":[
+            648613
+        ],
+        "qs_pg:id":[
+            1114369
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -151,7 +171,7 @@
         }
     ],
     "wof:id":101813965,
-    "wof:lastmodified":1690879849,
+    "wof:lastmodified":1706239526,
     "wof:name":"Lavia",
     "wof:parent_id":907199653,
     "wof:placetype":"locality",
@@ -159,7 +179,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226143369
+    ],
     "wof:tags":[]
 },
   "bbox": [

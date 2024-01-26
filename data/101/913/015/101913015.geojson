@@ -11,6 +11,7 @@
     "geom:longitude":24.955934,
     "gn:population":3052,
     "iso:country":"FI",
+    "lbl:bbox":"24.950335,63.581089,24.990335,63.621089",
     "lbl:latitude":63.599813,
     "lbl:longitude":24.955685,
     "lbl:max_zoom":15.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Reisj\u00e4rvi"
     ],
@@ -131,11 +133,30 @@
     "qs:pop":0,
     "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
+    "qs_pg:name":"Reisj\u00e4rvi",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Pohjois-pohjanmaan maakunta",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1192658,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":572136,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":593,
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Pohjois-pohjanmaan maakunta",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85683143,
         102191581,
@@ -153,6 +174,17 @@
         "wd:id":"Q377049",
         "wk:page":"Reisj\u00e4rvi"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            572136
+        ],
+        "qs_pg:id":[
+            1192658
+        ],
+        "wd:id":[
+            "Q377049"
+        ]
+    },
     "wof:country":"FI",
     "wof:geomhash":"e3578785b9e941be10b319db293cbf9e",
     "wof:hierarchy":[
@@ -168,7 +200,7 @@
         }
     ],
     "wof:id":101913015,
-    "wof:lastmodified":1690879736,
+    "wof:lastmodified":1706239531,
     "wof:name":"Reisj\u00e4rvi",
     "wof:parent_id":907199141,
     "wof:placetype":"locality",
@@ -176,7 +208,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126028751
+    ],
     "wof:tags":[]
 },
   "bbox": [

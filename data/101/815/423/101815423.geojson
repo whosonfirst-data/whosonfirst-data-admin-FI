@@ -9,7 +9,23 @@
     "geom:bbox":"26.550167,60.836014,26.63238,60.863726",
     "geom:latitude":60.849627,
     "geom:longitude":26.591622,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"286.0",
+    "gn:asciiname":"Koria",
+    "gn:country_code":"FI",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":651514,
+    "gn:latitude":60.84614,
+    "gn:longitude":26.60755,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Koria",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.58755,60.82614,26.62755,60.86614",
     "lbl:latitude":60.846824,
     "lbl:longitude":26.588819,
     "lbl:max_zoom":18.0,
@@ -96,7 +112,13 @@
         "gn:id":651515,
         "gp:id":567854,
         "qs_pg:id":290147,
-        "wd:id":"Q11275993"
+        "wd:id":"Q11275993",
+        "wk:page":"Koria"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            651514
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -116,13 +138,15 @@
         }
     ],
     "wof:id":101815423,
-    "wof:lastmodified":1690879766,
+    "wof:lastmodified":1706239529,
     "wof:name":"Koria",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225941797
+    ],
     "wof:tags":[]
 },
   "bbox": [

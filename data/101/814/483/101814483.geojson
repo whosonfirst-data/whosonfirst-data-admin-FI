@@ -9,8 +9,23 @@
     "geom:bbox":"22.441114,68.436093,22.517037,68.459031",
     "geom:latitude":68.444274,
     "geom:longitude":22.477504,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"196.0",
+    "gn:admin3_code":"47.0",
+    "gn:asciiname":"Kaaresuvanto",
+    "gn:country_code":"FI",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":655137,
+    "gn:latitude":68.45105,
+    "gn:longitude":22.48592,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kaaresuvanto",
     "gn:population":313,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.46592,68.43105,22.50592,68.47105",
     "lbl:latitude":68.44447,
     "lbl:longitude":22.489582,
     "lbl:max_zoom":17.0,
@@ -23,6 +38,9 @@
     "name:cat_x_preferred":[
         "Karesuando"
     ],
+    "name:ceb_x_preferred":[
+        "Kaaresuvanto"
+    ],
     "name:dan_x_preferred":[
         "Karesuando"
     ],
@@ -34,6 +52,9 @@
     ],
     "name:epo_x_preferred":[
         "Karesuando"
+    ],
+    "name:est_x_preferred":[
+        "Kaaresuvanto"
     ],
     "name:eus_x_preferred":[
         "Karesuvanto"
@@ -98,6 +119,11 @@
     "name:swe_x_preferred":[
         "Karesuando"
     ],
+    "name:und_x_variant":[
+        "Karas\u00e2vvon",
+        "Karesuanto",
+        "Karesuando"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Karesuando"
     ],
@@ -138,6 +164,14 @@
         "wd:id":"Q137860",
         "wk:page":"Karesuando"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            655137
+        ],
+        "wk:page":[
+            "Karesuvanto"
+        ]
+    },
     "wof:country":"FI",
     "wof:geomhash":"7d74ca97bb7c21d8ab5e450d138f8a5d",
     "wof:hierarchy":[
@@ -153,7 +187,7 @@
         }
     ],
     "wof:id":101814483,
-    "wof:lastmodified":1690879809,
+    "wof:lastmodified":1706239529,
     "wof:name":"Kaaresuvanto",
     "wof:parent_id":907199599,
     "wof:placetype":"locality",
@@ -161,7 +195,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242743541
+    ],
     "wof:tags":[]
 },
   "bbox": [

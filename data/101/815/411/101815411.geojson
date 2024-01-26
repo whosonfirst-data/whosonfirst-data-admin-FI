@@ -9,8 +9,23 @@
     "geom:bbox":"23.74208,60.800245,23.812396,60.822931",
     "geom:latitude":60.809267,
     "geom:longitude":23.776372,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"53.0",
+    "gn:admin3_code":"834.0",
+    "gn:asciiname":"Tammela",
+    "gn:country_code":"FI",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":634992,
+    "gn:latitude":60.81035,
+    "gn:longitude":23.76823,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Tammela",
     "gn:population":6519,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.74823,60.79035,23.78823,60.83035",
     "lbl:latitude":60.809122,
     "lbl:longitude":23.773975,
     "lbl:max_zoom":15.0,
@@ -83,6 +98,9 @@
     "name:nob_x_preferred":[
         "Tammela"
     ],
+    "name:nor_x_preferred":[
+        "Tammela"
+    ],
     "name:pol_x_preferred":[
         "Tammela"
     ],
@@ -153,10 +171,16 @@
         "gn:id":6930908,
         "gp:id":573745,
         "qs_pg:id":968415,
-        "wd:id":"Q1005049"
+        "wd:id":"Q1005049",
+        "wk:page":"Tammela%2C_Finland"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1291710
+        "gn:id":[
+            634992
+        ],
+        "qs_pg:id":[
+            1291710
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -176,7 +200,7 @@
         }
     ],
     "wof:id":101815411,
-    "wof:lastmodified":1690879780,
+    "wof:lastmodified":1706239529,
     "wof:name":"Tammela",
     "wof:parent_id":907198581,
     "wof:placetype":"locality",
@@ -184,7 +208,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326652943
+    ],
     "wof:tags":[]
 },
   "bbox": [

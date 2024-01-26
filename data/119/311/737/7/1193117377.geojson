@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"29.84711,62.76023,29.84711,62.76023",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041a\u043e\u043d\u0442\u044b\u044f\u043b\u0430\u0445\u0442\u044b"
@@ -138,7 +140,7 @@
         "wk:page":"Kontiolahti"
     },
     "wof:country":"FI",
-    "wof:geomhash":"201a219930dd9929632beba0a2564eb5",
+    "wof:geomhash":"a407d1f815364cf8fb98c85d5a6cf2a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,22 +154,24 @@
         }
     ],
     "wof:id":1193117377,
-    "wof:lastmodified":1566594864,
+    "wof:lastmodified":1706239528,
     "wof:name":"Kontiolahti",
     "wof:parent_id":907199445,
     "wof:placetype":"locality",
     "wof:population":12411,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-fi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101814367
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     29.84711,
-    62.76023000000001,
+    62.76023,
     29.84711,
-    62.76023000000001
+    62.76023
 ],
-  "geometry": {"coordinates":[29.84711,62.76023000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.84711,62.76023],"type":"Point"}
 }

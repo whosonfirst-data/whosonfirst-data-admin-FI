@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"27.66667,64.86667,27.66667,64.86667",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Puolanka"
@@ -137,14 +139,16 @@
         }
     ],
     "wof:id":1293847143,
-    "wof:lastmodified":1566594507,
+    "wof:lastmodified":1706239528,
     "wof:name":"Puolanka",
     "wof:parent_id":907199513,
     "wof:placetype":"locality",
     "wof:population":3304,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101814393
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

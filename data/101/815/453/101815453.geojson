@@ -9,8 +9,23 @@
     "geom:bbox":"25.686638,60.782328,25.781988,60.827109",
     "geom:latitude":60.80604,
     "geom:longitude":25.734506,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"560.0",
+    "gn:asciiname":"Orimattila",
+    "gn:country_code":"FI",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":643644,
+    "gn:latitude":60.80487,
+    "gn:longitude":25.72964,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Orimattila",
     "gn:population":14603,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.70964,60.78487,25.74964,60.82487",
     "lbl:latitude":60.809118,
     "lbl:longitude":25.731255,
     "lbl:max_zoom":15.0,
@@ -200,10 +215,16 @@
         "gn:id":847481,
         "gp:id":570687,
         "qs_pg:id":114700,
-        "wd:id":"Q939701"
+        "wd:id":"Q939701",
+        "wk:page":"Orimattila"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":688363
+        "gn:id":[
+            643644
+        ],
+        "qs_pg:id":[
+            688363
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -223,7 +244,7 @@
         }
     ],
     "wof:id":101815453,
-    "wof:lastmodified":1690879771,
+    "wof:lastmodified":1706239529,
     "wof:name":"Orimattila",
     "wof:parent_id":907198577,
     "wof:placetype":"locality",
@@ -231,7 +252,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209406595
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,23 @@
     "geom:bbox":"27.066034,62.611656,27.151403,62.660577",
     "geom:latitude":62.62926,
     "geom:longitude":27.110434,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"115.0",
+    "gn:admin3_code":"778.0",
+    "gn:asciiname":"Suonenjoki",
+    "gn:country_code":"FI",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":635692,
+    "gn:latitude":62.61667,
+    "gn:longitude":27.13333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Suonenjoki",
     "gn:population":7568,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.11333,62.59667,27.15333,62.63667",
     "lbl:latitude":62.625358,
     "lbl:longitude":27.114447,
     "lbl:max_zoom":15.0,
@@ -177,7 +192,15 @@
         "wk:page":"Suonenjoki"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":992414
+        "gn:id":[
+            635692
+        ],
+        "qs_pg:id":[
+            992414
+        ],
+        "wk:page":[
+            "Suonenjoki"
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -197,7 +220,7 @@
         }
     ],
     "wof:id":101814335,
-    "wof:lastmodified":1690879826,
+    "wof:lastmodified":1706239528,
     "wof:name":"Suonenjoki",
     "wof:parent_id":907198847,
     "wof:placetype":"locality",
@@ -205,7 +228,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326711551
+    ],
     "wof:tags":[]
 },
   "bbox": [

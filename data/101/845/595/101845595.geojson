@@ -9,9 +9,12 @@
     "geom:bbox":"23.919446,66.761046,24.013126,66.82867",
     "geom:latitude":66.789243,
     "geom:longitude":23.974537,
+    "gn:country":"SE",
+    "gn:fcode":"PPL",
     "gn:id":"642367,603664",
     "gn:population":193,
     "iso:country":"FI",
+    "lbl:bbox":"23.9623,66.783,24.0023,66.823",
     "lbl:latitude":66.793566,
     "lbl:longitude":23.986957,
     "lbl:max_zoom":18.0,
@@ -21,7 +24,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
+        "Pello"
+    ],
+    "name:ces_x_preferred":[
         "Pello"
     ],
     "name:dan_x_preferred":[
@@ -33,6 +40,15 @@
     "name:eng_x_preferred":[
         "Pello"
     ],
+    "name:epo_x_preferred":[
+        "Pello"
+    ],
+    "name:est_x_preferred":[
+        "Pello vald"
+    ],
+    "name:eus_x_preferred":[
+        "Pello"
+    ],
     "name:fin_x_preferred":[
         "Pello"
     ],
@@ -42,7 +58,16 @@
     "name:gle_x_preferred":[
         "Pello"
     ],
+    "name:glg_x_preferred":[
+        "Pello"
+    ],
+    "name:hun_x_preferred":[
+        "Pello"
+    ],
     "name:ita_x_preferred":[
+        "Pello"
+    ],
+    "name:lat_x_preferred":[
         "Pello"
     ],
     "name:lld_x_preferred":[
@@ -60,7 +85,34 @@
     "name:nob_x_preferred":[
         "Pello"
     ],
+    "name:nor_x_preferred":[
+        "Pello"
+    ],
+    "name:pol_x_preferred":[
+        "Pello"
+    ],
+    "name:ron_x_preferred":[
+        "Pello"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043b\u043b\u043e"
+    ],
+    "name:sme_x_preferred":[
+        "Pello"
+    ],
+    "name:spa_x_preferred":[
+        "Pello"
+    ],
+    "name:sqi_x_preferred":[
+        "Pello"
+    ],
     "name:swe_x_preferred":[
+        "Pello"
+    ],
+    "name:tur_x_preferred":[
+        "Pello"
+    ],
+    "name:vie_x_preferred":[
         "Pello"
     ],
     "qs:a0":"Suomi#Finland",
@@ -75,10 +127,34 @@
     "qs:pop":0,
     "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-near-poly",
+    "qs_pg:aaroncc":"SE",
+    "qs_pg:gn_country":"SE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":603664,
+    "qs_pg:gn_pop":193,
+    "qs_pg:name":"Pello",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Lapin maakunta",
+    "qs_pg:photos":67,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":67,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1136280,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":571178,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Lapin maakunta",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -96,6 +172,17 @@
         "wd:id":"Q1993599",
         "wk:page":"Pello, \u00d6vertorne\u00e5"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            603664
+        ],
+        "gp:id":[
+            571178
+        ],
+        "qs_pg:id":[
+            1136280
+        ]
+    },
     "wof:country":"FI",
     "wof:geomhash":"587c2d1b4bebb65e3f8d9c2271d55860",
     "wof:hierarchy":[
@@ -111,7 +198,7 @@
         }
     ],
     "wof:id":101845595,
-    "wof:lastmodified":1690879719,
+    "wof:lastmodified":1706239530,
     "wof:name":"Pello",
     "wof:parent_id":907199553,
     "wof:placetype":"locality",
@@ -119,7 +206,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125923849
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,23 @@
     "geom:bbox":"26.65277,60.838169,26.794561,60.915535",
     "geom:latitude":60.870215,
     "geom:longitude":26.717951,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"286.0",
+    "gn:asciiname":"Kouvola",
+    "gn:country_code":"FI",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":650859,
+    "gn:latitude":60.86667,
+    "gn:longitude":26.7,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kouvola",
     "gn:population":31133,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"26.68,60.84667,26.72,60.88667",
     "lbl:latitude":60.866422,
     "lbl:longitude":26.716848,
     "lbl:max_zoom":14.0,
@@ -399,7 +414,15 @@
         "wk:page":"Kouvola"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1079083
+        "gn:id":[
+            650859
+        ],
+        "qs_pg:id":[
+            1079083
+        ],
+        "wk:page":[
+            "Kouvola"
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -419,7 +442,7 @@
         }
     ],
     "wof:id":101839165,
-    "wof:lastmodified":1690879857,
+    "wof:lastmodified":1706239530,
     "wof:name":"Kouvola",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",
@@ -427,7 +450,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326515603
+    ],
     "wof:tags":[]
 },
   "bbox": [

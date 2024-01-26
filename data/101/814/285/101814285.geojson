@@ -9,8 +9,23 @@
     "geom:bbox":"23.882596,63.881581,23.95581,63.923754",
     "geom:latitude":63.89977,
     "geom:longitude":23.923007,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"162.0",
+    "gn:admin3_code":"217.0",
+    "gn:asciiname":"Kannus",
+    "gn:country_code":"FI",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":654314,
+    "gn:latitude":63.9,
+    "gn:longitude":23.9,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kannus",
     "gn:population":5968,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.88,63.88,23.92,63.92",
     "lbl:latitude":63.897013,
     "lbl:longitude":23.926612,
     "lbl:max_zoom":15.0,
@@ -178,10 +193,16 @@
         "gn:id":630930,
         "gp:id":566757,
         "qs_pg:id":23289,
-        "wd:id":"Q984927"
+        "wd:id":"Q984927",
+        "wk:page":"Kannus"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":212105
+        "gn:id":[
+            654314
+        ],
+        "qs_pg:id":[
+            212105
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -201,7 +222,7 @@
         }
     ],
     "wof:id":101814285,
-    "wof:lastmodified":1690879835,
+    "wof:lastmodified":1706239528,
     "wof:name":"Kannus",
     "wof:parent_id":907198997,
     "wof:placetype":"locality",
@@ -209,7 +230,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1192990805
+    ],
     "wof:tags":[]
 },
   "bbox": [

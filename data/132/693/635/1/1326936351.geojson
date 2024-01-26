@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"22.13333,61.13333,22.13333,61.13333",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Eura"
@@ -108,7 +110,7 @@
         "wk:page":"Eura"
     },
     "wof:country":"FI",
-    "wof:geomhash":"e9e3f28438993cf0814b49facef305bf",
+    "wof:geomhash":"d83ae3aca41f82244ad897c90ba8a075",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,22 +124,24 @@
         }
     ],
     "wof:id":1326936351,
-    "wof:lastmodified":1566593900,
+    "wof:lastmodified":1706239530,
     "wof:name":"Eura",
     "wof:parent_id":907198915,
     "wof:placetype":"locality",
     "wof:population":9338,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101816179
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     22.13333,
-    61.13333000000001,
+    61.13333,
     22.13333,
-    61.13333000000001
+    61.13333
 ],
-  "geometry": {"coordinates":[22.13333,61.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.13333,61.13333],"type":"Point"}
 }

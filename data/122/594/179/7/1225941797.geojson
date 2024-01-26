@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"26.60755,60.84614,26.60755,60.84614",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Koria"
@@ -56,7 +58,7 @@
         "wk:page":"Koria"
     },
     "wof:country":"FI",
-    "wof:geomhash":"90d0c9a26e717b0bd5b26810460ea4e7",
+    "wof:geomhash":"28870268e2d82832dde64ff58e385ba5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,20 +72,22 @@
         }
     ],
     "wof:id":1225941797,
-    "wof:lastmodified":1566595795,
+    "wof:lastmodified":1706239529,
     "wof:name":"Koria",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101815423
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     26.60755,
-    60.84614000000001,
+    60.84614,
     26.60755,
-    60.84614000000001
+    60.84614
 ],
-  "geometry": {"coordinates":[26.60755,60.84614000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.60755,60.84614],"type":"Point"}
 }

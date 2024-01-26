@@ -9,8 +9,24 @@
     "geom:bbox":"22.962753,60.829533,23.095581,60.879704",
     "geom:latitude":60.854983,
     "geom:longitude":23.028726,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"430.0",
+    "gn:asciiname":"Loimaa",
+    "gn:cc2":"FI",
+    "gn:country_code":"FI",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":647731,
+    "gn:latitude":60.84972,
+    "gn:longitude":23.0561,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Loimaa",
     "gn:population":5816,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.0361,60.82972,23.0761,60.86972",
     "lbl:latitude":60.848741,
     "lbl:longitude":23.045643,
     "lbl:max_zoom":15.0,
@@ -110,6 +126,9 @@
     "name:nob_x_preferred":[
         "Loimaa"
     ],
+    "name:nor_x_preferred":[
+        "Loimaa"
+    ],
     "name:pol_x_preferred":[
         "Loimaa"
     ],
@@ -197,7 +216,15 @@
         "wk:page":"Loimaan kunta"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1248273
+        "gn:id":[
+            647731
+        ],
+        "qs_pg:id":[
+            1248273
+        ],
+        "wk:page":[
+            "Loimaa"
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -217,7 +244,7 @@
         }
     ],
     "wof:id":101815387,
-    "wof:lastmodified":1690879789,
+    "wof:lastmodified":1706239529,
     "wof:name":"Loimaa",
     "wof:parent_id":907198963,
     "wof:placetype":"locality",
@@ -225,7 +252,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259796745
+    ],
     "wof:tags":[]
 },
   "bbox": [

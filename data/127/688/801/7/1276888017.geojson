@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"23.98333,60.38333,23.98333,60.38333",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +48,7 @@
         "gn:id":637462
     },
     "wof:country":"FI",
-    "wof:geomhash":"6220d9c247bc2eed3e934fd1cd7e5b8c",
+    "wof:geomhash":"ad70a7cbda1be82df344a853e068fe5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,20 +62,22 @@
         }
     ],
     "wof:id":1276888017,
-    "wof:lastmodified":1566594609,
+    "wof:lastmodified":1706239529,
     "wof:name":"Saukkola",
     "wof:parent_id":907198655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101815283
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     23.98333,
-    60.38333000000001,
+    60.38333,
     23.98333,
-    60.38333000000001
+    60.38333
 ],
-  "geometry": {"coordinates":[23.98333,60.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.98333,60.38333],"type":"Point"}
 }

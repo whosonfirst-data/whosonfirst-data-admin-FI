@@ -9,8 +9,23 @@
     "geom:bbox":"22.869179,60.579816,22.916699,60.594789",
     "geom:latitude":60.586757,
     "geom:longitude":22.893903,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"480.0",
+    "gn:asciiname":"Marttila",
+    "gn:country_code":"FI",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":646511,
+    "gn:latitude":60.58333,
+    "gn:longitude":22.9,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Marttila",
     "gn:population":2125,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.88,60.56333,22.92,60.60333",
     "lbl:latitude":60.585451,
     "lbl:longitude":22.895883,
     "lbl:max_zoom":15.0,
@@ -183,7 +198,12 @@
         "wd:id":"Q678811"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1139835
+        "gn:id":[
+            646511
+        ],
+        "qs_pg:id":[
+            1139835
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -203,7 +223,7 @@
         }
     ],
     "wof:id":101846735,
-    "wof:lastmodified":1690879750,
+    "wof:lastmodified":1706239530,
     "wof:name":"Marttila",
     "wof:parent_id":907199259,
     "wof:placetype":"locality",
@@ -211,7 +231,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326839187
+    ],
     "wof:tags":[]
 },
   "bbox": [

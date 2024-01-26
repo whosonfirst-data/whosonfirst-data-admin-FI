@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"25.6,60.53333,25.6,60.53333",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Askola"
@@ -111,7 +113,7 @@
         "wk:page":"Askola"
     },
     "wof:country":"FI",
-    "wof:geomhash":"d392a565ae7726ca0ffc46a4ef03c5c8",
+    "wof:geomhash":"d7c5e5c767729fc0136167894afeb1ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,22 +127,24 @@
         }
     ],
     "wof:id":1326839843,
-    "wof:lastmodified":1566593949,
+    "wof:lastmodified":1706239529,
     "wof:name":"Askola",
     "wof:parent_id":907198543,
     "wof:placetype":"locality",
     "wof:population":4515,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101815251
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     25.6,
-    60.53333000000001,
+    60.53333,
     25.6,
-    60.53333000000001
+    60.53333
 ],
-  "geometry": {"coordinates":[25.6,60.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.6,60.53333],"type":"Point"}
 }

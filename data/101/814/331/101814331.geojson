@@ -9,8 +9,23 @@
     "geom:bbox":"28.470484,62.794287,28.515903,62.81841",
     "geom:latitude":62.808547,
     "geom:longitude":28.49643,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"113.0",
+    "gn:admin3_code":"857.0",
+    "gn:asciiname":"Tuusniemi",
+    "gn:country_code":"FI",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":633593,
+    "gn:latitude":62.81667,
+    "gn:longitude":28.5,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Tuusniemi",
     "gn:population":2833,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.48,62.79667,28.52,62.83667",
     "lbl:latitude":62.809234,
     "lbl:longitude":28.498322,
     "lbl:max_zoom":15.0,
@@ -156,7 +171,15 @@
         "wk:page":"Tuusniemi"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1329486
+        "gn:id":[
+            633593
+        ],
+        "qs_pg:id":[
+            1329486
+        ],
+        "wk:page":[
+            "Tuusniemi"
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -176,7 +199,7 @@
         }
     ],
     "wof:id":101814331,
-    "wof:lastmodified":1690879798,
+    "wof:lastmodified":1706239528,
     "wof:name":"Tuusniemi",
     "wof:parent_id":907199053,
     "wof:placetype":"locality",
@@ -184,7 +207,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225826449
+    ],
     "wof:tags":[]
 },
   "bbox": [

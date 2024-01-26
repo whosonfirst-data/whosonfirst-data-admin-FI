@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"26.7,60.86667,26.7,60.86667",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0641\u0648\u0644\u0627"
@@ -192,7 +194,7 @@
         "wk:page":"Kouvola"
     },
     "wof:country":"FI",
-    "wof:geomhash":"99bfa1a758c90a7b72ab6390f88e04a8",
+    "wof:geomhash":"97111fc9bd32e65b72e5269374a061c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,22 +208,24 @@
         }
     ],
     "wof:id":1326515603,
-    "wof:lastmodified":1566593891,
+    "wof:lastmodified":1706239530,
     "wof:name":"Kouvola",
     "wof:parent_id":907198969,
     "wof:placetype":"locality",
     "wof:population":31133,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-fi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101839165
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     26.7,
-    60.86666999999999,
+    60.86667,
     26.7,
-    60.86666999999999
+    60.86667
 ],
-  "geometry": {"coordinates":[26.7,60.86666999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.7,60.86667],"type":"Point"}
 }

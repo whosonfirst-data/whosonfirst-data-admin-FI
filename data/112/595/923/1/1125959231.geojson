@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"23.19531,61.63913,23.19531,61.63913",
@@ -19,7 +21,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
@@ -190,14 +192,16 @@
         }
     ],
     "wof:id":1125959231,
-    "wof:lastmodified":1690879870,
+    "wof:lastmodified":1706239527,
     "wof:name":"H\u00e4meenkyr\u00f6",
     "wof:parent_id":907199131,
     "wof:placetype":"locality",
     "wof:population":9996,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101814005
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

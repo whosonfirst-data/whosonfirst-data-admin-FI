@@ -9,8 +9,23 @@
     "geom:bbox":"22.100733,61.089814,22.225499,61.147126",
     "geom:latitude":61.121302,
     "geom:longitude":22.155117,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"50.0",
+    "gn:asciiname":"Eura",
+    "gn:country_code":"FI",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":660077,
+    "gn:latitude":61.13333,
+    "gn:longitude":22.13333,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Eura",
     "gn:population":9338,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"22.11333,61.11333,22.15333,61.15333",
     "lbl:latitude":61.127684,
     "lbl:longitude":22.15568,
     "lbl:max_zoom":15.0,
@@ -155,10 +170,16 @@
         "gn:id":660079,
         "gp:id":564635,
         "qs_pg:id":201266,
-        "wd:id":"Q999868"
+        "wd:id":"Q999868",
+        "wk:page":"Eura"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":502830
+        "gn:id":[
+            660077
+        ],
+        "qs_pg:id":[
+            502830
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -178,7 +199,7 @@
         }
     ],
     "wof:id":101816179,
-    "wof:lastmodified":1690879718,
+    "wof:lastmodified":1706239530,
     "wof:name":"Eura",
     "wof:parent_id":907198915,
     "wof:placetype":"locality",
@@ -186,7 +207,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326936351
+    ],
     "wof:tags":[]
 },
   "bbox": [
