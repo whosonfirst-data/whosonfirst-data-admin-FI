@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":648713
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            854936
+        ]
+    },
     "wof:country":"FI",
     "wof:geomhash":"77cc159c154b3cee9d9f9408ff7b4cb6",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1277077649,
-    "wof:lastmodified":1566594601,
+    "wof:lastmodified":1706239531,
     "wof:name":"Laukola",
     "wof:parent_id":907198981,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326638795
+    ],
     "wof:tags":[]
 },
   "bbox": [

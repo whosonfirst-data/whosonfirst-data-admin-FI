@@ -9,8 +9,23 @@
     "geom:bbox":"21.966764,61.349043,22.064473,61.386067",
     "geom:latitude":61.36687,
     "geom:longitude":22.014758,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"531.0",
+    "gn:asciiname":"Nakkila",
+    "gn:country_code":"FI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":645148,
+    "gn:latitude":61.36667,
+    "gn:longitude":22.0,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Nakkila",
     "gn:population":5792,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.98,61.34667,22.02,61.38667",
     "lbl:latitude":61.370884,
     "lbl:longitude":22.002615,
     "lbl:max_zoom":15.0,
@@ -159,7 +174,15 @@
         "wk:page":"Nakkila"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1115919
+        "gn:id":[
+            645148
+        ],
+        "qs_pg:id":[
+            1115919
+        ],
+        "wk:page":[
+            "Nakkila"
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -179,7 +202,7 @@
         }
     ],
     "wof:id":101815471,
-    "wof:lastmodified":1690879764,
+    "wof:lastmodified":1706239530,
     "wof:name":"Nakkila",
     "wof:parent_id":907198705,
     "wof:placetype":"locality",
@@ -187,7 +210,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276335577
+    ],
     "wof:tags":[]
 },
   "bbox": [

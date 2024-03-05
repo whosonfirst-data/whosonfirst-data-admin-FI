@@ -9,8 +9,23 @@
     "geom:bbox":"23.600953,61.432058,23.678477,61.475075",
     "geom:latitude":61.458316,
     "geom:longitude":23.63922,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"64.0",
+    "gn:admin3_code":"604.0",
+    "gn:asciiname":"Pirkkala",
+    "gn:country_code":"FI",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":641489,
+    "gn:latitude":61.46125,
+    "gn:longitude":23.63228,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Pirkkala",
     "gn:population":15615,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.61228,61.44125,23.65228,61.48125",
     "lbl:latitude":61.459092,
     "lbl:longitude":23.633527,
     "lbl:max_zoom":15.0,
@@ -195,10 +210,16 @@
         "gn:id":636695,
         "gp:id":571450,
         "qs_pg:id":1156452,
-        "wd:id":"Q853628"
+        "wd:id":"Q853628",
+        "wk:page":"Pirkkala"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1317345
+        "gn:id":[
+            641489
+        ],
+        "qs_pg:id":[
+            1317345
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -218,7 +239,7 @@
         }
     ],
     "wof:id":101758385,
-    "wof:lastmodified":1690879736,
+    "wof:lastmodified":1706239526,
     "wof:name":"Pirkkala",
     "wof:parent_id":907199281,
     "wof:placetype":"locality",
@@ -226,7 +247,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309799275
+    ],
     "wof:tags":[]
 },
   "bbox": [

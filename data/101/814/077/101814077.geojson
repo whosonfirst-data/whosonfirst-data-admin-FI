@@ -9,8 +9,23 @@
     "geom:bbox":"28.165298,61.517065,28.200042,61.539783",
     "geom:latitude":61.528425,
     "geom:longitude":28.180424,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"623.0",
+    "gn:asciiname":"Puumala",
+    "gn:country_code":"FI",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":638590,
+    "gn:latitude":61.52531,
+    "gn:longitude":28.17785,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Puumala",
     "gn:population":2693,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"28.15785,61.50531,28.19785,61.54531",
     "lbl:latitude":61.532883,
     "lbl:longitude":28.17437,
     "lbl:max_zoom":15.0,
@@ -170,6 +185,14 @@
         "wd:id":"Q1009610",
         "wk:page":"Puumala"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            638590
+        ],
+        "wk:page":[
+            "Puumala"
+        ]
+    },
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -188,7 +211,7 @@
         }
     ],
     "wof:id":101814077,
-    "wof:lastmodified":1690879807,
+    "wof:lastmodified":1706239528,
     "wof:name":"Puumala",
     "wof:parent_id":907198757,
     "wof:placetype":"locality",
@@ -196,7 +219,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293583179
+    ],
     "wof:tags":[]
 },
   "bbox": [

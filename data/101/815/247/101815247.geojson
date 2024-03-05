@@ -9,8 +9,23 @@
     "geom:bbox":"24.152058,60.511304,24.267981,60.547766",
     "geom:latitude":60.529848,
     "geom:longitude":24.212543,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"224.0",
+    "gn:asciiname":"Karkkila",
+    "gn:country_code":"FI",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":653960,
+    "gn:latitude":60.53418,
+    "gn:longitude":24.20977,
+    "gn:modification_date":"2015-05-14",
+    "gn:name":"Karkkila",
     "gn:population":8811,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.18977,60.51418,24.22977,60.55418",
     "lbl:latitude":60.535053,
     "lbl:longitude":24.222203,
     "lbl:max_zoom":15.0,
@@ -37,6 +52,9 @@
     ],
     "name:ceb_x_preferred":[
         "Karkkila"
+    ],
+    "name:dan_x_preferred":[
+        "H\u00f6gfors"
     ],
     "name:deu_x_preferred":[
         "Karkkila"
@@ -73,6 +91,9 @@
     ],
     "name:hun_x_preferred":[
         "Karkkila"
+    ],
+    "name:isl_x_preferred":[
+        "H\u00f6gfors"
     ],
     "name:ita_x_preferred":[
         "Karkkila"
@@ -191,7 +212,13 @@
         "gn:id":653962,
         "gp:id":566905,
         "qs_pg:id":993205,
-        "wd:id":"Q530309"
+        "wd:id":"Q530309",
+        "wk:page":"Karkkila"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            653960
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -211,7 +238,7 @@
         }
     ],
     "wof:id":101815247,
-    "wof:lastmodified":1690879780,
+    "wof:lastmodified":1706239529,
     "wof:name":"Karkkila",
     "wof:parent_id":907198539,
     "wof:placetype":"locality",
@@ -219,7 +246,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209008245
+    ],
     "wof:tags":[]
 },
   "bbox": [

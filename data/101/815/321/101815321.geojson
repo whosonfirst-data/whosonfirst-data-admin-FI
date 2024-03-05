@@ -9,8 +9,23 @@
     "geom:bbox":"21.680674,60.856774,21.747667,60.913796",
     "geom:latitude":60.879538,
     "geom:longitude":21.703101,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"400.0",
+    "gn:asciiname":"Laitila",
+    "gn:country_code":"FI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":649302,
+    "gn:latitude":60.87575,
+    "gn:longitude":21.69765,
+    "gn:modification_date":"2016-08-21",
+    "gn:name":"Laitila",
     "gn:population":8403,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"21.67765,60.85575,21.71765,60.89575",
     "lbl:latitude":60.88087,
     "lbl:longitude":21.702593,
     "lbl:max_zoom":15.0,
@@ -173,10 +188,16 @@
         "gn:id":659424,
         "gp:id":568650,
         "qs_pg:id":38422,
-        "wd:id":"Q807901"
+        "wd:id":"Q807901",
+        "wk:page":"Laitila"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":202553
+        "gn:id":[
+            649302
+        ],
+        "qs_pg:id":[
+            202553
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -196,7 +217,7 @@
         }
     ],
     "wof:id":101815321,
-    "wof:lastmodified":1690879789,
+    "wof:lastmodified":1706239529,
     "wof:name":"Laitila",
     "wof:parent_id":907198671,
     "wof:placetype":"locality",
@@ -204,7 +225,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326933571
+    ],
     "wof:tags":[]
 },
   "bbox": [

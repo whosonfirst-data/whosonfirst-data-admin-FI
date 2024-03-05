@@ -9,9 +9,22 @@
     "geom:bbox":"30.01667,61.78333,30.01667,61.78333",
     "geom:latitude":61.78333,
     "geom:longitude":30.01667,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Uukuniemi",
+    "gn:cc2":"RU",
     "gn:country":"FI",
+    "gn:country_code":"RU",
+    "gn:dem":84,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":479312,
+    "gn:latitude":61.78333,
+    "gn:longitude":30.01667,
+    "gn:modification_date":"2013-01-02",
+    "gn:name":"Uukuniemi",
     "gn:population":543,
+    "gn:timezone":"Europe/Moscow",
     "iso:country":"FI",
     "lbl:bbox":"29.99667,61.76333,30.03667,61.80333",
     "lbl:latitude":61.78333,
@@ -55,6 +68,9 @@
     "name:nob_x_preferred":[
         "Uukuniemi"
     ],
+    "name:nor_x_preferred":[
+        "Uukuniemi"
+    ],
     "name:ron_x_preferred":[
         "Uukuniemi"
     ],
@@ -78,6 +94,11 @@
     ],
     "name:swe_x_preferred":[
         "Uguniemi"
+    ],
+    "name:und_x_variant":[
+        "Ukuniemi",
+        "Uukun\u2019yemi",
+        "Ukuniyemi"
     ],
     "qs_pg:aaroncc":"FI",
     "qs_pg:gn_country":"FI",
@@ -108,6 +129,11 @@
         "qs_pg:id":369825,
         "wd:id":"Q2680634"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            479312
+        ]
+    },
     "wof:country":"FI",
     "wof:created":1497290206,
     "wof:geomhash":"296e0b18de75568b255ca38164196275",
@@ -124,7 +150,7 @@
         }
     ],
     "wof:id":1125774615,
-    "wof:lastmodified":1690879902,
+    "wof:lastmodified":1706239531,
     "wof:name":"Uukuniemi",
     "wof:parent_id":907198853,
     "wof:placetype":"locality",
@@ -132,7 +158,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242835701
+    ],
     "wof:tags":[]
 },
   "bbox": [

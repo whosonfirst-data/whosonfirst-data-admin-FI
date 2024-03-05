@@ -9,8 +9,24 @@
     "geom:bbox":"25.579763,60.512997,25.613534,60.538838",
     "geom:latitude":60.526076,
     "geom:longitude":25.595722,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"18.0",
+    "gn:asciiname":"Askola",
+    "gn:country_code":"FI",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":660927,
     "gn:id":"632801,660927",
+    "gn:latitude":60.53333,
+    "gn:longitude":25.6,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Askola",
+    "gn:population":4515,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.58,60.51333,25.62,60.55333",
     "lbl:latitude":60.5302,
     "lbl:longitude":25.595944,
     "lbl:max_zoom":18.0,
@@ -151,6 +167,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":266,
     "wof:belongsto":[
         85683067,
@@ -166,10 +183,16 @@
         "gn:id":847498,
         "gp:id":564308,
         "qs_pg:id":1,
-        "wd:id":"Q732159"
+        "wd:id":"Q732159",
+        "wk:page":"Askola"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1199346
+        "gn:id":[
+            660927
+        ],
+        "qs_pg:id":[
+            1199346
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -189,13 +212,17 @@
         }
     ],
     "wof:id":101815251,
-    "wof:lastmodified":1690879771,
+    "wof:lastmodified":1706239529,
     "wof:name":"Askola",
     "wof:parent_id":907198543,
     "wof:placetype":"locality",
+    "wof:population":4515,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326839843
+    ],
     "wof:tags":[]
 },
   "bbox": [

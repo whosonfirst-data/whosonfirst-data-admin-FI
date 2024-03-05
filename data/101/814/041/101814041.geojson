@@ -9,9 +9,22 @@
     "geom:bbox":"28.519437,60.957336,28.54969,60.966443",
     "geom:latitude":60.961173,
     "geom:longitude":28.536366,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Nuijamaa",
+    "gn:country_code":"RU",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":516673,
     "gn:id":"644307,516673",
+    "gn:latitude":60.96102,
+    "gn:longitude":28.54407,
+    "gn:modification_date":"2013-01-02",
+    "gn:name":"Nuijamaa",
     "gn:population":1199,
+    "gn:timezone":"Europe/Moscow",
     "iso:country":"FI",
+    "lbl:bbox":"28.52407,60.94102,28.56407,60.98102",
     "lbl:latitude":60.961502,
     "lbl:longitude":28.538658,
     "lbl:max_zoom":16.0,
@@ -57,6 +70,12 @@
     "name:nob_x_preferred":[
         "Nuijamaa"
     ],
+    "name:nor_x_preferred":[
+        "Nujama"
+    ],
+    "name:nor_x_variant":[
+        "Nuijamaa"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0443\u0439\u044f\u043c\u0430\u044f\u0440\u0432\u0438"
     ],
@@ -83,6 +102,10 @@
     ],
     "name:swe_x_variant":[
         "Nuijamaa"
+    ],
+    "name:und_x_variant":[
+        "Nuyyamo",
+        "Nuiyama"
     ],
     "name:zho_x_preferred":[
         "\u52aa\u4f0a\u4e9a\u739b"
@@ -122,6 +145,11 @@
         "qs_pg:id":1060313,
         "wd:id":"Q2004537"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            516673
+        ]
+    },
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -140,7 +168,7 @@
         }
     ],
     "wof:id":101814041,
-    "wof:lastmodified":1690879806,
+    "wof:lastmodified":1706239527,
     "wof:name":"Nuijamaa",
     "wof:parent_id":907198887,
     "wof:placetype":"locality",
@@ -148,7 +176,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310023123
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,11 @@
     "geom:bbox":"23.160931,61.625348,23.241216,61.685862",
     "geom:latitude":61.657665,
     "geom:longitude":23.19448,
+    "gn:country":"FI",
+    "gn:fcode":"PPLA3",
     "gn:population":9996,
     "iso:country":"FI",
+    "lbl:bbox":"23.17531,61.61913,23.21531,61.65913",
     "lbl:latitude":61.663826,
     "lbl:longitude":23.194412,
     "lbl:max_zoom":15.0,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "H\u00e4meenkyr\u00f6"
     ],
@@ -155,6 +159,17 @@
     "qs:pop":0,
     "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"FI",
+    "qs_pg:gn_country":"FI",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":659184,
+    "qs_pg:gn_pop":9996,
+    "qs_pg:name":"H\u00e4meenkyr\u00f6",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":276115,
+    "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -180,7 +195,15 @@
         "wk:page":"H\u00e4meenkyr\u00f6"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1327444
+        "gn:id":[
+            659184
+        ],
+        "qs_pg:id":[
+            276115
+        ],
+        "wd:id":[
+            "Q996656"
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -200,7 +223,7 @@
         }
     ],
     "wof:id":101814005,
-    "wof:lastmodified":1690879842,
+    "wof:lastmodified":1706239527,
     "wof:name":"H\u00e4meenkyr\u00f6",
     "wof:parent_id":907199131,
     "wof:placetype":"locality",
@@ -208,7 +231,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125959231
+    ],
     "wof:tags":[]
 },
   "bbox": [

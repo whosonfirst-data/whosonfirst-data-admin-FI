@@ -9,8 +9,23 @@
     "geom:bbox":"29.832124,62.744657,29.862594,62.776881",
     "geom:latitude":62.760503,
     "geom:longitude":29.846919,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"122.0",
+    "gn:admin3_code":"276.0",
+    "gn:asciiname":"Kontiolahti",
+    "gn:country_code":"FI",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":651659,
+    "gn:latitude":62.76023,
+    "gn:longitude":29.84711,
+    "gn:modification_date":"2015-03-12",
+    "gn:name":"Kontiolahti",
     "gn:population":12411,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"29.82711,62.74023,29.86711,62.78023",
     "lbl:latitude":62.75574,
     "lbl:longitude":29.849227,
     "lbl:max_zoom":15.0,
@@ -201,7 +216,15 @@
         "wk:page":"Kontiolahti"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":475922
+        "gn:id":[
+            651659
+        ],
+        "qs_pg:id":[
+            475922
+        ],
+        "wk:page":[
+            "Kontiolahti"
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -221,7 +244,7 @@
         }
     ],
     "wof:id":101814367,
-    "wof:lastmodified":1690879828,
+    "wof:lastmodified":1706239528,
     "wof:name":"Kontiolahti",
     "wof:parent_id":907199445,
     "wof:placetype":"locality",
@@ -229,7 +252,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193117377
+    ],
     "wof:tags":[]
 },
   "bbox": [

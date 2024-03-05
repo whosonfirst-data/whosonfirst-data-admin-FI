@@ -9,8 +9,23 @@
     "geom:bbox":"24.050681,61.967431,24.09923,61.993197",
     "geom:latitude":61.979668,
     "geom:longitude":24.074171,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"69.0",
+    "gn:admin3_code":"702.0",
+    "gn:asciiname":"Ruovesi",
+    "gn:country_code":"FI",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":638691,
+    "gn:latitude":61.98575,
+    "gn:longitude":24.05714,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Ruovesi",
     "gn:population":5314,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.03714,61.96575,24.07714,62.00575",
     "lbl:latitude":61.980623,
     "lbl:longitude":24.070493,
     "lbl:max_zoom":15.0,
@@ -155,10 +170,16 @@
         "gn:id":650443,
         "gp:id":572469,
         "qs_pg:id":467780,
-        "wd:id":"Q510636"
+        "wd:id":"Q510636",
+        "wk:page":"Ruovesi"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1223616
+        "gn:id":[
+            638691
+        ],
+        "qs_pg:id":[
+            1223616
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -178,7 +199,7 @@
         }
     ],
     "wof:id":101813989,
-    "wof:lastmodified":1690879854,
+    "wof:lastmodified":1706239527,
     "wof:name":"Ruovesi",
     "wof:parent_id":907199295,
     "wof:placetype":"locality",
@@ -186,7 +207,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243060423
+    ],
     "wof:tags":[]
 },
   "bbox": [

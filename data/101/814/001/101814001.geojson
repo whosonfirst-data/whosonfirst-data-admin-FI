@@ -9,8 +9,23 @@
     "geom:bbox":"24.331861,61.668386,24.374548,61.69836",
     "geom:latitude":61.68313,
     "geom:longitude":24.35529,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"64.0",
+    "gn:admin3_code":"562.0",
+    "gn:asciiname":"Orivesi",
+    "gn:country_code":"FI",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":643629,
+    "gn:latitude":61.67766,
+    "gn:longitude":24.3572,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Orivesi",
     "gn:population":8846,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.3372,61.65766,24.3772,61.69766",
     "lbl:latitude":61.681014,
     "lbl:longitude":24.358524,
     "lbl:max_zoom":15.0,
@@ -186,7 +201,15 @@
         "wk:page":"Orivesi"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":474326
+        "gn:id":[
+            643629
+        ],
+        "qs_pg:id":[
+            474326
+        ],
+        "wk:page":[
+            "Orivesi"
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -206,7 +229,7 @@
         }
     ],
     "wof:id":101814001,
-    "wof:lastmodified":1690879818,
+    "wof:lastmodified":1706239527,
     "wof:name":"Orivesi",
     "wof:parent_id":907199393,
     "wof:placetype":"locality",
@@ -214,7 +237,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326927959
+    ],
     "wof:tags":[]
 },
   "bbox": [

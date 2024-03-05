@@ -9,8 +9,23 @@
     "geom:bbox":"25.163946,64.823885,25.208918,64.847188",
     "geom:latitude":64.834737,
     "geom:longitude":25.188618,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"171.0",
+    "gn:admin3_code":"436.0",
+    "gn:asciiname":"Lumijoki",
+    "gn:country_code":"FI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":647471,
+    "gn:latitude":64.83744,
+    "gn:longitude":25.18607,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Lumijoki",
     "gn:population":1871,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.16607,64.81744,25.20607,64.85744",
     "lbl:latitude":64.834051,
     "lbl:longitude":25.192025,
     "lbl:max_zoom":16.0,
@@ -156,10 +171,16 @@
         "gn:id":647303,
         "gp:id":569258,
         "qs_pg:id":22462,
-        "wd:id":"Q992376"
+        "wd:id":"Q992376",
+        "wk:page":"Lumijoki"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1165990
+        "gn:id":[
+            647471
+        ],
+        "qs_pg:id":[
+            1165990
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -179,7 +200,7 @@
         }
     ],
     "wof:id":101847067,
-    "wof:lastmodified":1690879797,
+    "wof:lastmodified":1706239530,
     "wof:name":"Lumijoki",
     "wof:parent_id":907199537,
     "wof:placetype":"locality",
@@ -187,7 +208,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260051461
+    ],
     "wof:tags":[]
 },
   "bbox": [

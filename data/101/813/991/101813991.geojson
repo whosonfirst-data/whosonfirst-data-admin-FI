@@ -9,9 +9,24 @@
     "geom:bbox":"23.69429,61.858423,23.75801,61.897354",
     "geom:latitude":61.879923,
     "geom:longitude":23.726414,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"64.0",
+    "gn:admin3_code":"980.0",
+    "gn:asciiname":"Kuru",
+    "gn:country_code":"FI",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":650013,
     "gn:id":"650013,650014",
+    "gn:latitude":61.87825,
+    "gn:longitude":23.73217,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kuru",
     "gn:population":2701,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"23.71217,61.85825,23.75217,61.89825",
     "lbl:latitude":61.88027,
     "lbl:longitude":23.725931,
     "lbl:max_zoom":15.0,
@@ -21,11 +36,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0440\u0443"
+    ],
     "name:cat_x_preferred":[
         "Kuru"
     ],
     "name:ceb_x_preferred":[
         "Kuru"
+    ],
+    "name:ces_x_preferred":[
+        "Kuru"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u0440\u0443"
     ],
     "name:deu_x_preferred":[
         "Kuru"
@@ -48,6 +72,15 @@
     "name:gle_x_preferred":[
         "Kuru"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Kuru"
+    ],
+    "name:ind_x_preferred":[
+        "Kuru"
+    ],
     "name:ita_x_preferred":[
         "Kuru"
     ],
@@ -63,6 +96,12 @@
     "name:ron_x_preferred":[
         "Kuru"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0443"
+    ],
+    "name:slk_x_preferred":[
+        "Kuru"
+    ],
     "name:sme_x_preferred":[
         "Kuru"
     ],
@@ -75,10 +114,22 @@
     "name:spa_x_preferred":[
         "Kuru"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0440\u0443"
+    ],
     "name:swe_x_preferred":[
         "Kuru"
     ],
+    "name:tgl_x_preferred":[
+        "Kuru"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0440\u0443"
+    ],
     "name:vie_x_preferred":[
+        "Kuru"
+    ],
+    "name:vol_x_preferred":[
         "Kuru"
     ],
     "qs:a0":"Suomi#Finland",
@@ -118,6 +169,11 @@
         "wd:id":"Q1025732",
         "wk:page":"Kuru, Finland"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            650013
+        ]
+    },
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -136,7 +192,7 @@
         }
     ],
     "wof:id":101813991,
-    "wof:lastmodified":1690879850,
+    "wof:lastmodified":1706239527,
     "wof:name":"Kuru",
     "wof:parent_id":907199275,
     "wof:placetype":"locality",
@@ -144,7 +200,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1210014113
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"25.18607,64.83744,25.18607,64.83744",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lumijoki"
@@ -134,14 +136,16 @@
         }
     ],
     "wof:id":1260051461,
-    "wof:lastmodified":1566594913,
+    "wof:lastmodified":1706239530,
     "wof:name":"Lumijoki",
     "wof:parent_id":907199537,
     "wof:placetype":"locality",
     "wof:population":1871,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-fi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101847067
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

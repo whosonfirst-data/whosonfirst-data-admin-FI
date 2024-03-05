@@ -9,8 +9,24 @@
     "geom:bbox":"27.636537,62.439076,27.675774,62.461361",
     "geom:latitude":62.449898,
     "geom:longitude":27.659424,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"114.0",
+    "gn:admin3_code":"420.0",
+    "gn:asciiname":"Sorsakoski",
+    "gn:country_code":"FI",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":636226,
     "gn:id":"636226,636227",
+    "gn:latitude":62.45,
+    "gn:longitude":27.66667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Sorsakoski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"27.64667,62.43,27.68667,62.47",
     "lbl:latitude":62.449057,
     "lbl:longitude":27.659721,
     "lbl:max_zoom":18.0,
@@ -115,6 +131,11 @@
         "qs_pg:id":211670,
         "wd:id":"Q1364561"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            636226
+        ]
+    },
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -133,13 +154,15 @@
         }
     ],
     "wof:id":101814339,
-    "wof:lastmodified":1690879802,
+    "wof:lastmodified":1706239528,
     "wof:name":"Sorsakoski",
     "wof:parent_id":907198899,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226123651
+    ],
     "wof:tags":[]
 },
   "bbox": [

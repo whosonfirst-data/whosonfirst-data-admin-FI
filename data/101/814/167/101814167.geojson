@@ -9,8 +9,24 @@
     "geom:bbox":"24.956045,63.355365,24.995636,63.372083",
     "geom:latitude":63.36478,
     "geom:longitude":24.975065,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"138.0",
+    "gn:admin3_code":"256.0",
+    "gn:asciiname":"Kinnula",
+    "gn:country_code":"FI",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":652737,
     "gn:id":"652736,652737",
+    "gn:latitude":63.36667,
+    "gn:longitude":24.96667,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Kinnula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"24.94667,63.34667,24.98667,63.38667",
     "lbl:latitude":63.365212,
     "lbl:longitude":24.973416,
     "lbl:max_zoom":18.0,
@@ -147,6 +163,11 @@
         "qs_pg:id":1186829,
         "wd:id":"Q999255"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            652737
+        ]
+    },
     "wof:country":"FI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -165,13 +186,15 @@
         }
     ],
     "wof:id":101814167,
-    "wof:lastmodified":1690879803,
+    "wof:lastmodified":1706239528,
     "wof:name":"Kinnula",
     "wof:parent_id":907199139,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277153445
+    ],
     "wof:tags":[]
 },
   "bbox": [

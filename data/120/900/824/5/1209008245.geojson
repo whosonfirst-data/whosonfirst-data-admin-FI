@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"24.20977,60.53418,24.20977,60.53418",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0643\u064a\u0644\u0627"
@@ -141,7 +143,7 @@
         "wk:page":"Karkkila"
     },
     "wof:country":"FI",
-    "wof:geomhash":"a41365b2ef3270365e2cc87ca8d759ec",
+    "wof:geomhash":"e6d7e2682b24a93b7ac466dcce67846f",
     "wof:hierarchy":[
         {
             "country_id":85633143,
@@ -149,22 +151,24 @@
         }
     ],
     "wof:id":1209008245,
-    "wof:lastmodified":1566594727,
+    "wof:lastmodified":1706239529,
     "wof:name":"Karkkila",
     "wof:parent_id":85633143,
     "wof:placetype":"locality",
     "wof:population":8811,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101815247
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     24.20977,
-    60.53418000000001,
+    60.53418,
     24.20977,
-    60.53418000000001
+    60.53418
 ],
-  "geometry": {"coordinates":[24.20977,60.53418000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.20977,60.53418],"type":"Point"}
 }

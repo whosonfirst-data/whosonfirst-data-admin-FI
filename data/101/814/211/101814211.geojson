@@ -9,8 +9,23 @@
     "geom:bbox":"25.527994,62.008474,25.591602,62.032099",
     "geom:latitude":62.019046,
     "geom:longitude":25.560209,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"131.0",
+    "gn:admin3_code":"179.0",
+    "gn:asciiname":"Korpilahti",
+    "gn:country_code":"FI",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":651350,
+    "gn:latitude":62.01667,
+    "gn:longitude":25.55,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Korpilahti",
     "gn:population":5050,
+    "gn:timezone":"Europe/Helsinki",
     "iso:country":"FI",
+    "lbl:bbox":"25.53,61.99667,25.57,62.03667",
     "lbl:latitude":62.015803,
     "lbl:longitude":25.551776,
     "lbl:max_zoom":15.0,
@@ -144,7 +159,15 @@
         "wk:page":"Korpilahti"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":992398
+        "gn:id":[
+            651350
+        ],
+        "qs_pg:id":[
+            992398
+        ],
+        "wk:page":[
+            "Korpilahti"
+        ]
     },
     "wof:country":"FI",
     "wof:geom_alt":[
@@ -164,7 +187,7 @@
         }
     ],
     "wof:id":101814211,
-    "wof:lastmodified":1690879804,
+    "wof:lastmodified":1706239528,
     "wof:name":"Korpilahti",
     "wof:parent_id":907199265,
     "wof:placetype":"locality",
@@ -172,7 +195,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293268585
+    ],
     "wof:tags":[]
 },
   "bbox": [
